@@ -1,57 +1,55 @@
-1.	What school of magic have you been
-	studying the most?
-a.	Destruction
+1.	Какую школу магии вы изучали лучше всего?
+a.	Разрушения
 	#4156
 	22 +6
-b.	Restoration
+b.	Восстановления
 	#4157
 	23 +6
-c.	Illusion
+c.	Иллюзии
 	#4158
 	24 +6
-d.	Alteration
+d.	Изменения
 	#4159
 	25 +6
-e.	Thaumaturgy
+e.	Тауматургии
 	#4160
 	26 +6
-f.	Mysticism
+f.	Мистицизма
 	#4161
 	27 +6
 
-2.	As a child, your nickname was ___.
-a.	Rabbit
+2.	В детстве вашим прозвищем было ___.
+a.	Кролик
 	#4450
 	3 +6
-b.	Quicksilver
+b.	Живчик
 	#4451
 	21 +6
-c.	Scrapper
+c.	Задира
 	#4452
 	30 +6
-d.	Monkey
+d.	Обезьяна
 	#4453
 	18 +6
 
-3.	You have a certain degree of training
-	with ___.
-a.	Short-bladed weapons
+3.	Вы достигли высот во владении следующим типом вооружения - ___.
+a.	короткие клинки
 	#4454
 	28 +6
 	IT 3 0 3
-b.	Hand-to-hand combat
+b.	рукопашный бой
 	#4455
 	30 +6
 	IT 2 1 0
-c.	Axe fighting
+c.	топоры и секиры
 	#4456
 	31 +6
 	IT 3 14 0
-d.	Blunt weapons
+d.	тупое оружие
 	#4457
 	32 +6
 	IT 3 2 0
-e.	Archery
+e.	стрельба из лука
 	#4458
 	33 +6
 	IT 3 16 1
@@ -61,167 +59,163 @@ e.	Archery
 	IT 3 18 1
 	IT 3 18 1
 	IT 3 18 1
-f.	Longblade
+f.	мечи
 	#4459
 	29 +6
 	IT 3 9 0
 
-4.	Whenever you had a chance growing up
-	you liked to spend time ___.
-a.	socializing with aristocrats
+4.	Когда вы получали шанс поднять поднять свой уровень образованности, вы ___.
+a.	общались с аристократами
 	#4223
 	1 +6
 	r3 +5
 	r0 -5
-b.	learning streetsmarts
+b.	изучение жизнь улиц
 	#4224
 	2 +6
 	r0 +2
 	r4 +3
 	r3 -5
-c.	practicing acrobatics
+c.	практиковались в акробатике
 	#4225
 	3 +2
 	20 +2
 	18 +2
-d.	learning economics
+d.	изучали экономику
 	#4226
 	14 +6
-e.	swimming
+e.	плавали
 	#4228
 	17 +6
-f.	sparring
+f.	проводили спарринги
 	#4229
 	34 +6
 
-5.	What thieving skill have you been studying
-	the longest?
-a.	Dodging
+5.	Какой из воровских навыков вы изучали дольше всего?
+a.	уворачивание
 	20 +6
-b.	Stealth
+b.	скрытность
 	16 +6
-c.	Backstabbing
+c.	удар в спину
 	19 +6
-d.	Lockpicking
+d.	взлом
 	13 +6
-e.	Pickpocketing
+e.	карманничество
 	15 +6
-f.	Climbing
+f.	скалолазание
 	18 +6
-g.	Critical-Striking
+g.	критические удары
 	34 +6
-h.	Running
+h.	бег
 	21 +6
-i.	Jumping
+i.	прыжки
 	3 +6
 
-6.	Given your choice of reward, you would
-	choose ___.
-a.	Over 200 gold pieces
+6.	Из предложенного вознаграждения вы бы выбрали ___.
+a.	свыше 200 золотых монет
 	#4528
 	GP +250
-b.	An ebony dagger
+b.	эбеновый кинжал
 	#4529
 	IT 3 0 7
-c.	A book
+c.	книгу
 	#4530
 	IT 7 0 0
-d.	A ruby
+d.	рубин
 	#4531
 	IT 14 0 0
-e.	A silver staff
+e.	серебряный посох
 	#4532
 	IT 3 2 2
-f.	An amulet
+f.	амулет
 	#4192
 	IT 25 0 0
 
-7.	What motivates you into a life of
-	adventure?
-a.	Riches
+7.	Ради чего вы ищете приключения?
+a.	богатства
 	GP +500
-b.	Fame
+b.	слава
 	r4 +10
 	r2 +10
-c.	Knowledge
+c.	знания
 	IT 7 0 0
-d.	Fun
+d.	веселое времяпровождение
 	1 +3
 	2 +3
-e.	Helping Others
+e.	помощи другим
 	r0 +10
 
-8.	What god, if any, do you worship?
-a.	None
+8.	Какому богу вы поклоняетесь?
+a.	нет такого
 	r2 +5
-b.	Arkay, Birth and Death God
+b.	Аркаю, богу жизни и смерти
 	rf82 +5
-c.	Zenithar, God of Commerce
+c.	Зенитару, богу коммерции
 	rf84 +5
-d.	Mara, the Mother Goddess
+d.	Маре, богине-матери
 	rf88 +5
-e.	Dibella, Goddess of Beauty
+e.	Дибелле, богине красоты
 	rf98 +5
-f.	Julianos, God of Logic
+f.	Джулианосу, богу логики
 	rf94 +5
-g.	Akatosh, God of Time
+g.	Акатошу, богу времени
 	rf92 +5
-h.	Stendarr, God of Mercy
+h.	Стендарру, богу милосердия
 	rf106 +5
-i.	Kynareth, Goddess of Air
+i.	Кинарет, богине воздуха
 	rf36 +5
 
-9.	You have the most trouble ___.
-a.	Resisting poisons
+9.	Вам труднее всего ___.
+a.	сопротивляться ядам
 	RP -10
-b.	Staying awake and alert
+b.	стоять на посту
 	FT -5
-c.	Getting along with others
+c.	быть в толпе
 	RR -5
-d.	Avoiding diseases
+d.	избегать болезней
 	RD -5
-e.	Resisting magic
+e.	сопротивляться магии
 	MR -5
-f.	Fighting without magic
+f.	сражаться без магии
 	TH -5
 
-10.	Since childhood, you have saved  ___.
-a.	100 gold pieces
+10.	С детства вы сохранили ___.
+a.	100 золотых монет
 	GP +100
-b.	An interesting book
+b.	интересную книгу
 	IT 7 0 0
-c.	A cuirass
+c.	кирасу
 	IT 2 0 0
-d.	A buckler
+d.	щит
 	IT 2 7 1
 
-11.	You are friendlier than most with ___.
-a.	the savage Harpies
+11.	Больше всего вы дружелюбны с ___.
+a.	дикими гарпиями
 	5 +6
-b.	the simple Giants
+b.	простодушными великанами
 	6 +6
-c.	the glorious Dragons
+c.	блистательными драконами
 	7 +6
-d.	the immodest Nymphs
+d.	развязными нимфами
 	8 +6
-e.	the infernal Daedra
+e.	жестокими даэдрами
 	9 +6
-f.	the bucolic Spriggans
+f.	пасторальными древолюдьми
 	10 +6
-g.	the primitive Centaurs
+g.	первобытными кентаврами
 	11 +6
-h.	the mischevious Imps
+h.	вредными бесами
 	12 +6
 
-12.	You are intimate friends with ___.
-a.	a Monk
+12.	Вашим близким другом был ___.
+a.	монах
 	AF O 8 12 +1
-b.	a Mage
+b.	маг
 	AF O 8 2 +1
-c.	a Rogue
+c.	жулик
 	AF O 8 8 +1
-d.	a Warrior
+d.	воин
 	AF O 8 17 +1
-e.	an Assassin
+e.	ассассин
 	AF O 8 11 +1
-
+
