@@ -1,873 +1,873 @@
 ﻿Key,Value
-about_internal_strings,This string table collection stores text that was hard-coded in FALL.EXE and text unique to Daggerfall Unity.
-pleaseSelectYourHomeProvince,Please select your home province...
-saveGame,Save Game
-loadGame,Load Game
-thingJustDied,%s just died.
-gameSaved,Game saved.
-gameLoaded,Game loaded.
-thisHouseHasNothingOfValue,This house has nothing of value.
-findLocationPrompt,Enter name of place : 
-rightHandEquipped,Right hand equipped.
-leftHandEquipped,Left hand equipped.
-usingRightHand,Using weapon in right hand.
-usingLeftHand,Using weapon in left hand.
-itemHasBroken,%s has broken.
-itemHasBrokenPlural,%s have broken.
-cannotCarryGold,You cannot carry that much gold.
-cannotFloat,You are carrying too much to stay afloat.
-youHaveNoArrows,You have no arrows.
-oldSaveNoTrade,"Old indoor save loaded, trade window will not work please exit and re-enter building."
-theBodyHasNoTreasure,The body has no treasure.
-youAreTooFarAway,You are too far away...
-youSeeAn,You see an %s.
-youSeeA,You see a %s.
-youSeeADeadPerson,You see a dead person.
-youSeeADead,You see a dead %s.
-youCollectArrows,You pluck your arrows out of the corpse.
-loiterHowManyHours,Loiter how many hours : 
-restHowManyHours,Rest how many hours : 
-potionRecipeFor,Recipe for Potion of %po
-potionOf,Potion of %po
-letterPrefix,Letter: 
-multipleAssignments,You have multiple assignments...
-youAreEntering,You are entering %s
-storeClosed,Store is closed. Open from %d1:00 to %d2:00.
-guildClosed,Guild is closed. Open from %d1:00 to %d2:00.
-any,Any %s
-arkayDesc,God of Birth and Death
-zenDesc,God of Work and Commerce
-maraDesc,Goddess of Love
-akatoshDesc,God of Time
-julianosDesc,God of Logic
-dibellaDesc,Goddess of Beauty
-stendarDesc,God of Mercy
-kynarethDesc,Goddess of Air
-interactionIsNowInMode,Interaction is now in %s mode.
-steal,steal
-grab,grab
-info,info
-dialogue,dialogue
-residence,Residence
-youSee,You see %s.
-theNamedResidence,The %s Residence
-playerResidence,%s's house
-materialIneffective,The material of the weapon you are using is ineffective.
-successfulBackstab,Successful backstab!
-languagePacified,Pacified %e using %s skill.
-lockpickingSuccess,The lock clicks open.
-lockpickingFailure,It does not unlock.
-magicLock,This is a magically held lock...
-lockpickChance1,This lock has nothing to fear from you...
-lockpickChance2,It'd be a miracle if you picked this lock...
-lockpickChance3,This lock looks to be beyond your skills...
-buildingNames,"Temple of Akatosh
-Temple of Arkay
-Temple of Dibella
-Temple of Julianos
-Temple of Kynareth
-Temple of Mara
-Temple of Stendarr
-Temple of Zen
-Order of the Raven
-Knights of the Dragon
-Knights of the Owl
-Order of the Candle
-Knights of the Flame
-Host of the Horn
-Knights of the Rose
-Knights of the Wheel
-Order of the Scarab
-Knights of the Hawk
-Mages Guild
-Fighters Guild
-Tavern
-Library
-Weapon Smith
-Armorer
-Alchemist
-Bank
-Bookstore
-Clothing store
-Gem store
-Pawn shop"
-lockpickChance,"You doubt your ability to open this lock...
-This lock looks difficult...
-You would be challenged by this lock...
-This lock would prove a good challenge...
-You think you should be able to pick this lock...
-This lock seems relatively easy...
-You are amused by this lock...
-You laugh at the amateur quality of this lock...
-You see a pathetic excuse for a lock...
-This lock is an insult to your abilities..."
-youPinchedGoldPiece,You pinched 1 gold piece.
-youPinchedGoldPieces,You pinched %d gold pieces.
-youAreNotSuccessful,You are not successful...
-daysUntilFreedom,%d days until freedom.
-skillImprove,Your %s skill has improved.
-mustDistributeBonusPoints,You must distribute all bonus points.
-enterNewName,Enter new name : 
-affiliation,Affiliation
-rank,Rank
-serviceQuests,Get Quest
-serviceSell,Sell
-serviceBanking,Banking
-serviceIdentify,Identify
-serviceBuySpells,Buy Spells
-serviceTraining,Training
-serviceTeleport,Teleportation
-serviceMakeSpells,Make Spells
-serviceBuyMagicItems,Buy Magic Items
-serviceSellMagicItems,Sell Magic Items
-serviceDaedraSummon,Daedra Summoning
-serviceMakeMagicItems,Make Magic Items
-serviceRepairs,Repairs
-serviceDonate,Make Donation
-serviceCure,Cure Disease
-serviceSpymaster,Spymaster
-serviceMakePotions,Make Potions
-serviceBuyPotions,Buy Potions
-serviceBuySoulgems,Buy Soulgems
-serviceReceiveArmor,Receive Armor
-serviceReceiveHouse,Receive House
-serviceReceiveHouseAlready,You have already received your house.
-accessMembersOnly,You need to be a member of sufficient rank to access this.
-serviceCured,You are cured.
+about_internal_strings,"В этой таблице строк хранится текст, который был жёстко закодирован в FALL.EXE и текст, уникальный для Daggerfall Unity."
+pleaseSelectYourHomeProvince,"Пожалуйста, выбери свою родную провинцию..."
+saveGame,Сохранить игру
+loadGame,Загрузить игру
+thingJustDied,%s только что умер.
+gameSaved,Игра сохранена.
+gameLoaded,Игра загружена.
+thisHouseHasNothingOfValue,В этом доме нет ничего ценного.
+findLocationPrompt,Введите название места: 
+rightHandEquipped,Правая рука экипирована.
+leftHandEquipped,Левая рука экипирована.
+usingRightHand,Используется оружие в правой руке.
+usingLeftHand,Используется оружие в левой руке.
+itemHasBroken,%s сломано.
+itemHasBrokenPlural,%s сломаны.
+cannotCarryGold,Ты не можешь унести столько золота.
+cannotFloat,"Ты несёшь слишком много, чтобы удержаться на плаву."
+youHaveNoArrows,У тебя нет стрел.
+oldSaveNoTrade,"Загружено старое сохранение в помещении, окно торговли не будет работать, пожалуйста, выйди и снова войди в здание."
+theBodyHasNoTreasure,Сокровищ нет.
+youAreTooFarAway,Ты слишком далеко...
+youSeeAn,Это %s.
+youSeeA,Это %s.
+youSeeADeadPerson,Это мёртвый человек.
+youSeeADead,Ты видишь мёртвый %s.
+youCollectArrows,Ты выдёргиваешь свои стрелы из трупа.
+loiterHowManyHours,Сколько часов бездельничать: 
+restHowManyHours,Сколько часов отдыхать: 
+potionRecipeFor,Рецепт Зелья %po
+potionOf,Зелье %po
+letterPrefix,Письмо: 
+multipleAssignments,У тебя несколько заданий...
+youAreEntering,Теперь вы в %s
+storeClosed,Магазин закрыт. Часы работы с %d1:00 до %d2:00.
+guildClosed,Гильдия закрыта. Часы работы с %d1:00 до %d2:00.
+any,любой %s
+arkayDesc,Бог Рождения и Смерти
+zenDesc,Бог Труда и Торговли
+maraDesc,Богиня Любви
+akatoshDesc,Бог Времени
+julianosDesc,Бог Логики
+dibellaDesc,Богиня Красоты
+stendarDesc,Бог Милосердия
+kynarethDesc,Богиня Воздуха
+interactionIsNowInMode,Режим взаимодействия - %s.
+steal,кража
+grab,взять
+info,информация
+dialogue,разговор
+residence,Резиденция
+youSee,Это %s.
+theNamedResidence,Место жительства %s
+playerResidence,Дом %s
+materialIneffective,"Материал оружия неэффективен."
+successfulBackstab,Успешный удар в спину!
+languagePacified,"Усмирил %e, используя навык %s."
+lockpickingSuccess,Замок со щелчком открывается.
+lockpickingFailure,Не разблокируется.
+magicLock,Это магический замок...
+lockpickChance1,Этому замку нечего тебя бояться...
+lockpickChance2,"Было бы чудом, если бы ты взломал этот замок..."
+lockpickChance3,"Этот замок, похоже, за пределами твоих навыков..."
+buildingNames,"Храм Акатоша
+Храм Аркея
+Храм Дибеллы
+Храм Джулианоса
+Храм Кинарет
+Храм Мары
+Храм Стендарра
+Храм Зен
+Орден Ворона
+Рыцари Дракона
+Рыцари Совы
+Орден Свечи
+Рыцари Пламени
+Воинство Горна
+Рыцари Розы
+Рыцари Колеса
+Орден Скарабея
+Рыцари Ястреба
+Гильдия Магов
+Гильдия Воинов
+Таверна
+Библиотека
+Кузнец
+Оружейник
+Алхимик
+Банк
+Книжный магазин
+Магазин одежды
+Ювелирный магазин
+Ломбард"
+lockpickChance,"Ты сомневаешься в своей способности открыть этот замок...
+Этот замок выглядит сложным...
+Этот замок бросил бы тебе вызов...
+Этот замок оказался бы хорошим испытанием...
+Ты думаешь, что сможешь взломать этот замок...
+Этот замок кажется относительно простым...
+Тебя забавляет этот замок...
+Ты смеёшься над качеством этого замка...
+Ты видишь жалкое подобие замка...
+Этот замок - оскорбление твоих способностей..."
+youPinchedGoldPiece,Ты стащил 1 золотую монету.
+youPinchedGoldPieces,Ты стащил %d золотых монет.
+youAreNotSuccessful,Вы не добились успеха...
+daysUntilFreedom,%d дней до свободы.
+skillImprove,Твой навык %s улучшился.
+mustDistributeBonusPoints,Ты должен распределить все бонусные очки.
+enterNewName,Введи новое имя: 
+affiliation,Организации
+rank,Ранг
+serviceQuests,Получить Задание
+serviceSell,Продать
+serviceBanking,Банковские услуги
+serviceIdentify,Идентифицировать
+serviceBuySpells,Купить Заклинания
+serviceTraining,Обучение
+serviceTeleport,Телепортация
+serviceMakeSpells,Создать заклинания
+serviceBuyMagicItems,Купить Магические Предметы
+serviceSellMagicItems,Продать Магические Предметы
+serviceDaedraSummon,Вызов даэдра
+serviceMakeMagicItems,Изготовление магических предметов
+serviceRepairs,Ремонт
+serviceDonate,Сделать пожертвование
+serviceCure,Вылечить болезнь
+serviceSpymaster,Шпионаж
+serviceMakePotions,Изготовление зелий
+serviceBuyPotions,Купить Зелья
+serviceBuySoulgems,Купить Камни Душ
+serviceReceiveArmor,Получить броню
+serviceReceiveHouse,Получить дом
+serviceReceiveHouseAlready,Ты уже получил свой дом.
+accessMembersOnly,"Чтобы получить доступ, необходимо иметь достаточный ранг."
+serviceCured,Ты вылечился.
 serviceSummonCost1,"%pcn, the cost for me to attempt a"
 serviceSummonCost2,summoning of %dae is 
 serviceSummonCost3, gold.
-roomFreeForKnightSuchAsYou,The room is free for a knight such as you.
-roomFreeDueToHeartsDay,Room is free due to Heart's Day.
-youAreNotHungry,You are not hungry.
-exhaustedInWater,Fatigue overcomes you and sends you to a watery grave....
-youFeelSomewhatBad,You feel somewhat bad.
-avoidDeath,"By the mercy of Stendarr, you survive certain death!"
-pronounHe,he
-pronounShe,she
-pronounHim,him
-pronounHer,her
-pronounHis,his
-pronounHers,hers
-pronounHimself,himself
-pronounHerself,herself
-city,city
-village,village
-hamlet,hamlet
-farm,farm
-shack,shack
-manor,manor
-community,community
-shrine,shrine
-King,King
-Queen,Queen
-Duke,Duke
-Duchess,Duchess
-Marquis,Marquis
-Marquise,Marquise
-Count,Count
-Countess,Countess
-Baron,Baron
-Baroness,Baroness
-Lord,Lord
-Lady,Lady
-revered,revered
-esteemed,esteemed
-honored,honored
-admired,admired
-respected,respected
-dependable,dependable
-aCommonCitizen,a common citizen
-hated,hated
-pondScum,pond scum
-aVillain,a villain
-aCriminal,a criminal
-aScoundrel,a scoundrel
-undependable,undependable
+roomFreeForKnightSuchAsYou,"Комната бесплатна для такого рыцаря, как ты."
+roomFreeDueToHeartsDay,Комната бесплатна в связи с Днём сердца.
+youAreNotHungry,Ты не голоден.
+exhaustedInWater,Усталость одолевает тебя и отправляет в водяную могилу...
+youFeelSomewhatBad,У тебя плохое самочувствие
+avoidDeath,"По милости Стендарра, ты пережил верную смерть!"
+pronounHe,он
+pronounShe,она
+pronounHim,ему
+pronounHer,ей
+pronounHis,его
+pronounHers,её
+pronounHimself,сам
+pronounHerself,сама
+city,город
+village,деревня
+hamlet,деревушка
+farm,ферма
+shack,хижина
+manor,поместье
+community,община
+shrine,святилище
+King,Король
+Queen,Королева
+Duke,Герцог
+Duchess,Герцогиня
+Marquis,Маркиз
+Marquise,Маркиза
+Count,Граф
+Countess,Графиня
+Baron,Барон
+Baroness,Баронесса
+Lord,Лорд
+Lady,Леди
+revered,почтенный
+esteemed,почётный
+honored,заслуженный
+admired,восхитительный
+respected,уважаемый
+dependable,надёжный
+aCommonCitizen,обычный гражданин
+hated,ненавистный
+pondScum,мразь
+aVillain,злодей
+aCriminal,преступник
+aScoundrel,негодяй
+undependable,ненадёжный
 unknown,unknown
-Broken,Broken
-Useless,Useless
-Battered,Battered
-Worn,Worn
-Used,Used
-SlightlyUsed,Slightly Used
-AlmostNew,Almost New
-New,New
-Nothing,Nothing
-local,local
-tavern,tavern
-Attempted_Breaking_And_Entering,Attempted Breaking and Entering
-Trespassing,Trespassing
-Breaking_And_Entering,Breaking and Entering
-Assault,Assault
-Murder,Murder
-Tax_Evasion,Tax Evasion
-Criminal_Conspiracy,Criminal Conspiracy
-Vagrancy,Vagrancy
-Smuggling,Smuggling
-Piracy,Piracy
-High_Treason,High Treason
-Pickpocketing,Pickpocketing
-Theft,Theft
-Treason,Treason
-Loan_Default,Loan Default
-Regular_Punishment_String,%gtp gold pieces in fines and %dip days in prison
-Banishment,Banishment
-Execution,Execution
-cannotChangeTransportationIndoors,You cannot change transportation indoors.
-cannotTravelWithEnemiesNearby,You cannot travel with enemies nearby.
-cannotTravelIndoors,You cannot travel while indoors.
+Broken,Сломанный
+Useless,Бесполезный
+Battered,Потрёпанный
+Worn,Изношенный
+Used,Поношенный
+SlightlyUsed,Слегка поношенный
+AlmostNew,Почти Новый
+New,Новый
+Nothing,Ничего
+local,местный
+tavern,таверна
+Attempted_Breaking_And_Entering,Попытка взлома и проникновения
+Trespassing,Незаконное проникновение
+Breaking_And_Entering,Взлом и проникновение
+Assault,Налёт
+Murder,Убийство
+Tax_Evasion,Уклонение от уплаты налогов
+Criminal_Conspiracy,Преступный сговор
+Vagrancy,Бродяжничество
+Smuggling,Контрабанда
+Piracy,Пиратство
+High_Treason,Государственная измена
+Pickpocketing,Карманная кража
+Theft,Кража
+Treason,Предательство
+Loan_Default,Просрочка по заёму
+Regular_Punishment_String,штраф %gtp золотых и %dip дней в тюрьме
+Banishment,Изгнание
+Execution,Казнь
+cannotChangeTransportationIndoors,Ты не можешь изменить способ передвижения в помещении.
+cannotTravelWithEnemiesNearby,"Ты не можешь путешествовать, когда поблизости враги."
+cannotTravelIndoors,"Ты не можешь путешествовать, находясь в помещении."
 powersUnknown,Powers unknown.
-itemPowers,"Cast when used:
-Cast when held:
-Cast when strikes:
-Extra spell pts
-Potent vs
-Regens health
-Vampiric effect
-Increased weight allowance
-Repairs objects
-Absorbs spells
-Enhances skill
-Feather weight
-Strengthens armor
-Improves talents
-Good rep with
-Soul bound
-Item deteriorates
-User takes damage
-Vision problems
-Walking problems
-Low damage vs
-Health leech
-Bad reactions from
-Extra weight
-Weakens armor
-Bad rep with"
-enemyNames,"Rat
-Imp
-Spriggan
-Giant Bat
-Grizzly Bear
-Sabretooth Tiger
-Spider
-Orc
-Centaur
-Werewolf
-Nymph
-Slaughterfish
-Orc Sergeant
-Harpy
-Wereboar
-Skeletal Warrior
-Giant
-Zombie
-Ghost
-Mummy
-Giant Scorpion
-Orc Shaman
-Gargoyle
-Wraith
-Orc Warlord
-Frost Daedra
-Fire Daedra
-Daedroth
-Vampire
-Daedra Seducer
-Ancient Vampire
-Daedra Lord
-Lich
-Ancient Lich
-Dragonling
-Fire Atronach
-Iron Atronach
-Flesh Atronach
-Ice Atronach
-Horse
-Dragonling
-Dreugh
-Lamia
-Mage
-Spellsword
-Battlemage
-Sorcerer
-Healer
-Nightblade
-Bard
-Burglar
-Rogue
-Acrobat
-Thief
-Assassin
-Monk
-Archer
-Ranger
-Barbarian
-Warrior
-Knight
-City Watch"
-extraSpellPtsTimes,"during Winter
-during Spring
-during Summer
-during Fall
-during Full Moon
-during Half Moon
-during New Moon
-near undead
-near daedra
-near humanoids
-near animals"
-regensHealthTimes,"all the time
-in sunlight
-in darkness"
-vampiricEffectRanges,"at range
-when strikes"
-increasedWeightAllowances,"25% additional
-50% additional"
-improvedTalents,"hearing
-athleticism
-adrenaline rush"
-itemDeteriorateLocations,"all the time
-in sunlight
-in holy places"
-userTakesDamageLocations,"in sunlight
-in holy places"
-enemyGroupNames,"undead
-Daedra
-humanoids
-animals"
-healthLeechStopConditions,"whenever used
-unless used daily
-unless used weekly"
-badReactionFromEnemyGroups,"humanoids
-animals
-Daedra"
-repWithGroups,"Commoners
-Merchants
-Scholars
-Nobility
-Underworld
-All"
-youReceiveGoldPieces,You receive %s gold pieces.
-bankPurchasePrice,Price : %s gold
-youHaveRentedRoom,You have a room at %s for %d hours.
-haveNotRentedRoom,You have not rented a room here.
-expiredRentedRoom,Your time for this room has expired.
-tavernAle,Ale (1 gold)
-tavernBeer,Beer (1 gold)
-tavernMead,Mead (2 gold)
-tavernWine,Wine (3 gold)
-tavernBread,Bread (1 gold)
-tavernBroth,Broth (1 gold)
-tavernCheese,Cheese (2 gold)
-tavernFowl,Fowl (3 gold)
-tavernGruel,Gruel (2 gold)
-tavernPie,Pie (2 gold)
-tavernStew,Stew (3 gold)
-pressButtonToFireSpell,Press button to fire spell.
-climbingMode,Climbing mode.
-rappelMode,Rappel mode.
-hangingMode,Hanging Mode
-acuteHearing,Acute Hearing
-adrenalineRush,Adrenaline Rush
-athleticism,Athleticism
-bonusToHit,Bonus to hit
-expertiseIn,Expertise in
-immunity,Immunity
-increasedMagery,Increased Magery
-rapidHealing,Rapid Healing
-regenerateHealth,Regenerate Health
-resistance,Resistance
-spellAbsorption,Spell Absorption
-animals,Animals
-daedra,Daedra
-humanoid,Humanoid
-undead,Undead
-axe,Axe
-bluntWeapon,Blunt Weapon
-handToHand,Hand-to-Hand
-longBlade,Long Blade
-missileWeapon,Missile Weapon
-shortBlade,Short Blade
-toDisease,To Disease
-toFire,To Fire
-toFrost,To Frost
-toMagic,To Magic
-toParalysis,To Paralysis
-toPoison,To Poison
-toShock,To Shock
+itemPowers,"Каст при использовании:
+Каст при удержании:
+Кастовать при ударе:
+Дополнительные пты заклинаний
+Потенциал против
+Восстанавливает здоровье
+Вампирический эффект
+Увеличение веса
+Ремонтирует предметы
+Поглощает заклинания
+Улучшает навыки
+Вес перьев
+Укрепляет доспехи
+Улучшает таланты
+Хорошо сочетается с
+Привязанность души
+Предмет портится
+Пользователь получает урон
+Проблемы со зрением
+Проблемы с ходьбой
+Низкий урон против
+Пиявка здоровья
+Плохие реакции
+Дополнительный вес
+Ослабляет броню
+Плохое отношение к"
+enemyNames,"Крыса
+Бес
+Спригган
+Гигантская летучая мышь
+Медведь гриззли
+Саблезубый тигр
+Паук
+Орк
+Кентавр
+Вервольф
+Нимфа
+Рыба-убийца
+Орк сержант
+Гарпия
+Вервепрь
+Скелет воин
+Великан
+Зомби
+Привидение
+Мумия
+Гигантский скорпион
+Орк шаман
+Горгулья
+Призрак
+Орк Полководец
+Ледяной даэдра
+Огненный даэдра
+Даэдрот
+Вампир
+Даэдра-сооблазнитель
+Древний вампир
+Лорд Даэдра
+Лич
+Древний Лич
+Драгонлинг
+Огненный Атронах
+Железный Атронах
+Атронах из плоти
+Ледяной Атронах
+Лошадь
+Драгонлинг
+Дреуг
+Ламия
+Маг
+Воин слова
+Боевой маг
+Колдун
+Лекарь
+Меч ночи
+Бард
+Взломщик
+Жулик
+Акробат
+Вор
+Ассассин
+Монах
+Лучник
+Рейнджер
+Варвар
+Воин
+Рыцарь
+Городской стражник"
+extraSpellPtsTimes,"зимой
+весной
+летом
+осенью
+во время полнолуния
+во время полумесяца
+в новолуние
+рядом с нежитью
+вблизи даэдра
+рядом с гуманоидами
+рядом с животными"
+regensHealthTimes,"в любое время
+днём
+ночью"
+vampiricEffectRanges,"на расстоянии
+при ударах"
+increasedWeightAllowances,"дополнительно 25%
+дополнительно 50%"
+improvedTalents,"слух
+атлетизм
+прилив адреналина"
+itemDeteriorateLocations,"всё время
+при свете солнца
+в святых местах"
+userTakesDamageLocations,"на солнечном свету
+в святых местах"
+enemyGroupNames,"нежить
+Даэдра
+гуманоиды
+животные"
+healthLeechStopConditions,"при любом использовании
+если не используется ежедневно
+если не используется еженедельно"
+badReactionFromEnemyGroups,"гуманоиды
+животные
+Даэдра"
+repWithGroups,"Обыватели
+Торговцы
+Ученые
+Дворянство
+Преступники
+Все"
+youReceiveGoldPieces,Ты получил %s золотых монет.
+bankPurchasePrice,Цена : %s золотых монет.
+youHaveRentedRoom,У тебя снята комната в %s на %d часов.
+haveNotRentedRoom,Ты не снимал здесь комнату.
+expiredRentedRoom,Срок аренды этой комнаты истёк.
+tavernAle,Эль (1 золотой)
+tavernBeer,Пиво (1 золотой)
+tavernMead,Медовуха (2 золотых)
+tavernWine,Вино (3 золотых)
+tavernBread,Хлеб (1 золотой)
+tavernBroth,Бульон (1 золотой)
+tavernCheese,Сыр (2 золотых)
+tavernFowl,Птица (3 золотых)
+tavernGruel,Каша (2 золотых)
+tavernPie,Пирог (2 золотых)
+tavernStew,Рагу (3 золотых)
+pressButtonToFireSpell,Нажмите кнопку, чтобы произнести заклинание.
+climbingMode,Режим карабканья
+rappelMode,Режим спуска
+hangingMode,Режим висения
+acuteHearing,Острый слух
+adrenalineRush,Прилив адреналина
+athleticism,Атлетизм
+bonusToHit,Бонус к попаданию
+expertiseIn,Экспертиза
+immunity,Иммунитет
+increasedMagery,Усиленная магия
+rapidHealing,Быстрое исцеление
+regenerateHealth,Регенерация здоровья
+resistance,Сопротивление
+spellAbsorption,Поглощение заклинаний
+animals,Животные
+daedra,Даэдра
+humanoid,Гуманоиды
+undead,Нежить
+axe,Топоры
+bluntWeapon,Тупое оружие
+handToHand,Бой без оружия
+longBlade,Длинные клинки
+missileWeapon,Дальнобойное оружие
+shortBlade,Короткие клинки
+toDisease,К болезни
+toFire,К огню
+toFrost,К морозу
+toMagic,К магии
+toParalysis,К параличу
+toPoison,К яду
+toShock,К шоку
 intInSpellPoints15,1.5X INT In Spell Points
 intInSpellPoints175,1.75X INT In Spell Points
 intInSpellPoints2,2X INT In Spell Points
 intInSpellPoints3,3X INT In Spell Points
 intInSpellPoints,INT In Spell Points
-general,General
-inDarkness,In Darkness
-inLight,In Light
-whileImmersed,While Immersed In Water
-criticalWeakness,Critical Weakness
-damage,Damage
-darknessPoweredMagery,Darkness-Powered Magery
-forbiddenArmorType,Forbidden Armor Type
-forbiddenMaterial,Forbidden Material
-forbiddenShieldTypes,Forbidden Shield Types
-forbiddenWeaponry,Forbidden Weaponry
-inabilityToRegen,Inability To Regen Spell Points
-lightPoweredMagery,Light-Powered Magery
-lowTolerance,Low Tolerance
-phobia,Phobia
-fromHolyPlaces,From Holy Places
-fromSunlight,From Sunlight
-lowerMagicAbilityDaylight,Lower Magic Ability In Daylight
-unableToUseMagicInDaylight,Unable To Use Magic In Daylight
-chain,Chain
-leather,Leather
-plate,Plate
-adamantium,Adamantium
-daedric,Daedric
-dwarven,Dwarven
-ebony,Ebony
-elven,Elven
-iron,Iron
-mithril,Mithril
-orcish,Orcish
-silver,Silver
-steel,Steel
-buckler,Buckler
-kiteShield,Kite Shield
-roundShield,Round Shield
-towerShield,Tower Shield
-lowerMagicAbilityDarkness,Lower Magic Ability In Darkness
-unableToUseMagicInDarkness,Unable To Use Magic In Darkness
-helpAttributes,Attributes
-helpClassName,Class Name
-helpGeneral,General
-helpReputations,Reputations
-helpSkillAdvancement,Skill Advancement
-helpSkills,Skills
-helpSpecialAdvantages,Special Advantages
-helpSpecialDisadvantages,Special Disadvantages
-lower,Lower
-higher,Higher
-unchanged,Unchanged
-elsweyr,Elsweyr
-blackMarsh,Black Marsh
-hammerfell,Hammerfell
-highRock,High Rock
-morrowind,Morrowind
-skyrim,Skyrim
-sumurset,Sumurset
-valenwood,Valenwood
-rollingHills,rolling hills
-desertLand,desertland
-mountains,mountains
-swamps,swamps
-forests,forests
-shores,shores
-medical,Medical
-etiquette,Etiquette
-streetwise,Streetwise
-jumping,Jumping
-harpy,Harpy
-giantish,Giantish
-dragonish,Dragonish
-nymph,Nymph
-aedric,Daedric
-spriggan,Spriggan
-centaurian,Centaurian
-impish,Impish
-lockpicking,Lockpicking
-mercantile,Mercantile
-pickpocket,Pickpocket
-stealth,Stealth
-swimming,Swimming
-climbing,Climbing
-backstabbing,Backstabbing
-dodging,Dodging
-running,Running
-destruction,Destruction
-restoration,Restoration
-illusion,Illusion
-alteration,Alteration
-thaumaturgy,Thaumaturgy
-mysticism,Mysticism
-archery,Archery
-criticalStrike,Critical Strike
-strength,Strength
-intelligence,Intelligence
-willpower,Willpower
-agility,Agility
-endurance,Endurance
-personality,Personality
-speed,Speed
-luck,Luck
-STR,STR
-INT,INT
-WIL,WIL
-AGI,AGI
-END,END
-PER,PER
-SPD,SPD
-LUC,LUC
-breton,Breton
-redguard,Redguard
-darkElf,Dark Elf
-highElf,High Elf
-woodElf,Wood Elf
-khajiit,Khajiit
-argonian,Argonian
-vampire,Vampire
-werewolf,Werewolf
-wereboar,Wereboar
-vraseth,Vraseth
-haarvenu,Haarvenu
-thrafey,Thrafey
-lyrezi,Lyrezi
-montalion,Montalion
-khulari,Khulari
-garlythi,Garlythi
-anthotis,Anthotis
-selenu,Selenu
-lockedExteriorDoor,Locked.
-canOnlyCastOncePerDay,Can only be cast once per day...
-youNeedToHuntTheInnocent,You feel the need to hunt the innocent...
-youDreamOfTheMoon,"You dream, once again, of the moon..."
-inventoryWhileShapechanged,You cannot access the inventory while shapechanged...
-youGetNoResponse,You get no response.
+general,Общий
+inDarkness,В темноте
+inLight,На свету
+whileImmersed,При погружении в воду
+criticalWeakness,Критическая слабость
+damage,Урон
+darknessPoweredMagery,"Магия, усиленная тьмой"
+forbiddenArmorType,Запрещенный тип брони
+forbiddenMaterial,Запрещенный материал
+forbiddenShieldTypes,Запрещенные типы щитов
+forbiddenWeaponry,Запрещенное оружие
+inabilityToRegen,Невозможность восстанавливать очки заклинаний
+lightPoweredMagery,Светосильная магия
+lowTolerance,Низкая толерантность
+phobia,Фобия
+fromHolyPlaces,От святых мест
+fromSunlight,От солнечного света
+lowerMagicAbilityDaylight,Снижение магических способностей при дневном свете
+unableToUseMagicInDaylight,Невозможно использовать магию при дневном свете
+chain,Кольчужный
+leather,Кожаный
+plate,Пластинчатый
+adamantium,Адамантовый
+daedric,Даэдрический
+dwarven,Гномий
+ebony,Эбонитовый
+elven,Эльфийский
+iron,Железный
+mithril,Мифриловый
+orcish,Оркский
+silver,Серебряный
+steel,Стальной
+buckler,Баклер
+kiteShield,Турнирный щит
+roundShield,Круглый щит
+towerShield,Башенный щит
+lowerMagicAbilityDarkness,Снижение магических способностей в темноте
+unableToUseMagicInDarkness,Невозможно использовать магию в темноте
+helpAttributes,Атрибуты
+helpClassName,Имя класса
+helpGeneral,Общие сведения
+helpReputations,Репутация
+helpSkillAdvancement,Развитие навыков
+helpSkills,Навыки
+helpSpecialAdvantages,Особые преимущества
+helpSpecialDisadvantages,Особые недостатки
+lower,Ниже
+higher,Выше
+unchanged,Без изменений
+elsweyr,Эльсвейр
+blackMarsh,Блэк Марш
+hammerfell,Хаммерфелл
+highRock,Хай Рок
+morrowind,Морровинд
+skyrim,Скайрим
+sumurset,Саммерсет
+valenwood,Валенвуд
+rollingHills,холмы
+desertLand,пустыня
+mountains,горы
+swamps,болота
+forests,леса
+shores,берега
+medical,Медицина
+etiquette,Этикет
+streetwise,Жаргон
+jumping,Прыжки
+harpy,Язык гарпий
+giantish,Язык великанов
+dragonish,Язык драконов
+nymph,Язык нимф
+aedric,Аэдрический
+spriggan,Язык спригганов
+centaurian,Язык кентавров
+impish,Язык импов
+lockpicking,Взлом
+mercantile,Торговля
+pickpocket,Карманные кражи
+stealth,Скрытность
+swimming,Плавание
+climbing,Лазание
+backstabbing,Удар в спину
+dodging,Уклонение
+running,Бег
+destruction,Разрушение
+restoration,Восстановление
+illusion,Иллюзии
+alteration,Изменение
+thaumaturgy,Фокусничество
+mysticism,Мистицизм
+archery,Стрельба из лука
+criticalStrike,Критический удар
+strength,Сила
+intelligence,Интеллект
+willpower,Сила воли
+agility,Ловкость
+endurance,Выносливость
+personality,Привлекательность
+speed,Скорость
+luck,Удача
+STR,СИЛ
+INT,ИНТ
+WIL,ВОЛ
+AGI,ЛОВ
+END,ВЫН
+PER,ПРИ
+SPD,СКР
+LUC,УДЧ
+breton,Бретон
+redguard,Редгард
+darkElf,Тёмный эльф
+highElf,Высший Эльф
+woodElf,Лесной эльф
+khajiit,Каджит
+argonian,Аргонианин
+vampire,Вампир
+werewolf,Вервольф
+wereboar,Вервепрь
+vraseth,Врасет
+haarvenu,Хаарвену
+thrafey,Трафей
+lyrezi,Лирези
+montalion,Монталион
+khulari,Хулари
+garlythi,Гарлити
+anthotis,Антотис
+selenu,Селену
+lockedExteriorDoor,Закрыто.
+canOnlyCastOncePerDay,Может быть использовано только один раз в день...
+youNeedToHuntTheInnocent,Вы чувствуете потребность охотиться на невинных...
+youDreamOfTheMoon,Вы снова мечтаете о луне...
+inventoryWhileShapechanged,Вы не можете получить доступ к инвентарю при изменении формы...
+youGetNoResponse,Вы не получаете ответа.
 copyLogbookInfo,Left-click: toggle copy of selected text. Right-click: copy whole current conversation.
-east,east
-northeast,northeast
-north,north
-northwest,northwest
-west,west
-southwest,southwest
-south,south
-southeast,southeast
+east,востоке
+northeast,северо-востоке
+north,севере
+northwest,северо-западе
+west,западе
+southwest,юго-западе
+south,юге
+southeast,юго-востоке
 thisPlace,this place
-AnyNews,Any news?
-WhereAmI,Where am I?
-AnswerTextWhereAmI,You are in {0} in {1}.
-YouAreInSameBuilding,You have found {0}. You are in it.
-NpcInSameBuilding,{0} is around here in {1}.
-PreviousList,Previous List
-General,General
-Regional,Regional
-Alchemists,Alchemists
-Armorers,Armorers
-Banks,Banks
-Bookstores,Bookstores
-Clothingstores,Clothing stores
-Gemstores,Gem stores
-Generalstores,General stores
-Guilds,Guilds
-Libraries,Libraries
-Pawnshops,Pawn shops
-Taverns,Taverns
-Weaponsmiths,Weapon smiths
-Localtemples,Local temples
-Sir,Sir
-Ma'am,Ma'am
-oldLeaderFate0,died of heart failure
-oldLeaderFate1,fell and struck his head
-oldLeaderFate2,died of the plague
-oldLeaderFate3,stepped down under pressure
-oldLeaderFate4,was overthrown
-oldLeaderFate5,was found murdered in his bed
+AnyNews,Какие-нибудь Новости?
+WhereAmI,Где я нахожусь?
+AnswerTextWhereAmI,Ты находишься в {0} в {1}.
+YouAreInSameBuilding,Ты нашёл {0}. Ты здесь.
+NpcInSameBuilding,"{0} где-то здесь, в {1}."
+PreviousList,Предыдущий список
+General,Общее
+Regional,Региональное
+Alchemists,Алхимики
+Armorers,Оружейники
+Banks,Банки
+Bookstores,Книжные магазины
+Clothingstores,Магазины одежды
+Gemstores,Ювелирные магазины
+Generalstores,Магазины
+Guilds,Гильдии
+Libraries,Библиотеки
+Pawnshops,Ломбарды
+Taverns,Таверны
+Weaponsmiths,Кузнецы
+Localtemples,Местные храмы
+Sir,Сэр
+Ma'am,Мэм
+oldLeaderFate0,умер от сердечной недостаточности
+oldLeaderFate1,упал и ударился головой
+oldLeaderFate2,умер от чумы
+oldLeaderFate3,ушёл в отставку под давлением
+oldLeaderFate4,был свергнут
+oldLeaderFate5,был найден убитым в своей постели
 toBeReplacedStringRegional,Any
 replacementStringRegional,any
 comma,",  "
-resolvingError,...never mind...
-chameleon,Chameleon
-charm,Charm
-comprehendLanguages,Comprehend Languages
-continuousDamage,Continuous Damage
-createItem,Create Item
-cure,Cure
-detect,Detect
-disintegrate,Disintegrate
-dispel,Dispel
-drain,Drain
-elementalResistance,Elemental Resistance
-fortifyAttribute,Fortify Attribute
-freeAction,Free Action
-heal,Heal
-identify,Identify
-invisibility,Invisibility
-levitate,Levitate
-light,Light
-lock,Lock
-morphSelf,Morph Self
-open,Open
-pacify,Pacify
-paralyze,Paralyze
-regenerate,Regenerate
-shadow,Shadow
-shield,Shield
-silence,Silence
-slowfall,Slowfall
-soulTrap,Soul Trap
-spellReflection,Spell Reflection
-spellResistance,Spell Resistance
-teleport,Teleport
-transfer,Transfer
-waterBreathing,Water Breathing
-waterWalking,Water Walking
-fire,Fire
-frost,Frost
-magicka,Magicka
-poison,Poison
-shock,Shock
-enemy,Enemy
-magic,Magic
-treasure,Treasure
-fatigue,Fatigue
-health,Health
-spellPoints,Spell Points
-disease,Disease
-paralyzation,Paralyzation
-animal,Animal
-normal,Normal
+resolvingError,...неважно...
+chameleon,Хамелеон
+charm,Очарование
+comprehendLanguages,Понимание языков
+continuousDamage,Постоянный урон
+createItem,Создать предмет
+cure,Вылечить
+detect,Обнаружить
+disintegrate,Дезинтеграция
+dispel,Рассеять
+drain,Опустошить
+elementalResistance,Сопротивление стихиям
+fortifyAttribute,Укрепление атрибута
+freeAction,Свободa действий
+heal,Исцеление
+identify,Идентифицировать
+invisibility,Невидимость
+levitate,Левитация
+light,Свет
+lock,Замок
+morphSelf,Изменить себя
+open,Открыть
+pacify,Умиротворить
+paralyze,Парализовать
+regenerate,Регенерация
+shadow,Тень
+shield,Щит
+silence,Тишина
+slowfall,Замедленное падение
+soulTrap,Ловушка душ
+spellReflection,Отражение заклинаний
+spellResistance,Сопротивление заклинаниям
+teleport,Телепорт
+transfer,Перенос
+waterBreathing,Водное дыхание
+waterWalking,Хождение по воде
+fire,Огонь
+frost,Мороз
+magicka,Магия
+poison,Яд
+shock,Шок
+enemy,Враг
+magic,Магия
+treasure,Сокровище
+fatigue,Усталость
+health,Здоровье
+spellPoints,Очки заклинаний
+disease,Болезнь
+paralyzation,Парализация
+animal,Животные
+normal,Нормальный
 TRUE,TRUE
 noName,<no-name>
-youDontHaveTheSpellPoints,You don't have the spell points.
-youAreSilenced,You are silenced.
-youAreParalyzed,You are paralyzed.
-youFeelDrained,You feel drained.
-youAreFortified,You are fortified.
-youAreInvisible,You are invisible.
-youAreLevitating,You are levitating.
-youAreRegenerating,You are regenerating.
-youAreBlending,You are blending.
-youAreAShade,You are a shade.
-slowFallActive,Slow fall active.
-saveVersusSpellMade,Save versus spell made.
-spellEffectFailed,Spell effect failed.
-spellAbsorbed,Spell was absorbed.
-spellReflected,Spell was reflected.
-spellResisted,Spell was resisted.
-readyToLock,Ready to lock.
-readyToOpen,Ready to open.
-doorLocked,Door is now locked.
-doorAlreadyLocked,Door already locked.
-openFailed,Lock is too powerful.
-noSpellbook,You have no spellbook!
-sunlightDamageFastTravelDay,You cannot initiate fast travel during the day.
-trapActive,Trap active.
-trapHumanoid,Trap will not work on humanoids.
-trapSuccess,Trapped soul.
-trapFail,Trap failed.
-trapNoneEmpty,You have no empty soul traps!
-stamina,Stamina
-orcStrength,Orc Strength
-healing,Healing
-restorePower,Restore Power
-resistFire,Resist Fire
-resistFrost,Resist Frost
-resistShock,Resist Shock
-cureDisease,Cure Disease
-slowFalling,Slow Falling
-healTrue,Heal True
-levitation,Levitation
-resistPoison,Resist Poison
-curePoison,Cure Poison
-chameleonForm,Chameleon Form
-shadowForm,Shadow Form
-purification,Purification
-LeatherCuirass,Leather Cuirass
-LeatherGauntlets,Leather Gauntlets
-LeatherGreaves,Leather Greaves
-LeatherLeftPauldron,Leather Left Pauldron
-LeatherRightPauldron,Leather Right Pauldron
-LeatherHelm,Leather Helm
-LeatherBoots,Leather Boots
-ChainCuirass,Chain Cuirass
-ChainGauntlets,Chain Gauntlets
-ChainGreaves,Chain Greaves
-ChainLeftPauldron,Chain Left Pauldron
-ChainRightPauldron,Chain Right Pauldron
-ChainHelm,Chain Helm
-ChainBoots,Chain Boots
-SteelCuirass,Steel Cuirass
-SteelGauntlets,Steel Gauntlets
-SteelGreaves,Steel Greaves
-SteelLeftPauldron,Steel Left Pauldron
-SteelRightPauldron,Steel Right Pauldron
-SteelHelm,Steel Helm
-SteelBoots,Steel Boots
-SteelBuckler,Steel Buckler
-SteelDagger,Steel Dagger
-SteelLongsword,Steel Longsword
-SteelStaff,Steel Staff
-ShortBow,Short Bow
-Arrows,Arrows
-SteelBattleAxe,Steel Battle Axe
-Robes,Robes
-CastWhenUsed,Cast when used:
-CastWhenHeld,Cast when held:
-CastWhenStrikes,Cast when strikes:
-ExtraSpellPts,Extra spell pts
-PotentVs,Potent vs
-RegensHealth,Regens health
-VampiricEffect,Vampiric effect
-IncreasedWeightAllowance,Increased Weight Allowance
-RepairsObjects,Repairs objects
-AbsorbsSpells,Absorbs spells
-EnhancesSkill,Enhances skill
-FeatherWeight,Feather Weight
-StrengthensArmor,Strengthens armor
-ImprovesTalents,Improves talents
-GoodRepWith,Good rep with
-SoulBound,Soul bound
-ItemDeteriorates,Item deteriorates
-UserTakesDamage,User takes damage
-VisionProblems,Vision problems
-WalkingProblems,Walking problems
-LowDamageVs,Low damage vs
-HealthLeech,Health leech
-BadReactionsFrom,Bad reactions from
-ExtraWeight,Extra weight
-WeakensArmor,Weakens armor
-BadRepWith,Bad rep with
-inHolyPlaces,in holy places
-wheneverUsed,whenever used
-unlessUsedDaily,unless used daily
-unlessUsedWeekly,unless used weekly
-fromHumanoids,from humanoids
-fromAnimals,from animals
-fromDaedra,from Daedra
-duringWinter,during Winter
-duringSpring,during Spring
-duringSummer,during Summer
-duringFall,during Fall
-duringFullMoon,during Full Moon
-duringHalfMoon,during Half Moon
-duringNewMoon,during New Moon
-nearUndead,near undead
-nearDaedra,near deadra
-nearHumanoids,near humanoids
-nearAnimals,near animals
-undeadLower,undead
-humanoidLower,humanoid
-animalsLower,animals
-animalsUpper,Animals
-allTheTime,all the time
-inSunlight,in sunlight
-inDarknessLower,in darkness
-atRange,at range
-whenStrikes,when strikes
-add25Percent,25% additional
-add50Percent,50% additional
+youDontHaveTheSpellPoints,Вам не хватает магики.
+youAreSilenced,Вы онемели
+youAreParalyzed,Вы парализованы.
+youFeelDrained,Вы истощены.
+youAreFortified,Вы укреплены.
+youAreInvisible,Вы невидимы.
+youAreLevitating,Вы левитируете.
+youAreRegenerating,Вы регенерируете.
+youAreBlending,Слитие с тенями.
+youAreAShade,Вы - тень.
+slowFallActive,Активно медленное падение.
+saveVersusSpellMade,Спасбросок против заклинания выполнен.
+spellEffectFailed,Эффект заклинания не сработал.
+spellAbsorbed,Заклинание было поглощено.
+spellReflected,Заклинание было отражено.
+spellResisted,Заклинанию было оказано сопротивление.
+readyToLock,Готовность к запиранию.
+readyToOpen,Готовность к открытию.
+doorLocked,Дверь теперь заперта.
+doorAlreadyLocked,Дверь уже заперта.
+openFailed,Замок слишком мощный.
+noSpellbook,У вас нет книги заклинаний!
+sunlightDamageFastTravelDay,Ты не можешь начать быстрое путешествие днём.
+trapActive,Ловушка активна.
+trapHumanoid,Ловушка не действует на гуманоидов.
+trapSuccess,Душа в ловушке.
+trapFail,Ловушка не сработала.
+trapNoneEmpty,У вас нет пустых ловушек для души!
+stamina,Выносливость
+orcStrength,Сила орка
+healing,Исцеление
+restorePower,Восстановление энергии
+resistFire,Сопротивляйтесь огню
+resistFrost,Сопротивляйтесь морозу
+resistShock,Сопротивляться шоку
+cureDisease,Болезнь излечения
+slowFalling,Замедленное падение
+healTrue,Исцеление истинное
+levitation,Левитация
+resistPoison,Сопротивление яду
+curePoison,Вылечить отравление
+chameleonForm,Форма хамелеона
+shadowForm,Форма тени
+purification,Очищение
+LeatherCuirass,Кожаная кираса
+LeatherGauntlets,Кожаные перчатки
+LeatherGreaves,Кожаные поножи
+LeatherLeftPauldron,Кожаный левый наплечник
+LeatherRightPauldron,Кожаный правый наплечник
+LeatherHelm,Кожаный шлем
+LeatherBoots,Кожаные сапоги
+ChainCuirass,Кольчужная кираса
+ChainGauntlets,Кольчужные перчатки
+ChainGreaves,Кольчужные поножи
+ChainLeftPauldron,Кольчужный левый наплечник
+ChainRightPauldron,Кольчужный правый наплечник
+ChainHelm,Кольчужный шлем
+ChainBoots,Кольчужные сапоги
+SteelCuirass,Стальная кираса
+SteelGauntlets,Стальные перчатки
+SteelGreaves,Стальные поножи
+SteelLeftPauldron,Стальной левый наплечник
+SteelRightPauldron,Стальной правый наплечник
+SteelHelm,Стальной шлем
+SteelBoots,Стальные сапоги
+SteelBuckler,Стальной щит
+SteelDagger,Стальной кинжал
+SteelLongsword,Стальной длинный меч
+SteelStaff,Стальной посох
+ShortBow,Короткий лук
+Arrows,Стрелы
+SteelBattleAxe,Стальной боевой топор
+Robes,Робы
+CastWhenUsed,Каст при использовании:
+CastWhenHeld,Каст при удержании:
+CastWhenStrikes,Кастовать при ударе:
+ExtraSpellPts,Дополнительные пты заклинаний
+PotentVs,Потенциал против
+RegensHealth,Восстанавливает здоровье
+VampiricEffect,Вампирический эффект
+IncreasedWeightAllowance,Увеличение допустимого веса
+RepairsObjects,Ремонтирует предметы
+AbsorbsSpells,Поглощает заклинания
+EnhancesSkill,Улучшает навыки
+FeatherWeight,Вес пера
+StrengthensArmor,Укрепляет доспехи
+ImprovesTalents,Улучшает таланты
+GoodRepWith,Хорошее отношение к
+SoulBound,Привязанность души
+ItemDeteriorates,Предмет портится
+UserTakesDamage,Пользователь получает повреждения
+VisionProblems,Проблемы со зрением
+WalkingProblems,Проблемы с ходьбой
+LowDamageVs,Низкий урон против
+HealthLeech,Пиявка здоровья
+BadReactionsFrom,Плохие реакции
+ExtraWeight,Дополнительный вес
+WeakensArmor,Ослабляет броню
+BadRepWith,Плохое отношение к
+inHolyPlaces,в святых местах
+wheneverUsed,при каждом использовании
+unlessUsedDaily,если не используется ежедневно
+unlessUsedWeekly,если не используется еженедельно
+fromHumanoids,от гуманоидов
+fromAnimals,от животных
+fromDaedra,от даэдра
+duringWinter,зимой
+duringSpring,весной
+duringSummer,летом
+duringFall,осенью
+duringFullMoon,в полнолуние
+duringHalfMoon,в четверть луны
+duringNewMoon,в новолуние
+nearUndead,около нежити
+nearDaedra,рядом с дэдрой
+nearHumanoids,вблизи гуманоидов
+nearAnimals,около животных
+undeadLower,нежить
+humanoidLower,гуманоид
+animalsLower,животные
+animalsUpper,Животные
+allTheTime,всегда
+inSunlight,днем
+inDarknessLower,ночью
+atRange,на расстоянии
+whenStrikes,при ударах
+add25Percent,дополнительно 25%
+add50Percent,дополнительно 50%
 hearing,hearing
-athleticismLower,athleticism
-adrenalineRushLower,adrenaline rush
-commoners,Commoners
-merchants,Merchants
-scholars,Scholars
-nobility,Nobility
-underworld,Underworld
-all,All
-noRoomInItem,No room in item...
-noEnchantments,You have not prepared enchantments for this item.
-noMonstersNearby,There are no monsters nearby.
-Fire,Fire
-Frost,Frost
-Poison,Poison
-Shock,Shock
-Magicka,Magicka
-Animal,Animal
-Undead,Undead
-Humanoid,Humanoid
-Daedra,Daedra
-dialogButtonInfo,Switch between: Active Quests; Finished Quests; Notebook; Messages
+athleticismLower,атлетизм
+adrenalineRushLower,прилив адреналина
+commoners,Обыватели
+merchants,Торговцы
+scholars,Ученые
+nobility,Дворянство
+underworld,Преступники
+all,Все
+noRoomInItem,В предмете нет места...
+noEnchantments,Вы не подготовили чары для этого предмета.
+noMonstersNearby,Монстров поблизости нет.
+Fire,Огонь
+Frost,Мороз
+Poison,Яд
+Shock,Шок
+Magicka,Магия
+Animal,Животное
+Undead,Нежить
+Humanoid,Гуманоид
+Daedra,Даэдра
+dialogButtonInfo,Переключение между: Активными заданиями; Завершёнными заданиями; Записной книжкой; Сообщениями
 activeQuests,Active Quests
-activeQuestsInfo,Click on an active quest that has a target location to initiate travel.
+activeQuestsInfo,"Щёлкни по активному заданию, с пунктом назначения, чтобы начать путешествие."
 finishedQuests,Finished Quests
-finishedQuestsInfo,Click on an entry to move it. Right click to delete.
+finishedQuestsInfo,"Щёлкни по записи, чтобы переместить её. Правый щелчок, чтобы удалить."
 notebook,Notebook
-notebookInfo,Click a note to move. Right click to delete. Click in-between to add a new note.
-messages,Messages
-messagesInfo,History of messages recently shown on screen
-confirmMoveHead,Move entry
-confirmMove,Do you want to change the position of this entry?
-confirmMove2,(It will be moved to before the next entry clicked)
-confirmRemoveHead,Delete entry
-confirmRemove,Are you sure you want to remove this entry?
-confirmRemove2,(It will be deleted permanently and cannot be restored)
-confirmFindHead,Travel to location
-confirmFind,Do you want to open the world map to travel to:
-confirmFind2,(Note: you can cancel travel from the world map)
-enterNote,Enter your note:
+notebookInfo,"Щёлкни по заметке, чтобы переместить её. Правый щелчок, чтобы удалить. Щелчок на пустом месте, чтобы добавить новую заметку."
+messages,Сообщения
+messagesInfo,"История сообщений, недавно показанных на экране"
+confirmMoveHead,Переместить запись
+confirmMove,Ты хочешь переместить эту запись?
+confirmMove2,"(она будет размещена перед записью, которую щёлкнешь)"
+confirmRemoveHead,Удалить запись
+confirmRemove,"Уверен, что хочешь удалить эту запись?"
+confirmRemove2,(она будет удалена без возможности восстановления)
+confirmFindHead,Путешествие к месту
+confirmFind,"Ты хочешь открыть карту мира, чтобы отправиться в:"
+confirmFind2,(Примечание: ты сможешь отказаться от путешествия на карте мира)
+enterNote,Напиши свою заметку:
 completedQuest,completed
 endedQuest,ended
 finishQuestHeader,{0} {1} at {2}:
-quest,Quest
+quest,Задание
 noteHeader,{0} in {1}:
-houseDeed,You obtained the deeds and now own a house in %town of %region.
-levelProgress,Progress made to the next level: {0}%
-readMap,Discovered the location of %map after studying a map.
-readMapTG,The Thieves Guild have revealed the closely guarded where-abouts of a treasure trove called %map.
-readMapDB,The Dark Brotherhood revealed the secret of some treasure-laden crypts located at somewhere called %map.
-readMapFail,You have already discovered the location shown by this map.
+houseDeed,Ты получил документы и теперь владеешь домом в городе %town в %region.
+levelProgress,Прогресс до следующего уровня: {0}%
+readMap,Обнаружено местоположение %map после изучения карты.
+readMapTG,Гильдия Воров раскрыла местонахождение тщательно охраняемой сокровищницы под названием %map.
+readMapDB,"Тёмное Братство раскрыло секрет некоторых склепов с сокровищами, расположенных где-то в месте под названием %map."
+readMapFail,"Тебе уже известно место, указанное на этой карте."
 howManyItems,Pick how many items (max {0})?
-wagonFullGold,Your wagon could only hold {0} gold pieces.
+wagonFullGold,В твоей повозке может поместиться только {0} золотых монет.
 itemsIdentified,Items identified.
 repairDone,DONE
-repairDays,%d days
+repairDays,%d дней
 interruptRepair,Take back that item before it's repaired?
 repairNote,Left my {0} for repair at {1}.
 doesntNeedIdentify,This does not need to be identified.
 goldAmount,{0} gold pieces
-goldWeight,Weight: {0} kg
-letterOfCredit,You are paid with a letter of credit.
-stealSuccess,You are successful.
-stealFailure,You are not successful...
-cannotRemoveItem,You cannot remove this item.
-cannotCarryAnymore,You cannot carry anymore stuff.
-cannotHoldAnymore,Your cart cannot hold anymore stuff.
-cannotUseThis,You cannot use this.
+goldWeight,Вес: {0} кг
+letterOfCredit,Вы получаете оплату по аккредитиву.
+stealSuccess,Вы успешны.
+stealFailure,Вы не достигли успеха...
+cannotRemoveItem,Вы не можете снять этот предмет.
+cannotCarryAnymore,Вы не можете унести больше вещей.
+cannotHoldAnymore,Ваша тележка уже не может вместить больше вещей.
+cannotUseThis,Вы не можете использовать это.
 equippingWeapon,Equipping %s
-lightDouse,You douse the %it.
-lightLight,You light the %it.
-lightDies,Your %it flickers and dies.
-lightEmpty,Your %it has no fuel left.
-lightRefuel,You refuel your %it with a bottle of oil.
-lightFull,Your %it is full.
-kgSrc,kilograms
-kgRep,kg
-damSrc,points of damage
-damRep,damage
-arSrc,armor rating
-arRep,armor
-northern,(northern)
-southern,(southern)
+lightDouse,Ты потушил %it.
+lightLight,Ты зажигаешь %it.
+lightDies,Твой %it мерцает и гаснет.
+lightEmpty,У твоего %it не осталось топлива.
+lightRefuel,Ты заправляешь свой %it бутылкой масла.
+lightFull,Твой %it заполнен.
+kgSrc,килограммы
+kgRep,кг
+damSrc,очки ущерба
+damRep,урон
+arSrc,рейтинг брони
+arRep,броня
+northern,(северный)
+southern,(южный)
 noWagon,You don't own a wagon.
-exitTooFar,The exit is too far away for you to access your wagon.
-bookUnavailable,The book is ruined and is now unreadable.
-unknownAuthor,unknown author
-cannotDeleteVamp,Cannot delete special vampire spells.
-cannotDeleteWere,Cannot delete special lycanthropy spell.
-noRecipes,You have no recipes.
-potionMixed,Your potion has been mixed.
-potionFailed,Those ingredients did not concoct an effective potion.
-reqIngredients,You do not have the ingredients required.
-region,Region
-account,Account
-loan,Loan
-dueDate,Loan Due Date
+exitTooFar,"Выход находится слишком далеко, чтобы вы могли добраться до своей повозки."
+bookUnavailable,Книга испорчена и теперь нечитабельна.
+unknownAuthor,неизвестный автор
+cannotDeleteVamp,Невозможно удалить специальные заклинания вампиров.
+cannotDeleteWere,Невозможно удалить специальное заклинание ликантропии.
+noRecipes,У тебя нет рецептов.
+potionMixed,Твоё зелье было приготовлено.
+potionFailed,Из этих ингредиентов не получилось эффективного зелья.
+reqIngredients,У тебя нет нужных ингредиентов.
+region,Регион
+account,Счёт
+loan,Заём
+dueDate,Срок погашения
 noAccount,None
-loanReminder,You have a loan of {0} gold pieces due in
-loanReminder2,less than {0} months in {1}
+loanReminder,"У тебя есть заём в размере {0} золотых монет, подлежащий выплате в"
+loanReminder2,менее {0} месяцев в {1}
 classicIcons,Classic
 suggestedIcons,Suggested
-serviceMembersOnly,My services are reserved for members only.
-serviceDonateHowMuch,Donate how much money : 
-curedDisease,You are cured.
-freeHolidayCuring,You are cured free from cost due to todays' holiday.
-gettingQuests1,"Hmm, let me see what tasks we have available."
-gettingQuests2,"Please have patience and wait here a moment, %pcf."
-illegalRestWarning,It is illegal to camp in or near a city. Continue?
-cannotLoiterMoreThanXHours1,You cannot loiter more
-cannotLoiterMoreThanXHours2,than {0} hours at a time.
+serviceMembersOnly,Мои услуги предназначены только для членов организации.
+serviceDonateHowMuch,Сколько денег пожертвовать: 
+curedDisease,Вы вылечились.
+freeHolidayCuring,Вы лечитесь бесплатно благодаря сегодняшнему празднику.
+gettingQuests1,"Хм, давайте я посмотрю, какие задания у нас есть."
+gettingQuests2,"Пожалуйста, наберитесь терпения и подождите немного, %pcf."
+illegalRestWarning,Разбивать лагерь в городе или рядом с ним незаконно. Продолжать?
+cannotLoiterMoreThanXHours1,Ты не можешь бездельничать больше 
+cannotLoiterMoreThanXHours2,чем {0} часов подряд.
 automapToolTipTextGridButton,left click: switch between 2D top view and 3D view (hotkey: {0})\rright click: reset rot. axis to player pos (hotkey: {1})\rmouse wheel up while over btn: inc. perspective (only 3D mode)\rmouse wheel down while over btn: dec. perspective (only 3D mode)
 automapToolTipForwardButton,left click: move viewpoint forward (hotkey: {0})\rright click: move rotation axis forward (hotkey: {1})
 automapToolTipBackwardButton,left click: move viewpoint backwards (hotkey: {0})\rright click: move rotation axis backwards (hotkey: {1})
@@ -881,26 +881,26 @@ automapToolTipPanelCompass,"left click: toggle focus (hotkey: {0})\rbeacons: red
 automapPlayerPositionBeacon,player position beacon
 automapRotationPivotAxis,rotation pivot axis
 automapEntranceExitPositionBeacon,entrance/exit position beacon
-automapEntranceExit,entrance/exit
+automapEntranceExit,вход/выход
 automapPlayerMarker,player marker
-automapTeleporterEntrance,teleporter (entrance)
-automapTeleporterExit,teleporter (exit)
-exteriorAutomapBuildingTypeAlchemist,Alchemist
-exteriorAutomapBuildingTypeArmorer,Armorer
-exteriorAutomapBuildingTypeBank,Bank
-exteriorAutomapBuildingTypeBookseller,Bookseller
-exteriorAutomapBuildingTypeClothingStore,Clothing Store
-exteriorAutomapBuildingTypeFurnitureStore,Furniture Store
-exteriorAutomapBuildingTypeGemStore,Gem Store
-exteriorAutomapBuildingTypeGeneralStore,General Store
-exteriorAutomapBuildingTypeGuildHall,Guild Hall
+automapTeleporterEntrance,телепорт (вход)
+automapTeleporterExit,телепорт (выход)
+exteriorAutomapBuildingTypeAlchemist,Алхимик
+exteriorAutomapBuildingTypeArmorer,Оружейник
+exteriorAutomapBuildingTypeBank,Банк
+exteriorAutomapBuildingTypeBookseller,Книготорговец
+exteriorAutomapBuildingTypeClothingStore,Магазин одежды
+exteriorAutomapBuildingTypeFurnitureStore,Мебельный магазин
+exteriorAutomapBuildingTypeGemStore,Ювелирный магазин
+exteriorAutomapBuildingTypeGeneralStore,Магазин
+exteriorAutomapBuildingTypeGuildHall,Зал гильдии
 exteriorAutomapBuildingTypeHouseForSale,HouseForSale
-exteriorAutomapBuildingTypeLibrary,Library
-exteriorAutomapBuildingTypePalace,Palace
-exteriorAutomapBuildingTypePawnShop,Pawn Shop
-exteriorAutomapBuildingTypeTavern,Tavern
-exteriorAutomapBuildingTypeTemple,Temple
-exteriorAutomapBuildingTypeWeaponSmith,Weapon Smith
+exteriorAutomapBuildingTypeLibrary,Библиотека
+exteriorAutomapBuildingTypePalace,Дворец
+exteriorAutomapBuildingTypePawnShop,Ломбард
+exteriorAutomapBuildingTypeTavern,Таверна
+exteriorAutomapBuildingTypeTemple,Храм
+exteriorAutomapBuildingTypeWeaponSmith,Кузница
 exteriorAutomapBuildingTypeUnknown,Unknown
 exteriorAutomapToolTipTextGridButton,"left click: switch to next view mode (hotkey: {0})\ravailable view modes are:\r- original (hotkey {1})\r- extra: includes extra buildings (hotkey {2})\r- all: includes extra buildings, ground flats (hotkey {3})\rswitch background texture with {4}, {5}, {6}, {7}"
 exteriorAutomapToolTipForwardButton,left click: move up (hotkey: {0})\rright click: move to north location border (hotkey: {1})
@@ -912,63 +912,63 @@ exteriorAutomapToolTipRotateRightButton,left click: rotate map to the right (hot
 exteriorAutomapToolTipUpstairsButton,left click: zoom in (hotkey: {0})\rright click: apply maximum zoom)
 exteriorAutomapToolTipDownstairsButton,left click: zoom out (hotkey: {0}\rright click: apply minimum zoom)
 exteriorAutomapToolTipPanelCompass,left click: focus player position (hotkey: {0})\rright click: reset view (hotkey: {1})
-loading,Please wait...
-classicSave,Classic
-cancel,Cancel
-renameSave,Rename
-deleteSave,Delete
-switchChar,Switch Char
-savePrompt,Save Game
-loadPrompt,Load Game
-saveButton,Save
-loadButton,Load
-enterSaveName,Enter save name
-selectSaveName,Select a save
-confirmDeleteSave,Are you sure you want to delete save?
-confirmOverwriteSave,Overwrite this save?
-youMustEnterASaveName,You must enter a save name.
-youMustSelectASaveName,You must select a save name.
-noSavesFound,No saves found. Load a Classic save?
-cannotSaveNow,You cannot save now.
-addEffect,Add effect
-buySpell,Buy spell
-newSpell,New spell
-exit,Exit
-casterOnly,Caster only
-byTouch,By touch
-singleTargetAtRange,Single target at range
-areaAroundCaster,Area around caster
-areaAtRange,Area at range
-fireBased,Fire based
-coldBased,Cold based
-poisonBased,Poison based
-shockBased,Shock based
-magicBased,Magic based
-selectIcon,Select icon
-nextIcon,Next icon
-previousIcon,Previous icon
-nameSpell,Name spell
-enterSpellName,Enter spell name :
-noEffectsError,You must add at least one effect to this spell.
-deleteSpell,Do you want to delete this spell?
-sortSpells,Do you want to sort spells?
-effectNotFoundError,<effect not found>
-noItemToActivate,You have no usable magic item
-Akatosh,Akatosh
-Arkay,Arkay
-Dibella,Dibella
-Julianos,Julianos
-Kynareth,Kynareth
-Mara,Mara
-Stendarr,Stendarr
-Zenithar,Zenithar
-removeKeybind,Are you sure you want to remove the keybind for {0} ('{1}')?
-nord,Nord
+loading,"Пожалуйста, подожди..."
+classicSave,Классика
+cancel,Отмена
+renameSave,Переименовать
+deleteSave,Удалить
+switchChar,Поменять персонажа
+savePrompt,Сохранить игру
+loadPrompt,Загрузить игру
+saveButton,Сохранить
+loadButton,Загрузить
+enterSaveName,Введи имя сохранения
+selectSaveName,Выбери сохранение
+confirmDeleteSave,"Уверен, что хочешь удалить сохранение?"
+confirmOverwriteSave,Перезаписать это сохранение?
+youMustEnterASaveName,Ты должен ввести имя сохранения.
+youMustSelectASaveName,Ты должен выбрать имя сохранения.
+noSavesFound,Сохранения не найдены. Загрузить классическое сохранение?
+cannotSaveNow,Ты не можешь сохраниться сейчас.
+addEffect,Добавить эффект
+buySpell,Купить заклинание
+newSpell,Новое заклинание
+exit,Выход
+casterOnly,Только ролики
+byTouch,Прикосновение
+singleTargetAtRange,Одиночная цель на расстоянии
+areaAroundCaster,Область вокруг мастера
+areaAtRange,Область на расстоянии
+fireBased,На основе огня
+coldBased,На основе холода
+poisonBased,На основе яда
+shockBased,На основе шока
+magicBased,На основе магии
+selectIcon,Выбрать значок
+nextIcon,Следующий значок
+previousIcon,Предыдущий значок
+nameSpell,Заклинание имени
+enterSpellName,Введите имя заклинания :
+noEffectsError,Вы должны добавить к этому заклинанию хотя бы один эффект.
+deleteSpell,Вы хотите удалить это заклинание?
+sortSpells,Вы хотите отсортировать заклинания?
+effectNotFoundError,<эффект не найден>
+noItemToActivate,У тебя нет пригодного магического предмета
+Akatosh,Акатош
+Arkay,Аркей
+Dibella,Дибелла
+Julianos,Джулианос
+Kynareth,Кинарет
+Mara,Мара
+Stendarr,Стендарр
+Zenithar,Зенитар
+removeKeybind,Are you sure you want to remove the keybind for {0} ({1})?
+nord,Норд
 settingsNotApplied,Note: Some changes may not be applied until you restart the game.
 doneButton,Done
 temple,temple
 unknownPowers,Unknown Powers
-cannotBeRepaired,This cannot be repaired.
+cannotBeRepaired,Это не подлежит ремонту.
 youNeverAwaken,You never awaken.
 modSettings,Mod Settings
 gameEffectsSettings,Effect Settings
@@ -1042,7 +1042,7 @@ posterizationFull,Posterization (full)
 posterizationMinusSky,Posterization (-sky)
 palettizationFull,Palettization (full)
 palettizationMinusSky,Palettization (-sky)
-postProcess,Postprocess
+postProcess,Постобработка
 retroModeAspectCorrection,Aspect Ratio Correction
 FourThree,4:03
 SixteenTen,16:10
@@ -1339,213 +1339,213 @@ ocean,Ocean
 unknownUpper,Unknown
 switchToRegion,Switch To: {0} Region
 locationInRegionProvince,{0} in {1} province
-dayNames,"Sundas
-Morndas
-Tirdas
-Middas
-Turdas
-Fredas
-Loredas"
-monthNames,"Morning Star
-Sun's Dawn
-First Seed
-Rain's Hand
-Second Seed
-Midyear
-Sun's Height
-Last Seed
-Hearthfire
-Frostfall
-Sun's Dusk
-Evening Star"
-birthSignNames,"The Ritual
-The Lover
-The Lord
-The Mage
-The Shadow
-The Steed
-The Apprentice
-The Warrior
-The Lady
-The Tower
-The Atronach
-The Thief"
-seasonNames,"Fall
-Spring
-Summer
-Winter"
+dayNames,"Сандас
+Морндас
+Тирдас
+Миддас
+Турдас
+Фредас
+Лордас"
+monthNames,"Утренней звезды
+Восхода солнца
+Первого зерна
+Руки дождя
+Руки дождя
+Середины года
+Высокого солнца
+Последнего зерна
+Огня очага
+Начала морозов
+Заката солнца
+Вечерней звезды"
+birthSignNames,"Ритуал
+Любовник
+Лорд
+Маг
+Тень
+Конь
+Ученик
+Воин
+Леди
+Башня
+Атронах
+Вор"
+seasonNames,"Осень
+Весна
+Лето
+Зима"
 longDateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}, {4}{5} of {6:00}, 3E{7}"
 dateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}{4} of {5:00}, 3E{6}"
 dateFormatString,{0} the {1}{2} of {3:00}
 ingredientFormatString,{0} {1}
 longWeaponNameFormatString,{0} {1}
 longArmorNameFormatString,{0} {1}
-strRatings,"pathetic
-frail
-weak
-below average
-about average
-fairly strong
-athletic
-very strong
-powerful
-superhuman"
-intRatings,"vegetable-like
-idiotic
-half-witted
-dim
-about average
-cunning
-fairly clever
-very intelligent
-brilliant
-genius"
-wilRatings,"inane
-submissive
-passive
-distracted
-unassertive
-stable
-confident
-strong-willed
-very focused
-enlightened"
-agiRatings,"oafish
-bumbling
-clumsy
-awkward
-about average
-spry
-nimble
-dexterous
-very agile
-acrobatic"
-endRatings,"sickly
-pitiable
-unsteady
-erratic
-about average
-above average
-very healthy
-hardy
-titanic
-immortal"
-perRatings,"abhorrent
-unpopular
-anonymous
-unassuming
-unremarkable
-interesting
-charming
-arresting
-authoritative
-charismatic"
-spdRatings,"inactive
-sluggish
-very slow
-slow
-about average
-above average
-fast
-fleet-footed
-lightning-fast
-meteoric"
-lucRatings,"cursed
-hopeless
-ill-favored
-unfortunate
-about average
-fairly lucky
-lucky
-fortunate
-very auspicious
-divinely favored"
-Mage,Mage
-Spellsword,Spellsword
-Battlemage,Battlemage
-Sorcerer,Sorcerer
-Healer,Healer
-Nightblade,Nightblade
-Bard,Bard
-Burglar,Burglar
-Rogue,Rogue
-Acrobat,Acrobat
-Thief,Thief
-Assassin,Assassin
-Monk,Monk
-Archer,Archer
-Ranger,Ranger
-Barbarian,Barbarian
-Warrior,Warrior
-Knight,Knight
-Custom,Custom
-darkBrotherhoodRanks,"Apprentice
-Journeyman
-Operator
-Slayer
-Executioner
-Punisher
-Terminator
-Assassin
-Dark Brother
-Master Assassin"
-fightersRanks,"Apprentice
-Journeyman
-Swordsman
-Protector
-Defender
-Warder
-Guardian
-Champion
-Warrior
-Master"
-knightlyOrderRanks,"Aspirant
-Squire
-Gallant
-Chevalier
-Keeper
-Knight Brother
-Commander
-Marshall
-Seneschal
-Paladin"
-magesRanks,"Apprentice
-Journeyman
-Evoker
-Conjurer
-Magician
-Enchanter
-Warlock
-Wizard
-Master Wizard
-Archmage"
-templeRanks,"Novice
-Initiate
-Acolyte
-Adept
-Curate
-Disciple
-Brother
-Diviner
-Master
-Patriarch"
-thievesRanks,"Apprentice
-Journeyman
-Filcher
-Crook
-Robber
-Bandit
-Thief
-Ringleader
-Mastermind
-Master Thief"
+strRatings,"жалкий
+хрупкий
+слабый
+ниже среднего
+примерно средний
+довольно сильный
+спортивный
+очень сильный
+мощный
+сверхчеловек"
+intRatings,"овощ
+идиот
+полуумный
+тупой
+средний
+хитрый
+довольно умный
+очень умный
+гениальный
+гений"
+wilRatings,"безвольный
+покорный
+пассивный
+отвлеченный
+безапелляционный
+стабильный
+уверенный
+волевой
+очень сосредоточенный
+просветленный"
+agiRatings,"увалень
+неуклюжий
+неповоротливый
+неловкий
+средний
+ловкий
+проворный
+гибкий
+очень ловкий
+акробат"
+endRatings,"больной
+плачевный
+непостоянный
+неустойчивый
+около среднего
+выше среднего
+очень здоровый
+выносливый
+титанический
+бессмертный"
+perRatings,"отвратительный
+непопулярный
+анонимный
+непритязательный
+непримечательный
+интересный
+очаровательный
+интересный
+авторитетный
+харизматичный"
+spdRatings,"неактивный
+вялый
+очень медленный
+медленный
+около среднего
+выше среднего
+быстрый
+быстроногий
+молниеносный
+метеоритный"
+lucRatings,"проклятый
+безнадежный
+неблагоприятный
+несчастный
+примерно средний
+довольно удачливый
+удачливый
+счастливый
+очень удачный
+любимец богов"
+Mage,Маг
+Spellsword,Заклинатель
+Battlemage,Боевой маг
+Sorcerer,Колдун
+Healer,Целитель
+Nightblade,Ночной клинок
+Bard,Бард
+Burglar,Взломщик
+Rogue,Бродяга
+Acrobat,Акробат
+Thief,Вор
+Assassin,Ассасин
+Monk,Монах
+Archer,Лучник
+Ranger,Рейнджер
+Barbarian,Варвар
+Warrior,Воин
+Knight,Рыцарь
+Custom,Приключенец
+darkBrotherhoodRanks,"Ученик
+Подмастерье
+Оператор
+Истребитель
+Палач
+Каратель
+Терминатор
+Ассасин
+Темный брат
+Мастер-ассасин"
+fightersRanks,"Ученик
+Подмастерье
+Мечник
+Протектор
+Защитник
+Стражник
+Хранитель
+Чемпион
+Воин
+Мастер"
+knightlyOrderRanks,"Аспирант
+Сквайр
+Галант
+Шевалье
+Хранитель
+Рыцарь Брат
+Командор
+Маршал
+Сенешаль
+Паладин"
+magesRanks,"Ученик
+Подмастерье
+Эвокер
+Фокусник
+Маг
+Чародей
+Колдун
+Волшебник
+Мастер чародей
+Архимаг"
+templeRanks,"Новичок
+Посвященный
+Аколит
+Адепт
+Курат
+Послушник
+Брат
+Прорицатель
+Мастер
+Патриарх"
+thievesRanks,"Ученик
+Подмастерье
+Филчер
+Жулик
+Разбойник
+Бандит
+Вор
+Главарь
+Повелитель
+Мастер Вор"
 darkSister,Dark Sister
 nonMember,non-member
 knightSister,Knight Sister
 matriarch,Matriarch
 sister,Sister
-daedricSkill,Daedric
-orcishSkill,Orcish
+daedricSkill,Язык даэдра
+orcishSkill,Язык орков
 midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5}
-hthDamageFormatString,{0} dmg: {1}-{2}
+hthDamageFormatString,{0} урон: {1}-{2}
 affiliationFormatString,{0} (rep:{1})
