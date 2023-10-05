@@ -19,201 +19,197 @@ QuestFail:  [1003]
 Error: Questtext 1003 called on BRISIEN.Q
 
 RumorsDuringQuest:  [1005]
-The prophets say that soon what was unclaimed will be claimed.
-<--->
-Lady Brisienna awaits someone at _dirtypit_ in __dirtypit_.
-<--->
-That was some storm. Magically created, many are saying.
-<--->
-Lady Brisienna has taken up lodging at _dirtypit_ in __dirtypit_.
+Пророчества вещают, что очень скоро то, что было ничьим, найдет хозяина.
+                                     <--->
+Леди Бризьен кого-то ожидает в _dirtypit_ в __dirtypit_.
+                                     <--->
+Был очень сильный шторм. Созданный магией, так говорят.
+                                     <--->
+Леди Бризьен обосновалась в _dirtypit_ в __dirtypit_.
 
 RumorsPostfailure:  [1006]
-Lady Brisienna has left _dirtypit_, muttering about traitors to the Empire.
+Леди Бризьен, опасаясь предателей империи, уехала из _dirtypit_.
 
 RumorsPostsuccess:  [1007]
-Lady Brisienna has left _dirtypit_. She must've found who she was looking for.
+Леди Бризьен уехала из _dirtypit_. Должно быть она нашла то, что искала.
 
 QuestorPostsuccess:  [1008]
-<ce>        I hope your investigations are going well so far, %pcf.
-<ce>                                    
-<ce>                              -- Lady B.
+<ce> Надеюсь ваше расследование не стоит на месте, %pcf.
+<ce>  
+<ce>  -- леди Б.
 
 QuestLogEntry:  [1010]
 %qdt:
- I am on a mission from the emperor to investigate
- the shade of King Lysandus. His spirit has been
- haunting the city of Daggerfall. The emperor
- himself has charged me with the duty of laying
- his ghost to rest.
-    There is also the minor matter of a letter
- he sent to the Queen of Daggerfall. If I should
- find out what happened to the letter, he would be
- most appreciative.
-    Before landing in Daggerfall, a sudden storm
- capsized the ship. I barely made it into this cave.
+    Я на задании императора по расследованию причин
+ появления тени короля Лизандуса. Его дух появляется
+ в городе Даггерфол. Император лично поручил мне
+ упокоить его дух в мире.
+    Есть еще небольшое дело по поводу письма,
+ посланного им королеве Даггерфола. Если я разберусь,
+ что случилось с этим письмом, он будет очень мне
+ признателен.
+    Перед высадкой в Даггерфоле, внезапный шторм
+ перевернул корабль. С большим трудом мне удалось
+ достичь берега и оказаться в этой пещере.
 
 Message:  1011
 %qdt:
- I met with Lady Brisienna in a tavern room. She
- told me that the three major powers of the Iliac
- bay are Daggerfall, Wayrest, and Sentinel. If I
- am to investigate the mystery of Lysandus' ghost,
- I should start by speaking with the royal families
- of these fiefdoms.
+ Состоялась встреча с леди Бризьен в комнате таверны.
+ Она поведала, что в Илиакском заливе делами заправ-
+ ляют три силы: Даггерфол, Вэйрест и Сентинел.
+ Если я хочу разобраться в тайне призрака Лизандуса,
+ мне нужно для начала поговорить с правящими семьями
+ этих королевств.
 
 Message:  1012
-Lady Magnessen? She's the emmisary of the Blades in Daggerfall.
-<--->
-Lady Magnessen is a part of the set regularly at Castle Daggerfall.
-<--->
-Lady Magnessen was formerly in the employ of Mynisera, when she was Queen.
+Леди Магнессен? Она эмиссар Клинков в Даггерфоле.
+                                     <--->
+Леди Магнессен из общества, что обретается в замке Даггерфол.
+                                     <--->
+Леди Магнессен работала на Минисеру, когда ты была королевой.
 
 Message:  1013
-Lady Magnessen once worked for the Queen Mother, but always for the Emperor.
-<--->
-Lady Magnessen is the sister of the Great Knight, leader of the Blades.
-<--->
-I heard Lady Magnessen was accused of spying. Nobody knows where she is now.
+Когда-то леди Магнессен работала на мать-королеву, но всегда была предана императору.
+                                     <--->
+Леди Магнессен сестра Великого Рыцаря, лидера Клинков.
+                                     <--->
+Я слышал, что леди Магнессен была обвинена в шпионаже. Никто не знает, где она сейчас.
 
 Message:  1015
-<ce>              Ah, thank you for responding to my letter,
-<ce>                    %pcf. I am Lady Brisienna. Let
-<ce>             me bring you to date on affairs. The spectre
-<ce>                of King Lysandus haunts the streets of
-<ce>              Daggerfall at night. Trying to communicate
-<ce>               with him is futile. He will occasionally
-<ce>              moan the word "Vengeance", but that is the
-<ce>               only coherent word I have ever heard him
-<ce>             utter. If you are ever in Daggerfall, do not
-<ce>             wander the city at night. You are certain to
-<ce>                 be attacked by his legion of ghosts.
-<ce>                                    
-<ce>                 It would be probably more gainful to
-<ce>               investigate those who might have wronged
-<ce>            Lysandus to find the cause behind his torment.
-<ce>            I do not know if the royal family of Daggerfall
-<ce>                or another person or persons merit more
-<ce>                suspicion. The major powers of the Bay,
-<ce>               Sentinel, Wayrest, and Daggerfall may be
-<ce>                         good places to start.
-<ce>                            (continued...)
+<ce> Ах, спасибо, что ответили на мое письмо,
+<ce>  %pcf. Я леди Бризьен. Позвольте я введу вас в
+<ce>  курс дела. Призрак короля Лизандуса терроризирует
+<ce>  улицы Даггерфола по ночам. Попытки наладить с ним
+<ce>  контакт ни к чем не привели. Со стоном он
+<ce>  произносит лишь одно слово: "Возмездие", - это
+<ce>  единственное связное слово, все что можно разобрать.
+<ce>  Если вы будете в Даггерфоле, не выходите на улицы
+<ce>  по ночам, иначе будете атакованы легионами его
+<ce>  призраков.
+<ce>  Возможно будет более продуктивным провести
+<ce>  расследование того, что не так с Лизандусом,
+<ce>  чтобы найти причину его мучений. Не знаю,
+<ce>  подозревает ли кто что из членов королевской
+<ce>  семьи Даггерфола или других персон. Лучше всего
+<ce>  начать с главных правящих сил залива, Сентинела,
+<ce>  Вэйреста и Даггерфола.
+<ce>  (продолжение следует...)
 
 Message:  1016
-<ce>              In the matter of the letter, the Emperor's
-<ce>             agent says that he was unable to hand-deliver
-<ce>            it to the Queen because of the war. He hired a
-<ce>              courier who supposedly delivered the letter
-<ce>             in his stead. We do not even know the name of
-<ce>               this courier. Obviously, there is little
-<ce>            information of use, but it would be worthwhile
-<ce>              to see whether the letter arrived at Castle
-<ce>             Daggerfall at all. How you decide to do this
-<ce>             is entirely your decision. I will contact you
-<ce>                if any new information should surface.
-<ce>                                    
-<ce>            I am leaving Daggerfall soon. My position here
-<ce>            has been compromised and my life is in danger.
-<ce>              Do not mention my name in court. It is more
-<ce>               likely to hurt than help. Good luck, and
-<ce>                        watch your back, %pcf.
+<ce> Что касается письма, люди императора
+<ce>  сказали, что ему некогда было вручить письмо
+<ce>  королеве лично, потому что он был занят войной.
+<ce>  Он нанял курьера, который должен был доставить
+<ce>  письмо вместо него. Нам неизвестно имя этого
+<ce>  посыльного. Быть может что-то можно будет узнать
+<ce>  там, куда это письмо было послано, то есть в Даггерфоле.
+<ce>  Как вы поступите, полностью зависит от вас. Я
+<ce>  свяжусь с вами, если появится какая-либо новая
+<ce>  информация.
+<ce>  
+<ce>  Скоро я уезжаю из Даггерфола. Мое положение
+<ce>  здесь стало неблагоприятно, а жизнь моя в
+<ce>  опасности. Не упоминайте мое имя при дворе.
+<ce>  Это принесет больше вреда, чем пользы. Удачи,
+<ce>  %pcf, и будьте осторожны.
 
 Message:  1020
-Dear %pcn,
+Уважаемый друг %pcn,
  
-     I heard about your accident at sea, and feared the
- worst. Now that I've heard you're alive and well, I
- would like the opportunity to meet with you and discuss
- our beloved Emperor's mission in the Iliac Bay.
+     Я слышала о ваших неприятностях на море, и боялась
+ самого наихудшего. А сейчас мне стало известно, что вы
+ живы и с вами все в порядке. Я хотела бы встретиться с
+ вами и пообщаться насчет задания в Илиакском заливе,
+ выданного вам нашим дражайшим императором.
  
-     Allow me to introduce myself. I am Lady Magnessen,
- the Emperor's agent in the court of Daggerfall. My
- position is not so official as an ambassador. None but
- other agents of the Emperor know of my true affiliation.
- The Iliac Bay is rife with rebels against the Imperial
- throne, so your discretion is required.
+     Позвольте мне представиться. Я леди Магнессен, агент
+ императора при дворе Даггерфола. Мое положение при нем
+ менее официальное, по сравнению посольским. Никто из других
+ людей императора даже не догадывается о моих истинных
+ целях. В Илиакском заливе процветает дух бунтарства против
+ правления императорского трона, так что советую вам быть
+ осмотрительными.
  
-     For the purpose of our meeting, I will take a room
- at an inn, _dirtypit_ in __dirtypit_
- of Daggerfall, for a month. After that, I will no longer
- be available. I will expect you as soon as possible.
+     Для нашей встречи я найму на месяц комнату в таверне
+ _dirtypit_ в __dirtypit_, что в Даггерфоле.
+ По прошествии этого срока я уеду. Рассчитываю на ваше
+ скорейшее прибытие.
  
-<ce>                           Yours sincerely,
- 
-<ce>                       Brisienna, Lady Magnessen
+ Искренне ваша,
+ Бризьен, леди Магнессен
 
 Message:  1021
 %pcn,
  
-     I sent you a letter weeks ago. I only hope
- it caught up with you. If this one crosses your path
- after you have visited me on your way to see me in
- __dirtypit_ please do not take offense.
- As I mentioned in the previous letter, I am the
- Emperor's agent in Daggerfall and it is imperative
- that I speak with you. I have extend my stay at
- _dirtypit_ in __dirtypit_ for two more weeks.
+     Я посылала вам письмо несколько недель назад.
+ Это моя единственная надежда застать вас. Если один
+ из ваших путей приведет вас в __dirtypit_, то
+ обязательно навестите меня. Не делайте еще одной
+ ошибки. Как я уже говорила в предыдущем письме,
+ я представитель императора в Даггерфоле и очень важно,
+ чтобы мы встретились и поговорили. Я продлю свое пребывание
+ в _dirtypit_ в __dirtypit_ еще на две недели.
  
- Of course there is the possibility that you have
- intentionally snubbed me and shirked your duty to
- the Emperor. I hope that is not the case. If you
- fail to arrive, I will be forced to assume you are
- a traitor to his Imperial Majesty, Uriel Septim VII.
+ Конечно же велика возможность того, что вы намеренно
+ избегаете встречи со мной и пытаетесь улизнуть от
+ исполнения долга перед императором. Надеюсь я
+ ошибаюсь. Если вы не прибудете, я буду вынуждена
+ объявить вас предателем его Императорского Высочества,
+ Уриэля Септима Седьмого.
  
-<ce>                           Yours sincerely,
+ Искренне ваша,
  
-<ce>                       Brisienna, Lady Magnessen
+ Бризьен, леди Магнессен
 
 Message:  1022
 %pcn,
  
- I waited and you never arrived. I shall report
- this to the Emperor. If I have my way, you will
- be barred from service.
+ Я вас ждала, а вы так и не приехали. Я доложу
+ об этом императору. Если это будет в моих силах,
+ я отстраню вас от службы.
  
-<ce>                            Lady Magnessen
+ леди Магнессен
 
 Message:  1026
-<ce>           	You are approached by a young page who smiles in
-<ce>             recognition and does not ask your name before
-<ce>              he hands you a letter addressed to you. To
-<ce>               all of your questions, he merely responds
-<ce>                    with a blank look and a smile.
+<ce> К вам приблизился юный паж, который улыбнулся, узнав вас,
+<ce>  и, не спрашивая имени, вручил адресованное вам письмо.
+<ce>  На все ваши вопросы он отвечал невинным взглядом и
+<ce>  загадочно улыбался.
                                      <--->
-<ce>             A letter is pressed into your hand. You spin
-<ce>            to see who gave it to you. You catch a glimpse
-<ce>                of livery that vanishes into the crowd.
+<ce> Письмо легло в вашу руку. Вы повернулись посмотреть,
+<ce>  кто вручил его вам, и заметили мелькнувшую ливрею,
+<ce>  растворившуюся в толпе.
                                      <--->
-<ce>              A page steps forward saying "Letter for you
-<ce>                     %pcn," and hands you a note.
+<ce> Перед вами предстал паж, сказавший:"Письмо для
+<ce>  вас, %pcn", - после чего он вручил вам конверт.
                                      <--->
-<ce>              A courier steps up to you with a letter in
-<ce>               hand. "I was told to give this letter to
-<ce>                someone fitting your description," says
-<ce>               the courier. As you take it, the courier
-<ce>                     turns and walks quickly away.
+<ce> Пред вами предстал курьер. "Мне поручено вручить
+<ce>  письмо человеку, похожему на вас.", - произнес
+<ce>  он. Как только вы взяли конверт, курьер развернулся
+<ce>  и быстро скрылся из виду.
                                      <--->
-<ce>               Reaching into your pack for something to
-<ce>             eat, you spy a note. It wasn't there before.
+<ce> Залезши в свой багаж в поисках съестного вы
+<ce>  обнаружили конверт. Раньше там его не было.
                                      <--->
-<ce>             A redfaced courier startles you with a cry of
-<ce>                  "Letter for %pcn! Hey that must be
-<ce>                 you. Here, take this. Gotta go. Other
-<ce>                        deliveries to be made.
+<ce> Краснорожий посланник напугал вас криком: "Письмо
+<ce>  для некоего %pcn! Ага, это должно быть вы! Вот,
+<ce>  возьмите это. Отлично. Послание доставлено."
 
 Message:  1025
-<ce>             You wake and look around the room. Some hours
-<ce>           ago, you were in a boat, en route to Daggerfall,
-<ce>             when a storm of supernatural strength boiled
-<ce>           over the Iliac Bay like a malefic creature. Your
-<ce>              boat was destroyed, but you managed to swim
-<ce>           through the churning water to a promontory rock.
-<ce>          There you found a cave and escaped the fury of the
-<ce>           storm. You had only just lit a small fire when a
-<ce>            mudslide sealed you within. Your fear of being
-<ce>             buried alive calmed when you saw the corridor
-<ce>           leading out of the cavern. Perhaps there is a way
-<ce>          out of this cave after all. Once free of the cave,
-<ce>                  you can begin the Emperor's quest.
+<ce> Проснувшись вы огляделись по сторонам. Несколько часов
+<ce>  назад вы были на корабле, направляюшимся в Даггерфол,
+<ce>  но внезапный шторм невиданной силы разыгрался
+<ce>  у побережья Илиакского залива с силой злобного
+<ce>  монстра. Ваш корабль затонул, но вы спаслись
+<ce>  от бушующих морских вод и поплыли в сторону мыса.
+<ce>  Там вы нашли пещеру и переждали ярость шторма.
+<ce>  Вы успели развести небольшой костер, когда
+<ce>  огромный кусок грязи наглухо запечатал пещеру.
+<ce>  Вы начали опасаться, что эта пещера станет вашей
+<ce>  могилой, когда увидели коридор ведущий вглубь
+<ce>  пещеры. Быть может есть и другой выход из этой
+<ce>  дыры? Как только вы освободитесь, то сможете
+<ce>  взяться за выполнение задания императора.
 
 
 -- Symbols used in the QRC file:

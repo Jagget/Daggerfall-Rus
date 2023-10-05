@@ -22,27 +22,29 @@ QuestFail:  [1003]
 <ce>                         Error -- 1003 called
 
 QuestComplete:  [1004]
-<ce>               As =bloodfather_ dies, you feel the curse
-<ce>                   of vampirism lift from your soul.
-<ce>                      You are no longer a vampire.
+<ce> Как только =bloodfather_ умер, вы почувствовали, как
+<ce>  проклятие вампиризма оставило в покое вашу душу.
+<ce>  Вы больше не вампир.
 
 RumorsDuringQuest:  [1005]
-<ce> _hunter_ is leading a new crusade against vampires through %reg soon.
-<ce> Maybe then we'll be able to walk the streets at night again without fear.
+<ce> Скоро _hunter_ начнет новый поход против вампиров в %reg.
+<ce>  Быть может тогда мы сможем без страха ходить по ночным улицам.
 
 RumorsPostfailure:  [1006]
-<ce>_hunter_ and %g3 men killed a lot of vampires in %reg, but I doubt they
-<ce>                             got them all.
+<ce> _hunter_ и %g3 люди положили предостаточно вампиров в %reg, но я надеюсь
+<ce>  они убили их всех.
                                      <--->
-<ce> _hunter_ should have left well enough alone.  %g3 crusades just send
-<ce> the vampires into hiding, and when %g leaves, they come back stronger than  ever.
+<ce> _hunter_ сейчас в полной силе.   %g3 походы просто заставят
+<ce>  вампиров спрятаться и переждать. А когда %g уйдет отсюда, они станут еще
+<ce>  более сильными, чем прежде.
 
 RumorsPostsuccess:  [1007]
-<ce>_hunter_ and %g3 men killed a lot of vampires in %reg, but I doubt they
-<ce>                             got them all.
+<ce> _hunter_ и %g3 люди положили предостаточно вампиров в %reg, но я надеюсь
+<ce>  они убили их всех.
                                      <--->
-<ce> _hunter_ should have left well enough alone.  %g3 crusades just send
-<ce> the vampires into hiding, and when %g leaves, they come back stronger than  ever.
+<ce> _hunter_ сейчас в полной силе.   %g3 походы просто заставят
+<ce>  вампиров спрятаться и переждать. А когда %g уйдет отсюда, они станут еще
+<ce>  более сильными, чем прежде.
 
 QuestorPostsuccess:  [1008]
 Error -- 1008 called
@@ -51,163 +53,165 @@ QuestorPostfailure:  [1009]
 Error -- 1009 called
 
 Message:  1011
-_hunter_ searches out and destroys vampires all across Tamriel.
-<--->
-_hunter_ has devoted %g3 life to hunting vampires.
+_hunter_ выискивает и уничтожает вампиров по всему Тамриэлю.
+                                     <--->
+_hunter_ посвятил свою жизнь охоте на вампиров.
 
 Message:  1012
-<ce>They say that _hunter_'s own father was killed by vampires.  That's what
-<ce>               drove %g2 to %g3 fanatical hatred of them.
+<ce> Говорят, что родной отец охотника был убит вампирами. Вот почему он
+<ce>  так фанатично преследует их.
                                      <--->
-<ce> _hunter_ killed %g3 own father after he became a vampire.  Now that's
-<ce>                       what I call a true zealot!
+<ce> _hunter_ убил своего собственного отца, когда тот стал вампиром.  Вот почему
+<ce>  я называю его фанатиком!
 
 Message:  1020
                        %qdt
  
- Dear %pcn of %vam,
+ Уважаемый друг %pcn из клана %vam,
  
-    Let me introduce myself.  I am _hunter_.
- You may have heard of me -- the renowned vampire
- hunter?  Do not be hasty in your judgment of me,
- however.  I am not your enemy, at least not yet.
- While I abhor vampirism with a passion, and have
- devoted my life to stamping out this dark plague
- from Tamriel, I understand that many are innocent
- victims like yourself.  The will to live is not
- of itself evil, and I always try to offer my quarry
- one chance to prove that their bloody work is based
- on necessity, not love for killing.
-    I am sure that your "kinfolk" have not told
- you this, but vampirism can be cured.  To do so,
- you must kill your "bloodfather", the ancient evil
- that created the line of vampires leading to you.
- In doing so, you will not only free yourself, but
- rid %reg of a cancer at its heart.
+    Позвольте представиться. Меня зовут _hunter_.
+ Быть может вы уже слышали обо мне -- известном
+ охотнике на вампиров? Не спешите плохо судить обо
+ мне. Я вам не враг, пока не враг. Я всей душой
+ ненавижу вампиризм, поэтому и посвятил всю
+ жизнь изгнанию этой заразы из Тамриэля. Я знаю
+ сколько здесь живет таких же невинных жертв как
+ и вы. Воля к жизни это совсем не зло и я всегда
+ пытаюсь предоставить моему противнику шанс доказать,
+ что его кровавые дела вызваны необходимостью, а
+ не из любви к убийству.
+    Я уверен, что ваши "близкие" не говорили вам,
+ но вампиризм можно исцелить. Для этого вам надо
+ всего лишь убить своего "отца по крови", древнее
+ зло, которое создало вокруг себя целое поколение
+ вампиров и управляющее вами. Сделав это, вы не
+ только освободите себя, но и излечите %reg
+ от этой зловонной накипи в сердце.
  
-<ce>                              (continued)
+<ce>                  (продолжается дальше)
  
-    I myself do not know where to find your
- "bloodfather," but my sources have revealed the name
- of one high in %vam who should have this information,
- _vamp1_ of ___vamp1_.  I will wait
- =huntstart_ days before moving against the vampires of %reg,
- to give you a chance to save yourself.
-    Consider my offer well, %pcn.  You have
- =huntstart_ days, then you and the rest of %vam
- will be hunted down like vermin.
+    Лично я не знаю, где можно найти вашего "кровника",
+ но мои источники узнали имя одного из высших вампиров,
+ который обладает этой информацией, _vamp1_ из
+ ___vamp1_. Я подожду =huntstart_ дней, прежде чем
+ начну рейд против местных вампиров, и дам вам шанс
+ спастись.
+    Примите мое предложение, %pcn. У вас
+ ровно =huntstart_ дней, а потом вы и ваш род из
+ %vam будут уничтожены как паразиты.
  
-<ce>                                _hunter_
+<ce>                          _hunter_
 
 Message:  1021
-<ce>                      Do you want to show _vamp1_
-<ce>                       the letter from _hunter_?
+<ce> Хотите показать вампиру _vamp1_
+<ce>  письмо от охотника _hunter_?
 
 Message:  1022
-<ce>                You have done well to bring this to me,
-<ce>                   %pcn.  _hunter_ has been the bane
-<ce>             of %vam for years.  With this advance warning,
-<ce>             we can save the lives of many of our kinfolk.
-<ce>              Do not underestimate the danger you are in,
-<ce>               %pcf.  _hunter_ is ruthless and competent,
-<ce>              and %g3 spies are everywhere.  %g would make
-<ce>              an excellent addition to %vam -- perhaps %g
-<ce>              will yet.  Be that as it may, %g knows your
-<ce>              name, and do not doubt that %g will attempt
-<ce>                      to make good on %g3 threat.
-<ce>                      May the night keep you safe.
+<ce> Правильно сделали, что принесли это мне,
+<ce>  %pcn. _hunter_ многие годы был несчастьем для
+<ce>  %vam. Благодаря этому изысканному предупреждению
+<ce>  мы можем спасти жизни многих наших родичей.
+<ce>  Не недооценивайте опасность, грозящую вам,
+<ce>  %pcf. _hunter_ беспощаден и опытен в этих
+<ce>  делах, а его шпионы буквально повсюду. %g
+<ce>  был бы отличным пополнением для нашего клана --
+<ce>  -- если бы хотел этого. Примите к сведению,
+<ce>  что %g знает ваше имя и не думайте, что %g
+<ce>  поступает исключительно из добрых побуждений.
+<ce>  Да хранит вас ночь.
 
 Message:  1023
-<ce>                  %pcn, isn't it?  I have heard good
-<ce>                things about you from the rest of %vam.
-<ce>               So, you want to find your bloodfather.  An
-<ce>           understandable urge, although this is a privilege
-<ce>               not usually granted to one of your youth.
-<ce>              However, you have made such progress in %vam
-<ce>            already, I believe I can make an exception.  Let
-<ce>          me see, he must be either =elder_ or =bloodfather_.
-<ce>                 You can find them at ___wrongdung_ and
-<ce>                 ___fatherdung_, respectively.  I would
-<ce>                 advise against intruding on an elder's
-<ce>             seclusion lightly, however.  It would be best
-<ce>                 if you looked up _vamp2_ of ___vamp2_.
-<ce>              %g is the Keeper of the Bloodline, and will
-<ce>              be able to tell you with certainty which of
-<ce>              %vam elders is your bloodfather.  Take this
-<ce>              bracelet to %g2 so %g will know I sent you.
+<ce> %pcn, не так ли?  Я слышал хорошие
+<ce>  вести, что вы из клана %vam.
+<ce>  Итак, вы хотите найти своего отца по крови.
+<ce>  Непонятная потребность, поскольку эта привилегия
+<ce>  дается не каждому вашего возраста. Разве что
+<ce>  вы уже продвинулись достаточно далеко в %vam,
+<ce>  тогда я мог бы сделать для вас исключение.
+<ce>  Тааак...посмотрим... это может быть =bloodfather_
+<ce>  или =elder_. Вы можете поискать их в ___wrongdung_
+<ce>  и ___fatherdung_ соответственно.
+<ce>  Я бы не советовал вам нарушать уединения
+<ce>  старейших. Лучше всего будет, если вы поищете
+<ce>  _vamp2_ из ___vamp2_. %g Хранитель Поколения
+<ce>  и способен рассказать вам, кто же из старейших
+<ce>  являается вашим отцом по крови. Возьмите этот
+<ce>  браслет, по нему %g поймет, что я послал вас.
 
 Message:  1024
-<ce>               Hmph.  You are very young to be entrusted
-<ce>               with such information.  However, since you
-<ce>              carry _vamp1_'s token, I will reveal to you
-<ce>            where your bloodfather, =bloodfather_, resides.
-<ce>            You will find him in his lair in ___fatherdung_.
-<ce>             Be aware that at this time of year, the elders
-<ce>                 do not like to be disturbed by anyone.
-<ce>          Intrude upon =bloodfather_'s solitude at your peril.
+<ce> Хммм. Вы слишком юны, чтобы быть облеченными
+<ce>  достаточным доверием для получения этой
+<ce>  информации. Но поскольку у вас при себе знак
+<ce>  _vamp1_, я расскажу, где находится ваш отец
+<ce>  по крови, =bloodfather_.
+<ce>  Вы найдете его в своем жилище в ___fatherdung_.
+<ce>  Будьте осторожны, в это время года старейшины
+<ce>  не любят, когда их беспокоят. Нарушить покой и
+<ce>  уединение =bloodfather_, это все на ваш страх
+<ce>  и риск.
 
 Message:  1025
-<ce>                Bloodtraitor!  We have learned of your
-<ce>             treachery.  You will never find =bloodfather_,
-<ce>                 although your days as one of %vam are
-<ce>                  about to end, do not worry. _hunter_
-<ce>                    will not need to hunt you down.
+<ce> Предатель крови!  Мы знаем о твоей измене.
+<ce>  Ты никогда не найдешь =bloodfather_. Твои
+<ce>  дни пребывания одним из %vam пришли к концу,
+<ce>  не волнуйся. Охотнику даже не потребуется
+<ce>  убивать тебя.
 
 Message:  1030
-<ce>               Stripling, do not disturb my meditations!
-<ce>                    Begone, or my hunger will force
-<ce>                            me to slay you!
+<ce> Юнец, ты прерываешь мою медитацию!
+<ce>  Пошел прочь, или мой голод заставит
+<ce>  убить тебя!
 
 Message:  1031
-<ce>                        You have slain =elder_,
-<ce>                             Elder of %vam.
+<ce> =elder_ убит. Убит вами.
+<ce>  Старейший из рода %vam.
 
 Message:  1032
-<ce>                     %pcn, your blood calls to me.
-<ce>                   Why do you strike your own father?
-<ce>                      %vam punishes patricide with
-<ce>                  death.  Do not force me to carry out
-<ce>                 this sentence myself.  Flee, my child!
+<ce> %pcn, твоя кровь взывает ко мне.
+<ce>  Зачем ты ударил своего родного отца?
+<ce>  %vam наказывает отцеубийство смертью.
+<ce>  Не заставляй меня прибегать к крайним
+<ce>  мерам. Беги, дитя мое!
 
 Message:  1040
-<ce>                   _hunter_ said I'd find you here.
-<ce>                           Die, nightstalker!
+<ce> _hunter_ сказал мне, что я найду тебя здесь.
+<ce>  Умри, Крадущийся-В-Ночи!
 
 QuestTimeLapse:  [1045]
-<ce>                   An unfamiliar object in your pack
-<ce>                   catches your eye.  It is a letter,
-<ce>                 addressed to you in an elegant flowing
-<ce>                    script.  How did that get there?
+<ce> Ваше внимание привлек незнакомый
+<ce>  объект в вашем багаже. Это письмо,
+<ce>  адресованное вам и написанное
+<ce>  изысканным почерком. Откуда оно
+<ce>  взялось здесь?
 
 Message:  1050
 %qdt:
- The vampire hunter _hunter_
- has sent me a letter vowing to
- hunt me down unless I cure myself
- of vampirism by killing my bloodfather.
- _hunter_ does not know who or where
- my bloodfather is, but %g suggested
- that _vamp1_ of
- ___vamp1_ might know.
- I have =huntstart_ days before the vampire
- hunt begins.
+ Охотник на вампиров _hunter_
+ прислал письмо с угрозой убить
+ меня, если я не излечусь от вампиризма
+ убив своего "отца по крови".
+ _hunter_ не знает кто он и где обитает,
+ но уверен, что _vamp1_ из ___vamp1_
+ может знать об этом.
+ У меня =huntstart_ дней, прежде чем
+ начнется охота.
 
 -moved vamp1 line down, was running outside journal boundaries
 
 Message:  1051
 %qdt:
- _vamp1_ believes that my bloodfather
- lives either in ___wrongdung_ or
- ___fatherdung_, but advised that
- I take %g3 bracelet to _vamp2_ of
- __vamp2_, ___vamp2_, who can
- tell me for sure where to find him.
+ _vamp1_ уверил меня, что мой "отец
+ по крови" живет или в ___wrongdung_
+ или в ___fatherdung_, но предоставил
+ этот браслет, чтобы показать его _vamp2_
+ в __vamp2_ в ___vamp2_, кто может
+ сказать мне точное местонахождение.
 
 Message:  1052
 %qdt:
- _vamp2_ told me that my bloodfather's
- name is =bloodfather_, and that he
- lives in ___fatherdung_.
+ _vamp2_ сказал мне, что моего "отца по крови"
+ зовут =bloodfather_ и что он живет
+ в ___fatherdung_.
 
 
 -- Symbols used in the QRC file:
