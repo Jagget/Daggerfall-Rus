@@ -1,210 +1,207 @@
-1.	After the College of Destruction, what school of 
-	magic have you been studying the second longest?
-a.	Restoration
+1.	После школы Разрушения какую вторую школу
+	вы изучали дольше всего?
+a.	Восстановления
 	#4250
 	22 +12
 	23 +6
-b.	Illusion
+b.	Иллюзии
 	#4251
 	22 +12
 	24 +6
-c.	Alteration
+c.	Изменения
 	#4252
 	22 +12
 	25 +6
-d.	Thaumaturgy
+d.	Тауматургии
 	#4253
 	22 +12
 	26 +6
-e.	Mysticism
+e.	Мистицизма
 	#4254
 	22 +12
 	27 +6
 
-2.	What motivates you into a life of
-	adventure?
-a.	Riches
+2.	Ради чего вы ищете приключения?
+a.	богатства
 	#4255
 	GP +500
-b.	Fame
+b.	слава
 	#4256
 	r4 +10
 	r2 +10
-c.	Knowledge
+c.	знания
 	#4257
 	IT 7 0 0
-d.	Fun
+d.	веселое времяпровождение
 	#4258
 	1 +3
 	2 +3
-e.	Helping Others
+e.	помощь другим
 	#4259
 	r0 +10
 
-3.	In between formal study, you spent your
-	time ___.
-a.	socializing with aristocrats
+3.	В промежутках между учебой вы ---.
+a.	общались с аристократами
 	#4260
 	1 +6
 	r3 +5
 	r0 -5
-b.	learning streetsmarts
+b.	изучали жизнь улиц
 	#4261
 	2 +6
 	r0 +2
 	r4 +3
 	r3 -5
-c.	practicing acrobatics
+c.	практиковались в акробатике
 	#4262
 	3 +2
 	20 +2
 	18 +2
-d.	learning economics
+d.	изучали экономику
 	#4263
 	14 +6
-e.	swimming
+e.	gkfdfkb
 	#4265
 	17 +6
-f.	sparring
+f.	проводили спарринги
 	#4266
 	30 +6
 
-4.	Since childhood, you have saved  ___.
-a.	100 gold pieces
+4.	Со времен детства вы сохранили  ---.
+a.	100 золотых монет
 	#4167
 	GP +100
-b.	A favorite book
+b.	любимую книгу
 	#4168
 	IT 7 0 0
-c.	A cuirass
+c.	кирасу
 	#4169
 	IT 2 0 0
-d.	A katana
+d.	катану
 	#4193
 	IT 3 8 0
 
-5.	In gratitude for services rendered, the
-	Emperor gave you ___.
-a.	Over 200 gold pieces
+5.	В награду за ваши услуги
+	император дал вам ---.
+a.	свыше 200 золотых монет
 	#4172
 	GP +250
-b.	An ebony dagger
+b.	эбеновый кинжал
 	#4173
 	IT 3 0 7
-c.	A book
+c.	книгу
 	#4174
 	IT 7 0 0
-d.	A ruby
+d.	рубин
 	#4175
 	IT 14 0 0
-e.	A silver staff
+e.	серебряный посох
 	#4176
 	IT 3 2 2
-f.	A pearl
+f.	жемчужину
 	#4191
 	IT 22 1 0
 
-6.	As you grew older, you received additional
-	magical training in ___.
-a.	The School of Destruction
+6.	Став старшеб вы получили дополнительные
+	магические знания в области ---.
+a.	школы Разрушения
 	22 +6
-b.	The School of Restoration
+b.	школы Восстановления
 	23 +6
-c.	The School of Illusion
+c.	школы Иллюзии
 	24 +6
-d.	The School of Alteration
+d.	школы Изменения
 	25 +6
-e.	The School of Thaumaturgy
+e.	школы Тауматургии
 	26 +6
-f.	The School of Mysticism
+f.	школы Мистицизма
 	27 +6
 
-7.	As a child, your nickname was ___.
-a.	Rabbit
+7.	В детстве вашим прозвищем было ---.
+a.	Кролик
 	3 +6
-b.	Guppy
+b.	Рыбка
 	17 +6
-c.	Quicksilver
+c.	Живчик
 	21 +6
-d.	Scrapper
+d.	Задира
 	30 +6
-e.	Monkey
+e.	Обезьяна
 	18 +6
 
-8.	You are friendlier than most with ___.
-a.	the savage Harpies
+8.	Дружелюбнее всего вы относитесь к ---.
+a.	диким гарпиям
 	5 +6
-b.	the simple Giants
+b.	простодушным великанам
 	6 +6
-c.	the glorious Dragons
+c.	блистательным драконам
 	7 +6
-d.	the immodest Nymphs
+d.	нахальным нимфам
 	8 +6
-e.	the infernal Daedra
+e.	жестоким даэдрам
 	9 +6
-f.	the bucolic Spriggans
+f.	пасторальным древолюдям
 	10 +6
-g.	the primitive Centaurs
+g.	первобытным кентаврам
 	11 +6
-h.	the mischevious Imps
+h.	вредным бесам
 	12 +6
 
-9.	Of all disagreeable types, you have the
-	most personal hatred for ___.
-a.	Sanctimonious priests
+9.	Из всех неприятных типов вы
+	больше всего ненавидите ---.
+a.	ханжей священников
 	AE M 8 12 +3
-b.	Diabolic wizards
+b.	злобных волшебников
 	AE M 8 2 +4
-c.	Stupid peasants
+c.	тупых крестьян
 	AE M 8 8 +3
-d.	Power-mad robber barons
+d.	беспредельщиков баронов
 	AE M 8 17 +4
-e.	Immoral assassins
+e.	безнравственных ассассинов
 	AE M 8 11 +2
 
-10.	You are intimate friends with ___.
-a.	a Monk
+10.	Вашим близким другом был ---.
+a.	бродячий монах
 	AF O 8 12 +1
-b.	a Mage
+b.	маг
 	AF O 8 2 +1
-c.	a Rogue
+c.	жулик
 	AF O 8 8 +1
-d.	a Warrior
+d.	воин
 	AF O 8 17 +1
-e.	an Assassin
+e.	ассассин
 	AF O 8 11 +1
 
-11.	What god, if any, do you worship?
-a.	None
+11.	Какому богу вы поклоняетесь,
+a.	нет такого
 	r2 +5
-b.	Arkay, Birth and Death God
+b.	Аркаю, богу жизни и смерти
 	rf82 +5
-c.	Zenithar, God of Commerce
+c.	Зенитару, богу коммерции
 	rf84 +5
-d.	Mara, the Mother Goddess
+d.	Маре, богине-матери
 	rf88 +5
-e.	Dibella, Goddess of Beauty
+e.	Дибелле, богине красоты
 	rf98 +5
-f.	Julianos, God of Logic
+f.	Джулианосу, богу логики
 	rf94 +5
-g.	Akatosh, God of Time
+g.	Акатошу, богу времени
 	rf92 +5
-h.	Stendarr, God of Mercy
+h.	Стендарру, богу милосердия
 	rf106 +5
-i.	Kynareth, Goddess of Air
+i.	Кинарет, богине воздуха
 	rf36 +5
 
-12.	You have the most trouble ___.
-a.	Resisting poisons
+12.	Труднее всего вам ---.
+a.	сопротивляться ядам
 	RP -10
-b.	Staying awake and alert
+b.	быть настороже
 	FT -5
-c.	Getting along with others
+c.	быть с другими
 	RR -5
-d.	Avoiding diseases
+d.	избегать болезней
 	RD -5
-e.	Resisting magic
+e.	сопротивляться магии
 	MR -5
-f.	Fighting without magic
+f.	сражаться без магии
 	TH -5
-
