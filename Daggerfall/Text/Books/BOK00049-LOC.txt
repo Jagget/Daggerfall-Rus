@@ -1,191 +1,79 @@
-Title: The Real Barenziah, Part VII
-Author: Anonymous
+Title: Подлинная Барензия, т. 7
+Author: Неизвестный автор
 IsNaughty: False
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]The Real
-
-[/center]Barenziah
-
-[/center]Part VII
-
-
+[/center]Подлинная Барензия, т. 7
 
 [/font=4]
 
+«Все, что я когда-либо любила, я потеряла, — думала Барензия, смотря на верховых рыцарей впереди и позади, ее камеристка сидела рядом с ней. — Но я получила некоторую власть и богатство, и было обещано еще больше. Дорого я за это заплатила. Теперь я лучше понимаю, почему Тайбер Септим так любит власть, если ему часто приходиться так дорого платить. Несомненно, ценность узнается по цене, которую мы за нее платим». По желанию, она теперь ехала верхом на чалой кобыле, одетая воином, в великолепной кольчуге работы темных эльфов.
 
+Проходили дни, ее кортеж ехал по дороге на восток, и вокруг постепенно появлялись крутые горы Морровинда. Воздух был разрежен, и постоянно дул холодный осенний ветер. Но он приносил сладкий аромат поздно цветущих черных роз, растущих во всех укромных уголках и расщелинах высокогорий, находя питание даже в самых каменистых местах. В маленьких городах и деревушках вдоль дороги собирались разные темные эльфы, выкрикивали ее имя или просто глазели. Большинство ее сопровождающих были редгарды, было несколько высоких эльфов, нордов и бретонов. С продвижением в сердце Морровинда, они чувствовали себя все более неуютно и держались ближе друг к другу. Даже эльфийские рыцари были настороже.
 
-[/center]
+Но Барензия чувствовала себя как дома. Сама земля приветствовала ее. Ее земля.
 
+Симмах встретил ее на границе Морнхолда в сопровождении рыцарей, около половины которых были темными эльфами. В имперских боевых доспехах, отметила она.
 
+По поводу ее прибытия в город был устроен парад, и произнесены речи сановников.
 
- "Everything I have ever loved I have lost," Barenziah
-thought, looking over the mounted knights behind and ahead,
-the tirewomen near her in a carriage, "yet have I gained a
-measure of wealth and power, and the promise of more to
-come. Dearly have I bought it. Now do I better understand
-Tiber Septim's love of it, if he has oft paid such prices,
-for surely worth is measured by the price one pays."
-Barenziah, by her wish, rode mounted on a shining black mare,
-clad as a warrior in shining chain mail of dark elf making.
+«Я позаботился о ремонте королевских апартаментов, — сказал ей генерал, когда они подъезжали к дворцу, — но, разумеется, вы можете изменить там все, что вам не по вкусу». Он продолжал говорить о подробностях коронации, которая должна была состояться через неделю. Он был прежним командиром, но она почувствовала кое-что еще. Он ожидал ее одобрения всех приготовлений, фактически, выпрашивал его. Это было ново. Раньше ему никогда не требовалась ее благодарность.
 
- As the slow days slipped by and her train rode a winding
-road eastward into the setting sun, around her rose the
-steep-sided mountain slopes of Morrowind. The air was thin
-and a chill late autumn wind blew constantly, but it was
-also rich with the sweet spice smell of the late-blooming
-black rose, which grew in every shadowy nook and crevice,
-finding nourishment even in the stoniest slopes. In small
-villages and towns, ragged dark elf folk gathered along the
-road to cry her name or simply gape. Most of her knightly
-escort were Redguards with a few dark elves, Nords and
-Bretons scattered among them. As they wove their way into the
-heart of Morrowind, these grew increasingly uncomfortable
-and clung together. Even the dark elf knights seemed somewhat
-uneasy. Barenziah felt at home, felt the welcome extended to
-her by this land.
+Он не расспрашивал ее о жизни в Имперском городе, или о ее интриге с Тайбером Септимом, хотя Барензия была уверена, что Дреллиэн рассказала ему, или написала ранее, во всех подробностях.
 
- Symmachus met her at the Mournhold borders with an escort of
-knights, about half of whom were dark elf in Imperial battle
-dress, she noted. There was a grand parade into the city and
-speeches of welcome from elders. 
+Сама церемония, как и многое другое, была смесью старого и нового: некоторые ее части взяты из древних традиций темных эльфов Морнхолда, остальные указаны имперским приказом. Она поклялась служить Империи и Тайберу Септиму, так же как и Морнхолду и его народу. Она приняла клятвы верности и преданности народа, дворян, и совета. Совет состоял из смеси имперских эмиссаров (называемых «советники») и местных представителей народа Морнхолда, которые были, в основном, старейшинами, в согласии с эльфийским обычаем.
 
- "I've had the queen's suite refurbished for you," he said,
-"but you can change anything not to your taste, of course."
-He went on about details of the coronation ceremony which was
-to be held in a week. He was his old commanding self, but she
-sensed something else as well. He was eager for her approval
-of the arrangements. He asked her nothing about her stay in
-Imperial City or Tiber Septim, although Barenziah was
-certain that Drelliane had told him everything in detail.
+Позже, Барензия обнаружила, что тратит больше времени на попытки примирить эти две фракции и их сторонников. Старейшины должны были пойти навстречу примирению, в свете реформ, представленных Империей, и относившихся ко владению землями и сельскому хозяйству. Но многое в них противоречило обычаям темных эльфов. Тайбер Септим, «именем Единого», установил новую традицию, и даже боги и богини должны были подчиниться.
 
- The ceremony itself, like so much else, was a mixture of old
-and new, parts of it dictated by Imperial format, as she
-was sworn to service of the Empire and Tiber Septim, as
-well as to the land of Mournhold and its people. She then
-accepted fealty from the people and the council. The
-council was composed of a mixture of Imperial
-representatives, advisors they were called, and native
-representatives of the people. These latter were mostly
-elders, in accordance with elven custom. Barenziah found
-that much of her time was occupied in attempting to
-reconcile these two forces. And the elders were expected to
-do most of the conciliating in the name of the reforms
-introduced by  the Empire, such as land ownership and surface
-farming, which went clean against dark elven tradition, as
-laid down by their ancient gods and goddesses. Now, Tiber
-Septim, in the name of the One had decreed a new tradition,
-and the gods and goddesses themselves were expected to obey.
+Новая королева полностью ушла в работу и учебу. Она покончила с любовью и мужчинами надолго, если не навсегда. Были и другие удовольствия, как и говорил ей тогда Симмах: удовольствия разума и власти. Она полюбила (удивительно, ведь в Имперском городе ей это не нравилось) историю и мифологию темных эльфов, желая знать больше о народе своих предков. Она с удовлетворением отметила, что они были гордыми воинами, и умелыми мастерами, и хитроумными магами еще с незапамятных времен.
 
- Barenziah threw herself into work and study. She was through
-with love and men for a long, long time, if not forever.
-There were other pleasures, she discovered, as Symmachus had
-promised, those of the mind, of power. She developed a love
-for dark elf history and legend, a hunger to know the people
-from whom she sprang, proud warriors and craftsmen. 
+Тайбер Септим прожил еще полвека, и иногда она встречалась с ним, когда по разным причинам ее вызывали в Имперский город. При встрече он тепло приветствовал ее, и они долго разговаривали о событиях в Империи, когда представлялась возможность. Казалось, он забыл, что между ними было нечто большее, чем дружба и политика. Он мало изменился с годами. Ходили слухи, что маги смогли продлить ему жизнь, и даже, что Единый даровал ему бессмертие. Но однажды посланник принес весть о смерти Тайбера Септима, и о том, что его сын, Пелагиус, стал императором.
 
- Tiber Septim lived another half century, during which she
-saw him on a few occasions, as she was bidden to Imperial
-City for one reason or another. He greeted her with warmth on
-these occasions and they had long talks together about
-events. He seemed to have quite forgotten that there had ever
-been anything more between them. He changed little over the
-years. Rumor said that his mages had found spells to extend
-his vitality, and even that the One had granted him
-immortality. Then one day a messenger came with the news that
-he was dead, and his son was now Emperor in his place.
+Они выслушали новости одни, она и Симмах. Бывший имперский генерал, а сейчас ее премьер-министр, принял известие стоически, как принимал и все остальное.
 
- They'd heard the news in private, she and Symmachus. He took
-it stoically, as he took everything.
+«Почему-то это кажется невозможным», — сказала Барензия.
 
- "It doesn't seem possible," Barenziah said.
+«Я говорил тебе. Ай. Таковы люди. Они не живут долго. Но это не так уж важно. Осталась его власть, и сейчас ею обладает его сын».
 
- "I told you. It's the way of humans. They are a short-lived
-race. It doesn't really matter. His power lives on, and his
-son now wields it."
+«Ты как-то назвал его другом. Ты чувствуешь что-нибудь? Скорбь?»
 
- "You called him your friend. Do you feel nothing?"
+Он пожал плечами. «Было время, когда и для тебя он был кем-то большим. Что ты чувствуешь, Барензия?» Наедине, они уже давно не называли друг друга титулами.
 
- He shrugged. "There was a time when you called him somewhat
-more. What do you feel, Barenziah?" 
+«Пустоту. Одиночество», — ответила она, тоже пожимая плечами. «Но это не ново».
 
- "Emptiness. Loneliness," she said, then she too shrugged.
-"That's not new."
+«Да. Я знаю», — сказал он, беря ее за руку. «Барензия…» Он приподнял ее лицо и поцеловал.
 
- "I know," he said, taking her hand. "Barenziah, let me try to
-fill that lonely place." He turned her face up and kissed
-her. It filled her with astonishment. She couldn't remember
-his ever touching her before. She'd never thought of him in
-that way, and yet, undeniably, an old familiar warmth
-spread through her. She'd forgotten how good it was, that
-warmth. Not the burning heat she'd felt with Tiber Septim,
-but the warmth she associated with, with Straw! Straw, poor
-Straw. She hadn't thought of him in so long. He'd be
-middle-aged now if he still lived. Probably married with a
-dozen children, she hoped, and a wife who could talk for two.
+Она очень удивилась. Она не могла припомнить, чтобы он когда-либо касался ее ранее. Она никогда не думала о нем «так», и все же, знакомое тепло разлилось по ее телу. Она почти забыла, как оно приятно, это тепло. Не обжигающее пламя, которое она чувствовала вместе с Тайбером Септимом, но спокойное, крепкое тепло, которое у нее связывалось со… со Строу! Строу. Бедняга Строу. Она так давно о нем не вспоминала. Сейчас, если он еще жив, то уже в годах. Возможно, с кучей ребятишек, нежно подумала она… и женой, которая может говорить за двоих.
 
- "Marry me, Barenziah," he was saying, "I've worked and
-toiled and waited long enough, haven't I?"
+«Выходи за меня замуж, Барензия», — сказал Симмах, будто уловив ее мысли о женитьбе, детях… женах. «Я достаточно долго работал, трудился и ждал, разве нет?»
 
- Marriage. "A peasant with peasant dreams." The words
-appeared in her mind, as if from long ago. And yet, why
-not? If not him, who? The great noble families had been
-destroyed in the war and its aftermath. Dark elf rule had
-been restored, but not the old nobility. Most of them were
-upstarts, like Symmachus and not as good as he was. He'd
-fought to keep Mournhold whole and healthy when their
-so-called advisors would have picked their bones, sucked them
-dry as Ebonheart had been sucked dry. He'd fought for
-Mournhold, fought for her, while she and it grew. She felt a
-sudden rush of gratitude, and, undeniably, affection. He
-was steady and reliable. He'd served her well. "Why not?"
-she said, smiling.
+Замужество. Крестьянин с крестьянскими мечтами. Мысль сама появилась в уме, непрошенная и ясная. Разве не этими словами она так давно описала Строу? Но все же, почему бы и нет? Если не Симмах, то кто?
 
- The union was a good one, both in its political and
-personal aspects. While Tiber Septim's son viewed her with a
-jaundiced eye, his trust in his father's old friend was
-absolute. Symmachus, however, was still viewed with
-suspicion by Morrowind's stiff-necked folk, suspicious of his
-peasant ancestry, his close ties to the Empire, while she was
-quite popular. "The Lady's one of our own in her heart," it
-was whispered, "held captive as we are." Barenziah felt
-content. There was work and pleasure and what more could
-one ask of life? The years passed swiftly, with crises to be
-dealt with, storms and famines and failures and successes
-and plots to be foiled. Mournhold prospered well enough.
-Her people were secure and fed, her mines and farms
-productive. All was well save that the marriage produced no
-children. No heirs.
+Многие благородные семьи Морровинда были уничтожены в объединяющей войне Тайбера Септима до подписания соглашения. Правление темных эльфов было восстановлено, верно, но не прежнее, теперь правили не истинные дворяне. Большинство из них — выскочки, как Симмах, но и вполовину не так хороши и достойны, как он. Он сражался за сохранность Морнхолда, когда их так называемые советники растащили бы его по косточкам, вытянули все силы, как из Эбонхарта. Он сражался за Морнхолд, за нее, пока она и королевство росли и процветали. Она почувствовала внезапную благодарность и, несомненно, нежность. Он был надежным и верным. И он хорошо послужил ей. Он полюбил ее.
 
- Now elven children are slow to come, and most demanding of
-their welcome, noble children more so than others, thus many
-decades had passed before they grew concerned.
+«Почему бы и нет?» — ответила она с улыбкой. И взяла его руку. И поцеловала его.
 
- "The fault lies with me, husband. I am damaged goods."
-Barenziah said bitterly. "If you want to take another..."
+Союз был удачен, и в политическом, и в личном плане. Хотя наследник Тайбера Септима, нынешний император Пелагиус I, предвзято смотрел на нее, он полностью доверял старому другу отца.
 
- "I want no other," Symmachus snapped, "nor do I know the
-fault to be thine. Perhaps it is mine. Whichever, we will seek
-a cure. If there is damage, surely it may be repaired?"
+Но все же, на Симмаха подозрительно смотрел высокомерный народ Морровинда, из-за его крестьянского происхождения и тесной связи с Империей. Но королева была популярна. «Леди Барензия — одна из нас», — говорили шепотом, — «тоже побывала в плену».
 
- "How so? When we dare not entrust anyone with my true story? Healer's oaths do not always hold."
+Барензия была довольна. Были работа и удовольствие, чего еще можно желать от жизни?
 
- "It won't matter if we change the time and circumstances a
-bit. Whate'er we say or fail to say Jephre never rests. His
-inventive mind and quick tongue are ever busy spreading
-gossip and rumor."
+Быстро проносились годы, наполненные кризисами, которые нужно было разрешить, ураганами, и голодом, и неудачами от непогоды, интригами, которым нужно было помешать, и заговорщиками, которых надо было наказать. Морнхолд процветал. Ее народ был в безопасности, сыт, а ее шахты и фермы — производительны. Все было хорошо, за исключением того, что у королевской пары не было детей. Не было наследников.
 
- Priests and Healers came and went, but all their prayers,
-potions and other efforts produced not even a period of
-bloom, let alone a single fruit. Eventually, they put it
-from their minds and left it in the gods' hands. They were yet
-young, with centuries ahead of them. There was time. Elves
-always have time.
+Дети эльфов рождаются редко, а дети благородных семей — еще реже. Поэтому прошло много десятилетий прежде, чем они начали беспокоиться.
 
- 
+«Это моя вина, Симмах. Я — порченый товар», — горько сказала Барензия. «Если ты хочешь взять другую…»
+
+«Мне не нужна другая, — нежно ответил он, — и не уверен, что эта вина — твоя. Может, это я виноват. Ай. Неважно. Мы поищем лекарство. Если что-то не так, ведь это можно исправить».
+
+«Как? Кому можно поведать истинную историю? И лекари не всегда держат клятву».
+
+«Не имеет значения, если мы немного изменим время и обстоятельства. Чтобы мы ни сказали, или захотели сказать, Джефр Рассказчик всегда наготове. Его богом данный изобретательный ум и быстрый язык быстро разнесет нужные слухи и сплетни».
+
+Священники, лекари и маги приходили и уходили, но все их молитвы, эликсиры и зелья не помогли ничем. В конце концов они перестали думать об этом и доверились богам. Они еще были молоды, по меркам эльфов, их ожидали еще долгие века. У них было время. У эльфов всегда есть время.

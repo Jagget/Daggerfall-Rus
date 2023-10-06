@@ -1,308 +1,113 @@
-Title: The Real Barenziah, Part IX
-Author: Anonymous
+Title: Подлинная Барензия, т. 9
+Author: Неизвестный автор
 IsNaughty: False
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]The Real
-
-[/center]Barenziah
-
-[/center]Part IX
-
-
+[/center]Подлинная Барензия, т. 9
 
 [/font=4]
 
+Как и предсказывал Симмах, последствия похищения Посоха хаоса не заставили себя долго ждать. Нынешний император, Уриэль Септим, прислал несколько холодных писем, в которых выражал неудовольствие и возмущение исчезновением Посоха, и торопил Симмаха найти его, и немедленно сообщить об этом новому имперскому боевому магу, Джагару Тарну, кому было поручено это дело.
 
+«Тарн! — прогремел Симмах с отвращением и раздражением, ходивший по небольшой комнате, где Барензия, беременная уже несколько месяцев, спокойно вышивала детское одеяльце. — Джагар Тарн, в самом деле. Ай! Я бы даже не сказал ему, где улицу перейти, будь он хоть ковыляющим старым пьяным бродягой».
 
-[/center]
+«А что ты против него имеешь, любимый?»
 
- As Symmachus had predicted, the theft of the Staff of Chaos
-had few short term consequences. The current emperor, Uriel
-Septim, sent some rather stiff messages expressing shock and
-displeasure at the staff's disappearance and urging that
-Symmachus make every effort to locate its whereabouts and
-communicate this to the newly appointed Imperial
-BattleMage, Jagar Tharn, in whose hands the matter had been
-placed.
+«Не доверяю я этому эльфу-полукровке! Он частично темный эльф, частично высокий эльф, и частично только богам известно кто. Все худшие качества этих рас собрал, могу заверить». Он фыркнул. «О нем никто ничего толком не знает. Он говорит, что родился в южном Валенвуде, а его мать была лесным эльфом. Похоже, он везде побывал…»
 
- "Tharn!" Symmachus snarled in disgust and frustration, as
-he paced about the small chamber where Barenziah, now some
-months pregnant, was sitting serenely, knitting a baby
-blanket. "Jagar Tharn, indeed. I wouldn't give him
-directions for crossing the street."
+Барензия, усталая и довольная от беременности, до этого почти не слушала Симмаха. Но сейчас она бросила свою работу и посмотрела на него. Что-то заинтересовало ее. «Симмах. А этот Джагар Тарн не мог быть Соловьем, замаскированным?»
 
- "What have you against this person, husband?"
+Симмах подумал, прежде чем ответить. «Нет, любимая. В крови Тарна нет примеси человеческой». Барензия знала, что Симмах считал это недостатком. Ее муж презирал лесных эльфов — как ленивых воришек, а высоких эльфов — как изнеженных интеллигентов. Но он восхищался людьми, особенно бретонами, из-за их прагматизма, ума и энергии. «Соловей из Эбонхарта, из Клана Ра’атим — Дома Хлаалу, если быть точным, Дома Моры. В этом доме с самого начала присутствовала человеческая кровь. Эбонхарт завидовал тому, что Посох остался здесь, когда Тайбер Септим забрал Рог Призыва».
 
- "I just don't trust that mongrel elf. Part wood elf, part
-dark elf and part only the gods know what. All the worst
-qualities of all his combined races. No one knows much about
-him. Claims he was born in Valenwood, of a wood elf mother.
-Seems to have been everywhere since--"
+Барензия тихонько вздохнула. Соперничество между Эбонхартом и Морнхолдом началось почти с самого начала истории Морровинда. Когда-то две нации были едины, все прибыльные шахты находились во владении Ра’атим, чье дворянство сохраняло высшую королевскую власть Морровинда. Эбонхарт разделился на два отдельных города, Эбонхарт и Морнхолд, когда сыновья-близнецы королевы Лиан — внуки легендарного короля Морелина — стали наследниками. В это же время место высшего короля освободилось в пользу временного военного вождя, назначаемого советом во времена опасности.
 
- Barenziah, sunk in the contentment of pregnancy had only
-been humoring Symmachus thus far, but this piqued her
-interest. "Nightingale? Could he have been this Jagar Tharn,
-disguised?"
+Эбонхарт по прежнему оберегал свои привилегии старшего города Морровинда («первый среди равных», — говорили его владыки) и утверждал, что охрана Посоха хаоса должна быть доверена его правящему дому. Морнхолд возражал, что король Морелин сам доверил хранение Посоха богу Эфену, а Морнхолд был местом его рождения.
 
- "Nay. Human blood seems to be the one missing component in
-Tharn's  ancestry." To Symmachus, Barenziah knew, that was
-a flaw. Symmachus despised wood elves as lazy thieves and
-high elves as effete intellectuals, but he admired humans,
-especially Bretons, for their combination of pragmatism,
-intelligence and energy.
+«Почему ты тогда не расскажешь Джагару Тарну о своих подозрениях? Пусть он найдет его. Пока он в безопасности, неважно, где находится посох и кто его нашел, верно?»
 
- "Nightingale's of Ebonheart, of the House of Mora, I'll be
-bound -- that house has had human blood since her time.
-Ebonheart was jealous that the Staff was laid here when
-Tiber Septim took the Horn from us."
+Симмах непонимающе смотрел на нее. «Важно, — мягко сказал он через некоторое время, — но, полагаю, не слишком. Ай». И добавил: «Особенно тебе не стоит думать об этом. Просто сиди и занимайся своим, — тут он усмехнулся, — рукоделием».
 
- Barenziah sighed a little. The rivalry between Ebonheart
-and Mournhold reached back almost to the dawn of history.
-Once the two had been one, all the mines within held by Clan
-R'Aathim, whose royal house held the High Kingship of
-Morrowind. Ebonheart had split into two separate city
-states, Ebonheart and Mournhold, when Queen Lian's twin
-sons, Moraelyn's grandsons, had been left as the heirs. At
-the same time the office of High King had been vacated in
-favor of a temporary War Leader to be named by a council in
-times of provincial emergency. Still, Ebonheart remained
-jealous of her prerogatives as the eldest city state of
-Morrowind, still first among equals, and claimed that
-guardianship of the Horn should rightfully be entrusted to
-the elder. Mournhold responded that Moraelyn himself had
-placed the Horn in the keeping of the god Ephen, and Mournhold
-was unarguably the god's birthplace.
+Барензия швырнула в него вышивку. Она попала Симмаху прямо в лицо — с иголкой, наперстком, и прочим..
 
- "Why not tell Jagar Tharn of your suspicions then? Let him
-recover the thing. As long as it's safe, what does it matter
-where it lies?"
+Еще через несколько месяцев Барензия родила здорового сына, и они назвали его Хелсетом. Ни о Посохе хаоса, ни о Соловье вестей не было. Если Посох был в Эбонхарте, его правитель не собирался этим хвастать.
 
- Symmachus stared at her without comprehension. "It
-matters," he said softly, "but not that much," he added.
-"Certainly not enough for you to concern yourself further
-over it. You just tend to your -- knitting."
+Быстро и счастливо летели годы. Хелсет рос высоким и сильным. Он был очень похож на отца, которого очень почитал. Когда Хелсету было восемь лет, Барензия родила второго ребенка, дочь, и Симмах был совершенно счастлив. Хелсет был его гордостью, но малышка Моргия — названная в честь матери Симмаха — завладела его сердцем.
 
- In a few more months Barenziah produced a fine son, whom they
-named Helseth. Nothing more was heard of the Staff or
-"Nightingale." If Ebonheart held it, certainly they did not
-boast of it. The years passed swiftly and happily. Helseth
-grew tall and strong. He was much like his father, whom he
-worshipped. When Helseth was eight years old Barenziah bore a
-second child, a daughter, to Symmachus' great delight.
-Helseth was his pride, yet little Morgiah held his heart.
+К несчастью, с рождением Моргии наступили не лучшие времена. Отношения с Империей все ухудшались по неизвестным причинам. С каждым годом повышались налоги и квоты. Симмах чувствовал, что император подозревает его в участии в похищении Посоха, и старался доказать свою верность, пытаясь выполнять все возрастающие запросы. Он увеличил рабочий день, поднял тарифы и даже восполнил недостачу в королевской казне из их личных сбережений. Однако налоги все росли: и дворяне, и простые люди начали жаловаться. Это было зловеще.
 
- Shortly after Morgiah's birth word came that a plot
-against the Emperor had been unmasked and that the chief
-co-conspirators Jagar Tharn and Ria Silmane were dead.
-Symmachus rejoiced at this news. "I told you so," he crowed.
-Yet thereafter relations with the Empire slowly
-deteriorated, for no apparent reason. Taxes were raised and
-quotas increased with each passing year. Symmachus felt that
-the Emperor suspected him of having had a hand in the plot
-and sought to prove his loyalty by making every effort to
-comply with the increasing demands. He lengthened working
-hours and raised taxes and even made up some of the
-difference from both crown funds and their own private
-holdings. Yet still the demands increased and commoners and
-nobles alike grew restless.
+«Я хочу, чтобы ты забрала детей и отправилась в Имперский город, — сказал в отчаянии Симмах как-то за обедом. — Ты должна заставить императора выслушать себя, иначе весь Морнхолд восстанет этой весной». Он выдавил из себя улыбку. «Ты умеешь обращаться с мужчинами, любимая. Всегда умела».
 
- "I want you to take the children and journey yourself to
-Imperial City," Symmachus at last said in desperation.
-"You must make the Emperor listen, else all Mournhold will
-be in revolt come spring. You have a way with men, you
-always did." He forced a smile.
+Барензия тоже невесело усмехнулась. «Даже с тобой».
 
- Barenziah forced a smile of her own. "Even you."
+«Да. Особенно со мной», — мирно подтвердил он.
 
- "Yes, even me," he said dully. 
+«Брать обоих детей?» Барензия посмотрела в угловое окно, где Хелсет бренчал на лютне и тихо пел дуэтом с младшей сестренкой. Хелсету было пятнадцать, а Моргии — восемь.
 
- "Both children?" Barenziah looked over toward the corner
-windows where Helseth was strumming a lute and singing a duet
-with his little sister. Helseth was fifteen, Morgiah just
-eight. 
+«Они могут смягчить его сердце. К тому же, пора представить Хелсета ко двору».
 
- "Perhaps they'll soften his heart. Besides, it's time that
-Helseth was presented at the Imperial Court."
+«Возможно. Но это не настоящая причина». Барензия сделала глубокий вдох и сказала прямо: «Ты не уверен, что сможешь защитить их здесь. Если дело в этом, то и тебе здесь небезопасно. Поедем вместе», — настаивала она.
 
- "Perhaps, but that's not your true reason. You do not think
-you can keep them safe here. If that's the case, then you're
-not safe here either. Come with us," Barenziah urged.
+Он взял ее за руки. «Барензия. Любовь моя. Сердце мое. Если я сейчас уеду, возвращаться будет уже некуда. Не волнуйся за меня. Со мной все будет хорошо. Ай. Я могу позаботиться о себе, особенно, если мне не придется волноваться за тебя и детей».
 
- He took her hands in his. "Barenziah. Love. Heart of my heart,
-if I leave now, there'll be nothing for us to return to.
-I'll be all right. I can take care of myself, and I can do it
-better if I need not fear for you and our children."
+Барензия прижалась к его груди. «Только помни, что ты нам нужен. Нам не так уж нужно все это, если мы есть друг у друга. Пустые руки и пустые животы не болят так, как пустое сердце». Она заплакала, вспомнив Соловья и происшествие с Посохом. «Это все случилось из-за моей глупости».
 
- Barenziah laid her head against his chest. "Just remember
-that we need you. We can do without the rest if we have each
-other. Empty hands and empty bellies are easier to bear than
-an empty heart. My foolishness has brought us to this pass."
+Он нежно ей улыбнулся. «Если это и так, то все не так плохо, как могло быть». Он посмотрел на детей. «Мы никогда не будет испытывать недостатка в чем-либо. Никогда. Никогда, моя любовь, обещаю тебе. Однажды я стоил тебе всего, Барензия, я и Тайбер Септим. Ай. Без моей помощи Империя не стала бы такой, как сейчас. Я способствовал ее рассвету». Его голос ожесточился. «И я могу способствовать ее падению. Можешь сказать это Уриэлю Септиму. Это, и то, что мое терпение не безгранично».
 
- "If so, 'tis not that so a place to be." His eyes rested
-fondly on their carefree children. "And none of us shall go
-without. I cost you everything once, Barenziah, I and Tiber
-Septim. Without my aid the Septim dynasty would never have
-begun. I helped its rise. I can bring about its fall. You
-may tell Uriel Septim that, and that my patience is
-bounded."
+Барензия ахнула. Симмах не грозил попусту. Она была уверена, что скорее старый домашний волк, лежащий у очага, нападет на нее, чем Симмах восстанет против Империи. «Как?» — еле слышно спросила она. Но он только покачал головой.
 
- Barenziah gasped. Symmachus was not given to empty
-threats. She'd no more imagined that he would ever turn
-against the Empire than that the old house wolf lying by the
-hearth would turn on her.
+«Лучше тебе не знать, — сказал он. — Просто скажи ему это, если он будет упорствовать, и не бойся. Он Септим, и не тронет посланника». Он угрюмо улыбнулся. «А если он и осмелится, если хоть пальцем тронет тебя, дорогая, или детей — и да помогут мне все боги Тамриэля, но он пожалеет о том, что появился на свет. Ай. Я убью и его, и его семью, и не успокоюсь, пока последний из Септимов не будет убит». Красные глаза темного эльфа Симмаха сверкали, отражая свет угасающего камина. «Я клянусь в этом тебе, любовь моя. Моя королева… моя Барензия».
 
- "How?" she demanded, but he shook his head. "Better that you
-know not," he said. "Just tell him that, if he prove
-recalcitrant, and do not fear. He's Septim enough that he
-will not kill the messengers."
+Барензия обняла его так крепко, как только могла. Но, несмотря на жар объятий, она не перестала дрожать.
 
- The late winter journey to Imperial City was an easy one.
-One of the things the Septim Empire had accomplished was the
-building and maintenance of good highways throughout
-Tamriel.
+Барензия стояла перед троном императора, объясняя затруднительное положение в Морнхолде. Она неделями ждала аудиенции у Уриэля Септима, откладываемой под разными предлогами. «Его величеству нездоровится». «Неотложное дело требует внимания его превосходительства». «Прошу прощения, ваше высочество, но произошла ошибка. Ваша встреча назначена через неделю. Видите ли…» А сейчас все шло еще хуже. Император даже не притворялся, что слушает ее. Он не пригласил ее сесть, и не отпустил детей. Хелсет стоял как каменное изваяние, но маленькая Моргия беспокоилась.
 
+Она сама пребывала в смятении. Вскоре после того, как они прибыли в свои апартаменты, посол Морнхолда в Имперском городе попросил разрешения войти и принес послания от Симмаха. Плохие новости, худшие. Восстание, наконец, началось. Крестьяне собрались в группы при поддержке нескольких разгневанных представителей мелкого дворянства, и требовали, чтобы Симмах отдал бразды правления. Только Имперская стража и несколько отрядов тех семей, которые на протяжении многих поколений поддерживали дом Барензии, защищали Симмаха от толпы. Уже начались военные действия, но Симмах был в безопасности и успешно управлял. Ненадолго, писал он. Он просил Барензию сделать все возможное у императора; и она должна была оставаться в Имперском городе до тех пор, пока он не напишет ей, что можно безопасно вернуться домой вместе с детьми.
 
+Она попыталась обойти Имперскую бюрократию — с незначительным успехом. К ее растущему страху, из Морнхолда перестали приходить известия. Разрываясь между гневом на многочисленных дворецких императора и страхом за свою судьбу и судьбу своей семьи, она ждала; недели проходили долго, тяжко, беспощадно. Но, однажды, посол Морнхолда сообщил ей, что, самое позднее — следующей ночью, должны прибыть известия от Симмаха, не как обычно, а с ночным ястребом. В этот же день ей сказали, что Уриэль Септим примет ее рано утром на следующий день.
 
- *                   *                        *                   *
+Император приветствовал всех троих слишком широкой улыбкой, которая, тем не менее, не коснулась его глаз. Затем, когда она представляла своих детей, он пристально рассматривал их с совершенно неуместным выражением. Барензия общалась с людьми уже около пятисот лет и научилась в совершенстве читать выражения лица и движения так, что ни один человек не мог и предположить. Как ни пытался император скрыть, жажда была видна в его глазах — и что-то еще. Сожаление? Да. Сожаление. Но почему? У него самого были хорошие дети. Зачем ему нужны ее? И смотрит на нее с таким отчаянным, едва промелькнувшим желанием. Может быть, он устал от своей супруги? Люди были известны своим непостоянством. После долгого, горящего взгляда, он, наконец, отвел глаза, а она говорила о своей миссии и происшествиях в Морнхолде. Все это время он сидел неподвижно, будто каменный.
 
- Barenziah stood before the Emperor's throne, explaining
-Mournhold's straits. She'd waited weeks for an audience with
-Uriel Septim, fobbed off on pretext or another. "His
-Excellency is indisposed." "An urgent matter demands his
-attention." "I am sorry, your Highness, there must be some
-mistake. Your appointment is for next week. No, see..." And
-now it was not going well. He did not even seem to be
-listening to her. He hadn't invited her to sit, nor had he
-dismissed the children. Helseth stood still as a carved
-statue, but little Morgiah had begun to fidget.
+Удивленная его вялостью, Барензия рассматривала бледное, застывшее лицо, пытаясь найти сходство с теми Септимами, которых она знала ранее. Она не очень хорошо знала Уриэля Септима, видела его однажды, когда он был еще ребенком, и еще раз, на его коронации двадцать лет назад. Всего два раза. На церемонии он, хоть и был молод, выглядел мрачно и величественно, но от него не исходило такого ледяного холода, как от этого повзрослевшего человека. Несмотря на внешнее сходство, он казался совсем другим человеком. Но что-то в нем было хорошо знакомым, более знакомым, чем это возможно, какой-то жест, или манера держаться…
 
- He had first greeted the three of them with a too-bright smile
-of welcome that did not reach his eyes. Then, as she presented
-her children, he had gazed at them with a fixed attention
-that was real, yet inappropriate. Barenziah had been
-dealing with humans for nearly five hundred years now and had
-developed skill at reading their expressions and movement
-that was far beyond that any human ever learned. Try as the
-Emperor might to conceal it, there was a hunger in his eyes,
-and something more. Regret. Why? He had several fine children
-of his own. Why covet hers? And why look at her with an
-intense, though, brief yearning? Ah, well, perhaps he was
-tired of his Lady. Humans were fickle minded. But after that
-one long, burning glance, his gaze had shifted away as she
-began to speak of her mission, and he sat still as stone.
+Внезапно, она ощутила сильный жар. Иллюзия! Она хорошо изучила искусство иллюзий с тех пор, как ее так ужасно обманул Соловей. Она научилась распознавать иллюзии так же, как слепой чувствует жар солнца кожей. Иллюзия! Но почему? Ее ум лихорадочно работал, хотя она и не прекращала говорить о Морнхолде. Тщеславие? Люди порой так же стыдились признаков возраста, как эльфы гордились ими. Но лицо Уриэля Септима вполне соответствовало его возрасту.
 
- Puzzled, Barenziah stared into the pale set face, looking
-for some trace of the Septims she'd known. She hadn't known
-Uriel Septim well, having met him only once when he was
-still a child and then at his coronation twenty years before.
-He'd been stern and dignified then, yet not icily remote as
-this man was. Despite the physical resemblance, he didn't
-seem to be the same man at all. Not the same, yet something
-about him was familiar to her, more familiar than it should
-be, some trick of posture or gesture ... Suddenly she felt
-very warm, as if lava had been poured over her. Illusion!
-She had studied well the arts of illusion since Nightingale
-had fooled her so badly. She had learned to detect it and
-she felt it now, as certainly as a blind man could feel the
-sun on his face.
+Барензия не осмеливалась воспользоваться собственным волшебством. Даже мелкие дворяне могли обнаружить присутствие волшебной энергии, не говоря уж о защите от нее в своих владениях. Использование здесь волшебства могло разгневать императора не хуже, чем обнаженный кинжал.
 
- Illusion, but why? Her mind worked furiously even as her
-mouth went on reciting details about the Mournhold economy.
-Vanity? Humans were oft as ashamed of the signs of age as
-elves were proud of them. Yet the face Uriel Septim wore
-seemed consistent with his age. Barenziah dared use none of
-her magic arts. Even petty nobles had means of detecting, if
-not shielding themselves from these in their halls. The use of
-magic here would bring down his wrath as surely as drawing a
-knife would. Magic. Illusion. Suddenly she thought of
-Nightingale and briefly he sat before her, only saddened.
-Trapped. And then that vision faded and another man sat
-there, like Nightingale and yet unlike. Pale skin, red eyes
-and elven ears and about him a fierce glow of
-concentration, an aura of energy, a shrinking horror. This
-man was capable of anything! And then, once again she beheld
-the face of Uriel Septim. How could she be sure she wasn't
-imagining things? Perhaps her mind was playing tricks on her.
-She felt a sudden vast weariness, as if she'd been carrying a
-heavy burden too long and too far.
+Магия.
 
- "Do you remember, Excellency, Symmachus and I had dinner
-with your family shortly after your father's coronation.
-You were no older than little Morgiah here. We were greatly
-honored to be the only guests that evening, except for your
-best friend Justin, of course."
+Иллюзия.
 
- "Ah, yes," the Emperor said. "I believe I do recall that."
+Она внезапно вспомнила Соловья. Будто бы он сидел рядом с нею. Потом видение сменилось, и перед ней был Уриэль Септим. Он выглядел грустным, будто загнанным в ловушку. Видение сменилось снова, и на его месте оказался другой человек, похожий на Соловья, и в то же время иной. Бледная кожа, покрасневшие глаза, эльфийские уши, и он излучал сильное ощущение угрозы, сверхъестественной энергии — ужасное, разрушительное сияние. Этот человек был способен на все!
 
- "You and Justin were such friends. I was told he died not
-long after. A great pity."
+А потом она вновь увидела перед собой лицо Уриэля Септима.
 
- "Indeed. I still do not like to speak of him." His eyes were
-wary. "Ah, as for your request, my lady, we shall take it
-under advisement and let you know."
+Может быть, ей это только почудилось? Возможно, ее разум сыграл с ней злую шутку. Она вдруг почувствовала себя совершенно разбитой, будто слишком долго несла тяжелую ношу. Она решила оставить комментарии неприятностей в Морнхолде — к тому же, это ей все равно ничего не давало — и решила просто полюбезничать. Тем не менее, с тайным умыслом.
 
- Barenziah bowed, as did her children. A nod dismissed them,
-and they backed away from the presence. Barenziah took a deep
-breath. "Justin" had been an imaginary friend, although
-Uriel had insisted that a place be set for Justin at every
-meal! Not only that, "Justin" had been a girl, despite the
-boy name. Symmachus had kept up the family joke long after
-"Justin" had gone wherever such childhood friends go,
-inquiring seriously after Justin's well-being whenever he and
-Uriel Septim met, and being responded to as seriously. The last Barenziah had heard "Justin", after
-an adventurous youth, had married a high elf and settled in
-Lilandril. The man occupying the Emperor's chair was not
-Uriel Septim! Nightingale! A chord of recognition rang
-through her and Barenziah knew that she was right. It was he,
-indeed! Symmachus had been wrong, so wrong ...
+«Вы помните, сир, как Симмах и я обедали с вашей семьей вскоре после коронации вашего отца? Вы тогда были не старше Моргии. Мы были польщены этой честью — ведь мы были единственными гостями в тот вечер — кроме вашего лучшего друга Джастина, конечно».
 
- What now, she wondered. What had become of Uriel Septim,
-and, more to the point, what did it mean for her and
-Symmachus and Mournhold? Thinking back, Barenziah guessed
-that their troubles were due to this false emperor,
-Nightingale, or whoever he really was. He must have taken
-Uriel Septim's place shortly before the unreasonable
-demands on Mournhold had begun. That would explain why
-relations had deteriorated so long (as humans judged time)
-after her offense. Nightingale knew of Symmachus' famed
-loyalty to, and knowledge of, the Septims and was making a
-pre-emptive strike. If that were indeed the case they were
-all in terrible danger. She and the children were under his
-hand here in Imperial City and Symmachus left alone to face
-the troubles of Nightingale's brewing. 
+«О да», — промолвил император, осторожно улыбаясь. Очень осторожно. — Пожалуй, я припоминаю это».
 
- What must she do? Barenziah urged the children ahead of her, a
-hand on each shoulder, her womanservant and guards
-trailing behind. They had reached their waiting carriage --
-even though their apartment was only a few blocks from the
-Palace, royal dignity forbade their walking, and for once,
-Barenziah was glad of that. Even the carriage seemed a kind of
-sanctuary now, false as she knew that feeling to be.
+«Вы с Джастином были такими хорошими друзьями, ваше величество. Мне сказали, что он умер не так давно. Такая жалость».
 
- A boy dashed up to one of the guards and handed him a letter,
-then pointed towards the carriage. The guard brought it to
-her. The boy waited, eyes wide. The letter was brief and
-complimentary and simply asked if King Eadwyre of Wayrest,
-High Rock, might be granted an audience with her, as he had
-heard much of her, and would be pleased to make her
-acquaintance. Barenziah's first impulse was to refuse. She
-wanted only to leave this city! Certainly she had no
-inclination for any dalliances with a dazzled human. She
-looked up frowning and one of the guard said, "The boy says
-his master awaits your reply yonder." She looked in the
-direction indicated and saw a handsome elderly man on
-horseback, surrounded by a half-dozen courtiers and guards.
-He caught her eye and bowed respectfully, removing his
-plumed hat.
+«Да. Я все еще не могу говорить о нем». Его взгляд стал совершенно пустым — еще более пустым, если только это было возможно. «Что же касается вашей просьбы, миледи, мы рассмотрим ее и сообщим вам позже».
 
- "Very well," Barenziah said to the boy, on impulse. "Tell
-your master he may call on me tonight, after the dinner
-hour." The man looked polite and grave, and rather worried,
-but not in the least lovesick.  
+Барензия поклонилась, дети последовали ее примеру. Кивком, император отпустил их, и они ушли.
+
+Она глубоко вздохнула, выйдя из тронного зала. «Джастин» был придуманным приятелем, хотя маленький Уриэль всегда говорил, чтобы Джастину за каждой трапезой оставляли место. К тому же, Джастин, несмотря на мальчишеское имя, была девочкой! Симмах поддерживал эту шутку уже и после того, как она была почти позабыта. Он расспрашивал о здоровье Джастин всякий раз, как встречал Уриэля Септима, и тот серьезно отвечал ему. В последний раз Барензия слышала о Джастин несколько лет назад, когда император сказал Симмаху, что она встретила предприимчивого молодого каджита, вышла за него замуж, они поселились в Лиландриле и выращивают огненные папоротники и полынь.
+
+Человек, сидящий на императорском троне — не Уриэль Септим! Соловей? Может быть?.. Да. Да! Барензия узнала его, и была уверена, что не ошибается. Это был он. Он! Соловей! Он выдавал себя за императора! Симмах ошибался, так ошибался…
+
+«Что же теперь?»,- думала она. — Что случилось с Уриэлем Септимом, а точнее, что это означало для нее, Симмаха и всего Морнхолда?» Подумав, Барензия решила, что все их неприятности начались с появлением ложного императора, Соловья — кем бы он ни был на самом деле. Он, должно быть, занял место Уриэля Септима незадолго до того, как начались непомерные поборы с Морнхолда. Это объясняло, почему отношения начали ухудшаться так поздно (по людским меркам), много позже ее связи с Тайбером Септимом. Соловей знал о знаменитой преданности Симмаха и его знания дома Септимов, и нанес упреждающий удар. Если это было так, все они подвергались страшной опасности. Она и дети были в его власти в Имперском городе, а Симмах один справлялся с неприятностями в Морнхолде, организованными Соловьем.
+
+Что же ей было делать? Барензия вела детей перед собой, положив руки им на плечи, и старалась держать себя в руках, ее фрейлины и рыцари личного эскорта шли позади. Наконец, они дошли до ожидавшей их повозки. Хотя их апартаменты были всего в нескольких кварталах от Дворца, королевское достоинство не позволяло идти пешком даже немного, и сейчас Барензия была этому рада. Повозка казалась безопасным убежищем, хотя она знала, что это чувство было ложным.
+
+К одному из рыцарей подбежал мальчик, передал ему свиток и указал на повозку. Рыцарь принес свиток ей. Мальчик ждал, широко раскрыв восторженные глаза. Послание было кратким, и в нем спрашивалось, может ли Эдвир, король Вэйреста в провинции Хай Рок получить аудиенцию у знаменитой королевы Морнхолда, Барензии, так как много слышал о ней и хотел бы познакомиться лично.
+
+Сначала, Барензия хотела отказаться. Она хотела покинуть город! Ее не привлекало общение с восхищенным человеком. Она нахмурилась, и один из стражей сказал: «Миледи, мальчик говорит, что его хозяин ожидает вашего ответа вон там». Она посмотрела в указанном направлении и увидела красивого пожилого мужчину верхом на коне, в окружении полудюжины придворных и охранников. Он встретил ее взгляд и почтительно поклонился, снимая шляпу.
+
+«Хорошо, — внезапно сказала Барензия. — Скажи хозяину, что он может придти ко мне сегодня вечером, после обеда». Король Эдвир выглядел почтительным и серьезным, и даже обеспокоенным, но ни в коей мере не влюбленным. И то что-то, подумала она.

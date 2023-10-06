@@ -1,292 +1,97 @@
-Title: The Real Barenziah, Part II
-Author: Anonymous
+Title: Подлинная Барензия, т. 2
+Author: Неизвестный автор
 IsNaughty: True
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]The Real
-
-[/center]Barenziah
-
-[/center]
-
-[/center]Part II
-
-
+[/center]Подлинная Барензия, т. 2
 
 [/font=4]
 
-[/center]
+Барензия росла, как южное растение, пересаженное в скайримский сад, под опекой графа Свена и его жены леди Инги. Со стороны казалось, что она счастлива и беззаботна, но внутри она постоянно ощущала холод и пустоту.
 
-[/center]
+«Я взрастила ее как родную дочь, — вздыхала порой леди Инга, сплетничая с навещавшими ее соседками. — Но она же из темных эльфов. Чего еще от них ждать?»
 
- Barenziah grew like a weed transplanted to a Skyrim garden,
-a ward of Count Sven and his wife Lady Inga. Outwardly she
-thrived but there was a cold and empty place within. 
+Эти слова не предназначались Барензии. Во всяком случае, она так считала. Слух у нее был гораздо острее, чем у ее хозяев-нордов. К другим, еще менее приятным темноэльфийским особенностям, безусловно, относились воровство, лживость и немного неуместное волшебство: огненное заклинание тут, левитационное заклинание там. А когда она повзрослела, к ним прибавился еще и острый интерес к мальчикам и мужчинам, которые приносили весьма приятные ощущения и, к ее удивлению, еще и подарки. Инга не одобряла сего последнего увлечения по совершенно необъяснимым для Барензии причинам, поэтому той приходилось быть осторожной и, насколько возможно, держать все в секрете.
 
- "I've raised her as my own daughter," Lady Inga was wont to
-sigh when she sat gossiping with neighboring ladies come to
-visit, "But she's a dark elf. What can you expect?"
+«А вот за детьми она смотрит чудесно, — добавила Инга, имея в виду пятерых своих сыновей, все моложе Барензии. — Не думаю, что она даст им покалечиться». Когда Йонни было шесть, а Барензии восемь, для них взяли учителя, и дети занимались вместе. Ей хотелось участвовать и в уроках фехтования, но графа Свена и леди Ингу привела в ужас сама подобная идея. Все, что ей позволили — стрелять с мальчиками по мишеням из маленького, почти игрушечного лука. В остальном же ей оставалось наблюдать за ними, когда они упражнялись с клинками, и лишь иногда, когда рядом не было никого из взрослых, участвовать в боях. И она знала, что, по крайней мере, не хуже них в этом искусстве.
 
- Barenziah was not meant to overhear these words. At least she
-thought she was not. Her hearing was far keener than that of her
-Nord hosts. Other, less desirable dark elf traits included
-pilfering, lying and a little magic, just a small fire
-spell and a little levitation. And, as she grew older, a
-keen interest in boys and men, who could provide very
-pleasant sensations and, to her astonishment, gifts as well.
-Inga disapproved of this activity for reasons
-incomprehensible to Barenziah, so she was careful to keep it
-as secret as possible.
+«Однако она очень… горда, разве нет?» — какая-нибудь кумушка шептала Инге на ухо, а Барензия, делая вид, что не слышала, утвердительно кивала в душе. Она чувствовала свое превосходство над графом и его женой, и ничего не могла с собой поделать. Было в них что-то такое, что вызывало у нее пренебрежение.
 
- "She's wonderful with the children," Inga added, meaning
-her five sons, all younger than Barenziah. "She'd never see
-them come to harm." 
+Потом уже она прознала, что Свен и Инга были дальними родственниками последнего титулованного хозяина замка Даркмур, и все поняла. Они были позерами, самозванцами, а никакими не правителями. Во всяком случае, их не воспитывали править. Эта мысль странным образом возмутила ее, а из негодования выковалась чистая неприязнь к хозяевам. Она стала воспринимать их как омерзительных, гадких насекомых, которых можно презирать, но нельзя бояться.
 
- A tutor was hired when Jonny was six and Barenziah eight, and
-she studied academic lessons along with him. She would have
-liked arms training as well, but the very idea of a girl
-training to arms scandalized Inga and Sven. Barenziah was
-given a bow and allowed to practice target shooting with
-the boys. She watched them at arms practice when she could,
-practiced with them when no grown folk were about, and knew she was as good or better than they.
+Раз в месяц прибывал гонец от императора, привозил маленькую мошну золота для Свена и Инги и большой мешок сушеных грибов из Морровинда для Барензии, ее любимое лакомство. Для этих случаев ее всегда заставляли выглядеть презентабельно — ну, насколько презентабельно могла выглядеть тощая темная эльфийка в глазах Инги — перед тем, как представить курьеру для краткой беседы. Гонцы почти всегда были разные, но все они смотрели на нее так, как фермер осматривает чушку, откармливаемую на базар.
 
- "She's very proud, isn't she?" the neighbor ladies would
-whisper, and Barenziah, pretending not to hear, would nod
-in agreement. She could not help but feel superior to the
-Count and Countess. There was something about them that
-encouraged this disdain in her.
+Весной своего шестнадцатого года Барензия выглядела так, словно, наконец, была готова для базара.
 
- She grew to learn that Sven and Inga were distant cousins of
-the last rulers of Darkmoon, and then she began to
-understand. They were poseurs, imposters, not rulers at
-all. At least, they were not raised to rule. This thought made
-her strangely furious at them, a good clean hatred detached
-from resentment. Barenziah came to see them as disgusting and
-corrupted insects who could be despised, but never feared.
+По размышлении, она решила, что проданной быть не желает. Помощник конюха, Строу, здоровый, мускулистый белобрысый парень, и при этом застенчивый, мягкий, любящий и довольно простой, уже несколько недель уговаривал ее бежать отсюда. Барензия украла мошну с золотом, оставленную гонцом, прихватила грибов из кладовой, нарядилась мальчиком в одну из старых туник Йонни и в его же, ставшие тесными, штаны… и в одну погожую весеннюю ночь они со Строу взяли двух лучших лошадей из конюшни и поскакали во весь опор на Вайтран, ближайший мало-мальски крупный город и место, где хотел побывать Строу. Однако и Морнхолд, и Морровинд тоже лежали к востоку, а они манили Барензию, как магнитом.
 
- Once a month a courier came from the emperor, bringing a
-small bag of gold for Inga and Sven and a large bag of
-dried mushrooms from Morrowind for Barenziah's consumption.
-She was always made presentable, as presentable as a skinny
-dark elf girl could be made to look in Inga's eyes, and
-summoned into the courier's presence for a brief interview.
-The same courier seldom came twice, but all looked her over
-rather as a farmer looks over a pig he's readying for market.
-In the spring of her sixteenth year Barenziah thought the
-courier looked as if she were at last ready for market.
+Утром они отпустили лошадей по настоянию Барензии. Она знала, что их хватятся и бросятся в погоню, и надеялась, таким образом, сбить преследователей с толку.
 
- Upon reflection Barenziah decided that she did not wish to be
-marketed. The stable-boy, Straw, a big blond boy, clumsy,
-gentle, affectionate and rather simple, had been urging her
-to run off with him for some weeks. Barenziah stole the bag of
-gold the courier had left, took the mushrooms from the
-storeroom, dressed herself as a boy in some of twelve year
-old Timmy's casual clothing, and one fine spring night they
-took the two best horses and rode hard through the night toward
-Whiterun, the nearest city of any size, which was where Straw
-wanted to go.
+Они шли пешком до раннего вечера, держась проселочных дорог, а потом поспали несколько часов в заброшенной хижине. Они снова тронулись в путь на закате и пришли к воротам Вайтрана как раз к рассвету. Барензия заготовила для Строу что-то вроде пропуска, поддельное письмо, уверяющее, что его податель должен доставить посылку в городской храм от местного деревенского старосты. Сама она преодолела стену при помощи заклинания левитации. Она решила — и правильно, как оказалось — что стражи у ворот будут высматривать молодую темноэльфийскую девушку и парня-норда, путешествующих вместе. А одиночные деревенские простачки, вроде Строу, были привычным зрелищем, не вызывавшим подозрений. Один и при бумагах он едва ли мог привлечь к себе внимание.
 
- But Morrowind also lay east and it drew Barenziah as a
-lodestone does iron. In the morning they abandoned the horses
-at Barenziah's insistence. She knew they would be missed and
-tracked, and she hoped to throw pursuers off the trail. They
-continued afoot until late afternoon, keeping to side
-roads, then slept for several hours in an abandoned hut.
-They went on at dusk and came to the Whiterun city gates just
-before dawn.
+Ее нехитрый план возымел действие. Они встретились со Строу в храме, находящимся неподалеку от ворот; она и прежде бывала в Вайтране пару раз. Строу же ни разу в жизни не отдалялся от поместья Свена, места своего рождения, больше, чем на несколько миль.
 
- Barenziah had prepared a pass for Straw, stating an errand
-to a temple in the city for a local village lord. She
-herself sneaked over the wall with the help of her levitation
-spell. She had reasoned that by now the gate guards would
-have been alerted to look for a young dark elf and a Nord
-boy traveling together, but country boys like Straw were
-common enough. Alone and with papers, he would be unlikely
-to draw their attention.
+Вместе они направились к обветшалому трактиру в самом бедном квартале Вайтрана. Барензия, закутанная в плащ, в перчатках и с надвинутым по утреннему холодку капюшоном, сумела скрыть свою темную кожу и красные глаза, и никто по пути не оглянулся им вслед. В трактир они зашли порознь. Строу заказал у трактирщика одноместную каморку, обильный ужин и два кувшина эля. Барензия прокралась к нему несколько минут спустя.
 
- Her simple plan went smoothly. She met Straw at the temple,
-which was not far from the gate. She had been to Whiterun on a
-few previous occasions. Straw, however, had never been more
-than a few miles from Sven's estate, his birthplace.
-Together they made their way to a run-down inn in the poor quarter of Whiterun. Gloved, cloaked and hooded
-against the chill of the morning, her dark skin and red eyes were not apparent and no one paid any attention
-to them. They entered the inn separately. Sven paid the host
-for a single room, a large meal and a jug of ale, and
-Barenziah sneaked in a few minutes later.
+Они весело пировали, празднуя свой побег, а затем с неистовством делили узкую койку. После всего, они провалились в глубокий сон без видений.
 
- They ate and drank together gleefully, celebrating their
-escape, made love vigorously on the narrow bed, then fell
-into an exhausted sleep.
+Они задержались в Вайтране на неделю. Строу заработал немного денег, разнося посылки, а Барензия обчистила ночами несколько домов. Она продолжала носить мальчишеские одежды. Она коротко постриглась и перекрасила свои огненно-рыжие волосы в иссиня-черный, еще больше усилив маскировку, и при этом все время была настороже. В Вайтране было не много темных эльфов.
 
- They stayed a week in Whiterun. Straw earned a bit of money
-running errands and Barenziah robbed a few houses at night.
-Barenziah continued to dress as a boy. She cut her hair short
-and dyed her flame-red tresses jet black as a further
-disguise, and kept out of sight as much as possible for there
-were few dark elves in Whiterun. Then Straw got them places
-as guards for a merchant caravan that was traveling east.
-The sergeant looked her over dubiously.   "Heh," he chuckled,
-"dark elf, ain'tcha? Like setting a wolf to guard the sheep,
-that is. Still, I need arms, and we ain't going near enough
-to Morrowind that ye can betray us to yer brothers. Our
-home-grown bandits will as lief cut yer throat as mine."
+Однажды Строу удалось найти для них временную работу: охранять купеческий караван, идущий на восток. Однорукий сержант поглядел на парочку с большим сомнением.
 
- The sergeant gave Straw an appraising look, then abruptly
-spun back to Barenziah, whipping out his short sword. But she
-had her knife out and was in a defensive stance. Straw drew
-his own knife and circled to the man's rear. The sergeant
-dropped his blade and chuckled again, "Not bad, kids, not
-bad. How are ye with that bow, dark elf?" Barenziah
-demonstrated her prowess. "Aye, not bad, not bad a'tall.
-And ye'll be keen of eye by night and of hearing at all
-times. A trusty dark elf makes as good a fightin' man as any
-could ask for. I know. I served under Symmachus himself
-before I lost this arm and got invalided out of the
-Emperor's forces."
+«Хе! — усмехнулся он. — Темный эльф! Это ж все равно, что поставить волка стеречь овцу! Однако мне нужны люди, мимо Морровинда мы не пойдем, так что своим корешам ты нас не сдашь. А наши доморощенные бандиты с радостью перережут глотку и мне, и тебе!»
 
- "We could betray them. I know folk who'd pay well," Straw
-said later, as they bedded down for their last night in the
-old inn, "Or rob them ourselves. They're very rich, those
-merchants are, Berry."
+Сержант повернулся к Строу и оценивающе оглядел его. И тут он неожиданно сделал резкий выпад в сторону Барензии, выхватив свой короткий меч. Кинжал в мгновение ока оказался у нее в руке, и она встала в защитную позицию. Строу прыгнул ему за спину, изготовив нож. Сержант опустил клинок и снова усмехнулся.
 
- Barenziah chuckled, "What ever would we do with so much
-money? And we need their protection for traveling quite as
-much as they need ours."
+«Неплохо, ребята, неплохо. А как ты со своим луком управляешься, темный эльф?» Барензия незамедлительно продемонстрировала свое мастерство. «Неплохо! Ты, парень, будешь в дозоре в темное время суток и на стреме в остальное. Верный темный эльф — это боец, какого поискать, всяк скажет. Я то уж знаю. Я самому Симмаху служил, пока мне руку не отчекрыжили и не списали из армии».
 
- "We could buy a little farm and settle down."
+«Мы могли бы его кинуть. Я знаю ребят, которые хорошо заплатят, — сказал Строу позже, когда они устроились на последнюю ночь в своей обветшалой каморке. — Или самим грабануть. Они очень богатые, эти купцы, Барри».
 
- Peasant! Barenziah thought scornfully. Straw was a
-peasant and had peasant dreams. But all she said was, "Not
-here, Straw, we're too close to Darkmoor still. We'll have
-more chances farther east."
+Барензия засмеялась: «Ну и что мы будем делать с такой кучей денег? А, кроме того, нам необходима их защита на время пути, чтобы тихо уйти как можно дальше».
 
- The caravan went only as far east as Sunguard. Tiber
-Septim had done much in the way of building relatively safe
-patrolled highways, but his tolls were steep, and this
-particular caravan kept to the side roads as much as
-possible to avoid them. This exposed them to the hazards of
-robber barons, both human and orcish, and roving bands of
-brigands of various races, but such were the perils of trade
-and profit.
+«Мы могли бы купить маленькую фермочку, ты и я, Барри, и осесть там, куда как мило».
 
- They had two such encounters before reaching Sunguard, an
-ambush which Barenziah's keen ears detected in plenty of time
-for them to circle about and surprise the lurkers, and a
-night attack by a mixed band of Khajiiti, humans and wood
-elves. The latter were a skilled band and even Barenziah did
-not hear them sneaking up in time to give much warning.
+«Мужик!» — презрительно подумала Барензия. Строу был крестьянином и лелеял в душе не более, чем крестьянские мечты. Но вслух она лишь сказала: «Не здесь, Строу, мы еще слишком близко от Даркмура. Надо идти на восток, там у нас будет еще много подобных шансов».
 
- The fighting was fierce. The attackers were driven off, but
-two of the caravan's guards were killed, and Straw got a
-nasty cut on his thigh before he and Barenziah killed his
-Khajiit assailant.
+Караван шел не восточнее Сангарда. Император Тайбер Септим I сделал многое для обеспечения относительной безопасности на трактах. Но пошлины кусались, и этот караван двигался, насколько возможно, боковыми тропами, в обход застав и патрулей. Что и подвергало их опасности нападения грабителей — как людей, так и орков, а также бродячего сброда всех рас и мастей. Но таковы уж издержки прибыльной торговли.
 
- Barenziah rather enjoyed the life. The garrulous sergeant
-had taken a liking to her, and she spent most of her evenings
-sitting around a campfire listening to his tales of
-campaigning in Morrowind with Tiber Septim and Symmachus.
-Symmachus had been made a general after Mournhold fell, the
-sergeant said. "He's a fine soldier, Symmachus is, but there
-was more than soldiery involved in Morrowind, if you take
-my drift. Well, you know about that, I expect."
+До Сангарда у них случились две подобные встречи. Первый — засада, о которой тонкий слух Барензии дал знать много загодя, и разбойники, окруженные с тыла, сами были застигнуты врасплох. Второй — ночное нападение смешанной шайки каджитов, людей и лесных эльфов. Последние были искусными воинами, и даже Барензия не слышала, как они подкрались. В тот раз драка вышла жестокой. Нападавших отбили, но полегли двое стражей каравана, а Строу получил неприятный порез на бедре, прежде чем им с Барензией удалось перерезать глотку его противника, каджита.
 
- "I don't remember," Barenziah said, "I've mostly lived in
-Skyrim. My mother married a Skyrim man. They're both dead,
-though. What happened to the lord and lady of Mournhold?"
+Барензия была вполне довольна жизнью. Она приглянулась словоохотливому сержанту, и большую часть времени проводила, сидя у костра и слушая его рассказы о похождениях в Морровинде с Тайбером Септимом и генералом Симмахом. Симмаха произвели в генералы после того, как пал Морнхолд, поведал сержант. «И хороший же он солдат, этот Симмах! Да только в Морровинде у него еще какой-то интерес, хе, хе. Это не только война, ежели понимаешь, о чем я. Ну да ты, небось, малость больше меня о том знаешь».
 
- The sergeant shrugged, "I never heard. Dead, I expect. All
-Morrowind's under military rule now. It's pretty quiet.
-Maybe too quiet. Like a calm before a storm. You going back
-there?"
+«Нет. Я не помню, — сказала Барензия, изображая безразличие. — Я провела большую часть жизни в Скайриме. Моя мать вышла за человека из Скайрима. Но они оба умерли. Расскажи мне, пожалуйста, что сталось с лордом и леди Морнхолда?»
 
- "Maybe," Barenziah said. The truth was that she was drawn to
-Morrowind like a magnet. Straw sensed it and was unhappy
-about it. He was unhappy anyway, since they could not bed
-together, as she was supposed to be a boy. Barenziah rather
-missed it too, but not as much as Straw did, seemingly. The
-sergeant wanted them to sign on for the return trip, but
-gave them a bonus when they parted and letters of
-recommendation. 
+Сержант пожал плечами: «Не знаю. Померли, небось. Там огроменная драка была, до того, как перемирие подписали. А теперича все тихо. Мож, и слишком тихо. Как перед бурей. Слушай, хлопчик, так ты на родную землю вертаешься?»
 
- Straw wanted to settle permanently near Sunguard, but
-Barenziah insisted on continuing to travel east.
+«Может быть», — сказала Барензия. На самом же деле ее влекло в Морровинд и Морнхолд неодолимо, как мотылька на зарево горящего дома. Строу это чувствовал, и был недоволен. Впрочем, он был несчастен с тех пор, как им пришлось спать раздельно, поскольку Барензия почиталась в караване юношей. Барензии тоже не хватало этого, но, похоже, не так сильно, как Строу.
 
- "I'm the queen of Mournhold by rights," she said, unsure
-whether it was true, or it was a story she had made up as a
-child. "I want to go home. I need to go home."
+Сержант хотел нанять их и на обратный путь, но, когда они отказались, все равно выплатил премию и написал отличные рекомендательные письма.
 
- That at least was true. She had run out of mushrooms and was
-very hungry for them. She found a few for sale in the
-Sunguard marketplace, but they were not as good or
-satisfying as the ones the courier had brought. After a few
-weeks they managed to get places in a caravan heading east.
-By early winter, they were in Riften, and near the Morrowind
-border, but the weather had grown severe and they were told
-no merchant caravans would set forth until mid-spring.
+Строу желал осесть в Сангарде навсегда, но Барензия настояла на продолжении путешествия на восток. «Я королева Морнхолда по праву, — сказала она, в душе не совсем уверенная в том, правда это, или все это причудилось потерянному, напуганному ребенку. — Я желаю попасть домой. Мне нужно попасть домой». А вот это была уже несомненная правда.
 
- Barenziah stood atop the city walls and stared across the
-deep gorge that separated Riften from the snow-clad
-mountain wall of Morrowind beyond.
+Через несколько недель им удалось пристроиться к другому каравану, идущему на восток. К началу зимы они были в Рифтене, почти у самой границы Морровинда. Но погода испортилась, и им сказали, что ни один купеческий караван не рискнет выйти до середины весны.
 
- "Berry," Straw said gently, "Mournhold's a long way off
-yet, nearly as far as we've come already, and the lands
-between are wild, full of wolves and bandits and orcs and
-still worse creatures. We'll have to wait for spring."
+Барензия стояла на городской стене и вглядывалась вдаль, в гряду заснеженных гор, стражей Морровинда, высившуюся за глубоким ущельем, отделявшим от них Рифтен.
 
- "There's Silgrod Tower," Berry said, referring to the Dark
-Elf town that had grown up around the ancient tower that
-guarded the border between Skyrim and Morrowind.
+«Барри, — мягко сказал Строу. — До Морнхолда еще далеко, почти столько же, сколько мы уже прошли. И эти земли кишат волками, разбойниками, орками, да тварями похлеще. Нам нужно дождаться весны».
 
- "The bridge guards won't let me across, Berry. They're crack
-Imperial troops. They can't be bribed. If you go, you go
-alone. I won't try to stop you. But what will you do?
-Silgrod Tower is full of Imperial troops. Will you become
-a washerwoman for them? A camp follower?"
+«Там башня Зильгрод», — сказала Барри, имея в виду поселение темных эльфов, выросшее вокруг древней сторожевой вышки на границе Скайрима и Морровинда.
 
- "No," Barenziah said thoughtfully. Actually the idea was
-not entirely unappealing. She was sure that she could earn
-a modest living by sleeping with the soldiers for money.
-She'd had a few adventures of that sort as they crossed
-Skyrim, when she'd dressed as a woman and slipped away from
-Straw. She'd only been looking for a bit of variety. Straw
-was sweet but dull. She'd been startled, but pleased when
-the men she picked up offered her money afterwards.
+«Стражи на мосту не пропустят меня, Барри. Это лучшие имперские воины. Их не подкупишь. Если ты пойдешь, то пойдешь одна. Я не стану пытаться остановить тебя. Но что ты будешь там делать? В башне Зильгрод полно имперских солдат. Станешь для них прачкой? Или гарнизонной девкой?»
 
- Straw had been unhappy about it though and would shout for
-awhile, then sulk for days afterwards if he caught her at it.
-He was very jealous. He'd even threatened to leave her.
+«Нет», — ответила Барензия медленно и вдумчиво. В действительности подобная мысль не казалась ей совершенно непривлекательной. Она была уверена, что сможет заработать на жизнь, ублажая солдат. У нее было несколько подобных приключений на пути через Скайрим, когда она одевалась женщиной и потихоньку ускользала от спящего Строу. Она просто искала чуточку разнообразия. Строу был нежен, но скучен. И она была крайне, хотя и приятно, удивлена, когда мужчина, с которым она познакомилась, после предложил ей деньги. Строу же почему-то был очень недоволен: орал на нее, а потом дулся по нескольку дней, когда ему удавалось поймать ее за этими похождениями. Он оказался весьма ревнив. Он даже угрожал бросить ее. Но не сделал этого. Да и не мог.
 
- But the Imperial Guards were a tough and brutal lot by all
-accounts and Barenziah had heard some very ugly stories
-during her travels. The ugliest stories had come from the
-lips of ex-veterans around the caravan campfire and were
-proudly recounted. They'd been trying to shock her and
-Straw, she realized, but she also realized that there was some
-truth behind the wild tales. Straw hated that kind of talk
-and hated having her hear it, but there was a part of him that
-was fascinated by it.
+Однако имперские стражи были грубы и жестоки по всем статьям, и Барензия наслушалась немало жутких историй за время их путешествий. Самые ужасные рассказывали бывшие ветераны легионов, не без мрачной гордости и со всеми подробностями. Как она понимала, они желали шокировать их со Строу, но при этом было очевидно, что какая-то доля правды в этих диких россказнях присутствует. Строу ненавидел эти грязные басни, особенно из-за того, что ей тоже приходилось их слышать. Но было в них нечто, что казалось ему привлекательным.
 
- Barenziah had encouraged Straw to seek out other women, but
-he said he didn't want anyone but her. She told him she didn't
-feel that way, but she did like him better than anyone else.
+Барензия чувствовала это и подбивала Строу поискать других женщин. Но он сказал, что не хочет никого, кроме нее. Она честно призналась, что не испытывает к нему подобных чувств, просто он нравится ей больше прочих. «Так зачем же ты путаешься с другими?» — спросил как-то Строу при случае.
 
- "Then why do you go with other men?"
+«Не знаю».
 
- "I don't know, dear."
+Строу вздохнул: «Говорят, все темные эльфийки таковы».
 
- Straw sighed. "They say dark elf women are like that."
-
- Barenziah smiled and shrugged. "I know. I guess that's all
-the explanation there is."
-
-
-
-
-
- 
+Барензия улыбнулась и пожала плечами: «Не знаю. Или, нет… может, и знаю. Да, пожалуй, знаю, — она обернулась и нежно поцеловала его. — Наверно, в этом и есть объяснение всему».

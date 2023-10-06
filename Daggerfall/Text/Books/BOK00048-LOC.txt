@@ -1,155 +1,75 @@
-Title: The Real Barenziah, Part VI
-Author: Anonymous
+Title: Подлинная Барензия, т. 6
+Author: Неизвестный автор
 IsNaughty: True
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]The Real
-
-[/center]Barenziah
-
-[/center]Part VI
-
-
+[/center]Подлинная Барензия, т. 6
 
 [/font=4]
 
+«Ты прыгаешь по краю вулкана, девочка», — предупредила Дреллиэн, когда Барензия восхищалась замечательным перстнем со звездным сапфиром, который подарил ей ее имперский возлюбленный, чтобы отметить месяц со дня начала свиданий.
 
+«Почему? Мы делаем друг друга счастливыми. Мы никому не вредим. Симмах наказал мне соблюдать осторожность и хороший вкус. Кого же лучше я могла выбрать? И мы очень осторожны. На публике он обращается со мной, как с дочерью». Ночные визиты Тайбер Септим наносил через тайный проход, о котором во дворце знали очень немногие: сам император и несколько доверенных телохранителей.
 
-[/center]
+«Он с тобой, как с писаной торбой носится. Разве ты не заметила, как холодно с тобой общаются императрица и ее сын?»
 
- "You dance on the edge of a volcano, child," Drelliane scolded, as Barenziah
-admired the emerald ring her lover had given her to
-celebrate their one month anniversary.
+Барензия пожала плечами. Еще до того, как она и Септим стали любовниками, его семья обращалась с ней только с необходимой любезностью. Холодной любезностью. «Какая разница? Ведь Тайбер обладает властью».
 
- "How so? We make one another happy. We harm no one. Symmachus
-bade me to be discriminate and discreet. Who better could I
-choose? And we've been most discreet. He treats me as a
-daughter in public." Tiber Septim's nightly visits were
-made through a secret passage.
+«Но его сын обладает будущим. Умоляю тебя, не выставляй его мать на всеобщее осмеяние».
 
- "He slavers over you like a dog his dinner. Have you not
-noticed the coolness of the Empress and her son toward you?"
+«Ну что я могу поделать, если эта сухая палка, а не женщина, не может привлечь внимание своего мужа даже в разговоре за обедом?»
 
- Barenziah shrugged. Even before she and Septim had become
-lovers she'd had no more from his family than bare civility.
-Threadbare civility. "What matter? It is Tiber who holds
-power."
+«Меньше говори на публике. Это все, чего я прошу. Она немного значит, верно, но ее дети любят ее, а ты же не хочешь, чтобы они стали твоими врагами. Тайбер Септим не долго проживет. Я хочу сказать, — быстро поправилась Дреллиэн, заметив сердитый взгляд Барензии, — что люди вообще долго не живут. Они преходящи, как говорим мы, представители старших рас. Они приходят и уходят, как времена года, но семьи могущественных живут в веках. Ты должна быть их другом, если хочешь извлечь продолжительную выгоду из ваших отношений. Ох, но как же мне заставить тебя увидеть все в истинном свете, ведь ты молода, да еще и воспитана на людской манер. Если будешь поступать осторожно, и мудро, ты, вместе с Морнхолдом, увидишь падение династии Септима, если он и в самом деле основал ее, так же, как видела ее расцвет. Такова человеческая история. Люди появляются и исчезают, как непостоянные приливы. Их города и владения вырастают, как цветы весной, только для того, чтобы увянуть и погибнуть под летним солнцем. Но эльфы остаются. Мы — будто год, а они — час, мы — десятилетие, а они — день».
 
- "It is his son who holds the future. Do not hold his mother up
-to public scorn, I beg you."
+Барензия засмеялась. Она знала, что повсюду ходят слухи о ней и Тайбере Септиме. Она наслаждалась вниманием, ведь все, кроме императрицы и ее сына были очарованы ею. Менестрели пели о ее темной красоте и очаровании. Она была популярна и влюблена. Пусть даже только на время, ибо что, на самом деле, вечно? Она впервые была счастлива, каждый день был наполнен радостью и удовольствием. А ночи были еще лучше.
 
- "Can I help it if that dry stick of a woman cannot hold her
-husband's interest even in conversation at dinner?"
+«Что со мной?» — посетовала Барензия. «Смотри, ни одна юбка не подходит. Что с моей талией? Я поправилась?» — Барензия недовольно посмотрела в зеркало на свои худые руки и ноги, и сильно располневшую талию.
 
- "Have less to say in public. That is all I ask. She matters
-little, save that her children love her, and you do not want
-them as enemies. Tiber Septim has not long to live. I mean,"
-Drelliane amended quickly, at Barenziah's scowl, "Humans are
-all short-lived. Temporary, as we elves say. They come and
-go as the seasons do, but the families of the powerful live
-on for a time. You must be a family friend if you would see lasting profit from your relationship. Ah, how can I
-make you truly see, you who are so young and human-bred as
-well! If you take care you and Mournhold are like to live to
-see the fall of Septim's dynasty, if indeed he has founded
-one, as you have seen its rise. It is the way of human history.
-They ebb and flow like the tides. Their cities and even their
-empires bloom like spring flowers, only to wither and die
-in the summer sun."
+Дреллиэн пожала плечами. «Похоже, что ты ждешь ребенка, хоть ты так молода. Постоянная близость с человеком могла привести тебя к ранней плодовитости. Я не вижу иного выбора, ты должна поговорить об этом с императором. Ты в его власти. Было бы лучше, я думаю, если бы ты отправилась в Морнхолд, если он позволит, и родила ребенка там».
 
- Barenziah just laughed. She knew that rumors abounded about
-her and Tiber Septim. She enjoyed the attention for all
-save the Empress and her son seemed captivated by her. Bards
-sang of her dark beauty and her charming ways. She was in
-fashion and in love and if it was temporary, well, what was
-not? She was happy for the first time she could remember,
-each day filled with joy and pleasure, and the nights yet
-better.
+«Одна?» — Барензия положила руки на живот, в ее глазах появились слезы. Все в ней хотело разделить плод ее любви с возлюбленным. «Он никогда на это не согласится. Он теперь со мной не расстанется. Вот увидишь».
 
- "What is wrong with me?" Barenziah lamented. "Look, not one
-of my skirts fit? What's become of my waist? Am I getting
-fat?" Barenziah regarded her thin arms and legs and her
-undeniably thickened waist in the mirror with displeasure. 
+Дреллиэн покачала головой. Хотя она больше ничего не сказала, взгляд сочувствия и сожаления сменил обычное холодное презрение.
 
- Drelliane shrugged. "You appear to be with child, young as
-you are. Constant pairing with a human has brought you early
-to fertility. I see no choice but for you to speak with him
-about it. You are in his power. It would be best, I think,
-for you to go directly to Mournhold if he will agree, and
-bear the child there."
+Этой ночью Барензия рассказала обо всем Тайберу Септиму, когда он, как обычно, пришел к ней ночью.
 
- "Alone?" Barenziah placed her hands on her swollen belly,
-tears forming in her eyes. Everything in her yearned to share
-the fruit of her love with her lover. "He'll ne'er agree to
-that. He won't be parted from me now. You'll see."
+«Ребенок?» Он выглядел шокированным. Нет, ошеломленным. «Ты уверена? Но я слышал, что эльфы не могут родить в таком возрасте…»
 
- Drelliane shook her gray head. Although she said no more, a
-look of sympathy and sorrow had replaced her usual cool
-scorn.
+Барензия с трудом улыбнулась. «Как я могу быть уверена? Я же никогда…»
 
- That night Barenziah told Tiber Septim of it when he came to
-her.
+«Я пошлю за своим лекарем».
 
- "With child?" He looked shocked. Stunned. "You're sure of
-it? I was told elves do not bear so young."
+Лекарь, высокий эльф среднего возраста, подтвердил, что Барензия в самом деле беременна, и о таком раньше не слыхивали. Это было доказательством могущества его превосходительства, сказал лекарь льстивым тоном. Тайбер Септим зарычал на него.
 
- Barenziah summoned a smile. "How can I be sure? I've never --
-"
+«Этого не должно быть!» — сказал он. «Избавься от него. Мы приказываем тебе».
 
- "I'll fetch my healer."
+«Сир», — изумленно уставился на него лекарь. «Я не могу… Я не должен…»
 
- The healer, a high elf of middle years, confirmed that
-Barenziah was indeed pregnant and that such a thing had never
-before been known to happen. It was a testimony to His
-Excellency's potency, the healer said sycophantically.
-Tiber Septim snarled at him. "This must not be," he said.
-"Undo it."
+«Конечно можешь, негодный тупица», — оборвал его император. «Мы желаем, чтобы ты сделал это».
 
- "Sire," the healer gaped at him. "I cannot--."
+Барензия, до этого тихо лежавшая в постели, широко раскрыв глаза от страха, вдруг села. «Нет!» — закричала она. «Нет! Что ты говоришь?»
 
- "Of course you can," he snapped. "I command you do so."
+«Дитя», — Тайбер Септим сел рядом с ней, улыбаясь одной из своих очаровательных улыбок. «Мне так жаль. Правда. Но его не должно быть. Он был бы угрозой моему сыну и его сыновьям. Я не могу этого допустить».
 
- Barenziah, wide-eyed with sudden terror, sat up in the bed.
-"No!" she screamed. "No! What are you saying?"
+«Но это же твой ребенок!» — воскликнула она.
 
- "My dear child," Tiber Septim sat down beside her with his
-winning smile. "I'm so sorry. Truly. But this cannot be.
-Your child could be a threat to my son and his sons. I will
-put it no more plainly than that."
+«Нет. Сейчас, это только возможность, что-то, у чего еще нет души, и еще не живущее. Я не допущу этого. Я запрещаю». Он снова тяжело взглянул на лекаря, и эльф задрожал.
 
- "The child I bear is your child!" she wailed.
+«Сир. Это ее дитя. Детей немного среди эльфов. Женщины эльфов могут забеременеть не более четырех раз, и то очень редко. Обычно они останавливаются на двух. Некоторые вообще не рожают, а некоторые — только одного. Если я заберу у нее это дитя, сир, она может больше не забеременеть».
 
- "No. It's but a possibility, a might be, not yet gifted with
-a soul or quickened into life. I will not have it so." He
-gave the healer another hard stare and the elf began to
-tremble.
+«Ты пообещал, что она не родит от нас. Мы мало доверяем твоим предсказаниям».
 
- "It is her child. Children are few among elves. No woman
-conceives more than four and that is very rare. Two is the
-allotted number. Some bear none, some only one. If I take
-this one from her, she may not conceive again."
+Барензия выкарабкалась из постели и, голая, побежала к двери, не зная, куда бежит, зная только, что не останется здесь. Она не дошла. Ею овладела тьма.
 
- "You told me she would not bear to me. I've little faith in
-your prognostications."
+Она проснулась от боли и чувства пустоты. Пустота там, где что-то было, где что-то жило, но теперь умерло и никогда не вернется. Дреллиэн была рядом, облегчала ее боль и вытирала кровь, которая еще иногда текла у нее между ног. Но ничто не могло заполнить пустоту. Не было ничего, что заняло бы место пустоты.
 
- Barenziah scrambled naked from her bed, and ran for the
-door, not knowing where she was going, only that she could not
-stay. She never reached the door for blackness took her.
+Император прислал великолепные дары и много цветов и наносил ей краткие визиты. Сначала Барензии нравились эти посещения. Но Тайбер Септим больше не приходил по ночам, и, через некоторое время, она сама этого уже не желала.
 
- Barenziah awoke to pain and emptiness. Drelliane was there to
-soothe the pain and clean the blood that pooled between her
-legs, but there was nothing to fill the emptiness. Tiber
-Septim sent gifts and flowers, and came for short visits,
-always well attended. Barenziah received these visits with
-pleasure, but he came no more at night nor did she wish for
-him. After a week, when she was physically recovered, it was
-announced that Symmachus had requested she come to Mournhold
-earlier than planned, and that she would leave forthwith.
-She was given a splendid retinue, a wardrobe befitting a
-queen and a ceremonial departure from the gates of
-Imperial City. 
+Прошло несколько недель, и, когда она оправилась физически, Дреллиэн сообщила ей, что Симмах просит ее приехать в Морнхолд раньше, чем планировалось. Было объявлено, что она поедет немедленно.
+
+Ей дали большую свиту, богатое приданое, которое соответствовало ее положению королевы, и были устроены церемониальные проводы у ворот Имперского города. Некоторые сожалели о том, что она уезжала и выражали свое сожаление слезами и уговорами. Но были такие, кто этого не делал, и не сожалел.
