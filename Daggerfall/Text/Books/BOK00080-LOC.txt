@@ -1,108 +1,23 @@
-Title: Invocation of Azura
-Author: Sigillah Parate
+Title: Вызов Азуры
+Author: Сигилла Парат
 IsNaughty: False
 Price: 452
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Invocation of
-
-[/center]Azura
-
-
+[/center]Вызов Азуры
 
 [/font=4]
 
-[/center]
+Три сотни лет я остаюсь жрицей Азуры, даэдрической принцессы Лунной Тени, Матери Розы, Королевы Ночного Неба. Каждый Хогитум, 21-го Первого зерна, мы призываем ее, дабы получить от нее наставления и преподнести ее величеству ценные и красивые вещи. Это жестокая, но мудрая госпожа. Мы не призываем ее, если идет гроза, — эти ночи принадлежат Безумному Богу, Шеогорату, даже если приходятся на Хогитум. Азура понимает, почему мы осторожны.
 
-     For three hundred years, I have been a priestess of Azura,
-the Daedric Prince of Moonshadow, Mother of the Rose, and
-Queen of the Night Sky. Every Hogithum, which we celebrate on
-the 21st of First Seed, we summon her for guidance and to
-give up beautiful things to her majesty. She is a cruel but
-wise mistress. We do not invoke her on any Hogithum troubled
-by thunder storms, for those nights belong to the Mad One,
-Sheogorath, even if they do coincide with Hogithum. Azura
-understands our caution.
+Призыв Азуры — событие глубоко личное. Мне довелось служить жрицей трем другим даэдрическим принцам, но с Азурой все иначе — она ценит достоинства своих последователей и искренность почитания. Когда я была юной темной эльфийкой шестнадцати лет от роду, то вступила в ковен моей бабушки, где поклонялись Молаг Бал, Принцессе Интриг. Шантаж, вымогательство и подкуп служат ведьмам Молаг Бал таким же оружием, что и темная магия. Призыв Молаг Бал совершают 20-го Вечерней звезды, если не стоит ненастная погода. Церемонию редко пропускают, однако Молаг Бал в облике смертной является своим последователям и в другие дни. Когда моя бабушка погибла при попытке отравить наследника трона Фаейрвотча, я пересмотрела свою приверженность этому культу.
 
-     We may summon her on other dates also, and she quite often
-responds. The only days we are forbidden to invoke her are
-those prescribed to one of the other fifteen Princes: the 1st
-and the 13th of Morning Star, the 2nd and the 16th of Suns
-Dawn, the 5th of First Seed, the 9th of Rains Hand, the 9th of
-Second Seed, the 5th of Mid Year, the 10th of Suns Height, the
-8th of Hearth Fire, the 8th and the 13th of Frost Fall, the
-2nd and 20th of Suns Dusk, and the 20th of Evening Star. I
-know who is summoned on the 8th of Hearth Fire, the 2nd of
-Suns Dusk, and the 20th of Evening Star, but I am not certain
-of the others. It is enough that Azura has forbidden those
-dates.
+Мой брат был магом и последователем культа Боэтии — и, по его словам, Темная Воительница была бы мне гораздо ближе по духу, чем злокозненная Молаг Бал. Боэтия — принцесса-воин, чьи действия куда более прямолинейны, чем у других даэдротов. После долгих лет уловок и интриг мне нравилось исполнять поручения госпожи, которые имели прямые и непосредственные последствия. Кроме того, мне импонировало, что Боэтия была даэдра темных эльфов. В нашем культе ее призывали в день, который мы называли Перчаткой, — 2-го Заката солнца. В ее честь устраивались кровавые состязания, поединки и сражения продолжались до тех пор, пока девять членов культа не погибали от рук своих собратьев. Боэтию мало волновали ее последователи — ее интересовала лишь наша кровь. Готова ручаться, что видела ее улыбку, когда я во время учебного боя случайно сразила своего брата насмерть. Мой ужас, похоже, доставил ей немало удовольствия.
 
-     Azura's invocation is a very personal one. I have been
-the priestess of three other Daedric Princes, but Azura
-values the quality of her worshippers, the truth behind our
-adoration of her, and the 
+Вскоре после этого я покинула культ. Боэтия была для меня слишком бесчувственной, слишком холодной. Мне нужна была госпожа, в которой было бы больше чувств и глубины. Следующие восемнадцать лет своей жизни я не служила никому. Вместо этого я читала и изучала. Наконец в старом богохульном фолианте я натолкнулась на имя Ноктюрнал — Ноктюрнал Повелительницы Ночи, Ноктюрнал Непостижимой. Следуя указаниям книги, я воззвала к ней в ее священный день, 3-е Огня очага. Наконец-то я нашла ту госпожу, о которой так долго мечтала. Я стремилась постигнуть ее запутанную философию, источник ее таинственной скорби. Все в ней было покрыто мраком и тайной, даже ее речь и повеления. Прошли годы, прежде чем я поняла простую истину — мне никогда не удастся понять Ноктюрнал. Загадочность была ее неотъемлемым свойством, как жестокость для Боэтии или коварство для Молаг Бал. Понять Ноктюрнал было бы тем же, что отрицать ее, сорвать покровы, которыми укрыт ее мир тьмы. Хоть я и любила ее, но поняла всю тщетность попыток распутать ее загадки. Вместо этого я обратилась к ее сестре, Азуре.
 
-     When I was a Dark Elven maiden of sixteen, I joined my
-grandmother's coven, worshippers of Molag Bal, the Schemer
-Prince. Blackmail, extortion, and bribery are as much the
-weapons of the Witches of Molag Bal as magic is. The
-Invocation of Molag Bal is held on the 20th of Evening Star,
-except in stormy weather. This ceremony is seldom missed,
-but Molag Bal often appears to his cultists in mortal guise
-on other dates. When my grandmother died in an attempt to
-poison the heir of Firewatch, I reexamined my faith in the
-cult.
-
-     My brother was a warlock of the cult of Boethiah, and from
-what he told me, the Dark Warrior was closer to my spirit
-than the treacherous Molag Bal. Boethiah is a warrior Prince
-who acts more avertly than any other Daedra. After years of
-skulking and scheming, it felt good to perform acts for my
-mistress which had immediate consequences. Besides, I liked
-that Boethiah is a Daedra of the Dark Elves. Our cult would
-summon her on the day we called the Gauntlet, the 2nd of
-Suns Dusk. Bloody competitions would be held in her honor,
-and the duels and battles would continue until nine
-cultists were killed at the hands of other cultists. Boethiah
-cared little for her cultists -- she only cared about our
-blood. I do think I saw her smile when I accidentally slew my
-brother in a spar. My horror, I think, greatly pleased her.
-
-     I left the cult soon after that. Boethiah was too
-impersonal for me, too cold. I wanted a master of greater
-depth than she. For the next eighteen years of my life, I
-worshipped no one: I read and researched. It was in an old
-and profane tome I came upon the name of Nocturnal.
-Nocturnal the Night Mistress, Nocturnal the Unfathomable.
-As the book prescribed, I called to her on her holy day, the
-8th of Hearth Fire. At last, I had found the personal
-mistress I had so long desired. I strove to understand her
-labyrinthine philosophy, the source of her mysterious pain.
-Everything about her was dark and shrouded, even the way
-she spoke and the acts she required of me.
-
-     It took years for me to understand the simple fact that I
-could never understand Nocturnal. Her mystery was as
-essential to her as savagery was to Boethiah or treachery was
-to Molag Bal. To understand Nocturnal is to negate her, to
-pull back the curtains in her realm of darkness. As much as I
-loved her, I recognized the futility of unravelling her
-enigmas. I turned instead to her sister, Azura.
-
-     Azura is the only Daedra Prince I have ever worshipped who
-seems to care about her cultists. Molag Bal wanted my mind,
-Boethiah wanted my arms, and Nocturnal -- perhaps my
-curiousity. Azura wants all of that, and our love. Not our
-abject slavering, but our honest and genuine love in all
-its forms. It is important to her that our emotions are
-engaged. And our love must also be directed inward. If we
-love her and hate ourselves, she feels our pain.
-
-     I will have no other mistress.
-
-
+Из всех принцесс даэдра, которым я служила, лишь Азуре небезразличны ее последователи. Молаг Бал был нужен лишь мой ум, Боэтии — мои руки, а Ноктюрнал — пожалуй, мое любопытство. Азура желает этого всего, но еще более — нашей любви. Не раболепия и пресмыкания, а честной и искренней заботы во всех ее проявлениях. Для нее важны чувства ее последователей. Нашу любовь мы также должны направлять и внутрь себя. Если мы будем любить ее и ненавидеть себя, наша боль передастся ей. У меня не будет иной госпожи, кроме нее.

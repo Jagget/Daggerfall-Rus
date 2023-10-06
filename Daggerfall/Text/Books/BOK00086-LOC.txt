@@ -1,119 +1,36 @@
-Title: Divad the Singer
-Author: Destri Melarg
+Title: Дивад Певец
+Author: Дестри Меларг
 IsNaughty: False
 Price: 684
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Divad
-
-[/center]The
-
-[/center]Singer
-
-
+[/center]Дивад Певец
 
 [/font=4]
+Дивад Певец — это две уникальных и различных личности в одном теле. Дивад является наиболее известным из героев Редгардов. Сын Франдара Хандинга и, возможно, наиболее искусный Ансей, когда либо живший на земле. Однако в начале своей жизни Дивад, казалось, окончательно отверг Путь меча.
 
+Дивад был единственным сыном Франдара Хандинга и родился на закате жизни последнего (2396 по старому летосчислению и приблизительно 1Е 760 по тамриэльскому календарю), когда сам Хандинг чаще всего отсутствовал, большую часть времени посвящая сражениям, последним дуэлям, принимая участие во многочисленных битвах и восстаниях того периода. В одиннадцать лет Дивад вошел в Зал Военной Доблести и начал обучение, но в 16, он, казалось, в конце концов позволил своей злости на то, что он рос фактически без отца, взять верх над всем лучшим в нем; он сломал свои мечи и покинул Зал, чтобы стать акробатом в бродячем цирке.
 
+Жизнь в цирке не понравилась Диваду, и через 2 года (возможно, сказалась наследственность) он стал музыкантом и, в конце концов, бардом. Еще два года он странствовал по разным городам империи, сочиняя музыку и исполняя свои песни, его творчество волновало сердца и снискало ему немалую славу.
 
-[/center]    Divad The Singer is in one body, two unique and distinct
-people.  Divad is the most well known of the Redguard heroes.
-Frandar Hunding's son, probably the most accomplished Ansei
-who ever lived. Yet early in his life, Divad appeared to
-thoroughly have rejected The Way of the Sword.
+Хотя Дивад публично отказался от Пути меча, есть свидетельства, что он продолжал практиковать те обязательные тренировочные комплексы, которым его учили в Зале. Он не носил меча, но поздними вечерами в его палатке часто видели яркий свет, что впоследствии идентифицировали как применение формы Пути, известной как Шехай Шен Ши Ру — Путь Меча Духа, или просто Шехай.
 
-    Divad was the only son of Frandar Hunding, and was born
-late in Hunding's life (2396 in the old way of reckoning,
-probably about 1E 760 by the Tamrielic calendar), when he
-was away most of the time fighting the last of his duels and
-engaging in the many battles and insurrections of the
-period. At eleven, Divad entered the Hall of the Virtues of
-War and began training, but at 16, he finally let his anger
-at growing up essentially fatherless get the better of him.
-Divad broke his swords and left the Hall to become an acrobat
-in a traveling circus.
+Дивад был весьма популярен среди населения империи, на его концертах всегда были аншлаги, но и это не позволило ему избежать участи своего народа. Когда последний император пришел к власти и начал преследовать певцов меча, Дивад был среди тех, кто привлек к себе его внимание в первую очередь.
 
-    The life in the circus was unsatisfying to Divad, and
-after two years, his innate artisan heritage drove him to
-become a musician and finally a Bard. For two more years he
-traveled, singing in the cities of the empire -- gaining no
-small amount of fame and recognition for his stirring and
-popular songs and music.
+Решив пойти войной на певцов с целью добиться полного контроля над империей, Император Хира первым делом занялся теми их представителями, которые занимали видное положение в имперском обществе. Большинство из них было убито, но музыка Дивада была столь популярна, а его слава столь велика, что для его ареста император послал отряд своей личной гвардии.
 
-    Although Divad had publicly forsaken the Way of the sword,
-it would appear that he continued to practice the
-compulsory forms of training he was taught in the Hall.  He
-carried no sword, but in the late evening, bright lights
-could be often be seen in his tent (my source says nothing more
-about this, but it may be assumed that the writer was
-suggesting that Divad was practicing the form of the Way
-known as Shehai Shen She Ru -- the Way of the Spirit Sword, or
-simply the Shehai).
+Можно сказать, что людям императора очень повезло, либо очень не повезло, зависит от того, с какой точки зрения на это посмотреть. Не будучи дураком, Хира понимал, что даже безоружный певец — враг очень опасный, и послал 100 своих лучших гвардейцев. Которым повезло в том, что они смогли схватить Дивада и заковать его в цепи, так как при их появлении он обедал со своей престарелой матушкой. А не повезло им в том, что, так как он сдался, они, не долго думая, убили его мать.
 
-    Divad was very popular with the people of the empire, and
-his music and concerts were well attended. Still he could
-not escape his heritage of the sword.  When the Last Emperor
-ascended to power and began to  persecute the sword-singers,
-Divad was among the first to attract his attention.
+Один единственный бездумный поступок, как это часто бывает на войне, был тем решающим фактором, который привел их к окончательному поражению. Это убийство позволило духу Пути прорвать установленные Дивадом преграды в своей душе. Вплоть до того взмаха топора Дивад был обыкновенным ремесленником, скорее даже артистом, великим артистом, но никак не воином.
 
-     Once the Emperor Hira and his consort decided to go to war
-with the Singers for control of the empire, he moved swiftly
-against those Singers who were visibly a part of empire
-society.  Most he had killed, but Divad's music and fame were
-so wide spread that he sent a team of his personal guards to
-arrest him. 
+В миг ее смерти Дивад поднялся со своего места, взял в руки цепи и, размахивая ими, очертил вокруг себя смертоносную арку. Он сразил четырех стражников, расчистил достаточно свободного места для побега и выпрыгнул через окно в реку, на берегу которой стоял его дом. Он исчез во тьме и ненастье той ночи.
 
-    The Emperor's men were either very lucky or very unlucky
-depending on how you choose to view it.  Being no fool, Hira
-sent 100 of his best guards, for even an unarmed Singer was a
-very dangerous foe. The luck  was that they were able to
-capture Divad and place him in chains, for they came at him as
-he sat dining with his elderly mother. The disaster was that as
-he surrendered, they rashly struck the pleading old woman.
-Too hard, it would seem, for she fell dead with that single
-blow.
+С этого момента Дивада видели несколько раз — в намного больших местах, чем смог бы посетить простой смертный — по всей империи об этом начали появляться слухи. Везде, где люди Хиры собирались причинить зло, сопротивление приписывали Диваду.
 
-    That single thoughtless deed, as is often the case in war,
-was the one pivotal factor causing their eventual defeat.
-That act ignited in Divad the spirit of the Way. Up until
-that careless stroke, Divad was an ordinary artisan, no, an
-artist, a great artist, but no warrior.  
+Когда Хира уничтожал Певцов и начал формировать армию для вторжения в Высокую Пустыню, именно Дивад приносил новости певцам. Дивад был и среди тех, кто поднялся на Хатту, стремясь отыскать Хандинга. Факт малоизвестный, но Хандинг сперва отказался принять на себя лидерство над Певцами. Первая попытка прервать его песнь смерти заставила его прогнать старейшин из пещеры, он даже создал Шехай в гневе. Именно Дивад вернулся в пещеру поговорить с Хандингом. До сего дня никто не знает, что произошло в той пещере, что они говорили друг другу, но видели яркие вспышки света и слышали разгневанные голоса. Прошло пять долгих часов, и затем они вместе вышли из пещеры, Дивад и Хандинг, бок о бок. Остальное, как говорится, достояние истории…
 
-    The moment of her death, Divad rose from his seat, took his
-chains between his two hands and began swinging the heavy
-chain in a deadly arc.  He slew four of the guards, gaining
-enough space to run and dive through the window and into the
-river He disappeared into the night 
-
-    From that point, Divad was spotted many times and told of
-in many more rumors all across the empire -- far more places
-than a mere mortal man could have ever been. At every point
-where Hira's men gathered to do mischief, the resistance was
-attributed to Divad.  
-
-    As Hira moved against the Singers and began forming his
-army to invade High Desert, it was Divad who carried the news
-to the Singers. Divad was among those who climbed Hattu to
-find Hunding in his cave. What is not well known is that
-Hunding, at first refused to take leadership of the Singers.
-The first attempt to interrupt him at his death poem cause
-him to drive the elders from his cave, he even formed the
-Shehai in his anger. It was Divad who reentered the cave
-alone to speak with Hunding. To this day, no one knows what was
-said, what  happened in that cave. Scribes of the time
-reported bright flashes of light and angry  voices. Five
-long hours came and went, then both emerged from the cave,
-Divad, at Hunding's side. The rest, as they say, is history ...
-
-    Divad, who had not completed training in the Hall of the
-Virtues of War, became an adviser to Hunding and spent his
-time reading the newly completed Book of Circles, but his
-role in the Hammer and Anvil strategy was as a simple
-sword-singer and fighter.  It was not till the Singers fled
-their native empire and landed In New Land that his story
-truly begins. 
+Дивад, не закончивший обучение в Зале военной доблести, стал советником Хандинга и провел много времени, читая только что законченную «Книгу кругов», но в стратегии «Молота и наковальни» он исполнял роль простого певца меча и бойца. Его история на самом деле началась только тогда, когда певцы ступили на новую землю.

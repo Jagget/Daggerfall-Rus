@@ -1,120 +1,27 @@
-Title: The War of Betony
-Author: Fav'te
+Title: Бетонская война
+Author: Фав’т
 IsNaughty: False
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]The War of
-
-[/center]Betony
-
-
+[/center]Бетонская война
 
 [/font=4]
 
-[/center]
+Что может быть лучшим доказательством природной порочности бретонцев, чем их поведение перед, во время и после того, что история запомнит как Бетонскую войну? Самыми развращенными побуждениями, самыми презренными тактическими приемами и самыми неумными триумфами королевство Даггерфолл изменило природу войны в Илиакском заливе и, возможно, на всем Тамриэле. В Сентинеле мы называем недавнюю резню Осадой Бетони, но так как книги по истории пишутся победителями, будем называть ее Бетонской войной.
 
-    Could there be a better proof of the natural perversity
-of Bretons than their conduct before, during, and after what
-history will remember as the War of Betony? By the most
-depraved of motivations, the most despicable of tactics,
-and the most ungentlemanly of triumphs, the kingdom of
-Daggerfall changed the nature of warfare in the Iliac Bay
-and perhaps over all of Tamriel. In Sentinel, we call the
-recent carnage the Siege of Betony, but as the book of history
-is writ by the victors, let us speak instead of the War of
-Betony.
+Рэдгарды по своей натуре очень скромный и практичный народ. Мы не флегматики, как высокие эльфы, не трусы, как лесные эльфы и каджиты. Но то, что вызывало бы ярость и гнев хвастливых и тщеславных нордов и бретонцев, рэдгард не удостоил бы и пожатием плеч. Едва какое-нибудь бретонское королевство завладеет островком Бетони, как оно его начинает алчно охранять. Бетонскую торговлю серьезно ограничивают, ее религию подавляют, ее народ связывают эффективными и неизменными присягами и обязанностями вассалитета. Только Бетонь не была бретонским доминионом. Бетони была частью королевства Сентинель.
 
-    Redguards by their nature are a modest and practical
-people. We are not phlegmatic like the High Elves, nor
-cowardly like the Wood Elves and Khajiiti. But what would
-infuriate and enrage the swaggering, vainglorious Nords and
-Bretons would not merit a shrug from a Redguard. Had any
-Breton kingdom possessed the little island of Betony, it
-would have been covetously guarded. Betony's trade would
-have been seriously restricted; its religion subjugated; its
-people bound by active and constant pledges and duties of
-vassalage. But Betony was not a Breton dominion. Betony was
-part of the Kingdom of Sentinel.
+Король Лисандус — пусть Старые и дальше мучают его грязную душу!- увидел процветающий остров, лежащий ближе к его землям, чем к Сентинелю, и в его черное сердце закралась алчность. Угрозами, ложью, пиратскими набегами, наконец, вторжением Даггерфолл незаконно завладел островом Бетони. Его придворная колдунья, леди Медора, его мать-волшебница и прочие умудренные опытом советники ужаснулись жестокости проводимой им кампании и умоляли короля прекратить этот акт военной тирании. Постепенно все несогласные были удалены от двора. Не осталось никого, кроме безразличных и воинствующих.
 
-    King Lysandus -- may the Old Ones continue to torment his
-soul for his wickedness! -- saw the prosperous island which is
-closer to his land than to Sentinel, and his black heart
-turned to avarice. Through threats, lies, acts of piracy
-and, finally, invasion, Daggerfall illegally took
-possession of the Island of Betony. His court sorceress, the
-Lady Medora, his enchantress mother, and other experienced
-counselors were horrified by the brutality of his campaign
-and begged him to abandon his tyrannical act of war.
-Gradually, all dissentors were removed from court. None
-but the ignorant and the warmongers remained.
+Наш покойный король Камарон пытался применять по отношению к Даггерфоллу вежливую дипломатию, но в конце концов он сделал официальное заявление о начале военных действий. Даггерфолл и Сентинель за две тысячи лет сосуществования не единожды воевали, и Камарон знал, что черную магию и шпионаж бретонцы считают честной войной. Никогда не унижая сентинельский характер копированием бретонской подлости, Камарон великолепно знал, как драться с Лисандусом. Гнусные боевые тактические приемы короля Лисандуса были даже более вероломными, чем его предшественников, и война становилась все более ожесточенной, пока в нее не оказались втянуты не только Сентинель и Даггерфолл.
 
-    Our late king Camaron tried to employ civil diplomacy
-with Daggerfall, but in the end, he made the former
-declaration of war. Daggerfall and Sentinel have fought
-many times in their two thousand years of coexistance, and
-Camaron knew the black magic and espionage the Bretons
-considered honest warfare. Never debasing the Sentinel
-character by duplicating the Breton villainy, Camaron
-knew best how to combat Lysandus. King Lysandus' knavish
-battle tactics were even more perfidious than his ancestors',
-and the war continue to rage until it began to involve more
-than Sentinel and Daggerfall.
+Лорд Грэддок, правитель Рич Грэдкипа, пытался примирить Сентинель и Даггерфолл, и в итоге уговорил обоих монархов встретиться и примириться. Злосчастная Грэдкипская встреча началась мирно, условия мира были обсуждены, согласованы и перенесены на бумагу. Условия были чрезмерно щедрые. Камарон согласился отказаться от своих прав на Бетони, чтобы утихомирить сумасшедшего Лисандуса и вернуть мир в Илиакский залив. И только когда король Камарон прочел Договор, который он почти подписал, он осознал вопиющее вероломство бретонцев: договор на самом деле умышленно был неправильно написан даггерфоллским писцом в безрассудной и постыдной попытке обмануть Камарона при его подписании и отличался от того, который он согласился подписать. Замок Рич Грэдкип оказался залит кровью, а война продолжалась.
 
-    Lord Graddock, ruler of Reich Gradkeep, acted as
-concilator between Sentinel and Daggerfall, and
-eventually convinced both monarchs to meet and make peace.
-The ill-fated Treaty of Gradkeep began civilly; the terms
-of peace were discussed, agreed on, and set to paper. The
-terms were excessively generous. Camaron had agreed to give
-up some of his rights to Betony in order to placate the
-madness of Lysandus and bring peace back to the Iliac Bay.
-It was not until King Camaron read the Treaty he was about
-to sign that he realized the outrageous perfidy of the
-Bretons: the Treaty had actually been purposefully
-miswritten by the Daggerfall scribe in a desparate and
-ignominious attempt to trick Camaron into signing a
-contract different from the one to which he had agreed. The
-castle of Reich Gradkeep erupted into bloodbath, and the war
-continued.
+Битва на Крингейнском поле стала трагическим окончанием этой бессмысленной войны на истощение. Крингейнское поле находится между Йеорт Берроулэндом и Равеннианским лесом, где армии Сентинеля и Даггерфолла соответственно расположились лагерем после резни в Рич Грэдкипе. В начале битвы Даггерфолл доказал, что у него имеется несколько грязных даэдрических магических трюков и призвал стену тумана, чтобы ослепить рэдгардскую армию. Какое-то время у Лисандуса была прекрасная возможность порадоваться своему мошенничеству, пока верное оружие сентинельского лучника не нашло его горло даже сквозь плотный, кружащийся туман. Сын Лисандуса, Готрид, проведший эту битву в мрачной раздумье, был без церемоний коронован, и вслед за тем потребовал дуэли с королем Камароном. Король Камарон был намного старше Готрида и, хоть и был превосходным воином, был истощен бесконечной войной, которая мальчика-короля обошла. Тем не менее, это был вопрос чести, и наш король согласился на дуэль.Новый король Даггерфолла с помощью грязной уловки и черной магии умудрился ударить в спину нашего короля даже прежде, чем началась дуэль. Таким образом победителем на Крингейнском поле, и в Бетонской войне, стал Даггерфолл.
 
-     The Battle of Cryngaine Field was the tragic ending of the
-senseless war of attrition. The Cryngaine Field is located
-in between the Yeorth Burrowland and the Ravennian Forest
-where the armies of Sentinel and Daggerfall respectively
-made camp after the massacre at Reich Gradkeep. As the
-battle began, Daggerfall proved that she had some foul
-daedric magical tricks left by blinding the Redguard army
-with a wall of mist. Lysandus did not have the opportunity
-to gloat over his cozenage for long, for the sure arm of a Sentinel archer struck him in the throat even through the
-thick, swirling fog. Lysandus' son, Gothryd, who had spent
-the battle in lugubrious relaxation, was crowned without
-ceremony, and thereupon demanded a duel with King Camaron.
-Camaron was many years Gothryd's senior, and though a
-superior warrior, was exhausted from the endless warfare the
-boy king had been spared. Nevertheless, as a point of honor,
-our king agreed to the duel. The new king of Daggerfall, by
-dirty trick and black magic, managed to backstab our king
-before the duel ever began. Thus, the victor of Cryngaine
-Field, and the War of Betony, was Daggerfall.
-
-     Daggerfall's wickedness continued even after her
-inglorious victory. While the widow queen of Sentinel, Her
-Majesty Akorithi, mourned and tried to mend her shattered
-lands, Gothryd demanded the Princess of Sentinel as a
-hostage of war. To save her homeland, the Princess Aubk-i
-agreed to leave Sentinel and even marry the murderer of her
-father. But we true Redguards of Sentinel know where her love
-and honor lies. The Queen of Daggerfall is the Princess of
-Sentinel first and foremost. 
-
-
-
-
-
- 
+Даггерфолл продолжал злобствовать даже после своей бесславной победы. Пока королева-вдова, Ее величество Акорити, находилась в трауре и пыталась восстановить свои растерзанные земли, Готрид потребовал принцессу Сентинеля в качестве военного заложника. Чтобы спасти свою родину, принцесса Аубк-и согласилась оставить Сентинель и даже выйти замуж за убийцу своего отца. Но мы, истинные рэдгарды Сентинеля, знаем где ее любовь и ее честь. Королева Даггерфолла в первую очередь является принцессой Сентинеля.

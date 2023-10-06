@@ -1,148 +1,37 @@
-Title: The War of Betony
-Author: Vulper Newgate
+Title: Бетонская война
+Author: Валпер Ньюгейт
 IsNaughty: False
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]The War
-
-[/center]of
-
-[/center]Betony
-
-
+[/center]Бетонская война
 
 [/font=4]
 
+История Илиакского залива, если брать ее в целом, ужаснула бы читателей больше, чем самые страшные легенды о Короле Подземного мира. В сравнении с войнами Первой и Второй эры тот последний раз, когда мы взялись за оружие — Бетонская война — бледнеет. Осада Орсиниума шла без перерыва с 1Э 950 по 1Э 980. А спустя тысячу лет Трассианская чума вкупе с Войной за праведность выкосила половину населения Илиакского залива. И все же Бетонская война привлекает нас, и не только потому,что закончилась совсем недавно.
 
+По иронии судьбы лорд Могреф Бетонский, когда просил для острова Бетони покровительства Даггерфолла, стремился к миру. Этот остров долгое время был независимым владением, но Могреф в полной мере осознавал уязвимость Бетони перед участившимися в Заливе пиратскими набегами. Король Лисандус согласился стать сеньором Бетони, следуя совету многих людей, в том числе и первосвященника Кинарет, лорда Ванеха. Хотя Бетонь была процветающим рыбацким островом, хорошо расположенным с точки зрения стратегии, вассалитет Бетони был в первую очередь актом милосердия. Лисандус знал, что если кто-нибудь не поможет Бетони, она будет захвачена пиратами, если не кем похуже.
 
-[/center]    The history of the Iliac Bay, if told in its entirety,
-would horrify readers more than the most gruesome legend of
-the Underking. In comparison to the wars of the first and
-second era, our most recent appeal to arms, the War of
-Betony pales. The Siege of Orsinium lasted from 1E 950 until
-1E 980 without a pause. A thousand years later, the Thrassian
-Plague coupled with the War of Righteousness slayed over half the population of the Iliac Bay. And yet, the War of
-Betony fascinates us, and not just because of its immediacy.
+К несчастью, король Камарон Сентинельский не был с этим согласен. Ссылаясь на двухсотлетней давности соглашение, написанное двусмысленно, если только оно вообще имело силу, Камарон заявил, что Бетони была «давним владением» королевства Сентинель, и объявил войну. Большинство его советников, будучи военными лордами в традиционно воинственной стране, поддержали своего короля. Главный советник, женщина по прозвищу Оракул, предсказала смерть и поражение в войне, но ее мудрые слова остались без внимания, а саму ее удалили от двора. Камарону следовало бы прислушаться к ней.
 
-    Ironically, Lord Mogref of Betony was seeking peace when
-he asked for Daggerfall's protection on the Isle of Betony.
-The island had long been independant, but as the piracy in
-the Bay increased, Mogref truly realized  Betony's
-vulnerability. King Lysandus agreed to be Betony's liege,
-on advice of many, including his archpriest of Kynareth,
-Lord Vanech. While Betony is a prosperous fishing island and
-well-placed strategically, the vassalage of Betony was
-primarily an act of charity. Lysandus knew that if someone
-did not help Betony, it would fall to the pirates, if not
-to someone worse.
+В нескольких стычках Бетонской войны победа досталась Сентинелю, но большинство битв были целиком выиграны Даггерфоллом. Король Лисандус, его наследник принц Готрид и командующий армией лорд Бридвелл были прекрасными вождями (равно как и воинами), и как битва при Блафсе, так и осада Крэгхолда достались Даггерфоллу.
 
-    Unfortunately, King Camaron of Sentinel did not agree.
-Citing a two hundred year old contract, obliquely if not
-illegally written to suggest that Betony was a "traditional
-holding" of the Kingdom of Sentinel, Camaron declared
-war. The majority of his advisors, being warlords in a
-traditionally bellicose country, supported their king in
-this. The Chief Counselor, a woman called The Oracle,
-foresaw death and defeat in the war, but her wisdom was
-stifled and she was banished from court. Camaron should have
-listened to her.
+Войну можно было бы выиграть, одержав еще одну победой, если бы не необычный семейный инцидент при дворе короля Лисандуса. Мать короля, вдовствующая королева Нульфага, с самого начала этой войны была встревожена, но теперь у нее начались видения, предсказывающие катастрофу. Она увидела, что, если война продолжиться, ее возлюбленного сына ждет смерть. Вдохновленный своим успехом, король Лисандус отказывался принимать всерьез ее страхи, пока Нульфага не покинула двор. Тогда Лисандус осознал, насколько же уверенна она была в его незамедлительной смерти. Он энергично начал вести переговоры о подписании мирного договора с Сентинелем, попросив поддерживавшего нейтралитет лорда Рич Грэдкипа помочь ему, выступив посредником.
 
-    A few scrimages of the War of Betony went to Sentinel, but
-the major battles were all won by Daggerfall. King
-Lysandus, his heir Prince Gothryd, and the general of the
-army Lord Bridwell were fine leaders and warriors as well,
-and the Battle of the Bluffs and the Siege of Craghold both
-went to Daggerfall.
+Ричгрэдкипскому договору не суждено было быть подписанным. Первоначально король Камарон был вежлив, как часто бывает вежлива проигравшая войну сторона, но когда он осознал, что предлагаемый договор включает в себя официальное заявление о том, что королевства Сентинель и Даггерфолл делят Бетони, он впал в ярость. Не подумав о том, что он нарушает протокол, атакуя нейтральное миролюбивое владение, Камарон приказал свой армии громить Рич Грэдкип. Вначале залы дворца, а затем улицы столицы стали красными от крови. И только при поддержке Даггерфоллской армии этот хаос был взят под относительный контроль. Сентинельская армия бежала в Йеорт Берроулэнд, а Даггерфоллская армия, прежде чем разбить лагерь, гнала их до самого Равеннианского леса.
 
-    The war might have been won with one more victory, but for
-an unusual domestic incident in King Lysandus' court. The
-king's mother, the dowager queen Nulfaga, had been uneasy
-about the war since its beginning, but she now began to have
-visions of cataclysm. She saw the death of her beloved son
-should the war continue. Ebullient by his success, King
-Lysandus refused to listen to her fears until Nulfaga left
-court. Lysandus then realized how certain she was about his
-impending death. He began to actively negotiate a peace
-treaty with Sentinel, using the neutral lordship of Reich
-Gradkeep as facilitator.
+Неделю спустя, после того, как каждая сторона имела возможность послать за подкреплениями и выработать свою стратегию, армии сошлись на поле, разделявшем их цветущем лугу, называемом Крингейнским полем. В самый разгар схватки на поле опустился странный туман, ослепивший всех участников битвы. Когда туман в конце концов рассеялся, нашли тело короля Лисандуса со стрелой без опознавательных знаков в горле.
 
-    The Treaty of Reich Gradkeep was never to be. King Camaron
-was initially civil, as the losing side of a war is often
-civil, but when he realized that the proposed treaty would
-have included a formal declaration that the kingdoms of
-Sentinel and Daggerfall would share Betony, he flew into a
-rage. With no thought for the protocol of attacking a
-neutral peaceable lordship, Camaron order his army to riot
-through Reich Gradkeep. First the halls of the palace, and
-then the streets of the capitol ran red with blood. It was
-only with the support of the Daggerfall army that the chaos
-was brought under relative control. The Sentinel army
-fled to the Yeorth Burrowland, and the Daggerfall army
-chased them as far as the Ravennian Forest before making
-camp.
+Даггерфолл не стал терять время на оплакивание; юного принца Готрида, который выказал значительную храбрость в бою и был очень популярен в войсках, короновали королем Даггерфолла сразу же за боевыми позициями, и он отдал приказ армии идти вперед. Возможно, именно вид ставшего королем храброго молодого воина, появившегося на поле битвы при всех регалиях воодушевило даггерфоллскую армию, возможно, в ходе битвы что-то изменилось, но Сентинель ударился в панику. Король Готрид встретил короля Камарона прежде, чем рэдгарды отступили, и два монарха сошлись в поединке. Оба были превосходными воинами, но Готрид был более искуссным мечником, и Камарон в тот день пал. Лорд Оресм Сентинельский подписал акт о капитуляции, официально отказавшись от всех прав на Бетонь. Позже, на корабле, по дороге обратно в Сентинель, он покончил с собой.
 
-     One week later, after each had a chance to send for
-reinforcements and plan their strategies, the armies met in
-the field that separated them, the flowering meadowland
-called Cryngaine Field. In the heat of the clash, an
-unnatural fog spread over the field, blinding all
-combatants. When the mist finally lifted, King Lysandus'
-body was found, his throat pierced by an unmarked arrow.
+Восстановление мирной жизни в городах и городках по обе стороны Илиакского залива было долгим процессом. В одном из пунктов официального мирного договора принц Готрид просил руки принцессы Аубк-и, единственной дочери покойного короля Камарона и занимающей ныне пост регента королевы Акорити. Эта просьба была нацелена на восстановление дружбы между королевствами, и частично увенчалась успехом, хотя многие при королевском дворе Сентинеля видят в принцессе скорее военнопленную, чем связующее звено с Даггерфоллом.
 
-     Daggerfall did not waste any time in mourning; young
-prince Gothryd, who had shown great bravery in battle and
-was very popular among the troops, was crowned King of
-Daggerfall just behind the battle lines, and he ordered the
-army onward. Perhaps it was the sight of the brave young
-warrior turned king appearing on the battlefield in full
-regalia that inspired the Daggerfall army, perhaps the
-battle would have turned regardless, Sentinel began to
-panic. King Gothryd met King Camaron before the Redguards
-had retreated, and the two monarchs fought. Both were
-excellent warriors, but Gothryd was a more skillful
-swordsman, and Camaron fell that day. Lord Oresme of
-Sentinel formally surrendered to Daggerfall, giving up
-all rights to Betony officially. He later commited suicide on
-the ship back to Sentinel.
+Единственным выжившим в резне членом правящей семьи Рич Грэдкипа был болезненный ребенок, поэтому советники этого государства призвали лорда Оберона Флайта, кузена лорда Грэддока, чтобы он правил владением в качестве регента. Лорд Флайт согласился, и его сильный, почти диктаторский стиль был именно тем, в чем нуждался Рич Грэдкип. Его подданые были настолько полны благодарности, что когда малолетний наследник умер, они не только избрали его и его жену Дорианну правителями, они также согласились переименовать владение в его честь. Рич Грэдкип стал Антиклером, названном в честь его родового поместья.
 
-     Peace was a difficult process for the cities and towns on
-both sides of the Iliac Bay. As part of the formal peace
-treaty, King Gothryd asked for the hand of Princess Aubk-i,
-only daughter of the late King Camaron and the Queen Regent
-Akorithi. The request was intended to restore friendship
-between the kingdoms, and it was partially successful
-though many in the royal court of Sentinel viewed the
-princess as more a prisoner of war than a bond to
-Daggerfall.
+Воспоминания об Ужасах Бетонской войны все еще живы, даже в Антиклере. Смогут ли Даггерфолл и Сентинель использовать свадьбу короля Готрида и принцессы Аубк-и как символ мира, а не разногласий, покажет только будущее.
 
-     The only surviving member of the ruling family of Reich
-Gradkeep was a sickly infant, so the councilors of state
-appealed to Lord Auberon Flyte, a cousin of Lord
-Graddock, to rule the lordship in regency. Lord Flyte
-accepted, and his strong, almost dictatorial style was
-just what Reich Gradkeep needed to restore order after the
-bloody Treaty of Reich Gradkeep. His subjects were grateful
-that when the infant heir died, they not only elevated his
-wife Doryanna and him from regents to rulers, they agreed to
-rename the lordship in his honor. Reich Gradkeep became
-Anticlere, named after his ancestral home.
-
-     The horrors of the War of Betony still live on, even in
-Anticlere. Whether Daggerfall and Sentinel will be able to
-use the marriage of King Gothryd and Princess Aubk-i as a
-symbol of peace rather than discord is something that only
-the future can show.
-
-                         -- 14 Suns Dawn 3E 404
-
-
-
-
-
- 
+— 14 солнечного рассвета 3Э 404

@@ -1,123 +1,50 @@
-Title: The Alik'r
-Author: Enric Milres
+Title: Алик᾽р
+Author: Энрик Мильрес
 IsNaughty: False
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]The Alik'r
-
-
+[/center]Алик᾽р
 
 [/font=4]
 
-[/center]
+Вероятно, я никогда бы не отправился в пустыню Алик᾽р, не встреть я Велтана в маленькой таверне Сентинеля. Велтан — редгардский поэт, стихи которого я читал, но только в переводе. Он пишет исключительно на старом языке редгардов, не на тамриэлике. Однажды я спросил его об этом.
 
-[/center]
+«В тамриэльском языке божественно вкусный нежнейший продукт из молока обозначается словом… сыр, — ответил Велтан, и широкая улыбка осветила его тёмное, как сажа, лицо. — На старом редгардском это будет млуо. Скажи, если бы ты был поэтом, свободно пишущим на обоих языках, какое слово ты бы выбрал?»
 
+Я типичный городской житель, я пересказывал ему городские толки и сплетни и слухи о коррупции, я рассказывал о безумстве жарких ночей, о культуре и упадке нравов. Он слушал меня с благоговейным вниманием — я говорил про мой родной город: беломраморный Имперский город, каждый житель которого преисполнен чувства собственной значимости из-за соседства с императорской особой и безопасности и чистоты улиц. Порою говорят, что на бульварах Имперского города нищие живут как во дворце. Под ароматный эль я потчевал Велтана рассказами об оживлённом рынке Риверхолда, о тьме, накрывшей Морнхолд, об изъеденных плесенью виллах Лилмота, об удивительных и опасных переулках Хелстрома, о великолепии широких улиц благородного старинного Солитьюда. Всему этому он изумлялся, переспрашивал и комментировал.
 
+«А я чувствую, что знаю твою родину, пустыню Алик᾽р, по твоим стихам, хотя я ни разу не бывал там», — сказал я ему.
 
-     I might never have gone to the Alik'r Desert had I not met
-Weltan in a little tavern in Sentinel. Weltan is a
-Redguard poet whose verse I had read, but only in
-translation. He chooses to write in the old language of the
-Redguards, not in Tamrielic. I once asked him why.
+«О, нет. Стихи помогут подготовиться к визиту лучше любого путеводителя, но не смогут описать Алик᾽р. Но если ты желаешь познать Тамриэль и стать истинным гражданином мира, ты обязан посмотреть и прочувствовать пустыню наяву».
 
-     "The Tamrielic word for the divinely rich child of rot,
-silky, pressed sour milk is ... cheese," said Weltan, a huge
-smile spreading like a tide over his lampblack face. "The
-Old Redguard word for it is mluo. Tell me, if you were a
-poet fluent in both languages, which word would you use?"
+Больше года ушло у меня на то, чтобы уладить все дела, накопить денег (это было самое сложное) и оставить городскую жизнь ради пустыни Алик᾽р. В дорогу я захватил несколько книг со стихами Велтана.
 
-     I am a child of the cities, and I would tell him tales of
-the noise and corruption, wild nights and energy, culture
-and decadence. He listened with awed appreciation of the
-city of my birth: white-marbled Imperial City where all the
-citizenry are convinced of their importance because of the
-proximity of the Emperor and the lustration of the streets.
-They say that a beggar on the boulevards of the Imperial
-City is a man living in a palace. Over spiced ale, I regaled
-Weltan with descriptions of the swarming marketplace of
-Riverhold; of dark, brooding Mournhold; of the
-mold-encrusted villas of Lilmoth; the wonderful,
-dangerous alleys of Helstrom; the stately avenues of grand
-old Solitude. For all this, he marvelled, inquired, and
-commented.
+Священное пламя взмывает над костром,
+Вокруг тени великих без всяких имён,
+Мёртвые города исчезают в огне,
+Диоскори поют о конце времён,
+Взрываются стены и вечные скалы,
+Горячий песок и губит, и лечит.
 
-     "I feel as if I know your home, the Alik'r Desert, from
-your poems even though I've never been there." I told him.
+Эти первые шесть строк из книги моего друга «О вечности праха» дали мне первое впечатление о пустыне Алик᾽р, хотя едва ли оно было правильным. Но моё скупое перо не сможет передать суровости, грандиозности, сиюминутности и непреходящести Алик᾽ра.
 
-     "Oh, but you don't. No poem can express the Alik'r. It
-may prepare you for a visit far better than the best guide
-book can. But if you want to know Tamriel and be a true
-citizen of the planet, you must go and feel the desert
-yourself."
+Все границы между народами и владениями, что есть на земле, растворяются в движущихся по пустыне песках. Никогда не скажешь точно, в Антифиллосе ты или в Бергаме, и мало кто из местных жителей сможет подтвердить вам это. Они все — и я сам проникся этим — мы все просто в Алик᾽ре. Нет. Мы все часть Алик᾽ра: так будет точнее по философии народа пустыни.
 
-     It took me a little over a year to break off engagements,
-save money (my greatest challenge), and leave the urban
-life for the Alik'r Desert. I brought several books of
-Weltan's poems as my travel guide.
+Священное пламя, о котором писал Велтан, я увидел самым первым своим утром в пустыне: бескрайняя красная мгла, которая явилась, казалось, из самой мрачных глубинных тайн Тамриэля. Она исчезла задолго до полудня, и я увидел города Велтана. Руины Алик᾽ра вставали из песка, откопанные порывом сильного свободного ветра — но только для того, чтобы пришедший следом ветер засыпал их. Ничто не вечно в пустыне, и ничто не исчезает навсегда.
 
-     "A sacred flame rises above the fire, The ghosts of great
-men and women without names, Cities long dead rise and fall
-in the flame, The Dioscori Song of Revelation, Bursting
-walls and deathless rock, Fiery sand that heals and
-destroys."
+В дневную жару я обычно прятался в шатре, размышляя о главном качестве редгардов, которое заставляет их жить на этой первобытной и вечной земле. Они прирождённые воины — поодиночке даже лучше, чем сообща. Лишь то для них ценно, за что им приходится сражаться. Никто не пытается отнять у них пустыню, но Алик᾽р сам по себе грозный противник. И битва продолжается. Это война без ненависти, это священная война в самом прямом значении этих слов.
 
-     These first six lines from my friend's "On the
-Immortality of Dust" prepared me for my first image of the
-Alik'r Desert, though they hardly do it justice. My poor pen
-cannot duplicate the severity, grandeur, ephemera and
-permanence of the Alik'r.
+По ночам я мог созерцать пустыню во всей её сравнительной безмятежности. Но безмятежность эта обманчива. Сами камни Алик᾽ра излучали свет и тепло, источником которых не было ни солнце, ни луны Джоун и Джоуд. Сила камней проистекала из биения сердца самого Тамриэля.
 
-     All the principalities and boundaries the nations have
-placed on the land dissolve under the moving sand in the
-desert. I could never tell if I was in Antiphyllos or
-Bergama, and few of the inhabitants could tell me. For them,
-and so it came to me, we were simply in the Alik'r. No. We are
-part of the Alik'r. That is closer to the philosophy of the
-desert people.
+Два года я провёл в пустыне Алик᾽р.
 
-    I saw the sacred flame of which Weltan wrote on my first
-morning in the desert: a vast, red mist that seemed to come
-from the deep mystery of Tamriel. Long before the noon sun,
-the mist had disappeared. Then I saw the cities of Weltan. The
-ruins of the Alik'r rise from the sand by one blast of the
-unbounded wind and are covered by the next. Nothing in the
-desert lasts, but nothing dies forever.
+Я вернулся в Сентинель, откуда и пишу. Сейчас идёт война с королевством Даггерфол за право обладания никчёмным, заросшим травой островом в заливе Илиак. Все мои приятели поэты, писатели и художники подавлены тем, что алчность и гордыня охватила людей и вовлекла их в битву. Дошли до дна, это трагедия. Словами старого редгарда — айсея — полное падение.
 
-    At daylight, I hid myself in tents, and thought about the
-central character of the Redguards that would cause them to
-adopt this savage, eternal land. They are warriors by
-nature. As a group, there are none better. Nothing for them
-has worth unless they have struggled for it. No one fought
-them for the desert, but the Alik'r is a great foe. The battle
-goes on. It is a war without rancor, a holy war in the sense
-the phrase should always imply.       By night, I could
-contemplate the land itself in its relative serenity. But
-the serenity was superficial. The stones themselves burned
-with a heat and a light that comes not from the sun, nor the
-moons Jone and Jode. The power of the stones comes from the
-beat of the heart of Tamriel itself.
+Между тем я не могу печалиться. В славные годы, проведённые мной в Алик᾽ре, мне довелось увидеть вековечные камни, которые переживут всех людей. Я составил собственный взгляд на неуловимую и исчезающе прекрасную, неизменную и равно переменчивую землю. Вдохновение и надежда, как камни пустыни — вечны… в отличие от людей.
 
-     Two years I spent in the Alik'r.          As write this, I am
-back in Sentinel. We are at war with the kingdom of
-Daggerfall for the possession of a grass-covered rock that
-belongs to the water of the Iliac Bay. All my fellow poets,
-writers, and artists are despondent for the greed and pride
-that brought these people into battle. It is a low point, a
-tragedy. In the words of Old Redguard, an ajcea, a spiral
-down.
-
-     Yet, I cannot be sorrowful. In the years I spent in the
-glories of the Alik'r, I have seen the eternal stones that live
-on while men go dead. I have found my inner eye in the
-tractless, formless, changeless and changeable land.
-Inspiration and hope, like the stones of the desert, are
-eternal though men be not.
-
- 
+Перевод: Vikki
