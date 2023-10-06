@@ -6,18 +6,10 @@ IsUnique: False
 WhenVarSet: LiftedCurse
 Content:
 
-
 [/font=2]
 
 [/center]Bourn in Wood, Part I
-
-
-[/center]
-[/font=4]by Lord Woodborne
-
-[/center]
-
-[/center]
+[/center][/font=4]by Lord Woodborne
 
  If you’re reading this, I am probably dead. At quite a young age, I became aware of the concept of mortality, which to me is intriguing, that we all come to dust. Some very intelligent friends of mine found this idea repellent and sought immortality, but from my later conversations with them as vampires or liches, there are things worse than death. If you’ve ever spent an evening reading “A Brief History of the Empire” or "The 36 Lessons of Vivec," you know exactly what I’m talking about.
 

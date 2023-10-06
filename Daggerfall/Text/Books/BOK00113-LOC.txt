@@ -6,18 +6,12 @@ IsUnique: False
 WhenVarSet: LiftedCurse
 Content:
 
-
 [/font=2]
 
 [/center]Bourn in Wood, Part II
 
 
-[/center]
-[/font=4]by Lord Woodborne
-
-[/center]
-
-[/center]
+[/center][/font=4]by Lord Woodborne
 
  Now, my father was old before I was born. In fact on his deathbed, he was a wheezing, wizened husk of a man, who looked at me with a greenish drool on his mouth and his eyes, wondering who I was. My mother was sweet, young, and stupid. She loved us all, even me. When my brother Goriph died, she didn’t even suspect me, despite my lack of tears.
 

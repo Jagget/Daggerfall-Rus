@@ -1,382 +1,67 @@
-Title: King Edward, Part VII
-Author: Anonymous
+Title: Король Эдвард, т.7
+Author: Автор неизвестен
 IsNaughty: False
 Price: 300
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]King Edward, Part VII
-
-
+[/center]Король Эдвард, т.7
 
 [/font=4]
 
-[/center]
+[/center]Глава 7. Дракон
 
-[/center] Chap 7: Dragon
+— Значит, ты видел демона? И убил крысу Зубом? Это хороший эбонитовый кинжал, Зуб. Они редкие, так что ты должен хорошо заботиться о нем, — сказал Мит. — Я не могу сказать тебе ничего об этом клинке, кроме того, что он принадлежал отцу Мораэлина. Это тот самый кинжал, который его брат дал ему для починки перед тем, как мы сбежали. Хочешь услышать о том, откуда взялся зуб дракона, из которого Матс вырезал рукоять?
 
+Эдвард кивнул, поглаживая тонко вырезанные сплетенные розы, шипы и листья. Вечером после ужина все, кроме его и Мита разошлись по разным делам. Алиера и Мораэлин пошли на прогулку, держась за руки, она сжимала его исцеленную левую руку обеми своими. Они засмеялись и покачали головами, когда Эдвард предложил пойти с ними.
 
+— Не сегодня вечером, — сказала Алиера. — Ложись спать пораньше. Мы выйдем до зари.
 
- "So you saw a demon? And killed a rat with Tooth? That's a
-fine ebony dagger, Tooth is. They're rare so you want to take
-real good care of it," Mith said. "I can't tell you about
-the blade except it came from Moraelyn's father. It's the
-one his brother sent him to repair just before we ran away.
-Would you like to hear about how they got the dragon's tooth
-that Mats carved the hilt from?"
+Виллоу ушла проведать своего друга, высшего эльфа. Бич, Сса’асс, Матс и Силк ушли вместе, смеясь. Они приглашали с собой Мита, но он отказался.
 
- Edward nodded, caressing the curved hilt with its lightly
-carved intertwined roses, thorns and leaves. It was well
-after supper and everyone but him and Mith had left the fire
-for one reason or another. Aliera and Moraelyn had gone for
-a walk hand in hand, Aliera holding Moraelyn's newly healed
-left hand in both of hers. They'd laughed and shaken their heads
-when he'd offered to come along, "Not tonight," Aliera had
-said. "Go to sleep soon. We'll be leaving before dawn."
-Willow had gone to visit a High Elf friend. Beech, Ssa'ass,
-Mats and the Khajiit woman, Silk, had also gone off
-together, laughing. They'd invited Mith to come along, but
-Mith had declined.
+— Каджиты! Они все превращаются в банду бесстыжих каджитов, — сказал Мит.
 
- "Khajiits! They're all turning into a bunch of shameless
-Khajiits," Mith said. The short Dark Elf sat close to the
-glowing embers, knees to chest.  His hair and eyes glowed in the
-dim light. "If you're going to pair, you should pair, not
-turn it into an tourney. They'll be selling tickets next. 
-But each to his own. Khajiits think we're weird because we like
-eating as a group. Silk says it put her right off her food at
-first, listening to  everybody chew. Well, having a bunch
-of watchers puts me off--I s'pose you're too young for this
-kind of talk."
+Низенький темный эльф сидел вблизи костра, смотря на тлеющие угли, колени поджаты к подбородку.
 
- Edward shrugged. It was a beautiful night, crisply cool,
-no moon, but the stars were very large and bright.
+— Если собираешься спариваться, это должна быть пара, а не шоу с оркестром и зрителями. Затем они начнут продавать билеты. Но у каждого свои причуды. Каджиты считают нас странными, потому что мы едим вместе. Силк говорит, что сперва ее воротило от еды, когда она слышала, как все вокруг жуют. Ну, а меня воротит от толпы зрителей… Но думаю, ты еще слишком молод для такого рода разговоров.
 
- "Anyway, it was just a few months after Mats had joined up
-with us. We were up in Skyrim, travelling from town to town.
-Just three kids seeing  the country a bit, picking up odd jobs
-where we could. Moraelyn entered tournaments if we heard
-about them, but he wasn't winning that much ... just about
-enough to cover healing him up afterwards. You can get beat up pretty bad fighting Skyrim style -- that's
-without shielding spells, or any other spells for that
-matter, no magic allowed -- even if it isn't to the death.
-And he drew a few types that didn't mind seeing a little dark
-elf blood spilled in the sand. Or a lot. And the crowds were
-against him at first. It can get pretty lonely in the arena,
-especially if you're beating the home town favorite. And
-it's even worse if he's beating you.   "Mats and me 'ud be the
-only ones for him, and sometimes we didn't dare cheer too
-loud. They'd look real funny at a Nord boy cheering a Dark
-Elf back then. 'Course Mats was so big, not many wanted to
-start anything with him. That was a long time ago.
-Moraelyn's the favorite now if things get tough. 'Course the
-crowds will cheer for a good match, but hardly anyone really wants to see him lose now. They like seeing
-the best, even if it comes wrapped in a dark elf hide. And
-when he walks into an arena you know you're seeing the best.
-Not but what they'd like seeing a Nord that's better. And
-Mats may get there soon. He doesn't fight his best against 
-Moraelyn, though. Maybe he doesn't want to, or maybe
-Moraelyn just knows him too well. Oh, well, you want to hear
-about the dragon ... 
+Эдвард пожал плечами. Стояла замечательная ночь, прохладная, безлунная, но звезды были очень большими и яркими.
 
- "So Moraelyn was gambling with this Nord in a tavern one
-night, trying to pick up a little easy gold. The pot's
-pretty big, and the man can't match his bet, so he says he'll pu
-t this map on
-the pile and tap Moraelyn. Says it's a map to the hiding place of the best blade ever made. Says
-there's a spell on it so that if you hit your opponent, you
-get as much heal as he gets hurt. That some Mage hid it just
-before he died so's only someone worthy of it can get to it.
+— Ну, это было всего через несколько месяцев после того, как Матс присоединился к нам. Мы путешествовали через Скайрим, от города к городу. Просто три пацана, вышедшие посмотреть на людей и нанимающиеся на разные странные работы, где только можно. Мораэлин увастовал в турнирах, если мы слышали о них. Но он немного выигрывал… как раз чтобы оплатить его лечение после. Можно здорово покалечиться, используя скайримский стиль боя — без защитных заклинаний, магия вообще не разрешена — даже если бой идет не до смерти. И он напарывался на типов, которые не прочь были увидеть кровь маленького темного эльфа на песке. Частенько напарывался. И толпа тоже была против него. На арене можно почувстовать себя довольно одиноко, особенно если ты бьешь городского фаворита. И тем более, если он бьет тебя.
 
- "'And you think I look worthy?' Moraelyn says, grinning. We
-were young and dumb, but not all that dumb.
+— Матс и я были единственными, кто болел за него, и иногда мы не решались смеяться слишком громко. Забавно было посмотреть на их лица, когда они видели парня-норда, болеющего за темного эльфа. Матс был таким большим, что немногие хотели заводиться с ним. Это было давно. Теперь Мораэлин — фаворит, если ожидается хорошая драка. Потому что толпе понравится хорошая драка, но вряд ли кто-то сегодня действительно хочет, чтобы он проиграл. Им нравится видеть лучшего, даже если он завернут в шкуру темного эльфа. И когда он выходит на арену, ты знаешь, что видишь лучшего. Но если бы они увидели норда, это понравилось бы им еще больше. И Матс может скоро попасть туда. Он не дерется против Мораэлина в полную силу. Может, не хочет, а может, Мораэлин просто слишком хорошо его знает. О, да, ты же хотел услышать о драконе…
 
- "The Nord grins back and says 'I saw you fight in Falcreath,
-kid. You look like you'd take a chance.' 
+— Однажды ночью в таверне Мораэлин играл в кости с одним нордом, пытаясь раздобыть немного легких денег. Ставки были высоки, а у человека кончились деньги и он положил сверху карту. Сказал, что эта карта показывает место, где спрятан лучший клинок, когда-либо сделанный в Тамриэле. Когда ты бьешь им врага, то лечишься настолько же, насколько ему становится хуже. И что какой-то маг спрятал его перед самой своей смертью так, чтобы достать его смог только достойный. «И ты считаешь, я достоен?» — усмехнулся Мораэлин. Мы были молоды и глупы, но не настолько же. Норд вернул усмешку и ответил: «Я видел, как ты дрался в Фалкреате, малыш. Я бы сказал, у тебя есть шанс.» «Почему нет? Одна история стоит золота. Ты, должно быть, бард.» Мораэлин выиграл и вернул человеку достаточно, чтобы он мог смачивать себе горло весь вечер. Просто для смеху мы посмотрели на карту. Она изображала горы Драконьих Зубов в Хаммерфелле. Дикие земли. И там был «Х», и подпись «Логово Клыка». Матс разволновался и сказал, что слышал об этом месте, но не знал, где оно находится. «Ты не знаешь и сейчас,»- сказал я. «Любой дурак мог нарисовать карту, как любой дурак мог посмотреть на нее. Я мог бы, например.» Матс сказал, Логово Клыка было раньше шахтами гномов, но сейчас там живет дракон, а гномов больше нет. Мораэлин заинтересовался, когда речь зашла о шахтах, и спросил, что они там добывали. Мифрил и золото, сказал Матс. Мораэлин сказал: «Хммммм.» Мифрил его заинтересовал. Мы не могли позволить себе хорошее оружие. Мифрил редко встречается, но он легок, его просто добывать и обрабатывать, если знаешь как. И он знал. Он не поверил в волшебный клинок дракона, но полагал, что шахта может оказаться реальностью. Добывание металла у него в крови, как в крови оно у Ра’Аатим, королевской семьи Эбонхарта.
 
- "'Why not? The story alone is worth the gold. You ought to
-be a Bard.' So anyway Moraelyn wins the pot and tosses the
-man enough back to keep his throat wet all evening. Just for
-laughs we look at the map. It showed the Dragon's Teeth
-Mountains down in Hammerfell. Real wild country. And there's an 'X' and some writing saying
-'Fang Lair'. Mats gets excited and says he's heard of the
-place, but he'd never known just where it was.
+— Мы добрались туда за пару месяцев. Мы не могли позволить себе лошадей. И уж точно не нашли бы это место без карты. Это запутанная страна, полная каньйонов и скрытых долин. Мы точно не ожидали того, что увидели, когда прибыли туда. Башни были видны от самого входа в каньйон. Темные эльфы живут в пещерах, если они добывают металл, а гномы построили зал над входом в свои шахты. Снаружи это выглядело красиво. Узкие башни и изогнутые мосты между ними. Тонкая работа, мы не ожидали такой от гномов. Встроенные прямо в скалу. И большой каменный дракон, восседающий над воротами. «Вот твой дракон, Матс,» — сказал я. Внутри смотреть было особо не на что, просто серая скала. Дверной проем был огромным, но самих дверей не было. Большая открытая яма была огорожена перилами, наверное, просто вход в шахту, переделанный в зал. И прямо посередине лежало сокровище, большее, чем ты можешь себе представить… сваленное в кучу, как стог сена, придавленный сверху. А придавил его огромный золотой дракон, свернувшийся на куче. Мы даже не сразу его заметили, потому что он сливался с остальным золотом. Ну, мы просто замерли на месте. Снаружи не было предупреждающего знака насчет живого дракона. В воздухе стоял запах серы, как, впрочем, и в большинстве шахт. И этот дракон просто лежал там. А до ближайшего укрытия было мили две. «Я говорил вам, там был дракон,» — прошептал Матс. «Шшшшш,» — произнес Мораэлин. — «Посмотрите, что у него прямо перед носом.»
 
- this map on
-the pile and tap Moraelyn. Says it's a map to the hiding place of the best blade ever made. Says
-there's a spell on it so that if you hit your opponent, you
-get as much heal as he gets hurt. That some Mage hid it just
-before he died so's only someone worthy of it can get to it.
+— Я был достаточно занят, смотря на сам этот нос, поверь мне. Но прямо там лежал меч, обнаженный… и клинок был из темного металла, прямо как у его кинжала. «Вы двое идите назад,» — сказал Мораэлин. — «А я попробую до него добраться. Если это не эбонит, то я — лесной эльф. Может, дракон мертв или в зимней спячке… или он вообще ненастоящий. Какой-нибудь фокус гномов, чтобы охранять их сокровища. Как пугала, которые норды ставят на полях. В худшем случае я отвлеку его на время, достаточное, чтобы вы могли добраться до укрытия.» Я собирался так и поступить, но Матс просто покачал головой, и мне стало стыдно уходить одному. «Давайте просто уйдем все вместе,» — предложил я. Эта тварь выглядела достаточно настоящей, чтобы напугать меня. Но Мораэлин наложил на себя Невидимость и направился вниз по лестнице, неслышно даже для меня. Я видел, что Матсу очень не хочется отпускать его туда одного, но сам он не смог бы прокрасться мимо слепого и глухого нищего посреди рыбного рынка. И мы достали луки, прикинув, что успеем пустить по паре стрел и, возможно, нам повезет выбить дракону глаза, если он проснется и двинется к Мораэлину. Мы стали так, что в любой момент могли подняться по лестнице наверх, где дракон не должен был достать нас. Затем мы перегнулись через перила и уставились вниз. Не то чтобы там было на что смотреть, кроме лежащего дракона. Что само по себе зрелище еще то.
 
- "'And you think I look worthy?' Moraelyn says, grinning. We
-were young and dumb, but not all that dumb.
+— Затем глаза дракона распахнулись, и мое сердце сделало один большой прыжок и кажется, полностью остановилось. «А-а-а! Сегодня обед сам пришел ко мне,» — сказал дракон. — «Посмотри хорошенько на мои сокровища, ты не сможешь украсть их и даже смотреть на них долго, но твои кости составят им компанию… навечно.» «Мне не нужны твои сокровища, дракон, только меч, который ты охраняешь. Я могу обменять его на свой, он больше.» Я не мог видеть Мораэлина, но голос его доносился из точки прямо возле черного меча, почти в самой пасти дракона! «Я съем тебя и получу оба меча. Зачем мне оставаться с одним твоим несчастным оружием?» «Дай мне пройти, и я принесу тебе еще золота снизу.» «У меня достаточно золота,» — дракон зевнул, и я подумал, что сейчас он и проглотит Мораэлина, но он отвернулся — и от нас тоже. Матс целился, но в пещере было слишком темно для норда, и он боялся попасть в Мораэлина, поскольку не мог точно вычислить его положение по голосу. Конечно, Мораэлин слишком умен, чтобы стать между нами и драконом, но Матс не так умен, чтобы понять это. Рабство туманит разум, говорил Матс, а он был рабом очень долго. Я видел дракона хорошо, и знал, где стоит Мораэлин, но не смог бы достаточно сильно натянуть тетиву, чтобы долетела стрела.
 
- "The Nord grins back and says 'I saw you fight in Falcreath,
-kid. You look like you'd take a chance.' 
+— Дракон продолжал: «Но ты можешь сделать для меня кое-что, эльф, и продолжить свою жизнь на несколько минут.» «Несколько минут — звучит неплохо. Что тебе нужно?» — голос Мораэлина звучал так спокойно и легко, словно он спрашивал, не ожидается ли завтра дождя. Он умеет держать себя в руках, надо отдать ему должное. «У меня болит зуб. Он слишком глубоко, я не могу достать его когтями. Можешь взглянуть на него, эльф?» Дракон распахнул пасть и показал зубы. Заклятье невидимости уже слетело с Мораэлина, и я мог видеть его, заглядывающего в пещеру драконьего рта. «Опусти немного голову, чтобы я мог взглянуть поближе.» Он протянул руку и хладнокровно поднял верхнюю губу, внимательно осматривая десны. «Здесь нарыв. Надо проколоть десну и удалить зуб. Я могу сделать это, если ты позволишь забраться к тебе в рот с мечом.» «И почему я должен доверять тебе, темный эльф? Я не слышал про вас ничего хорошего.» «Значит, ты провел слишком много времени с нордами. Я не смогу убить тебя быстрее, чем ты меня. Я не стал бы даже пытаться. Слушай, у меня есть друзья, там, наверху. Предположим, они принесут тебе чудесного жирного оленя. Я удалю тебе зуб, а ты отпустишь меня и съешь оленя. Иначе ты просто можешь съесть меня сейчас, больными зубами…» «Шшшшшш. Что дает тебя повод думать, что твои друзья вернутся, если уйдут отсюда?» «Они не очень умные. Я за них думаю. Они пропадут без меня. Хорошей охоты, друзья! Э-э-э, а если они не найдут оленя, чего бы тебе хотелось? Может, свинью? Несколько кроликов? Орехи? Ягоды? Ну, скорее же!» Но у нас была предусмотрена система сигнальных жестов, и его руки говорили, чтобы мы убирались отсюда и не возвращались!
 
- "'Why not? The story alone is worth the gold. You ought to
-be a Bard.' So anyway Moraelyn wins the pot and tosses the
-man enough back to keep his throat wet all evening. Just for
-laughs we look at the map. It showed the Dragon's Teeth
-Mountains down in Hammerfell. Real wild country. And there's an 'X' and some writing saying
-'Fang Lair'. Mats gets excited and says he's heard of the
-place, but he'd never known just where it was.
+— Я был бы только рад. То есть, я люблю Мораэлина, но сомнительно, чтобы вид меня, умирающего рядом, сильно его обрадовал. Я был бы рад, если бы был на его месте, а он находился бы в безопасности, и понял, что он чувствовал то же самое. Но этот дубоголовый норд не слушал меня! Сказал, если умереть рядом с ним — это все, что мы можем, значит, так и сделаем. Нордская бессмыслица. Однако, неплохо звучит в песне.
 
- "'And you still don't,' I say. 'Any fool can draw a map,
-just as any fool can look at one. I could do as much
-myself.'
+— Итак, мы провозились пару часов, охотясь на оленя, и возвращались с ним. Я предполагал, что Мораэлин уже наполняет желудок дракона, и тот будет рад добавить оленя, еще одного темного эльфа и норда, чтобы закончить трапезу. Но Мораэлин все еще сидел в пещере и болтал с драконом. Он не был так уж рад видеть нас. Сказал, чтобы мы оставили оленя и уходили, а он займется нарывом. Но Матс сказал, что он думает. О, мамочки, подумал я. Матс нечасто думает, и это на самом деле хорошо. Он решил, что можно обмотать цепь вокруг больного зуба, прикрепить конец к полу, а затем дракон может хорошенько дернуться сам.
 
- "Mats says Fang Lair is an old dwarf mine, but  there's
-supposed to be a dragon there now, and the dwarves are gone.
-Moraelyn looks real interested at the mention of a mine, and
-asks what they mined there. Mats says mithril and gold.
+— Дракону идея понравилась, и Мораэлин проколол нарыв. Опухоль уменьшилась, так что дракон смог проглотить оленя с некоторым подобием комфорта. А затем они достали цепь и выдернули тот зуб. Какой был беспорядок! Кровь и гной повсюду. Мораэлин наложил лечащие заклинания на дракона, остановил кровь и рана закрылась. «А, хм, хорошо, очень хорошо. Мораэлин, ты доказал, что достоин. Бери меч и уходи.»
 
- "Moraelyn says, 'Hmmmmm.'
+— Моралин посмотрел на дракона: «Ты хочешь сказать, это была какая-то проверка? Как долго у тебе болел этот зуб?» «Довольно долго, если мерить по-вашему, смертные, но по-нашему не очень. Слушай мою историю. Наглый молодой маг пришел сюда, чтобы украсть мое золото. Я поймал его за этим, мы поговорили на повышенных тонах, и он попытался пустить в меня заклинание. Его жалкое заклинание едва ли повредило мне, и я убил его. Но, э-э-э…» — дракон отвернулся ненадолго, затем продолжил рассказ. «Этот баран, наверное, наложил на себя самодельное Проклятье, и когда я сомкнул на нем челюсти…» Дракон злобно нахмурился, вспоминая, затем продолжил: «Ну, зуб расходился, когда кто-нибудь приходил за мечом. Но самая острая боль заканчивалась, когда я съедал непрошенного гостя… правда, я обычно не делал этого, так, несколько раз, в порядке самозащиты. Немного огня — и большинство из них сбегало. Оленей здесь много, а есть того, с кем разговаривал, немного, э-э, неприятно. Тот жирный маг подарил мне несварение на несколько дней. Колики, урчание в животе и слишком много газов, даже для дракона. И зубная боль никогда не проходила полностью. И люди, которые приходили, не были особенно любезны. Это был один из самых неприятных периодов моей жизни. Я не мог надолго покидать меч, конечно же. Часть проклятия.» «Мы можем остаться еще на некоторе время, если хочешь. Мы хорошая компания. Я — Мораэлин, мой рыжеволосый друг — Мит, а большой парень — Матс. Я все еще хочу поискать мифрил в шахте, и у меня никогда еще не было друга-дракона.» «Это может оказаться не такой плохой идеей. У тебя хорошие друзья, даже если ты сказал, что должен думать за них. Думаю, они занимаются этим и сами, и как оказалось, они решили, что ты достоин дружбы.» Дракон секунду колебался, и даже умудрился выглядеть робким! «Вы можете называть меня Акатош.»
 
- "The mithril had him interested. We couldn't afford really
-good weapons. And mithril's scarce, but it's light to carry
-for its worth, and easy to mine and work if you know how; and
-he did. He didn't believe in the magic blade or the dragon,
-but he thought the mine might be real. Mining's in his blood,
-as it is in all the R'Aathim, the royal Kin of Ebonheart.
+— И мы остались на пару недель. Охотились вместе с драконом — незабываемое впечатление! Лазили по шахтам… Нашли мы там, правда, немного. Но дракон дал нам драгоценные камни из своего логова. Сказал, что ему нужно только золото, драконы поглощают его чешуей, когда лежат на нем. Так что мы все-таки выбрались оттуда с неплохой прибылью. Мораэлин пытался отдать меч Матсу. Утверждал, что ему пришлось бы действительно попытаться убить дракона, если бы мы не вернулись, и тот поджарил бы его. Но Матс не взял. Сказал, что дракон отдал его Мораэлину, так что ясно, кто должен его взять. Матс взял зуб и сделал из него рукоять, которая сейчас у тебя, но и ее отдал Мораэлину. Он сказал мне, что никогда не имел ничего достойного, чтобы подарить, и теперь ему приятно сделать это. Он рад, что Мораэлин решил передать кинжал тебе.
 
- "It took us a couple of months to get there. We couldn't afford horses. We never would have found it without the
-map. It's tricky country, full of  canyons and hidden
-valleys. We sure never expected what we saw when we did get
-there. You could see the towers from the canyon mouth, way
-back in there. Dark elves live right in caverns if they mine,
-but the dwarves had built a hall over the top of their mines.
-It's a pretty thing on the outside. Narrow towers, and arched
-bridges between them. Delicate looking; you wouldn't expect
-work like that from Dwarves. Merged right into the rocks too. And there was a big stone
-dragon mounted above the gate. 
+— Я думаю, меч должен был достаться Матсу, — сказал Эдвард. — Он не пытался ничего украсть. Было очень смело с его стороны вернуться, хотя он и не думал, что из этого выйдет что-то хорошее. Мораэлин хотел украсть, был пойман и просто пытался уговорить дракона отпустить его. Вы все могли погибнуть из-за него.
 
- "'There's your dragon, Mats,' I said. The inside wasn't much to look at, just rock wall. The doorway was
-enormous, but the doors were gone. There was a balcony
-running right around a big open pit ...  probably the start
-of the mine, turned into a hall. And right in the middle was
-more treasure than you can imagine ... piled up almost like
-a haystack that'd been flattened out. And what had flattened
-it was a golden dragon curled right over it; we didn't even
-see him at first, 'cause he blended with the rest of the gold. Well, we just froze in place. We
-hadn't seen a sign of live dragon outside. The place
-smelled of brimstone, but most mines do. And there that
-dragon was, just lying there. And it's gotta be two miles to
-any kind of shelter. 
+— Мораэлин говорил точно так же. А, все равно Матсу больше нравится его большой топор, чем клинок.
 
- "'I told you there was a dragon,' Mats whispers.
+Эдвард вздохнул.
 
- "'Shhhhh,' Moraelyn says. 'Look what's in front of his nose.'
+— Хотел бы я быть храбрым, как Матс. Думаю, я больше похож на тебя.
 
- "I'd been busy looking AT his nose, believe you me. But there
-was a sword lying right there naked, sure enough ... .and the
-blade was dark metal that  looked just like his dagger.
+— Ага, — голос Мораэлина прозвучал сзади, заставив мальчика подпрыгнуть. — Такой же острый на язык. Да ладно. Мне тоже хотелось бы, чтобы ты был храбрым, как Матс. И если когда меня не станет, про меня скажут только: «он делал, что должен был делать», мой дух будет спокоен.
 
- "'You two start back,' Moraelyn says, 'I'm going to try for
-that blade, anyway. If that's not ebony, I'm a wood elf.
-Maybe the dragon's dead, or asleep for the winter ... or
-maybe it's not alive at all. Just something the dwarves made to guard their treasure. Like the scarecrows the Nord farmers put in their
-grain fields. At worst, I'll distract him long enough for
-you to get clear.'
-
- "I'd a mind to take him up on it, but Mats just shook his head,
-and I was kinda ashamed to go back alone.
-
- "'Let's all just clear out,' I said. That thing looked real
-enough to scare ME away. But Moraelyn casts Invisibility
-and heads on down the stair, not making a sound that even I
-could hear. I could see Mats hated letting him go down alone, but Mats couldn't sneak past a blind,
-deaf beggar in a fish market. So we strung our bows and
-figured we could try to get off a couple of shots and maybe
-get lucky and take out the eyes if the dragon woke up and went for Moraelyn. Mats and
-I move around to where we can get onto a tower stair fast if
-we have to, figuring the dragon can't get in there. Then we
-scrunch down and peer between the railings. Not that there
-was anything to see except the dragon lying there. Which really is a lot to see, at that.
-
- "Then those dragon eyes popped open and my heart gave one
-big jump and then seemed to quit entirely.
-
- "'Ahhhhh! Dinner comes to me today,' the dragon says. 'Take a
-good look at my hoard, dark elf. You will not steal it nor
-even view it long, but your bones will keep it company ...
-.forever.'
-
- "'I don't want your hoard, dragon, just the sword you
-guard. I'll trade you mine for it; mine's bigger.' I
-couldn't see Moraelyn, but his voice was coming from right near where the sword was. Which was practically in
-the dragon's mouth!
-
- "'I get a meal and both swords. Why should I settle for just
-your poor sword?'
-
- "'Let me pass and I'll get you more gold from below.'
-
- "'I have gold enough.' The dragon yawned and I thought he was
-going to swallow Moraelyn right then, but he turned his head
-away -- away from us, too. Mats was looking to get a shot,
-but it was really dark in there for Nord eyes and he was
-scared of hitting Moraelyn, since he couldn't locate him that well by
-sound. 'Course Moraelyn's too smart to get between us and the dragon, but Mats wasn't smart
-enough then to think that far along. Slavery dulls the wits
-in some ways, Mats says, and he hadn't been free very long. I
-could see well enough, and I could tell by sound exactly
-where Moraelyn was, but the shot was clean out of my range.
-
- "The dragon goes on, 'But there is something you can do for
-me, elf, and prolong your life a few more minutes.'
-
- "'A few more minutes sound pretty good just now, dragon.
-What would you ask of me?' Moraelyn's voice sounded as calm
-and easy as if he was asking if  there would be rain tomorrow.
-He can keep his head in a tight spot, I'll give him that.
-
- "'I have a toothache. It's too far back for me to reach it with my claws. Canst see it, elf?' The
-dragon gapes his jaws to bare his teeth.
-
- "Moraelyn's invisiblity spell wore off about then, and I
-could see him standing there staring up into that cavern of
-a mouth. 'Lower your head a bit so I can get a good look.' He
-puts out his hand and pulls the upper lip aside, cool as you
-please, and examines the inner gum carefully. Damndest
-thing I ever saw.
-
- "'It's abcessed. Thy gum wants lancing, and the  tooth
-should come out. I can lance it if you trust me in there with
-a sword.'
-
- "'And why should I trust you, dark elf? I hear no good of
-your kind.'
-
- "'You must be spending too much time with Nords, then. I
-wouldn't be able to kill you before you killed me. Why
-should I even try? Listen, I have  some friends up above.
-Suppose they hunt you up a nice fat deer. I'll lance your
-gum and you can let me go and eat the deer. Else you can just
- eat me now, toothache and all.' 
-
- "'Hssssssss. What makes you think your friends will return
-once they're away?'
-
- "'They're not very smart. I think for them. They'd be lost
-without me. Good hunting, guys! Uh, if they can't find a
-deer, is there anything else you'd  like? Pig, maybe? A few rabbits? Nuts? Berries?
-Hurry up, will you?' But we had hand signals and his hands
-said to get out of there and stay out!   "I'd a been glad to;
-I mean I'm fond of Moraelyn but I didn't see my dying
-alongside would bring him any comfort. I'd a been glad to
-see him clear if it was me that was on the menu, and I figured
-he felt the same way. But that thick-skulled Nord wouldn't listen to me! Said if dying beside him  was all we
-could do, then that's what we'd do. Nord nonsense. Sounds good in a song, though.
-
- "So we took a couple hours getting a deer and headed back
-with it. I figured Moraelyn was filling the dragon's belly by now, and the
-dragon would be happy to add a deer, another Dark Elf and a
-Nord to round out his day's rations. But Moraelyn was still sitting there,  chatting with
-the dragon. He didn't look that pleased to see us, either.
-Told us to leave the deer and go and he'd lance the abcess
-once we're away. But Mats says he's been thinking. Oh, brother,
-I thought. Mats doesn't think too often, and that's a good
-thing, really. He's decided he can get a chain round that bad
-tooth, fasten down the end to the floor, and then the dragon
-can give it a good yank himself.
-
- "The dragon likes the idea, so Moraelyn lances that abcess to
-take the swelling down to where the dragon can gulp the deer
-with some comfort. And then they rig up a chain and get that
-tooth out. Made a hell of a mess, that. Blood and pus
-everywhere. And Moraelyn's got us casting Heal spells on this dragon to stop the bleed
-ing and close up the wound.
-
- "'Ah, hum, good, very good. All right, Moraelyn, you've
-proven yourself. Take the sword and go.'
-
- "Moraelyn looks at him. 'You mean this was some kind of
-test?' he says. 'How long have you had that toothache?'
-
- "'Long indeed, as you measure time, mortal, yet not very
-long at all for dragonkind. Hear my story then: a scraggly young mage came along,
-hoping to steal my gold. I caught him at it; we had
-increasingly harsh words, and he attempted a spell aimed at
-me. His pitiful spell affected me little, and I killed him.
-But ummmm...' The dragon looked away briefly, then resumed
-his tale. 'The little runt had apparently cast a home-made
-Curse spell upon himself, and when I crunched him...' The
-dragon scowled fiercely, remembering, then continued,
-'Anyway, the ache only came on bad when someone came along
-to try for the sword. The sharpest pain went away if I ate the intruder
-... but I usually didn't, though I've singed a few in
-ng and close up the wound.
-
- "'Ah, hum, good, very good. All right, Moraelyn, you've
-proven yourself. Take the sword and go.'
-
- "Moraelyn looks at him. 'You mean this was some kind of
-test?' he says. 'How long have you had that toothache?'
-
- "'Long indeed, as you measure time, mortal, yet not very
-long at all for dragonkind. Hear my story then: a scraggly young mage came along,
-hoping to steal my gold. I caught him at it; we had
-increasingly harsh words, and he attempted a spell aimed at
-me. His pitiful spell affected me little, and I killed him.
-But ummmm...' The dragon looked away briefly, then resumed
-his tale. 'The little runt had apparently cast a home-made
-Curse spell upon himself, and when I crunched him...' The
-dragon scowled fiercely, remembering, then continued,
-'Anyway, the ache only came on bad when someone came along
-to try for the sword. The sharpest pain went away if I ate the intruder
-... but I usually didn't, though I've singed a few in
-self-defense; heh, waft a bit of fire and most of them fled.
-Deer are plentiful; there is something er, ah, unpleasant
-about eating someone you've talked to. That greasy mage
-gave me indigestion for days. Cramps and runny bowels and
-too much gas, even for a dragon. So that toothache never did
-completely go away. And the people who've come along
-haven't been very pleasant either ... all in all one of the
-most unpleasant stretches in my life. I couldn't stay away from the vicinity of the sword for very long of course. Part
-of the curse.'
-
- "'We could stay on for awhile, if you like. We're good
-company. I'm Moraelyn; my red-headed friend is Mith, and the
-big guy is Mats. I'd still like to look for mithril below and I've never had a dragon friend before.'
-
- "'I might like that. You have good friends, and even though
-you have said that you must do the thinking for them. I think that they can do some  thinking on
-their own, and it would appear that they have decided that
-you are a worthwhile fellow,' The dragon hesitated for a
-second and  actually managed to look shy! 'You can call me
-Akatosh.'
-
- "So we stayed for a couple of weeks. Hunted with the dragon --
-now that's an experience! Searched  the mines ... didn't find much down
-there. But the dragon gave us the jewels from his hoard. Said he only needed the metal; they absorb it into
-their scales while they lie on it. So we did pretty well out
-of it after all. Moraelyn tried to give Mats the sword.
-Claimed that he'd have sure tried to kill that dragon if we
-hadn't come back, and would have been toasted. But Mats
-wouldn't take it. Said the dragon gave it to Moraelyn so that was clearly who was
-supposed to get it. Mats took the tooth, but he made the hilt
-you've got now and gave Moraelyn that, too. Told me he'd
-never had anything worth giving before, and it made him feel
-good. He's real pleased Moraelyn chose to give it to you."
-
- "I think Mats should have got the sword," Edward said. "He
-didn't try to steal anything. It was really brave of him to
-come back, even when he didn't think it'd do any good.
-Moraelyn tried to steal, got caught and then just tried to talk his way out of it. You could
-all have been killed  because of him."
-
- "That's just what Moraelyn said. Ah, well, Mats likes that big axe of his better than a blade anyway."
-
- Edward sighed. "I wish I was brave like Mats. I guess I'm more
-like you."
-
- "Aye," Moraelyn's voice sounded behind him, startling the
-boy. "Tart tongued, like Mith. No matter. I'll be well
-pleased if you're as brave as Mith. And if once I'm gone they
-say no more of me than 'he did what he had to do', my spirit
-will be at peace." 
+Перевод: Евгений Каленюк
