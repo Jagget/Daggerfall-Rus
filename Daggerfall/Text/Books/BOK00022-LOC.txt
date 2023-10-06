@@ -1,245 +1,55 @@
-Title: The MemoryStone
-Author: Makela Leki
+Title: Камень памяти
+Author: Макела Леки
 IsNaughty: False
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]From The MemoryStone
+[/center]Камень памяти
 
-[/center]of Makela Leki
-
-
+[/center]Макелы Леки
 
 [/font=4]
 
-[/center]
+[/center]Это достоверное воспроизведение мыслей, записанных в камне памяти Макилы Лики, найденном на перевале Банкорай, в год 973 первой Эры, за семь лет до падения Орсиниума объединенными усилиями армий Даггерфолла Сентинеля и Ордена Диагны.
 
-This is a faithful reproduction of
+[/center]Почти все записано от первого лица, так как Макела была хорошо знакома с правилами и научными процедурами записи мыслей в камень памяти. Как бы там ни было, ее героизм и героические поступки продолжают жить, ее воспоминания сохранены камнем для всех, кто желает ощутить ее чувства и услышать мысли.
 
-[/center]the thoughts recorded in Makela 
+«??!!……мммм ухх, интересно, работает ли это на самом деле…..? Гильдия магов отсчитает мне 25 000 золотых, если он не работает! Представляете?!! Этот камень будет записывать мои мысли……? Как они сказали? Просто извлечь его из кожаного мешочка, развернуть серебряную фольгу, и в тот момент, когда он коснется моей плоти, он начнет записывать.»
 
-[/center]Leki's memory stone, found in the
+«Ааааах, больно, я должна заблокировать боль, никто не захочет держать мой камень и слушать мои мысли, если я позволю ему записать мою боль….! Хвала Эбонарму и тренировкам, что я получила в Зале военной доблести …я МОГУ заблокировать эту боль! Уммм, просто, ах, вот, просто окружить ее стеной!
 
-[/center]Bankorai pass, in the year of
+Да, я все еще могу видеть ее вон там, за пределами моего сознания, притаившуюся, подобно голодному волку — волку, который скоро сожрет меня. Я также вижу свою неизбежную смерть от этих проклятых ран. Не осталось зелий, исцеляющий кристалл и кольцо использованы, и у меня не хватит магии, даже чтобы зажечь свечку! Ох, но боги дали мне другие дары, дар песни меча, волнение битвы, «Книгу кругов» Франдара Хандинга, ПУТЬ МЕЧА!!!….ах, но вот моя история, я забегаю вперед.
 
-[/center]reckoning 1E 973.  Seven years
+Я — Макела Леки, воин, певец меча, Ансей второго уровня. С колыбели я могла создавать Шехай, меч духа — мистический клинок; мой создавался чистым усилием мысли: змеи с плетьми роз, формирующие лезвие; прекрасный, как…
 
-[/center]before the fall of Orsinium due to
+Ах, но я собиралась рассказывать вам об всем этом с начала, рассказать вам мою историю, историю геройской битвы, моей любви, моих войн, историю… историю предательства и этой последней славной победы. Рассказать вам, как я оказалась на этом забытом людьми унылом перевале, я и пять моих товарищей; мы пришли, чтобы драться со всеми этими людьми и монстрами, чтобы разбить армию, которая могла бы напасть на мой народ, подобно трусам, ночью… но я опять забегаю вперед.
 
-[/center]the combined efforts of the armies
+Я простой воин. Я принадлежу к клану Дев Меча Духа. Сколько я себя помню, я всегда хотела быть певцом меча, ощущать жажду клинка у себя в руке, чувствовать, как он оживает и забирает жизни моих врагов. Мне рассказывали, что наш народ был народом ремесленников и поэтов сотни лет назад на нашей пустынной родине. Здесь, на новой родине, теперь известной как Хаммерфелл, многие из нас вернулись к этому древнему пути, но для меня был только ОДИН ПУТЬ!! ПУТЬ МЕЧА!!!
 
-[/center]of Daggerfall, Sentinel, and the
+Это трудно описать. Я выросла в знатной семье и, единственная из трех братьев и двух сестер, чувствовала зов, песнь меча. Отец понимал меня, так как он тоже чуствовал этот зов. Он стал Мастером и Ансеем задолго до того, как поселился с нашем поместье, чтобы создать семью. В одиннадцать лет я вступила в Зал военной доблести и присоединилась к Дев Меча Духа. В группе нас было шестеро. Бесстрашная Джулия, крепкая Патия, большая Кати, гибкая Сесил, мудрая Зелл и я — все ушли, чтобы спасти меня, и скоро я присоединюсь к ним…присоединюсь к ним в залах неизвестных богов войны.
 
-[/center]Order of Diagna. 
+Мы вместе пили, вместе дрались, вместе плакали, вместе постигали путь меча. В Зале мы учились вместе с нашими Братьями клинка. Учась друг у друга, мы все сидели у ног мастера Зала, стараясь постичь глубину Шехая — превратить клинок духа в настоящее оружие, как это делал Франдар Хандинг! Только немногие имели столь чистое сердце, немногие имели достаточно доблести, чтобы суметь сделать этот шаг и постичь тайны Ансеев…Святости Меча.
 
-[/center]
+Каким-то образом, из всех Братьев и Дев только я обладала уникальными качествами, еле заметным, но достаточно сильным отсветом магии, способным вызвать Шехай. Много раз я призывала его, но он редко становился настолько материальным, чтобы стать оружием. Чтобы быть Ансеем первого уровня вам просто нужно уметь вызывать его, а это я могла, и в нашем местном зале я стала первым Ансеем за два поколения.
 
-[/center]Almost all of this is in the first
+Я столько еще хочу рассказать, так много воспоминаний, так много сокровищ, которыми я могу с тобой поделиться, мой неведомый компаньон… С чего начать?
 
-[/center]person, as Makela was unfamiliar
+Уф, боль все еще вон там, затаившаяся, голодная, медленно пожирающая то, что осталось от меня. Я думаю, лучше рассказать вам о Последней Битве, той самой, которая оставила меня здесь, и затем, если хватит воли, я расскажу вам о моей жизни, моем любимом Ралифе… О, что это был за парень! Сколько времени мы провели вместе… Эбонарм… Простите меня, мои мысли блуждают… Давайте перейдем к Последней Битве!
 
-with the protocols and scholarly
+Ммм, начнем, с середины, хмм. Да! Мы, Девы, росли, учились, оттачивали мастерство, постигая Путь, и по завершении отправлялись в Странствие. Вам, не певцам, это покажется простым путешествием по диким местам, совершаемым в подражание временам Фандара Хандинга, где мы все бродим по стране, исправляя зло, побеждая монстров, совершая подвиги во имя доблести. У некоторых в нашем Зале на это уходили годы! Это всегда опасно, мы, шестеро Дев, все вернулись к нашим старым добрым временам, но многие не доживают до возвращения из Странствия!
 
-[/center]formalities of recording herself
+Мы вернулись к своей обычной жизни, и как-то раз встретились в зале, чтобы рассказать о наших приключениях новым Девам и Братьям, и наставлять новичков в Пути меча. Все шло хорошо до ночи (вставьте праздник из списка). Наши люди все пировали и наслаждались трапезой, но не мы, шестеро Дев. Так вышло, что этот праздничный день был днем нашей встречи в Зале, днем молитвы, поста и почитания Пути меча.
 
-[/center]into a memory stone. None the less,
+Поздней ночью в нашу дверь постучали. Я открыла, это оказался стражник с перевала Банкорай, что на Вротгарианских горах, тяжело раненый, при смерти. Он поведал нам о предательстве с севера, вторжении, поддержанном Кристальной башней Хай Рока, о возглавляемой лордом Башни армии, полной приспешников зла, орков и других, пришедших обрушиться на наш ничего не подозревающий народ. Чтобы сохранить ему жизнь, мы быстро воспользовались кристаллом исцеления. Мы послали его к королю, а сами, шестеро, схватили наше оружие и доспехи силы, и столько зелий, знаков, кристаллов и колец, сколько смогли унести.
 
-[/center]her heroism and heroic deeds live
+Мы летели к перевалу, надеясь, что мы не придем слишком поздно! Наше путешествие было не напрасным, мы прибыли в тот самый момент, когда последние три стража были сметены этой ордой! Мы вбежали в проход, выстроившись в боевую линию, шестеро плечом к плечу. О, как же мы дрались! Нас радовала Песнь Меча, прорежающего ряды зла! Мы дрались долго. Джулия пала первой, коварный отравленный кинжал нашел щель в ее доспехах. Затем одна за другой, защищая меня, пали все. Мой любимый меч, меч моего отца, меч со змеей на гербе, созданный кузнецом Тансалом, тоже певцом меча, сломался в моих руках! Все было потеряно, наши шесть жизней растрачены впустую. Теперь Они тысячами польются через перевал! Я бы стала легкой добычей для них, как новорожденное дитя! Я рыдала в отчаянии!
 
-[/center]on, her memories fresh in the stone
+Затем я вспомнила очаг нашего дома — книгу! Книгу кругов Франдара Хандинга, Путь Стратегии. Я потянулась за Шехаем, мечом духа…тем, который я бы никогда не смогла создать, будь мне это нужно; и вот он возник! Возник в пламени! Он появился в моих руках! В пламени силы — О, я рубила, направо и налево, будто косила рожь! Я сражалась, достигая самого Лорда Башни. Один ударом я разрубил на части его доспехи, следующий снес его голову! Но стоило это многого, дюжины ран, так как, хотя на мне и была магическая броня, она не была создана из моего духа, подобно моему клинку, и не была неуязвимой, как мой клинок или мой дух. И я была жестоко изранена.
 
-[/center]for all to feel and hear.  
+С падением Лорда Башни его армия распалась. Они бежали от моего гнева! Бежали обратно через перевал, не задержавшись даже, чтобы подобрать своих мертвых и раненых. Все, кто мог, бежали, спасая свои жизни, а я рубила всех, кого могла достать, но уже задыхаясь, и боль… В конце концов я остановилась передохнуть на этой скале, где нахожусь сейчас. Я не знаю, почему я решила взять с собой этот камень. Я купила его просто из прихоти, с добычи от… а, ну, я думаю, мне нужно остановиться и рассказать мою историю по порядку. Я чувствую, что еще смогу рассказать вам больше… Вечная ночь опускается медленнее, чем я думала. Еще рано, я даже готова сочинить свою песнь смерти. Маленький глоточек воды и … ну, я думаю, я вернусь к моему рассказу и поведаю вам о моей жизни, может, подробнее о битве. И.. О, да! о Ралифе и наших детях, хмм, где же начать…
 
-
-
-
-
- " . . . muuu uhh, I wonder if this will really work?"
-
- "The Mages guild took me for 25,000 gold crowns if it
-doesn't.  Imagine?  This stone will record my thoughts? What
-did they say? Just unwrap it from the silver foil and
-leather bag and as soon as it touches my flesh it will begin
-to record.  
-
- "Ahhhh, the pain, I must block it out, no one would want to
-hold my  stone and hear my thoughts if I let it record my
-pain. Thank the Ebonarm and the training I received in The Hall
-of the Virtues of War.  I CAN block out this pain. Ummm
-just, ah,  there, it's walled off.
-
- "Yes I can still see it there just beyond my consciousness
-lurking like a hungry wolf - a wolf that will soon  consume
-me. I see also my inevitable death from these damned wounds. 
-No potions left, the healing crystal and ring are used up,
-and me, with not even magic enough to light a candle.   Oh but
-the gods did give me other gifts, the gift of sword singing,
-the thrill of battle, Frandar  Hunding's Book of Circles,
-THE WAY OF THE SWORD. Ah but then that is my story, I get
-ahead of myself.  
-
- I am Makela Leki a warrior, a sword-singer, a second level
-Ansei. In  my cradle I could form the Shehai, the spirit sword
-- The mystical blade,  mine formed of pure thought serpents
-intertwined with vines of roses to  form the blade, as
-beautiful as ...  
-
- Ah, but I'm about to tell you all about that, to tell you
-my story, a story of valiant battle, of my loves, of my
-wars, of. of betrayal and of this last glorious victory.
-To tell you of how I came to this distant lonely pass me and
-five companions, to fight these men and monsters to  defeat
-the army that would fall on my people like cowards in the
-night, but again I get ahead of myself.  
-
- I am a simple warrior. I grew up as a Maiden of the Spirit
-Blade.  As early as I can remember I wanted to be a Singer, to
-feel the hunger of  the blade in my hands, to feel it come
-alive and take my enemies. I am  told our people were
-artisans and poets long ago in our desert homes.   Here in new
-home now known as Hammerfell, many of us have returned  to
-those ancient ways, but to me there is but ONE WAY. THE WAY 
-of the SWORD.   
-
- Ah this is hard to tell. I grew up in my noble family, the
-only one of  three brothers and two sisters that felt the
-calling, the Song of the  Sword. Father understood, for he too
-had felt the call. He had become a master, and Ansei long
-before settling down with in our estate to raise a family.
-At eleven, I entered the Hall of the Virtues of War and
-joined the Maidens of the Spirit Sword. In my band there were
-six of us. Daring Julia, solid Patia, big Kati, svelte
-Cegila, wise Zell, and me - all are gone now, save me, and
-soon I will join them. ... Join them in the halls of the
-unknown gods of war.
-
- We drank together, we fought, we  wept, we grew in the way of
-the sword. We joined in our learnings in the Hall with our
-Brothers of the Blade. Learning from each other, we all sat
-at the feet of the Hall Master striving to learn the depths of
-the  Shehai - making the spirit blade into a real weapon as
-Frandar Hunding had. Only a few have the purity of heart and
-virtue to be able to take the step and learn the mysteries of
-Ansei. Sword Sainthood.  
-
- Somehow, of all the Brothers and the Maidens, I only
-possessed the unique qualities, the faint but strong enough
-flicker of magicka to call forth the Shehai. Many times I
-called it, seldom would it become substantial enough to be a
-weapon. To be a Ansei of the first level you just need to be
-able to call it, and that I could, so I became the first
-Ansei from our local hall in two generations. 
-
- Oh I have so much to tell, so many memories, so many
-treasures to share with you, my unknown companion. How do I
-start?
-
- Umhhh, the pain is still out there lurking hungry, slowly
-consuming what's left of me. I guess I had better tell of the
-final battle, the one that has left me here, and then if I
-have the will left tell you of my life, of my love  Raliph.
-OH what a lad he was. What times we shared ... Ebonarm ...
-Forgive me, my mind wanders ...  Let me go to the  Final
-Battle.  
-
- Umm to start, in the middle humm. Yes. We Maidens grew,
-learned, mastered the Way, and upon completing the
-Walk-About. To you who are not Singers, this is a wilderness
-trek emulating the times of Frandar Hunding - where we each
-wander the country side righting wrongs, defeating monsters,
-performing quests in the name of virtue. Some of us in our
-Hall took years to finish. Always there is danger, we six
-Maidens each returned in our own good time, but many are they
-who do not live to return from the Walk About.   
-
- We returned, each to our own lives, to meet in the hall once
-a week to tell our stories to the new Maidens and Brothers,
-and to perform as instructors in the Way of the sword.  All
-was well till the night of the MidYear Festival.
-
- All our people were reveling and ...  excuse ... enjoying
-the repast, but for we six Maidens.  It happened that the 
-festival day fell on our day of meeting in the hall, our
-day of prayer and  fasting and honor to the Way of the
-Sword.  
-
- As we met, late into the night, a knocking rang on our door. 
-When I opened, it there was a guardian the Bankorai Pass in
-the Wrothgarian Mountains, wounded and near death ... He
-told us of betrayal from the  north, an invasion sponsored
-by the Crystal Tower of High Rock, led by King Joile of
-Daggerfall -- our ally in the war with Orsinium!
-
- Quickly we used up a crystal of healing in restoring him to
-vitality. We sent him on to the king, while we six grabbed our
-weapons and armor of power, and as many potions, marks,
-and crystals and rings as we could carry.  
-
- We flew to the pass hoping upon hope that we would not be
-too late. Our journey was not in vain, for we arrived just
-at the very point where the last three guardians were
-overwhelmed by the horde.  Into the pass we ran forming the
-old battle line, six abreast.
-
- OH did we FIGHT.
-
- The Song of the Sword was a joyous noise slicing through the
-ranks of evil.  We fought for hours. Julia was the first to
-fall, a cowardly poisoned dagger finding a rent in her
-armor. Then one by one all fell, save me.
-
- ... oh cruel Ebonarm ...    Then my beloved sword, the sword
-of my father, the one with the serpent's crest, fashioned by
-the master sword smith Singer Tansal broke in my hands. All
-was lost, our six lives spent in vain. Now, many many of
-them would pour through the pass. I would be easy prey for
-them, like a newborn child. I wept in frustration.  
-
- Then I remembered the hearth in our home - the book.  Frandar
-Hunding's Book of Circles, the Way of Strategy.  I reached
-for the Shehai the spirit sword, that which I could never
-reliably form when I needed it, and behold ... it was alive.  
-  Alive with fire. It formed in my hand. Ablaze with power ---
-OH I slew mightily, right and left, like a scythe through
-wheat.  All the way to the Lord of the Tower I fought.  With
-one blow I cut his magical armor asunder, one more took his
-head.
-
- But to do that deed cost me dearly, wounds by the dozen, for
-although I had magical armor, it was not formed of spirit
-like my blade, it was not as invincible as my blade or my own
-spirit, and I was sorely wounded.  
-
- With the felling of King Joile, his army crumbled. They fled
-before my wrath. All ran back through the pass not even
-pausing to collect their dead and wounded. All who could
-stand ran for their lives, and I slew all I could reach, but
-my breath was coming short, and the pain ...
-
- Finally I rested, on this rock where you find me now. I don't
-know why I chanced to bring this stone along. I bought it on a
-whim really, with the loot from ... ah well I guess I need to
-really stop and  tell my story in order. I feel able to go
-on to tell you more ... the eternal night is descending more
-slowly than I thought.
-
- Not just yet, am I ready to compose my death poem.  A
-little sip of water and ... well I think I will go back and
-tell you of my life, maybe some details about the battle.
-And Oh yes. About Raliph and our children, humm where will I
-start.  
-
- ... oh ... rrr ...
-
- I am ... a simple warrior ... I grew up as a, a Maiden of the
-Spirit Blade ... As early ... as early as I can ... remember
-...  
-
-
-
- 
+Я — простой воин. Я выросла, как Дева Меча Духа. Сколько я себя помню, я ……. 

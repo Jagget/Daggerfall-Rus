@@ -1,148 +1,63 @@
-Title: Legal Basics
-Author: Anchivius, M.Z.F. 
+Title: Основы юридических знаний
+Author: Анчивиус, M.Z.F. 
 IsNaughty: False
 Price: 636
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Legal Basics
-
-
+[/center]Основы юридических знаний
 
 [/font=4]
 
 [/center]
 
-[/center]    Ignorance of the law is no defense. Be forewarned that the
-following are but the most universal of Tamrielan laws and
-regulations. Your own local province or principality may
-have unique laws of its own. As a citizen of Empire, it is
-your right and responsibility to know and follow these laws
-of the land.
+[/center]Незнание закона не освобождает от ответственности. Предупреждаю, что все нижеследующее является только наиболее общими положениями законов и нормативных актов Тамриэля. Законы вашей собственной провинции или княжества могут вообще быть единственными в своем роде. Ваше право и обязанность как гражданина Третьей империи — знать законы своего государства и подчиняться им.
 
-    Breaking and Entering:    This refers to any act including,
-but not limited to opening, breaking, incinerating,
-magically transporting, or in any way causing a door,
-window, or other portal that has been magically or
-mundanely locked or which a reasonable person would assume
-to be so restricted to be passable, and the act (though the
-act is not required for the definition) of entering the house,
-business, or public location through said defined portal.
-The punishment for this crime may include a fine or
-incarceration, or a fine and incarceration.    The fine and
-incarceration, or both, or neither, may be less in a crime of
-Attempted Breaking and Entering. A crime of Attempted
-Breaking and Entering is defined as an any act that a
-reasonable person would perceive as the preparation for,
-an attempt (whether successful or not, or perceived to be
-possibly successful or not) to bring about the opening,
-breaking, incinerating, magically transporting, or in any
-way causing a door, window, or other portal that has been
-magically or mundanely locked or which a reasonable person
-would assume to be so restricted to be passable, and the act
-(though the act is not required for the definition) of
-preparing or attempting (whether successful or not,
-perceived to be possibly successful or not) entering the
-house, business, or public location through said defined
-portal.
+[/center]Взлом с целью ограбления и незаконное вторжение
 
-     Trespassing:     This refers to walking, flying, riding,
-teleporting, floating, or in any way moving or existing on
-a property without the explicit written or spoken
-permission (or permission a reasonable person might infer)
-of the owner or caretaker of the property. The punishment for
-this crime may include a fine or incarceration, or a fine
-and incarceration.
+Под этим понимается любое действие открывания, взлома, поджога, перемещения посредством магии или любым другим способом, в результате которого дверь, окно и т.п., бывшие до этого запертыми обычным способом или с помощью магии или же находившиеся в таком состоянии, что разумная личность могла бы предположить, что проход сквозь них ограничен; а также (хоть это и не требуется для собственно определения) проникновение через вышеупомянутые проемы в жилое, общественное помещение или помещение, занимаемое коммерческим предприятием. Может наказываться штрафом, лишением свободы, или же и тем и другим одновременно. При неудавшейся попытке взлома или незаконного проникновения наказание может быть менее строгим. Попыткой взлома или незаконного проникновения считается любое действие, которое разумная личность может посчитать подготовкой, попыткой (независимо от ее результата или вероятности успешного исхода) проникновения, взлома, поджога, перемещения посредством магии или любым другим способом, результатом которого явилась бы возможность прохождения через дверь, окно или иной проем, который до этого был заперт обычным или магическим способом или относительно которого разумная личность могла бы сказать, что проход через этот проем ограничен, а также (хоть это и не является необходимым условием для данного определения) подготовка и попытка (независимо от ее результата или же вероятности успешного исхода) проникновения через вышеупомянутый проем в жилое или общественное помещение или помещение, занимаемое коммерческим предприятием.
 
-     Assault     Any threat or attempt (whether successful or
-not) to do physical, emotional, mental, or magical harm or
-injury to another person, group of persons, or entity a
-reasonable person might assume to be sentient. The
-punishment for this crime may include a fine or
-incarceration, or a fine and incarceration.
+[/center]Нарушение права владения
 
-     Murder     Any act of premeditated or malicious or
-premeditated and malicious (or an act that a reasonable
-person would call premeditated and malicious or
-premeditated or malicious) or accidental but criminally
-intended (or what a reasonable person would call
-criminally intended) purpose that results directly in the
-death (or destruction with implied death) of a person,
-group of persons, or entity a reasonable person might
-assume to be sentient. The punishment for this crime may
-include a fine or incarceration, or a fine and
-incarceration.
+Таковым считается прохождение, пролетание, проезд верхом, парение или любой другой вид передвижения или возникновения на территории частного владения при отсутствии ясно выраженного в письменной или устной форме разрешения (или же того, что разумная личность могла бы счесть таковым) владельца или опекуна собственности. Может наказываться штрафом, лишением свободы или же и тем и другим одновременно.
 
-     Criminal Conspiracy     Any meeting, communication, or
-encounter with the purpose (or which a reasonable person
-might assume had the purpose) of preparing or arranging a
-crime of any kind (or crimes of any kind) to be commited or
-caused to be commited. The punishment for this crime may
-include a fine or incarceration, or a fine and
-incarceration.
+[/center]Словесное оскорбление или угроза действием
 
-     Vagrancy     Any act of idleness, disorder, begging, or
-conduct unbecoming a person with occupation, gold, or a
-home, (or occupation, gold, and a home, or occupation or
-gold and home, or occupation and gold or home, or
-occupation and home or gold), or what a reasonable person
-would consider idle, disorderly, beggarly, or unbecoming.
-The punishment for this crime may include a fine or
-incarceration, or a fine and incarceration.
+Таковым считается любая угроза или же попытка (независимо от ее результата) причинить физический, эмоциональный, ментальный или магический вред или нанести повреждение другому лицу, группе лиц или существу, каковое разумная личность могла бы счесть наделенным разумом. Наказываться может штрафом, лишением свободы или и тем и другим одновременно.
 
-     Smuggling     Any act of bringing in, taking out,
-teleporting, or causing to be brought in, taken out, or
-teleported an object considered illegal or, if not
-illegal, requiring an import or export tax which is not paid.
-The punishment for this crime may include a fine or
-incarceration, or a fine and incarceration, and will
-include confiscation of the offensive or illegal object. It
-may also include, but not be restricted to, execution or
-banishment, or execution and banishment.
+[/center]Убийство
 
-     High Treason     Any act against (whether directly or
-indirectly, or any nonaction which results in
-circumstances, directly or indirectly, against) a
-allegiated sovereign or by a vassal to a liege, resulting
-(or what a reasonable person would assume would result) in
-physical, emotional, mental, or magical harm or injury in
-said sovereign or liege. The punishment for this crime will
-be death.
+Любое действие, носящее преднамеренный, злонамеренный или и тот и другой одновременно характер (или же действие, каковое разумная личность могла бы счесть преднамеренным, злонамеренным или и тем и другим одновременно), а также случайное действие, но с имевшим место преступным намерением (или же намерением, каковое разумная личность могла бы счесть преступным), приведшее непосредственным образом к смерти (или же уничтожению с преполагаемым смертельным исходом) личности, группы лиц или существа, каковое разумная личность могла счесть наделенным разумом. Наказанием за это преступление может быть штраф, лишение свободы или и то и другое одновременно.
 
-     Pickpocketing     Any act of stealing, taking, or, without
-explicit written or verbal permission (or what a
-reasonable person would infer as implied permission) an
-item or items a person, group of persons, or entity a
-reasonable person might assume to be sentient has on his,
-her, its, or their own person. The punishment for this crime
-may include a fine or incarceration, or a fine and
-incarceration.
+[/center]Преступный сговор
 
-     Theft     (sometimes called Larceny)     Any act of
-stealing, taking, or, without explicit written or verbal
-permission (or what a reasonable person would infer as
-implied permission) an item or items from a person, group of
-persons, or entity a reasonable person might assume to be
-sentient's place of residence, business, person, or other
-location a reasonable person would assume is secured from
-looting. The punishment for this crime may include a fine or
-incarceration, or a fine and incarceration.
+Таковым считается любое собрание, общение или встреча, имеющая своей целью организацию или подготовку к совершению преступления (ряда преступлений) любого рода (или же собрание, общение или встреча, цель которых разумная личность могла бы посчитать таковой). Наказанием за это преступление может быть штраф, лишение свободы или же и то, и другое одновременно.
 
-     These are the usual, day-to-day definitions used by legal
-experts (like myself), but both the definitions and
-punishments may fluctuate wildly according to location
-and situation. In the Imperial City, legal counsel is
-available by persons like myself, but the provinces have no
-such system in place. Perhaps that will change in time. We
-can all hope so.
+[/center]Бродяжничество
 
-     As a final note: the Tamriel legal system has its basis in
-the civilized, reasonable credo uttered by the prophet
-Marukh in the first era: "All are guilty until they have
-proven themselves innocent." Were truer word ever spoke?
+Таковым считается любое действие, выказывающее праздность, нарушение общественного порядка, попрошайничество или же поведение, неподобающее лицу, владеющему ремеслом, деньгами или домом (как по отдельности, так и в любых сочетаниях); а также действие, каковое разумная личность могла бы счесть проявлением праздности, нарушением общественного порядка, попрошайничеством или неподобающим.Наказанием за это преступление может быть штраф, лишение свободы или же и то, и другое одновременно.
 
- 
+[/center]Контрабанда
+
+Таковым считается любое действие, направленное на ввоз, вывоз, телепортирование или же приведшее к ввозу, вывозу или телепортированию предметов, запрещенных законом к ввозу (вывозу), или же требующих оплаты импортной или экспортной пошлины, которая не была уплачена. Наказываться может штрафом, лишением свободы или же и тем, и другим одновременно, включая конфискацию предмета, незаконно ввозимого (вывозимого) или же ввезенного (вывезенного) с нарушением требований закона. Также может дополняться (одновременно с другими санкциями) публичным наказанием, изгнанием или же и тем, и другим одновременно.
+
+[/center]Государственная измена
+
+Таковой считается любое действие, прямо или косвенно направленное против правящего государя или действие вассала против своего сеньора, а также бездействие, приведшее к обстоятельствам, результатом которых было направленное прямо или косвенно против них действие, приведшее к физическому, эмоциональному, ментальному или магическому вреду или повреждению вышеупомянутого государя или сеньора (или же действие, которое разумная личность могла бы посчитать причиной такового). Карается смертью.
+
+[/center]Карманная кража
+
+Таковой считается любое действие, направленное на незаметное изъятие или же на то, чтобы забрать без явно выраженного письменного или устного разрешения (или же того, что разумная личность могла бы счесть таковым) носимых на теле предмета или предметов у лица, группы лиц или существа, которое разумная личность могла бы счесть наделенным разумом. Наказываться может штрафом, лишением свободы или и тем, и другим одновременно.
+
+[/center]Кража(иногда называемая воровством)
+
+Таковым считается любое действие, направленное на незаметное изъятие, или же на то, чтобы забрать без явно выраженного письменного или устного разрешения (или же того, что разумная личность могла бы счесть таковым) у лица, группы лиц или существа, которое разумная личность могла бы счесть наделенным разумом, предмета или предметов из занимаемых ими помещений, используемых как для личного проживания, так и для ведения дел,и относительно которых разумная личность могла бы решить, что они защищаемы от грабежа. Наказывается штрафом, лишением свободы или же и тем, и другим одновременно.
+
+Это общепринятые,каждодневные определения, применяемые опытными юристами (такими, как я), но и меры пресечения, и сами эти определения могут варьировать в широких пределах в зависимости от места и ситуации. В Империал-Сити консультации по юридическим вопросам дают лица, подобные мне, но в провинциях такая система не практикуется. Возможно, со временем все изменится. Мы можем только надеяться на это.
+
+И напоследок:
+
+Правовая система Тамриэля базируется на цивилизованном и разумном кредо, изложенным в Первой эре пророком Марухом: «Все виновны до тех пор, пока сами не докажут свою невиновность». Произносились ли когда слова правдивее??

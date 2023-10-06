@@ -1,149 +1,48 @@
-Title: A Scholar's Guide to Nymphs
-Author: Vondham Barres
+Title: Учебное пособие по нимфам
+Author: Вондхэм Баррес
 IsNaughty: False
 Price: 770
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]A Scholar's Guide to
+[/center]Учебное пособие
 
-[/center]Nymphs
-
-
+[/center]по нимфам
 
 [/font=4]
 
- I grew up a scholar, an ascetic devoted to knowledge, with
-eyes that saw beauty in a fascinating passage in a dusty
-tome, love in the candle that allowed me to study on
-starless nights, passion in a well-reasoned argument of a
-long dead issue. I was a student who never graduated and was
-never expelled.
+Я был ученым, аскетом, посвятившим себя науке, чьи глаза видели красоту в интереснейшем отрывке из пыльного тома, любовь — в свече, позволявшей мне заниматься все ночи напролет, страсть — в безупречной логике доказательства какой-нибудь давней и скучной проблемы. Я был вечным студентом. чье обучение никогда не заканчивалось.
 
- Though I am not defending myself, I should further define
-myself. I am not what you would call a prude. In fact, I
-can speak of subjects in a detached way that would make the
-most debauched strumpet in Skyhawk blush with discovered
-modesty. I wrote an essay the House of Dibella as a scholar
-should, analysing the cult of beauty and physical
-relations as one might study crop rotation or the digestive
-system of an orc. The acquaintances of mine who were
-inclined to wink and giggle I tolerated, but barely.
+Хотя я не защищаюсь, все же опишу себя получше. Я не ханжа. Фактически, я мог свободно обсуждать темы, которые бы самую распущенную проститутку в Скайхоке заставили бы покраснеть с внезапно проявившейся стыдливостью. Я написал эссе «Дом Дибеллы», в котором, как и должно ученому, анализировал культ красоты и половых связей, как иной мог бы изучать севооборот или пищеварительную систему орка. Перемигивания и хихиканье моих знакомых я терпел, но с трудом.
 
- With all that said, the reader will understand that when I
-decided to study the language of the nymphs in order to study
-their character and culture, it was not a decision I made on
-account of prurience or lust. Scholars have historically
-neglected the nymph as a subject worthy of research, and this
-neglect I attribute to prejudice. The sages with whom I have
-spoken on the subject have eloquently and intelligently
-formed sentences which, boiled down, can be translated as:
-"Nymphs look like beautiful, naked women who skip along
-tra-la-la and like to have indisciminate sex. What could they
-have to say that would be of any interest?"
+Все это я рассказал для того, чтобы читатель понял, что мое решение изучать язык нимф, их характер и культуру не было продиктовано похотью или вожделением. Ученые с незапамятных времен не уделяли достаточно внимания нимфам, не считая их объектом, достойным серьезного изучения, и такое пренебрежение я объясняю предубеждением. Мудрецы, с которыми я говорил об этом, по всем канонам ораторского искусства говорили то, что в сжатом виде может быть сведено к следующему: «Нимфы выглядят, как прекрасные обнаженные женщины, которые дни напролет веселятся и скачут с возгласами радости, и обожают случайные сексуальные связи. Что они могли бы сказать интересного?»
 
- So here I was faced with the most daunting of projects -- to
-study and research a species unstudied is a potentially
-rewarding challenge. If the subject was unstudied because
-the scientific community had deemed it beneath interest, a
-potentially rewarding but decidedly frustrating
-challenge. If I spent months in serious study of their
-language and culture and additional time in their company,
-and discovered nothing more than that the common prejudice
-is correct, the term "laughing stock" would not do me
-justice.
+Это был один из самых моих интересных проектов — исследовать непознанных существ (весьма перспективная задача). Если вопрос не исследован, потому что научное сообщество не считает его заслуживающим внимания, это перспективная, но и решительно разочаровывающая задача. Если я потрачу месяцы на изучение их языка и культуры, а потом еще какое-то время проведу в их обществе, и выясню только, что все, что о них говорилось — верно, «посмешище» будет самым мягким словом, которое я заслужу.
 
- So, excited and nervous for reasons unrelated to the
-notoriously promiscuous behavior of my subjects, I began my
-studies. I mastered the language, a melodious tongue that
-sounds like wild elf and faerie but share no vocabulary with
-them. I studied the lore, and found it to be on the whole,
-little more than pornography and crude conjecture.
+Итак, взволнованный и нервничающий по причинам, не связанным с пресловутым развязным поведением предмета моего исследования, я с большим рвением принялся за изучение языка и поведения предмета моего исследования. Их язык оказался очень мелодичным, звучащим очень похоже на речь диких эльфов или фэйри, но грамматически отличающимся от них. И искусство их оказалось необычным (до меня его описывали как сплошную порнографию). Оставалось найти их самих.
 
- I next had to find a nymph.
+Находясь в Имперском Городе, я без труда разослал запросы по нескольким хорошо известным храмам и гильдиям, занимающимися исследованиями во всех провинциях. Не все они отнеслись к моему запросу серьезно, но кое-кто, а именно школа Джулианоса из Сентинеля оказали мне значительную помощь. Здесь мне хотелось бы выразить искреннюю благодарность магистру Ойтусу и его ученикам. Неважно, каких непристойных историй бы вам не рассказывали, но на самом деле нимфы — очень пугливые и робкие существа. Никто из тех, с кем я говорил, не знал никого, кто бы видел их. Поэтому разговор с ними требует большого внимания и терпения.
 
- From my centralized location in the Imperial City, I found
-it easy to send word around to several wellknown temples and
-guilds devoted to study in all the provinces. Not all
-replies back were serious in nature, but one, from the School
-of Julianos in Sentinel helped me considerably. To
-Magister Oitos and his disciples, I here offer my sincere
-gratitude.
+Уважая ее стремление к уединению, я не буду здесь приводить точное местоположение маленького грота на берегу Хаммерфелла, где я обнаружил нимфу. Я три месяца терпеливо ждал, оставлял подарки там, где, по моим сведениям, должна была быть нимфа, прежде чем она перестала убегать при моем приближении. Помню, я держал в руках букет алых и белых тетий, а она посмотрела на них, затем на меня, и улыбнулась. Эффект от ее улыбки был воистину магическим, я убежден в этом. Ее тело было, конечно же, совершенным; ее лицо — прелестным и безмятежным; ее волосы напоминали шелк. Но пока она не улыбнулась, ее красота была абстрактной, совершеннейшая статуя великого мастера. Ее улыбка сделала ее доступной и вместе с тем пугающей.
 
- Nymphs are extremely shy creatures, no matter what the more
-obscene stories will tell you. No one who I've spoken with has
-had one seek him or her out. Thus to speak with a nymph requires
-energy and patience.
+— Для тебя, — произнес я, делая первую попытку сказать что-то настоящей нимфе на ее языке.
 
- Out of courtesy for her privacy, I will not here give the
-location of the little grotto off the coast of Hammerfell
-where I found the nymph. It took three months of patient
-waiting, leaving presents where I knew the nymph would be,
-before the nymph stood still at my approach.
+Ее улыбка переросла в ухмылку, которая сменилась хихиканьем, а затем смехом. Читателю наверняка приходилось слышать о серебристом смехе эльфов. Смех нимфы — простой, непринужденный и очень… двусмысленный. — И что ты хочешь от меня взамен, смертный? — спросила она.
 
- I remember I was carrying a bouquet of purple and white
-tetias, and she looked at them and then at me, and smiled. The
-effect of her smile was truly magical, I'm convinced. Her
-body was, of course, perfect; her face lovely and serene; her
-hair like silk flame. But until she smiled, she was beautiful
-in the abstract, a perfect statue by a master. The smile made
-her approachable and, thus, terrifying.
+— Я, — следует сказать, что на языке нимф нет слова, обозначающего ученого, — я — человек, которому нравится изучать все вокруг себя. Я хочу узнать о вас больше. Надеюсь, что я смогу.
 
- "For you," I said, attempting my first utterance of Nymph
-to a real nymph.
+И я узнал.
 
- Her smile grew into a grin which became a giggle and then a
-laugh. The reader has doubtless heard of the silver laughter
-of the elves. The nymph's laugh is earthy and spontaneous,
-and very ... suggestive.
+Нимфы — самые мудрые и удивительные создания на Тамриэле. Моя нимфа, ее звали Айалиа (слабая фонетическая транскрипция слова, звучащего подобно слабому ветерку, сквозящему через маленькую щелку в пустой комнате), и она знала об обитателях глухих лесов и их повадках больше, чем самый великий ученый из лесных эльфов, какого я когда-либо встречал. Она рассказала мне о цветах, призраках и созданиях, слищком быстрых и пугливых, чтобы их смог увидеть хоть один человек.
 
- "And what do you want from me in return, mortal?" she asked.
+В тот самый первый раз Айалиа научила меня, как изучать что-либо. Как открыть свой разум всем возможностям жизни, и как использовать это знание, а не просто хранить его в себе, подобно стае драконов.
 
- "I am," There is no, I should say, known word in the Nymph
-language for scholar, "I am a man who likes to learn things.
-I want to learn things about you."
+Если вы когда-нибудь встретитесь с нимфой, поговорите с ней.
 
- And I did.
+[/center]* * *
 
- Nymphs are the wisest, most wonderful creatures in Tamriel.
-My nymph, her name is Ayalea (a poor phonetic transcription
-of a word that sounds more like a light wind blowing through
-a small crack in a hollow chamber) and she knows more about
-the behavior and varieties of the deep woodland creatures
-than the greatest wood elf scholar I ever met. She taught me
-of flowers and ghosts and creatures too fast and timid to
-have ever been seen by man.
-
- Ayalea taught me how to learn for the very first time. How to
-open my mind to all of the possibilities of life and how to
-use that knowledge, not just to hold in my cramped brain like
-a dragon's horde.
-
- If you ever meet a nymph, speak to her.
-
-
-
- *    *    *
-
- Editor's note: the writer Vondham Barres is no longer a
-scholar at the Imperial University. He deposited this
-manuscript and disappeared from the civilized world. His
-current wherebouts are unknown.
-
-
-
-
-
-
-
-
-
-
-
-  
-
- 
+Примечание редактора:
+Автор данной статьи, Вондхэм Баррес, больше не является ученым Имперского университета. Он оставил эту запись на своем столе и покинул цивилизованный мир. Настоящее его местоположение неизвестно.
