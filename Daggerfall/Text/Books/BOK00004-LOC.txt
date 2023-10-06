@@ -1,5 +1,5 @@
 Title: Редгард. История и герои
-Author: Destri Merlarg
+Author: Дестри Меларг
 IsNaughty: False
 Price: 728
 IsUnique: False
