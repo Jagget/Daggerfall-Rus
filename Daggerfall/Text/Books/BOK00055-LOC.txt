@@ -1,190 +1,57 @@
-Title: The Light and The Dark
-Author: Irek Unterge
+Title: Свет и Тьма
+Author: Айрек Антерж
 IsNaughty: False
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]The Light
-
-[/center]And
-
-[/center]The Dark
-
-
+[/center]Свет и Тьма
 
 [/font=4]
 
+Да, дети, эту часть Тамриэля неслучайно назвали Ареной. Старик, сидевший на большом валуне, поменял позу и расправил свое длинное серое одеяние. Слезящиеся глаза потеряли фокус, он пристально глядел на согретую солнцем долину, затерянную в горах Хай Рока. На мгновение вместо свежей зелени весны перед его глазами мелькнули видения древних трагедий. По его старым костям пробежала дрожь.
 
+«Подходящая ли это тема для молодых и невинных душ?», -спросил он себя. Молодежь необходимо учить, но нужно ли говорить об этом именно сейчас, когда они мирно играют под яркими лучами солнца? Этот рассказ больше подходит для мрачной зимы с ее ветрами, завывающими за стенами города, дверями и окнами, плотно закрытыми и даже запертыми на засов, чтобы не пустить в дом холод, порывы ветра и — и кое-что еще.
 
-[/center] "Yes, children, it is no accident that this land of Tamriel
-has been called 'The Arena'." The old man altered his
-position on the large rock that bore his weight, and
-straightened his long gray robe.  Rheumy eyes lost their focus
-as they gazed out over the sun-warmed valley in the
-mountains of High Rock. For a moment he saw a vision of
-ancient horrors instead of the fresh greenery of spring. A
-chill washed over his aged bones.
+Он с любовью взглянул на двух своих внучат: маленького светловолосого мальчика с чертиками, плящущими в глазах даже в тех редких случаях, когда он сидел спокойно, и его старшую сестру. «Спокойная девчушка»,- подумал старик. Ее волосы, подобные темному пламени и ее слегка заостренные уши были единственными видимыми признаками эльфийской крови. «Так похожа на свою бабушку»,- подумал старик. Прошлое останется прошлым, и И’шира принесла ему так много покоя и счастья после наполненной битвами жизни. Он заставил свои мысли вернуться к настоящему.
 
- "Is this a suitable topic for the young and innocent?" he
-asked himself.  The young must be taught, but must they
-learn of such things now, when they should be playing in the
-sunlight?  This is a tale for the dreary winter, with the wind
-howling outside a walled town and the doors and windows
-closed and bolted against the blast and cold and -- other
-things.
+-Извините, детки. Я вспоминал кое-что. У стариков, это, знаете ли, бывает.
 
- He glanced with affection at his two grandchildren:  the
-little towheaded boy with a hint of mischief dancing in his eyes
-even on those rare occasions when sitting quietly, and his
-older sister.  A serene lass, the old man thought.  Her hair
-like a dark flame and her slightly pointed ears were the only
-obvious signs of elven blood.  So like her grandmother, the
-old man thought.  The past is past, and I'shira had brought
-him so much peace and happiness after a lifetime of battle.
-He forced his thoughts back to the present.
+-Ты хочешь рассказать нам о Джагар Тарне, Императоре и Вечном Чемпионе?- спросил его внук.-Моя любимая история!
 
- "Sorry, children. I was remembering things. Old people do
-that, you know."
+-Не совсем, сынок. В какой-то мере они были частью той истории, которую я хочу рассказать. Как Ай’рик, Мораэлин, Эдвард, Реймон и многие другие. Даже боги играют в ней свою роль. Это очень старая история, и даже священники не расскажут этого так, как я. У них своя собственная интерпретация и свои опасения. Я же слишком стар и слишком многое повидал, чтобы у меня оставались какие-либо опасения, кроме одного: что наш народ забудет об этом. А забвение опасно. Поэтому я и еще несколько человек храним в памяти это сказание и пытаемся распространять его среди молодых поколений. Вы еще недостаточно взрослые, чтобы понять все это, но я чувствую, что конец мой близок. Я хочу попросить вас во что бы то ни стало запомнить то, что я скажу. Может быть через несколько лет, , если я буду жив, мы обсудим это снова. Если же нет, ну, вы должны разыскать других, кто знает об этом, и обсудить это с ними.
 
- "Are you going to tell us the story of Jagar Tharn and the
-Emperor and the Eternal Champion?"  His grandson asked. 
-"That's my favorite!"
+-Ты говоришь так, как будто собираешься умереть, дедушка, — воскликнула его внучка.- Этого не может случиться. Ты будешь жить всегда!
 
- "Not exactly, son.  They were a part of it, in a way.  As
-are I'ric and Moraelyn and Edward and Reymon and many
-others. Even the gods play a part.  This is a far older
-story, and even the priests won't tell it my way.  They have
-their own interpretations, and their fears as well. I'm too
-old and have seen too much to have any fear left, except
-that our people will forget. And forgetting is dangerous. 
-So I, and a few others, carry this tale and try to spread it
-among the younger generations.  You aren't really old
-enough to understand it all, but I can feel that my end is
-not far off.  I must ask you to remember anyway. In a few
-years, perhaps, if I still live, we can discuss it again. 
-If not, well, you must seek out others who know, and compare
-notes."
+Старик усмехнулся.
+-Боюсь, что нет, дорогая. Но у меня осталось еще немного времени; достаточно, чтобы рассказать эту историю.
 
- "You talk as if you are going to die, Granther," his
-granddaughter spoke up.  "That can't happen. You will live
-forever!"
+Дети сели, привалившись к стволу большого дуба, зная, что старик не станет спешить. Наклонившись вперед, он начал.
 
- Chuckling, "I'm afraid not, dear. But I have a little while
-left, enough for the story".
+— Много, много лет назад, даже до того, как вообще появились люди, даже до того, как возникли боги, Тамриэль выбрали площадкой для битвы две…сущности. Трудно найти подходящие слова, чтобы их описать. Я зову их Свет и Тьма. Другие используют другие имена. Добро и Зло, Птица и Змея, Порядок и Хаос. На самом деле ни одно из этих имен не применимо. Хватит того, что они противостоят друг другу, — и абсолютно несовместимы. В действительности же, это ни зло, ни добро в том виде, как мы понимает эти слова. Они бессмертны, так как они на самом деле не живут, но они существуют. Даже боги и их даэдрийческие враги всего лишь слабые отражения вечной борьбы между этими силами. Но эта борьба создает энергии, искажающие все, что их окружает, и эти энергии столь могущественны, что, подобно водовороту в потоке, смогла появиться жизнь.
 
- The children settled back against the bole of a large oak,
-knowing that the old man could not be hurried.  Leaning
-forward, he began:
+— Демоны и тролли происходят из Тьмы, дедушка?
 
- "Long, long ago, before there were any people at all; even
-before the gods, Tamriel was chosen as a battleground by
-two -- things. It is difficult to find words that fit them
-well. I call them the Light and the Dark. Others use different
-names.  Good and Evil, Bird and Serpent, Order and Chaos. 
-None of these names really apply. It suffices that they are
-opposites, and totally antithetical.  Neither is really
-good or evil, as we know the words. They are immortal since
-they do not really live, but they do exist.  Even the gods
-and their daedric enemies are pale reflections of the eternal
-conflict between them. It's as though their struggle creates
-energies that distort their surroundings, and those energies
-are so powerful that life can appear, like an eddy in a
-stream."
+— Не совсем, сынок. Неумершее зло, которое мы знаем , и те демоны, что живут на Обливионе, обычно вступают в союз с Тьмой. Их природа более близка к ней. Люди и другие народы Тамриэля, даже никому не понятные темные эльфы, более близки к свету. Наши пороки не всегда идут от Тьмы, но некоторые — от нее, и вот эти-то и на самом деле опасны. Джагар Тарн почти полностью предался Тьме, и именно потому он считается таким чудовищем. А вовсе не потому, что он был черным магом, как утверждают некоторые.
 
- "Do demons and trolls come from the Dark, Grandpa?"
+-Дедушка, а его магия происходила из Тьмы? — Упоминание магии вызвало у девочки интерес. «Наследственность начинает проявляться», — подумал старик.
 
- "Not exactly, son.  The undead evils we know, and the demons
-that live on Oblivion tend to align with the Dark. Their
-natures are more akin to it.  Humans and the other peoples of
-Tamriel, even the misunderstood Dark Elves, are more
-aligned with the Light. Our evils are not always of the Dark,
-but some are, and these are the truly dangerous ones. Jagar
-Tharn was almost wholly aligned with the Dark, and that is
-really why he was so monstrous.  It was not because he was a
-black mage, as some would have it."
+-Нет, магическая сила происходит непосредственно от энергий, кружащихся в водовороте вокруг обеих сущностей. Эти энергии внеличностны и все перемешаны. Черная магия — это скорее вопрос намерения, чем результата. Гильдия Магов считает, что огненный шар, скажем, направленный на создание, собирающееся причинить тебе ущерб, не будет черной магией; но тоже самое заклинание, направленное на существо, стремящееся к миру, таковой будет. И в этом они правы. Уничтожение огненного даэдра усиливает Свет и немного ослабляет Тьму. Точно также, как уничтожение единорога усиливает Тьму.
 
- "Did his magic come from the Dark, Granther?"  The girl's
-interest was piqued by mention of magic.  Her heritage is
-beginning to show itself, thought the old man.
+-А что насчет богов? Они происходят из Света?- Глаза мальчика оживились, и в них мелькнуло предвкушение. Он обожал истории о богах и богинях тамриэльского пантеона и служивших им героях.
 
- "No, magic power comes directly from the energies swirling
-about both entities.  These energies are impersonal and all
-mixed up.  Black magic is more a matter of intent than
-effect.  The Mages' Guild holds that a fireball, say,
-directed against a creature intent on causing harm, is not
-black magic; but the same spell directed at one seeking peace
-is.  In this, they are right. Destruction of a fire daedra
-strengthens the Light and weakens the Dark just a little.  In
-the same manner, destruction of a unicorn strengthens the
-Dark."
+Старик хмыкнул.
+-Боги имеют необычное происхождение, если некоторые из старых историй правдивы. Старейшие обитатели этого мира — никто, кажется, не уверен, что это была за раса — имели систему мифов, в которые они верили в течении тысячи лет. Народ эт’Ада верил так долго и так сильно, что их вера могла, просто могла привлечь энергии, окружающие Тамриэль, стать причиной появления самих богов. Если это так, конфликт между Светом и Тьмой предоставил энергию и эт’Ада, структуре, которая создала богов Тамриэля. Никто в действительности не знает, так как это было так давно и так мало осталось от того времени. Но теперь это не имеет значения; ныне боги существуют уже сами по себе, и большинство из них выступает союзниками Света, кроме нескольких, скажем так, немного неоднозначных божеств.
 
- "What about the gods?  Do they come from the Light?"  The
-boy's eyes were animated, but tinged with apprehension. He
-adored stories of the gods and goddesses of Tamriel's
-pantheon, and the heroes who served them.
+-Почему мы должны помнить об этом, дедушка? Что это за опасность, о которой ты говорил? Если Свет и Тьма так велики и могущественны, можем ли мы повлиять на них? Стоит ли пытаться? За что следует бороться?
 
- The old man chuckled.  "The gods have an unusual origin, if
-some of the oldest tales are true.  The oldest inhabitants of
-this world -- no one seems to be sure what race they were -- had a
-system of myths that they believed in for a thousand years.
-The people of et'Ada believed for so long and so well,
-that their beliefs may, just may, have drawn upon the
-energies surrounding Tamriel to bring the gods themselves
-into being. If that is so, the conflict between the Light and
-the Dark provided the energy, and the et'Adans the structure,
-that created the gods of Tamriel.  No one really knows since
-it was so long ago and so little survives from that time. It
-no longer matters; the gods have their own existence now, and
-mostly align with the Light, except for a few who are, shall
-we say, a little ambiguous."
+-Я вижу, что твои способности к критике развиваются, Солара. Это хорошо. Ответ прост, но и в самом деле достаточно масштабен для простых смертных вроде нас. Свет и Тьма равны по силе и, возможно, этот конфликт никогда не разрешится. Смертные и существа Этериуса иногда могут чувствовать следы этих сущностей. В этом и заключается опасность, для большинства из нас Свет больше подходит, даже воодушевляет, и подталкивает нас к поведению, которое мы могли бы назвать добрым. Для созданий вроде нас Темнота ужасна. Тех, кто видел ее, эти видения доводят до безумия, а тем, кто не сошел с ума, лучше бы умереть. Тьма для нас — чудовищная пустота, пустота, которая засасывает в себя душу — чтобы сломать, искалечить и в итоге разрушить ее. То, что мы можем в ней видеть, кажется совершенным злом. Возможно, где-то еще это не так, но в нашем мире это именно так.
 
- "Why do we have to remember, Granther?  What is the danger
-you spoke of?  If the Light and Dark are so big and powerful,
-can we influence them?  Should we try? What should we fight
-for?"
+Старик остановился, чтобы собраться с мыслями, уставившись снова на весеннюю зелень.
 
- "I see that your critical faculties are developing,
-Solara. That is good. The answer is simple, but quite large
-enough for mere mortals like us. The Light and Dark are
-evenly matched, and perhaps will never resolve their
-conflict.  Mortals and the beings of the Aetherius sometimes
-can perceive traces of them. Therein lies the danger; to most
-of us the Light is more congenial, even inspiring, and moves
-us to behavior that we would call good. To creatures like
-us, the Dark is  --  horrible. Those who have visions of it are
-often driven mad, and the ones who are not would be better
-dead. The Dark is to us a monstrous emptiness, an emptiness
-that sucks the soul toward it -- to be twisted, maimed, and
-ultimately destroyed.  What we can see of it seems utterly
-evil. Perhaps somewhere else this would not be so, but in our
-world, it is."
+-Что мы должны делать, так это никогда не забывать, что Тьма всегда рядом, манящая к себе слабые души. Приобрети она господство над Тамриэлем через своих посредников, испорченных ее страшными соблазнами, могли бы произойти жуткие вещи. Все, что мы считаем прекрасным или желанным, даже сама любовь, будет сметено. Мир и надежда больше не будут существовать. Для Тамриэля это была бы худшей из возможных катастроф. То, что я видел во времена правления Джагара, почти убило меня, почти разрушило мой разум. Когда Джагар был уничтожен, я думал, самое худшее позади, но не тут-то было. Силы Тьмы снова подняли голову, и новые герои должны встать, чтобы присоединиться к Вечному победителю в борьбе против них.
 
- The old man paused to gather his thoughts, gazing once more
-at the fresh new life of spring.
-
- "What we must do is never to forget that the Dark is always
-there, beckoning to the weak-souled among us.  Should it gain
-ascendancy over Tamriel, through agents perverted by its
-awful attraction, terrible things could happen. All that
-we hold beautiful or desirable, even love itself, would be
-swept away. Peace and hope would be no more. For Tamriel,
-that would be the worst possible disaster. What I saw during
-Jagar's reign nearly killed me, almost destroyed my mind. 
-When he was destroyed, I thought the worst was over, but it
-was not.  The forces of the Dark are on the march again, and
-new heroes must rise to join the Eternal Champion in the fight
-against them."
-
- The old man and the two children sat in silence for several
-minutes.  Finally, the children assisted their grandfather
-to his feet, and they walked slowly away. Toward home, and
-hearth, and lunch.
-
-
-
- 
+Старик и двое детей посидели несколько минут в тишине. В конце концов, дети помогли дедушке встать на ноги, и они медленно двинулись прочь. К дому, домашнему очагу и обеду. 

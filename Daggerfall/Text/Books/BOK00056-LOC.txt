@@ -1,88 +1,37 @@
-Title: Confessions of a Thief
-Author: Anonymous
+Title: Исповедь вора
+Author: Аноним
 IsNaughty: False
 Price: 695
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Confessions
-
-[/center]Of A
-
-[/center]Thief
-
-
+[/center]Исповедь вора
 
 [/font=4]
 
+Я вор. Вот, только не поймете меня непрвильно. Я не говорю это с гордостью, но я также не стыжусь своего занятия. Воры имеют абсолютное право существовать в Империи. Люди говорят, что мы бесчестны. Конечно, эти люди обычно также торговцы или жрецы, что реально убивает меня. Вид змеи, которая называет червя безногим.
 
+Правители любят нас. Управляемая преступность это хорошо для экономики. Трюк заключается в сохрании в этом равномерного темпа, со своевременным затишьем и незначительным колебанием в сохранении жирных низов от становления самовольными. Конечно, тупые, но талантливые воры будут продолжать воровать, опустошать свои карманы и воровать ещё больше. Это нехорошо ни для кого. Это момент, когда в дело вступают гильдии.
 
-[/center]     I'm a thief. Now, don't get me wrong. I ain't saying this
-out of pride, but I ain't ashamed of my occupation neither.
-Thieves got a perfect right to exist in the Empire. People
-say we're dishonest. Of course, those people are usually
-either merchants or priests, which really slays me. Sort of
-the snake calling the worm legless.     Rulers like us. Crime
-in moderation is good for the economy. The trick is to keep it
-at a good even pace, with a well timed lull and a minor
-wave to keep the fat bottoms from becoming compacent. Of
-course, stupid, but talented thieves will keep stealing,
-empty their pockets, and steal some more. This ain't good
-for no one. That's where the guilds come in.     A thieves guild
-is what they call a crime regulator. We protect each other
-and punish the clumsy and greedy. The kings depend on us to
-keep the amateurs out of business.     Yeah, occasionally, a
-king will come down on us. I've even seen my Thieves
-Guildmaster get himself stuck in prison once or twice. Some
-cohort of mine said her first Guildmaster got himself hanged.
-Then the Thieves Guild has to get foul on the king, and, let
-someone who knows tell you, the results ain't pretty.     I
-got into the guild, the way I've seen most thieves do it. It
-was a few years back, when that bully Jagar Tharn was sitting
-on the throne only everyone thought he was the Emperor. My
-parents farm turned into eight acres of dust and rock, and
-they threw me and my brothers out. I was always a skinny
-thing, but by the time I made it to the closest town, I was a
-good deal more skinnier.     Just cause the town had some dirt
-that plants could grow on didn't make them that much richer
-than my folks were. I tried to get all kinds of jobs, but the
-hungrier and more raggedier I got, the quicker anyone who
-might have work would kick me out. When the rainy season
-finally came, it came like a sea, and I didn't have nowhere to
-stay. Lucky I found the unlocked cellar door.     Turns out
-that the owners of the house slept like old dogs, cause I
-robbed them blind (and tripped into things like I was the
-blind one) and they never woke up. I sold all the stuff at a
-dirty pawners I knew and spent the next two days living like a
-potentate. Then I got my first visit from the local thieves
-guild.     I remember what the guy looked like, but not
-exactly what he said. Something like, "Hey, kid, if you want to
-steal in these parts, you're going to have to join the Guild.
-Otherwise, I or someone like me is going to break your skinny
-arms so you can't steal."     I've know some people who've
-refused membership in the Guild and kept on stealing anyhow.
-I've broken someone of their arms. As for me, this was the first
-offer I'd had for a career since my pa told me that if I
-didn't milk the cow, he'd rip my head off. In comparison, this
-guy at the tavern was almost a gentleman. I agreed right
-away.     Sure, I had to prove my worth to the Guild before I
-could join and even now. But having two working arms is only
-part of the benefit. They trained me, taught me, and kept me
-out of prison. How many other guilds can boast a forgery
-expert on the premises?     So the next time you're calling
-some swindling merchant or usurious priest a thief, think
-about it. There is honor among thieves -- I should know. 
+Воровские гильдии это то, что называют регулятором преступности. Мы защищаем друг друга и наказываем неловких и жадных. Короли полагаются на нас в том, чтобы держать новичков подальше от бизнеса.
 
-     
+Да, временами, король обрушивается на нас. Я даже видел моего Воровского Гильдмастера давшим себя засадить в тюрьму раз или два. Кое-кто из моей компании говорил, что её первый Гильдмастер дал себя поймать. Потом некоторые Вороские Гильдии запачкали свою репутацию перед королём, и, позвольте сказать человеку, который знает, результаты были не самыми хорошими.
 
+Я попал в Гильдию тем же образом, каким большинство в неё попадает. Это было несколько лет назад, когда этот хулиган Ягар Тарн сидел на троне, но все думали, что он Император. Ферма моих родителей превратилась в девять акров песка и камня, и они вышвырнули меня и моего брата. Я всегда был тощим парнем, но ко времени, когда я добрался до ближайшего города, я стал гороздо более тощим.
 
+Просто по причине, что город имел немного земли, на которой мог всходить урожай, местные были ненамного богаче, чем мои предки. Я попытался найти все виды работы, но чем больше я становился голодным и изношенным, тем быстрее те, кто мог предоставить работу, вышвыривали меня. Когда пришёл сезон дождей, он нахлынул словно море, и мне было негде остановиться. К своей удаче Я нашёл незакрытую дверь от погреба.
 
+Оказалось, что хозяева дома спали как старые псы, и по-этому я вслепую их ограбил (и врубился в то, что это я был слепым), и, конечно, они не проснулись. Я продал всё грязным дельцам, которых я знал, и провёл следующие два дня, живя, как король. Потом ко мне в первый раз пришли из местной гильдии воров.
 
+Я помню, как тот парень выглядел, но то, что именно он говорил. Что-нибудь в духе, «Эй, парень, если ты хочешь здесь воровать, то ты должен вступить в гильдию. В ином случае я или кто-нибудь вроде меня сломает твои тощие ручки, и ты никогда больше не сможешь воровать».
 
+Я знаю людей, отказавшисься от членства в Гильдии и всё ещё занимающихся воровством.
 
+Некоторым я сломал их руки. Как по мне, это было первое предложение карьеры с времён, когда мой батя говорил мне, что если я не буду доить корову, то он оторвёт мне голову. В сравнении парень в таверне был практически джентлменом, и я сразу же согласился.
 
- 
+Конечно, мне нужно было доказать свою ценность для Гильдии, прежде чем я вступил и я доказываю её даже сейчас. Но обладать двумя рабочими руками это только часть успеха. Они тренировали меня, учили меня и держали подальше от тюрьмы. Как много других гильдии могут похвастаться экспертом подделки в обладании?
+
+Итак, когда вы в следующий раз назовёте мошенничающего торговца или жреца-ростовщика вором, подумайте. Среди воров есть честь — я должен знать.

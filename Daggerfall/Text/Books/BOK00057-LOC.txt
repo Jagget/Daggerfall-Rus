@@ -1,99 +1,34 @@
-Title: Vampires of the Iliac Bay, Part I
-Author: Anonymous
+Title: Вампиры Залива Иллиак, т.1
+Author: Неизвестный автор
 IsNaughty: False
 Price: 429
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Vampires
-
-[/center]of the
-
-[/center]Iliac Bay,
-
-[/center]Part I
-
-
+[/center]Вампиры Залива Иллиак
+[/center]Часть 1
 
 [/font=4]
 
-[/center]
+На Тамриэле существует более сотни различных видов вампиров. Один только регион Илиакского залива имеет девять разновидностей, с присущими только им силами и способностями. Я говорю так не только потому, что исследовал эту болезнь мира в течении последних десяти лет моей жизни, но и потому, что предыдущие семь лет я был одним из этих созданий.
 
-[/center]     There are over one hundred distinct kinds of vampire in
-Tamriel. The Iliac Bay region alone has nine variations with
-unique powers and abilities. I have this information not
-only because I have been researching this blight of the world
-for the last ten years of my life, but because for the seven
-years before that, I was one of the creatures.
+Вампиризм — это болезнь, подобно мозговой гнили или холере, но намного, намного коварней. Определенные магические предметы или проклятие могущественного чародея могут превратить вас в вампира, но чаще всего причиной этой болезни является укус или царапина, нанесенная вампиром. Никаких симптомов вампиризма не существует, кроме одного: если жертва после нападения вампира, но до того, как сама станет вампиром, спит, во сне ее будут мучить кошмары.
 
-     Vampirism is a disease, like brain rot or cholera, but
-far, far more insidious. One can become a vampire through
-certain magical items or by the curse of a powerful wizard,
-but the most common cause is the bite or scratch of a vampire.
-There are no symptoms of vampirism except this -- if the
-victim sleeps after the attack but before he becomes a
-vampire, his sleep will be plagued with nightmares.
+В течении этого двух-четырехдневного периода, когда болезнь распространяется, но жертва все еще остается простым смертным, проклятие вампиризма может быть снято большинством храмовых целителей. Больше причин для беспокойства не будет.
 
-     During this two to four day period, when the disease has
-been spread but the victim is still mortal, most any temple
-healer can remove the curse of vampirism. There will be no
-further warning.
+Как я умер, я не помню. Я был разведчиком одного рыцарского ордена, название которого я не стану упоминать. Дочь местного аристократа была похищена некой таинственной личностью, а мой капитан вычислил его убежище. Я рыскал по глубокому, сырому подземелью до тех пор, пока не нашел девушку. Или того, что от нее осталось: тело цвета снега, так как кровь была высосана до последней капли. Я знал, что этот таинственный человек был в тот момент где-то справа от меня, но он нашел меня прежде, чем я нашел выход оттуда. Он выдрал большой кусок из моей правой руки прежде, чем я ухитрился опередить его. Я понял, что мне повезло остаться в живых. В некотором роде повезло.
 
-     I do not remember dying. I had been a scout for an order
-of knights which shall go nameless for this. A daughter of a
-local nobleman had been kidnapped by a mysterious
-character, and my captain had located his hideout. Deep in
-the dank underground chambers, I searched until I found the
-girl. Or what remained of her, a corpse the color of snow,
-drained of every drop of blood. I knew what the mystery man
-was right then, but he found me before I found the exit out.
-He took a good sized hunk out of my fighting arm before I
-managed to outrun him. I figured I was lucky to be alive.
-Some luck.
+Мой обратный путь в рыцарский орден занимал пять дней. Я решил в ближайшее время немного отдохнуть, чтобы привести мою руку в лучшее состояние на тот случай, если я столкнусь еще с какими-нибудь неприятностями. Я не могу вспомнить снов, которые видел в ту ночь — только, что я делал что-то ужасное и не мог остановиться. Я с воплем проснулся. На следующую ночь в трактире чуть ближе к месту моего назначения, я спал спокойно и без сновидений. На третью ночь я умер.
 
-     My trip back to the knightly order was a five day journey.
-I decided to get some rest early to get my arm in better shape
-in case I found any more trouble. I can't remember the dreams
-I had that night -- only that I was doing something horrible
-and I couldn't stop myself. I woke up screaming. The next
-night, at an inn a little closer to my destination, my sleep
-was deep and dreamless. On the third night, I died.
+Конечно, я не знал, что я умер. Я улегся в уютную пуховую кровать а проснулся на холодной мокрой могильной плите. Изумленный, я открыл дверь в склепе, в котором я был, который, я думаю, должен быть заперт. Я был на кладбище недалеко от знакомого мне городка, поэтому я побрел туда. Была поздняя ночь, и на улицах почти никого не было. Я задержался прочесть листок с заметкой, висевший на стене, и обратил внимание на дату. Было на две недели позже, чем по моим подсчетам, должно было быть.
 
-     Of course, I didn't know that I died. I had gone to sleep
-in a nice warm feathered bed and I woke on a cold wet stone
-mortuary slab. Dazed, I opened the door to the masoleum I
-was in, which I think must have been locked. I was in a
-cemetary not far from a town I knew, so I wandered in. It
-was late at night, so there were precious few souls in the
-streets. I paused to read a public notice and noticed the
-date. The date was two weeks later than I thought it must have
-been.
+Пока я ломал над этим голову, я увидел девушку, служанку из моей любимой таверны в этом городе, бредущую по направлению ко мне. Я окликнул ее. Она не обратила на меня внимания. Я позвал ее по имени, и она повернулась ко мне, улыбаясь, но ее выражение лица сказало мне, что она не знает, кто я такой. Я посетил ее таверну по пути к убежищу таинственного человека, но она не узнала меня!
 
-     As I puzzled over that, I saw a girl, a wench at my
-favorite tavern in that town, wandering toward me. I hailed
-her. She ignored me. I called her by her name, and she turned
-to me, smiling, but with an expression that told me she did
-not know who I was. I had visited her tavern on my way over to
-the mystery man's hideout, but she didn't know me!
+Я представился. Она в гневе сказала мне, что это очень неудачная шутка, я совершенно не похож на того храброго рыцаря, который имел обыкновение посещать городок, и что, если я до сих пор не в курсе, он умер.
 
-     I told her my name. She angrily told me that it was a very
-poor joke, that I looked nothing like the brave knight who used
-to visit the town, and that if I didn't know he was dead.
+Мои чувства было сложно передать. Я мог сказать, что она была искренна, когда говорила, что я не похож на себя. Я был тронут ее печалью о моей смерти, и ужаснулся осенившей меня догадки по поводу того, кем же я стал. Внезапно всепоглощающий инстинкт овладел мной — голод. Не думая о том, что я делаю, я потянулся и разорвал ей горло. Я высосал ее до последней капли, пока она не стала походить на тело в подземелье той таинственной личности.
 
-     My emotions were a tangled skein. I could tell she was not
-joking, that I looked nothing like myself. I was touched by her
-sorrow at my death, and horrified by the idea dawning on me
-of what I had become. Suddenly, an overriding instinct
-overcame all my thoughts -- hunger. Without even thinking
-about what I was doing, I reached out and tore her throat
-open. I drained her until she looked like the corpse in the
-mystery man's dungeon.
-
-     The rest of my story is told in Vampires of the Bay,
-Chapter II.
-
- 
+Окончание моей истории будет во второй главе «Вампиров залива». 
