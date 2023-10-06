@@ -1,150 +1,40 @@
-Title: Mara's Tear
-Author: Zhen
+Title: Слезы Мары
+Author: Жен
 IsNaughty: False
 Price: 484
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
-
-[/center]Mara's Tear
-
-
+[/center]Слезы Мары
 
 [/font=4]
 
-[/center]
+Ну, ребятки, если вы собрались и приготовились слушать, я расскажу вам историю о слезах Мары и печали Шандара…
 
-[/center]
+Давным-давно, задолго до того, как родились я и ваша бабушка, в одной деревне очень далеко отсюда жили двое детишек. Они вместе играли и вместе бегали по лесам, изучая свой маленький мир, и учились смотреть на вещи глазами друг друга. И в этом они сильно отличались от своих родителей, потому как Шандар был сыном захваченного в плен во время войны Малдора, а ныне раба для деревенского барона. Двум расположенным по соседству деревням нужна была земля под посевы, и обе они претендовали на приграничные земли. Дело дошло до войны, и в затянувшемся этом споре нашли свою смерть многие из сельчан. Малдора ранили в одной из битв, и его соратники бросили его на поле битвы. Он был взят в плен и был вынужден работать в поле на барона. Шандару было запрещено играть с Марой, однако Мара была слишком маленькой, и другие дети играть с ней не хотели. Так что она играла с Шандаром вопреки приказу собственного отца. И так, играя, они поняли, что на самом-то деле они не так уж и отличаются друг от друга. И не могли понять, почему же их родители так ненавидят друг друга.
 
- Well, children, if you all gather round, and sit quietly,
-I'll tell you the story of Mara's Tear and Shandar's Sorrow
-...
+Ну так вот, много лет Шандар и Мара играли вместе, и, повзрослев, полюбили друг друга. Но они понимали, что их родители знать об этом не должны, потому что им никогда не позволят пожениться, ведь они были из враждебных деревень, а эта война все еще шла. Они пытались найти для себя какой-нибудь выход, что-то, что позволило бы им счастливо жить вместе, и в конце концов пришли к выводу, что они должны бежать из деревни. Они бы попытались начать новую жизнь в другой деревне, далеко-далеко от той, где они выросли.
 
- Long, long ago, long before your grandmother and I were
-were born, long ago, there were two young children growing
-up in a village far, far from here. They played together,
-and ran through the woods together, exploring their little
-world and learning to see things through each other's eyes.
-This was very different from their parents because Shandar
-was the son of Maldor, who was captured in a war and forced
-to work as a slave for the village baron. Their village and
-another both needed the land between them to feed the
-villagers, and fought and fought, until many of the
-villagers died. Maldor was wounded in battle, and left for
-dead by his fellows. He was captured and forced to work in
-the fields as punishment. Shandar was not allowed to play
-with Mara, but she was very small and the other children
-didn't like to play with her, so she played with Shandar
-against her father's command. And they learned that they
-were really not very different at all. They couldn't
-understand why their parents hated each other so.
+Однажды ночью, когда они планировали свой побег, их обнаружила городская стража. Шандар пытался вырваться, но его связали и поволокли в местную тюрьму, а Мару отвели домой. Ее отец страшно на нее рассердился, и заявил, что больше не позволит ей шагу ступить из дому. Он пошел к другому фермеру и спросил, не хочет ли его сын жениться на Маре. Он хотел, чтобы Мара больше никогда не увидела Шандара. Свадьбу решили сыграть на следующей неделе.
 
- Well, Shandar and Mara played together for many years,
-and learned to love each other as they grew up. They knew
-that they couldn't let their parents know, because it was
-forbidden for them ever to marry, since they were from
-different villages and the war was still going on. They
-tried and tried to figure out how they could be happy
-together, and finally decided that they must run away from
-their village. They would try to make a new life for
-themselves in another village, far, far away from where they
-grew up.
+А Шандара тем временем ждала смерть за то, что он осмелился встречаться с Марой. Его избили и бросили в тюрьму. А на следующий день его должны были повесить. Мара, узнав, что Шандара должны убить, поняла, что не сможет жить без него. Она выбралась из дома через окно и, заливаясь слезами, побежала в лес. Она бежала, сама не ведая куда, и вскоре заблудилась. Было темно, хоть глаз выколи, потому что в те давние времена в небе не было лун, которые бы освещали путь маленьким мальчикам и девочкам. И так она оказалась в совсем неизвестной ей части леса, уселась на камень передохнуть.
 
- One night, while planning their escape, they were discovered
-by the town guards. Shandar tried to fight them, but they
-tied him up and dragged him away to the prison inside town.
-Mara was taken home, and her father was very angry with her,
-and told her that she could not leave their home again. He
-went to the house of another farmer, and asked if their son
-would marry Mara, so that she could never see Shandar again.
-The marriage was planned for the next week.
+Ну, а этот кусок скалы был тайным входом в пещеру, в которой жил очень подлый орк. Вернувшись с охоты, он обнаружил на скале спящую свернувшись калачиком Мару и подумал про себя: «Хмм, маленькая вкусная девочка. Вот мне и завтрак!» Он схватил ее и поволок в пещеру, задвинув за собой камень, чтобы она никуда не сбежала. Мара не сомневалась, что ее ждет неминуемая смерть. Она пыталась выбраться из пещеры, а злой орк только смеялся над ее усилиями. В конце концов она прекратила эти попытки.
 
- Shandar, meanwhile, was to be killed for daring to be with
-Mara. He was beaten, and placed in a stockade. He was placed
-in a stockade, and they were to hang him the next day. When
-Mara found out that Shandar was to be killed, she knew that
-she could never live without him, and climbed out her
-window and ran into the woods, crying and crying. She ran
-and ran, and soon was lost. It was very dark, because back
-then they did not have any moons in the sky back then to make it
-safe for little boys and girls. Soon she found herself in a
-part of the woods she had never been before, and sat down on
-a rock since she was very tired.
+Когда жители деревни обнаружили, что Мара сбежала, они очень встревожились. Ни один из них не знал лес настолько, чтобы отправиться на поиски Мары. Кроме того, все боялись жившего там злого орка. Не боялся только Шандар, и он снова и снова умолял барона отпустить его на поиски Мары. В конце концов барон решил отправить Шандара искать Мару, потому что кроме него не нашлось храбрецов, вызвавшихся спасти Мару. Шандара освободили, и он отправился в лес.
 
- Well, the rock was a secret entrance to a cave where a very
-mean orc lived. When he came back from his hunting, he found
-Mara curled up asleep on his rock, and thought to himself,
-"Hmmm, a tasty little girl. I shall save her for my
-breakfast!"
+Сколько Шандар ни искал, Мара как сквозь землю провалилась. В конце концов, совсем выбившись из сил, он сел на скалу, и не успел он сесть, как заметил под камнем кусочек ткани. Это был обрывок плаща Мары! Он понял,, что ее схватил орк и она должна быть где-то там, под скалой. Он уперся в камень, и в конце концов смог откатить его в сторону. Затем он спустился вниз, в пещеру орка, но там было так темно, что он ничего не видел. Злой орк, услышав, что его передняя дверь открывается, спрятался, решив посмотреть, кто же это входит в его дом. Когда он увидел, что это просто молодой мужчина, можно даже сказать мальчик, он ухмыльнулся про себя и подумал: «Ну, теперь у меня есть и обед!»
 
- He grabbed her and took her into his cave, moving the rock back
-so that she could not escape. She was sure to die, and tried
-to escape, but the evil orc just laughed and laughed at her,
-until she finally gave up.
+Когда Шандар подошел поближе, орк обхватил его своими лапищами и сжал так сильно, что у Шандара ребра затрещали.
 
- When the villagers found out that Mara had run off, they
-were very worried. No one knew the woods very well, and all
-were afraid of the evil orc that lived there. Only Shandar
-was not afraid, and he begged and begged for the baron to
-set him free, so that he could go look for Mara. The Baron
-finally decided to let Shandar go, for no one else was
-brave enough to go and rescue Mara. So Shandar was set free,
-and he set off into the woods to go and rescue her.
+А тем временем люди в древне поняли, какую глупость они совершили, позволив молодому человек одному пойти в лес. Они вооружились кто чем смог и отправились искать двух своих потерявшихся детей. Когда они после долгих поисков вышли на полянку, рядом с которой была пещера орка, им предстало странное и удивительное зрелище: у входа в пещеру лежал убитый орк, а рядом сидела Мара и лежал несчастный Шандар, его голова покоилась у Мары на коленях. Шандар все-таки убил орка, но тот успел смертельно его ранить.
 
- Shandar searched and searched, but could not find poor
-Mara. Finally, he sat down on a rock to rest for a moment,
-and as he sat down, he noticed a piece of cloth under the rock.
-It was a piece from Mara's cloak! He realized that she must be
-under the rock somehow, and knew that the orc had captured her.
-He pushed and pushed on the rock, and finally was able to
-roll it aside. He climbed down into the orc's cave, but it was
-very dark, and he could not see anything. The evil orc, when
-he heard his front door moving, hid in the shadows to see what
-was coming into his home. When he saw that it was just a
-little man-boy, he grinned to himself and thought, "Now I have
-lunch, TOO!" 
+Из глаз Мары струились слезы и, посверкивая в свете факелов, падали на лицо Шандара. Шандару было горько от мысли, что он спас Мару только для того, чтобы вновь потерять ее, на этот раз из-за своей собственной неминуемой смерти. Он воззвал к тезке Мары, богине любви, моля ее о помощи.
 
- When Shandar came near, the orc grabbed him, and began to
-squeeze the life out of him.
+Богиня Мара увидела, что эта любовь — настоящая, и их горе опечалила ее. У нее не было власти над смертью, и она ничего не могла сделать для спасения Шандара, но она твердо знала, что не может позволить погибнуть такой любви.
 
- Back in the village, the people soon realized that they were
-foolish to let a young man go off into the woods by himself.
-They gathered all of their weapons, and set off to find the
-two lost children. When they finally came upon the clearing
-near the orcs' cave, they saw a strange and wondrous sight: A
-slain orc near the entrance to the cave, and Mara holding
-the head of poor Shandar in her lap. Shandar had killed the
-orc, but not before the it gave Shandar a mortal wound.
+Она потянулась с небес, взяла Мару и Шандара и поместила их на небо. Здесь они вечно могли быть вместе и светить в темные ночи другим, уберегая других людей от зла этого мира. Жители деревни пришли в изумление при виде этого чуда и поклялись честью, что будут почитать Шандара и Мару и постараются получше узнать себя и своих соседей, чтобы это долгая-предолгая война, начала которой никто уж и не помнил, наконец закончилась. То, что Шандар пожертвовал жизнью ради любимой, показало им, что и он достоин их уважения и что жители его деревни были такими же гордыми и достойными уважения, как и они сами.
 
- Mara's tears flowed freely from her eyes and splashed upon
-Shandar's face, reflecting the light from the villager's
-torches. Shandar was filled with sorrow at the thought that he
-had saved Mara, only to lose her because of his own impending
-death from the battle with the orc. He cried out to Mara's
-namesake, the goddess of love, to help them.
-
- The Goddess Mara recognized their true love and wept at
-their loss. Not having power over death, she could do
-nothing to save Shandar, but she knew that she could not let
-their love die. She reached down from the heavens and picked
-up Mara and Shandar in her arms, and placed them high in the
-heavens. They could be together always, and provide light
-in the dark night to others so that they may be safe from the
-evils in the world. The villagers were amazed at this sight,
-and vowed to honor the love of Shandar and Mara by
-learning more about themselves and their neighbors, so that
-the war that had been going on as long as anyone could
-remember would end. Shandar's sacrifice for the one he
-loved showed them that he was worthy of their respect, and that
-those from his village were just as proud and worthy as
-themselves.
-
- And, that's why, children, every night we can see Mara's Tear
-and Shandar's Sorrow spending their lives together high in the
-heavens, lighting the way for all the little boys and girls
-like you.
-
- 
+Потому-то, дети, каждую ночь мы можем видеть Слезы Мары и Печаль Шандара, живущих вместе высоко на небе и освещающих путь всем маленьким мальчикам и девочкам, вот таким, как вы.

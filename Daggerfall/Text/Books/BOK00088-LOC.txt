@@ -1,892 +1,484 @@
-Title: Fools' Ebony, Part the Sixth
-Author: Frincheps
+Title: Эбонитовая обманка, ч.6
+Author: Фринчепс
 IsNaughty: False
 Price: 317
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Fools' Ebony,
-
-[/center]Part the
-
-[/center]Sixth
-
-
+[/center]Эбонитовая обманка, ч.6
 
 [/font=4]
+Часть Шесстая — Даггеpфол и его окpестности в смутные вpемена 3-ей Эpы
 
+Сцена 1: Спальня Авантюриста, постоялый двор Мертвая Даэдра.
 
+Входят Пролог, Авантюрист и Орто. Орто забирается в постель.
 
-[/center] Dramatis Personae
+Пролог: благодарю вас за то, что вы дали нам время сменить декорации в то время, как наш бард исполнял эту старинную и всеми любимую «Здравствуй И Прощай.» А теперь представьте себе, если желаете, роскошную и просторную спальню этого проходимца Темного эльфа Авантюриста на постоялом дворе Мертвая Даэдра. Время действия вскоре после последней сцены, которая, если вы подзабыли, кончилась тем, что наш герой и его подельник Нефрон договорились надуть магов, жрецов и оружейников. Все заинтересованные в том, чтобы наложить руки на залежи эбонитовой Обманки, чудесного горючего минерала, короче, и жрецы, и маги считают Авантюриста своим союзником. Оружейники осведомлены лучше и поэтому приставили одного из своих подмастерий, Орто, следить за Авантюристом. Теперь, когда Орто уснул, Авантюрист впервые расслабился за последние несколько дней. Должен сказать, что из соображений элементарных приличий эта сцена была значительно урезана Гильдией Писателей, Актеров и Драматургов. Теперь она содержит гораздо меньше заслуживающих внимания моментов. Полную копию можно будет получить от автора после представления всего за каких-то 50 золотых. А сейчас настала пора бедному Прологу удалиться.
 
- Prologue The Adventurer, A Dark Elf Rascal Komon, A Priest
-of Akatosh Lheban, Another Priest of Akatosh Epilogue Stete, A
-Priest of Julianos Raic, Another Priest of Julianos Shub, A
-Mage Shub, A Different Mage of the Same Name Nephron, A
-Somewhat Sleazy Merchant 5 Armorers Ortho Crunn, Husband of
-Millie A Lusty Contessa Millie, Innkeep and Philosopher
-Gurnsey, Bovine Wench Assorted Wenches and Cads of the
-Taverns Soldiers Dwarves Giants
+(уходит Пролог) (Авантюрист начинает раздеваться)
 
+(стук в дверь. Авантюрист подскакивает от неожиданности) (слышится храп Орто)
 
+Авантюрист: Кто там? Я сейчас!
 
- Daggerfall and Environs in the Doldrums of the 3rd Era
+(дверь осторожно открывается) (входит Принцесса)
 
- Scene 1: In The Adventurer's suite at the Dead Daedra Inn.
+Авантюрист: Ээ, что ж… ээ… Входи! Прошу.
 
- Enter Prologue, the Adventurer, and Ortho. Ortho climbs
-into bed.
+(Авантюрист отступает назад, спотыкаясь в своих брюках, надетых чуть выше колен)
 
-       Prologue: Thank you for allowing us the time to change
-the meager set, while our bard sang that old favorite, "Hail
-and Farewell." Now then, imagine, if you will, the
-luxuriant and langorous suite of that Dark Elven rogue, the
-Adventurer, at the Dead Daedra Inn. The time is shortly
-after the last scene, which if you've forgotten, ended with
-our hero and his partner-in-crime, Nephron, making some
-arrangements to swindle from the mages, priests, and
-armorers. All are interested in getting their hands on a
-lode of Fools' Ebony, a miraculous burning mineral, and the
-priests and mages each consider the Adventurer their ally.
-The Armorers know better and have assigned one of their
-apprentices, Ortho, to watch the Adventurer's movements.
-Now, as Ortho slumbers, the Adventurer has his first moment
-of peace in days. I should mention that in the interest of
-common decency, this scene has been abbreviated from the
-original by order of the Guild of Playwrites, Actors, and
-Dramatists. It now contains little material of relevance.
-A full copy may be obtained from the playwrite after the
-show for a mere 50 g.p. copying fee. Now is the time for
-poor Prologue to shuffle away.
+Принцесса: Извини, что напугала тебя, но я думала, что мы придумаем что-нибудь сообща… Ой! Бедняга, да ты ранен! Ну-ка, дай я наложу эту повязку… рана выглядит совсем свежей.
 
- (Exit Prologue) (The Adventurer begins to get undressed)
-(Tap-tap at the door. Adventurer jumps, startled) (Snore
-from Ortho)
+(накладывает повязку, делая это довольно умело)
 
-       Adventurer: Who's there? I'm coming!
+Авантюрист: Ну, я… только что снова ее разбередил. Вечерние упражнения, гимнастика и все такое…
 
- (Opens door - carefully) (Enter Contessa)
+Принцесса: Как ты заполучил этот порез, если ты не возражаешь против этого вопроса?
 
-       Adventurer: Er, well ... er ... Come In! Please.
+Авантюрист: Нет, совсем нет. Я… недавно дрался. Эти трое сумасшедших напали на меня.
 
- (The Adventuer steps back, tripping over his trousers
-around his ankles ...)
+Принцесса: В самом деле? Этот лоскут похож на часть одеяния Мага.
 
-       Contessa So sorry to surprise you, but I thought that we
-might find something in common ... Oh! You poor man, you
-have a wound!  Here, let me fix that bandage ... it looks
-very fresh.
+Авантюрист: Ну, да, двое из них были Магами.
 
- (Fixing bandage, properly this time)
+Принцесса: Вот это да! Ты должно быть хорошо сражаешься, раз ты сумел их победить.
 
-       Adventurer: Well, I ... just opened it up again.
-Evening exercises, calisthenics, so on...
+Авантюрист: О, а, ну, я участвовал в паре драк. Боюсь показаться назойливым, но кто ты?
 
-       Contessa: How did you get this cut - if you do not mind me
-asking?       
+Принцесса: Ой, прошу прощения, я совсем забыла представиться. Я принцесса Эвитта Вайдспред — зови меня Эйв. Из Двора Даггерфола.
 
-       Adventurer: No, not at all. I was ... in a fight,
-earlier. These three crazy people jumped me.
+Авантюрист (в сторону): Во имя Обливиона, теперь-то что?
 
-       Contessa: Really?  This cloth looks like part of a Mage's
-robe.
+Принцесса: Ну ка, помоги мне снять это платье, в этих комнатах всегда так… так жарко. Дай, я проверю эту повязку еще раз, бедняжка. Ооо, ты носишь эбонитовый Пояс Стойкости и Нарукавники Силы. Ооо, Браслет Выносливости. Сегодня у меня удачный вечерок.
 
-       Adventurer: Well, yes, two of them were Mages.
+Авантюрист (в сторону): Помогите.
 
-       Contessa: Oh My! You must have been very good, to defeat
-them.
+Принцесса: Позволь, я помогу тебе снять эту старую рубашку — надо проверить, нет ли у тебя еще порезов — они так быстро начинают гноиться, знаешь ли.
 
-       Adventurer: Oh, ah, well, I've been in one or two
-fights. Not to be rude, but who are you?
+Авантюрист (в сторону): Ладно, на этот раз хоть не Оружейники. Возможно, мне улыбнулась удача.
 
-       Contessa: Oh, I am so sorry, I quite forgot the proper
-introductions. I am the Contessa Aveet Videspreed -- call me
-Ave.  From the Court at Daggerfall.
+Принцесса: Ну, похоже все в порядке… даже очень в порядке, по правде говоря…
 
-       Adventurer       (aside) By Oblivion, what now?
+Авантюрист: Ээ… ну, Эйв, расскажи мне… ээ… о себе.
 
-       Contessa: Here, help me off with this robe, these inn rooms
-are always ... so hot. And let me check that bandage again,
-poor man. Ooh, you are wearing an ebony belt of stamina,
-and bracers of strength. Ooh, a bracelet of endurance. This
-is my lucky night.
+Принцесса: Если желаешь, но только немного…
 
-       Adventurer       (aside) Help.
+Авантюрист: Вот, выпей вина…
 
-       Contessa: Here, let me help you off with that old shirt -
-got to check you for any more cuts - they can go bad so
-easily, you know.
-
-       Adventurer       (aside) Well, its not the Armorers this
-time. Maybe my luck has turned.
-
-       Contessa: Well, everything seems all right...very all
-right, in fact...
+(входит Пролог)
 
-       Adventurer: Er...well, Ave - tell me about ... er ...
-yourself.           Contessa: If you want - just for a bit - 
-
-       Adventurer: Here, have some wine ...
-
- Enter Prologue
-
-       Prologue: Here our worthy playwrite's speech has been
-heavily edited by the Guild of Playwrites, Actors, and
-Dramatists. I will endeavor to fill in those removed
-passages. I should first mention that the Contessa is not
-meant to be a relative of any noble currently in Castle
-Daggerfall. The Contessa Aveet regales the Adventurer with
-tales of the peculiar and hearty members of her royal
-family. She has many brothers and sisters. They are all very
--- close.
-
-       Contessa: I think I must have been a bastard. I was the
-only one with red hair, and an affinity for magicka. Everyone
-else tried to hide this skill of mine. I remember one spanking
-very well ...
-
-       Prologue: The Contessa relates futher differences
-between her siblings.
-
-       Contessa: While my sisters were learning to curtsey in
-ten different modes, and my brothers were learning
-flower-arranging, I used to sneak off into the woods or town.
-I soon learnt how to get what I wanted, from just about
-anyone. Just for example, there was this merchant who had
-three sons ...
+Пролог: Начиная с этого места текст нашего достойного автора был значительно отредактирован Гильдией Писателей, Актеров и Драматургов. Я постараюсь восполнить для вас эти недостающие диалоги. Но сначала должен сказать, что Принцесса не является родственницей никому из ныне здравствующих членов королевской семьи Замка Даггерфол. Принцесса Эйв услаждает слух Авантюриста историями об эксцентричных и добрых членах ее королевской семьи. У нее множество братьев и сестер. Все они очень близки.
 
-       Prologue: The Contessa goes into detail about her
-training.
+Принцесса: Должно быть, я незаконнорожденный ребенок. Только у меня рыжие волосы и способности к магии. Все остальные стараются скрыть это мое умение. Я помню, одного очень сильно выпороли…
 
-       Contessa: I became quite good at the school of illusion.
-You never noticed me, downstairs, did you?. I also learned
-how to use some weapons. Let me tell you how I learned
-hand-to-hand ...
+Пролог: Принцесса касается дальнейших различий между ее братьями и сестрами.
 
-       Prologue: The Contessa relates an amusing anecdote, and
-then continues.
+Принцесса: В то время как мои сестры учились делать реверанс десятью различными способами, а братья учились составлять букеты, я обычно убегала в лес или в город. Я быстро научилась добиваться того, чего хочу, почти от кого угодно. Например, был там один торговец, у которого было три сына…
 
-       Contessa: And on bad days, I used to dig in my father's
-library. He had a marvelous collection of old texts. I was
-fascinated by Old Dwarvish, managed to learn it quite well,
-I think. Of course, no one has seen or spoken to one in years
-and years. So its probably perfectly useless knowledge.
-But I've always had an interest in collecting new
-knowledge. At the Mages Guild, they taught me an old High
-Elven tradition. You spread this potion all over your body
-...
+Пролог: Принцесса вдается в подробности своей тренировки.
 
-       Prologue: The Contessa relates her current state of
-boredom.
+Принцесса: Я неплохо научилась заклинаниям иллюзии. Ты же не заметил меня внизу, не так ли? Я также научилась владеть оружием. Давай я расскажу тебе, как я научилась драться в рукопашную…
 
-       Contessa: The life up at the Palace bores me so. My
-sisters ...
+Пролог: Принцесса рассказывает прелестный анекдот и затем продолжает.
 
-       Prologue: The Contessa's sisters are entertaining some
-visitors.
+Принцесса: А еще я любила копаться в отцовской библиотеке. Там было прекрасное собрание старинных текстов. Я была просто очарована Древним Гномьим и по-моему неплохо его выучила. Конечно, им никто не пользовался уже многие годы. Так что теперь это знание совершенно бесполезно. Но мне всегда было интересно овладевать новыми знаниями. В Гильдии Магов меня научили старинному обычаю Высоких эльфов. Ты размазываешь это снадобье по всему телу…
 
-       Contessa: And my brothers are now studying Advanced
-Floral Theory, so I come down here, do a little ... er ...
-business. I keep all my relations supplied with their
-favourite vices -- so I can blackmail the whole rotten lot.
+Пролог: Принцесса упоминает о том, как ей сейчас скучно.
 
-       Adventurer: But is'nt it dangerous, down here? Did I not
-hear that some young Contessa got killed, recently?
+Принцесса: Мне так надоела жизнь во Дворце. Мои сестры…
 
-       Contessa: That little twit was my cousin, and as far as
-I'm concerned, she got what she deserved. She thought  she could
-just borrow a maids dress, muss up her hair, and pass for s
-commoner. She was spotted the first minute she left the
-Palace gates. Now, I use illusion, craft, guile -- and I
-carry weaponry. By the way, that was a neat scheme you and
-Neph cooked up.
+Пролог: Сестры Принцессы в данный момент разввлекают каких-то приезжих.
 
-       Adventurer: Well, lets change the subject, can we? ...
-Just what do you carry? I can't see anything ... like a
-weapon, I mean ...
+Принцесса: А мои братья сейчас изучают Продвинутую Цветочную Теорию, поэтому я спустилась сюда, чтобы сделать одно маленькое… ээ… дельце. Я являюсь посредником моих родственников во всех их любимых пороках, так что я могу их всех разом шантажировать.
 
-       Contessa: Here, let me show you ...
+Авантюрист: Но разве не опасно здесь, внизу? Я слышал, что одну молоденькую Принцессу недавно убили?
 
-       Adventurer: Oh my, those are nice ... knives...
+Принцесса: Эта маленькая идиотка была моя кузина и, насколько мне известно, она получила то, чего заслуживала. Она думала, что достаточно всего лишь украсть платье служанки, взбить волосы, и она сойдет за обычную простушку. На нее обратили внимание в ту же минуту, как она покинула Дворец. Я же применяю иллюзии, умение и обман и ношу оружие. Кстати, отличное дельце вы состряпали с Нефом.
 
-       Contessa: And there're more ...             Adventurer: Oh yes
-...
+Авантюрист: Ладно, давай переменим тему. Какое оружие на тебе сейчас? Я ничего такого не вижу… в смысле, ничего похожего на оружие…
 
-       Contessa: But we don't need these silly nasty weapons
-now, do we?
+Принцесса: Вот, смотри…
 
-       Adventurer: My, my -- now those are what I call weapons
-... Oh yes ... heavy duty, high class ones too, my ...
+Авантюрист: О да, отличные… ножи…
 
-       Contessa: I think its time that we put that ebony to the
-test ... to say nothing of your Mages Staff ...
+Принцесса: А вот еще…
 
-       Prologue: At this point, extensive material has been
-removed. However, please remember that any scholar who
-truly wishes to peruse this material can obtain a copy for
-only 50 g.p. - hand-drawn illustrations are of course extra.
-The Contessa, after a bit of fun, volunteers to be a part
-of the Adventurer's party to find the fools' ebony lode. I
-know, I know. It didn't make much sense in the original draft
-either, if you want to know the truth.
+Авантюрист: О да…
 
- (Exit Prologue)
+Принцесса: Но нам же сейчас не нужно это глупое противное оружие?
 
-       Adventurer: Sure you want to go out there in the wilds?
+Авантюрист: О да, вот это я называю оружием… Да… сверхмощные штучки, высокий класс…
 
-       Contessa: Oh, yes. I am so bored here. Well, not right
-here and now, but generally. And I can really be of
-assistance. I'm pretty good with woods survival, knife
-work, hand-to-hand ... and it gets cold out there at night,
-even for big ebony-wearing men like you ...
+Принцесса: Настало время нам проверить эту эбонитовую штучку… и, разумеется, твой Магический Жезл…
 
-       Adventurer: All right, then. Do you know where and why we
-are going?
+Пролог: В этом месте значительная часть текста была вырезана. Однако, пожалуйста не забывайте, что любой желающий внимательно изучить этот материал, может получить копию всего за 50 монет, выполненные вручную иллюстрации разумеется идут за дополнительную плату. Принцесса, после небольшого развлечения, вызывается стать членом партии Авантюриста по нахождению залежей эбонитовой Обманки. Знаю, знаю. Зачем — непонятно, даже если читать оригинальный текст, по правде сказать.
 
-       Contessa: Oh, of course. It's all over Daggerfall.
-Everyone is watching and waiting to see what happens. There is
-even a lottery or two running ...
+(уходит Пролог)
 
-       Adventurer: On what ..?
+Авантюрист: Ты точно хочешь отправиться с нами в глушь?
 
-       Contessa: Oh, your life.
+Принцесса: О, да. Мне здесь так скучно. Ну, не прямо здесь и сейчас, а вообще. И я могу быть очень полезна. Я неплохо ориентируюсь в лесу, умею работать ножом, в рукопашной…а ночью там бывает прохладно даже для таких здоровых, увешанных эбонитом мужчин, как ты…
 
-       Adventurer: Oh dear Oh dear! Oh my!
+Авантюрист: Тогда ладно. Ты знаешь куда и зачем мы отправляемся?
 
-       Contessa: Look, don't worry -- I know all about the
-double-dealings with mages, priests, merchants, those crude
-armorers. And I intend that we come out on top. I love
-being on top. With the goods and the profits. I'll have yet
-another vice to sell to my stupid relatives in their boring
-palaces.
+Принцесса: О, ну конечно. Это всему Даггерфолу известно. Все следят и ждут, что будет дальше. Было даже одно или два пари…
 
-       Adventurer: But won't it be us two against hordes?
+Авантюрист: На предмет чего?..
 
-       Contessa: Oh no. Most everyone is waiting here in town to
-see what and who comes back. And I will have a surprise
-arranged for our 'escorts' - Ortho included. Out in the
-wilderness, they can be dealt with easily.
+Принцесса: Твоей жизни, конечно.
 
- (Ortho snores)
+Авантюрист: О боже, о боже! О мой бог!
 
-       Adventurer: Tell me more.
+Принцесса: Слушай, не беспокойся- мне все известно про двойные сделки с магами, жрецами, торговцами и этими неотесанными оружейниками. И я планирую так, что в результате мы с тобой окажемся на наверху. Я люблю быть наверху. С товаром и прибылью. И у меня появится еще один способ взять под контроль моих глупых родственничков в их скучных дворцах.
 
-       Contessa: Certainly. But first ... lets see how many
-uses you have left in that ebony. Mmm, your Mages' Staff is
-in good shape ...
+Авантюрист: А не будет ли это: мы вдвоем против толпы?
 
- (Enter Prologue)
+Принцесса: О нет. Почти каждый в здесь в городе выжидает, кто и что вернется обратно. А у меня припасен сюрприз для нашего ‘эскорта’, включая Орто. Там снаружи, с ними будет несложно управиться.
 
-       Prologue: Exactly. Sorry to interrupt again, but
-we're going to have to stop this scene right here. After a
-frenzied night comes the placid dawn, tripping onto the sky
-like a budding rose. And then another day doth dawn, and then
-another. Ten dawns and ten frenzied nights pass as our wily
-Adventurer, the wanton Contessa, the clever and naughty
-Nephron, the loutish Ortho, and an assemblage of randy
-armorers and backsliding maidens take to the road. Imagine
-now that we are in the wildy wilderness of High Rock near the
-Wrothgarian Mountains.
+(слышен храп Орто)
 
- Scene 2
+Авантюрист: Расскажи мне еще.
 
- (Enter Nephron and assorted lads and lasses) (Exit
-Prologue)
+Принцесса: Обязательно. Но сначала… проверим, насколько раз еще хватит этой черненькой штучки. Ммм, твой Магический Жезл в отличной форме…
 
-       Contessa: I do so love a bucolic frolic.
+(Входит Пролог)
 
-       Adventurer: It's getting pretty wild now. I guess the
-dangerous part is coming up tomorrow...?
+Пролог: В самую точку. Еще раз простите, что перебил, но мы вынуждены закончить эту сцену прямо здесь. После бурной ночи занимается безмятежный рассвет, расцветая на небе подобно розе. А затем еще один день и еще один. Десять дней и ночей проходят до того момента, когда наш коварный Авантюрист, страстная Принцесса, умный и коварный Нефрон, неповоротливый Орто и сборище буйных оружейников и непотребных девок отправляются в дорогу. Вообразите теперь, что мы в дикой глуши Скалистых Земель недалеко от Ротгарианских гор.
 
-       Contessa: Yes, one last stop tonight, at that old inn up
-here -- Minnie's Inn.
+Сцена 2
 
-       Adventurer: Minnie's Inn? Oh, those two old scholars who
-gave it all up, came to run the inn out here. they must get
-all of two customers a year.
+(Входят Нефрон и разные парни и девки) (уходит Пролог)
 
-       Contessa: I think they like the solitude. It gives them
-time to study. They know a lot about old Dwarvish stuff -- get
-them started on that, they will wear you ears out.
+Принцесса: Я так люблю игры на свежем воздухе.
 
-       Adventurer: Er ... when does your surprise happen? I
-should probably know.
+Авантюрист: Начинается довольно пустынная местность. Полагаю, опасная часть путешествия начнется завтра?…
 
-       Contessa: Don't fret, dear. At the Inn tonight. Just sit
-back and enjoy the show.
+Принцесса: Да, нам осталась всего одна ночная стоянка на этом старом постоялом дворе- У Минни.
 
- (Enter Prologue)
+Авантюрист: У Минни? О, эти двое старых ученых, которые отрешились от всего и решили содержать здесь постоялый двор. Да у них должно быть бывает не больше двух посетителей в году.
 
- Prologue: Time passes, the carts roll, things happen in the
-backs of the carts. And there are strange furtive movements
-unnoticed by all, on the high ridges around. When next we see
-our players, they are at Minnie's Inn, home of Minnie and
-Crunn, the philosopher- innkeeps. Imagine, if you will, the
-rather dusty dining room of Minnie's Inn.
+Принцесса: Я думаю, им нравится уединение. Оно дает им возможность заниматься наукой. Они многое знают о Гномах — только спроси их об этом, и они тебе все уши прожужжат.
 
- (Enter Minnie, Crunn, and Gurnsey) (Exit Prologue) (Gurnsey
-goes to Orthos' table with more ale for him. She sits down
-suddenly. She stares into Orthos'  eyes, Ortho stares into
-hers. Mouths drop open.)
+Авантюрист: Ээ… когда случится твой сюрприз? Я должен знать хотя бы примерно.
 
-       Minnie: ... er ... Crunn ...
+Принцесса: Не переживай, дорогой. Сегодня вечером на постоялом дворе. Просто расслабься и наслаждайся представлением.
 
-       Crunn: ... yes ... Minnie ...
+(входит Пролог)
 
-       Minnie: ... I was thinking ...
+Пролог: Время идет, повозки едут и что-то творится позади повозок. Там наблюдается никем не замеченное скрытное перемещение по окрестным утесам. Когда мы снова видим наших героев, они уже в доме Минни и Крунна, философа. Представьте себе, если сможете, довольно запущенную столовую постоялого двора У Минни.
 
-       Crunn: ... yes, you were thinking, Minnie ...
+(входят Минни, Крунн, и Гюрнси) (уходит Пролог) (Гюрнси идет к столу Орто с еще одной порцией эля для него. Внезапно она садится. Она таращится на Орто, Орто таращится на нее. У обоих отвисают челюсти.)
 
-       Minnie: ... er .... thinking ...
+Минни: … ээ… Крунн…
 
-       Crunn: ... yes ...so was I ....
+Крунн: … да… Минни…
 
-       Minnie: ... can't remember now ...
+Минни: … Я тут подумала…
 
-       Crunn: ... yes, Minnie ... Minnie ...
+Крунн: … да, Минни, ты подумала…
 
-       Minnie: ... Yes ..?
+Минни: … ээ…. подумала…
 
-       Crunn: ... Shut up ...
+Крунн: … да… и я тоже….
 
-       Gurnsey and Ortho       (Together): Moo ... oooh ... moo.
+Минни: … теперь не могу вспомнить…
 
-       Adventurer: Moo?
+Крунн: … да, Минни… Минни…
 
-       Contessa: See, Adventurer, Ortho's fixed.
+Минни: … Да?..
 
-       Adventurer: Is he?
+Крунн: … Замолкни…
 
-       Contessa: You just watch.
+Гюрнси и Орто (хором): Моо… оооо… моо.
 
-       Adventurer: And what about the other armorers?
+Авантюрист: Моо?
 
-       Contessa: Any minute now.
+Принцесса: Видишь, Авантюрист, Орто вышел из игры.
 
- (Ortho and serving girl arise, approach Adventurers'
-table. The floor shakes.)
+Авантюрист: Разве?
 
-       Ortho: This Gurnsey. Ortho love Gurnsey, oooh.
+Принцесса: Просто смотри.
 
-       Gurnsey: Gurnsey love Ortho ... moo ...
+Авантюрист: А как насчет остальных оружейников?
 
-       Ortho: We go get marry, we is.
+Принцесса: Теперь это может случиться в любую минуту.
 
-       Adventurer: Well, congratulations! And that was a fine
-long speech, Ortho!
+(Орто и Гюрнси встают на ноги и подходят к столу Авантюриста. Пол сотрясается.)
 
-       Ortho: We go raise piggies.
+Орто: Это Гюрнси. Орто любить Гюрнси, ооо.
 
-       Gurnsey: Grows animals too, farmers be we.
+Гюрнси: Гюрнси любить Орто… моо…
 
- (Exit Ortho and Gurnsey)
+Орто: Мы поженимся, да.
 
-       Adventurer: Extraordinary. Ave, I think that you must
-have been up here before.
+Авантюрист: Что ж, поздравляю! Это была прекрасная длинная речь, Орто!
 
-       Contessa: Oh yes. I often come up here to get away from
-the Palace and talk dwarves with Minnie and Crunn.         
-Adventurer: You mean that these two ancient ... er, Scholar-I
-nnKeeps can actually talk and about dwarves?
+Орто: Мы будем разводить хрюшек.
 
- (All but Adventurer, Contessa, Minnie, and Crunn fall
-asleep in their meat pies.)
+Гюрнси: Зверюшек тоже, мы стать фермерами.
 
-       Contessa: Oh yes, you must just be very patient. But look
-over at our other escorts ...
+(уходят Орто и Гюрнси)
 
-       Adventurer: By the Lady!
+Авантюрист: Удивительно. Эйв, я думаю, что ты несомненно бывала здесь раньше.
 
-       Contessa: Minnie was an Alchemist before she met Crunn,
-and knows a lot of old forgotten Dwarvish potions.        
-Adventurer: But what do we do with the bodies?        
+Принцесса: О да. Я часто забиралась сюда, чтобы убраться подальше от Дворца и поговорить на гномьем с Минни и Крунном.
 
-       Contessa: Wait ...
+Авантюрист: Ты хочешь сказать, что эта пара древних… Ученых и самом деле может говорить на гномьем и что-то знать о них?
 
- (Enter Major)
+(все, за исключением а, Принцессы, Минни и Крунна, засыпают, упав физиономиями в мясные пироги.)
 
-       Contessa: Adventurer, meet Major Bloodnok, head of my
-own ...private little bodyguard. He's been with me since I
-was a mere girl. Served me very well, haven't you, Major?
+Принцесса: О да, но тебе нужно быть очень терпеливым. Но оглянись вокруг, на наш эскорт…
 
-       Major: We give our all, milady.
+Авантюрист: Клянусь Королевой!
 
-nKeeps can actually talk and about dwarves?
+Принцесса: Минни была Алхимиком до того, как встретила Крунна и знает много старинных Гномьих снадобий.
 
- (All but Adventurer, Contessa, Minnie, and Crunn fall
-asleep in their meat pies.)
+Авантюрист: Но что мы будем делать с телами?
 
-       Contessa: Oh yes, you must just be very patient. But look
-over at our other escorts ...
+Принцесса: Ждать…
 
-       Adventurer: By the Lady!
+(входит Майор)
 
-       Contessa: Minnie was an Alchemist before she met Crunn,
-and knows a lot of old forgotten Dwarvish potions.        
-Adventurer: But what do we do with the bodies?        
+Принцесса: Авантюрист, познакомься с Майором Бладноком, главой моего собственного… частного отряда телохранителей. Он со мной с тех самых пор, когда я была еще маленькой девочкой. Он служит мне на совесть, не так ли, Майор?
 
-       Contessa: Wait ...
+Майор: Стараемся изо всех сил, миледи.
 
- (Enter Major)
+Авантюрист: Приятно с тобой познакомиться, Майор.
 
-       Contessa: Adventurer, meet Major Bloodnok, head of my
-own ...private little bodyguard. He's been with me since I
-was a mere girl. Served me very well, haven't you, Major?
+Принцесса: Как там мои остальные люди?
 
-       Major: We give our all, milady.
+Авантюрист: (в сторону) Остальные люди?
 
-       Adventurer: Pleased to meet you, Major.
+(входят Остальные Люди в костюмах каджиит)
 
-       Contessa: How are my other men?
+Майор: Все на месте, миледи. Нам пришлось повозиться с теми, кто выглядел как отряд Торговцев, следовавший за нами. Но сейчас они вне игры, внизу в ущелье. Остался только один повод для беспокойства.
 
-       Adventurer:       (aside) Other men?
+Принцесса: Да?
 
- (Enter Other Men in Khajiit suits)         Major: All present
-and accounted for, milady. Had a spot of bother with what
-looked like a party of Merchants following you. But they are
-out of the picture now, down a ravine. Only one thing.
+Майор: Я и мои люди, мы постоянно замечали какие-то тайные перемещения по скалам и утесам, но всегда только лишь краем глаза. У нас все время такое чувство, будто за нами следят. Я и мои люди, мы самые лучшие, но здесь творится что-то еще. И мне это не нравится, совсем нет.
 
-       Contessa: Yes?
+Принцесса: О боже, как раз тогда, когда началось самое забавное.
 
-       Major: Me and my men, we've been noticing sort of
-furtive movements, up on cliffs, on ridges -- always just
-out of the corners of our eyes. And we keep getting this
-feeling of being watched. Now, me and my men, we're the best
-but there's something out there. Don't like it, not one bit.
+Майор: Это не люди. Не Маги, не Жрецы и не Оружейники. И не обычные оборотни, гарпии, орки или даэдры. Ничего похожего, совершенно ничего.
 
-       Contessa: Oh Dear - and just when it was getting to be fun.
+Минни: Гномы!
 
-       Major: Its not anything human. Not Mages, Armorers,
-Priests. And its not the usual werewolves, harpies, orcs,
-daedra. Nothing like that, not at all.
+Крунн: Где?.. ох… Минни… ты хочешь сказать… здесь… наверху…
 
-       Minnie: Dwarves!
+Минни: … Гномы, здесь…
 
-       Crunn: Where? ... oh ... Minnie ... you mean ... up ...
-there ... here ...
+Крунн: … Как интересно… мммм…
 
-       Minnie: ... Dwarves, up there ...
+Минни: … Тихо, тихо, Крунн, успокойся… всего лишь гномы… Я знала, что когда-нибудь они…
 
-       Crunn: ... How exciting ... mmmm ...
+Крунн: … Проснутся?..
 
-       Minnie: ... There, there, Crunn, calm down ... just
-dwarves ... I knew that one day they would ...
+Минни: … Вернутся…
 
-       Crunn: ... Wake up ..?
+Крунн: … Но… я никуда не уходил…
 
-       Minnie: ... Come back ...
+Минни: … Гномы, Крунн…
 
-       Crunn: ... But ... I didn't go anywhere ...
+Крунн: … Оооо… Вернутся… Как интересно… Гномы!.. ооо…
 
-       Minnie: ... The dwarves, Crunn ...
+Принцесса: Ну, Майор, такое возможно?
 
-       Crunn: ... Oooh ... Back ... So excited ... Dwarves! ...
-oooh ...
+Майор: Все возможно, особенно здесь, наверху. Гномы? Не знаю. Я и мои люди попытаемся от них избавиться. Здесь неподалеку есть отличная глубокая шахта.
 
-       Contessa: Well Major, is it possible?
+(уходят все, кроме Авантюриста и Принцессы)
 
-       Major: Anything's possible, especially up here.
-Dwarves? I don't know. Me and my men, we'll get rid of this
-lot. There's a good deep mine shaft out back.
+Авантюрист: Гномы, Эйв! Разве это не означает «неприятности»? Я имею в виду, они же вроде хозяева всего этого эбонита там внизу?
 
- (Exit All, but the Adventurer and Contessa)
+Принцесса: Возможно. Я думаю, нам всего лишь надо поспешить и посмотреть, что будет дальше. Я могу попытаться поговорить с ними. О, и Авантюрист, тебе придется править первой повозкой. А я займусь повозкой старины Нефрона. Остальные оставим здесь — про запас.
 
-       Adventurer: Dwarves, Ave! Is that trouble? I mean, they
-sort of own all the ebony down here, don't they?
+Авантюрист: Что, больше не будет игр на свежем воздухе?
 
-       Contessa: Maybe. I guess we just have to push on, see what
-develops. I can try to talk to them, maybe? Oh, and
-Adventurer, you'll have to drive the first cart. I'll take
-old Nephron's. We'll leave the other here -- Spares for
-later.
+Принцесса: Прости, но нам нужно будет успеть все сделать и вернуться, до того как погода ухудшится.
 
-       Adventurer: What, no more bucolic frolics?
+Авантюрист: А не могут ли Майор и его люди править повозками?
 
-       Contessa: Sorry, but we've got to get to the site and
-out again before the weather goes bad.
+Принцесса: О нет. Они будут прикрывать нас со всех сторон и позаботятся о том, чтобы не было сюрпризов.
 
-       Adventurer: Can't your Major and his men, handle the
-carts?
+Авантюрист: Ну ладно. Все хорошее когда-нибудь кончается.
 
-       Contessa: Oh, no. They will cover us from all sides and make certain there are no surprises.
+Принцесса: Не совсем. Если у тебя еще остался заряд в твоих Браслетах Выносливости, то тогда мы можем пойти наверх и там подождать, что будет дальше.
 
-       Adventurer: Oh well. All good things end, I guess.
+(входит Пролог)
 
-       Contessa: Not quite. If you have any charges left in
-your bracelets of endurance, we can go upstairs and see what
-develops.
+Пролог: Что ж, полагаю, вы поняли, что будет дальше. Сцена 3 имеет место некоторое время спустя. Прикрываемые с флангов людьми Майора, Авантюрист и Принцесса успешно следуют указаниям карты покоящихся с миром магов. Представьте себе огромные жилы черного блестящего материала, выходящие на поверхность и уютное теплое пламя костра из эбонитовой Обманки, рядом с котрым разлеглись Авантюрист и Принцесса. На западе видны знаки того, что погода меняется и что приближается первая в этом году настоящая снежная буря. Через некоторое время они начинают копать, и Авантюрист вскоре ощущает утомление от тяжкого физического труда.
 
- (Enter Prologue)
+(уходит Пролог)
 
-       Prologue: Well, I guess we all saw that coming. Scene 3
-takes place some time later at the site. Flanked by the
-Major's men, the Adventurer and the Wanton Contessa
-successfully follow the map of the dear, departed mages.
-Imagine great veins of glistening ebonyesque material
-piercing the surface of the ground, and a nice warm fire of
-Fools Ebony where the Adventurer and the Contessa sprawl.
-To the west are signs that the weather is turning and the first
-major snowstorm of the year is coming. For some time, they
-have been mining and the Adventurer is beginning to feel the
-strain of actual labor.
+Сцена 3
 
- (Exit Prologue)
+Авантюрист: У меня мозоли на руках от лопаты, мозоли на заду от сиденья повозки, и у нас кончается эль. Мой браслет истощается, а мои пальцы замерзли.
 
- Scene 3
+Принцесса: Что, твой браслет истощается? Ох, вот это уже серьезно.
 
-       Adventurer: I've got blisters on my hands from
-shovelling that black rot, blisters on my rear from that cart
-bench, and we are running out of ale. My bracelet is running
-down and my fingers are getting frostbite.
+(входит Майор, спеша)
 
-       Contessa: What, your bracelet is running down? Oh, now
-that is serious.
+Майор: Гномы! Миледи, гномы, дюжины этих мелких негодяев схватили моих людей! Мне очень жаль, миледи.
 
- (Enter Major, running)
+(Принцесса вскакивает на ноги)
 
-       Major: Dwarves! Milady, dwarves, dozens of the little
-buggers caught my men! I'm sorry, milady.
+Принцесса: Майор, уходи отсюда, быстро. Если ты сейчас спасешься, то возможно сможешь помочь нам потом. Я попытаюсь поговорить с ними.
 
- (The Contessa jumps to her feet)
+(уходит Майор) (входят Гномы)
 
-       Contessa: Major, get out of here now. If you get away,
-you can maybe help us later. I'll try to talk to them.
+Принцесса: Хххжджис жжву клпсс жжккх ззузх.
 
- (Exit Major) (Enter Dwarves)
+Гномы (хором): Жжпоо Калаглоо гашноо библоо франоо Кснадоо.
 
-       Contessa: Hhjgys jjvvu klpss Jjqqx zzyzx.
+Принцесса: Жник? Балпоо?
 
-       Dwarves       (Together): Jjpoo Kalagloo gashnoo bibloo
-franoo Xxnadoo
+Гномы (хором): Галпоо! Ваззикоо! Еппапупу!
 
-       Contessa Jnik? Balpo?
+Принцесса: Глоки, глоки, глоки.
 
-       Dwarves       (Together) Gabloo! Wazzikoo! Eppapupu!
+Авантюрист: Ив, что происходит?
 
-       Contessa Glooky, glooky, glooky.
+Принцесса: Расслабься. По-моему, я их поразила тем, что разговариваю с ними на их языке. Я не все поняла, но похоже они только что ‘пробудились’ или как-то так. И что они не позволят нам взять с собой ни кусочка эбонитовой Обманки- это вроде как-то связано с настоящим эбонитом. И что на самом деле она принадлежит Владыкам Обливиона, а Гномы всего лишь ее охраняют.
 
-       Adventurer: Ave, whats going on?
+Авантюрист: Очень интересно. А теперь, что насчет нас?
 
-       Contessa: Relax. I think I've impressed them by talking
-their language. I don't understand everything, but it seems
-that they have only just 'woken up' or something. And that
-they will not let us take any of this Fool's Ebony -- it's
-somehow related to the real stuff or something. And it
-really belongs to the Lords of Oblivion -- the Dwarves are
-just care or something.
+Принцесса: Я заключила с ними сделку единственным способом, который пришел мне в голову. Я рассказала им про Минни и Крунна, про то, что эти две старые развалины знают кучу гномьих историй и легенд. Гномы поведали мне, что, только что ‘пробудившись’, они желают три вещи: эля, женщин и чтобы мы оставили эбонитовую Обманку в покое.
 
-       Adventurer: Very interesting. Now, what about us?
+Авантюрист: А, разрази меня гром.
 
-       Contessa: I made a deal with them the only way I could
-see. I told them about Minnie and Crunn, how those two old
-ones know lots of dwarven tales and legends. The dwarves
-tells me that, having just 'woken up' or something, they want
-three things -- ale, women, and us to leave the Fools' Ebony
-alone.
+Принцесса: Ну, я рассказала им о том, что есть полно эля внизу, на постоялом дворе У Минни. И о двух тамошних умниках. Они идут туда, прямо сейчас. Мы можем взять одну пустую повозку и двух лошадей. А они будут охранять нас всю дорогу. Они сказали также, что они — не знаю правда, как — уничтожат здесь всю эбонитовую Обманку. Они сказали, что она не должна быть вот так, на поверхности. (в сторону) Гномий — на редкость компактный язык.
 
-       Adventurer: Ah, flog my log.
+Авантюрист: Во имя огромных ягодиц Шеогората! Все эти мозоли и боль в спине и ни за что! А ладно. По-крайней мере мы все еще живы. Пока что…
 
-       Contessa: Well,I told them about all the ale down at
-Minnie's Inn. And about the 2 redheads there. They are going
-there, leaving right now. We may take one empty cart, 2
-horses. And they will keep us guarded all the way there. They
-also said that they will -- I don't know how -- destroy all the
-Fool's Ebony here. It shouldn't be on the surface like this,
-they say.       (aside) Dwarvish is a remarkably compact
-language.
+(уходят) (входит Пролог)
 
-       Adventurer: By the great roaring buttocks of
-Sheogorath! All these blisters and backache for nothing! Ah
-well. At least we are still alive. For now ...
+Пролог: Фарноо Ликети Каноо Гадфлоо. О, я ужасно извиняюсь. С началом Сцены 4 мы снова оказываемся на постоялом дворе У Минни, где у гномов, похоже, праздник.
 
- (Exeunt) (Enter Prologue)
+(входят Авантюрист, Принцесса, Минни, Крунн и Гномы)
 
- Prologue: Farnoo Lickety Kanoo Gadfloo. Oh, I'm terribly
-sorry. As Scene 4 begins, we are back at Minnie's Inn, where
-the dwarves appear to be on holiday.
+(уходит Пролог)
 
- (Enter the Adventurer, the Wanton Contessa, Minnie, Crunn,
-and Dwarves)
+Сцена 4
 
- (Exit Prologue)
+Минни: … га… ссзкс… спноо?..
 
- Scene 4
+Крунн: … глурки…
 
-       Minnie: ... ga ... sszx ... spnoo? ...
+Гномы (хором): Жотча потчка лаззо ланни жупи хупи ки ме амат, амат ет канем меам
 
-       Crunn: ... glurky ...
+Авантюрист: Эйв, ты что-нибудь придумала? Мои магические штучки похоже не работают. А когда эль закончится…
 
-       Dwarves       (Together): Jotcha potchka lazzo lanni joopy
-hoopy qui me amat, amat et canem meam
+Принцесса: Твой эбонит против них бесполезен. Гномы обрабатывают эбонит, так что я думаю, они могут подавлять его действие. Не беспокойся. Только представь себе: эти гномы пролежали в спячке сотни лет. А у Минни огромный запас эля. Здесь редко бывают постояльцы, так что она знает как подсолить эль, чтобы он не портился годами.
 
-       Adventurer: Ave, any ideas? I can't seem to work my
-magical items. And when the ale runs out ...
+Авантюрист: О, вот почему мой язык всегда похож на кожаный ремень после кружки или двух.
 
-       Contessa: Your ebony material is useless against them.
-Dwarves fashion the ebony, so I guess they can suppress it or
-something. Don't worry - just think, these dwarves have been
-asleep or something for hundreds of years. And Minnie has a
-huge stock of ale. Not many customers  come this way, and she
-knows how to salt the ale just right to keep from spoiling
-for decades.
+Принцесса: Гномы, по-видимому, обожают эль. Я думаю, они все вырубятся примерно через час.
 
- Adventurer Oh, that's why my tongue always looks like a chunk
-of leather after a pint or two.
+(Гномы впадают в кому)
 
-       Contessa Dwarves apparently love ale. I expect them
-all to pass out in an hour or so. 
+Принцесса: Если не раньше. Вставай, Авантюрист. Хватай сумку и начинай сборку! Когда гномы проснутся, то сначала они прикончат эль, а потом нас.
 
- (Dwarves fall into comas)
+(Принцесса и Авантюрист грабят гномов)
 
-       Contessa: If not sooner. Come on, Adventurer. Grab a
-sack and start collecting! When the dwarves wake up,
-they'll finish the ale, and then us. 
+Авантюрист: На юг, насколько хватит наших лошадей в такую погоду.
 
- (The Wanton Contessa and Adventurer pillage the dwarves)
+Принцесса: Если мы уедем достаточно далеко перед тем как они проснутся, то все будет в порядке. Я не думаю, что они решатся оставить свои любимые горы. Надеюсь, что нет.
 
-       Adventurer: South, as fast as our horses will take us in
-this weather.
+(входит Пролог)
 
-       Contessa: If we make enough distance before they wake up,
-we'll be all right - I don't think that they will leave their
-precious mountains. I hope not.
+Пролог: Воющий зимний ветер кружит вихрем, хлеща как кнут и высоко задирая подолы; о, прошу прощения. Авантюрист и Принцесса заблудились в снежной буре. Несколько дней спустя, мы находим их обессилевшими и соскучившимися по теплу.
 
- (Enter Prologue)
+(уходит Пролог)
 
-       Prologue: The wailing wintery wind whirls wickedly,
-wafts whipping, wading waist-high, oh never mind. The
-Adventurer and the Contessa get lost in the snow storm.
-Several days later, we find them desperate for warmth and
-exhausted.
+Авантюрист: Лошадям конец. Они не сделают и шагу дальше, а буря снова усиливается. Эля больше нет, осталась только одна буханка хлеба.
 
- (Exit Prologue)
+Принцесса: Ничего не поделаешь.
 
-       Adventurer: The horses have had it. They can't go another
-step and its going to snow again. No ale left, and just one
-loaf.           Contessa: It will have to do.
+(внезапно толпа гигантов бросается на наших героя и героиню. Но после ловкой работы Перстнями Огненного Шторма, вокруг кучами валяются совсем мертвые гиганты)
 
- (Suddenly, a party of giants leaps on our hero and
-heroine. But after some quick work with Bracers of Firestorm,
-really dead giants lie around in heaps)
+Авантюрист: У тебя что-нибудь осталось, Эйв?
 
-       Adventurer: Anything left, Ave?
+Принцесса: Нет, огня больше нет — только кинжалы.
 
-       Contessa: No, no more fire anything - just my daggers
+Авантюрист: У меня тоже, только лишь обычный меч. Шеогорат побери этих гигантов! Эти уроды сожрали наших лошадей! Как ты думаешь, Майору удалось спастись?
 
-       Adventurer: Same here, just a common shortsword. Curse
-Sheogorath for those dwarves!  Those oafs chewed up our
-horses! Do you think the Major made it out?               
-Contessa: If anyone can, it's him.  Guess we'll find out in
-town. Interesting thought just occured to me. Don't giants
-hunt in several groups? Is that more I hear?
+Принцесса: Если кому-то такое может удастся, то только ему. Надеюсь, мы узнаем это в городе. Мне в голову только что пришла интересная мысль. Разве гиганты не охотятся несколькими группами? И не их ли я слышу?
 
- (sound of grumbling and gargling offstage)
+(ворчание и бульканье за сценой)
 
-       Adventurer: Yes, there are more giants out there. Quick,
-Ave. Help me with this one.
+Авантюрист: Да, там есть еще гиганты. Быстрее, Эйв. Помоги мне.
 
- (The Adventurer starts to disembowel a giant's body)
+(Авантюрист начинает потрошить тело гиганта)
 
-       Contessa: What on Tamriel are you doing? This is not the
-time for studying anatomy!
+Принцесса: Чем ты занят, во имя Тамриэля? Сейчас не время изучать анатомию!
 
-       Adventurer: Don't argue, climb inside!
+Авантюрист: Не спорь, лезь внутрь!
 
-       Contessa: Poppydash and Baldercock! Inside that smelly
-dead giant? My dear Adventurer, I'm a Lady.
+Принцесса: Внутрь вонючего дохлого гиганта? Мой дорогой Авантюрист, Я — Леди.
 
-       Adventurer: It's our only hope! The giant smell will
-hide our scent, and live giants never touch dead ones.
-Quick!
+Авантюрист: Это наша единственная надежда! Вонь гиганта перебьет наш запах, а живые гиганты никогда не трогают мертвых. Быстрее!
 
- (The Adventurer and the Contessa climb inside the steaming
-giant's body)
+(Авантюрист и Принцесса забираются внутрь теплого тела гиганта)
 
-       Adventurer: Here, help me pull the skin shut - and try not
-to throw up. Don't make a sound.
+Авантюрист: Сюда, помоги мне стянуть этот разрез — и постарайся, чтобы тебя не стошнило. Теперь ни звука.
 
- (Enter Prologue)
+(входит Пролог)
 
-       Prologue: A few hour pass.
+Пролог: Проходит несколько часов.
 
- (Exit Prologue) (The Adventurer and the Wanton Contessa
-poke their heads out of the giant's belly.) 
+(уходит Пролог) (Авантюрист и Принцесса высовывают головы из брюха гиганта.)
 
-       Adventurer: They've all left, but it's snowing hard.
-Definitely getting real cold. We better stay here.
+Авантюрист: Они все ушли, но буря еще не кончилась. Определенно становится по-настоящему холодно. Нам лучше остаться здесь.
 
-       Contessa: It indeed is warm.
+Принцесса: Здесь и вправду тепло.
 
-       Adventurer: It will keep us warm, safe from the storm
-and giants, for a day or soif we can stand the smell. Here,
-want some bread?
+Авантюрист: Здесь мы будем в тепле и в безопасности еще день или около того, если конечно мы выдержим эту вонь. Вот, хочешь хлебца?
 
- (The Contessa falls victim to nausea)
+(Принцесса падает, сраженная приступом тошноты)
 
- (Enter Prologue)
+(входит Пролог)
 
-       Prologue: For this, the last scene of the play, please
-forgive us, but we need to change the set. Remove the "giant
-corpses" and whatnot. Please be patient while our bard
-performs the timeless classic "Whither Goest Thou?"
+Пролог: После этого в нашей пьесе осталась только одна последняя сцена, пожалуйста, простите нас, но нам нужно переменить декорации. Убрать «трупы гигантов» и все такое. Пожалуйста подождите, пока наш бард исполняет вечную классическую «Куда Идешь Ты?»
 
- (Bard plays "Whither Goest Thou?" If the scenarists take too
-long, he also plays "For Further Consideration.")
+(бард играет «Куда Идешь Ты?». Если сценаристы возятся слишком долго, он также исполняет «Для Дальнейшего Рассмотрения».)
 
- Prologue: Ah, here we are, back at the Dead Daedra Inn. The
-Contessa and the Adventurer made it, after all. They had to
-pay three times the normal rate, for they were very dirty and
-stinky. Now poor Prologue will bid you farewell, goodly
-people.
+Пролог: А, вот и мы, и снова постоялый двор Мертвая Даэдра. Принцесса и Авантюрист все-таки выжили, после всех злоключений. Им пришлось заплатить в три раза больше обычной стоимости, так как они были очень грязными и вонючими. А теперь бедный Пролог пожелает вам всего хорошего, добрые люди.
 
- Scene 6
+Сцена 6
 
-       Contessa: Thank the Gods for hot water and soap! I
-thought I would smell like a giant forever.
+Принцесса: Спасибо Богам за эту горячую воду и мыло! Я уж думала, что пропахла гигантом навечно.
 
-       Adventurer: Me too. Where did you go while I was
-bathing? And why no mages, priests, armorers, or merchants
-outside yelling for our blood?
+Авантюрист: Я тоже. Куда ты ходила, пока я мылся? И почему не видать снаружи ни магов, ни жрецов, ни торговцев, ни оружейников, жаждущих нашей крови?
 
-       Contessa: I took a quick trip to the Palace. I've fixed it
-so some cousins have told the armorers and merchants that we
-don't have cartloads of the Fools' Ebony.
+Принцесса: Я по-быстрому съездила во Дворец. И сделала так, чтобы мои родственники сказали оружейникам и купцам о том, что мы не привезли груз эбонитовой Обманки.
 
-       Adventurer: Pity that that's actually true.
+Авантюрист: Жаль, что это и в самом деле так.
 
-       Contessa: But at least no one's interested in us
-anymore. Seems that some priests turned up dead in an old 
-temple, up on Edward's Mountain. They were found with some
-girl, all dead from 'bad green powder' or something. And
-some old mages named Shub have gone missing ...
+Принцесса: Но по-крайней мере никто больше нами не интересуется. Вроде бы каких-то жрецов нашли мертвыми в старом храме на горе Эдварда. Их нашли с какой-то девушкой, все они скончались от ‘скверного зеленого порошка’ или как-то так. А неких старых магов по имени Шуб все еще нигде не могут найти…
 
-       Adventurer: Now then, what did you stuff in those sacks
-thats so important?
+Авантюрист: А теперь расскажи, что такого важного ты прятала в этих сумках?
 
-       Contessa: Here, dump them out, take a look.
+Принцесса: Вот, раскрывай и смотри.
 
-       Adventurer: By the Gods, just look at that!
+Авантюрист: Клянусь Богами, ты только посмотри на это!
 
-       Contessa: Yes, those dwarves were just loaded with
-ebony. Look. Rings, torcs, bracers, belts, helms All solid
-old ebony.
+Принцесса: Да, эти гномы были просто прегружены эбонитом. Смотри. Кольца, доспехи, браслеты, пояса, шлемы. И все это из сплошного эбонита.
 
-       Adventurer: And this stuff feels just loaded with
-magicka. Why, I bet that this ring alone has a thousand uses
-... whatever it does.
+Авантюрист: А этот посох похоже прямо заряжен магией. Готов поспорить, что одно это кольцо имеет не меньше тысячи зарядов… чтобы оно не делало.
 
-       Contessa: Ooh! Look! Bracers of Extreme Endurance and a
-Belt of Strength! Put them on, Adventurer, let's
-celebrate!
+Принцесса: О! Гляди! Браслеты Предельной Выносливости и Пояс Силы! Надевай их, Авантюрист, и давай праздновать!
 
-       Adventurer       (aside) Help!
+Авантюрист (в сторону): Помогите!
 
- Enter Epilogue
+(входит Эпилог)
 
-       Epilogue: As I feared, all the loose threads of the play
-were ended by wholesale slaughter. More of the adventures of
-the Adventurer will follow, unless, of course, they don't.
-We thank you for your tempered patience. Don't forget to tip
-your worthy wenches on your way out this evening, and enjoy
-our bard's rendition of the Khajiiti classic, "It's A Matter
-of Luck." Goodnight.
+Эпилог: Как я и опасался, все незаконченные сюжетные линии обрываются массовым смертоубийством. У Авантюриста будут еще приключения, пока, ясное дело, и они не оборвутся. Благодарим вас за ваше безграничное терпение. Не забудьте о достойных чаевых по пути на улицу и наслаждайтесь переложением нашим бардом каджиитской классики «Это Дело Случая.» Спокойной ночи.
 
- (Flourish)
+(звучит музыка)
 
- (Exeunt Omnes)
+(все уходят)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+Перевод: Денис Камалов

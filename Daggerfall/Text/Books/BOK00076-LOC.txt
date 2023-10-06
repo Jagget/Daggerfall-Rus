@@ -1,641 +1,195 @@
-Title: Fools' Ebony, Part the Threeth
-Author: Frincheps
+Title: Эбонитовая обманка, ч.3
+Author: Фринчепс
 IsNaughty: True
 Price: 317
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Fools' Ebony,
-
-[/center]Part the
-
-[/center]Threeth
-
-
+[/center]Эбонитовая обманка, ч.3
 
 [/font=4]
 
-
-
 [/center]
 
- Dramatis Personae
+Часть третья — в Гильдии Магов, один или три дня спустя
 
- Prologue The Adventurer, A Dark Elf Rascal Komon, A Priest
-of Akatosh Lheban, Another Priest of Akatosh Epilogue Stete, A
-Priest of Julianos Raic, Another Priest of Julianos Shub, A
-Mage Shub, A Different Mage of the Same Name Nephron, A
-Somewhat Sleazy Merchant 5 Armorers Ortho Crunn, Husband of
-Millie A Lusty Contessa Millie, Innkeep and Philosopher
-Gurnsey, Bovine Wench Assorted Wenches and Cads of the
-Taverns Soldiers Dwarves Giants
+Входит Пролог
 
+Пролог: Сейчас мы достигли середины нашей бессвязной эпопеи. Если вы только что пришли, вы мало что упустили. Авантюрист, наш плутоватый Темный эльф, объединился с четверкой жрецов с намерением найти горючий металл под названием эбонитовая Обманка и разбогатеть. Жрецы выдали нашему герою некоторую сумму денег для подкупа торговцев, но местонахождение эбонитовой Обманки известно только неким магам из Гильдии Магов. Как заметил Эпилог в конце Части Второй, эбонитовой Обманки не существует в природе, а настоящий эбонит не добывают в шахтах. Наш автор несомненно об этом не осведомлен. Так что считайте это фантазией высокого полета, если хотите. На ваше усмотрение. Чу, вот идет наш герой. Представьте себе миазмы (если это — нужное мне слово) магических эликсиров, кипящие котлы с лопающимися в воздухе пузырьками и так далее. А теперь самое время Прологу удалиться.
 
+(входят Авантюрист и Шуб)
 
- Part The Threeth - In The Mages' Guild, One                    to
-Three Days Later
+Авантюрист: Хо! Есть здесь кто-нибудь?
 
- (Enter Prologue)
+Шуб: Я здесь, молодой человек, в углу…
 
- Prologue:   We are now at the halfway point of             of
-our disjointed epic. If you are
+Авантюрист: Доброе утро. Могу я называть тебя… Шуб?..
 
+Шуб: О да, Шуб мое имя, так меня зовут… Как во имя Тамриэля ты это узнал?
 
-    just arriving, you have missed
+Авантюрист: Мы можем уединиться?.. Я хотел бы обсудить… э… довольно деликатный вопрос?..
 
+Шуб: Нам незачем уединяться! Мы, Маги, ничего не скрываем!
 
-    little. The Adventurer, our rogue
+Авантюрист: эбонитовая Обманка?
 
+Шуб: Быстро в эту дверь!.. Направо… Налево… Ага… подожди, я наброшу на нас заклинание секретности…
 
-    Dark Elf, has joined with a
+(раздается громкий хлопок) (входит Шуб)
 
+Хорошо! А теперь, Сэр… О, кстати, познакомься с моим приятелем-магом Шубом.
 
-    quadripartite (that's a triumvirate
+Шуб: Мммм.
 
+Шуб: Так ты упомянул эбонитовую Обманку?..
 
-    plus one) of priests intent on
+Авантюрист: Ну, я считаю себя почти что экспертом по эбониту. Довольно много его прошло через мои руки за мою жизнь…
 
+Шуб: Мы заметили у тебя эбонитовый амулет и эбонитовую катану — с заклинанием Lightning, не меньше! И эбонитовый пояс… мммм…
 
-    discovering a burning metal called
+Авантюрист: Уберите руки от игрушек, джентльмены, прошу вас!
 
+Шуб: Прости нас, но мы очень ценим подобные произведения…
 
-    Fools' Ebony and becoming wealthy.
+Шуб: … и к тому же коллекционируем их…
 
+Авантюрист: Итак, недавно, совершенно случайно конечно, мне посчастливилось услышать разговор двух жрецов… по-моему, из Храма Стендарра… Они были изрядно навеселе, как мне показалось и не заметили меня таящегося — то есть я хочу сказать — стоящего поблизости. Они говорили об этой эбонитовой Обманке: штуковина, похожая на настоящую, только совсем без магии. Совершенно. Но горит как дерево, только дольше, жарче, без дыма и больше тепла.
 
-    The priests have given our hero
+Шуб: Да… мы слышали нечто похожее. Видели немного этого добра — пару мешков его приволок тот сумасшедший копатель. Верно, Шуб?
 
+Шуб: О да, точно, так оно и было… точно…
 
-    some gold for bribing merchants,
+(в сторону) Чтобы ни случилось, я не должен проболтаться.
 
+BАВАНТЮРИСТ: Так вот эти идиоты жрецы говорили, что им известно местонахождение целой кучи, то есть целых залежей, этого добра: где-то в Ротгарианских горах …
 
-    but the only people who know where
+Шуб и Шуб (хором): Где? Кто? Что они сказали? Как? Когда? Где?
 
+Шуб: Ты же не дал им понять, что ты их слышал?
 
-    the Fools' Ebony is are the mages
+Авантюрист: Конечно нет! За кого мы меня принимаете, за любителя жрецов?
 
+Шуб: Успокойся, господин мой… так-то лучше… только не надо так теребить катану. Это нас нервирует.
 
-    of the Mages' Guild. As the Epilogue
+Шуб: Да, очень нервирует…
 
+Шуб: Вот, присаживайся сюда. Хочешь немного подогретого вина? Нет? Ну тогда придется мне допить его самому.
 
-    pointed out at the end of Part the
+Шуб: Так значит им, по-видимому, известно место.
 
+(в сторону) Хмммм. Это значит, мы должны действовать быстро, споро и в большой спешке.
 
-    Twoth, there is no such thing as
+Авантюрист: О да! Они вроде бы говорили, что собираются начать перевозки груза через несколько недель…
 
+Шуб: О Боже! О боже мой! Оооо…
 
-    Fools' Ebony and real Ebony is not
+Шуб: Так. Сдается мне, ты многое знаешь об этой эбонитовой Обманке. Осознаешь ли ты открывающиеся возможности? Подумай только: огромные пылающие камины в наших кабинетах…
 
+Шуб и Шуб (хором): … Продавать ее во Дворец… продавать ее этим тупым Алхимикам… Гильдия Оружейников будет просто в восторге… нашие familiars в тепле и довольстве… и наши задницы тоже!.. только представь, как будут рады приятному теплому огню Соблазнительницы (Daedra Seducers)… Давать ее крестьянам для обогрева их сараев- в обмен на кругленькую сумму, разумеется …
 
-    mined. Something our playwrite
+Шуб: …только подумай об этих деньжищах…
 
+Шуб: Проблема в том, сын мой, что нам нужно погрузить это добро на телеги и доставить сюда…
 
-    apparently did not research. Well,
+Шуб: Найти какого-нибудь надежного торговца…
 
+Шуб: Наложить на него заклятие!
 
-    accept it as high fantasy, if you
+Шуб: … Чтобы он был для нас посредником…
 
+Авантюрист: Но… что же вам мешает, джентльмены?
 
-    will. Or whatever. Hark, here
+Шуб: По-моему, тебе можно доверять. Мы скажем тебе в чем дело, но не взыщи: если ты проболтаешься, то найдешь в своей постели Огненную Даэдру… Никаких угроз между джентльменами, не так ли?
 
+Авантюрист: Очень хорошо — я буду само молчание.
 
-    comes our hero now. Imagine the
+Шуб: Видишь ли, мы знаем, где находятся целые телеги этого добра. Но мы не в состоянии туда добраться…
 
+Шуб: Мы домоседы по природе.
 
-    miasma (if that's the word I want)
+Шуб: В городе гораздо безопаснее.
 
+Шуб: И теплее.
 
-    of magical elixirs, bubbling
+Шуб: Только вообрази себе, сколько нам понадобится припасов.
 
+Шуб: Сколько неприятностей нас ждет.
 
-    cauldrons, hovering balls of
+Шуб: А тебе известно, что даже Cоблазнительниц в этой глуши не достать?
 
+Шуб: Нам придется нанять охрану, чтобы не подпускать к себе этих ужасных жрецов.
 
-    sparkling whatnot. And now, the
+Шуб: Нам придется иметь дело с этими хамами торговцами…
 
+Шуб: С оружейниками.
 
-    Prologue must depart.
+Шуб: С дворянами.
 
- (Enter the Adventurer and Shub)
+Авантюрист: Ммм. Кажется я понимаю. Вам нужен опытный герой-путешественник, который сходит туда за вас, наладит сообщение с тем местом и так далее?..
 
- Adventurer: Ho! Anyone around?
+Шуб: В самую точку. И найдет нам подходящего торговца. Которого мы сможем контролировать.
 
- Shub:       Over here, young man, in the             corner ...      
- Adventurer: Morning. Do I call you ...             Shub ..?      
-Shub:       Oh yes, Shub is my name, Shub it             is ... How
-on Tamriel did you
+Шуб: С большим-пребольшим складом; служба доставки и все такое…
 
+Авантюрист: Я понял, джентльмены. Позвольте мне предложить свои услуги! Я всегда восхищался вами Магами, такими умными, такими проницательными. Ведь я от вас ничего не утаил?
 
-    know?
+Шуб: Да, да, совсем ничего…
 
- Adventurer: Can we have some ... privacy ...             I have
-a somewhat ... er ...                   delicate matter to discuss
-..?
+(входит Пролог)
 
- Shub:       No need for privacy here! We Mages do             not
-hide anything!
+Пролог: Это, леди и джентльмены, была ирония.
 
- Adventurer: Fools' Ebony?
+(Пролог удаляется)
 
- Shub:       Quick through this door ..!             Turn right ...
+Авантюрист: Вот что: я найду вам подходящего торговца. Но это будет стоить денег — эти воры знают цену золотым! Судьба же распорядилась так, что мои последние деньги выманил у меня мошенник жрец в маленьком городишке к югу отсюда. И к тому же я потерял кучу отличных вещей в кораблекрушении прямо перед этим …
 
+Шуб: Ну… раз уж ты согласился нам помогать… пожалуй мы сможем поделиться с тобой золотом из сокровищницы, не так ли, Шуб?
 
-    Turn left ...             Ah ... just let me throw a
-privacy
+Шуб: О! О да, там его полно… и мы всегда можем наделать еще…
 
+Авантюрист: А теперь мне нужно узнать точное расположение этого места, чтобы выбрать нужную породу лошадей, подсчитать количество припасов, какое оружие мне может понадобиться… провизия, всякие мелочи… диаметр тележных колес в квадратных ярдах… места засад на жрецов, на случай, если они попытаются туда добраться… мммм…
 
-    spell around us ...
+Шуб: Вот тебе 500 монет. Принимайся за дело.
 
- (Loud zap sounds) (Enter Shub)
+Шуб: Да… мы всегда можем наколдовать еще.
 
-             Good! Now Sir -- Oh, by the way, meet
+Шуб: (в сторону, Шубу) Заткнись!
 
+(Шуб выстреливает в Шуба огненным заклинанием, которое сжигает того дотла, затем восстанавливает его)
 
-    my fellow Mage, Shub.
+(всем) Прости нас… на чем я… А… найди торговца, охранников, повозки, короче, все, что необходимо. И обращайся к нам, если понадобятся еще деньги.
 
- Shub:       Mmmm.
+Шуб: А что насчет этих жрецов?
 
- Shub:       Now, you mentioned Fools' Ebony ..?
+Авантюрист: У меня есть пара идей на этот счет. Позвольте мне сблизиться с ними- нанять пару хорошеньких девушек или угостить их несколькими бутылками святого вина… И вскоре они будут есть из моих рук. А если вы покажете мне это место на карте… то я вполне могу направить их не в ту сторону: например, прямиком в логово троллей или еще куда-нибудь.
 
- Adventurer: Well, I fancy myself a bit of an            
-expert in ebony. Had quite a bit come
+Шуб: Ты и впрямь эксперт! Вот это место на карте… и мне не нужно напоминать тебе об Огненной Даэдре, не так ли?
 
+Авантюрист: Так… по-моему… мммм… тридцать дней туда в это время года. И примерно сорок обратно, с грузом. Дайте-ка я посмотрю повнимательнее…
 
-    and go through my hands in my time, I             have ...
+Шуб: С собой ты ее взять конечно не можешь… мы не хотим, чтобы все об этом знали…
 
- Shub:       We notice that you have an ebony             amulet,
-and an ebony katana -- Of
+Авантюрист: О нет. Все в порядке. Слушайте, дайте мне еще немного денег. Похоже понадобятся сверхмощные повозки. Смотрите сюда, на этот участок… совершенно непроходим… мммм… здесь будет очень трудно… О, а эти руины, полны призраков, могу поклясться… мммм… а этот перевал, сплошная головная боль…
 
+Шуб: Ну если ты так говоришь… Надо же, похоже мы нашли нужного нам человека, а, Шуб?
 
-    Lightning, no less!  And an ebony
+Шуб: О да, воистину.
 
+Авантюрист: Итак я берусь за дело, а к вам вернусь… скажем… через неделю? Слушайте, а вы точно не хотите поехать со мной? В конце концов, нет ничего лучше, чем жизнь на природе. Встаешь вместе с солнцем, стряхиваешь морозное окоченение. Ловишь орка на завтрак- вы когда-нибудь пробовали орочьи потороха, поджаренные на костре? О, что за угощение! Проверяешь каждый ручеек, чтобы не наткнуться на гигантских дохлых пауков или на живых! Вяленый имп на обед! Осматриваешь горы в поисках дрэгонлингов! Прячешься, чтобы не наткнуться на Ледяную Даэдру в слепящую снежную бурю! О, что за жизнь!
 
-    belt ...
+Шуб и Шуб (хором): Нет, нет… мы лучше останемся здесь в Гильдии. У нас есть обязанности, в конце концов… кто-то должен позаботиться о лавке… кто-то должен намекнуть избранным клиентам… нет, это и в самом деле звучит как настоящая жизнь, но нам лучше быть здесь… вне всякого сомнения…
 
+Авантюрист: Жаль, джентльмены. Ну, тогда я берусь за дело. И не беспокойтесь, если увидите меня с этими жрецами, я ведь должен ввести их в заблуждение!
 
-    ...mmmm...
+Шуб: Тогда через неделю!
 
- Adventurer: Hands off the toys, gentlemen,             please!
+(уходят Шуб, Авантюрист и Шуб) (входит Эпилог)
 
- Shub:       Forgive us -- but we so appreciate             such
-fine items ...
+Эпилог: Шуб и Шуб, леди и джентльмены. Невообразимо тупые маги, но, может быть, они умнее, чем кажутся? Вы так не думаете? Что ж, если вы не останетесь в театре на Часть Четвертую, вы не будете знать точно. Не забудьте о чаевых и подумайте над этим, пока мы меняем декорации.
 
- Shub:       ... collect them too ...
+Конец Третьей Части 
 
- Adventurer: Well, the other day, just by chance             of
-course, I just happened to hear
-
-
-    two priests of the Temple of ... er
-
-
-    ... Stendarr, I think it was ...  They
-
-
-    were a bit high in their cups, I
-
-
-    think, a bit loud, and never noticed
-
-
-    me skulking -- I mean, standing --
-
-
-    there. They were going on about this
-
-
-    Fools' Ebony - stuff like the real             thing, only
-no magicka at all. None.             But it burns like wood,
-only longer,
-
-
-    hotter, no smoke, nice even heat.
-
- Shub:       Yes ... we have heard similar rumors.             Seen
-a bit of that stuff -- lumps
-
-
-    from a sack or two that some crazed             delver
-dragged up, that kind of thing.
-
-
-    Right, Shub?
-
- Shub:       Oh - Oh yes, right, that kind of             thing ...
-right ...
-
-
-    (aside)
-
-
-    I must remember to keep the secret,
-
-
-    whatever it is.
-
- Adventurer: Well, these fool priests seemed to             talk
-as if they knew a location for             lots, I mean piles,
-of that stuff --
-
-
-    somewhere up in the Wrothgarians ...
-
- Shub and Shub (Together): Where! Who!  Did they say? How?
-When?             Where?   Shub:       You didn't let them know you
-were             listening, did you?
-
- Adventurer: Of course not! What do you take me for,            
-a priest lover?
-
- Shub:       Calm yourself, my lord ... that's            
-better...just don't go fiddling with
-
-
-    that katana so much. Makes us nervous.
-
- Shub:       Yes, nervous, very ...
-
- Shub:       Here, sit down.               There. Want some mulled
-wine?               No? Oh well, just have to finish it
-
-
-    myself.
-
- Shub:       So they seemed to know the location.            
-(aside)             Hmmmm. This means we have to act fast,
-
-
-    quickly, speedily, and with great
-
-
-    rapidity.
-
- Adventurer: Oh yes! They were talking like they             were
-going to get a load in a few
-
-
-    weeks or so ...
-
- Shub:       Oh My! Oh Dear Me! Ohhh...
-
- Shub:       Now then. Seems you know a fair amount            
-about this Fools' Ebony.  And you
-
-
-    realize the potential -- just think,
-
-
-    big warm fires in all our study rooms ...
-
- Shub and Shub (Together): ... Selling it to the Palace...
-selling             it to those stupid Alchemists ... the
-
-
-    Armorer's Guild would be good for a lot ...             
-... keep out familiars nice and warm ...             ... and our
-posteriors ..! ... just think
-
-
-    how Daedra Seducers love a nice warm
-
-
-    fire ... Giving smoldering lumps to the
-
-
-    peasants to warm their hovels with -- in
-
-
-    return for some gold, of course ... 
-
- Shub:       ...just think of all that gold...
-
- Shub:       Trouble is, son - we would like to get that            
-stuff by the cartload, bring it down here ...
-
- Shub:       Have some trustworthy merchant ... 
-
- Shub:       Put a spell on him!
-
- Shub:       ... Have some merchant act as sort of,            
-middleman, for us ...
-
-
-     Adventurer: But ... then why the delay, gentlemen?  
-Shub:       You seem like an honest fellow.  We'll            
-tell you -- mind you, you let out a word
-
-
-    of this, and there will be a Fire Daedra
-
-
-    in your bed ... but no threats between
-
-
-    gentlemen, right!
-
- Adventurer: Very well -- I shall be the very soul             of
-discretion.
-
- Shub:       You see, we know where the stuff it,            
-cartloads and cartloads of it.  But we
-
-
-    can't get there and back ...
-
- Shub:       We are not the outdoorsy types.
-
- Shub:       Far safer here in town.
-
- Shub:       Much warmer too.
-
- Shub:       Think of all the supplies we would             have to
-take.
-
- Shub:       All those nasty things out there.
-
- Shub:       Did you know that seducers won't come             to us
-in the wilderness?
-
- Shub:       We'd have to hire guards, to keep             those
-awful priests away.
-
- Shub:       And the strain of dealing with all             those
-coarse types ... the
-
-
-    Merchants.
-
- Shub:       The Armorers.
-
- Shub:       The Royals.
-
- Adventurer: Mmm. I think I comprehend.  You want            
-some -- experienced explorer-hero type,
-
-
-    someone used to the wilderness -- to go             get it
-for you, set up a supply line,
-
-
-    so on ..?
-
- Shub:       Exactly. And find us a nice, useable            
-merchant.  Someone we can control. 
-
- Shub:       With a big, big warehouse, delivery            
-service, that kind of thing ...
-
- Adventurer: Well, gentlemen. Let me volunteer my            
-services! I have always admired you Mage
-
-
-    gentlemen -- so clever, so sharp. No
-
-
-    fooling you in anything, is there?
-
- Shub:       No, no fooling us ...
-
- (Enter Prologue)
-
- Prologue:   This, ladies and gentlemen, is irony.
-
- (Exit Prologue)         Adventurer: Tell you what, I can
-probably arrange             a suitable merchant or you. Take
-some
-
-
-    gold though -- those thieves know the             value of a
-gold piece! As luck would
-
-
-    have it, my last gold was swindled off             me by a
-thieving priest, in some
-
-
-    little town south of here. And I lost
-
-
-    a lot of good stuff in a shipwreck
-
-
-    just before that ...
-
- Shub:       Well ... since you have agreed to             help us
-... we can spare some gold
-
-
-    from the treasury, can't we, Shub?
-
- Shub:       Oh! Oh yes, lots there ... always             make more
-...
-
- Adventurer: Now, I do need to know roughly where             this
-site is, got to pick the right
-
-
-    breed of horse, calculate my supplies
-
-
-    to the last drop, figure out what
-
-
-    weapons I might need ... supplies,
-
-
-    like food, little things like that
-
-
-    ... diameter of the cart wheels in
-
-
-    square yurts ... ambush points for
-
-
-    the priests, in case they try to get
-
-
-    up there ... mmmmm ...
-
- Shub:       Tell you what - here is 500 gold. Go             get
-things started.
-
- Shub:       Yes ... we can always make some more.
-
- Shub:       (aside, to Shub)             Shut up!
-
- (Shub fires a spell at Shub that burns him to a cinder and
-then reconstitutes him)
-
-             (to all)             Excuse us ... where was I ... Oh ... 
-           get a merchant, guards, carts, whatever
-
-
-    you think it will take. Come back if
-
-
-    you need more.
-
- Shub:       But what about those priests?
-
- Adventurer: I've an idea or two there. Let me             get
-friendly with them - maybe hire             a couple of good
-lamppost girls, lay             in a few cases of holy wine ...
-I'll             have them eating out of my hand in             no
-time. And if you show me where             this Fools' Ebony is
-... why, I can             misdirect them, send them straight
-
-
-    into an trolls' den or something.
-
- Shub:       You're the expert!  Here, let me show             you on
-a map ... and I don't need to
-
-
-    mention Fire Daedras, do I?
-
- Adventurer: So ... seems to be ... hmmmm ... only            
-thirty days there, this time of year.             Maybe forty
-back, with the loads. Let
-
-
-    me study this a bit more ...
-
- Shub:       Can't take it with you, of course ...             don't
-want this getting out now ...
-
- Adventurer: Oh no. That's fine.  Look, let me             have a
-bit more gold. Going to need
-
-
-    some heavy-duty carts. See here, this             section
-... cut by all these washes
-
-
-    ... hmmmm ... the flummox there will
-
-
-    be something terrible ... Oh, and             these ruins,
-full of ghosts, I bet
-
-
-    ... hmmmm ... and this pass, just full
-
-
-    of willies too ...
-
- Shub:       If you say so ... My, seems that we             picked
-the right man, right, Shub!
-
- Shub:       Oh yes, indeed.
-
- Adventurer: So -- why don't I make arrangements,             get
-back to you in ... er ... say a
-
-
-    week?             Say -- sure that you don't want to
-
-
-    come with me. After all, there's
-
-
-    nothing like the wilderness life.
-
-
-    Waking up with the sun, shaking off
-
-
-    the frost. Catching an orc for              breakfast - ever
-have orc guts
-
-
-    fried over stinkwood? Oh, that's a
-
-
-    treat! Checking each stream for
-
-
-    dead giant spiders - or live ones!
-
-
-    Imp jerky for lunch! Scanning the
-
-
-    ridges for dragonlings! Standing
-
-
-    guard against Ice Daedra in a
-
-
-    blinding snowstorm! Oh, what a life!
-
- Shub and Shub (Together): No, no ... we, we better stay here  
-          at the Guild. Got our duties after
-
-
-    all ... someones got to mind the
-
-
-    store ... someones got to get the
-
-
-    word out to selected customers ...             No, thank
-you kind Sir, it does
-
-
-    sound such a lovely life, but I
-
-
-    think we best be here ... yes,
-
-
-    indeed ...
-
- Adventurer: A pity, gentlemen. Well, I'll be            
-about it then. And don't worry if
-
-
-    you see me with those priests --
-
-
-    got to mislead and misdirect them,
-
-
-    haven't I!
-
- Shub:       One week, then!
-
- (Exeunt Shub, the Adventurer, and Shub) (Enter Epilogue)
-
- Epilogue:   Shub and Shub, ladies and gentlemen.            
-Implausibly retarded mages, yes, but  
-    perhaps there's
-something more to
-
-
-    them than this act suggests. Do you
-
-
-    think so, maybe? Well, if you are
-
-
-    not in the theater for Part the
-
-
-    Fourth, you won't know for certain,
-
-
-    will you? Don't forget to tip your
-
-
-    wenches and think on that while we
-
-
-    change the set.
-
- So Endeth Part the Three
-
- 
+Перевод: Денис Камалов

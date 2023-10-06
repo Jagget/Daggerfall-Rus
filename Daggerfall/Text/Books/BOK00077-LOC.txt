@@ -1,405 +1,115 @@
-Title: Fools' Ebony, Part the Fourth
-Author: Frincheps
+Title: Эбонитовая обманка, ч.4
+Author: Фринчепс
 IsNaughty: True
 Price: 317
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Fools' Ebony
-
-[/center]Part The
-
-[/center]Fourth
-
-
+[/center]Эбонитовая обманка, ч.4
 
 [/font=4]
 
+Часть четвертая — торговые сделки, оружейники проявляют себя. После нескольких обходных маневров и словесных плясок вокруг да около наконец-то проясняется ситуация с эбонитовой Обманкой…
 
+Где-то рядом с рынком, позади лавки под названием «Разнообразные Товары Нефрона».
 
-[/center] Dramatis Personae
+День спустя.
 
- Prologue The Adventurer, A Dark Elf Rascal Komon, A Priest
-of Akatosh Lheban, Another Priest of Akatosh Epilogue Stete, A
-Priest of Julianos Raic, Another Priest of Julianos Shub, A
-Mage Shub, A Different Mage of the Same Name Nephron, A
-Somewhat Sleazy Merchant 5 Armorers Ortho Crunn, Husband of
-Millie A Lusty Contessa Millie, Innkeep and Philosopher
-Gurnsey, Bovine Wench Assorted Wenches and Cads of the
-Taverns Soldiers Dwarves Giants
+(входят Пролог, Авантюрист и Нефрон)
 
+Пролог: пока актеры, играющие роли Авантюриста и торговца Нефрона театрально шевелят губами, изображая разговор, на плечах бедного Пролога лежит задача поведать аудитории о событиях первых трех действий. Авантюрист, пройдоха Темный эльф, был нанят двумя различными группами: пьяницами жрецами и жадинами магами с целью задержать конкурирующую группу и найти затерянное месторождение эбонитовой Обманки в Ротгарианских Горах. Теперь представьте, что эти небрежно размалеванные декорации изображают заднюю комнату в процветающей торговой лавке. А сейчас, перед тем как Авантюрист и Нефрон заговорят, самое время Прологу удалиться.
 
+Авантюрист: Теперь ты видишь, друг Нефрон, открывающиеся перед нами возможности. У нас появится новое предложение, на которое, согласись, будет огромный спрос.
 
- Part The Fourth - Mercantile Dealings,                   The
-Armorers Involve
+Нефрон: Особенно от знати — как только один из них заимеет что-то новенькое, это тут же хотят заполучить все остальные.
 
+Авантюрист: И не забывай об Оружейниках с их подделками и об Алхимиках с их ретортами…
 
-  Themselves. After some
+Нефрон: Ты довольно неплохо разобрался с этими Магами, узнал у них расположение нужного места, запомнил карту доступа к нему и все такое, ты знаешь, мы, торговцы, уже довольно давно подозреваем у этих старых болванов наличие какого-то совершенно непонятного интереса к нам… Теперь Жрецы: со Школой Джулианоса мы уже давно неплохо работаем в тесном контакте. Но мы само собой отрежем их от основной прибыли — может быть позволим им распространять немного товара среди своих. А их Храмы могут неплохо послужить в качестве хранилищ. Но вот Церковь Акатоша — это проблема, они все делают в одиночку на свой страх и риск, никакого сотрудничества, сплошные безумцы… нам точно нужно будет что-то предпринять, чтобы… ээ… гарантировать их сотрудничество…
 
+Авантюрист: У меня есть предложение, которое может помочь… помнишь, как умчался старик Комон, прихватив с собой эту маленькую блондиночку-фонарщицу?.. Представь только, что он совершенно случайно, в своем… одурманенном состоянии уволочет с собой какую-нибудь важную персону?.. У Церкви Акатоша могут быть серьезные неприятности, если об этом станет известно всем?
 
-  general discussion and
+Нефрон: Хммм. В самом деле… есть одна маленькая глупая блондиночка из Королевской Семьи, которая просто в восторге от ‘настоящей жизни’ в здешних трущобах. Она успешно маскируется (точнее, ей так кажется) под нищенку и приходит сюда. Маленькая идиотка… Комон все еще скрывается вместе со своей блондинкой?
 
+Авантюрист: Да, в этом ‘убежище’ Жрецов, рядом с побережьем.
 
-  verbal dancing around,
+Нефрон: О да, мне известно это место: часто продавал им там кое-какие ‘божественные порошки’ и все такое… Отлично … только представь себе, что произойдет, если Комон по ошибке прихватит с собой эту маленькую любительницу трущоб… Церкви Акатоша будут постоянно мотать нервы из дворца, если с ней приключится какая-нибудь неприятность… и тогда мы сможем вмешаться, чтобы ‘помочь’ Церкви в их трудные времена… Мммм. Да! Предоставь это мне, я свяжусь с несколькими моими… ээ… деловыми партнерами, так сказать… и договорюсь с ними.
 
+Авантюрист: А я буду продолжать встречаться со жрецами, чтобы заставить их поучаствовать в нашем маленьком рискованном предприятии.
 
-  finally the topic of
+Нефрон: Правильно! А мне нужно будет представить тебя кое-каким вышестоящим членам нашего Братства… извиняюсь, Гильдии. Я свяжусь с тобой через несколько дней, когда все будет готово. Ты бываешь здесь каждый вечер?
 
+Авантюрист: Да, в наши дни на улице не совсем безопасно после того, как стемнеет.
 
-  Fools' Ebony is
+Нефрон: Понимаю. Нам нужно будет нанять тебе какую-нибудь охрану… Ну, до встречи через несколько дней.
 
+(уходит Нефрон, ничего не подозревая) (входят Пять Оружейников)
 
-  explored ...                  Somewhere near the market, in
-the back of a store called "Nephron's General Mercantile".
+(Авантюрист и Оружейники дерутся) (Авантюрист падает)
 
- The day after.
+(Оружейники связывают Авантюриста и приводят его в чувство)
 
- (Enter Prologue, the Adventurer, and Nephron)
+Первый Оружейник: Ладно, приятель. Давай не будем ходить вокруг да около! Мы знаем об этой эбонитовой Обманке. И о Магах, которым, по-видимому, известно ее местоположение. И мы следили за тем, как ты ловчишь со Жрецами, с Магами, с Торговцами. Почти со всеми, кто ходит на двух ногах!
 
- Prologue:   Whilst the actors playing the Adventurer           
- and the merchant Nephron dramatically
+Второй Оружейник: И как ты тесно контактируешь с Нефроном.
 
+Третий Оружейник: И как ты ловко надул и Жрецов и Магов…
 
-    move their mouths to pantomime a
+Второй Оружейник: Должны признать, что вы с Нефроном отлично придумали эту штуку с Церковью Акатоша.
 
+Первый Оружейник: Но нам нужен этот запас эбонитовой Обманки. Нам нужно поднимать наше производство, наше качество и наши цены. Мы можем работать с Нефроном и его бандой, так как нам все равно понадобятся склады и распространители.
 
-    conversation, it is on poor Prologue's
+Четвертый Оружейник: Мы можем запытать тебя до смерти…
 
+Третий Оружейник: Мы можем позволить Жрецам узнать о твоих планах, и они тут же отправят тебя в лапы к Полуночному Сообществу (Afterdark Society )!
 
-    shoulders to update the audience on the
+Пятый Оружейник: Мы можем дать знать Магам, и они пошлют тебя в Обливион, причем очень и очень надолго!
 
+Первый Оружейник: Но будет лучше, если ты ‘присоединишься’ к нашей Гильдии. Мы не можем оставить Даггерфол для того, чтобы отправиться в какое-то опасное путешествие. Сейчас слишком велик спрос на наши услуги.
 
-    play's actions in its first three acts.
+Второй Оружейник: Но мы можем послать с тобой за компанию отряд наших подмастерий.
 
+Четвертый Оружейник: Наши подмастерья обычно испытывают всю нашу продукцию… у них будут просто чесаться руки испробовать ее.
 
-    The Adventurer, a rogue of a Dark Elf,
+Авантюрист: Джентльмены, джентльмены! Прошу вас — я и в самом деле хотел передать дело вам, раз уж я получил золото со всех остальных.
 
+(Пятый Оружейник ударяет Авантюриста горячей кочергой)
 
-    has been hired two different groups --
+Оооо… ну, я подумывал об этом…
 
+Пятый Оружейник: Конечно! А я — нимфа!
 
-    four inebriated priests and two greedy
+Авантюрист: Да, да, да, вы чрезвычайно убедительны. Я буду очень рад… ээ… если меня будут сопровождать и охранять такие решительные джентльмены. Это будет очень к месту.
 
+Первый Оружейник: Прекрасно. Мы так и думали, что ты примешь нашу точку зрения! Несколько наших друзей сейчас заняты небольшой беседой с Нефроном. Мы о нем позаботимся. И с этого момента, двое наших здоровых подмастерий все время будут рядом с тобой. В качестве охраны, конечно, в этом городе ночью может быть довольно опасно…
 
-    mages -- to delay the other group, and
+Третий Оружейник: Так что продолжай в том же духе, работай с Нефроном. Ты всегда можешь передать сообщение о дне твоего отъезда через любую оружейную лавку. И о любых возможных затруднениях тоже…
 
+Авантюрист: Конечно, джентльмены. Да, вы и вправду весьма убедительны. Я буду держать вас в курсе. И, ээ… спасибо за защиту.
 
-    find the lost cache of Fools' Ebony in
+(входит Орто, очень крупный подмастерье) (Авантюриста развязывают) (уходят Пять Оружейников)
 
+Авантюрист: Привет, ты кто?
 
-    the Wrothgarian Mountains. Now, picture
+Орто: Моя звать Орто!
 
+Авантюрист: Моя… защита?
 
-    this clownishly decorated set as the
+Орто: Моя звать Орто!
 
+Авантюрист: Ты мне здорово кого-то напоминаешь. Ты когда-нибудь был в Морровинде?
 
-    back room at a prosperous merchant's
+Орто: Моя звать Орто!
 
+Авантюрист: Отлично. (в сторону) Мой старик всегда говорил, что самое худшее, что может произойти с человеком, это вечер, проведенный в компании важного политика. Это, как мне кажется, на это похоже.
 
-    shop. And before the Adventurer and
+(уходят Авантюрист и Орто) (входит Эпилог)
 
+Эпилог: Наша пьеса состоит из шести частей, и мы только что закончили четвертую. По-моему любопытно то, что Энергичная Принцесса еще ни разу не появилась на сцене. Вы же не думаете, что наш автор забыл о том, что он включил ее в список действующих лиц? Что ж, вы узнаете это только если останетесь на Часть Пятую. А если ваш сосед решил уйти, ничего ему не пересказывайте. Нам актерам тоже нужно зарабатывать на жизнь, знаете ли. Не забывайте о чаевых, пока мы меняем декорации.
 
-    Nephron develop lockjaw, Prologue will
+(уходит Эпилог) 
 
-
-    leave you thus.
-
- Adventurer: So you see, friend Nephron, just what an           
- opportunity we have here. We have this
-
-
-    new commodity, for which you agree there
-
-
-    will be a huge demand.
-
- Nephron:    Especially from the Royals -- once one             of
-them has something new, they all want
-
-
-    it, of course.
-
- Adventurer: And do not forget the Armorers for their            
-forges, and the Alchemists for their
-
-
-    retorts and whatnots...
-
- Nephron:    You seem to have the Mages lined up            
-nicely, got their location, memorized
-
-
-    the access map, and so on - you know,              we
-merchants have had a suspicion for
-
-
-    quite some time that those old twits
-
-
-    had some deep dark secret of interest
-
-
-    to us...             Now, the priests - the School of
-Julianos
-
-
-    we already work well with, hand and
-
-
-    glove, you might say. But of course we
-
-
-    shall cut them out of the major profits
-
-
-    -- maybe let them distribute some to
-
-
-    their flocks?  And their Temples make
-
-
-    good, how can I say? -- storehouses?
-
-
-    But the Akatosh Chantry is a problem,
-
-
-    always running off and doing things on
-
-
-    their own initiative, no cooperation,             just
-crazy people ... we really need to
-
-
-    do something about them, to ... er ...             ensure
-their cooperation ...
-
- Adventurer: I have a suggestion that might help ...            
-you recall how old Komon left and             apparently
-dragged off some little blonde             lamppost girl ...
-just suppose, that just             by chance, in his state of
-...             befuddlement ... he dragged off someone
-
-
-    important by mistake..? Might be a lot of
-
-
-    trouble for the Chantry, if word got out?
-
- Nephron:    Hmmm. Indeed ... there's this silly            
-little blonde Royal who's all excited by
-
-
-    the 'real life' down in these parts of
-
-
-    town. Disguises herself (or so she             thinks), comes
-on down here and plays at             being poor.  Stupid
-little twit ... Komon             is still in hiding with his
-blonde, right?
-
- Adventurer: Yes, in that 'retreat' the Priests have,            
-down near the waterfront.
-
- Nephron:    Oh yes, I know that place - often sell            
-them some 'spiritual powders' and so on
-
-
-    ... Good ... you see, just imagine what             would
-happen if Komon, by mistake, had             grabbed this
-slumming little Contessa             ... Akatosh Chantry would
-have no end of             trouble from the palace if something 
-           nasty happened to her ... and then we             could
-move in, offer to 'help' the Chantry             during their
-hard times ... Hmmm.             Yes! Leave it to me, I shall
-contact a few             of my ... er ... business associates,
-as             it were ... make some arrangements.
-
- Adventurer: And I'll keep up chatting with the            
-priests, get them to support our little             business
-venture?
-
- Nephron:    Right!  And I should introduce you to some           
- of the more senior members of our             Brotherhood ...
-excuse me, Guild.  Let me             contact you in a few days,
-when everything             is all set. You are here every
-evening?
-
- Adventurer: Yes, not particularly safe outside after         
-   dark these days.
-
- Nephron:    I see. We shall have to arrange some ...            
-protection for you. Well, in a few days,
-
-
-    then.
-
- (Exit Nephron, inconspicuously) (Enter Five Armorers)
-(Armorers and the Adventurer fight) (The Adventurer falls)
-(The Armorers tie the Adventurer up and then wake him up)
-
- Armorer 1:  OK, fellow. Lets not spriggen-foot around!      
-      We know about this Fools' Ebony thing. And             about
-the Mages who apparently discovered              the location.
-And we have been watching you             dance around with the
-Priests, the Mages,             the Merchants. Just about
-everyone with two
-
-
-    feet!
-
- Armorer 2:  And how you are really working with Nephron.
-
- Armorer 3:  And how you are double-crossing the Priests         
-   and Mages ...
-
- Armorer 2:  You and Nephron are really doing a good job      
-      on the Akatosh Chantry, we must admit.
-
- Armorer 1:  But now, we want that Fool's Ebony supply.       
-     We need it to increase our production, our            
-quality -- and our prices.  We can work             with Nephron
-and his gang, we need             warehouses and distribution
-anyway.
-
- Armorer 4:  We could torture it out of you ... 
-
- Armorer 3:  We could let the Priests know about your            
-plans -- they would throw you to the
-
-
-    Afterdark Society in a flash!
-
- Armorer 5:  We could let the Mages know -- they would            
-send you to Oblivion for a very, very long
-
-
-    time!
-
- Armorer 1:  But we would rather you 'joined' our            
-Guild. We cannot afford to leave Daggerfall             for
-some hairy wilderness trip. Too much             demand these
-days, for our sevices.
-
- Armorer 2:  But we can send a group of our apprentices        
-    along to keep you company.
-
- Armorer 4:  Our apprentices usually test all our            
-products ... and will be just itching to             test out
-there.
-
- Adventurer: Gentlemen, gentlemen! Please - I really was     
-       going to give the whole deal to you, once I             had
-gotten gold from everyone else.
-
- (Armorer 5 slaps the Adventurer with a hot poker)
-
-             Ohhh ... well, I thought of it...
-
- Armorer 5:  Sure!  And I'm a Nymph!
-
- Adventurer: Yes, Yes, Yes, you are very persuasive.            
-I would welcome an ... er ... escort and             guard of
-such tough gentlemen. Be very             handy out there.
-
- Armorer 1:  Good. Thought you would see it our way!            
-Some of our other members are presently             having a
-little ... chat with Nephron. We             can handle him. And
-from now on, two of             our bigger apprentices will
-always be
-
-
-    close at hand.  Protection, of course --             this
-town can be quite dangerous at
-
-
-    night ...
-
- Armorer 3:  So continue with your arrangements, work            
-with Nephron. You can always leave word             about your
-departure date with any weapons             shop.  And about
-any problems you may
-
-
-    have ...
-
- Adventurer: Certainly, gentlemen. Yes, you are indeed        
-    very persuasive. I shall keep you up to             date. 
-And, er...thanks for the protection.
-
- (Enter Ortho, the very large apprentice) (The Adventurer is
-untied) (Exeunt Five Armorers)
-
- Adventurer: Hello, who are you?
-
- Ortho:      Me am Ortho!
-
- Adventurer: My ... protection?
-
- Ortho:      Me am Ortho!
-
- Adventurer: You look very familiar to me for some            
-reason. Have you every been to Morrowind?
-
- Ortho:      Me am Ortho!
-
- Adventurer: Fine then.             (aside)
-
-
-    My old man used to say the very worst
-
-
-    thing that can happen to a fellow is
-
-
-    an evening spent in the company of an
-
-
-    earnest politician. This, I think, is
-
-
-    a close second.
-
- (Exeunt the Adventurer and Ortho) (Enter Epilogue)
-
- Epilogue:   Our play has six parts, and we've just            
-finished the fourth. It's interesting             I think that the
-Lusty Contessa has
-
-
-    not made an appearance yet. You don't
-
-
-    suppose our playwrite forgot he put her
-
-
-    in the Dramatis Personae, do you? Well,
-
-
-    you'll only know if you come back for
-
-
-    The Fools' Ebony, Part the Fiveth. And
-
-
-    if your neighbor decides not to return,
-
-
-    don't tell him what happened. We actors
-
-
-    have to make a living too, you know.
-
-
-    Don't forget to tip your wenches while
-
-
-    we change the scene.
-
- (Exit Epilogue)     
-
-                    So Endeth Part The Fourth 
+Перевод: Денис Камалов

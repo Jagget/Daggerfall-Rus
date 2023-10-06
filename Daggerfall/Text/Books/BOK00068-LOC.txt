@@ -1,48 +1,66 @@
-Title: Rude Song
-Author: Anonymous
+Title: Грубая песня
+Author: Неизвесный автор
 IsNaughty: False
 Price: 513
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
-
-[/center]Rude Song
-
-
+[/center]Грубая песня
 
 [/font=4]
 
-[/center]
+[/center]Каждый год, как весна,
+[/center]Вся мораль забыта
+[/center]Во дворах и портах
+[/center]Залива.
+[/center]Попиваем пивко,
+[/center]На душе всем легко,
+[/center]И графья, и мужья,
+[/center]Игривы.
+[/center]Ни овца, ни корова
+[/center]Нам ни скажут ни слова;
+[/center]А тела согрешить
+[/center]Готовы.
+[/center]Это все должны знать,
+[/center]Настал час соблазнять,
+[/center]Для юнцов-молодцов
+[/center]Веселых.
+[/center]Отдыхать на лугу средь борозд — это так прелестно.
+[/center]Если при этом одежду снять, будет все чудесно.
+[/center]Милашка королева есть
+[/center]В цветущем крае Вэйрест.
+[/center]К греху она покажет путь,
+[/center]Лишь стоит на нее взглянуть.
+[/center]Она всегда не прочь гульнуть
+[/center]С сапожником, вором,
+[/center]С трактирщиком,
+[/center]С рабом и рыбаком.
+[/center]Лайнлин, еще есть славный край,
+[/center]О нем ты тоже, друг, узнай.
+[/center]Круговорот всегда в краю царит,
+[/center]И баронесса любит пошалить
+[/center]С мужчинами, что по пути,
+[/center]Пока барон занят детьми.
+[/center]Леди, в носик, свою целовать — это так прелестно.
+[/center]Если при этом одежду снять, будет все чудесно.
+[/center]А в Даггерфолле правят бал.
+[/center]Все высшее общество, позабыв одиночество,
+[/center]В скандалах участвует,
+[/center]Правит и властвует.
+[/center]Вот стражи бравый капитан
+[/center]Ведет свой очень хитрый план,
+[/center]Он ищет то, что королева
+[/center]Хранит в своих штанишках.
+[/center]А местная волшебница
+[/center]Подарит вам желаньице,
+[/center]Король, чтоб смело замахнулся
+[/center]Копьем, вот шалунишка.
+[/center]Преподнести любимой розы — это так прелестно.
+[/center]Если при этом одежду снять, будет все чудесно.
+[/center]Все отбросить: заботы, и беды, и горе — это так прелестно.
+[/center]Если при этом одежду снять, будет все чудесно.
+[/center]Да, сэр, бесспорно, чудесно!
 
-[/center] In the spring of the year Doth propriety disappear In the
-courts and the ports Of the Bay. Drinking new beer, Everybody
-feels queer And the Earls and the churls Go astray. The bee and
-the bird Don't have to tell us a word. Our bodies for
-naughties Are prime. If you haven't heard, You can let
-yourself be lured For the youth, for things uncouth, It is
-time. Oh, it's lovely to sit in a field, harvested into rows
-It's lovelier still to do the same not wearing any clothes.
-People of the Bay bless The flowered court of Wayrest For
-showing us the gentle way of sin The bonny Dark Elf queen Likes
-to see and to be seen With cobblers, thieves, And tavernkeeps,
-And slaves, and fish-er-men In the court of Lainlyn, Right
-upon the mainland With sex, the whole place is in a whirl The
-Baroness likes to play With men who come her way, While the
-Baron likes the little boys and girls. Oh, it's lovely to
-give your lady a kiss upon her nose  It's lovelier still to
-do the same not wearing any clothes. In Daggerfall, they
-hold a ball And all of society indulges in a variety Of
-scandal, they can handle -- A lot. The Captain of the Guard Has to search very hard For
-a bean that the Queen Has in her pants. And the Court Sorceress
-Will grant you a wish To cause the King to fling About his
-lance. Oh, it's lovely to give your love a single perfect
-rose It's lovelier still to do the same not wearing any
-clothes. Oh, it's lovely to abandon all your cares and
-fears and woes It's lovelier still to do the same not
-wearing any clothes. Yes sir, it's lovely not wear any
-clothes!"
-
- 
+Перевод: Xaron

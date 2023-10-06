@@ -1,5 +1,5 @@
-Title: Jokes
-Author: Butha Sunhous
+Title: Анекдоты
+Author: Бута Санхус
 IsNaughty: True
 Price: 667
 IsUnique: False
@@ -9,139 +9,83 @@ Content:
 
 [/font=2]
 
-[/center]Jokes
-
-
+[/center]Анекдоты
 
 [/font=4]
 
-[/center]
+- Ну, как твоя жена? — спросил Залитер.
+— Лежит в постели с ларингитом, — ответил Харлит.
+- Этот аргонианский ублюдок снова в городе?
 
-[/center] "How is your wife," asked Zalither. "She's in bed with
-laryngitis," replied Harlyth. "Is that Argonian bastard
-back in town again?"
+[/center]_________________________
 
+- У меня перед глазами постоянно мелькают какие-то точки.
+- Как насчет целителя?
+— Нет, только пятна.
 
+[/center]_________________________
 
-[/center] "I keep seeing spots before my eyes." "Have you seen a
-healer?" "No, just spots."
+На огромного северянина по имени Юлген напала воровская шайка. Он яростно сопротивлялся, но, в конце концов, был избит чуть ли не до потери сознания. Обшарив его карманы, воры нашли при нем только три золотых.
+— Ты хочешь сказать, что ты дрался с нами, как безумец, из-за трех паршивых золотых? — издевательски спросил один из воров.
+— Нет, — ответил Юлген, — я боялся, что вы заберете те четыре сотни золотых, что спрятаны у меня в ботинке.
 
+[/center]_________________________
 
+Во время Бетонской войны на острове Крэгхолд бретонцы на несколько дней оказались в осаде. После освобождения острова лорд Бридвелл обнаружил, что под руинами замка в темноте пряталась толпа переживших осаду. Освободить их было нелегко, так как часть крыши обвалилась, поймав их таким образом в ловушку. Бридвелл просунул голову в только что отрытую щель и крикнул находящимся внизу бретонцам:
+— Кто-нибудь готовится стать матерью?
+— Трудно сказать, ваше лордство, — ответила молодая женщина. — Мы сидим здесь внизу всего лишь несколько дней.
 
-[/center] A big Nord named Julgen was set on by a gang of thieves. He
-fought them furiously, but in the end, they beat him into
-semiconsciousness. They searched his pockets and discovered
-that he only had three gold pieces on him.
+[/center]_________________________
 
- "Do you mean to tell us you fought us like a mad lupe for
-three lousy gold pieces?" sneered one of the thieves.
+Старый бретонец на собрании гильдии встретился со своим сверстником.
+— Харристон, старина, я хотел выразить тебе мои сожаления. Я слышал, ты на прошлой неделе похоронил жену.
+— Пришлось, старик, — ответил Харристон. — Умерла, знаешь ли.
 
- "No," answered Julgen. "I was afraid you were after the
-four hundred gold pieces in my boot."
+[/center]_________________________
 
+Почему во время Бетонской войны армия Сентинеля была настолько бесполезной?
+Их орудия были слишком тяжелыми, поэтому все три мусорные баржи затонули.
 
+[/center]_________________________
 
-[/center] During the War of Betony, the Bretons in the Isle of Craghold
-were under siege for several days. After the island was
-liberated, Lord Bridwell found the ruins of the castle where
-a crowd of survivors were hidden away in the dark. It was
-going to be a difficult job freeing them, as part of the
-roof had collapsed trapping them all within. Bridwell
-stuck his head in the only opening and shouted to the Bretons
-below: "Are there any expectant mothers down there?"
+Какой военный маневр перво-наперво разучивает сентинельский рядовой-новобранец?
+Отступление.
 
- "It's hard to say, your Lordship," said a young woman.
-"We've only been down here for a few days."
+[/center]_________________________
 
+Как называется самая тонкая книга в мире?
+«Редгардские герои Бетонской войны».
 
+[/center]_________________________
 
-[/center] An elderly Breton met with an contemporary of his at a
-guild meeting. "Harryston, old man, I wanted to express my
-sympathy. I hear that you buried your wife last week."
+Один темный эльф убил свою жену, застав ее занимающейся любовью с другим мужчиной. Когда магистрат спросил его, почему он убил женщину, вместо того, чтобы убить ее любовника, он ответил:
+— Я рассудил, что лучше убить одну женщину, чем разных мужчин каждую неделю.
 
- "Had to, old boy," replied Harryston. "Dead, you know."
+[/center]_________________________
 
+Темной эльфийке показывали Даггерфолл. Когда ей показали великолепный Даггерфоллский замок, она ласково улыбнулась своему гиду и прошептала:
+— Он напоминает мне секс.
+— Странно, — отозвался ее гид. — Почему это наш Даггерфоллский замок напоминает вам секс?
+— Да мне все его напоминает, — вздохнула она.
 
+[/center]_________________________
 
-[/center] Why was the Sentinel army so useless during the War of
-Betony? The cannons were too heavy, so all three garbage
-scows sunk.
+Йелита рассказала Ватисе, что сегодня вечером она ужинает с темным эльфом по имени Морлет.
+— Я слышала, он просто животное какое-то, — сказала Ватиса. — Он немедленно прямо на тебе разорвет платье в клочья.
+— Спасибо, что сказала, — ответила Йелита. — Я непременно надену старое платье.
 
+[/center]_________________________
 
+Как увольняются матросы в Каджиитском военно-морском флоте?
+С молотком и клещами.
 
-[/center] What does a new Sentinel private learn first as a combat
-technique? How to retreat.
+[/center]_________________________
 
+— Этот сад навевает на меня сентиментальные воспоминания, — сказал каджиит Моджхад своему другу Хасиллиду. — Вот под этим, например, деревом я впервые занимался любовью. А вот под этим деревом стояла ее мать и наблюдала за нами.
+— Она наблюдала за тобой, когда ты занимался любовью с ее дочерью? — переспросил Хасиллид, явно впечатленый. — И ничего не сказала?
+— Мяу.
 
+[/center]_________________________
 
-[/center] What is the thinnest book in the world? Redguard Heroes of the
-War of Betony.
-
-
-
-[/center] A Dark Elf man killed his wife after catching her making love
-with another man. When the magistrate asked him why he killed
-her instead of her lover, the man replied, "I considered it
-better to kill one woman than a different man every week."
-
-
-
-[/center] A Dark Elf woman was being shown around Daggerfall. When she
-was shown the magnificent Castle Daggerfall, she smiled
-sweetly to her guild and whispered, "It reminds me of sex."
-
- "That's odd," said her guild. "Why does our Castle
-Daggerfall remind you of sex?"
-
- The Dark Elf sighed, "Everything does."
-
-
-
-[/center] Yelithah told Vathysah that she was having  dinner with a Dark
-Elf named Morleth that night.
-
- "I hear he's an animal," said Vathysah. "He'll rip your
-dress right off you."
-
- "Thank you for telling me," said Yelithah, "I'll be sure to
-wear an old dress."
-
-
-
-[/center] How do separate sailors in the Khajiiti navy? With a hammer
-and tongs.
-
-
-
- "This orchard has sentimental value to me," said Mojhad, the
-Khajiit, to his friend, Hasillid. "Under that tree, for
-example, is where I first made love. And that tree, is where
-her mother stood, watching us."
-
- "She watched you while you made love to her daughter?" said
-Hasillid, clearly impressed. "Didn't she say anything?"
-
- "Meow."
-
-
-
-[/center] What do you call a Wood Elf who doesn't lie or cheat or
-steal?
-
- A dead Wood Elf.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+Как вы назовете лесного эльфа, который не лжет, не мошенничает или не крадет?
+Мертвый лесной эльф.
