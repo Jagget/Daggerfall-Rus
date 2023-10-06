@@ -1,147 +1,69 @@
-Title: Oelander's Hammer
-Author: Krowle
+Title: Молот Ойландера
+Author: Краул
 IsNaughty: False
 Price: 424
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Oelander's Hammer:
+[/center]Молот Ойландера:
 
 [/center]
 
-[/center]An Instructive Tale
+[/center]поучительная сказка для детей
 
-[/center]For Children
-
-
+[/center]для детей
 
 [/font=4]
 
+ Двое детей, Фредвиг со своей младшей сестренкой Сильвандой гуляли с самого утра. Полуденное солнце было уже прямо над головой, и все было ярким и теплым. Они вышли из Ганитсты, поселка рэдгард, еще рано утром, надеясь устроить пикник где-нибудь в дикой глуши, и отец строго наказал им вернуться до вечера. Они пересекли огромное поле, посреди которого одиноко рос розовый куст.
 
+ Девочка спросила о нем Фредвига.
 
- The two children, Froedwig and his younger sister
-Silvanda, had been exploring all morning. The noon sun was
-directly overhead and everything was warm and bright. The
-had left their Redguard village, Granitsta, early that
-morning for a day in the wildnerness, a picnic, and with a
-stern warning from their father to be home before dark. They
-crossed a huge field that was bare save a single rose bush
-right in the middle.
+ "Ну, как рассказывал отец", - начал он, - "много лет назад на этом месте была великая битва. И туда пришел бог всех воинов, Реймон Эбонарм, который сделал так, что вожди прекратили сражаться и вернулись домой. Говорят, что на том месте, где он стоял, вырос этот розовый куст".
 
- The little girl asked Froedwig about it.
+ "Здорово!" - восхищенно сказала Сильванда.
 
- "Well," he said, "according to father a great battle was
-fought in this place many years ago. The battle was visited
-by the God of all warriors, Reymon Ebonarm, who caused the
-leaders to end the battle and return to their homes. It is
-said that the rose bush grows where he stood that day."
+ Дети пошли дальше, приближаясь к лесу. Войдя в лес, они почувствовали, что воздух стал заметно холоднее, а глубокая тишина, казалось, обволакивала их.
 
- "Oh, how exciting," giggled Silvanda.
+ "Что это?"
 
- The children continued their trek approaching some woods. As
-they entered the forest the air became very cool and a deep
-quiet seemed to envelope them. 
+ Сильванда показала на большую дыру в земле, из которой торчал длинный узкий шест. Вокруг шеста выросла непроходимая стена колючего терновника.
 
- "What is that?"
+ "Я не знаю", - сказал Фредвиг, - "надо бы посмотреть на него вблизи…"
 
- Silvanda pointed to a large hole in the ground from which
-protruded a long, thick pole. Around the hole thorny
-plants had grown into an impenetrable wall.
+ "Стой!"
 
- "I don't know," said Froedwig, "but let's see if we can get
-a closer look."
+ Дети остановились. Позади дыры дети увидели какого-то преклонных лет рэдгарда. Весь его вид - седая бороденка и сутулые плечи - никак не соответствовали властному голосу, которым он приказал остановиться. Но дети замерли на месте при его приближении. 
 
- "Stop!"
+ "Кто вы?" - запинаясь спросил Фредвиг, а Сильванда осторожно спряталась за спину брата.
 
- They did.
+ "Меня зовут Хенинг Гревингер, и я живу в этих лесах."
 
- Looking beyond the hole, the children saw an elderly
-Redguard of many years. His gray beard, scraggly hair and
-stooped shoulders certainly did not support the
-authoritarian command he gave. But the children stopped
-just the same as he approached.
+ "Почему мы не можем осмотреть вон ту дыру, господин Гревингер?" - спросил Фредвиг.
 
- "Who are you?" stammered Froedwig as Silvanda carefully
-tucked herself behind her brother's back.
+ "Это потому, дорогие дети, что эта дыра и все, что в ней, проклято. А к-к-кто вы такие?" - передразнил он Фредвига.
 
- "My name is Hoennig Groevinger, and I live in these woods."
+ Собрав всю свою решительность, Фредвиг сказал: "Я - Фредвиг Аж-Мурр из поселка Гранитста. А это моя сестра Сильванда. Мы здесь просто гуляем. Не могли бы вы рассказать нам побольше об этой таинственной дыре?"
 
- "Why can't we examine yon hole, Master Groevinger?" asked
-Froedwig.
+ "Хорошо", - сказал старик и медленно уселся прямо на землю. - "Почему бы вам и не посидеть чуть-чуть здесь со мной, а я расскажу вам о молоте Ойландера. Из вон той расщелины торчит рукоятка этого сказочного оружия ". 
 
- "Because, my dear children, it and what it holds are
-cursed. Now just wh-h-h-o are you?" he stuttered, mimicing
-Froedwig.
+ После этих слов дети уселись на землю напротив старого рейнджера и приготовились выслушать его рассказ.
 
- Finally gaining his composure, Froedwig said, "I am
-Froedwig-aj- Murr of the village Granitsta. This is my sister
-Silvanda. We are on an outing. Can you tell us about this
-mysterious hole?"
+ "Много лет назад, -начал Гревингер, - на этом самом поле было огромное сражение..." 
 
- "Well," said the old man as he slowly settled to the
-ground, "Why don't you sit here with me for a while and I
-will tell you about Oelander's Hammer. That's the handle of
-the fabled weapon sticking out from yonder chasm."
+ "О, да, я знаю," - не вытерпела Сильванда, перебив рассказчика. - "Оно было остановлено богом воинов, Реймоном Эбонармом, и на том месте, где он стоял в тот день, вырос волшебный розовый куст..." - выдала она одним махом. 
 
- With this the children also settled into sitting positions
-in front of the old Redguard ranger.
+ Старец грозно откашлялся, заставив девочку опять спрятаться за спину брата. 
 
- Groevinger began, "Many year's ago there was a huge battle
-fought in this very field ..."
+ "Попрошу меня больше не перебивать... В день окончания сражения молодой рэдгардский солдат, возвращаясь домой, остановился на этом месте. Он нес с собой свое военное снаряжение, и в том числе замечательной работы боевой молот, доставшийся ему в наследство от отца. Оружие было прекрасно сделано, и несло в себе заклинание (о котором молодой воин не знал), защитившее его в этой только что завершившейся кровавой битве.Юноша (его звали Ойландер) остановился на отдых под этим самым деревом. Вдруг он увидел колдуна, одетого с головы до ног во все черное. Без лишних слов колдун потребовал отдать ему молот. Еще не полностью остывший после битвы, молодой воин, взглянув на черного колдуна, рассмеялся ему в лицо. Колдун затрясся от ярости и воздел руки, призывая ужасное проклятие на солдата. Но молодой воин оказался быстрее. Огромный молот, описав дугу, со свистом треснул колдуна по самой макушке, проломив ему голову в тот самый момент, когда заклинание сорвалось с его пальцев. Эхо взрыва прокатилось по лесу..."
 
- "Oh, yes, I know," said Silvanda, interrupting the old
-man. "It was ended by the Warrior God Reymon Ebonarm, and
-the magic rose bush grows where he stood that day..." she
-continued breathlessly.
+ Дети пристально смотрели на старика. Он подавил ухмылку и продолжил."Облака пыли и дыма наполнили небо над тем местом в лесу, а когда они рассеялись, на том месте осталась лишь огромная дыра с торчащей из нее рукоятью молота. А колдун и Ойландер исчезли! Дыра мгновенно заросла терновником, и до сего дня никто еще не смог подобраться к ней настолько близко, чтобы вытащить чудесное оружие. Многие пытались, но безуспешно. Говорят, сделать это сможет только человек исключительных достоинств."
 
- The old man sternly cleared his throat causing the little
-girl to again shrink behind her brother.
+ Тут дети внезапно обнаружили, что день уже заканчивается. "Ой, а день-то уже прошел. Нам надо идти. Если мы придем домой поздно, отец очень расстро-ится".
 
- "Now, if I may continue without interruption... On the day
-that battle ended, a young Redguard soldier stopped in this
-spot as he was leaving to go to his home. He carried the
-equipment he had used on the field which included a
-marvelously fashioned war hammer that had been given to him
-by his father. The weapon  was beautifully made and unknown
-to the young warrior carried an enchantment that had
-protected him through the vicious battle just ended."
+ Перед уходом Фредвиг сказал старику: "Спасибо вам, господин Гревингер, за этот рассказ о молоте Ойландера. Знаете, наступит день, и я вернусь сюда, чтобы попытаться завладеть им!"
 
- "The young man, Oelander by name, rested by this very tree.
-Suddenly he was confronted by a wizard dressed all in black
-from head to toe. Without so much as a how-do-you-do, the
-wizard demanded that Oelander give him his hammer. Still
-flushed from the battle, the young man just looked at the dark
-man and  laughed. The wizard shaking with rage raised his hands
-to cast a horrible spell against the soldier. However, the
-young man was quicker. The huge war hammer whistled through
-the air smiting the wizard a mortal blow just as the spell
-left his fingers. There was a loud explosion."
-
- The children stared at the old man. He surpressed a grin and
-continued.
-
- "Clouds of dusk and smoke covered the forest clearing, and
-when the air settled, yon hole was there with the hammer's
-handle protruding from it. Oelander and the wizard had
-vanished! The thorny vines you see grew up immediately
-around the hole, and to this day no one has been able to
-approach it close enough to remove that marvelous weapon.
-Many have tried and all have failed. It is said that only
-someone of tremendous merit can take it."
-
- All of a sudden, both children in unison stood and shouted,
-"Oh, look how the day has gone. We must go. If we are late
-getting home, our father will be most unhappy with us."
-
- As they turned to leave, Froedwig said to the old man,
-"Thank you, Master Groevinger, for telling us of
-Oelander's Hammer. You know, I may just come back one day and
-try to retrieve it!"
-
- As they disappeared from his view, the old man said to
-himself, "Ah, yes, Master Froedrig aj-Murr, you just  might
-do that."  
+ После того, как они скрылись из виду, старик произнес: "О, да, господин Фредвиг Аж-Мурр.Ведь удастся это только вам..."
