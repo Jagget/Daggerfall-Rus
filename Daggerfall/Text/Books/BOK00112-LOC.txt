@@ -1,5 +1,5 @@
-Title: Bourn in Wood, Part I
-Author: Lord Woodborne
+Title: Борн в лесу, часть I
+Author: Лорд Вудборн
 IsNaughty: False
 Price: 300
 IsUnique: False
@@ -8,27 +8,27 @@ Content:
 
 [/font=2]
 
-[/center]Bourn in Wood, Part I
-[/center][/font=4]by Lord Woodborne
+[/center]Борн в лесу, часть I
+[/center][/font=4]Лорд Вудборн
 
- If you’re reading this, I am probably dead. At quite a young age, I became aware of the concept of mortality, which to me is intriguing, that we all come to dust. Some very intelligent friends of mine found this idea repellent and sought immortality, but from my later conversations with them as vampires or liches, there are things worse than death. If you’ve ever spent an evening reading “A Brief History of the Empire” or "The 36 Lessons of Vivec," you know exactly what I’m talking about.
+ Если вы читаете это, то я, скорее всего, мертв. В довольно юном возрасте я познакомился с концепцией смертности, которая, как мне показалось, интригует тем, что все мы превращаемся в пыль. Некоторые мои очень умные друзья находили эту идею отталкивающей и стремились к бессмертию, но, судя по моим последующим разговорам с ними в качестве вампиров или личей, есть вещи хуже смерти. Если вы когда-нибудь проводили вечер за чтением "Краткой истории империи" или "36 уроков Вивека", вы прекрасно понимаете, о чем я говорю.
 
- So, I’ve never had a particular fear of death. To me, it’s what comes at the end of a meal, hopefully a long twelve courses with lots of exotic delights, but perhaps suddenly, unexpectedly, in the middle of the second cheese course. I’m dead, and if you’ve heard of me, you’ve probably heard terrible things. Let me set the record straight. They’re probably all true.
+ Поэтому я никогда не испытывал особого страха перед смертью. Для меня это то, что наступает в конце трапезы, надеюсь, длинной, состоящей из двенадцати блюд с множеством экзотических изысков, но, возможно, внезапно, неожиданно, в середине второго блюда с сыром. Я умер, и если вы слышали обо мне, то, вероятно, слышали ужасные вещи. Позвольте мне рассказать все начистоту. Скорее всего, все это правда.
 
- Like I said, I became aware of death at quite an early age, quite inauspiciously, by causing and witnessing the death of my older brother. I was actually responsible for the death of my eldest brother as well, but that came years later, and didn’t affect me as much. I was ten years of age, and my brother (my first victim, not my second) was sixteen. One evening at Woodborne Hall, we were in the library, discussing the family dynasty such as it is – more about that later – when the subject of primogeniture came up. Now, if you’re a peasant unfamiliar with the concept, it’s simply that wealthy landed gentry leave it all to their eldest.
+ Как я уже говорил, я познакомился со смертью в довольно раннем возрасте, причем довольно неудачно: я стал причиной и свидетелем смерти моего старшего брата. На самом деле я был виновником смерти и старшего брата, но это произошло много лет спустя и не так сильно на меня повлияло. Мне было десять лет, а моему брату (моей первой жертве, а не второй) - шестнадцать. Однажды вечером в Вудборн-Холле мы сидели в библиотеке и обсуждали семейную династию, как она есть - подробнее об этом позже, - когда зашла речь о первородстве. Если вы, крестьянин, не знакомы с этим понятием, то оно заключается в том, что богатые дворяне оставляют все старшим.
 
- “So the third eldest gets nothing?” I asked, being the third eldest.
+ "Значит, третий старший ничего не получает?" спросил я, будучи третьим старшим.
 
- “Not unless the eldest agrees to some light inheritance,” my brother, whose name by the way was Goriph, replied casually. “That’s why it’s a good idea to get along well with your brothers.”
+ "Нет, если только старший не согласится на легкое наследство", - непринужденно ответил мой брат, которого, кстати, звали Горифом. "Вот почему хорошо ладить с братьями".
 
- Of course, that’s the idea behind the practice, but the loophole was right there. If you had no older brothers, you become the eldest. Honestly, I know it’s monstrous, but has any third-born not thought this? It was what was on my mind when I asked Goriph for another book on the twentieth shelf of the library and pulled the ladder from beneath him when he reached it. He fell, broke his back, but didn’t die right away. I came back to visit him several times over the next six hours while he lay paralyzed and bleeding, his face turning paler and paler, the blood on his lips going from scarlet to black. Until he turned cold. Then I called for our knights, pretending I had just discovered him.
+ Конечно, в этом и заключается смысл практики, но лазейка была именно здесь. Если у тебя не было старших братьев, то ты становился старшим. Честное слово, я понимаю, что это чудовищно, но неужели ни один третьесортный не задумывался об этом? Именно об этом я думал, когда просил у Горифа очередную книгу на двадцатой полке библиотеки и выдернул из-под него лестницу, когда он до нее дотянулся. Он упал, сломал спину, но умер не сразу. Я несколько раз приходил к нему в течение следующих шести часов, пока он лежал, парализованный и истекающий кровью, его лицо становилось все бледнее и бледнее, кровь на губах превратилась из алой в черную. Пока он не замерз. Тогда я позвал наших рыцарей, сделав вид, что только что обнаружил его.
 
- What I discovered from this was that killing someone I loved, and I loved Goriph as much as someone like me can love, did not affect me at all. Though I am a liar by nature, I won’t lie about this. It bothers me a little that I don’t have feelings of remorse. I feel more guilt over my lack of guilt than my actual guilt. Oh well.
+ Я обнаружил, что убийство того, кого я любил, а я любил Горифа так сильно, как только может любить человек вроде меня, совершенно не повлияло на меня. Хотя я лжец по натуре, я не буду врать об этом. Меня немного беспокоит, что я не испытываю угрызений совести. Я больше чувствую вину за отсутствие вины, чем за реальную вину. Ну что ж.
 
- Ah, and I mentioned Woodborne Hall. Yes, I am Lord Woodborne. The hopefully infamous Lord Woodborne, the key behind the Daggerfall plot.
+ А, и я упомянул Вудборн Холл. Да, я лорд Вудборн. Надеюсь, печально известный лорд Вудборн, ключ к заговору в Даггерфолле.
 
- As I said, I am a liar, but if I am indeed dead when you read this, this is the unvarnished truth. I don’t come off particularly well in this narrative, but neither will some of those who no doubt will live on and pretend they never knew me and yet are ruling the Iliac Bay. There are of course a few decent people I’ve met in my life, and I tried to take advantage of them when I could. They were either the lowest of the low who had nothing and could give nothing, or the highest, who could give nearly everything and lose almost nothing. Everyone else I’ve met … well, I’ll get into the particulars in a moment.
+ Как я уже сказал, я лжец, но если я действительно мертв, когда вы это читаете, то это чистая правда. В этом повествовании я предстаю не в самом лучшем свете, но и некоторые из тех, кто, несомненно, будет жить дальше и делать вид, что никогда не знал меня, но при этом править заливом Илиак. Конечно, есть несколько достойных людей, которых я встречал в своей жизни, и я старался воспользоваться ими, когда мог. Это были либо низшие из низших, которые ничего не имели и ничего не могли дать, либо высшие, которые могли дать почти все и почти ничего не потерять. Все остальные, кого я встречал... ну, я сейчас расскажу об этом подробнее.
 
- You’re probably wondering about me killing my eldest brother and inheriting the title and wealth, how and why I orchestrated the death of King Lysandus of Daggerfall for the benefit of his son Gothryd, and my plot to marry Elysana, Princess of Wayrest, to become king.
+ Вам наверняка интересно, как я убил своего старшего брата и унаследовал титул и богатство, как и почему я организовал смерть короля Лисандуса из Даггерфолла в пользу его сына Готрида, а также мой план жениться на Элисане, принцессе Вэйреста, чтобы стать королем.
 
- Gather around, children, and listen.
+ Соберитесь вокруг, дети, и слушайте.
