@@ -6,7 +6,7 @@
 -- QuestId: 15
 Messages: 41
 Quest: C0B10Y15
-DisplayName: The Relic
+DisplayName: Реликвия
 -- Message panels
 QRC:
 

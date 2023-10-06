@@ -6,7 +6,7 @@
 -- QuestId: 24
 Messages: 41
 Quest: R0C60Y24
-DisplayName: Business with Vampires
+DisplayName: Бизнес с вампирами
 -- Message panels
 QRC:
 

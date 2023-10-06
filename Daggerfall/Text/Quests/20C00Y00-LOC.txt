@@ -6,7 +6,7 @@
 -- QuestId: 0
 Messages: 61
 Quest: 20C00Y00
-DisplayName: Molag Bal's Quest
+DisplayName: Задание Молаг Бала
 -- Message panels
 QRC:
 

@@ -5,7 +5,7 @@
 -- Repute: 10
 -- QuestId: 2
 Quest: A0C10Y02
-DisplayName: The Abducted Child
+DisplayName: Похищенное дитя
 -- Message panels
 QRC:
 

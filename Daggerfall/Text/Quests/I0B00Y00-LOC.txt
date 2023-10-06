@@ -6,7 +6,7 @@
 -- QuestId: 0
 Messages: 31
 Quest: I0B00Y00
-DisplayName: A Special Plant
+DisplayName: Особое растение
 -- Message panels
 QRC:
 

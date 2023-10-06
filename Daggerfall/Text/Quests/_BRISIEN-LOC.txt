@@ -5,7 +5,7 @@
 -- QuestId: 0
 Messages: 27
 Quest: _BRISIEN
-DisplayName: Lady Brisienna
+DisplayName: Леди Бризьен
 -- Message panels
 QRC:
 

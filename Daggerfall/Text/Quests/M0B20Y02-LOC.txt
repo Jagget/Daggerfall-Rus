@@ -6,7 +6,7 @@
 -- QuestId: 2
 Messages: 81
 Quest: M0B20Y02
-DisplayName: Pack of Giants
+DisplayName: Группа гигантов
 -- Message panels
 QRC:
 

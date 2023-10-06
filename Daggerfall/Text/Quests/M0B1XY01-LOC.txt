@@ -6,7 +6,7 @@
 -- QuestId: 1
 Messages: 81
 Quest: M0B1XY01
-DisplayName: Hunt for Harpies
+DisplayName: Охота на гарпий
 -- Message panels
 QRC:
 

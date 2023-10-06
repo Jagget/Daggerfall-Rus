@@ -6,7 +6,7 @@
 -- QuestId: 10
 Messages: 11
 Quest: O0B2XY10
-DisplayName: A Treasured Potion
+DisplayName: Заветное зелье
 -- Message panels
 QRC:
 

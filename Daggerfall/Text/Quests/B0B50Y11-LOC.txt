@@ -6,7 +6,7 @@
 -- QuestId: 11
 Messages: 12
 Quest: B0B50Y11
-DisplayName: The Exorcism
+DisplayName: Экзорцизм
 -- Message panels
 QRC:
 

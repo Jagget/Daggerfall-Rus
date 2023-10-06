@@ -6,7 +6,7 @@
 -- QuestId: 2
 Messages: 31
 Quest: R0C10Y02
-DisplayName: Gold Smuggling
+DisplayName: Контрабанда золота
 -- Message panels
 QRC:
 

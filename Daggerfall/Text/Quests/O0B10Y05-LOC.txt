@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 11
 Quest: O0B10Y05
-DisplayName: Valuable Artwork
+DisplayName: Ценные произведения искусства
 -- Message panels
 QRC:
 

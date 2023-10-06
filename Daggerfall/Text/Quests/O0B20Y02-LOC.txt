@@ -6,7 +6,7 @@
 -- QuestId: 2
 Messages: 11
 Quest: O0B20Y02
-DisplayName: A Prized Item
+DisplayName: Ценный предмет
 -- Message panels
 QRC:
 

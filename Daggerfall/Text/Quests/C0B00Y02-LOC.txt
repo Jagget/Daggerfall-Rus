@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 27
 Quest: C0B00Y02
-DisplayName: The Possessed Child
+DisplayName: Одержимое дитя
 -- Message panels
 QRC:
 

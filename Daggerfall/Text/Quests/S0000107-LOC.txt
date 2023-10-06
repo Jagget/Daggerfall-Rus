@@ -3,6 +3,7 @@
 -- QuestId: 107
 Messages: 10
 Quest: S0000107
+DisplayName: Выжить!
 -- Message panels
 QRC:
 

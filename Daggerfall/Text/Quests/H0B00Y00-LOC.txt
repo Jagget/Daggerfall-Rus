@@ -6,7 +6,7 @@
 -- QuestId: 0
 Messages: 21
 Quest: H0B00Y00
-DisplayName: A Powerful Spirit
+DisplayName: Могучий дух
 -- Message panels
 QRC:
 

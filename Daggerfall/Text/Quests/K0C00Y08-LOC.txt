@@ -6,7 +6,7 @@
 -- QuestId: 8
 Messages: 13
 Quest: K0C00Y08
-DisplayName: A Rare Book
+DisplayName: Редкая книга
 -- Message panels
 QRC:
 

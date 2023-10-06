@@ -6,7 +6,7 @@
 -- QuestId: 6
 Messages: 12
 Quest: C0B10Y06
-DisplayName: The Expiatory Sacrifice
+DisplayName: Жертва искупления
 -- Message panels
 QRC:
 

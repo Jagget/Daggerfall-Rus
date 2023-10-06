@@ -6,7 +6,7 @@
 -- QuestId: 4
 Messages: 17
 Quest: K0C00Y04
-DisplayName: Two Cowards
+DisplayName: Два труса
 -- Message panels
 QRC:
 

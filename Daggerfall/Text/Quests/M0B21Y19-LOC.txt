@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 72
 Quest: M0B21Y19
-DisplayName: Standard Protection
+DisplayName: Стандартная защита
 -- Message panels
 QRC:
 

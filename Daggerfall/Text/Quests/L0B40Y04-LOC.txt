@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 22
 Quest: L0B40Y04
-DisplayName: Concerns of a Noble
+DisplayName: Заботы благородного человека
 -- Message panels
 QRC:
 

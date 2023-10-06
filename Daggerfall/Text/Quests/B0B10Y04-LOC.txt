@@ -6,7 +6,7 @@
 -- QuestId: 4
 Messages: 18
 Quest: B0B10Y04
-DisplayName: The Crazed Mercenary
+DisplayName: Безумный наемник
 -- Message panels
 QRC:
 

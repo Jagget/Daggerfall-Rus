@@ -3,6 +3,7 @@
 -- QuestId: 101
 Messages: 16
 Quest: S0000101
+DisplayName: Выжить!
 -- Message panels
 QRC:
 

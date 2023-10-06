@@ -6,7 +6,7 @@
 -- QuestId: 0
 Messages: 21
 Quest: G0B00Y00
-DisplayName: The Arm of Fury
+DisplayName: Рука ярости
 -- Message panels
 QRC:
 

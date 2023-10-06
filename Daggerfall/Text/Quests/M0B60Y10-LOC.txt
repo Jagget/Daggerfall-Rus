@@ -6,7 +6,7 @@
 -- QuestId: 10
 Messages: 81
 Quest: M0B60Y10
-DisplayName: Hunt for an Atronach
+DisplayName: Охота на атронаха
 -- Message panels
 QRC:
 

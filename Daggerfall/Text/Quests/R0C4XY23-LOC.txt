@@ -6,7 +6,7 @@
 -- QuestId: 23
 Messages: 31
 Quest: R0C4XY23
-DisplayName: The Daedric Book
+DisplayName: Даэдрическая книга
 -- Message panels
 QRC:
 

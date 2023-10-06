@@ -6,7 +6,7 @@
 -- QuestId: 0
 Messages: 43
 Quest: U0C00Y00
-DisplayName: Boethiah's Quest
+DisplayName: Задание Боэтии
 -- Message panels
 QRC:
 

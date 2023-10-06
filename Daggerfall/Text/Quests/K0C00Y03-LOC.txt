@@ -1,6 +1,6 @@
 -- Edited for Daggerfall Unity by Jay_H
 Quest: K0C00Y03
-DisplayName: Smuggling
+DisplayName: Контрабанда
 -- Message panels
 QRC:
 

@@ -5,7 +5,7 @@
 -- Repute: 41
 -- QuestId: 18
 Quest: A0C41Y18
-DisplayName: The Mummy's Finger
+DisplayName: Палец мумии
 -- Message panels
 QRC:
 

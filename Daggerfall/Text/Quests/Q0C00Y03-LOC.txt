@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 14
 Quest: Q0C00Y03
-DisplayName: Public Relation
+DisplayName: Связи с общественностью
 -- Message panels
 QRC:
 

@@ -3,7 +3,7 @@
 -- QuestId: 20
 Messages: 41
 Quest: S0000020
-DisplayName: Orcish Treaty
+DisplayName: Оркский договор
 -- Message panels
 QRC:
 

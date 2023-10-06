@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 25
 Quest: N0B21Y14
-DisplayName: Oracle
+DisplayName: Оракул
 -- Message panels
 QRC:
 

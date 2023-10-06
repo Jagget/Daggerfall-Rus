@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 21
 Quest: Q0C0XY02
-DisplayName: A Treacherous Gift
+DisplayName: Коварный подарок
 -- Message panels
 QRC:
 

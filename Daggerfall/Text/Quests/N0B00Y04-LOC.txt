@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 46
 Quest: N0B00Y04
-DisplayName: Retrieve an Ingredient
+DisplayName: Поиск ингредиента
 -- Message panels
 QRC:
 

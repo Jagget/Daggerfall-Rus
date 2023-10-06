@@ -3,7 +3,7 @@
 -- QuestId: 3
 Messages: 21
 Quest: S0000003
-DisplayName: Freeing Medora
+DisplayName: Освобождение Медоры
 -- Message panels
 QRC:
 

@@ -6,7 +6,7 @@
 -- QuestId: 5
 -- Edited for Daggerfall Unity by Jay_H
 Quest: A0C10Y05
-DisplayName: The Matchmaker
+DisplayName: Сватовство
 -- Message panels
 QRC:
 

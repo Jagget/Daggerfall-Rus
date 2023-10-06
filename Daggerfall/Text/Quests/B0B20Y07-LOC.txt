@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 12
 Quest: B0B20Y07
-DisplayName: More Trouble with Orcs
+DisplayName: Новые проблемы с орками
 -- Message panels
 QRC:
 

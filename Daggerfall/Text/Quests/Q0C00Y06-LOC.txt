@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 21
 Quest: Q0C00Y06
-DisplayName: Problems with Vampires
+DisplayName: Проблемы с вампирами
 -- Message panels
 QRC:
 

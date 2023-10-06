@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 31
 Quest: 60C00Y00
-DisplayName: Sheogorath's Quest
+DisplayName: Задание Шеогората
 -- Message panels
 QRC:
 

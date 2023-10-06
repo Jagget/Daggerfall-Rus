@@ -6,7 +6,7 @@
 -- QuestId: 14
 Messages: 11
 Quest: R0C10Y14
-DisplayName: Forgotten Equipment
+DisplayName: Забытое оборудование
 -- Message panels
 QRC:
 

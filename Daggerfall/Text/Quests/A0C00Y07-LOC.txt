@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 11
 Quest: A0C00Y07
-DisplayName: The Exterminator
+DisplayName: Уничтожитель
 -- Message panels
 QRC:
 

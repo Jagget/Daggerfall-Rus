@@ -6,7 +6,7 @@
 -- QuestId: 3
 Messages: 11
 Quest: O0B10Y03
-DisplayName: A Temple Visit
+DisplayName: Посещение храма
 -- Message panels
 QRC:
 

@@ -5,7 +5,7 @@
 -- QuestId: 0
 Messages: 53
 Quest: $CUREVAM
-DisplayName: Cure for Vampirism
+DisplayName: Лекарство от вампиризма
 -- Message panels
 QRC:
 

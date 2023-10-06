@@ -396,11 +396,11 @@ toMagic,К магии
 toParalysis,К параличу
 toPoison,К яду
 toShock,К шоку
-intInSpellPoints15,1.5X INT In Spell Points
-intInSpellPoints175,1.75X INT In Spell Points
-intInSpellPoints2,2X INT In Spell Points
-intInSpellPoints3,3X INT In Spell Points
-intInSpellPoints,INT In Spell Points
+intInSpellPoints15,Очки заклинаний = 1.5 х ИНТ
+intInSpellPoints175,Очки заклинаний = 1.75 х ИНТ
+intInSpellPoints2,Очки заклинаний = 2 х ИНТ
+intInSpellPoints3,Очки заклинаний = 3 х ИНТ
+intInSpellPoints,Очки заклинаний = 1 х ИНТ
 general,Общий
 inDarkness,В темноте
 inLight,На свету
@@ -420,19 +420,19 @@ fromHolyPlaces,От святых мест
 fromSunlight,От солнечного света
 lowerMagicAbilityDaylight,Снижение магических способностей при дневном свете
 unableToUseMagicInDaylight,Невозможно использовать магию при дневном свете
-chain,Кольчужный
-leather,Кожаный
-plate,Пластинчатый
-adamantium,Адамантовый
-daedric,Даэдрический
-dwarven,Гномий
-ebony,Эбонитовый
-elven,Эльфийский
-iron,Железный
-mithril,Мифриловый
-orcish,Оркский
-silver,Серебряный
-steel,Стальной
+chain,Кольчужн.
+leather,Кожан.
+plate,Пластинч.
+adamantium,Адамант.
+daedric,Даэдрич.
+dwarven,Гномск.
+ebony,Эбонит.
+elven,Эльфийск.
+iron,Железн.
+mithril,Мифрил.
+orcish,Оркск.
+silver,Серебр.
+steel,Стальн.
 buckler,Баклер
 kiteShield,Турнирный щит
 roundShield,Круглый щит
@@ -816,7 +816,7 @@ repairDays,%d дней
 interruptRepair,Take back that item before it's repaired?
 repairNote,Left my {0} for repair at {1}.
 doesntNeedIdentify,This does not need to be identified.
-goldAmount,{0} gold pieces
+goldAmount,{0} золота
 goldWeight,Вес: {0} кг
 letterOfCredit,Вы получаете оплату по аккредитиву.
 stealSuccess,Вы успешны.
@@ -825,7 +825,7 @@ cannotRemoveItem,Вы не можете снять этот предмет.
 cannotCarryAnymore,Вы не можете унести больше вещей.
 cannotHoldAnymore,Ваша тележка уже не может вместить больше вещей.
 cannotUseThis,Вы не можете использовать это.
-equippingWeapon,Equipping %s
+equippingWeapon,Экипировано: %s
 lightDouse,Ты потушил %it.
 lightLight,Ты зажигаешь %it.
 lightDies,Твой %it мерцает и гаснет.
@@ -840,7 +840,7 @@ arSrc,рейтинг брони
 arRep,броня
 northern,(северный)
 southern,(южный)
-noWagon,You don't own a wagon.
+noWagon,У вас нет повозки.
 exitTooFar,"Выход находится слишком далеко, чтобы вы могли добраться до своей повозки."
 bookUnavailable,Книга испорчена и теперь нечитабельна.
 unknownAuthor,неизвестный автор
@@ -915,9 +915,9 @@ exteriorAutomapToolTipPanelCompass,left click: focus player position (hotkey: {0
 loading,"Пожалуйста, подожди..."
 classicSave,Классика
 cancel,Отмена
-renameSave,Переименовать
+renameSave,Переимен.
 deleteSave,Удалить
-switchChar,Поменять персонажа
+switchChar,Персонаж
 savePrompt,Сохранить игру
 loadPrompt,Загрузить игру
 saveButton,Сохранить

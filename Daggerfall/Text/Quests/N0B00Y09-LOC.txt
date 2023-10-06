@@ -6,7 +6,7 @@
 -- QuestId: 9
 Messages: 23
 Quest: N0B00Y09
-DisplayName: Research Notes
+DisplayName: Исследовательские заметки
 -- Message panels
 QRC:
 

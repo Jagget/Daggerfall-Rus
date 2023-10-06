@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 32
 Quest: A0C00Y00
-DisplayName: The Postman
+DisplayName: Почтальон
 -- Message panels
 QRC:
 

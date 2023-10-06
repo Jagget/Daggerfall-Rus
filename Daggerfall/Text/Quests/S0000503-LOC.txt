@@ -3,7 +3,7 @@
 -- QuestId: 503
 Messages: 72
 Quest: S0000503
-DisplayName: Former Student Part III
+DisplayName: Бывший студент Часть III
 -- Message panels
 QRC:
 

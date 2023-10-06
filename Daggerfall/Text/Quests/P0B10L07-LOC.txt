@@ -6,7 +6,7 @@
 -- QuestId: 7
 Messages: 18
 Quest: P0B10L07
-DisplayName: Intimidation
+DisplayName: Запугивание
 -- Message panels
 QRC:
 

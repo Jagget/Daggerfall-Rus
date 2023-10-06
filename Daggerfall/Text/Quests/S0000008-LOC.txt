@@ -3,7 +3,7 @@
 -- QuestId: 8
 Messages: 71
 Quest: S0000008
-DisplayName: Who Gets the Totem
+DisplayName: Кому достанется тотем
 -- Message panels
 QRC:
 

@@ -6,7 +6,7 @@
 -- QuestId: 25
 Messages: 36
 Quest: R0C30Y25
-DisplayName: The Thieves Gang
+DisplayName: Банда воров
 -- Message panels
 QRC:
 

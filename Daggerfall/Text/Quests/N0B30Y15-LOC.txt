@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 11
 Quest: N0B30Y15
-DisplayName: Rogue Imp
+DisplayName: Бесноватый
 -- Message panels
 QRC:
 

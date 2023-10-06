@@ -3,7 +3,7 @@
 -- QuestId: 502
 Messages: 71
 Quest: S0000502
-DisplayName: Former Student Part II
+DisplayName: Бывший студент Часть II
 -- Message panels
 QRC:
 
