@@ -1,191 +1,51 @@
-Title: The Madness of Pelagius
-Author: Tsathenes
+Title: Безумие Пелагия
+Author: Цатенес
 IsNaughty: False
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]The Madness of
-
-[/center]Pelagius
-
-
+[/center]Безумие Пелагия
 
 [/font=4]
 
-[/center]
+Ториз Пелагиус Септим, человек, ставший затем императором всего Тамриэля, принадлежал к королевской семье Вэйреста. Принц появился на свет в 119 году Третьей эры, в конце славного правления своего дяди, Антиохуса I. Король Магнус был любимым братом императора, и Вэйрест процветал в годы, предшествовавшие рождению Пелагиуса.
 
- The man who would be Emperor of all Tamriel was born Thoriz
-Pelagius Septim, a prince of the royal family of Wayrest
-in 3E 119 at the end of the glorious reign of his uncle,
-Antiochus I. Wayrest had been showered by much preference
-during the years before Pelagius' birth, for King Magnus was
-Antiochus' favorite brother.
+Трудно сказать, когда впервые проявилось сумасшествие Пелагиуса, ведь, по правде говоря, первые десять лет его жизни сами земли, где он жил, были охвачены безумием. Когда принцу стукнул год, Антиохус умер, и на трон под шумные славословия взошла его дочь Кинтира. Кузина мальчика, Кинтира II, была признанным мистиком и волшебницей. Однако если бы у нее достало могущества заглянуть в будущее, она немедля бежала бы из дворца.
 
- It is hard to say when Pelagius' madness first manifested
-itself, for, in truth, the first ten years of his life were
-marked by such insanity in the land itself. When Pelagius was
-just over a year old, Antiochus died and a daughter,
-Kintyra, assumed the throne to the acclaim of all. Kintyra
-II was Pelagius' cousin and an accomplished mystic and
-sorceress. If she had sufficient means to peer into the
-future, she would have surely fled the palace.
+Об истории войны Красного Алмаза рассказывается во многих научных трудах, и большая часть историков приходит к выводу, что власть была узурпирована Уриэлем, кузеном Кинтиры и Пелагиуса, при помощи его матери Потемы, так называемой Королевы-Волчицы Солитьюда. Через год после коронации Кинтира была пленена в Гленпойнте и заключена в местную имперскую тюрьму.
 
- The story of the War of the Red Diamond has been told in many
-other scholarly journals, but as most historians agree,
-Kintyra II's reign was usurped by her and Pelagius' cousin
-Uriel, by the power of his mother, Potema -- the so-called
-wolf queen of Solitude. The year after her coronation,
-Kintyra was trapped in Glenpoint and imprisoned in the
-Imperial dungeons there.
+Пламя войны пронеслось по всему Тамриэлю, когда принц Уриэль, захватив трон, провозгласил себя Уриэлем III. Хай Рок, где содержалась узница, стал ареной кровавых сражений. Отец Пелагиуса, король Магнус, вместе со своим братом Сефорусом выступил против узурпатора, что навлекло на Вэйрест гнев Уриэля III и королевы Потемы. Пелагиус, его братья и сестры, а также мать, Утейла, бежали на остров Балфиера. Утейла принадлежала к семейству Диренни, чье фамильное поместье до сих пор находится на этом древнем острове.
 
- All of Tamriel exploded into warfare as Prince Uriel took
-the throne as Uriel III, and High Rock, because of the
-imprisoned Empress' presence there, was the location of some
-of the bloodiest battles. Pelagius' father, King Magnus,
-allied himself with his brother Cephorus against the usurper
-Emperor, and brought the wrath of Uriel III and Queen
-Potema down on Wayrest. Pelagius, his brothers and sisters,
-and his mother Utheilla fled to the Isle of Balfiera.
-Utheilla was of the line of Direnni, and her family manse is
-still located on that ancient isle even to this day.
+К счастью, сохранилось множество записей о детстве Пелагиуса на острове Балфиера, сделанных его воспитателями и посетителями поместья. Все, кто встречал его, рассказывают о симпатичном мальчике, интересовавшемся спортом, магией и музыкой. Даже предполагая определенную неискренность, свойственную дипломатам, казалось, что принц имеет все шансы стать истинным украшением династии Септимов.
 
- There is thankfully much written record of Pelagius'
-childhood in Balfiera recorded by nurses and visitors. All
-who met him described him as a handsome, personable boy,
-interested in sport, magic, and music. Even assuming
-diplomats' lack of candor, Pelagius seemed like, if anything
-a blessing to the future of the Septim Dynasty.
+Когда мальчику исполнилось восемь, Сефорус убил Уриэля III в битве при Ичидаге и провозгласил себя императором Сефорусом I. Последующие десять лет своего правления новый монарх воевал с Потемой. Первым сражением, в котором участвовал Пелагиус, была осада Солитьюда, окончившаяся смертью Потемы и знаменовавшая собой конец войны. В знак признательности Сефорус возвел юношу на трон Солитьюда.
 
- When Pelagius was eight, Cephorus slew Uriel III at the
-Battle of Ichidag and proclaimed himself Emperor Cephorus
-I. For the next ten years of his reign, Cephorus battled
-Potema. Pelagius' first battle was the Siege of Solitude,
-which ended with Potema's death and the final end of the war.
-In gratitude, Cephorus placed Pelagius on the throne of
-Solitude.
+Эксцентричность поведения Пелагиуса, ставшего королем Солитьюда, не прошла незамеченной. Однако лишь немногие дипломаты отваживались критически отзываться о любимом племяннике императора. В первые два года правления Пелагиуса были замечены, как минимум, пугающие колебания его веса. Через четыре месяца после его воцарения дипломат из Эбонхарта называл молодого короля «здоровым и добродушным человеком с сердцем таким большим, что оно распирает его талию». Пятью месяцами спустя гостившая там же принцесса Фестхолда написала своему брату: «Король пожал мою руку, и я ощутила прикосновение скелета. Пелагиус крайне истощен».
 
- As king of Solitude, Pelagius' eccentricities of behavior
-began to be noticeable. As a favorite nephew of the
-Emperor, few diplomats to Solitude made critical
-commentary about Pelagius. For the first two years of his
-reign, Pelagius was at the very least noted for his alarming
-shifts in weight. Four months after taking the throne, a
-diplomat from Ebonheart called Pelagius "a hale and hearty
-soul with a heart so big, it widens his waist"; five months
-after that, the visiting princess of Firsthold wrote to her
-brother that "the king's gripped my hand and it felt like I was
-being clutched by a skeleton. Pelagius is greatly
-emaciated, indeed."
+Сефорус никогда не был женат и умер бездетным через три года после осады Солитьюда. Его единственным выжившим братом был отец Пелагиуса, Магнус. Унаследовав престол, он покинул Вэйрест и обосновался в Имперском городе. Император Магнус I был уже в преклонном возрасте, и внимание всего Тамриэля было приковано к его старшему сыну, Пелагиусу. К этому времени его странности стали притчей во языцех.
 
- Cephorus never married and died childless three years after
-the Siege of Solitude. As the only surviving sibling,
-Pelagius' father Magnus left the throne of Wayrest and took
-residence at the Imperial City as the Emperor Magnus I.
-Magnus was elderly and Pelagius was his oldest living
-child, so the attention of Tamriel focused on Sentinel. By
-this time, Pelagius' bizarrities were becoming infamous.
-There are many legends about his acts as King of Sentinel,
-but few well documented cases exist. It is known that
-Pelagius locked the young princes and princesses of
-Silvenar in his room with him, only releasing them when an
-unsigned Declaration of War was slipped under the door.
-When he tore off his clothes during a speech he was giving at
-a local festival, his advisors apparently decided to watch
-him more carefully. On the orders of Magnus, Pelagius was
-married to the beautiful heiress of an ancient Dark Elf
-noble family, Katariah Ra'athim.
+Ходит множество преданий о его деяниях как короля Солитьюда, но мало что из них подтверждено документально. Известно, что Пелагиус запер юных принцев и принцесс Сильвенара вместе с собой в комнате, выпустив их только тогда, когда под дверь просунули неподписанную Декларацию Войны. Во время речи на местном празднике он сорвал с себя одежду, и только тогда его советники поняли, что он нуждается в пристальном присмотре. По велению Магнуса Пелагиус сочетался браком с прекрасной Катарией Ра’атим, наследницей древнего благородного рода темных эльфов.
 
- Nordic kings who marry Dark Elves seldom improve their
-popularity. There are two reasons most scholars give for the
-union. Magnus was trying to cement relations with
-Ebonheart, where the Ra'athim clan hailed. Ebonheart's
-neighbor, Mournhold, had been a historical ally of the
-Empire since the very beginning, and the royal consort of
-Queen Barenziah had won many battles in the War of the Red
-Diamond. Ebonheart had a poorly-kept secret of aiding Uriel
-III and Potena.
+Женитьба королей северян на темных эльфийках редко добавляет им популярности. Летописцы сходятся на двух причинах целесообразности такого союза. Магнус пытался укрепить отношения с Эбонхартом, откуда происходил клан Ра’атим. Сосед Эбонхарта, Морнхолд, исторически был союзником Империи с самого ее зарождения, и венценосный супруг королевы Барензии выиграл массу битв в войне Красного алмаза. Эбонхарт же, почти не таясь, поддержал Уриэля III и Потему.
 
- The other reason for the marriage was more personal:
-Katariah was as shrewd a diplomat as she was beautiful. If
-any creature was capable of hiding Pelagius' madness, it
-was she.
+Другая причина носила более личный характер: Катария была столь же искушена в дипломатии, сколь и красива. Если кто-то и мог скрыть сумасшествие Пелагиуса, то только она.
 
- On the 8th of Second Seed, 3E 145, Magnus I died quietly in
-his sleep. Jolethe, Pelagius' sister took over the throne of
-Solitude, and Pelagius and Katariah rode to the Imperial
-City to be crowned Emperor and Empress of Tamriel. It is said
-that Pelagius fainted when the crown was placed on his head,
-but Katariah held him up so only those closest to the thrones
-could see what had happened. Like so many Pelagius stories,
-this cannot be verified.
+Восьмого дня месяца Второго зерна в 145-м году Третьей эры Магнус тихо скончался во сне. Джолит, сестра Пелагиуса, села на трон Солитьюда, а молодая супружеская чета отбыла в Имперский город, дабы быть коронованными как император и императрица Тамриэля. Говорят, что Пелагиус почувствовал слабость, когда на его голову водрузили корону, но Катария поддержала его, и лишь те, кто стоял близко к трону, смогли заметить происходившее. Как и многие рассказы о Пелагиусе, этот не имеет подтверждений.
 
- Pelagius III never truly ruled Tamriel. Katariah and the
-Elder Council made all the decisions and only tried to keep
-Pelagius from embarassing all. Still, stories of Pelagius
-III's reign exist.
+Пелагиус III по сути никогда не правил Тамриэлем. Решения принимали Катария и Совет Старейшин, стараясь попутно удержать монарха от чудачеств. Однако байки о царствовании Пелагиуса сохранились.
 
- It was said that when the Argonian ambassador from Blackrose
-came to court, Pelagius insisted on speaking in all grunts
-and squeaks, as that was the Argonian's natural language.
+Говорят, что когда ко двору из Блэкроуза прибыл посланник Чернотопья, Пелагиус настаивал на том, чтобы при разговоре собеседники мычали и пищали, ибо таков родной язык аргониан.
 
- It is known that Pelagius was obsessed with cleanliness, and
-many guests reported waking to the noise of an early-morning
-scrubdown of the Imperial Palace. The legend of Pelagius
-while inspecting the servants' work, suddenly defecating on
-the floor to give them something to do, is probably
-apocryphal.
+Известно, что Пелагиус был помешан на чистоте. Гостившие в императорской резиденции свидетельствуют, что просыпались ни свет ни заря от скрежета, с которым скоблили дворец. Легенда о том, что Пелагиус, проверяя качество уборки, испражнялся на пол, дабы задать слугам еще работу, вероятно, вымышлена.
 
- When Pelagius began actually biting and attacking visitors
-to the Imperial Palace, it was decided to send him to a
-private asylum. Katariah was proclaimed regent two years
-after Pelagius took the throne. For the next six years, the
-Emperor stayed in a series of institutions and asylums.
+Лишь тогда, когда Пелагиус начал нападать на посетителей Имперского дворца и пытаться покусать их, решено было отправить его в частную клинику для умалишенных. Катария была провозглашена регентшей через два года после коронации. Следующие шесть лет император провел в различных психиатрических лечебницах.
 
- Traitors to the Empire have many lies to spread about this
-period. Whispered stories of hideous experiments and
-tortures performed on Pelagius have almost become accepted
-as fact. The noble lady Katariah became pregnant shortly
-after the Emperor was sent away, and rumors of infidelity
-and, even more absurd, conspiracies to keep the sane Emperor
-locked away ran amok. As Katariah proved, her pregnancy
-came about after a visit to her husband's cell. With no
-other evidence, as loyal subjects, we are bound to accept
-the Emperess' word on the matter. Her second child, who would
-reign for many years as Uriel IV, was the child of her union
-with her consort Lariate, and publicly acknowledged as
-such.
+Недоброжелатели распространяли массу лживых историй о том времени. Передававшиеся шепотом рассказы об ужасных экспериментах и пытках, которым подвергали Пелагиуса, стали восприниматься почти как неоспоримый факт. Вскоре после отъезда императора благородная леди Катария забеременела, поползли слухи о ее неверности и, что еще более абсурдно, о заговоре с целью запереть под замок абсолютно здорового императора. Как заявила Катария, ее беременность наступила после посещения мужа в больнице. При отсутствии иных свидетельств мы, верноподданные, должны принять слова императрицы за истину. Ее второй ребенок, который впоследствии правил под именем Уриэля IV, явился плодом союза с Лариатом, принцем-консортом, что и было признано публично.
 
- On a warm night in Suns Dawn, in his 34th year, Pelagius III
-died after a brief fever in his cell at the Temple of
-Kynareth in the Isle of Betony. Katariah I reigned for
-another forty six years before passing the scepter onto the
-only child she had with Pelagius, Cassynder.
+Теплой ночью месяца Восхода солнца на 34-м году жизни Пелагиус III скончался в своей келье от быстротечной лихорадки. Произошло это в храме Кинарет на острове Бетония. Катария I правила еще сорок шесть лет, прежде чем передать скипетр единственному ребенку, которого она имела от Пелагиуса — Кассиндеру.
 
- Pelagius' wild behavior has made him perversely dear to the
-province of his birth and death. The 2nd of Suns Dawn, which
-may or may not be the anniversary of his death (records are
-not very clear) is celebrated at Mad Pelagius, the time when
-foolishness of all sorts is encouraged. And so, one of the
-least desirable Emperors in the history of the Septim
-Dynasty, has become one of the most famous ones.  
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-
- 
+Дикое поведение Пелагиуса стало основой странной любви, которую к нему питают в провинции, где он родился и потом умер. Второго числа месяца Восхода солнца (что может быть, а может и не быть годовщиной его смерти — хроники тут не очень точны) отмечается Безумный Пелагиус. В этот день поощряются всяческие шутки и дурачества. Так один из самых несуразных императоров в истории династии Септимов стал одним из самых известных.

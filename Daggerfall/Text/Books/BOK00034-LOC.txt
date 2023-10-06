@@ -1,92 +1,45 @@
-Title: Broken Diamonds
-Author: Ryston Baylor
+Title: Расколотые бриллианты
+Author: Ристон Бэйлор
 IsNaughty: False
 Price: 340
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Broken Diamonds
-
-
+[/center]Расколотые бриллианты
 
 [/font=4]
 
-[/center]
+Я помню, как будучи молодым парнем из Гленумбрийских болот, принимал участие в своем первом Дне расколотых бриллиантов. Я очень хорошо помню большие шумные празднества: Окончание сбора урожая, Середины года, Новый Год, День Рождения Императора.
 
-[/center] I remember as a young lad in Glenumbra Moors my first Broken
-Diamonds holiday. The big noisy festivals I remember very
-well -- Harvests' End, Mid Year, New Year, the Emperor's Day.
-All of these I have memories of that stretch back before I
-became truly aware of the meaning of our celebrating. On the
-19th of Frost Fall, every year, my family and I would walk
-to a ruined castle in the middle of the wilderness, together
-with everyone else we knew in the Moors. Hands clutched in
-hands, we would form an enormous circle around the ruins,
-and head reverently bowed we would sing a song, the
-Sepharve.
+Все эти праздники я помню с детства, задолго до того времени, как начал осознавать смысл всех этих празднований. Каждый год 19 наступления холодов я и моя семья вместе с другими знакомыми нам жителями Гленумбрийских болот приходили к разрушенному замку, расположенному в самом центре дикой пустоши. Взявшись за руки, мы создавали вокруг руин огромный круг и, благоговейно склонив головы, пели песню, «Сефарв».
 
- For years, we did this and I never asked why. It is an odd
-thing that normally curious children, from my experience,
-never ask questions about Broken Diamonds, and adults seldom
-volunteer information. Gradually, as we learn about our
-homeland through university or the prattling of ancient
-relatives, we come to guess and then know the meaning of
-Broken Diamonds.
+Мы делали это в течении многих лет, и я никогда не интересовался зачем. Странно, что обычно любознательные дети никогда, как утверждает мой опыт, не задают вопросов о Дне расколотых бриллиантов, а взрослые редко заговаривают об этом первыми. Постепенно, изучив историю нашей родной земли в университете или же узнавая что-то из пересудов престарелых родственников, мы начинали догадываться, а затем и точно узнали смысл Дня расколотых бриллиантов.
 
- I cannot be objective as a native of Glenumbra Moors, but
-visitors have told me that the sorrow -- more often they use the
-word shame -- of the natives is almost overwhelming. There is
-a sense that a great and ancient crime still burns in the
-conscience of the people of the Moors. Though it did not
-happen in our lifetimes, we know that the debt is not yet
-paid.
+Как уроженец Гленумбрийских болот я не могу быть объективным, но приезжие говорили мне, что печаль — чаще они используют слово стыд — местных жителей почти безгранична. Такое ощущение, что великое преступление прошлого все еще терзает совесть народа болот. Хоть это случилось и не в наше время, мы знаем, что долг этот все еще не оплачен.
 
- I refer, of course, to the murder of Her Terrible Majesty,
-Kintyra II, Emperess of Tamriel, on the frozen morning of
-the 23rd of Frost Fall, in the year 3E 123.
+Я, конечно же, имею в виду убийство Ее ужасающего величества Кинтары II, императрицы Тамриэля, случившееся морозным утром 23 наступления холодов в год 123 3Э.
 
- We do not know the name of the castle where she was held; we do
-not know the name of her murderer (though the man who ordered
-the murder was her cousin and usurper, Uriel III); we do not
-know where she was buried. But our ancestors knew that their
-rightful ruler was imprisoned somewhere in their land, and
-did nothing to help her. For that, we bear their shame.
+Мы в самом деле не знаем названия замка, где она содержалась; мы не знаем имени ее убийцы (хотя человек, приказавший ее убить, был ее двоюродным братом узурпатором Уриэлем III); не знаем мы и того, где она похоронена. Но наши предки знали, что их законная правительница содержится в заключении где-то в их землях и не сделали ничего, чтобы помочь ей. За это мы и несем их позор.
 
- On that morning, when our great-great grandparents heard of
-Kintyra's death, all were stricken with horror and regret at
-their lack of action. All the people of Glenpoint and
-Glenumbra Moors searched out those responsible in every
-Imperial castle. They formed barriers with their bodies to
-hold the killer within. Flags bearing the Red Diamond of the
-Septim family were torn and scattered, and broken diamonds
-littered the snow.
+В то утро, когда наши пра-пра-прародители услышали о смерти Кинтары, их охватил ужас, они сожалели о том, что они столь мало сделали для ее освобождения. Весь народ Гленпойнта и Гленумбрийских болот во всех принадлежащих императору замках искал тех, на ком лежит ответственность за это преступление. Чтобы не выпустить убийцу, они из собственных тел возвели барьеры. Флаги с изображением красного бриллианта династии Септимов были разорваны в клочья, которые валялись повсюду, а осколки бриллиантов усыпали снег.
 
- The song we sing every Broken Diamonds, as I mentioned
-before, is the Sephavre. I asked everyone in Glenumbra Moor
-what the meaning of the song is, for it is in Old Bretic, and
-each generation only knows it because they were taught by
-their parents. No one knew the exact meaning of the words,
-not even the tone and emotion the words can be easily
-translated. When I later talked to a scholar who gave me an
-accurate translation of the Sephavre, I began to
-understand both why our ancestors chose it as the anthem for
-the great injustice of the murder of Kintyra II and the sorrow
-that still prevades Glenumbra Moors since that dark morn.
+Песня, что мы поем на каждый День расколотых бриллиантов, как я упоминал ранее, называется «Сефавр». Я спрашивал у всех жителей Гленумбрийских болот, о чем же поется в этой песне. Но она на старобретонском, и каждое новое поколение заучивает ее со слов своих родителей. Никто не знал ни точного перевода слов, ни даже жанра ее и эмоциональной окраски, с помощью которых можно было бы легко перевести слова. После разговора с одним ученым, давшим мне точный перевод «Сефавра», я стал понимать как то, почему наши предки выбрали гимн для песни о великой несправедливости убийства Кинтары II, так и ту скорбь, которая с того мрачного утра так и окутывает Гленумбрийские болота.
 
- The Sephavre Souls of our fathers, suffer deeply, For you
-have led us to the dark time, When our own souls, filled with
-air, Allowed ignorance and villiany to thrive In what used
-to be our land. Howl, ancestors, howl and bring us Memories
-of our conformance with evil. We do anything we can to
-survive, Giving up our minds and hearts and bodies We will
-not fight, and we will be torn And like flotsam in a
-whirling tide We will be forever the agents of injustice But
-we will mourn it forever.
+«Сефавр»:
 
-
-
- 
+[/center]«Души наших отцов, терпите эту боль,
+[/center]Так как вы привели нас к темным временам,
+[/center]Когда наши собственные души, наполненные пустотой,
+[/center]Позволили невежеству и злодейству расцвести
+[/center]Там, где некогда была наша земля.
+[/center]Рыдайте, предки, рыдайте и несите нам
+[/center]Воспоминания о нашем соглашении со злом.
+[/center]Чтобы уцелеть, мы не сделали ничего, из того, что могли,
+[/center]Уступая наш разум, сердца и тела,
+[/center]Мы не будем бороться и будем терзаться.
+[/center]И подобно щепке, подхваченной водоворотом прилива,
+[/center]Мы будем вечно пособниками несправедливости,
+[/center]Но будем вечно скорбеть о том.» 

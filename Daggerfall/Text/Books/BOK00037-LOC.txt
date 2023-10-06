@@ -1,91 +1,37 @@
-Title: The Story of Lyrisius
-Author: Bresne Smythe
+Title: Рассказ о Лиризиусе
+Author: Бресне Смайт
 IsNaughty: False
 Price: 580
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]The Story
-
-[/center]of
-
-[/center]Lysirius
-
-
+[/center]Рассказ о Лиризиусе
 
 [/font=4]
 
+В стародавние времена жил герой по имени Лиризиус, который сражался с акавирскими работорговцами и только в одиночку убил их сотни. Но несмотря на личную отвагу Лизириуса, его армия была наголову разбита, а остатки ее были рассеяны по всем направлениям. Спасаясь от акавирских колесниц, сам Лиризиус бежал в болота.
 
+И там, далеко людских поселений, Лиризиус оказался в покинутых землях, а в самом их сердце он встретил вирма. Огромное чешуйчатое чудовище смеялось над самыми мощными ударами заколдованного копья Лиризиуса. Легчайшее прикосновение его огненного дыхания расплавило шит Удар Страха, дар даэдры Боэтии. Лиризиус, видя, что он победить это создание силой оружия не может, сдался.
 
-[/center]
+Вирм уже намеревался сожрать Лиризиуса, когда герой предложил вирму оставить его в живых, а он мог бы быть вирму рабом и слугой. Лопаясь от спеси, вирм согласился. Видя, что вирм очень тщеславен, Лиризиус сказал: «О, великий вирм. В качестве первой моей службы я молю тебя позволить мне отполировать одну твою потускневшую чешуйку».
 
-    In ancient times, there lived a hero named Lyrisius. He
-fought agains the Akaviri slavetraders and single-handedly
-slew hundreds. Despite his valor, Lyrisius' army was routed
-and scattered to the four winds. Lyrisius fled into the
-moors to escape the Akaviri chariots.
+И то верно, между огромными крыльями вирма, как раз посредине, была тусклая чешуйка, до которой длинная шея вирма явно не доставала. Тщеславие же чудовища было таково, что он немедленно опустил крыло, давая Лиризиусу возможность взобраться себе на спину.
 
-    Far from the lands of men, Lyrisius entered the blasted
-lands. At the heart of this forsaken landscape, he met the
-wyrm. The great scaly beast mocked the mighty blows of
-Lyrisius' enchanted spear. It melted the shield Fearstruck,
-gift of the Daedra Boethiah, with a single blast of its fiery
-breath. Lyrisius, seeing that he could not defeat the
-creature by force of arms, surrendered.
+Оседлав огромную ящерицу, Лиризиус немедленно воткнул в мягкую плоть чудовища свой кинжал — под эту чешуйку. И хоть вирм крутился и извивался во всех направлениях, он не смог дотянуться до героя. В конце концов он взвился в воздух. Лизириус изо всех сил цеплялся за шею вирма, пока тот делал виражи и мертвые петли да крутился в воздухе.
 
-    The wyrm intended to devour Lyrisius when the hero offered
-to be its slave and manservant. Ever prideful, the wyrm
-agreed. Seeing that the wyrm was vulnerable to conceit,
-Lyrisius spoke, "Oh great wyrm. For my first service, I beg
-that you allow me to polish your one tarnished scale."
+Видя, что Лиризиуса не так-то просто сбросить, вирм потребовал, чтобы герой вытащил жалящее его плоть лезвие. Лиризиус ответил: «Лети прямо до тех пор, пока не увидишь огромную армию. Уничтожь эту армию — и я вытащу свой клинок.»
 
-    Indeed, centered between the great wings of the creature
-was a dull scale, clearly out of reach of its long neck.
-Its vanity was such that it immediately lowered one wing for
-Lyrisius to climb upon.
+С оглушительным ревом чешуйчатое чудовище отправилось в путь. У акавирской армии не было никаких шансов выстоять против огнедышащего чудовища. И с тех пор они никогда более не беспокоили Тамриэль.
 
-    Once astride the great lizard, Lyrisius slid his dagger
-underneath the scale and into the tender flesh of the beast.
-Though it spun and twisted in all directions, the wyrm
-could not get at the hero. Finally it took to the air.
-Lyrisius clung to the neck with all his strength as the wyrm
-banked, rolled, and dove.
+«Я выполнил твой приказ. Теперь убери свое жало», — проревел вирм.
 
-    Seeing that Lyrisius could not be shaken free, the wyrm
-demanded that he remove the stinging blade. Lyrisius
-answered, "Fly straight on until you see a great army.
-Destroy that army and I will remove my blade."
+Зная, что чудовище его сожрет или сделает еще что похуже, Лиризиус вытащил клинок и затем прыгнул со спины летящего вирма. И точно, мерзкий монстр решил убить героя и бросился за камнем падающим вниз Лиризиусом. Но рядом с падающим героем появился Боэтия. Похвалив Лизириуса за окончательное уничтожение армии Акавира, она превратила его в ворона, и Лиризиус быстро скрылся от вирма в облаках.
 
-    With a great roar, the scaled creature set off. The
-Akavari army had no chance against the fire-breathing beast.
-They have never plagued Tamriel since.
+Легенда гласит, что, хоть это и произошло давным-давно, еще в 1 эре, тот вирм все еще жив. Дракон затаил злобу на Лиризиуса и весь его род. Он поклялся никогда больше не доверять двуногим, носящим оружие.
 
-    "I have done as you bid. Now sheath your stinger," roared
-the wyrm.
+[/center]* * *
 
-    Knowing that he would be devoured or worse, Lyrisius
-pulled the blade and then leapt from the back of the flying
-wyrm. Indeed, the foul monster had intended to slay the
-hero. The wyrm pursued the plummeting Lyrisius. Boethiah
-appeared beside the falling hero. Praising him for
-ultimately destroying the army of Akavir, she turned him into
-a raven. Lyrisius quickly lost the wyrm in the clouds.
-
-    Legend has it that the wyrm still lives, though this
-happened in the first era long, long ago. The dragon nurses
-a grudge against Lyrisius and all of his kind. It has vowed
-never again to trust two legged bearers of weapons.
-
-
-
-[/center]*   *   *
-
- Scholar's Note: If this legend has a basis in fact, the
-artifact Fearstruck was utterly destroyed. No other
-reference to it has ever been found.
-
- 
+Примечание историка: Если эта легенда основана на фактическом материале, артефакт Удар Страха окончательно уничтожен. Никаких других упоминаний о нем более обнаружено не было
