@@ -1,111 +1,29 @@
-Title: Wayrest, Jewel of the Bay
-Author: Sathyr Longleat
+Title: Вэйрест, жемчужина залива
+Author: Сафир Лонглит
 IsNaughty: False
 Price: 348
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Wayrest,
-
-[/center]Jewel
-
-[/center]of the
-
-[/center]Bay
-
-
+[/center]Вэйрест, жемчужина залива
 
 [/font=4]
 
 [/center]
 
-[/center]     Wayrest is one of the most glorious cities of western
-Tamriel: sparkling in her contemporary beauty, lustrous by
-her past. She is prized above all cities in High Rock -- no
-other city has contributed, and continues to contribute so
-much to the culture of the Bretons. The spirits of her genius
-children continue to haunt the streets; you can see them in
-the gabled roofs, grand boulevards, aromatic
-marketplaces. The people of Wayrest have an instictive
-appreciation of their past, but are not obsessed by it, as
-the people of Daggerfall seem to be. One feels that one is in
-a modern city when one visits Wayrest, but there is a magic
-in the air that could only come from thirty-two centuries of
-civilization.
+Вэйрест — один из самых чудесных городов западного Тамриэля: пленяющий своей нынешней блистательной красотой и лучезарной славой прошлого. В глазах бретонцев Вэйрест превосходит все остальные города Хай Рока: ни один город не внес и не вносит и по сей день так много в культуру бретонцев. Духи его талантливых детей продолжают жить на улицах города; вы можете распознать их в остроконечных крышах, широких бульварах, наполненных пряными запахами рынках. Жители Вэйреста гордость прошлым своего города впитали с молоком матери, но не кичатся им, как те же жители Даггерфола. В Вэйресте ты чувствуешь, что находишься в современном городе, но в воздухе витает некая магия, которую рождают только тридцать два столетия исторического развития цивилизации.
 
-     It is difficult for historians to declare a certain date
-for the foundation of Wayrest. A settlement of some variety
-had been existence where the Bjoulsae River feeds the Iliac
-Bay possibly since the 800th year of the First Era. The
-traders and fishermen of Wayrest were surrounded by hostile
-parties: the orc capitol Orsinium had grown like a poison
-weed to the north, and the Akaviri pirates and raiders
-crowded the islands to the west. There is no mystery to
-Wayrest's name. After the fighting most travellers had to
-endure passing through the eastern end of the Iliac Bay, the
-little fishing village on the Bjoulsae was a welcome rest.
+Историкам трудно назвать точную дату основания Вэйреста. В том месте, где река Бьюлси впадает в Илиакский залив, существовало некое поселение где-то с 800-ого года Первой эры. Торговцы и рыбаки Вэйреста жили в окружении врагов: на севере, как ядовитый сорняк, росла столица орков Орсиниум, а острова на западе кишели акавирскими пиратами и бандами. В происхождении названия Вэйреста нет никакой тайны. После полных кровавых стычек переходов через восточную часть Илиакского залива для большинства путешественников маленькая рыбацкая деревенька на Бьюлси была долгожданным отдыхом.
 
-      Nowhere in the much vaunted censuses of the Skyrim
-Occupation is Wayrest mentioned. In the Annals of
-Daggerfall, King Joile's letter to Gaiden Shinji of the
-Order of Diagna contains the following reference: "The orcs
-have been much plaguing the Wayresters and impeding traffic
-to the heart of the land." The date given for the letter was
-1E 948.
+Вэйрест не упоминается ни в одной из столь превозносимых переписей населения времен Скайримской оккупации. В Хрониках Даггерфолла в письме короля Джойля к Гэйдену Шиньи из ордена Диагны содержится следующая фраза : «Орки беспрестанно терзают вэйрестцев и затрудняют путь к сердцу этой земли». Письмо датировано 948 1Э.
 
-      Wayrest only truly bloomed after the razing of Orsinium
-in 1E 980. The hard-working traders and merchants were
-instrumental in forming the Masconian Trade Way and thus
-reducing the pirate activity on the Bay. At this time,
-Wayrest occupied both banks of the Bjoulsae. A successful
-mercantile family, the Gardners, built a walled palace on
-the High Rock side of the river and, over time, allowed banks
-and other businesses within its walls. It was a Gardner,
-Farangel, who was proclaimed king when Wayrest accepted
-ambassadors from the Camorian Empire, and was granted the
-right to call itself a kingdom in the 1100th year of the 1st
-Era.
+И действительно, Вэйрест расцвел только после того, как в 1Э 980 Орсиниум был разрушен до основания. Неутомимыми торговцами и купцами был проложен Масконианский торговый путь, что привело к спаду активности пиратов в заливе. В это время Вэйрест занимает уже оба берега Бьюлси. Гарднеры, купеческая семья, дела которой шли в гору, построила на принадлежащей Хай Року стороне реки дворец, обнесенный стенами, и со временем позволила перебраться внутрь этих стен банкам и другим коммерческим предприятиям. Когда в 1100 году 1 эры Вэйрест принял послов Каморианской империи и получил право называться королевством, именно Гарднер — Фарангел — был провозглашен королем.
 
-      Although Wayrest became a kingdom under the command of
-one family, the merchants continued to wield incredible
-power. Many economists have alleged that Wayrest's eternal
-wealth, despite all her hardships, comes from this rare
-relationship between the merchants and the crown. The Gardner
-Dynasty fell, followed by the Cumberland Dynasty, which was
-followed by the Horley Dynasty, and finally, in the Third
-Era, the Septim Dynasty. No citizen of another kingdom of
-comparable age can, with one hand, name all the families who
-have ever ruled. Never has a king of Wayrest been deposed by
-revolution or assassination. Except for those of the Septim
-family, every king of Wayrest can trace his line back to a
-merchant prince of Wayrest. The merchants and king respect
-one another, and this relationship strengthens both.
+Хотя Вэйрест и стал королевством, управляла которым одна семья, купцы сохранили невероятную власть. Многие экономисты утверждают, что постоянное, несмотря на все его невзгоды, благосостояние Вэйреста проистекает из этой редкой взаимной связи между купцами и короной. Династия Гарднеров пала, за ними настал черед династии Камберлендов, за которой последовала династия Хорли и наконец, в Третьей эре, пришла династия Септимов. Ни один гражданин другого столь же древнего королевства не может, не задумавшись ни на минуту, назвать все правившие королевством династии. Никогда еще король Вэйреста не был убит или свергнут в результате революционного переворота. За исключением королей династии Септимов, все короли Вэйреста вели свою родословную от одного из торговых князей Вэйреста. Купцы и король уважают друг друга, и это делает сильнее обе стороны.
 
-      One need only walk down the great boulevard of Wayrest
-to see physical proof of this unique alliance. Going north
-to south, Wayrest Boulevard suddenly divides, one half
-going west and the other going east. Both halfs end in
-identical squares: one at Castle Wayrest, the original
-palace of Aphren Gardner, and the other at Cumberland
-Square, where the oldest and wealthiest marketplace in
-Wayrest. The message here is clear: the king and the merchants
-are joined and equal.
+Всего лишь спустившись по огромному бульвару Вэйреста, вы увидите зримое доказательство этого необыкновенного альянса. Идущий с севера на юг Вэйрестский бульвар неожиданно разделяется на две улицы, одна из них идет на запад, а другая — на восток. Обе заканчиваются совершенно одинаковыми площадями: площадью у Вэйрестского замка, бывшего когда-то дворцом Афрена Гарднера, и Камберлендской площадью, где расположен старейший и богатейший рынок Вэйреста. Намек предельно ясен: король и купцы равны и составляют единое целое.
 
-      Wayrest has survived blights, droughts, plagues,
-piracy, invasions, and war with good humor and
-practicality. In 1E 2702, the entire population of the city
-was forced to move into the walled estate of the Gardners as
-protection against the pirates, Akaviri raiders, and
-Thrassian plague. A less resourceful community would have
-withered, but the Wayresters have survived to enrich Tamriel
-generation after generation.
-
-
-
-
-
- 
+Вэйрест пережил мор, засухи, нашествия чумы, пиратство, завоевания и войны, не теряя присущее его жителям чувство юмора и практичность. В 1Э 2702 городское население целиком было вынуждено спасаться от пиратов, акавирских налетчиков и Трассианской чумы за стенами поместья Гарднеров. Общество менее изобильное было бы уничтожено, но вэйрестцы выжили, чтобы поколение за поколением делать Тамриэль еще богаче.

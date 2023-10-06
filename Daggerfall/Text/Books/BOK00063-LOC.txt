@@ -1,108 +1,32 @@
-Title: An Overview of Gods and Worship
-Author: Brother Hetchfeld
+Title: Краткий обзор богов и культов Тамриэля
+Author: Брат Хечфелд
 IsNaughty: False
 Price: 711
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]An Overview
-
-[/center]Of
-
-[/center]Gods and
-
-[/center]Worship
-
-[/center]In Tamriel
-
-
+[/center]Краткий обзор
+[/center]богов и культов Тамриэля
 
 [/font=4]
 
-[/center]
+[/center] Примечание редактора: брат Хечфелд является помощником переписчика в Имперском университете, на кафедре общих дисциплин.
 
-[/center] Editor's Note: Brother Hetchfeld is an Associate Scribe at the
-Imperial University, Office of Introductory Studies
+Свидетельством существования богов смертные обычно считают их (богов) интерес к земных делам. Основная постулат — вера в активное участие божеств в мирских делах — может быть оспорен свидетельствами безразличия к ним со стороны богов во времена чумы или голода.
 
- Gods are commonly viewed by the evidence of their interest in
-worldly matters. A central belief in the active
-participation of Deities in mundane matters can be
-challenged by the evidence of apathy on the part of Gods
-during times of plague or famine.
+От вмешательства в ставшие легендами поиски каких-либо артефактов до своего проявления в обычной повседневной жизни,не существует примеров ясно выдимых проявлений деятельности богов Тамриэля. Интерес богов во многих отношениях кажется несвязанным или, в лучшем случае, не затрагивающим повседневные злоключения государств смертных. Однако, исключения все же существуют.
 
- From intervention in legendary quests to manifestations in
-common daily life, no pattern for the Gods of Tamriel
-activities is readily apparent. The concerns of Gods in
-many ways may seem unrelated or at best unconcerned with the
-daily trials of the mortal realm. The exceptions do exist,
-however.
+Многие исторические записи и легенды указывают на прямое вмешательство одного или нескольких богов в случаях великой нужды. Многие героические сказания перечисляют благодеяния божества, дарованные героям, которые работали или занимались поисками чего-либо для пользы храма божества или самого божества. Некоторые из наиболее могущественных в известном мире артефактов были первоначально пожалованы их владельцам в качестве такой награды за служение. Также сообщалось, что священнослужители высоких рангов могли, при случае, воззвать к своему божеству с просьбой о благодеянии или помощи во время нужды. О точной природе такого контакта и дарованых благодеяний существуют только предположения, так как храмы считают такое общение тайным и святым. Этот прямой контакт придает вес вере в то, что боги знают о существовании королевств смертных. Однако, во многих случаях эти же самые боги не сделают ничего перед лицом страдания и смерти, казалось бы, и не чувствуя необходимости вмешаться. Таким образом, можно прийти к выводу, что мы, смертные, способны понять лишь маленькую часть тех причин и той логики, которыми пользуются подобные существа.
 
- Many historical records and legends point to the direct
-intervention of one or more gods at times of great need.
-Many heroic tales recount blessings of the divinity
-bestowed upon heroic figures who worked or quested for the
-good of a Deity or the Deity's temple. Some of the more
-powerful artifacts in the known world were originally
-bestowed upon their owners through such reward.   It has also
-been reported that priests of high ranking in their temples
-may on occasion call upon their Deity for blessings or help
-in time of need. The exact nature of such contact and the
-blessings bestowed is given to much speculation, as the
-temples hold such associations secret and holy. This direct
-contact gives weight to the belief that the Gods are aware of
-the mortal realm. In many circumstances, however, these same
-Gods will do nothing in the face of suffering and death,
-seeming to feel no need to interfere. It is thus possible to
-conclude that we, as mortals, may not be capable of
-understanding more than a small fraction of the reasoning
-and logic such beings use.
+Одна из определяющих характеристик всех богов и богинь — их заинтересованность в поклонении и подвигах, совершенных в их честь. Подвиги в форме священных поисков — это просто одна из многих вещей, которые привлекают внимание божества. Героические поступки, совершенные в повседневной жизни, соответствующие уставам и обязательствам конкретных храмов, как обычно предполагается, нравятся божеству. Исполнение церемонии в храме также может привлечь внимание божества. Церемонии варьируются в зависимости от конкретного божества . Результат не всегда видим, но, чтобы получить хоть какую-то надежду привлечь внимание божества, обычно требуются жертвоприношения и пожертвования.
 
- One defining characteristic of all Gods and Goddesses is
-their interest in worship and deeds. Deeds in the form of holy
-quests are just one of the many things that bring the
-attention of a Deity. Deeds in everyday life, by conforming
-to the statutes and obligations of individual temples are
-commonly supposed to please a Deity. Performance of
-ceremony in a temple may also bring a Deity's attention.
-Ceremonies vary according to the individual Deity. The
-results are not always apparent but sacrifice and offerings
-are usually required to have any hope of gaining a Deity's
-attention.
+В то время как прямое вмешательство в повседневную храмовую жизнь фиксируется, точная природа присутствия бога в повседневной мирской жизни лежит в области предположений. Передаваемая из поколение в поколение пословица лесных эльфов гласит: «Что одному — чудо, другому — беда». В то время, как некоторые боги, как считается, принимают активное участие в повседневной жизни, другие хорошо известны своим недостатком интереса к мирским делам.
 
- While direct intervention in daily temple life has been
-recorded, the exact nature of the presence of a God in daily
-mundane life is up to great speculation. A traditional
-saying of the Wood Elves goes "One mans miracle is another
-mans accident." While some gods are believed to take an
-active part of daily life, others are well known for their
-lack of interest in temporal affairs.
+В теории боги фактически получают силу от таких вещей, как поклонение, через восхваление, жертвоприношение или героический поступок, совершенный во славу божества. Можно даже предположить, что число почитателей данного божества может отражаться на его общем положении среди других богов. Это мое собственное предположение, основой которого послужила явная возможность более крупных храмов добиваться благодеяний и помощи от своих богов с большей легкостью, чем это удается более маленьким религиозным институтам.
 
- It has been theorized that gods do in fact gain strength from
-such things as worship through praise, sacrifice and deed. It
-may even be theorized that the number of worshippers a given
-Deity has may reflect on His overall position among the
-other Gods. This my own conjecture, garnered from the
-apparent ability of the larger temples to attain blessings
-and assistance from their God with greater ease than smaller
-religious institutions.
+Существуют сообщения о существовании в нашем мире духов, имеющих ту же способность пользоваться действиями и героическими поступками смертных для собственного усиления, как это и делают боги. Понимание точной природы таких созданий позволило бы нам уяснить связь между божеством и его почитателями.
 
- There are reports of the existence of spirits in our world
-that have the same capacity to use the actions and deeds of
-mortals to strengthen themselves as do the Gods. The
-understanding of the exact nature of such creatures would
-allow us to understand with more clarity the connection
-between a Deity and the Deity's worshipers.
-
- The implication of the existence of such spirits leads to the
-speculation that these spirits may even be capable of
-raising themselves to the level of a God or Goddess. Motusuo
-of the Imperial Seminary has suggested that these spirits may
-be the remains of Gods and Goddesses who through time lost all
-or most of their following, reverting to their earliest
-most basic form. Practioners of the Old Ways say that there
-are no Gods, just greater and lesser spirits. Perhaps it is
-possible for all three theories to be true. 
+Факт существования таких духов позволяет предпложить, что эти духи даже могут быть способны подняться до уровня бога или богини. Мотусуо из Имперской семинарии выдвинул гипотезу, что такие духи могут быть тем, что осталось от богов и богинь, потерявших в течении какого-то времени всех или большинство своих последователей и вернувшихся к своей первоначальной, наиболее основной форме.Практикующие Старый путь говорят, что богов нет, есть просто более великие и малые духи. Вполне возможно, что верны все три теории.

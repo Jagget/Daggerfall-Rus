@@ -1,142 +1,33 @@
-Title: A History of Daggerfall
-Author: Odiva Gallwood
+Title: История Даггерфолла
+Author: Одива Голлвуд
 IsNaughty: False
 Price: 358
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]A
-
-[/center]History
-
-[/center]of
-
-[/center]Daggerfall
-
-
+[/center]История Даггерфолла
 
 [/font=4]
 
-[/center]
+Археологические раскопки дают современным историкам достаточно оснований считать, что на месте города-государства Даггрефолл как минимум за тысячу лет до появления первой записи в первой исторической хронике было какое-то человеческое поселение. Впервые название «Даггерфолл» применительно к местности в окрестностях нынешней столицы было использовано, скорее всего, в 246 году 1 эры. Северная часть Илиакского залива, по сути вся нынешняя провинция Высокие Скалы, была завоевана вторгшимися сюда нордами, которые принесли с собой грубое подобие цивилизации. Одним из первых культурных деяний нордов была перепись населения, так называемая «Книга живущих». На странице 933 этой «Книги» есть такая запись:
 
-[/center]   There is sufficient archaeological evidence for the modern
-historian to believe that there has been some variety of
-human settlement in the city-state of Daggerfall starting
-at least a thousand years before recorded history. The first
-use of the name Daggerfall to refer to the area around the
-current capitol was most probably in the 246th year of the
-1st Era. The north half of the Iliac Bay, in fact all of the
-current province of High Rock, was conquered by invading
-Nords who brought a rough sort of civilization with them. One
-of the first civilized acts the Nords performed was a census
--- the so-called Book of Life. Listed on page 933 of the Book
-is this entry:
+«Место севернее Высочайших утесов, южнее болот, западнее холмов и восточнее моря называется Даггерфолл. Здесь живут 110 мужчин, 93 женщины, 13 детей меньше 8 лет, 58 коров, 7 быков, 63 цыпленка, 11 петухов, 38 свиней.» За те почти четыре тысячи лет, что прошли с момента проведения той переписи, как видим, число жителей значительно выросло. Последняя перепись 3Э 401 дает цифру, превышающую 100 000. Точное количество проживающих в городе подсчитать всегда трудно, но стольный город Даггерфолл, определенно, превосходит своих соперников, Вэйрест и Сентинель, по числу жителей.
 
- "North of the Highest bluffs, south of the moors, west of the
-hills, and east of the sea is called DAGGERFALL. 110 men, 93
-women, 13 children under 8 years of age, 58 cows, 7 bulls,
-63 chickens, 11 cocks, 38 hogs live here."
+Постоянным, если не сказать полезным, развлечением историков были попытки выяснить происхождение этого топонима. По традиции считается, что название «Даггерфолл» возникло, когда первый вождь клана бросил нож, определяя таким образом границы своего владения. Но также существуют и другие легенды, настолько же обоснованные.
 
-   Nearly four thousand years after this census was taken, we
-can see that these two hundred and sixteen people have
-multiplied heartily. The last census, in the year 3E 401,
-lists the population at over 110,000. It is always difficult
-to find an exact number, but the capitol city of
-Daggerfall certainly outnumbers her rivals, Sentinel and
-Wayrest.
+Относящаяся к Даггерфоллу запись в «Книге живущих» в действительности подтверждает одну теорию относительно причины устойчивого процветания Даггерфолла. Его люди — рыбаки побережья, но они поняли, что здешняя земля достаточно плодородна для того, чтобы можно было выращивать скот. Эта склонность самых первых граждан Даггерфолла разнообразить основные продукты своего питания придала стабильность их полной превратностей жизни на этой земле.
 
-   It has been a consistant, if not actually helpful
-amusement of historians to find the origin of placenames.
-Daggerfall, by tradition, is said to refer to the knife the
-first chieftain threw to form the borders of his lands. But
-there are other legends that may have equal validity.
+Даггерфолл процветал в годы скайримской оккупации. Когда в 1Э 369 Дикая Охота убила короля Боргаса Винтерхолдского, северные земли оказались вовлечены в Войну за наследство, и слишком ослабевший Скайрим не смог удержать свои владения в Высоких Скалах и Морроувинде. Район Илиакского залива стал рассматриваться как стратегически важный, и Даггерфолл начал наращивать свой военный потенциал.
 
-   The Daggerfall entry from the Book of Life actually
-supports one theory about the reason for Daggerfall's
-longevity. The people were coastal fishermen, but they also
-found the land itself sufficiently rich to support raising
-livestock. This inclination of the early citizenry toward
-reinforcing their principal products brought stability to
-a fickle land.
+Во время схваток Диренни с приверженцами Алессианской реформы у даггерфоллской армии и военного флота было множество возможностей приобрести необходимый боевой опыт. Диренни были коренными бретонцами, а бретонцы едва ли когда-нибудь смогли бы стать религиозными фанатиками. Сам же Даггерфолл стал для Диренни и их союзников второстепенной оперативной базой. Рэйвен Диренни, чародейка, чья магия помогла одержать окончательную победу над алессианцами на Гленумбранских болотах, была одной из самых первых обитателей Даггерфоллского замка.
 
-   Daggerfall thrived during the years of the Skyrim
-occupancy. When the Wild Hunt killed King Borgas of
-Winterhold in 1E 369, the northlands engaged in the War of
-Succession and Skyrim, greatly weakened, lost her holdings in
-High Rock and Morrowind. The Iliac Bay had become important
-strategically, and Daggerfall began to expand her
-military.
+В последующие столетия канули во тьму Диренни, но история Даггерфолла продолжалась. В 1Э 609 король Тагор Даггерфоллский победил армию Гленпойта, и город стал значительной экономической, культурной и военной силой в южных Высоких Скалах. И до сих пор так все и осталось, хотя соперники Даггерфолла, фигурально выражаясь, наступают ему на пятки. По иронии судьбы конец торговой монополии Даггерфолла в Илиакском заливе положила другая успешная военная операция трехсотсемидесятилетней давности: уничтожение орочьей столицы Орсиниума совместными усилиями Даггерфолла, молодого королевства Сентинель и ныне упраздненного ордена Дианьи. Разогнав орков из юго-восточных Высоких Скал, они сделали речной путь в залив более безопасным. Крошечная деревушка Вэйрест расцвела, подобно цветку, которому не грозит больше перспектива попасть в стог сена. Через двадцать лет торговая прибыль Вэйреста сравнялась с прибылью Даггерфолла. Через сорок лет Вэйрест стал признанным властелином торговли в Иллиакском заливе. Через сто двадцать лет Вэйрест стал королевством Вэйрест.
 
-   There were multiple opportunities for her to exercise this
-army and navy during the Direnni conflicts with the force of
-the Alessian Reform. The Dirennis were native Bretons, and
-Bretons are hardly ever given to excessive religion.
-Daggerfall became a minor base of operations for the
-Dirennis and their allies. Raven Direnni, the enchantress
-whose magic helped secure the final victory over the
-Alessians in the Glenumbria Moors, was one of the earliest
-occupants of Castle Daggerfall.
+Королевство Сентинель в 1 эру такой прыти не проявило. Рэдгарды были воинами, учившимися приемам торговли, и природа их страны, достаточно неприветливая, не располагала к увеличению численности населения. К тому же число людей во всем районе Иллиакского залива в короткие сроки сократилось вдвое сначала из-за Трассианской чумы, затем из-за Войны за праведность, а после из-за вторжения акавирцев. Если бы Даггерфолл первую тысячу лет своего существования не готовился к битвам следующего тысячелетия, вполне вероятно, что Илиакский залив сегодня принадлежал бы акавирцам.
 
-   Over the centuries that followed, the Dirennis felt into
-obscurity, but Daggerfall continued her growth. In 1E 609,
-King Thagore of Daggerfall defeated the army of Glenpoint
-and became the preeminant economic, cultural, and
-military force in southern High Rock. A position the kingdom has
-precariously kept ever since.
+Вторая эра, как и последняя часть Первой, развертывает перед нами картину войн, мятежей и эпидемий. Даггерфолл, Сентинель и Вэйрест продолжают расширять и улучшать свое военное и экономическое положение в заливе. Даггерфолл и Вэйрест попеременно становились главным торговым центром залива, а Даггерфолл и Сентинель точно таким же образом оспаривали, кто же из них является главной военной силой региона.
 
-   Ironically, it was another successful military exercise
-three hundred and seventy years later that ended
-Daggerfall's monopoly of Bay trade: the annihilation of the
-orcish capitol Orsinium by a joint effort of Daggerfall,
-the new kingdom of Sentinel, and the now extinct Order of
-Diagna. The scattering of the orcs from southeastern High Rock
-made the river route to the Bay more accessible. The tiny
-village of Wayrest grew like a flower that no longer feared
-the mow. In twenty years, Wayrest's trade profits equalled
-Daggerfall's. In forty years, Wayrest was the acknowledged
-master of Iliac Bay trade. In one hundred and twenty years,
-Wayrest became the Kingdom of Wayrest.
-
-   The Kingdom of Sentinel did not exhibit Wayrest's
-aggrandizement during the First Era. The Redguards were
-warriors learning the ways of the merchants, and their land
-was enemy enough to keep their population checked. Indeed,
-the number of people in all areas of the Iliac Bay was
-halved once in the First Era by the Thrassian Plague, once
-again by the War of Righteousness, and a third time by the
-invading Akavari. If Daggerfall had not spent its first
-thousand years preparing for the battles of the next
-thousand years, it is indeed conceivable that the Iliac Bay
-today might be Akavarian.
-
-   The Second Era, like the latter part of the First Era, is a
-tapestry of wars, insurrections, and plagues. Daggerfall,
-Sentinel, and Wayrest continued to expand and improve
-their military and economic positions in the Bay.
-Daggerfall and Wayrest would transpose positions as major
-trading center of the Bay, and Daggerfall and Sentinel
-likewise bandied over which was the superior military power.
-
-   The Iliac Bay has continued to hold an important position
-in the Imperial government of the Third Era. Rarely allies
-(though the combined armies in opposition to the Camoran
-Usurper in the 3rd century of the 3rd Era is a notable
-exception), but not always enemies, Daggerfall, Sentinel,
-and Wayrest have weathered the storms of contention,
-plague, famine, and pestilence. The recent War of Betony was
-typical of Iliac Bay warfare: sincere, frighteningly
-violent, and peaceably resolved.
-
-
-
-
-
-
-
-
-
-
+Илиакский залив продолжает занимать важное место в имперской политике Третьей эры. Изредка союзники (хотя объединенные армии, противостоявшие в 3 столетии Третьей эры Каморану Узурпатору, скорее, достойное внимание исключение), но не всегда враги, Даггерфолл, Сентинель и Вэйрест переносят бури раздора, чумы, голода и эпидемий. Недавняя Битонская война была типичной для Иллиакского залива: честной, удручающе жестокой и мирно разрешившейся.

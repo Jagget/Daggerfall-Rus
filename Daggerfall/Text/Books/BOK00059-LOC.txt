@@ -1,87 +1,27 @@
-Title: Biography of Queen Barenziah, Vol. I
-Author: Stem Gamboge, scribe
+Title: Биография Барензии, т. 1
+Author: Стэм Гамбодж
 IsNaughty: False
 Price: 406
 IsUnique: False
 WhenVarSet: 
 Content:
 
-
 [/font=2]
 
-[/center]Biography of
-
-[/center]Queen Barenziah,
-
-[/center]Vol. I
-
-
+[/center]Биография Барензии, т. 1
 
 [/font=4]
 
+В конце Второй эры у четы правителей королевства Морнхолд, что на территории нынешней имперской провинции Морровинд, родилась дочь Барензия. Ее растили в роскоши и неге, подобающих положению ребенка темных эльфов королевских кровей, пока ей не исполнилось пять лет. В это время его величество Тайбер Септим I, первый император Тамриэля, потребовал, чтобы правители Морровинда покорились ему и законам Империи. Понадеявшись на свою хваленую магию, темные эльфы имели дерзость противиться. Армия Тайбера Септима подошла к границе с Морровиндом. Данмеры спешно подписали договор о перемирии, однако успели проиграть несколько битв, одна из которых опустошила Морнхолд, ныне называемый Альмалексией.
 
+В развалинах была найдена маленькая принцесса Барензия вместе с ее кормилицей. Генерал Империи Симмах, сам темный эльф, сказал Тайберу Септиму, что когда-нибудь этот ребенок сможет принести пользу стране, потому-то Барензию отдали на воспитание преданному слуге, который недавно уволился из рядов армии.
 
-[/center]      Late in the Second Era an heir, a girl child, Barenziah,
-was born to the rulers of Mournhold in Morrowind. She was
-reared in all the luxury and security befitting a royal
-dark elf child until she reached five years of age. At that
-time, His Excellency Tiber Septim demanded that the decadent
-rulers of Morrowind yield to him and institute Imperial
-reforms. Trusting to their vaunted magic, they impudently
-refused and much of Morrowind was laid waste in the conflict
-that ensued.
+Свену Адвенсену по уходу в отставку был пожалован титул графа; он владел небольшим городком Даркмур, что в центральном Скайриме. Граф Свен и его жена воспитали принцессу как собственную дочь, позаботились о том, чтобы она получила соответствующее образование — и, что более важно, о том, чтобы ей не были чужды такие добродетели, как покорность, благоразумие, преданность и благочестие. Спустя короткое время девочка была хорошо подготовлена к тому, чтобы занять свое место среди правителей нового Морровинда.
 
-      The little Princess Barenziah and her nurse were found
-among the wreckage. General Symmachus, himself a dark elf
-and born in Mournhold, suggested to His Excellency that the
-child might someday be valuable, and she was placed with a
-loyal supporter who had recently retired from the Imperial
-army. On retirement, Sven Advensen had been made Baron of
-Blackmoor, a small town in central Skyrim. Baron Sven and
-his wife reared her as their own daughter, saw to it that she
-was educated appropriately, and more importantly, was
-taught the Imperial virtues and piety. In short, she was
-made fit to take her place as a member of the new ruling
-class of Morrowind.
+Барензия росла красивой, грациозной и умной девушкой. У нее был чудесный характер, что доставляло большую радость ее приемным родителям и пятерым их младшим сыновьям, которые любили и почитали ее как старшую сестру. Она ничем не отличалась от прочих молодых девушек ее круга, если не считать того, что любила побродить по лесам и полям и порой ускользала от домашних дел на природу.
 
-     The girl Barenziah grew in beauty, grace, and
-intelligence. She was very sweet-tempered, a joy to her
-adoptive parents and their five young sons, who loved her as
-their elder sister. Other than her appearance, she differed
-from young girls of her class only in that she had a strong
-empathy for the woods and fields, and was wont to escape her
-household duties to wander there.
+Барензия была счастлива и довольна, но, когда ей пошел шестнадцатый год, злонравный мальчик-сирота, конюх, с которым она из жалости дружила, сказал ей, что подслушал разговор между графом Свеном и каким-то редгардом. Якобы они договорились продать ее наложницей в Рихад, поскольку ни норды, ни бретонцы не женятся на ней из-за ее темной кожи, а темным эльфам она тоже не нужна, потому что была выращена чужаками.
 
-     Barenziah was happy and content until her sixteenth year,
-when a wicked orphan stable boy whom she had befriended out of
-pity told her that he had overheard a conspiracy of her dear
-guardian. Baron Sven, said the boy, had dealt with a
-Redguard visitor to sell her as a concubine in Rihad, as no
-Nord or Breton would marry her on account of her black skin,
-and no dark elf would have her because of her foreign
-upbringing.
+«Что же мне делать?» — спросила несчастная девушка, дрожа и рыдая, потому что была невинна и привыкла доверять людям, ей не приходило в голову, что ее приятель из конюшни может солгать ей.
 
-     "Whatever shall I do?" the poor girl wept, trembling,
-for she had been brought up in innocence and trust, and it
-never occured to her that her friend would lie to her.
-
-     The wicked boy, who was called Straw, said she must run
-away if she valued her virtue, but he would come with her and
-protect her. Sorrowfully, Barenziah agreed to this plan
-and that very night, Barenziah disguised herself as a boy and
-the pair escaped to the nearby city of Whiterun. After a few
-days there, they managed to get places as guards in a
-disreputable merchant caravan. The caravan was heading
-east by side roads in a dishonest attempt to elude the
-lawful tolls charged on the highway. Thus they eluded pursuit
-until they reached the city of Rifton, where they ceased their
-travels. They felt safe in Rifton, close as they were to the
-Morrowind border so dark elves were commonly seen.
-
-     The story of how Barenziah finally came to the throne of
-Mournhold after this fitful start is told in Volume II of
-the Biography of Queen Barenziah.
-
-
-
-
+Злой мальчишка, которого звали Строу, сказал, что, если она не хочет потерять свою добродетель, ей надо бежать, но он поедет вместе с ней и будет ее защитником. С тяжелым сердцем Барензия согласилась на этот план; в ту же ночь она переоделась мальчиком, и парочка сбежала в ближайший городок Вайтран. Через несколько дней им удалось получить работу охранников в купеческом караване. Караван направлялся на восток и шел по проселочным дорогам, чтобы не платить пошлин за проезд по имперским трактам. Парочка также не желала встреч со служителями закона, они оставались с караваном, пока не добрались до города Рифтен, где они временно остановились. В Рифтене они чувствовали себя в безопасности, поскольку он был достаточно близко к границе Морровинда, чтобы вид темного эльфа никого не удивлял.
