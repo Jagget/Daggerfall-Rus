@@ -543,8 +543,8 @@ west,западе
 southwest,юго-западе
 south,юге
 southeast,юго-востоке
-thisPlace,this place
-AnyNews,Какие-нибудь Новости?
+thisPlace,это место
+AnyNews,Что нового?
 WhereAmI,Где я нахожусь?
 AnswerTextWhereAmI,Ты находишься в {0} в {1}.
 YouAreInSameBuilding,Ты нашёл {0}. Ты здесь.
@@ -779,11 +779,11 @@ Undead,Нежить
 Humanoid,Гуманоид
 Daedra,Даэдра
 dialogButtonInfo,Переключение между: Активными заданиями; Завершёнными заданиями; Записной книжкой; Сообщениями
-activeQuests,Active Quests
+activeQuests,Активные квесты
 activeQuestsInfo,"Щёлкни по активному заданию, с пунктом назначения, чтобы начать путешествие."
-finishedQuests,Finished Quests
+finishedQuests,Звершённые квесты
 finishedQuestsInfo,"Щёлкни по записи, чтобы переместить её. Правый щелчок, чтобы удалить."
-notebook,Notebook
+notebook,Записная книжка
 notebookInfo,"Щёлкни по заметке, чтобы переместить её. Правый щелчок, чтобы удалить. Щелчок на пустом месте, чтобы добавить новую заметку."
 messages,Сообщения
 messagesInfo,"История сообщений, недавно показанных на экране"
@@ -797,25 +797,25 @@ confirmFindHead,Путешествие к месту
 confirmFind,"Ты хочешь открыть карту мира, чтобы отправиться в:"
 confirmFind2,(Примечание: ты сможешь отказаться от путешествия на карте мира)
 enterNote,Напиши свою заметку:
-completedQuest,completed
-endedQuest,ended
+completedQuest,завершён
+endedQuest,кончился
 finishQuestHeader,{0} {1} at {2}:
 quest,Задание
-noteHeader,{0} in {1}:
+noteHeader,{0} в {1}:
 houseDeed,Ты получил документы и теперь владеешь домом в городе %town в %region.
 levelProgress,Прогресс до следующего уровня: {0}%
 readMap,Обнаружено местоположение %map после изучения карты.
 readMapTG,Гильдия Воров раскрыла местонахождение тщательно охраняемой сокровищницы под названием %map.
 readMapDB,"Тёмное Братство раскрыло секрет некоторых склепов с сокровищами, расположенных где-то в месте под названием %map."
 readMapFail,"Тебе уже известно место, указанное на этой карте."
-howManyItems,Pick how many items (max {0})?
+howManyItems,Сколько раз (макс {0})?
 wagonFullGold,В твоей повозке может поместиться только {0} золотых монет.
-itemsIdentified,Items identified.
+itemsIdentified,Предметы идентифицированы.
 repairDone,DONE
 repairDays,%d дней
-interruptRepair,Take back that item before it's repaired?
-repairNote,Left my {0} for repair at {1}.
-doesntNeedIdentify,This does not need to be identified.
+interruptRepair,Забрать предмет до его ремонта?
+repairNote,Оставил {0} на ремонт в {1}.
+doesntNeedIdentify,Это не требует идентификации.
 goldAmount,{0} золота
 goldWeight,Вес: {0} кг
 letterOfCredit,Вы получаете оплату по аккредитиву.
