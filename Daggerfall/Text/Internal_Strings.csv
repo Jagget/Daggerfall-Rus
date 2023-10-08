@@ -217,7 +217,7 @@ Execution,Казнь
 cannotChangeTransportationIndoors,Ты не можешь изменить способ передвижения в помещении.
 cannotTravelWithEnemiesNearby,"Ты не можешь путешествовать, когда поблизости враги."
 cannotTravelIndoors,"Ты не можешь путешествовать, находясь в помещении."
-powersUnknown,Powers unknown.
+powersUnknown,Обладает неизвестными силами.
 itemPowers,"Каст при использовании:
 Каст при удержании:
 Кастовать при ударе:
@@ -248,7 +248,7 @@ enemyNames,"Крыса
 Бес
 Спригган
 Гигантская летучая мышь
-Медведь гриззли
+Медведь гризли
 Саблезубый тигр
 Паук
 Орк
@@ -389,29 +389,29 @@ handToHand,Бой без оружия
 longBlade,Длинные клинки
 missileWeapon,Дальнобойное оружие
 shortBlade,Короткие клинки
-toDisease,К болезни
-toFire,К огню
-toFrost,К морозу
-toMagic,К магии
-toParalysis,К параличу
-toPoison,К яду
-toShock,К шоку
+toDisease,к болезни
+toFire,к огню
+toFrost,к морозу
+toMagic,к магии
+toParalysis,к параличу
+toPoison,к яду
+toShock,к шоку
 intInSpellPoints15,Очки заклинаний = 1.5 х ИНТ
 intInSpellPoints175,Очки заклинаний = 1.75 х ИНТ
 intInSpellPoints2,Очки заклинаний = 2 х ИНТ
 intInSpellPoints3,Очки заклинаний = 3 х ИНТ
 intInSpellPoints,Очки заклинаний = 1 х ИНТ
-general,Общий
-inDarkness,В темноте
-inLight,На свету
-whileImmersed,При погружении в воду
+general,общий
+inDarkness,в темноте
+inLight,на свету
+whileImmersed,при погружении в воду
 criticalWeakness,Критическая слабость
 damage,Урон
 darknessPoweredMagery,"Магия, усиленная тьмой"
-forbiddenArmorType,Запрещенный тип брони
-forbiddenMaterial,Запрещенный материал
-forbiddenShieldTypes,Запрещенные типы щитов
-forbiddenWeaponry,Запрещенное оружие
+forbiddenArmorType,Запрещенный тип брони:
+forbiddenMaterial,Запрещенный материал:
+forbiddenShieldTypes,Запрещенные типы щитов:
+forbiddenWeaponry,Запрещенное оружие:
 inabilityToRegen,Невозможность восстанавливать очки заклинаний
 lightPoweredMagery,Светосильная магия
 lowTolerance,Низкая толерантность
@@ -420,19 +420,19 @@ fromHolyPlaces,От святых мест
 fromSunlight,От солнечного света
 lowerMagicAbilityDaylight,Снижение магических способностей при дневном свете
 unableToUseMagicInDaylight,Невозможно использовать магию при дневном свете
-chain,Кольчужн.
-leather,Кожан.
-plate,Пластинч.
-adamantium,Адамант.
-daedric,Даэдрич.
-dwarven,Гномск.
-ebony,Эбонит.
-elven,Эльфийск.
-iron,Железн.
-mithril,Мифрил.
-orcish,Оркск.
-silver,Серебр.
-steel,Стальн.
+chain,Кольчужный
+leather,Кожа
+plate,Пластинчатый
+adamantium,Адамант
+daedric,Даэдрический
+dwarven,Гномский
+ebony,Эбонит
+elven,Эльфийский
+iron,Железо
+mithril,Мифрил
+orcish,Оркский
+silver,Серебро
+steel,Сталь
 buckler,Баклер
 kiteShield,Турнирный щит
 roundShield,Круглый щит
@@ -534,7 +534,7 @@ youNeedToHuntTheInnocent,Вы чувствуете потребность охо
 youDreamOfTheMoon,Вы снова мечтаете о луне...
 inventoryWhileShapechanged,Вы не можете получить доступ к инвентарю при изменении формы...
 youGetNoResponse,Вы не получаете ответа.
-copyLogbookInfo,Left-click: toggle copy of selected text. Right-click: copy whole current conversation.
+copyLogbookInfo,Левый клик: скопировать выделенный текст. Правый клик: скопировать весь разговор.
 east,востоке
 northeast,северо-востоке
 north,севере
@@ -838,8 +838,8 @@ damSrc,очки ущерба
 damRep,урон
 arSrc,рейтинг брони
 arRep,броня
-northern,(северный)
-southern,(южный)
+northern,с севера
+southern,с юга
 noWagon,У вас нет повозки.
 exitTooFar,"Выход находится слишком далеко, чтобы вы могли добраться до своей повозки."
 bookUnavailable,Книга испорчена и теперь нечитабельна.
@@ -894,14 +894,14 @@ exteriorAutomapBuildingTypeFurnitureStore,Мебельный магазин
 exteriorAutomapBuildingTypeGemStore,Ювелирный магазин
 exteriorAutomapBuildingTypeGeneralStore,Магазин
 exteriorAutomapBuildingTypeGuildHall,Зал гильдии
-exteriorAutomapBuildingTypeHouseForSale,HouseForSale
+exteriorAutomapBuildingTypeHouseForSale,Дом на продажу
 exteriorAutomapBuildingTypeLibrary,Библиотека
 exteriorAutomapBuildingTypePalace,Дворец
 exteriorAutomapBuildingTypePawnShop,Ломбард
 exteriorAutomapBuildingTypeTavern,Таверна
 exteriorAutomapBuildingTypeTemple,Храм
 exteriorAutomapBuildingTypeWeaponSmith,Кузница
-exteriorAutomapBuildingTypeUnknown,Unknown
+exteriorAutomapBuildingTypeUnknown,Неизвестно
 exteriorAutomapToolTipTextGridButton,"left click: switch to next view mode (hotkey: {0})\ravailable view modes are:\r- original (hotkey {1})\r- extra: includes extra buildings (hotkey {2})\r- all: includes extra buildings, ground flats (hotkey {3})\rswitch background texture with {4}, {5}, {6}, {7}"
 exteriorAutomapToolTipForwardButton,left click: move up (hotkey: {0})\rright click: move to north location border (hotkey: {1})
 exteriorAutomapToolTipBackwardButton,left click: move down (hotkey: {0})\rright click: move to south location border (hotkey: {1})
@@ -967,9 +967,9 @@ nord,Норд
 settingsNotApplied,Note: Some changes may not be applied until you restart the game.
 doneButton,Done
 temple,temple
-unknownPowers,Unknown Powers
+unknownPowers,Неизвестные силы
 cannotBeRepaired,Это не подлежит ремонту.
-youNeverAwaken,You never awaken.
+youNeverAwaken,Ты больше не проснулся.
 modSettings,Mod Settings
 gameEffectsSettings,Effect Settings
 antialiasing,Antialiasing
@@ -1374,12 +1374,12 @@ seasonNames,"Осень
 Весна
 Лето
 Зима"
-longDateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}, {4}{5} of {6:00}, 3E{7}"
-dateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}{4} of {5:00}, 3E{6}"
-dateFormatString,{0} the {1}{2} of {3:00}
+longDateTimeFormatString,"{0:00}:{1:00}:{2:00}, {3}, {4}е {6:00}, 3E{7}"
+dateTimeFormatString,"{0:00}:{1:00}:{2:00}, {3}е {5:00}, 3E{6}"
+dateFormatString,"{0}, {1}е {3:00}"
 ingredientFormatString,{0} {1}
-longWeaponNameFormatString,{0} {1}
-longArmorNameFormatString,{0} {1}
+longWeaponNameFormatString,{1} ({0})
+longArmorNameFormatString,{1} ({0})
 strRatings,"жалкий
 хрупкий
 слабый
@@ -1548,4 +1548,4 @@ daedricSkill,Язык даэдра
 orcishSkill,Язык орков
 midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5}
 hthDamageFormatString,{0} урон: {1}-{2}
-affiliationFormatString,{0} (rep:{1})
+affiliationFormatString,{0} (реп:{1})
