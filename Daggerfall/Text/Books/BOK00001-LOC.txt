@@ -7,11 +7,11 @@ WhenVarSet:
 Content:
 
 
-[/font=2]
+[/font=1]
 
 [/center]Повесть о Киране
 
-[/font=4]
+[/font=5]
 
 [/center]Примечание библиотекаря:...
 

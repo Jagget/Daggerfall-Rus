@@ -6,10 +6,10 @@ IsUnique: False
 WhenVarSet: 
 Content:
 
-[/font=2]
+[/font=1]
 [/center]Грубая песня
 
-[/font=4]
+[/font=5]
 
 [/center]Каждый год, как весна,
 [/center]Вся мораль забыта

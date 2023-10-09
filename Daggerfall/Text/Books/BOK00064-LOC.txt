@@ -6,11 +6,11 @@ IsUnique: False
 WhenVarSet: 
 Content:
 
-[/font=2]
+[/font=1]
 
 [/center]Вэйрест, жемчужина залива
 
-[/font=4]
+[/font=5]
 
 [/center]
 

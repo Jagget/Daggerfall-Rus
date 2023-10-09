@@ -6,13 +6,13 @@ IsUnique: False
 WhenVarSet: 
 Content:
 
-[/font=2]
+[/font=1]
 
 [/center]Фрагмент:
 
 [/center]Об Артейуме
 
-[/font=4]
+[/font=5]
 
 написано Торсом ил-Ансельма в 3Э 400
 

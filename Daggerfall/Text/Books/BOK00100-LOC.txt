@@ -6,11 +6,11 @@ IsUnique: False
 WhenVarSet: 
 Content:
 
-[/font=2]
+[/font=1]
 
 [/center]Король Эдвард, т.1
 
-[/font=4]
+[/font=5]
 
 [/center]Глава 1. Отбытие из Даггерфолла
 

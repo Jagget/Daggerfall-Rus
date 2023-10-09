@@ -6,11 +6,11 @@ IsUnique: False
 WhenVarSet: 
 Content:
 
-[/font=2]
+[/font=1]
 
 [/center]Король Эдвард, т.10
 
-[/font=4]
+[/font=5]
 
 [/center]Глава 10. Джози и Счастливчик. Часть 2
 
