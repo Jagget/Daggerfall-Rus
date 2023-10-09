@@ -629,7 +629,7 @@ animal,Животные
 normal,Нормальный
 TRUE,TRUE
 noName,<no-name>
-youDontHaveTheSpellPoints,Вам не хватает магики.
+youDontHaveTheSpellPoints,Вам не хватает магии.
 youAreSilenced,Вы онемели
 youAreParalyzed,Вы парализованы.
 youFeelDrained,Вы истощены.
@@ -934,10 +934,10 @@ addEffect,Добавить эффект
 buySpell,Купить заклинание
 newSpell,Новое заклинание
 exit,Выход
-casterOnly,Только ролики
+casterOnly,На себя
 byTouch,Прикосновение
 singleTargetAtRange,Одиночная цель на расстоянии
-areaAroundCaster,Область вокруг мастера
+areaAroundCaster,Область вокруг себя
 areaAtRange,Область на расстоянии
 fireBased,На основе огня
 coldBased,На основе холода
@@ -948,7 +948,7 @@ selectIcon,Выбрать значок
 nextIcon,Следующий значок
 previousIcon,Предыдущий значок
 nameSpell,Заклинание имени
-enterSpellName,Введите имя заклинания :
+enterSpellName,Введите имя заклинания:
 noEffectsError,Вы должны добавить к этому заклинанию хотя бы один эффект.
 deleteSpell,Вы хотите удалить это заклинание?
 sortSpells,Вы хотите отсортировать заклинания?
