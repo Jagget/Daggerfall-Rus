@@ -832,7 +832,7 @@ lightDies,Твой %it мерцает и гаснет.
 lightEmpty,У твоего %it не осталось топлива.
 lightRefuel,Ты заправляешь свой %it бутылкой масла.
 lightFull,Твой %it заполнен.
-kgSrc,килограммы
+kgSrc,кг
 kgRep,кг
 damSrc,очки ущерба
 damRep,урон
