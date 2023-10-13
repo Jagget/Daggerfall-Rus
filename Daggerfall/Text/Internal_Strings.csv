@@ -134,9 +134,9 @@ serviceReceiveHouse,Получить дом
 serviceReceiveHouseAlready,Ты уже получил свой дом.
 accessMembersOnly,"Чтобы получить доступ, необходимо иметь достаточный ранг."
 serviceCured,Ты вылечился.
-serviceSummonCost1,"%pcn, the cost for me to attempt a"
-serviceSummonCost2,summoning of %dae is 
-serviceSummonCost3, gold.
+serviceSummonCost1,"%pcn, плата за мою попытку"
+serviceSummonCost2,"вызова %dae составит "
+serviceSummonCost3," золотых."
 roomFreeForKnightSuchAsYou,"Комната бесплатна для такого рыцаря, как ты."
 roomFreeDueToHeartsDay,Комната бесплатна в связи с Днём сердца.
 youAreNotHungry,Ты не голоден.
