@@ -1,0 +1,13 @@
+Key,Value
+about,Этот CSV содержит текстовые записи для примера пользовательского заклинания MageLight.
+groupName,Свет Магов
+subGroupNames,"Инферно
+Райм
+Яд
+Шторм
+Аркан"
+effectDescription,Создает мягкий свет вокруг заклинателя.
+durationSpellMaker,Длительность: Как долго вы будете освещены.
+durationSpellBook,Длительность: %bdr + %adr на %cld уровень
+chance,Шанс: N/A
+magnitude,Сила: N/A

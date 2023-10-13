@@ -1,75 +1,75 @@
 ﻿Key,Value
-weaponSwingModes,"Vanilla
-Click
-Hold"
-mouseLookSmoothingStrengths,"None
-Lowest
-Low
-Medium
-High
-Highest"
-configureAdvancedControls,Configure Advanced Controls
-continueUpper,CONTINUE
-mouseLookSmoothing,Mouse Look Smoothing
-mouseLookSensitivity,Mouse Look Sensitivity
-invertLookY,Invert Look-Y
-movementAcceleration,Movement Acceleration
-weaponSwingMode,Weapon Swing Mode
-bowDrawback,Bows - draw and release
-toggleSneak,Toggle Sneak
-mouseWeaponAttackThreshold,Mouse Weapon Attack Threshold
-Escape,Escape
-AutoRun,AutoRun
-ToggleConsole,Console
-PrintScreen,Screenshot
-QuickSave,QuickSave
-QuickLoad,QuickLoad
-close,Close
-dungeonTextureModes,"Classic
-Climate
-Climate Only
-Random
-Random Only"
-cameraRecoilStrengths,"Off
-Low (25%)
-Medium (50%)
-High (75%)
-V. High(100%)"
-interactionModeIconModes,"None
-Minimal
-Large
-Classic
-Colour
-Monochrome
-Classic Crosshair
-Colour Crosshair"
-iconsPositioningSchemes,"Classic
-Medium
-Small
-Small Deck Left
-Small Deck Right
-Small Vert Left
-Small Vert Right
-Small Horz Bottom"
-helmAndShieldMaterialDisplay,"Off
-No Leather Chain
-No Leather
-On"
-qualitySettings,"Fastest
-Fast
-Simple
-Good
-Beautiful
-Fantastic"
-filterModes,"Point
-Bilinear
-Trilinear"
-shadowResolutionModes,"Low
-Medium
-High
-Very High"
-textureArrayLabel,Texture Arrays: 
-unsupported,Unsupported
-enabled,Enabled
-disabled,Disabled
-textureArrayInfo,"Improved implementation of terrain textures, with better performance and modding support"
+weaponSwingModes,"Ванильный
+Клик
+Удержание"
+mouseLookSmoothingStrengths,"Нет
+Самое низкое
+Низкое
+Среднее
+Высокое
+Самое высокое"
+configureAdvancedControls,Настройка расширенных управляющих элементов
+continueUpper,ПРОДОЛЖИТЬ
+mouseLookSmoothing,Сглаживание движения мыши
+mouseLookSensitivity,Чувствительность мыши при взгляде
+invertLookY,Инвертировать ось Y взгляда
+movementAcceleration,Ускорение движения
+weaponSwingMode,Режим удара оружием
+bowDrawback,Луки - натягивание и отпускание
+toggleSneak,Переключение скрытности
+mouseWeaponAttackThreshold,Порог атаки оружия мышью
+Escape,Выход
+AutoRun,Автобег
+ToggleConsole,Консоль
+PrintScreen,Скриншот
+QuickSave,Быстрое сохранение
+QuickLoad,Быстрая загрузка
+close,Закрыть
+dungeonTextureModes,"Классический
+Климат
+Только климат
+Случайный
+Только случайный"
+cameraRecoilStrengths,"Выкл. (Off)
+Низкое (25%)
+Среднее (50%)
+Высокое (75%)
+Очень высокое (100%)"
+interactionModeIconModes,"Нет
+Минимальный
+Большой
+Классический
+Цветной
+Монохромный
+Классический прицел
+Цветной прицел"
+iconsPositioningSchemes,"Классический
+Средний
+Маленький
+Маленькая панель слева
+Маленькая панель справа
+Маленькая вертикальная слева
+Маленькая вертикальная справа
+Маленькая горизонтальная снизу"
+helmAndShieldMaterialDisplay,"Выкл.
+Без кожаной цепи
+Без кожи
+Вкл."
+qualitySettings,"Самый быстрый
+Быстрый
+Простой
+Хороший
+Красивый
+Фантастический"
+filterModes,"Точечная
+Билинейная
+Трилинейная"
+shadowResolutionModes,"Низкое
+Среднее
+Высокое
+Очень высокое"
+textureArrayLabel,Массивы текстур:
+unsupported,Неподдерживается
+enabled,Включено
+disabled,Отключено
+textureArrayInfo,"Улучшенная реализация текстур местности с лучшей производительностью и поддержкой модификации"

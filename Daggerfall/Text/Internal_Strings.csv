@@ -575,7 +575,7 @@ oldLeaderFate4,был свергнут
 oldLeaderFate5,был найден убитым в своей постели
 toBeReplacedStringRegional,Any
 replacementStringRegional,any
-comma,",  "
+comma,", "
 resolvingError,...неважно...
 chameleon,Хамелеон
 charm,Очарование
@@ -868,19 +868,19 @@ gettingQuests2,"Пожалуйста, наберитесь терпения и �
 illegalRestWarning,Разбивать лагерь в городе или рядом с ним незаконно. Продолжать?
 cannotLoiterMoreThanXHours1,Ты не можешь бездельничать больше 
 cannotLoiterMoreThanXHours2,чем {0} часов подряд.
-automapToolTipTextGridButton,left click: switch between 2D top view and 3D view (hotkey: {0})\rright click: reset rot. axis to player pos (hotkey: {1})\rmouse wheel up while over btn: inc. perspective (only 3D mode)\rmouse wheel down while over btn: dec. perspective (only 3D mode)
-automapToolTipForwardButton,left click: move viewpoint forward (hotkey: {0})\rright click: move rotation axis forward (hotkey: {1})
-automapToolTipBackwardButton,left click: move viewpoint backwards (hotkey: {0})\rright click: move rotation axis backwards (hotkey: {1})
-automapToolTipLeftButton,left click: move viewpoint to the left (hotkey: {0})\rright click: move rotation axis to the left (hotkey: {1})
-automapToolTipRightButton,left click: move viewpoint to the right (hotkey: {0})\rright click: move rotation axis to the right (hotkey: {1})
-automapToolTipRotateLeftButton,left click: rotate dungeon to the left (hotkey: {0})\rright click: rotate camera to the left (hotkey: {1})
-automapToolTipRotateRightButton,left click: rotate dungeon to the right (hotkey: {0})\rright click: rotate camera to the right (hotkey: {1})
-automapToolTipUpstairsButton,left click: increase viewpoint (hotkey: {0})\rright click: increase slice level (hotkey: {1})\rslice level can also be adjusted by holding down middle mouse btn\r\rhint: different render modes may show hidden geometry:\rhotkey {2}: cutout mode\rhotkey {3}: wireframe mode\rhotkey {4}: transparent mode\rswitch between modes with return key\r
-automapToolTipDownstairsButton,left click: decrease viewpoint (hotkey: {0})\rright click: decrease slice level (hotkey: {1})\rslice level can also be adjusted by holding down middle mouse btn\r\rhint: different render modes may show hidden geometry:\rhotkey {2}: cutout mode\rhotkey {3}: wireframe mode\rhotkey {4}: transparent mode\rswitch between modes with return key\r
-automapToolTipPanelCompass,"left click: toggle focus (hotkey: {0})\rbeacons: red ... player, green ... entrance, blue ... rotation axis\r\rright click: reset view (hotkey: {1})\r\rdouble-click left mouse btn in window to create+edit marker note\rdouble-click left mouse btn (+Ctrl key) in window to create marker\rdouble-click left mouse btn on a marker to add/edit a note\rdouble-click right mouse btn on a marker to delete it\rdouble-click right mouse btn in window to position rotation axis\rdouble-click middle mouse btn in window to center view\rdouble-click left mouse btn on discovered portal marker to jump\rto connected teleporter portal"
-automapPlayerPositionBeacon,player position beacon
-automapRotationPivotAxis,rotation pivot axis
-automapEntranceExitPositionBeacon,entrance/exit position beacon
+automapToolTipTextGridButton,Левый щелчок: переключение между 2D видом сверху и 3D видом (горячая клавиша: {0})\rправый щелчок: возврат оси вращения в положение игрока (горячая клавиша: {1})\rколесо мыши вверх при наведении на кнопку: увеличение перспективы (только 3D режим)\rколесо мыши вниз при наведении на кнопку: уменьшение перспективы (только 3D режим)
+automapToolTipForwardButton,Левый щелчок: перемещение точки обзора вперед (горячая клавиша: {0})\rправый щелчок: перемещение оси вращения вперед (горячая клавиша: {1})
+automapToolTipBackwardButton,Левый щелчок: перемещение точки обзора назад (горячая клавиша: {0})\rправый щелчок: перемещение оси вращения назад (горячая клавиша: {1})
+automapToolTipLeftButton,Левый щелчок: перемещение точки обзора влево (горячая клавиша: {0})\rправый щелчок: перемещение оси вращения влево (горячая клавиша: {1})
+automapToolTipRightButton,Левый щелчок: перемещение точки обзора вправо (горячая клавиша: {0})\rправый щелчок: перемещение оси вращения вправо (горячая клавиша: {1})
+automapToolTipRotateLeftButton,щелчок левой кнопкой мыши: повернуть подземелье влево (горячая клавиша: {0})\rщелчок правой кнопкой мыши: повернуть камеру влево (горячая клавиша: {1})
+automapToolTipRotateRightButton,левый щелчок: повернуть подземелье вправо (горячая клавиша: {0})\rправый щелчок: повернуть камеру вправо (горячая клавиша: {1})
+automapToolTipUpstairsButton,Щелчок левой кнопкой мыши: увеличение точки обзора (горячая клавиша: {0})\r Щелчок правой кнопкой мыши: увеличение уровня фрагмента (горячая клавиша: {1})\r Уровень фрагмента можно также регулировать, удерживая среднюю кнопку мыши\r\r Подсказка: различные режимы рендеринга могут показывать скрытую геометрию:\r горячая клавиша {2}: режим вырезания\r горячая клавиша {3}: режим каркаса\r горячая клавиша {4}: прозрачный режим\r переключение между режимами осуществляется клавишей return\r
+automapToolTipDownstairsButton,Щелчок левой кнопкой мыши: уменьшение точки обзора (горячая клавиша: {0})\r Щелчок правой кнопкой мыши: уменьшение уровня фрагмента (горячая клавиша: {1})\r Уровень фрагмента можно также регулировать, удерживая среднюю кнопку мыши\r\r Подсказка: различные режимы рендеринга могут показывать скрытую геометрию:\r горячая клавиша {2}: режим вырезания\r горячая клавиша {3}: режим каркаса\r горячая клавиша {4}: прозрачный режим\r переключение между режимами осуществляется клавишей return\r
+automapToolTipPanelCompass,"Левый клик: переключить фокус (горячая клавиша: {0})\r маячки: красный ... игрок, зеленый ... вход, синий ... ось вращения \r\r правый щелчок: сбросить вид (горячая клавиша: {1})\r\r двойной щелчок левой кнопкой мыши в окне для создания+редактирования заметки маркера \r двойной щелчок левой кнопкой мыши (+Ctrl) в окне для создания маркера \r двойной щелчок левой кнопкой мыши на маркере для добавления/редактирования заметки \r двойной щелчок правой кнопкой мыши на маркере для его удаления \r двойной щелчок правой кнопкой мыши в окне для позиционирования оси вращения \r двойной щелчок средней кнопкой мыши в окне для центрирования вида \r двойной щелчок левой кнопкой мыши на маркере обнаруженного портала для перехода \r к подключенному порталу-телепортеру"
+automapPlayerPositionBeacon,маяк положения игрока
+automapRotationPivotAxis,ось вращения
+automapEntranceExitPositionBeacon,маяк положения входа/выхода
 automapEntranceExit,вход/выход
 automapPlayerMarker,player marker
 automapTeleporterEntrance,телепорт (вход)
@@ -902,16 +902,16 @@ exteriorAutomapBuildingTypeTavern,Таверна
 exteriorAutomapBuildingTypeTemple,Храм
 exteriorAutomapBuildingTypeWeaponSmith,Кузница
 exteriorAutomapBuildingTypeUnknown,Неизвестно
-exteriorAutomapToolTipTextGridButton,"left click: switch to next view mode (hotkey: {0})\ravailable view modes are:\r- original (hotkey {1})\r- extra: includes extra buildings (hotkey {2})\r- all: includes extra buildings, ground flats (hotkey {3})\rswitch background texture with {4}, {5}, {6}, {7}"
-exteriorAutomapToolTipForwardButton,left click: move up (hotkey: {0})\rright click: move to north location border (hotkey: {1})
-exteriorAutomapToolTipBackwardButton,left click: move down (hotkey: {0})\rright click: move to south location border (hotkey: {1})
-exteriorAutomapToolTipLeftButton,left click: move to the left (hotkey: {0})\rright click: move to west location border (hotkey: {1})
-exteriorAutomapToolTipRightButton,left click: move to the right (hotkey: {0})\rright click: move to east location border (hotkey: {1})
-exteriorAutomapToolTipRotateLeftButton,left click: rotate map to the left (hotkey: {0})\rright click: rotate map around the player position\rto the left  (hotkey: {1})
-exteriorAutomapToolTipRotateRightButton,left click: rotate map to the right (hotkey: {0})\rright click: rotate map around the player position\rto the right (hotkey: {1})
-exteriorAutomapToolTipUpstairsButton,left click: zoom in (hotkey: {0})\rright click: apply maximum zoom)
-exteriorAutomapToolTipDownstairsButton,left click: zoom out (hotkey: {0}\rright click: apply minimum zoom)
-exteriorAutomapToolTipPanelCompass,left click: focus player position (hotkey: {0})\rright click: reset view (hotkey: {1})
+exteriorAutomapToolTipTextGridButton,"щелчок левой кнопкой мыши: переключение на следующий режим просмотра (горячая клавиша: {0})\r доступные режимы просмотра: \r- оригинальный (горячая клавиша {1})\r- дополнительный: включает дополнительные здания (горячая клавиша {2})\r- все: включает дополнительные здания, наземные квартиры (горячая клавиша {3})\r- переключение текстуры фона с помощью {4}, {5}, {6}, {7}"
+exteriorAutomapToolTipForwardButton,Щелчок левой кнопкой мыши: перемещение вверх (горячая клавиша: {0})\r Щелчок правой кнопкой мыши: перемещение к северной границе расположения (горячая клавиша: {1})
+exteriorAutomapToolTipBackwardButton,Щелчок левой кнопкой мыши: перемещение вниз (горячая клавиша: {0})\r Щелчок правой кнопкой мыши: перемещение к южной границе расположения (горячая клавиша: {1})
+exteriorAutomapToolTipLeftButton,Щелчок левой кнопкой мыши: перемещение влево (горячая клавиша: {0})\r Щелчок правой кнопкой мыши: перемещение к западной границе расположения (горячая клавиша: {1})
+exteriorAutomapToolTipRightButton,Щелчок левой кнопкой мыши: перемещение вправо (горячая клавиша: {0})\r Щелчок правой кнопкой мыши: перемещение к восточной границе расположения (горячая клавиша: {1})
+exteriorAutomapToolTipRotateLeftButton,Щелчок левой кнопкой мыши: поворот карты влево (горячая клавиша: {0})\r Щелчок правой кнопкой мыши: поворот карты вокруг позиции игрока\r влево (горячая клавиша: {1})
+exteriorAutomapToolTipRotateRightButton,Левый щелчок: поворот карты вправо (горячая клавиша: {0})\r Правый щелчок: поворот карты вокруг позиции игрока\r вправо (горячая клавиша: {1})
+exteriorAutomapToolTipUpstairsButton,Щелчок левой кнопкой мыши: увеличение масштаба (горячая клавиша: {0}\r Щелчок правой кнопкой мыши: применение максимального масштаба)
+exteriorAutomapToolTipDownstairsButton,Щелчок левой кнопкой мыши: уменьшить масштаб (горячая клавиша: {0}\r Щелчок правой кнопкой мыши: применить минимальный масштаб)
+exteriorAutomapToolTipPanelCompass,Левый щелчок: фокусировка позиции игрока (горячая клавиша: {0})\r правый щелчок: сброс вида (горячая клавиша: {1})
 loading,"Пожалуйста, подожди..."
 classicSave,Классика
 cancel,Отмена
@@ -962,383 +962,383 @@ Kynareth,Кинарет
 Mara,Мара
 Stendarr,Стендарр
 Zenithar,Зенитар
-removeKeybind,Are you sure you want to remove the keybind for {0} ({1})?
+removeKeybind,Вы уверены, что хотите удалить привязку клавиш для {0} ({1})?
 nord,Норд
-settingsNotApplied,Note: Some changes may not be applied until you restart the game.
-doneButton,Done
-temple,temple
+settingsNotApplied,"Примечание: Некоторые изменения могут не применяться до тех пор, пока вы не перезапустите игру."
+doneButton,Готово
+temple,храм
 unknownPowers,Неизвестные силы
 cannotBeRepaired,Это не подлежит ремонту.
 youNeverAwaken,Ты больше не проснулся.
-modSettings,Mod Settings
-gameEffectsSettings,Effect Settings
-antialiasing,Antialiasing
-ambientOcclusion,Ambient Occlusion
-bloom,Bloom
-motionBlur,Motion Blur
-vignette,Vignette
-depthOfField,Depth of Field
-antialiasingTip,Give a smoother appearance
-enable,Enable
+modSettings,Настройки модов
+gameEffectsSettings,Настройки эффектов
+antialiasing,Сглаживание
+ambientOcclusion,Затенение
+bloom,Свечение
+motionBlur,Размытие движения
+vignette,Виньетка
+depthOfField,Глубина резкости
+antialiasingTip,Придать более гладкий вид
+enable,Включить
 fxaa,FXAA
 smaa,SMAA
 taa,TAA
-none,None
-method,Method
-fxaaFastMode,FXAA Fast Mode
-low,Low
-medium,Medium
-high,High
-smaaQuality,SMAA Quality
-taaSharpness,TAA Sharpness
-disabled,Disabled
-setPageDefaults,Set Page Defaults
-ambientOcclusionTip,Darkens creases and holes
-scalableAmbientObscurance,Scalable Ambient Obscurance
-multiScaleVolumetricObscurance,Multi Scale Volumetric Obscurance
-scalableAmbient,Scalable Ambient
-multiScaleVolumetric,MultiScale Volumetric
-intensity,Intensity
-lowest,Lowest
-ultra,Ultra
-radius,Radius
-quality,Quality
-thickness,Thickness
-bloomTip,Make bright areas glow
-threshold,Threshold
-diffusion,Diffusion
-bloomFastMode,Bloom fast mode
-motionBlurTip,Simulates objects moving faster than camera exposure
-shutterAngle,Shutter Angle
-sampleCount,Sample Count
-vignetteTip,Darken towards the edges of screen
-smoothness,Smoothness
-roundness,Roundness
-rounded,Rounded
-depthOfFieldTip,Simulates focus of camera lens
-focusDistance,Focus Distance
-aperture,Aperture
-focalLength,Focal Length
-maxBlurSize,Max Blur Size
-small,Small
-large,Large
-veryLarge,Very Large
-ditherTip,Apply noise to reduce large-scale patterns like color banding
-dither,Dither
-colorBoost,ColorBoost
-colorBoostTip,Brightens colors near camera
-dungeonScale,Dungeon Scale
-interiorScale,Interior Scale
-exteriorScale,Exterior Scale
-dungeonFalloff,Dungeon Falloff
-retroMode,Retro Mode
-retroModeTip,Renders world at lower resolutions
-mode,Mode
-retroModeOff,Off
+none,Нет
+method,Метод
+fxaaFastMode,Быстрый режим FXAA
+low,Низкий
+medium,Средний
+high,Высокий
+smaaQuality,SMAA Качество
+taaSharpness,TAA Резкость
+disabled,Отключено
+setPageDefaults,По умолчанию
+ambientOcclusionTip,Затемняет складки и отверстия
+scalableAmbientObscurance,Масштабируемая затемненность
+multiScaleVolumetricObscurance,Многомасштабная объемная затемненность
+scalableAmbient,Масштабируемое окружение
+multiScaleVolumetric,Многомасштабный объем
+intensity,Интенсивность
+lowest,Самый низкий
+ultra,Ультра
+radius,Радиус
+quality,Качество
+thickness,Толщина
+bloomTip,Сделать светлые области светящимися
+threshold,Порог
+diffusion,Распространение
+bloomFastMode,Быстрый режим блюра
+motionBlurTip,"Симулирует объекты, двигающиеся быстрее камеры"
+shutterAngle,Угол затвора
+sampleCount,Количество выборок
+vignetteTip,Затемнение к краям экрана
+smoothness,Гладкость
+roundness,Округлость
+rounded,Округлый
+depthOfFieldTip,Симулирует фокус камерного объектива
+focusDistance,Фокусное расстояние
+aperture,Диафрагма
+focalLength,Фокусное расстояние
+maxBlurSize,Максимальный размер размытия
+small,Маленький
+large,Большой
+veryLarge,Очень большой
+ditherTip,Применение шума для уменьшения цветовых полос
+dither,Дизеринг
+colorBoost,Буст цвета
+colorBoostTip,Повышение яркости цветов вблизи камеры
+dungeonScale,Масштаб подземелья
+interiorScale,Масштаб интерьера
+exteriorScale,Внешний масштаб
+dungeonFalloff,Смещение подземелья
+retroMode,Ретро-режим
+retroModeTip,Рендеринг мира в более низких разрешениях
+mode,Режим
+retroModeOff,Выкл
 retroMode320x200,320x200
 retroMode640x400,640x400
-off,Off
-posterizationFull,Posterization (full)
-posterizationMinusSky,Posterization (-sky)
-palettizationFull,Palettization (full)
-palettizationMinusSky,Palettization (-sky)
+off,Выкл
+posterizationFull,Постеризация (полн)
+posterizationMinusSky,Постеризация (без неба)
+palettizationFull,Палеттизация (полн)
+palettizationMinusSky,Палеттизация (без неба)
 postProcess,Постобработка
-retroModeAspectCorrection,Aspect Ratio Correction
-FourThree,4:03
+retroModeAspectCorrection,Коррекция соотношения сторон
+FourThree,4:3
 SixteenTen,16:10
-notEnoughSpellpointsLeft,You do not have enough spell points left.
-totalIdentified,{0} out of {1} identified.
-dispelMagicSuccess,Dispel magic was a success...
-dispelMagicFailed,Dispel magic failed...
-smallerDungeonsChanged,Smaller dungeons changed while inside dungeon. Moving player to dungeon exit.
-youNote,You note: 
-customName,Custom name: 
-StoresA,"%ef's
-%cn's Best
-The Essential
-Lord %ef's
-The Adventurer's
-The Odd
-%ef's Finest
-Bargain
-Vintage
-The Emperor's
-%cn
-%ef's General
-The Superior
-%ef's Quality
-First Class
-The %rt's
-The Champion
-Doctor %ef's
-Lady %ef's"
-GeneralStoresB,"Supplies
-Supply Store
-Gear
-Gear Store
-Equipment
-Equipment Store
-Sundries
-Provisions
-Merchandise
-General Store
-Retail Store
-Trading Post
-Market
-Wares
-Warehouse"
-WeaponStoresB,"Weapons
-Weaponry
-Arms
-Armaments
-Arsenal
-Armsmaker
-Blades
-Blacksmith
-Metalsmith
-Weaponsmith"
-ArmorStoresB,"Armory
-Mail
-Shielding
-Armor
-Shields
-Aegis
-Metalworks
-Blacksmith
-Metalsmith
-Armorer
-Smith
-Smithy"
-BookStoresB,"Books
-Bookstore
-Bookshop
-Book Dealer
-Book Center
-Bookseller
-Bookstall
-Incunabula"
-LibraryStoresB,"Library
-Bookroom
-Athenaeum
-Public Library
-Historians
-Bookroom
-Seminary
-Lyceum"
-ClothingStoresB,"Clothing
-Clothes
-Garments
-Apparel
-Costumes
-Vestments
-Attire
-Fashion
-Tailoring
-Outfits
-Finery"
-AlchemyStoresB,"Herbs
-Potherbs
-Spices
-Remedies
-Antidotes
-Physics
-Medicines
-Potions
-Tinctures
-Medicaments
-Elixirs
-Pharmacy
-Apothecary
-Unguents
-Medicinal Agents
-Herb Garden
-Pharmaceuticals
-Chemistry
-Chemicals
-Experiental Products
-Alchemistry
-Alchemical Solutions
-Metallurgy"
-GemStoresB,"Gems
-Gemstones
-Jewelry
-Jewels
-Precious Stones
-Bijoutry
-Jewelers
-Jewel Box
-Jewelry Shop
-Gemcutter"
-PawnStoresB,"Pawnshop
-Pawnbrokers
-Used Supplies
-Used Gear
-Used Equipment
-Used Merchandise
-Hockshop
-Antiquities"
-FurnitureStoresB,"Furniture
-Furnishings
-Interior Design
-Furniture Shop
-Decor
-Carpentry
-Woodworking
-Crafts
-Woodwork"
-LivestockStoresB,"Livestock
-Breeders
-Farm Animals
-Beasts
-Creatures
-Game
-Animalia
-Fauna
-Menagerie"
-TavernsA,"The Queen's
-The King's
-The Dirty
-The Black
-The Mole and
-The Green
-The Red
-The Gold
-The White
-The Silver
-The Crimson
-The Flying
-The Dancing
-The Laughing
-The Restless
-The Thirsty
-The Unfortunate
-The Lucky
-The Devil's
-The Rusty
-The Howling
-The Screaming
-The Bat and
-The Lion and
-The Lynx and
-The Dwarf and
-The Beaver and
-The Fox and
-The Mouse and
-The Pig and
-The Feather and
-The Toad and
-The Rat and
-The Savage
-The Knave and
-The Dead"
-TavernsB,"Chasm
-Mug
-Pit
-Cat
-Dog
-Goblin
-Griffin
-Dragon
-Ogre
-Giant
-Djinn
-Wolf
-Huntsman
-Dagger
-Skull
-Sword
-Guard
-Dungeon
-Helm
-Castle
-Jug
-Bird
-Gnome
-Hedgehog
-Muskrat
-Woodchuck
-Scorpion
-Badger
-Goat
-Porcupine
-Priest
-Fawn
-Stag
-Barbarian
-Rascal
-Fairy"
-houseForSale,House for sale
-theBankOf,The Bank of
-daggerfall,Daggerfall
-wayrest,Wayrest
-sentinel,Sentinel
-palace,Palace
-regionNames,"Alik'r Desert
-Dragontail Mountains
-Glenpoint Foothills
-Daggerfall Bluffs
-Yeorth Burrowland
-Dwynnen
-Ravennian Forest
-Devilrock
-Malekna Forest
-Isle of Balfiera
-Bantha
-Dak'fron
-Islands in the Western Iliac Bay
-Tamarilyn Point
-Lainlyn Cliffs
-Bjoulsae River
-Wrothgarian Mountains
-Daggerfall
-Glenpoint
-Betony
-Sentinel
-Anticlere
-Lainlyn
-Wayrest
-Gen Tem High Rock village
-Gen Rai Hammerfell village
-Orsinium Area
-Skeffington Wood
-Hammerfell bay coast
-Hammerfell sea coast
-High Rock bay coast
-High Rock sea coast
-Northmoor
-Menevia
-Alcaire
-Koegria
-Bhoriane
-Kambria
-Phrygias
-Urvaius
-Ykalon
-Daenia
-Shalgora
-Abibon-Gora
-Kairou
-Pothago
-Myrkwasa
-Ayasofya
-Tigonus
-Kozanset
-Satakalaam
-Totambu
-Mournoth
-Ephesus
-Santaki
-Antiphyllos
-Bergama
-Gavaudon
-Tulune
-Glenumbra Moors
-Ilessan Hills
-Cybiades"
-ocean,Ocean
-unknownUpper,Unknown
-switchToRegion,Switch To: {0} Region
-locationInRegionProvince,{0} in {1} province
+notEnoughSpellpointsLeft,У вас недостаточно очков заклинаний.
+totalIdentified,{0} из {1} идентифицировано.
+dispelMagicSuccess,Удалось рассеять магию...
+dispelMagicFailed,Рассеять магию не получилось...
+smallerDungeonsChanged,Изменение размеров подземелья при нахождении в нем. Перемещение игрока к выходу из подземелья.
+youNote,Вы отмечаете: 
+customName,Своё имя: 
+StoresA,"%ef:
+%cn: Наилучший
+Необходимый
+Лорд %ef:
+Приключенческий
+Странный
+%ef: Хороший
+Выгодный
+Винтажный
+Императорский
+%cn:
+%ef: Основной
+Превосходный
+%ef: Качественный
+Первоклассный
+%rt представляет:
+Чемпионский
+Сэр %ef:
+Леди %ef:"
+GeneralStoresB,"Выбор
+Товар Для Дома
+Механизм
+Магазин Снаряжения
+Набор Оборудования
+Магазин Оборудования
+Запас
+Пункт Снабжения
+Магазин Товаров
+Универмаг
+Универсам
+Торговый Двор
+Рынок
+Магазин Керамики
+Склад"
+WeaponStoresB,"Оружейный Магазин
+Магазин Вооружения
+Магазин Оружейных Товаров
+Образец Вооружения
+Арсенал
+Производитель Оружия
+Выбор Клинков
+Кузнец
+Металлист
+Оружейник"
+ArmorStoresB,"Оружейный Склад
+Выбор Кольчуги
+Магазин Защиты
+Выбор Брони
+Выбор Щитов
+Щит Эгиды
+Мастер По Железу
+Кузнец
+Металлист
+Оружейный Мастер
+Молотобоец
+Кузнечный Цех"
+BookStoresB,"Книжный Ряд
+Рынок Книг
+Книжный Магазин
+Книготорговец
+Книжный Центр
+Продавец Книг
+Книжный Киоск
+Магазин Антикварных Книг"
+LibraryStoresB,"Библиотечный Пункт
+Книжный Зал
+Читальный Зал
+Зал Публичной Библиотеки
+Историк
+Зал С Книгами
+Семинариум
+Лицей"
+ClothingStoresB,"Одежный Магазин
+Магазин Одеяний
+Наряд
+Магазин Готового Платья
+Костюм
+Магазин Облачений
+Магазин Убранства
+Магазин Модных Нарядов
+Пошив Одежды
+Выбор Экипировки
+Магазин Украшений"
+AlchemyStoresB,"Выбор Трав
+Магазин Зелени
+Магазин Специй
+Магазин Лечебных Средств
+Выбор Противоядий
+Доктор
+Магазин Медикаментов
+Магазин Зелий
+Выбор Настоек
+Магазин Лекарственных Средств
+Выбор Эликсиров
+Аптечный Пункт
+Аптекарь
+Выбор Мазей
+Магазин Лекарств
+Травяной Сад
+Магазин Для Фармацевтов
+Химический Набор
+Химикат
+Эксперимент
+Алхимик
+Алхимический Раствор
+Металлург"
+GemStoresB,"Минерал
+Самоцвет
+Ювелирный Салон
+Прибамбас
+Драгоценный Камень
+Магазин Бижутерии
+Ювелир
+Сундучок
+Ювелирный Магазин
+Огранщик"
+PawnStoresB,"Ломбард
+Ростовщик
+Блошиный Рынок
+Базар
+Развал
+Секонд-Хенд
+Залог
+Антиквариат"
+FurnitureStoresB,"Выбор Мебели
+Мебельщик
+Дизайнер
+Магазин Мебели
+Декор
+Плотник
+Столяр
+Мастер
+Дровосек"
+LivestockStoresB,"Скотовод
+Заводчик
+Домашний Скот
+Зверь
+Зверек
+Охотник
+Животновод
+Животный Мир
+Зверинец"
+TavernsA,"Королева И
+Королевский
+Грязный
+Черный
+Крот И
+Зеленый
+Красный
+Золотой
+Белый
+Серебряный
+Малиновый
+Летающий
+Танцующий
+Смеющийся
+Беспокойный
+Жаждущий
+Несчастный
+Счастливый
+Дьявольский
+Ржавый
+Воющий
+Кричащий
+Летучая Мышь И
+Лев И
+Рысь И
+Гном И
+Бобр И
+Лиса И
+Мышь И
+Свинья И
+Перо И
+Жаба И
+Крыса И
+Дикий
+Плут И
+Мертвый"
+TavernsB,"Утес
+Кувшин
+Грот
+Кошка
+Собака
+Гоблин
+Грифон
+Дракон
+Людоед
+Гигант
+Джинн
+Волк
+Егерь
+Кинжал
+Череп
+Меч
+Страж
+Данж
+Шлем
+Замок
+Кубок
+Орёл
+Гном
+Ёж
+Мушкет
+Сурок
+Скорпион
+Барсук
+Козёл
+Дикобраз
+Жрец
+Олененок
+Олень
+Варвар
+Плут
+Герой"
+houseForSale,Дом на продажу
+theBankOf,Банк
+daggerfall,Даггерфолл
+wayrest,Вэйрест
+sentinel,Сентинел
+palace,Дворец
+regionNames,"Пустыня Алик'р
+Горы Драконьего Хвоста
+Предгорья Гленпойнта
+Утесы Даггерфолла
+Йеорт Бурроуленд
+Двиннен
+Равеннский лес
+Девилрок
+Малекнский лес
+Остров Балфиера
+Банта
+Дак'фрон
+Острова в Западной Илиакской бухте
+Тамарилин Пойнт
+Скалы Лейнлин
+Река Бьюлсае
+Вротгарианские горы
+Даггерфолл
+Гленпойнт
+Бетония
+Сентинел
+Антиклер
+Лэйнлин
+Вэйрест
+Деревня Ген Тем Хай Рок
+Деревня Ген Рай Хаммерфелл
+Район Орсиниум
+Скеффингтонский лес
+Побережье залива Хаммерфелл
+Побережье Хаммерфелла
+Побережье залива Хай-Рок
+Морское побережье Хай-Рок
+Нортмур
+Меневия
+Алькайр
+Коэгрия
+Бхориане
+Камбрия
+Фригия
+Урвай
+Икалон
+Даэния
+Шалгора
+Абибон-Гора
+Кайру
+Потаго
+Мыркваса
+Аясофья
+Тигонус
+Козансет
+Сатакалаам
+Тотамбу
+Мурнот
+Эфес
+Сантаки
+Антифилос
+Бергама
+Гаводон
+Тулун
+Болота Гленумбры
+Илессанские холмы
+Кибиады"
+ocean,Океан
+unknownUpper,Неизвестно
+switchToRegion,Переключить на: {0} Регион
+locationInRegionProvince,{0} в провинции {1}
 dayNames,"Сандас
 Морндас
 Тирдас
@@ -1482,70 +1482,101 @@ Custom,Приключенец
 darkBrotherhoodRanks,"Ученик
 Подмастерье
 Оператор
-Истребитель
+Убийца
 Палач
 Каратель
 Терминатор
 Ассасин
-Темный брат
-Мастер-ассасин"
+Темный Брат
+Мастер-Ассасин"
 fightersRanks,"Ученик
 Подмастерье
 Мечник
-Протектор
 Защитник
-Стражник
+Оборонитель
+Страж
 Хранитель
 Чемпион
 Воин
 Мастер"
 knightlyOrderRanks,"Аспирант
-Сквайр
+Оруженосец
 Галант
 Шевалье
 Хранитель
-Рыцарь Брат
-Командор
+Рыцарь-брат
+Командир
 Маршал
 Сенешаль
 Паладин"
 magesRanks,"Ученик
 Подмастерье
-Эвокер
-Фокусник
+Призыватель
+Колдун
 Маг
 Чародей
-Колдун
+Ведьмак
 Волшебник
-Мастер чародей
+Главный Волшебник
 Архимаг"
 templeRanks,"Новичок
 Посвященный
 Аколит
 Адепт
-Курат
-Послушник
+Куратор
+Ученик
 Брат
-Прорицатель
+Предсказатель
 Мастер
 Патриарх"
 thievesRanks,"Ученик
 Подмастерье
-Филчер
-Жулик
-Разбойник
+Воришка
+Преступник
+Грабитель
 Бандит
 Вор
 Главарь
-Повелитель
-Мастер Вор"
-darkSister,Dark Sister
-nonMember,non-member
-knightSister,Knight Sister
-matriarch,Matriarch
-sister,Sister
+Организатор
+Главный вор"
+darkSister,Темная Сестра
+nonMember,не член
+knightSister,Рыцарская Сестра
+matriarch,Матриарх
+sister,Сестра
 daedricSkill,Язык даэдра
 orcishSkill,Язык орков
 midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5}
 hthDamageFormatString,{0} урон: {1}-{2}
 affiliationFormatString,{0} (реп:{1})
+answers_5404,"лук
+лук стрела
+арбалет
+луки
+арбалеты"
+answers_5406,"один
+1"
+answers_5423,"благотворитель
+благодетель
+спонсор
+даритель
+меценат"
+answers_5424,"заткнись
+замолчи
+утихни
+закрой рот"
+answers_5464,"да
+ну да
+ок
+я согласен
+согласен
+ага
+хорошо
+конечно
+отлично
+окей
+не вопрос
+угу"
+random,Случайно
+nordSurnameImmutableSuffix,сен
+confirmDefaultControls,Сбросить управление на значения по-умолчанию?
