@@ -33,10 +33,10 @@
 32910438,Башня Тузе,The Tower of Thuze
 33959037,Руины Усадьбы Циегхтан,Ruins of Cyeghtan Manor
 35008605,Калогуджа,Kaloguja
-36057193,Руины Гранжа Сауллур,Ruins of Saullur Grange
+36057193,Руины Амбара Сауллур,Ruins of Saullur Grange
 37106662,Руины Гвардии Мерима,Ruins of Merim's Guard
 38155335,"Таверна ""Крыса И Замок""",The Rat and Castle Tavern
-39204823,Гранж Рликтта,Rlictta Grange
+39204823,Амбар Рликтта,Rlictta Grange
 40253489,Сиро-Ком,Syro-Kom
 41303972,Кровоточащий Свет Стендарра,Bleeding Light of Stendarr
 42353413,Руины Лачуги Старого Леркфа,Ruins of Old Lerkfa's Shack
@@ -158,7 +158,7 @@
 164018199,Кладбище Бэхт,The Baeght Cemetery
 165067009,Нароза,Naroza
 166116413,Развалины Старой Хижины Каарме,Ruins of The Old Caarme Hovel
-167165096,Развалины Дома Сларкона,Ruins of Slarkon Grange
+167165096,Развалины Амбара Сларкон,Ruins of Slarkon Grange
 168214503,Святилище Джодэ,Jode Shrine
 169263116,Плачущий Алтарь Стендарра,Wailing Altar of Stendarr
 170311731,Внутренний Восход Стендарра,Inner Sunrise of Stendarr
@@ -229,7 +229,7 @@
 238495080,"Хостел ""Мышь И Коза""",The Mouse and Goat Hostel
 239543676,Крепость Мердун,The Stronghold of Merdun
 240592287,Гробница Небуханона,The Crypt of Nebuchanon
-241641772,Хатх Гранж,Khath Grange
+241641772,Амбар Хатх,Khath Grange
 242690359,Руины Старого Мурке,Ruins of The Old Murchke Place
 243738940,Руины Зала Дхерт,Ruins of Dherht Hall
 244787524,Каменоломня Фэгтира,The Quarry of Faeghtir
@@ -340,7 +340,7 @@
 354916022,Зенибунис,Zenibunis
 355964708,Усадьба Тлирт,Tlirt Manor
 357014063,Удержание Бежа,Bej's Hold
-358062759,Б'ивта Гранж,B'ivta Grange
+358062759,Амбар Б'ивта,B'ivta Grange
 359111377,Аббатство Асмиамеусса,The Abbey of Asmiameusessa
 360159968,"Паб ""Череп Королевы""",The Queen's Skull Pub
 280614,Гробница Корранота,Corranoth's Tomb
@@ -630,7 +630,7 @@
 298184204,Страшный Оракул Аркея,Fearful Oracle of Arkay
 299232783,Нежный Искупитель Аркея,Gentle Redeemer of Arkay
 300281370,Гробница Даркиварулона,The Sepulcher of Darkivarulon
-301329967,Вуджур Гранж,Vujur Grange
+301329967,Амбар Вуджур,Vujur Grange
 302378551,Домик Танцующей Феи,The Dancing Fairy Lodge
 303427278,Лачуга Старого Бози,Old Bozi's Shack
 304475879,Склепы Б'иргона,The B'irgon Crypts
@@ -816,7 +816,7 @@
 493247422,Дыра Деморгона,The Hole of Demorgon
 494296001,"Таверна ""Ржавая Мушка""",The Rusty Muskrat Tavern
 495344592,Рудники Шифилама,The Shifylam Mines
-496393199,Руины Мхусунской Горницы,Ruins of Mhusun Grange
+496393199,Руины Амбара Мхусун,Ruins of Mhusun Grange
 497441778,Гробницы Сиша,THe Crypts of Sish
 498490387,Усадьба Раджа,The Rhaj Farmstead
 499538966,"Таверна ""Летающий Гигант""",The Flying Giant Tavern
@@ -875,7 +875,7 @@
 555118670,Внутреннее Дерево Аркея,Inner Tree of Arkay
 556167259,Старая Лачуга Тиля,The Old Thille Hovel
 557216594,"Хостел ""Летающая Яма""",The Flying Pit Hostel
-558265179,Амбар Руины Фестен,Ruins of Festen Grange
+558265179,Руины Амбара Фестен,Ruins of Festen Grange
 559313778,Раскопки В Раузе,The Rauzt Excavation
 560362360,Усадьба Вурхта,The Vurchta Farmstead
 561410967,Руины Поместья В'уктт,Ruins of V'uctt Manor
@@ -1008,7 +1008,7 @@
 694607065,Старый Малдан,The Old Muldan Place
 695655820,Бесконечная Звезда Аркея,Infinite Star of Arkay
 696704415,Вартомский Двор,Vartom Court
-697753005,Руины Фурканской Горницы,Ruins of Fhurkan Grange
+697753005,Руины Амбара Фуркан,Ruins of Fhurkan Grange
 698802314,Страшный Свет Аркея,Fearful Light of Arkay
 699850927,Кладбище Назам,The Nazam Graveyard
 700899519,Асмеборгонская Котловина,Asmeborgon Hollow
@@ -1119,7 +1119,7 @@
 811024218,Отверстие Маэлилоргонуна,The Maelilorgonunah Hole
 812073565,Севанский Карьер,The Cevan Quarry
 813122173,Кровоточащее Возрождение Аркея,Bleeding Rebirth of Arkay
-814170791,Шраркте Гранж,Shrarkte Grange
+814170791,Амбар Шраркте,Shrarkte Grange
 815219384,Джавинкат,Javinkat
 816267998,Развалины Лачуги Старого Кургэ,Ruins of Old Kurg-e's Hovel
 817316639,"Фруктовый Сад ""Рюрен""",Ruren Orchard
@@ -1233,7 +1233,7 @@
 930580764,Священный Восход Солнца В Аркае,Holy Sunrise of Arkay
 931629363,"Паб ""Королевская Кружка""",The King's Mug Pub
 932677974,Руины Гристум Холла,Ruins of Gristum Hall
-933726610,Руины Рлайской Горницы,Ruins of Rlaj Grange
+933726610,Руины Амбара Рладж,Ruins of Rlaj Grange
 934775971,Плачущий Мученик Аркей,Wailing Martyr of Arkay
 935824604,Благословенное Возрождение Аркея,Blessed Rebirth of Arkay
 936874109,Хижина Старого Б'арджа,Old B'arja's Shack
@@ -1430,7 +1430,7 @@
 180391603,Святилище Вигрила,Shrine of Vigryl
 181440233,Святилище К'Олвен,Shrine of Q'Olwen
 182489721,"Паб ""Лев И Гном""",The Lion and Gnome Pub
-183538307,Амбар Медный Крофт,Coppercroft Grange
+183538307,Амбар Копперкрофт,Coppercroft Grange
 184586887,Вестварк,Westwark
 185635474,Честервелл,Chesterwell
 186684057,Честергейт,Chestergate
@@ -3691,7 +3691,7 @@
 1458686079,Старая Лачуга Уикхема,The Old Wickham Hovel
 1459734657,Лонгвич,Longwych
 1460783238,Святой Искупитель Кинаретский,Holy Redeemer of Kynareth
-1461831892,Хартхарт Гранж,Hearthhart Grange
+1461831892,Амбар Хартхарт,Hearthhart Grange
 1462880485,Безмолвный Искупитель Кинарета,Silent Redeemer of Kynareth
 1463929077,"Плантация ""Медногорск""",The Coppersmith Plantation
 1464978462,Варвич,Warwich
@@ -4431,7 +4431,7 @@
 312638885,Лонгбери,Longbury
 313687467,Лачуга Старого Белладина,Old Belladyn's Hovel
 314736051,Старая Лачуга,The Old Wicking Hovel
-315784636,Развалины Дома Медника,Ruins of Coppersmith Grange
+315784636,Развалины Амбара Медника,Ruins of Coppersmith Grange
 316833219,Святилище Маи,Shrine of Mai
 317881806,"Таверна ""Кнав И Козел""",The Knave and Goat Tavern
 318930388,Ипстейл,Ipstale
@@ -4507,7 +4507,7 @@
 392334544,Лачуга Старого Белладольда,Old Belladolda's Shack
 393383147,Памятник Диваду,Divad Monument
 394431728,Священный Оракул Кинарет,Holy Oracle of Kynareth
-395480315,Вудфилд Гранж,Woodfield Grange
+395480315,Амбар Вудфилд,Woodfield Grange
 396528894,Усадьба Вудсли,The Woodsley Farmstead
 397577481,Усадьба Ёмсли,The Yeomsly Farmstead
 398626068,Лачуга Старого Эливира,Old Elyvyra's Hovel
@@ -4545,7 +4545,7 @@
 432182428,Тунмот,Tunmoth
 433231027,Мидбери,Midbury
 434279610,Олдингварк Вуд,Aldingwark Wood
-435328205,Копперкрофт Гранж,Coppercroft Grange
+435328205,Амбар Копперкрофт,Coppercroft Grange
 436376794,Поместье Бакингсмит,Buckingsmith Manor
 437425374,Гвардия Виксли,Wicksly's Guard
 438473961,Блэкидж,Blackidge
@@ -4580,7 +4580,7 @@
 468883718,Сад В Пенбери,Penbury Garden
 469932304,Поместье Эшсмит,Ashsmith Manor
 470980883,Аркбери,Arkbury
-472029462,Викфилд Гранж,Wickfield Grange
+472029462,Амбар Викфилд,Wickfield Grange
 473078055,Бейлмот,Baelmoth
 474126637,Усадьба Мурсли,The Moorsly Farmstead
 475175217,"Домик ""Багровый Гигант""",The Crimson Giant Lodge
@@ -4595,7 +4595,7 @@
 484613301,Киркли,Kirkley
 485661883,Старое Место Гринсли,The Old Greensley Place
 486710461,Дворец Гаерсли,Gaersly Palace
-487759048,Мастерстон Гранж,Masterston Grange
+487759048,Амбар Мастерстон,Masterston Grange
 488807631,Чарвей,Charway
 489856220,Плутовской Домик Королевы,The Queen's Rascal Lodge
 490904806,Хортейл,Hortale
@@ -4678,7 +4678,7 @@
 571650120,Развалины Старой Хижины Эливира,Ruins of Old Elyvyra's Shack
 572698711,Кладбище Мастерфилд,The Masterfield Cemetery
 573747291,Злополучный Домик Для Оленей,The Unfortunate Fawn Lodge
-574795879,Копперсли Гранж,Coppersley Grange
+574795879,Амбар Копперсли,Coppersley Grange
 575844460,Мерли,Merley
 576893056,Усадьба Гринсмита,The Greensmith Farmstead
 577941637,Блэквич,Blackwych
@@ -4778,7 +4778,7 @@
 676512680,Ньючестер,Newcester
 677561269,Лачуга Старой Юсанны,Old Ysanna's Hovel
 678609897,Священный Восход Солнца В Кинарете,Holy Sunrise of Kynareth
-679658516,Виксли Гранж,Wicksley Grange
+679658516,Амбар Виксли,Wicksley Grange
 680707105,Усадьба Хоуккрофт,The Hawkcroft Farmstead
 681756494,"Домик ""Грязный Волк""",The Dirty Wolf Lodge
 682805081,Своды Копперстона,The Copperston Vaults
@@ -4807,7 +4807,7 @@
 706923415,Усадьба Хартхарт,Hearthhart Manor
 707972003,Оксвуд,Oxwood
 709020595,Усадьба Кингсли,The Kingsly Farmstead
-710069176,Хартсли Гранж,Hearthsley Grange
+710069176,Амбар Хартсли,Hearthsley Grange
 711117757,"Лаборатория ""Агрин""",Agryn Laboratory
 712166341,Плантация Хоксли,The Hawksley Plantation
 713214933,Усадьба Хокхарт,The Hawkhart Farmstead
@@ -4815,7 +4815,7 @@
 715312130,Плачущая Реликвия Кинарета,Weeping Relic of Kynareth
 716360708,Замок Вудинг,Castle Wooding
 717410110,Холхам,Holham
-718458723,Викфорд Гранж,Wickford Grange
+718458723,Амбар Викфорд,Wickford Grange
 719507315,Плачущая Звезда Кинарета,Wailing Star of Kynareth
 720555893,Башня Йомвинг,Yeomwing Tower
 721604483,Ванхам Вуд,Vanham Wood
@@ -4835,7 +4835,7 @@
 736285463,Руины Усадьбы Эшсмит,Ruins of The Ashsmith Farmstead
 737334059,Усадьба Кингсли,The Kingsley Farmstead
 738382642,Кромвелл,Cromwell
-739431222,Гэрфилд Гранж,Gaerfield Grange
+739431222,Амбар Гэрфилд,Gaerfield Grange
 740479805,Усадьба Йомсли,The Yeomsley Farmstead
 741528389,Усадьба Йомкрофт,The Yeomcroft Farmstead
 742576979,Мэрбридж,Merbridge
@@ -4917,7 +4917,7 @@
 822272743,Руины Фруктового Сада Гаерсмита,Ruins of Gaersmith Orchard
 823321321,Поместье Ёмфилд,Yeomfield Manor
 824369931,Усадьба Бакингсли,The Buckingsley Farmstead
-825418511,Эшсли Гранж,Ashsly Grange
+825418511,Амбар Эшсли,Ashsly Grange
 826467136,Старая Пепельная Лачуга,The Old Ashwing Hovel
 827515755,Викхаус Холл,Wickhouse Hall
 828565139,Памятник Диваду,Divad Monument
@@ -4961,7 +4961,7 @@
 868412223,Ковен Гвинории,The Gwynorya Coven
 869461603,Эшфордское Кладбище,The Ashford Graveyard
 870510182,Фонтхед,Fonthead
-871558767,Гэрфорд Гранж,Gaerford Grange
+871558767,Амбар Гэрфорд,Gaerford Grange
 872607355,Честерли,Chesterleigh
 873655943,Рейвич,Reywich
 874704550,Руины Поместья Мурфорд,Ruins of Moorford Manor
@@ -5226,7 +5226,7 @@
 1146298768,Лаборатория Андана,Andane Laboratory
 1147347366,Мидбет,Midbeth
 1148395945,Старая Пепельная Лачуга,The Old Ashwing Hovel
-1149444523,Эшсмит Гранж,Ashsmith Grange
+1149444523,Амбар Эшсмит,Ashsmith Grange
 1150493112,Стокуэлл Дерри,Stokwell Derry
 1151541691,Гвардия Йомкрофта,Yeomcroft's Guard
 1152590286,Усадьба Мурхаус,Moorhouse Manor
@@ -5364,7 +5364,7 @@
 1291010263,Даггерфолл,Daggerfall
 1292058842,Старое Место Мастерхам,The Old Masterham Place
 1293107422,Лонгшир,Longshire
-1294156000,Склепы Дома Ёма,The Yeomhouse Crypts
+1294156000,Склепы Ёмхауз,The Yeomhouse Crypts
 1295204584,Усадьба Ёминг,Yeoming Manor
 1296253182,Пенгейт Дерри,Pengate Derry
 1297301791,Плачущая Реликвия Кинарета,Wailing Relic of Kynareth
@@ -5464,7 +5464,7 @@
 67150,Аркмор,Arkmore
 1116757,Памятник Диваду,Divad Monument
 2166310,Сингвейл,Singvale
-3214912,Виквинг Гранж,Wickwing Grange
+3214912,Амбар Виквинг,Wickwing Grange
 4264466,Хоккрофт Палас,Hawkcroft Palace
 5313044,Усадьба Вудхаус,The Woodhouse Farmstead
 6361622,Уайтхоуп,Whitehope
@@ -5514,7 +5514,7 @@
 52512005,Вестхоуп,Westhope
 53561525,Горящий Провидец Зенитара,Burning Seer of Zenithar
 54610108,Развалины Хижины Старого Моргейна,Ruins of Old Morgayne's Shack
-55658686,Виксли Гранж,Wicksley Grange
+55658686,Амбар Виксли,Wicksley Grange
 56707289,Усадьба Мастертон,The Masterton Farmstead
 57755889,Поместье Мурсмит,Moorsmith Manor
 58804469,Мурстон Холл,Moorston Hall
@@ -5717,7 +5717,7 @@
 265409875,Гробницы Букинга,The Tombs of Buckinging
 266458470,Руины Замка Гейеркрофт,Ruins of Castle Gaercroft
 267507070,Кладбище Мурсмит,The Moorsmith Graveyard
-268555648,Мастерфорд Гранж,Masterford Grange
+268555648,Амбар Мастерфорд,Masterford Grange
 269604226,Развалины Старой Хижины Ёмхэма,Ruins of The Old Yeomham Shack
 270652806,Усадьба Мурсмит,The Moorsmith Farmstead
 271701391,"Фруктовый Сад ""Мурстон""",Moorston Orchard
@@ -5743,7 +5743,7 @@
 292676850,Йомвинг Холл,Yeomwing Hall
 293725428,"Хостел ""Черный Штурвал""",The Black Helm Hostel
 294774011,Хутор Старая Ысыня,Old Ysyna's Farm
-295822590,Хартинг Гранж,Hearthing Grange
+295822590,Амбар Хартинг,Hearthing Grange
 296871169,"Зал ""Барон Бариварец""",Baron Barivarezzar Hall
 297919748,Эвелира Култус,Evelyvyra Cultus
 298968329,Руины Эшхаус Холла,Ruins of Ashhouse Hall
@@ -5843,7 +5843,7 @@
 397548430,Холд Хоктона,Hawkton's Hold
 398597046,Лонгкасл Минстер,Longcastle Minster
 399645675,Кроссварк,Crosswark
-400694256,Викстон Гранж,Wickston Grange
+400694256,Амбар Викстон,Wickston Grange
 401743756,Кладбище Хартстон,The Hearthston Cemetery
 402792347,Призрак Небуховора,The Haunt of Nebuchovor
 403840935,Дворец Гринхэм,Greenham Palace
@@ -5860,7 +5860,7 @@
 415377273,Ламтале,Lamtale
 416425889,Руины Поместья Букингем,Ruins of Buckingham Manor
 417475379,Усадьба Вудхарта,The Woodhart Farmstead
-418523973,Вудкрофт Гранж,Woodcroft Grange
+418523973,Амбар Вудкрофт,Woodcroft Grange
 419572586,Усадьба Ёмсли,The Yeomsly Farmstead
 420621164,"Таверна ""Фея Королевы""",The Queen's Fairy Tavern
 421670711,Реликварий Раена,Reliquary of Raen
@@ -5921,7 +5921,7 @@
 12845024,Холд Йомкрофта,Yeomcroft's Hold
 13893611,Усадьба Мурфилд,The Moorfield Farmstead
 14943183,Уайтфорт,Whitefort
-15992750,Склепы Дома Ёма,The Yeomhouse Crypts
+15992750,Склепы Ёмхауз,The Yeomhouse Crypts
 17041339,"Домик ""Зеленый Лесной Барсук""",The Green Woodchuck Lodge
 18090909,Башня Йомтон,Yeomton Tower
 19141479,Хижина Виккрофта,The Wickcroft Cabin
@@ -6761,7 +6761,7 @@
 291649492,Цитадель Бакингтона,The Citadel of Buckington
 292698076,Башня Вудвинг,Tower Woodwing
 293746659,Руины Поместья Мастерсли,Ruins of Mastersly Manor
-294795264,Виккрофт Гранж,Wickcroft Grange
+294795264,Амбар Виккрофт,Wickcroft Grange
 295843842,"Гостиница ""Мышь И Грифон""",The Mouse and Griffin Inn
 296892462,Усадьба Мурвинг,The Moorwing Farmstead
 297941042,Пенли,Penley
@@ -6809,7 +6809,7 @@
 341984283,Олдхед,Aldhead
 343033689,Поместье Гаэртон,Gaerton Manor
 344082283,Пентри,Pentry
-345130862,Мастерстон Гранж,Masterston Grange
+345130862,Амбар Мастерстон,Masterston Grange
 346179460,Руины Дворца Мурхарт,Ruins of Moorhart Palace
 347228045,Истбери,Eastbury
 348276633,Апвик,Upwick
@@ -6836,7 +6836,7 @@
 370297797,Усадьба Гринкрофт,The Greencroft Farmstead
 371346381,Усадьба Копперфильда,The Copperfield Farmstead
 372394959,Усадьба Копперсли,The Coppersley Farmstead
-373443540,Бакингсли Гранж,Buckingsly Grange
+373443540,Амбар Бакингсли,Buckingsly Grange
 374492127,Холд Коппервинга,Copperwing's Hold
 375540712,Ламхед,Lamhead
 376590140,Уикхемская Башня,The Tower of Wickham
@@ -6862,7 +6862,7 @@
 397562785,Масолеум Магнобона,The Masoleum of Magnobon
 398611370,Кингфилд Холл,Kingfield Hall
 399659952,"Таверна ""Танцующий Священник""",The Dancing Priest Tavern
-400709373,Харткрофт Гранж,Hearthcroft Grange
+400709373,Амбар Харткрофт,Hearthcroft Grange
 401757960,Владоботский Зал,Vladoboth Hall
 402806544,"Паб ""Грязная Собака""",The Dirty Dog Pub
 403855132,"Гостиница ""Крыса И Олень""",The Rat and Stag Inn
@@ -7372,7 +7372,7 @@
 178554621,"Паб ""Танцующая Кружка""",The Dancing Mug Pub
 179603211,Бесконечный Пророк Юлианос,Infinite Prophet of Julianos
 180651791,"Трактир ""Беспокойный Волк""",The Restless Wolf Inn
-181700369,Луллен Гранж,Lullten Grange
+181700369,Амбар Луллен,Lullten Grange
 182748950,Кабина Каюта Флюпте,The Flulpte Cabin
 183797531,Умбалла-Гора,Umballa-Gora
 184846113,Шрасин Холл,Shrasin Hall
@@ -9188,7 +9188,7 @@
 97643309,Амбар Гринстон,Greenston Grange
 98691887,Усадьба Хокхарт,The Hawkhart Farmstead
 99741445,"Паб ""Черный Плут""",The Black Rascal Pub
-100790032,Мастерхаус Гранж,Masterhouse Grange
+100790032,Амбар Мастерхаус,Masterhouse Grange
 101839583,Поместье Ёмфилд,Yeomfield Manor
 102888168,Хижина Старого Каролабита,Old Carolabyth's Shack
 103936758,Найтслех,Knightslech
@@ -11996,7 +11996,7 @@
 8754077,Явь-Ком,Javii-Kom
 9803655,Пенитенциарный Центр Тустома,The Penitentiary of Thustom
 10852255,Хижина Старого Тлоргта,Old Tlorgta's Shack
-11900849,Рух'керн Гранж,Ruch'kern Grange
+11900849,Амбар Рух'керн,Ruch'kern Grange
 12949440,"Зал ""Клурхт""",Klurhtt Hall
 13998034,Хижина Старого Д'Уртги,Old D'urtga's Shack
 15047526,Цитадель Гларгена,The Citadel of Glargen
@@ -12005,7 +12005,7 @@
 18193301,Призраки Лорда Литлайта,The Haunt of Lord Lithulyth
 19242835,Аппиладжа,Appilaja
 20291416,"Хостел ""Летучая Мышь И Коза""",The Bat and Goat Hostel
-21340023,Д'Ашам Гранж,D'acham Grange
+21340023,Амбар Д'Ашам,D'acham Grange
 22388615,Киршемское Кладбище,The Kircem Cemetery
 23437195,Аппехла,Appehla
 24486697,Дворец Крукта,Kructte Palace
@@ -12146,7 +12146,7 @@
 16029226,Старая Хижина Кразама,The Old Krazam Shack
 17078755,Усадьба Дуркерн,The Dur'kern Farmstead
 18127349,"Паб ""Воющий Священник""",The Howling Priest Pub
-19175930,Фарт-Гранж,Fart Grange
+19175930,Амбар Фарт,Fart Grange
 20226484,Пайда,Pajda
 21275068,Гисела,Gyselah
 22323646,Руины Замка Б'ирн,Ruins of Castle B'irn
@@ -12928,7 +12928,7 @@
 270873501,Дворец Меркон,Mercon Palace
 271922121,"Таверна ""Бобр И Собака""",The Beaver and Dog Tavern
 272971493,"Гостиница ""Королева-варвар""",The Queen's Barbarian Inn
-274020074,Гест Гранж,Ghest Grange
+274020074,Амбар Гест,Ghest Grange
 275068653,Гера-Иж,Hera-Ij
 276117244,Бесконечное Восхождение Зенитара,Infinite Ascencion of Zenithar
 277165828,"Хостел ""Череп Короля""",The King's Skull Hostel
