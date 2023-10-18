@@ -181,6 +181,27 @@ exteriorLightShadowsInfo,                           "Солнечный свет
 ambientLitInteriors,                                "Упростить внутреннее освещение"
 ambientLitInteriorsInfo,                            "Использовать менее сложное освещение для\rпомещений с повышенной производительностью."
 
+- Configure Joystick Controls UI
+
+rightClickString,                                   "Правый Клик"
+middleClickString,                                  "Срединй Клик"
+leftClickString,                                    "Левый Клик"
+backString,                                         "Назад"
+configureJoystickControls,                          "Настройки джойстика"
+continue,                                           "ПРОДОЛЖИТЬ"
+enableController,                                   "Включить Контроллер"
+invert,                                             "Развернуть"
+lookSensitivity,                                    "Чувствительность обзора"
+uiMouseSensitivity,                                 "Чувствительность мыши"
+maximumMovementThreshold,                           "максимальный порог движения"
+deadzone,                                           "Мёртвая зона"
+movementH,                                          "Гор. движение"
+movementV,                                          "Верт. движение"
+cameraH,                                            "Гор. камера"
+cameraV,                                            "Верт. камера"
+primary,                                            "Основной"
+secondary,                                          "Дополнительный"
+
 - Options shared among sliders. Missing keys use default text.
 
 Off,                                                "Выкл."
