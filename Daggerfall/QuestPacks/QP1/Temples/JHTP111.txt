@@ -1,0 +1,419 @@
+Quest: JHTP111
+DisplayName: Когорта даэдра
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Слухи о распространении даэдрического содружества в ___questgiver_,
+<ce> одного, кто хочет привнести влияние Обливиона в Тамриэль.
+<ce> Мы не можем мириться с этим и хотим отправить кого-то, чтобы
+<ce> разобраться в этом вопросе. Будете ли вы искать для нас информацию?
+
+RefuseQuest:  [1001]
+<ce> Без проблем. Предполагаю, что это будет легкая задача.
+
+AcceptQuest:  [1002]
+<ce> "Потому что мы считаем, что два разума лучше одного, мы
+<ce> привлекли еще одного сыщика, чтобы сопровождать вас.
+<ce> %pcn, познакомьтесь с _friend_. Вы вдвоем будете
+<ce> искать по городу любые улики о _cohort_
+<ce> и даэдра. Закончите это через три дня."
+<ce>
+<ce> _friend_ с энтузиазмом пожимает вам
+<ce> руку и начинает следовать за вами. "Мы разберемся,
+<ce> да, мы это сделаем! Пошли, %pcf!"
+<ce>
+<ce> Прежде чем вы уйдете, _questgiver_ произносит.
+<ce> "%pcf, у вас есть полномочия принимать
+<ce> окончательное решение здесь, будучи высшего ранга.
+<ce> Задача _friend_ - только помогать вам. Прощайте."
+
+QuestFail:  [1003]
+
+QuestComplete:  [1004]
+<ce> Вы надеетесь, что приняли правильное решение.
+
+RumorsDuringQuest:  [1005]
+__questgiver_ заботится о нас, простых людях. Молодцы!
+   <--->
+Несколько сыщиков из храма ищут даэдра.
+
+Message:  1010
+<ce> _friend_ говорит: "Ну, мы можем спросить
+<ce> людей в городе, знают ли они что-нибудь. Как только у нас будет
+<ce> какие-то доказательства, мы можем спросить _cohort_ об этом.
+<ce> Я знаю, что %g1 - владелец _coshop_ и
+<ce> большую часть времени проводит там. Так что,
+<ce> я буду следовать за тобой. Веди дорогу!"
+
+Message:  1011
+<ce> _friend_ делает шаг вперед. "_cohort_,
+<ce> мы пришли от __questgiver_ из-за слухов, что вы
+<ce> сотрудничаете с даэдра. Это правда?"
+<ce>
+<ce> _cohort_ выглядит немного шокированным, но быстро приходит в себя.
+<ce> "Нет, это не так! Я клянусь, я враг даэдра.
+<ce> Я желаю только их изгнания из всего Тамриэля!
+<ce> Пожалуйста, осмотрите всё вокруг. У меня нет ничего, что я мог бы скрыть."
+<ce>
+<ce> _friend_ пожимает плечами в вашу сторону.
+
+Message:  1012
+<ce> Ой! Вы те дознаватели, посланные
+<ce> __questgiver_, верно? Я расскажу! Я скажу
+<ce> всё, что вы захотите! Просто дайте мне 100 золотых, и
+<ce> я буду щебетать как птичка, действительно буду!
+
+Message:  1013
+<ce> "100! Вот это дело! Да, итак,
+<ce> я могу рассказать вам много чего. _cohort_ был
+<ce> увлечен дэдрами с молодости, я уверен. Мощные создания!
+<ce> Такое, чем ребенок мечтал бы заниматься.
+<ce> И я живой, дышащий свидетель! Я слышу шепот, который идет
+<ce> из того дома прямо к моему, каждую ночь!
+<ce> Это, друзья мои, доказательство!"
+<ce>
+<ce> Насколько бы возбужденным _neighbor_ ни был, это все равно
+<ce> доказательство, которое следует проверить.
+
+Message:  1014
+<ce> Тогда я не могу вам помочь, тупицы. Убирайтесь отсюда.
+
+Message:  1015
+<ce> Нет денег? Я подожду здесь.
+
+Message:  1016
+<ce> _friend_ отшатывается от увиденного.
+<ce> "Это кровь! Человеческая кровь, верно?
+<ce> И посмотрите на имя, написанное на ней: _cohort_!
+<ce> Что это, если не неоспоримое доказательство? Что еще это
+<ce> может означать, как не то, что %g1 виновен?"
+<ce>
+<ce> Этот вопрос следует задать _cohort_.
+
+Message:  1017
+<ce> Вы находите здесь письмо, которое читает _friend_.
+<ce>
+<ce> "Наш дорогой друг _cohort_, мы благодарим тебя
+<ce> от всего сердца за твою благожелательность.
+<ce> Ты сделал много добра среди своих в ____questgiver_,
+<ce> говоря хорошо о нас и умиротворяя наших врагов.
+<ce> Посещай нас в любое время, и ты получишь гостеприимство,
+<ce> далеко превосходящее то, что предлагают народы Тамриэля.
+<ce>
+                             Твои сестры навсегда,
+                             Ковен Гленморил"
+<ce>
+<ce> "Сговор с ведьмами. Вот что бы делал любитель дэдра!"
+<ce> восклицает _friend_. "Покажем это _cohort_!"
+
+Message:  1018
+<ce> Вдруг громкий взрыв разрывает воздух.
+<ce> Земля немного дрожит, и когда вы смотрите на
+<ce> источник взрыва, вы видите существо из другого мира.
+<ce> Оно смеётся и двигается в вашем направлении.
+
+Message:  1019
+<ce> "Это ужасно! Я больше так не сделаю!"
+<ce> вскричал _friend_. "Закончим с этим!
+<ce> Эта атака - доказательство! _cohort_
+<ce> пытается нас остановить! Пошли!"
+
+Message:  1020
+<ce> Вы рассказываете _cohort_ о обвинениях _neighbor_.
+<ce>
+<ce> "Шепот из моего дома? Это ложь!
+<ce> Как можно слышать шепот из другого здания?
+<ce> _neighbor_ ненавидит меня уже много лет, еще
+<ce> с тех пор, как я спал с кем-то из %g3 семьи.
+<ce> Это было неправильно, и я попытался загладить вину, но %g1 не
+<ce> хочет прощать меня! Не верьте %g2!"
+
+Message:  1021
+<ce> Вы показываете _cohort_ письмо от ведьм.
+<ce>
+<ce> "Да, это письмо от ковена Гленморил.
+<ce> Много лет назад они исцелили мой глаз, когда боги Империи
+<ce> оставили меня. Эти сестры обладают силой, и я бы хотел, чтобы
+<ce> все могли извлечь из этого пользу. Но вызывать даэдра? Нет, никогда!
+<ce> Я ненавижу даэдра, так же как и все остальные здесь!"
+
+Message:  1022
+<ce> Вы говорите _cohort_, что видели имя %g3 написанное кровью.
+<ce>
+<ce> "Это невозможно! Я даже не был в том месте на этой неделе!
+<ce> Я ничего не знаю об этом и понятия не имею, кто мог меня подставить!
+<ce> И кроме того, с каких пор даэдра просят вас писать своё имя кровью?
+<ce> Это не имеет никакого отношения ко мне, клянусь!"
+
+Message:  1023
+<ce> Вы говорите _cohort_, что вас атаковали даэдра.
+<ce>
+<ce> "Вы пытаетесь свалить это на меня? Что я сделал,
+<ce> чтобы заслужить такое? Я не имею никакого отношения к этому!
+<ce> Я рад, что монстр ушел! Я серьезно,
+<ce> я абсолютно невиновен!"
+
+Message:  1024
+<ce> _friend_ обращается к вам.
+<ce> "Ну что, похоже, мы выполнили свою работу.
+<ce> _questgiver_ говорит, что решение за вами.
+<ce> Они будут ждать ответа в ближайшее время. Ну что,
+<ce> является ли _cohort_ другом Даэдра?"
+
+Message:  1025
+<ce> "Я согласен! Пойду заберу стражников!"
+<ce>
+<ce> _friend_ устремляется вперед и вскоре возвращается с отрядом
+<ce> городской стражи. Они врываются в _coshop_
+<ce> и вскоре выходят с _cohort_ в наручниках.
+<ce> Вы слышите, как %g2 кричит: "Нет, пожалуйста! Я невиновен!
+<ce> %oth, вы не можете это сделать! Пожалуйста, нет, нет!"
+<ce> Они уносят %g2, чтобы выполнить ваше решение.
+
+Message:  1026
+<ce> "Ну что ж, мне это не нравится, но я согласен. Я согласен, что
+<ce> улики не идеальны... Жаль, что у нас нет больше информации.
+<ce> Решение за тобой, и ты будешь жить с этим."
+<ce>
+<ce> _friend_ прохладно жмет вам руку и уходит.
+<ce> _cohort_, если он виновен, теперь может спокойно уйти из ___questgiver_
+<ce> и избежать оставшихся подозрений.
+
+Message:  1030
+%qdt:
+ __questgiver_ соединил меня с
+ членом храма по имени _friend_,
+ чтобы расследовать слухи о союзнике дэдра
+ в ___questgiver_ по имени _cohort_.
+ Нам следует расспрашивать о доказательствах против
+ %g2 и показать их %g2 в _coshop_.
+
+Message:  1031
+%qdt:
+ Мы получили весьма взволнованное показание
+ от соседа _cohort_ по имени _neighbor_.
+ Мы должны представить это доказательство _cohort_.
+
+Message:  1032
+%qdt:
+ _cohort_ рассказал нам, что этот сосед
+ имеет зуб против %g2 и
+ ему не стоит доверять.
+
+Message:  1033
+%qdt:
+ Мы нашли имя _cohort_, написанное кровью,
+ в _cohouse_ - другом жилище %g3.
+
+Message:  1034
+%qdt:
+ _cohort_ утверждает, что %g1 не
+ посещал эту резиденцию на протяжении нескольких дней и
+ ставит под сомнение цель написания %g3
+ собственного имени кровью.
+
+Message:  1035
+%qdt:
+ Мы нашли письмо от ведьм
+ в _otherres_, где объясняется, что
+ _cohort_ давно с ними знаком.
+
+Message:  1036
+%qdt: 
+ _cohort_ признался в общении с ведьмами,
+ но только ради их исцеляющих искусств,
+ а не для призыва даэдра.
+
+Message:  1037
+%qdt:
+ _friend_ и я были атакованы
+ одним из даэдра во время расследования
+ дела _cohort_. Возможно, это
+ также свидетельствует против %g2.
+
+Message:  1038
+%qdt:
+ _cohort_ сказал нам, что %g1 ненавидит
+ даэдра и рад, что
+ существо исчезло.
+
+Message:  1039
+<ce> __questgiver_ дал вам три дня на решение
+<ce> дела _cohort_. Ваше время истекло, и решение
+<ce> будет принято другим.
+
+Message:  1055
+У _cohort_ есть сосед по имени _neighbor_, проводит %g3 время в _tavern_. Много говорит, знаете ли?
+   <--->
+_cohort_ находится в _coshop_, но живет в другом месте, в _cohouse_.
+   <--->
+_cohort_ платит за хранение старых вещей в _otherres_.
+
+QBN:
+Person _questgiver_ group Questor
+Person _friend_ group Resident1
+Person _neighbor_ faction The_Thieves_Guild
+Person _cohort_ faction The_Merchants anyInfo 1055
+
+Place _cohouse_ local generalstore
+Place _otherres_ local tavern
+Place _tavern_ local tavern
+Place _coshop_ local pawnshop
+
+Item _blood_ werewolf_blood
+Item _blood2_ werewolf_blood
+Item _letter_ letter
+
+Clock _timer_ 3.00:00
+Clock _introd_ 0:02
+Clock _flee_ 0:10
+
+Foe _daed_ is Frost_daedra
+
+--	Quest start-up:
+    log 1030 step 0
+    start timer _timer_
+    start timer _introd_
+    add _friend_ face
+    place npc _cohort_ at _coshop_
+    place npc _neighbor_ at _tavern_
+    place item _blood_ at _cohouse_
+    place item _letter_ at _otherres_
+    pc at _coshop_ do _inside_
+
+_introd_ task:
+    say 1010
+
+_talkco_ task:
+    clicked npc _cohort_
+    start task _zeroevid_
+
+_zeroevid_ task:
+    say 1011
+
+variable _inside_
+
+_talkneighbor_ task:
+    clicked npc _neighbor_
+
+_neighb1_ task:
+    when _talkneighbor_ and not _nomoney_
+    prompt 1012 yes _pay_ no _refusepay_
+
+_refusepay_ task:
+    say 1014
+
+_pay_ task:
+    pay 100 money do _squeal_ otherwise do _nomoney_
+
+_nomoney_ task:
+    say 1015
+    clear _talkneighbor_
+
+_recurse_ task:
+    when _talkneighbor_ and _nomoney_
+    prompt 1012 yes _pay_ no _refusepay_
+
+_squeal_ task:
+    say 1013
+    log 1031 step 1
+    clear _talkco_ _pay_
+
+_deliverrumor_ task:
+    when _talkco_ and _squeal_
+    say 1020
+    log 1032 step 2
+    start task _evid1_
+
+variable _evid1_
+
+_findletter_ task:
+    clicked item _letter_
+    clear _talkco_
+    say 1017
+    log 1035 step 3
+
+_deliverletter_ task:
+    when _talkco_ and _findletter_
+    say 1021
+    start task _evid2_
+    take _letter_ from pc
+    log 1036 step 4
+
+variable _evid2_
+
+_findblood_ task:
+    clicked item _blood_
+    say 1016
+    take _blood_ from pc
+    place item _blood2_ at _cohouse_
+    clear _talkco_
+    log 1033 step 5
+
+_deliverblood_ task:
+    when _talkco_ and _findblood_
+    say 1022
+    start task _evid3_
+    log 1034 step 6
+
+variable _evid3_
+_mix1_ task:
+    when _evid1_ and _evid2_
+    when _evid3_ and _evid2_
+    when _evid1_ and _evid3_
+
+_attack_ task:
+    when _mix1_ and not _inside_ and not _mix2_
+    start task _atk_
+
+_atk_ task:
+    say 1018
+    create foe _daed_ every 0 minutes 1 times with 100% success
+    change foe _daed_ infighting true
+    start timer _flee_
+
+_flee_ task:
+    start task _daedgone_
+    remove foe _daed_
+
+_kill_ task:
+    killed _daed_
+    start task _daedgone_
+
+_daedgone_ task:
+    say 1019
+    clear _talkco_
+    log 1037 step 7
+
+_talkdaed_ task:
+    when _talkco_ and _daedgone_
+    say 1023
+    start task _evid4_
+    log 1038 step 8
+
+variable _evid4_
+
+_mix2_ task:
+    when _evid1_ and _evid2_ and _evid3_
+    when _evid2_ and _evid3_ and _evid4_
+    when _evid1_ and _evid2_ and _evid4_
+    when _evid1_ and _evid3_ and _evid4_
+
+_final_ task:
+    when _mix2_ and not _inside_
+    prompt 1024 yes _judge_ no _release_
+
+_judge_ task:
+    say 1025
+    give pc nothing
+    end quest
+
+_release_ task:
+    say 1026
+    give pc nothing
+    end quest
+
+_timer_ task:
+    say 1039
+    end quest

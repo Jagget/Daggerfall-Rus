@@ -1,0 +1,405 @@
+Quest: JHKN129a
+DisplayName: Экстремисты с добрыми намерениями
+-- Message panels
+QRC:
+
+QuestFail:   [1003]
+<ce> Группа добровольцев, без сомнения, была хорошо осведомлена
+<ce> о ваших намерениях. К этому времени они уже
+<ce> рассеялись по окрестностям. Ваша работа здесь завершена.
+
+QuestComplete:  [1004]
+<ce> С учетом смерти их лидерства, у этой группы добровольцев
+<ce> больше не будет власти над ___tr_.
+
+RumorsDuringQuest:   [1005]
+Какие-то несчастные люди в городе.
+   <--->
+%t так себе, не находите?
+   <--->
+Нам и без %t неплохо. Мы справимся сами.
+   <--->
+Мы все обречены.
+
+RumorsPostSuccess:   [1007]
+В ___tr_ куча преступных подонков захватила власть.
+   <--->
+А, герой ___tr_! Как вы?
+   <--->
+Я слышал, %t отправил армию, чтобы уничтожить ___tr_.
+
+Message:  1010
+<ce> Вы обыскиваете карманы этого ублюдка в поисках каких-либо улик,
+<ce> но, похоже, эта группа хорошо скрывает свои следы.
+<ce> Поднимаясь на ноги, вы замечаете приближающуюся женщину, которая тихо говорит:
+<ce>
+<ce> "Прошу прощения? Да, вы собираетесь остановить эту банду?
+<ce> Я не могу говорить здесь. Пожалуйста, найдите меня у меня дома,
+<ce> в _res_. Приходите быстро."
+   <--->
+<ce> Вы обыскиваете карманы этого ублюдка в поисках каких-либо улик,
+<ce> но, похоже, эта группа хорошо скрывает свои следы.
+<ce> Поднимаясь на ноги, вы замечаете приближающуюся женщину, которая тихо говорит:
+<ce>
+<ce> "Спасибо за помощь. Вы здесь, чтобы остановить их?
+<ce> Пожалуйста, приходите ко мне в _res_.
+
+Message:  1011
+<ce> Вы уже опоздали. Это тело женщины,
+<ce> которая подошла к вам снаружи, и у
+<ce> нее даже не было шанса рассказать вам свое имя.
+<ce>
+<ce> Скрипящий звук поблизости указывает на то,
+<ce> что ее убийцы уже ждут вас.
+
+Message:  1012
+<ce> Обыскав обоих убитых в поисках каких-либо улик,
+<ce> но ничего не найдя, вы слышите крик из-за двери.
+<ce>
+<ce> "Эй, мы будем хоронить ту телку и %ra вместе?"
+<ce>
+<ce> Не услышав ответа, разбойник входит в дом.
+
+Message:  1013
+<ce> Ваш удар заставляет этого негодяя замереть от ужаса.
+<ce> Явно не все из них готовы к бою.
+<ce> Вы требуете ответов, способа найти лидера банды.
+<ce>
+<ce> "Пожалуйста, оставьте меня в живых! _tr_!
+<ce> Идите туда! Не делайте мне этого, клянусь, они там!"
+
+Message:  1014
+<ce> Здесь нет врагов. Возможно, негодяй лгал.
+<ce> Или лидер банды мог на мгновение выйти.
+<ce> Или есть что-то еще, что стоит найти?
+
+Message:  1015
+<ce> Группа охотников за головами каким-то образом скрывалась в этом здании.
+<ce> Они не теряют времени и пытаются зарезать вас.
+
+Message:  1016
+<ce> Похоже, потасовка была настолько громкой, что несколько крестьян
+<ce> собрались у двери, интересуясь вашей судьбой.
+<ce> Один мужчина находит в себе смелость обратиться к вам.
+<ce>
+<ce> "Вы действительно достаточно сильны, чтобы победить их? Пожалуйста,
+<ce> идите в _goal_! Я знаю, что они скоро будут там!
+<ce> Мы не хотим, чтобы они были здесь! Помогите нам!"
+<ce>
+<ce> Он умоляет вас, сложив руки вместе, и несколько других
+<ce> поддерживают это мнение. Возможно, это действительно
+<ce> путь к завершению.
+   <--->
+<ce> Похоже, потасовка была настолько громкой, что несколько крестьян
+<ce> собрались у двери, интересуясь вашей судьбой.
+<ce> Одна женщина находит в себе смелость обратиться к вам.
+<ce>
+<ce> "Вы действительно достаточно сильны, чтобы победить их? Пожалуйста,
+<ce> идите в _goal_! Я знаю, что они скоро будут там!
+<ce> Мы не хотим, чтобы они были здесь! Помогите нам!"
+<ce>
+<ce> Она умоляет вас, сложив руки вместе, и несколько других
+<ce> поддерживают это мнение. Возможно, это действительно
+<ce> путь к завершению.
+
+Message:  1017
+<ce> Вы пытаетесь тихо открыть дверь, но, похоже, на нее
+<ce> был наложен магический запрет. Вскоре вы слышите крик.
+<ce>
+<ce> "Кто там?! Никаких помех!"
+<ce>
+<ce> Вы не находите подходящего ответа. Воздух становится тяжелым.
+<ce> Вскоре лидеры банды вскакивают со своих мест
+<ce> и бросаются убивать вас.
+
+Message:  1018
+%qdt:
+ Женщина у входа в ___res_ попросила меня
+ встретиться с ней в _res_, чтобы
+ дать мне информацию.
+
+Message:  1019
+%qdt:
+ Один из преступников в ___res_ сказал мне
+ идти в _tr_, чтобы найти лидеров.
+
+Message:  1020
+%qdt:
+ Доброжелательные крестьяне сказали мне искать
+ лидеров группы в _goal_.
+
+Message:  1021
+<ce> %oth, мое бедное сердце. Я просто был в ужасе, что
+<ce> это могло бы быть не тобой. Прости меня.
+<ce> Сейчас весь город под наблюдением.
+<ce> Эта банда следит за всем. Городская стража
+<ce> отказывается вмешиваться, говоря, что каждое
+<ce> столкновение - это просто "преступники разбираются между собой."
+<ce> Грязные, бесстыдные соучастники, больше ничего.
+<ce>
+<ce> Так что я хотел бы предложить. Поскольку город
+<ce> хорошо разведан, и твое внезапное появление
+<ce> наверняка вызывает подозрения, почему бы не воспользоваться этим?
+<ce> Выходи на улицу и просто болтайся поблизости.
+<ce> На тебя обратят внимание какие-то преступные отбросы, и когда
+<ce> ты убьешь нескольких, может быть, это привлечет их внимание настолько,
+<ce> что они отправят на тебя каких-то более важных людей.
+<ce> Я имею в виду, их численность ведь ограничена, и если
+<ce> они начнут терять людей, им придется избавиться от
+<ce> тебя так или иначе. Почему бы не попробовать?
+<ce> Но, пожалуйста, если у тебя возникнут проблемы, не проси меня
+<ce> о помощи. Я не воин. Я просто пытаюсь помочь.
+
+Message:  1022
+<ce> Удивительно (по крайней мере, для вас), но план сработал.
+<ce> Группа хорошо вооруженных приставов пришла, чтобы отнять у вас жизнь.
+
+Message:  1023
+<ce> Вы находите маленькую записку среди вещей ваших врагов,
+<ce> подбираете ее и кладете в свой рюкзак.
+
+Message:  1024
+<ce> Место встречи на сегодня: _goal_.
+<ce> Сначала произнесите заклинание входа,
+<ce> иначе сработает тревога.
+
+Message:  1025
+<ce> Какое бы заклинание вам ни понадобилось знать, вы его не знали.
+<ce> Громкий свист исходит из петель двери.
+<ce> Любой шанс на внезапное нападение теперь утерян.
+
+Message:  1026
+<ce> Вы находите маленький _gem_ среди вещей ваших врагов.
+<ce> На нем выгравировано: "В случае чрезвычайной ситуации."
+
+Message:  1027
+<ce> Камень перенес вас прямо в тайное убежище
+<ce> банды, которое вовсе не в
+<ce> ___res_. Его главарь
+<ce> и домашний зверь явно поражены, предполагая, что
+<ce> вернется один из их, а не противник.
+<ce>
+<ce> (Подсказка: Если вы оказались в ловушке без выхода, например, на дне ямы,)
+<ce> (сохраните игру и попробуйте использовать консольную команду "teleport", чтобы выбраться.)
+
+Message:  1028
+%qdt:
+ Доброжелательный крестьянин в ___res_
+ предложил мне выйти на улицу и убить
+ нескольких из вигилянтов, чтобы привлечь внимание.
+ Надеюсь, как только я покажу себя настойчиво,
+ появится кто-то важный.
+
+Message:  1030
+%qdt:
+ ___res_ был захвачен
+ группой самозванцев, называющих себя исполнителями закона.
+ Мне предстоит уничтожить эту банду
+ вигилянтов, не тратя больше одного
+ дня, как только я окажусь внутри.
+
+QBN:
+
+Person _lady_ group Banker female
+
+Place _res_ local house
+Place _dung_ remote dungeon
+Place _goal_ local random
+Place _tr_ local random
+
+Foe _e1_ is Rogue
+Foe _e2_ is Bard
+Foe _e3_ is Barbarian
+Foe _e4_ is Nightblade
+Foe _e5_ is Giant_scorpion
+Foe _e6_ is Rogue
+Foe _e7_ is Archer
+Foe _e8_ is Warrior
+Foe _e9_ is Spellsword
+Foe _e10_ is Nightblade
+Foe _e11_ is Mage
+Foe _e12_ is Bard
+Foe _e13_ is Rogue
+
+Item _body_ dead_body
+Item _gem_ gem
+Item _letter_ letter used 1024
+
+Clock _timer_ 1.00:00
+Clock _delay_ 0:02 0:03
+Clock _delay2_ 0:10
+
+--	Quest start-up:
+    start timer _timer_
+    log 1030 step 0
+    create foe _e6_ every 0 minutes 1 times with 100% success
+    start task _spawn_
+
+_infight_ task:
+    daily from 0:00 to 23:59
+    change foe _e1_ infighting true
+    change foe _e2_ infighting true
+    change foe _e3_ infighting true
+    change foe _e4_ infighting true
+    change foe _e5_ infighting true
+    change foe _e6_ infighting true
+    change foe _e7_ infighting true
+    change foe _e8_ infighting true
+    change foe _e9_ infighting true
+    change foe _e10_ infighting true
+    change foe _e11_ infighting true
+    change foe _e12_ infighting true
+    change foe _e13_ infighting true
+    change foe _e1_ team 0
+    change foe _e2_ team 0
+    change foe _e3_ team 0
+    change foe _e4_ team 0
+    change foe _e5_ team 0
+    change foe _e6_ team 0
+    change foe _e7_ team 0
+    change foe _e8_ team 0
+    change foe _e9_ team 0
+    change foe _e10_ team 0
+    change foe _e11_ team 0
+    change foe _e12_ team 0
+    change foe _e13_ team 0
+    clear _infight_
+
+_spawn_ task:
+    create foe _e1_ every 15 minutes indefinitely with 6% success
+
+_begin_ task:
+    killed _e6_
+    say 1010
+    pick one of _f1_ _f2_
+    log 1018 step 1
+
+_f1_ task:
+    place npc _lady_ at _res_
+
+_conv_ task:
+    clicked npc _lady_
+    say 1021
+    clear _spawn_
+    start task _spawn2_
+    log 1028 step 2
+
+_spawn2_ task:
+    create foe _e7_ every 60 minutes indefinitely with 50% success
+
+_step_ task:
+    killed 5 _e7_
+    clear _spawn2_
+    hide npc _lady_
+    start timer _delay2_
+
+_delay2_ task:
+    say 1022
+    create foe _e3_ every 0 minutes 3 times with 100% success
+
+_step2_ task:
+    killed 3 _e3_
+    pick one of _k1_ _k2_
+
+_k1_ task:
+    say 1023
+    get item _letter_
+    pc at _goal_ do _final_
+
+_final_ task:
+    say 1025
+    create foe _e8_ every 0 minutes 1 times with 100% success
+    create foe _e9_ every 0 minutes 1 times with 100% success
+    create foe _e10_ every 0 minutes 1 times with 100% success
+    create foe _e11_ every 0 minutes 1 times with 100% success
+
+_et8_ task:
+    killed _e8_
+
+_et9_ task:
+    killed _e9_
+
+_et10_ task:
+    killed _e10_
+
+_et11_ task:
+    killed _e11_
+
+_victory1_ task:
+    when _et8_ and _et9_ and _et10_ and _et11_
+    give pc nothing
+    legal repute +6
+    end quest
+
+_k2_ task:
+    say 1026
+    get item _gem_
+    _gem_ used do _tele_
+
+_tele_ task:
+    teleport pc to _dung_
+    say 1027
+    create foe _e4_ every 0 minutes 1 times with 100% success
+    create foe _e5_ every 0 minutes 1 times with 100% success
+
+_victory2_ task:
+    killed _e4_
+    give pc nothing
+    legal repute +6
+    end quest
+
+_f2_ task:
+    place item _body_ at _res_
+
+_bt_ task:
+    clicked item _body_
+    say 1011
+    create foe _e2_ every 0 minutes 2 times with 100% success
+    take _body_ from pc
+
+_bt2_ task:
+    killed 2 _e2_
+    say 1012
+    create foe _e12_ every 0 minutes 1 times with 100% success
+    restrain foe _e12_
+
+_inj_ task:
+    injured _e12_
+    clicked foe _e12_
+    say 1013
+    restrain foe _e12_
+    log 1019 step 3
+    pc at _tr_ do _entry_
+
+_entry_ task:
+    say 1014
+    start timer _delay_
+    clear _notentry_
+
+_notentry_ task:
+    when not _entry_
+    stop timer _delay_
+
+_delay_ task:
+    say 1015
+    create foe _e13_ every 0 minutes 3 times with 100% success
+
+_slain2_ task:
+    killed 3 _e13_
+    pc at _goal_ do _ambush_
+
+_peas_ task:
+    when _slain2_ and not _entry_
+    say 1016
+    log 1020 step 4
+
+_ambush_ task:
+    say 1017
+    create foe _e8_ every 0 minutes 1 times with 100% success
+    create foe _e9_ every 0 minutes 1 times with 100% success
+    create foe _e10_ every 0 minutes 1 times with 100% success
+    create foe _e11_ every 0 minutes 1 times with 100% success
+
+_timer_ task:
+    say 1003
+    end quest

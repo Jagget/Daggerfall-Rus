@@ -1,0 +1,27 @@
+Quest: JHKNC01
+DisplayName: Рыцарский орден. Последствия. Квест 1
+-- Message panels
+--used in KN118
+QRC:
+
+QuestComplete:   [1004]
+<ce> Когда вы входите в зал гильдии, воздух становится очень тяжелым.
+<ce> Здесь нет приветливых лиц, чтобы поприветствовать вас.
+<ce>
+<ce> Возможно, убийство члена гильдии
+<ce> создало вам дурную славу?
+
+QBN:
+
+Clock _endtimer_ 60.00:00
+
+--	Quest start-up:
+    pc at any fighters do _inside_
+    start timer _endtimer_
+
+_inside_ task:
+    say 1004
+    end quest
+
+_endtimer_ task:
+    end quest

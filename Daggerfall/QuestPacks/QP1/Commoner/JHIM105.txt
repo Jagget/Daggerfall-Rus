@@ -1,0 +1,188 @@
+Quest: JHIM105
+DisplayName: Бравые ребята
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Меня зовут _qgiver_. Мой дурацкий
+<ce> полусиблинг вчера вечером устроил драку в баре и теперь
+<ce> должен вернуться и поддержать нашу "семейную честь." Я
+<ce> лично совсем не забочусь о том, сколько лиц
+<ce> получит побои, но я обещал моему покойному отцу на
+<ce> его смертном одре, что позабочусь о его семье. Там
+<ce> есть =reward_ золотых монет для вас, если вы отправитесь
+<ce> в _tavern_ и поможете с дракой.
+
+RefuseQuest:  [1001]
+<ce> Он, возможно, сможет справиться
+<ce> сам. Я надеюсь, что так и будет.
+
+AcceptQuest:  [1002]
+<ce> Хорошо. Вот, это _family_. Вы
+<ce> должны прекрасно ладить. Я думаю, что сейчас
+<ce> самое время отправиться в
+<ce> _tavern_. Низкие жизни там
+<ce> наверное пьяны в хлам
+<ce> день и ночь в любом случае. Помогите нам, и вы
+<ce> получите свою оплату, и я буду хорошо отзываться о вас
+<ce> каждый раз, когда кто-то придет спрашивать.
+
+QuestFail:  [1003]
+<ce> "Забудьте меня. Я возвращаюсь в
+<ce> _tavern_, чтобы сделать это сам."
+
+QuestComplete:  [1004]
+<ce> Вы берете деньги, которые по праву принадлежат вам.
+
+QuestorPostSuccess:   [1008]
+Полусиблинги всегда создают проблемы, поверьте мне.
+
+Message:  1010
+<ce> "Привет %pcf, спасибо, что пошел со мной. Мне
+<ce> не нужна большая помощь или что-то в этом роде, но
+<ce> немного поддержки не помешает, не так ли?"
+<ce>
+<ce> _family_ берет клинок
+<ce> для боя и следует за вами.
+
+Message:  1011
+<ce> Как только вы входите в таверну, две
+<ce> фигуры встают и начинают кричать на вас.
+<ce> Среди каши, вы вычленяете, что
+<ce> они злы на вашего партнера. Бой
+<ce> казался неизбежным на этом этапе.
+
+Message:  1020
+<ce> "Ты довольно хороший боец, %pcf.
+<ce> Я признаю это, но ты был своего рода
+<ce> тяжестью для меня во время боя,
+<ce> и я думаю, что почувствовал бы себя обманутым, если бы мне пришлось
+<ce> платить тебе. Больше похоже на то, что я держал
+<ce> тебя в безопасности, не согласишься? Давай просто
+<ce> пойдем каждый своей дорогой и считай это сделанным."
+<ce>
+<ce> Позволите ли вы _family_
+<ce> уйти без оплаты?
+
+Message:  1021
+<ce> "%oth! Что ты делаешь?!"
+
+Message:  1023
+<ce> "Вот именно! Я знал, что ты со мной согласишься.
+<ce> Может быть, ты сможешь уговорить бармена
+<ce> дать тебе немного бесплатного пива за то, что ты избавился
+<ce> от этих придурков. Пока, %ra."
+<ce>
+<ce> _family_ машет рукой и выскользнувает из
+<ce> двери. По крайней мере, %g получает шанс прожить еще один день.
+
+Message:  1025
+<ce> "Вау, это было невероятно! Ты сражаешься как
+<ce> демон на сурсуме! Бери деньги.
+<ce> Просто наблюдать, как ты их избиваешь, было
+<ce> стоит всего этого дебакла!"
+<ce>
+<ce> _family_ передает вам мешок из
+<ce> ткани, содержащий золотые монеты _reward_,
+<ce> прежде чем направиться к владельцу за напитком.
+
+Message:  1030
+%qdt:
+ _qgiver_ попросил
+ меня сопровождать своего сводного брата или сестру,
+ _family_, в _tavern_,
+ чтобы уладить просроченную потасовку в баре.
+ Я получу оплату от н%g3,
+ когда все закончится.
+
+Message:  1099
+<ce> Если мне повезет, после этого у меня будет более разумный
+<ce> родной брат или сестра. Некоторым людям нужно
+<ce> чтобы им вбили разум в голову.
+
+QBN:
+Item _reward_ gold range 101 to 149
+
+Person _qgiver_ group Questor male
+Person _family_ group Chemist
+
+Place _tavern_ local tavern
+
+Clock _timer_ 1.00:00
+Clock _delay_ 00:01
+
+Foe _enemy1_ is Monk
+Foe _enemy2_ is Monk
+Foe _fam_ is Archer
+
+--	Quest start-up:
+    start timer _timer_
+    log 1030 step 0
+    pc at _tavern_ set _inside_
+    say 1010
+    add _family_ face
+    pick one of _honor_ _betray_
+
+_inside_ task:
+    start task _begin_
+
+_begin_ task:
+    say 1011
+    create foe _enemy1_ every 0 minutes 1 times with 100% success
+    create foe _enemy2_ every 0 minutes 1 times with 100% success
+    change foe _enemy1_ infighting true
+    change foe _enemy2_ infighting true
+
+_kill1_ task:
+    killed _enemy1_
+
+_kill2_ task:
+    killed _enemy2_
+
+_success_ task:
+    when _kill1_ and _kill2_
+    start timer _delay_
+
+_delay_ task:
+    drop _family_ face
+
+variable _honor_
+_happy_ task:
+    when _delay_ and not _betray_
+    say 1025
+    give pc _reward_
+    end quest
+
+variable _betray_
+_sad_ task:
+    when _delay_ and _betray_
+    prompt 1020 yes _escape_ no _murder_
+
+_escape_ task:
+    say 1023
+    end quest
+
+_murder_ task:
+    say 1021
+    create foe _fam_ every 0 minutes 1 times with 100% success
+    change foe _fam_ infighting true
+    change foe _fam_ team 0
+
+_deadfam_ task:
+    killed _fam_
+    give pc _reward_
+    change repute with _qgiver_ by -10
+    end quest
+
+_qgclicked_ task:
+    clicked npc _qgiver_
+
+_timer_ task:
+    say 1003
+    drop _family_ face
+    end quest
+
+_clearclick_ task:
+    when _qgclicked_
+    say 1099
+    clear _qgclicked_ _clearclick_

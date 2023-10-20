@@ -1,0 +1,135 @@
+Quest: JHIM110
+DisplayName: Сокровище Путешественника
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Меня зовут _qg_. У меня есть карта, которая, якобы, ведет к забытому сокровищу
+<ce> в %crn. Я считаю себя неспособным его добыть,
+<ce> но был бы готов продать ее за всего лишь 200 золотых монет.Это бы вас заинтересовало, %ra?
+   <--->
+<ce> Доброго времени суток, %ra. У меня есть карта, ведущая к забытому сокровищу
+<ce> в %crn, которой я готов расстаться всего за 200 золотых монет.
+<ce> Считаете ли вы это хорошей сделкой?
+
+RefuseQuest:  [1001]
+<ce> %oth. Расскажите своим друзьям обо мне.
+   <--->
+<ce> Какое сожаление, потому что я не буду снижать цену.
+   <--->
+<ce> Полагаю, мне стоит искать
+<ce> путешественника. Прошу прощения за ошибку.
+
+AcceptQuest:  [1002]
+<ce> Хорошо, очень хорошо. Поговорите со мной через момент,
+<ce> и мы совершим сделку.
+
+QuestFail:  [1003]
+<ce> Как бы настоящей ни была карта сокровищ,
+<ce> вполне вероятно, что кто-то уже нашел это сокровище.
+
+QuestComplete:  [1004]
+<ce> Похоже, это знаменитое сокровище.
+
+QuestorPostSuccess:   [1008]
+Предполагаю, что поиски сокровищ были успешными. Мы оба выиграли, %ra.
+
+Message:  1020
+<ce> Очень хорошо, спасибо, что дождались. Я возьму
+<ce> ваши 200 золотых. Отлично.
+<ce>
+<ce> Возвратов нет, должен сказать, но это
+<ce> очевидное предположение для всех участников в
+<ce> таких сделках. Нет
+<ce> надежды восстановить его лучше, чем это есть сейчас.
+<ce> Возьмите его, посмотрите, сделает ли это вас
+<ce> богатым за пределами ваших самых смелых мечтаний, и
+<ce> расскажите мне об этом когда-нибудь.
+<ce> Мое любопытство будет мучить меня, пока я не узнаю
+<ce> по этому поводу. Прощайте, %ra.
+
+Message:  1021
+<ce> Вижу, у вас нет 200 золотых монет.
+<ce> Какое сожаление. Надеюсь, следующий потенциальный клиент
+<ce> отнесется ко мне серьезнее.
+
+Message:  1025
+Дневник _dummy_
+Страница _num_
+ 
+... последние оставшиеся ... надежда на облегчение ...
+... убийственные воры не остановятся ни перед чем ...
+... если вы можете р ... без ожиданий ...
+... последнее из моего дорогого ... глубоко под ...
+... ___dung_ ...
+... чтобы убийцы не получили ...
+
+QBN:
+
+Person _qg_ group Questor male
+Person _dummy_ group Local_3.0
+
+Item _letter_ letter used 1025
+Item _num_ gold range 14 to 49
+Item _sack_ item class 1 subclass 10
+Item _reward1_ magic_item
+Item _reward2_ mineral
+Item _reward3_ diamond
+Item _reward4_ gold range 521 to 679
+Item _reward5_ gold range 1835 to 2999
+
+Place _dung_ remote dungeon
+
+Clock _timer_ 90.00:00
+
+--   Quest start-up:
+  start timer _timer_
+
+_start_ task:
+  clicked _qg_ and at least 200 gold otherwise do _fail_
+  say 1020
+  get item _letter_
+  pick one of _item1_ _item2_ _item3_ _item4_ _item5_ _item5_
+  reveal _dung_
+  place item _sack_ at _dung_
+
+variable _item1_
+variable _item2_
+variable _item3_
+variable _item4_
+variable _item5_
+
+_found_ task:
+  clicked item _sack_
+
+_vict1_ task:
+  when _found_ and _item1_
+  give pc _reward1_
+  end quest
+
+_vict2_ task:
+  when _found_ and _item2_
+  give pc _reward2_
+  end quest
+
+_vict3_ task:
+  when _found_ and _item3_
+  give pc _reward3_
+  end quest
+
+_vict4_ task:
+  when _found_ and _item4_
+  give pc _reward4_
+  end quest
+
+_vict5_ task:
+  when _found_ and _item5_
+  give pc _reward5_
+  end quest
+
+_timer_ task:
+  say 1003
+  end quest
+
+_fail_ task:
+  say 1021

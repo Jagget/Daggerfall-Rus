@@ -1,0 +1,36 @@
+-- Jay_H Mages Guild quest pack list
+
+-- name:        filename of QRC txt file
+-- group:       guild group from FactionFile.GuildGroups enum, or social group from FactionFile.SocialGroups enum
+-- membership:  N=non-member, M=member, P=prospect, T=Akatosh, A=Arkay, D=Dibella, J=Julianos, K=Kynareth, R=Mara, S=Stendarr, Z=Zenithar
+-- minReq:      minimum requirement to be offered the quest: (val < 10) = guild rank / player level, or (val >= 10) = min reputation
+-- flag:        0 = nothing, X = adult/nudity, 1 = one time quest
+-- notes:
+
+schema: *name, group, membership, minReq, flag, notes
+
+JHMG101, MagesGuild, M, 0, 0, a quest to slay a shapeshifting mage in a dungeon
+JHMG102, MagesGuild, M, 3, 1, a quest to convince a scholar to leave a dungeon via quiz
+JHMG103, MagesGuild, M, 7, 1, a quest to take a book back from the Psijic Order
+JHMG104, MagesGuild, M, 5, 1, a quest to resolve a daedric mental battle
+JHMG105, MagesGuild, M, 4, 1, a quest to speak to a mage from the east
+JHMG106, MagesGuild, M, 1, 1, a quest to take an unidentifiable magical item to a scholar in a dungeon
+JHMG107, MagesGuild, M, 2, 1, a quest to get teleported to a dungeon to find a criminal
+JHMG108, MagesGuild, M, 0, 0, a quest to retrieve a scholar's stolen notes
+JHMG109, MagesGuild, M, 0, 0, a quest to deliver a manuscript after certain days
+JHMG110, MagesGuild, M, 5, 1, a quest to slay a necromantic colleague
+JHMG111, MagesGuild, M, 0, 0, a quest to guide students to locations
+JHMG112, MagesGuild, M, 5, 1, a quest to stop a powerful former member
+JHMG113, MagesGuild, M, 1, 1, a quest to bring a wandering atronach home
+JHMG114, MagesGuild, M, 6, 1, a quest to obtain a report on vampirism
+JHMG115, MagesGuild, M, 1, 1, a quest to defend a shapeshifted member
+JHMG116, MagesGuild, M, 4, 1, a quest to rescue an ambitious experimenter
+JHMG117, MagesGuild, M, 0, 1, a quest to identify a document
+JHMG118, MagesGuild, M, 0, 1, a quest to purify and deliver a poisoned liquid
+JHMG119, MagesGuild, M, 2, 0, a quest to root out a necromancer
+-JHMG120, MagesGuild, M, 9, 1, an attempt on your life NEEDS TESTING
+JHMG121, MagesGuild, M, 95, 1, a quest to investigate an ancient lich
+JHMG122, MagesGuild, M, 8, 1, a quest to slay an immortal warrior
+JHMG123, MagesGuild, M, 1, 0, a quest to retrieve a confiscated gem
+JHMG203, MagesGuild, M, 4, 0, a quest to slay a necromancer in a residence
+JHMG222, MagesGuild, M, 2, 1, a quest to retrieve a trapped trinket

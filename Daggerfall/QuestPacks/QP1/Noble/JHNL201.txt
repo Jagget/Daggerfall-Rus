@@ -1,0 +1,124 @@
+Quest: JHNL201
+DisplayName: Осада изнутри
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> %pcf, иногда я не знаю, почему продолжаю 
+<ce> поддерживать некоторые из этих городов. 
+<ce> Охранники в ___cptv_, очевидно, 
+<ce> недостаточно компетентны, чтобы остановить 
+<ce> рост преступности. Теперь я получаю 
+<ce> сообщения о ночных нападениях на улицах. 
+<ce> Отправляйся туда и сделай то, что городская 
+<ce> стража не может сделать.
+
+RefuseQuest:  [1001]
+<ce> Тогда лучше закажи медовуху.
+<ce> Гори оно все огнем.
+
+AcceptQuest:  [1002]
+<ce> Судя по всему, ___cptv_ переживает какой-то 
+<ce> кризис, вызванный особо хорошо организованными 
+<ce> преступниками. Никто не знает, сколько их, но 
+<ce> не рассчитывай, что удастся истребить меньше 
+<ce> дюжины из них, прежде чем они поймут суть 
+<ce> дела. Они появляются только ночью, так что 
+<ce> найди таверну, в которой ты сможешь дождаться 
+<ce> ночи. Я желаю услышать о твоем успехе в 
+<ce> течение =tmr_ дней.
+
+QuestFail:  [1003]
+<ce> Ты, городская стража, все вокруг.
+<ce> Абсолютная некомпетентность.
+
+QuestComplete:  [1004]
+<ce> Слава %pcn, Пожирателю Душ.
+<ce> Это должно войти в книгу рекордов.
+<ce> Возьми своё золото.
+
+Message:  1020
+<ce> Яростный крик пронзает ночной воздух.
+
+Message:  1021
+<ce> Лидер банды лежит мертвый у твоих ног.
+<ce> Твоя работа здесь закончена.
+
+Message:  1030
+%qdt:
+ Мне дали =tmr_ дней, чтобы 
+ отправиться в ___cptv_ и покончить с 
+ преступной толпой, которая шастает по 
+ городу по ночам. Я должен убить 
+ столько, сколько потребуется, чтобы 
+ остановить их, а затем вернуться в 
+ ___qgvr_ за своей наградой.
+
+Message:  1099
+<ce> Мне нужна компетентная помощь, 
+<ce> %pcf. Отправляйся в ___cptv_ и 
+<ce> убей ночных бандитов. Я дал 
+<ce> тебе =tmr_ дней.
+
+QBN:
+Item _rwrd_ gold range 500 to 700
+
+Person _qgvr_ group Questor male
+
+Place _cptv_ remote city
+
+Clock _tmr_ 00:00 0 flag 17 range 0 2
+
+Foe _enemy1_ is Burglar
+Foe _enemy2_ is Thief
+Foe _enemy3_ is Rogue
+Foe _enemy4_ is Nightblade
+
+--	Quest start-up:
+	start timer _tmr_
+	log 1030 step 0
+	pc at _cptv_ set _city_
+
+variable _city_
+_day_ task:
+	daily from 6:00 to 18:00
+
+_spawn_ task:
+	when _city_ and not _day_ and not _first_
+	create foe _enemy1_ every 1 minutes indefinitely with 20% success
+	create foe _enemy2_ every 2 minutes indefinitely with 45% success
+	create foe _enemy3_ every 3 minutes indefinitely with 33% success
+
+_infight_ task:
+	daily from 0:00 to 23:59
+	change foe _enemy1_ infighting true
+	change foe _enemy2_ infighting true
+	change foe _enemy3_ infighting true
+	clear _infight_
+
+_first_ task:
+	killed 3 _enemy1_ saying 1020
+	killed 3 _enemy2_ saying 1020
+	killed 2 _enemy3_ saying 1020
+	create foe _enemy4_ every 0 minutes 1 times with 100% success
+	change foe _enemy4_ infighting true
+
+_slain_ task:
+	killed _enemy4_
+	say 1021
+
+_qgclicked_ task:
+	clicked npc _qgvr_
+
+_clearclick_ task:
+	when _qgclicked_ and not _slain_
+	say 1099
+	clear _qgclicked_ _clearclick_
+
+_pcrwrd_ task:
+	when _qgclicked_ and _slain_
+	give pc _rwrd_
+	end quest
+
+_tmr_ task:
+	end quest

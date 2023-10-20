@@ -1,0 +1,284 @@
+Quest: JHIM119
+DisplayName: Выгуляй моего медведя
+--Concept by BadLuckBurt
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Если у тебя есть несколько свободных часов, может быть, ты сможешь 
+<ce> мне помочь? У меня есть домашний медведь, которого нужно выгулять, 
+<ce> но я вывихнул лодыжку. Не мог бы ты сделать это за =reward_ золотых?
+
+RefuseQuest:  [1001]
+<ce> Мой бедный медвежонок. Растолстеет, понимаешь?
+   <--->
+<ce> Но он же ручной!
+
+AcceptQuest:  [1002]
+<ce> "Спасибо! Я позову его."
+<ce>
+<ce> Вскоре приходит медведь и трется о ноги хозяина. 
+<ce> _questgiver_ дает тебе поводок и показывает, как 
+<ce> нужно тянуть медведя за собой.
+<ce>
+<ce> "Хочешь отвезти его в _tavern_? Это хорошая 
+<ce> прогулка, не слишком далеко. Так мы обычно и 
+<ce> делаем. И если мой медведь умрет, %god свидетель, 
+<ce> я заставлю тебя заплатить. Не затягивай, слышишь? 
+<ce> Медведи милые, но ты должен привести его обратно 
+<ce> часа через четыре, не позже."
+
+QuestFail:  [1003]
+<ce> Медведь рычит. С резким ускорением он срывается 
+<ce> с места и вырывается из твоей хватки.
+
+QuestComplete:  [1004]
+<ce> Как всё прошло? Вы оба хорошо провели время? Люди могут быть злыми 
+<ce> по отношению к домашнему медведю, но несколько стрел в грудь - мой 
+<ce> способ решить эту проблему. Ты хорошо справился. Возьми эти деньги.
+
+RumorsDuringQuest:  [1005]
+Извини, это что, за тобой медведь идет?
+   <--->
+Держи этого медведя подальше.
+
+QuestorPostSuccess:   [1008]
+Мой медведь передает тебе привет. Он у себя дома.
+
+QuestorPostFailure:  [1009]
+Убийца медведей.
+
+Message:  1010
+<ce> Это _tavern_, - как и просил тебя _questgiver_. 
+<ce> Медведь обнюхивает различные знакомые предметы 
+<ce> поблизости и снова подходит к тебе.
+
+Message:  1011
+<ce> "Эй! Медведь! Медведь здесь! Я сейчас его убью!"
+<ce>
+<ce> Один из завсегдатаев, чувствуя себя особенно 
+<ce> героически, пытается зарезать домашнего медведя.
+
+Message:  1012
+<ce> Медведь рычит на что-то поблизости. Ты видишь 
+<ce> пару крыс, которые мечутся вокруг, и рёв медведя 
+<ce> привёл их в замешательство.
+
+Message:  1013
+<ce> Медведь начинает довольно неуклюже 
+<ce> передвигаться. Ты видишь небольшую рану на одной 
+<ce> из его лап - возможно, он заразился от крыс. В 
+<ce> ошейник медведя засунута маленькая записка.
+<ce>
+<ce> "Если болен, доставь, пожалуйста, к _priest_ в 
+<ce> _temple_, ___questgiver_."
+
+Message:  1014
+<ce> Я вижу мишку _questgiver_. Здравствуй, мишка. 
+<ce> Да, я возьмусь за лечение. Позволь мне 
+<ce> произнести заклинание... Готово. Пусть %god 
+<ce> присматривает за тобой и твоим новым 
+<ce> хозяином, мохнатый друг.
+
+Message:  1015
+<ce> Медведь обмякает и перестает двигаться. 
+<ce> Похоже, что болезнь действовала быстрее, 
+<ce> чем ты ожидал.
+
+Message:  1016
+<ce> "Эй ты! Идиот! Ты, идиот! Дурак %ra!"
+<ce>
+<ce> Кто-то зовет тебя.
+<ce>
+<ce> "Этот медведь был нашим питомцем! Ты его убил!
+<ce> Теперь ты умрешь!"
+
+Message:  1017
+<ce> Медведь вдруг испугался какого-то шума 
+<ce> вдалеке. Ты изо всех сил пытаешься удержать 
+<ce> поводок, но он вырывается на свободу. В 
+<ce> растерянности он пытается напасть на тебя.
+
+Message:  1018
+<ce> Медленно приходя в себя, медведь 
+<ce> успокаивается и ложится на пол. Ты осторожно 
+<ce> прикрепляешь к нему поводок ещё раз.
+<ce> Он делает вид, что ничего не произошло.
+
+Message:  1019
+<ce> Рейнджеру удается выстрелить, пока медведь держится 
+<ce> в стороне от тебя. Он успевает издать лишь 
+<ce> агонизирующий рев, прежде чем перестает дышать.
+<ce>
+<ce> "Да! Попал!"
+
+Message:  1020
+<ce> Мой медведь выглядит больным. В его ошейнике 
+<ce> лежит записка, в которой говорится, что нужно 
+<ce> отнести его в _temple_. Будь другом, сделай 
+<ce> это, ладно? У меня вывих лодыжки.
+
+Message:  1030
+%qdt:
+ Я выгуливаю медведя для  
+ _questgiver_, который 
+ попросил меня сходить в 
+ _tavern_ и вернуться. Мне 
+ заплатят =reward_ золотом.
+
+Message:  1031
+%qdt:
+ Медведь, похоже, заболел. Записка 
+ в его ошейнике велела мне отнести 
+ его к _priest_ в _temple_.
+
+QBN:
+Item _reward_ gold range 200 to 299
+
+Person _questgiver_ group Questor male
+Person _priest_ faction Generic_Temple
+
+Place _tavern_ local tavern
+Place _temple_ local temple
+
+Clock _timeup_ 4:00
+Clock _disease_ 0:20
+Clock _bearattack_ 0:05
+Clock _tavernfight_ 0:04
+Clock _confront_ 0:03
+
+Foe _angry_ is Ranger
+Foe _rat1_ is Giant_rat
+Foe _rat2_ is Giant_rat
+Foe _owner_ is Acrobat
+Foe _bear_ is Grizzley_bear
+
+--	Quest start-up:
+    log 1030 step 0
+    pc at _tavern_ set _inside_
+    start timer _timeup_
+
+_inside_ task:
+    start timer _tavernfight_
+    say 1010
+    start task _spawnhero_
+
+_notinside_ task:
+    when not _inside_
+    stop timer _tavernfight_
+
+variable _tavernfight_
+_spawnhero_ task:
+    say 1011
+    create foe _angry_ every 0 minutes 1 times with 100% success
+    change foe _angry_ infighting true
+
+_killangry_ task:
+    killed _angry_
+
+_taverndead_ task:
+    when _tavernfight_ and _inside_ and not _killangry_
+    say 1019
+    start task _bearisdead_
+
+_bearisdead_ task:
+    remove log step 0
+    start timer _confront_
+    hide npc _questgiver_
+
+_act2_ task:
+    when _spawnhero_ and not _inside_ and not _bearisdead_
+    pick one of _a1_ _a2_
+
+_a1_ task:
+    say 1012
+    create foe _rat1_ every 0 minutes 1 times with 100% success
+    create foe _rat2_ every 0 minutes 1 times with 100% success
+    change foe _rat1_ infighting true
+    change foe _rat2_ infighting true
+
+_kill1rat_ task:
+    killed _rat1_
+
+_kill2rat_ task:
+    killed _rat2_
+
+_killedrats_ task:
+    when _kill1rat_ and _kill2rat_
+    say 1013
+    start timer _disease_
+    log 1031 step 1
+    place npc _priest_ at _temple_
+    start task _diseasedbear_
+
+variable _diseasedbear_
+_disease_ task:
+    say 1015
+    remove log step 1
+    start task _bearisdead_
+
+_priestclick_ task:
+    clicked npc _priest_
+
+_healbear_ task:
+    when _priestclick_ and _killedrats_
+    say 1014
+    stop timer _disease_
+    clear _diseasedbear_
+
+_a2_ task:
+    say 1017
+    create foe _bear_ every 0 minutes 1 times with 100% success
+    start timer _bearattack_
+
+variable _bearattack_
+_killbear_ task:
+    killed _bear_
+    start task _bearisdead_
+
+_pacifybear_ task:
+    when _bearattack_ and not _killbear_
+    say 1018
+    remove foe _bear_
+
+_confront_ task:
+    say 1016
+    create foe _owner_ every 0 minutes 1 times with 100% success
+    change foe _owner_ infighting true
+
+_qgclicked_ task:
+    clicked npc _questgiver_
+
+_clearclick_ task:
+    when _qgclicked_ and not _spawnhero_
+    clear _qgclicked_ _clearclick_
+
+_clearclick2_ task:
+    when _qgclicked_ and _a2_ and not _pacifybear_
+    clear _qgclicked_ _clearclick2_
+
+_clearclick3_ task:
+    when _qgclicked_ and _a1_ and _diseasedbear_
+    say 1020
+    clear _clearclick3_ _qgclicked_
+
+variable _timeup_
+
+_timeout_ task:
+    when _timeup_ and not _bearisdead_
+    say 1003
+    end quest
+
+_timeout2_ task:
+    when _timeup_ and _bearisdead_
+    end quest
+
+_pcgetsgold1_ task:
+    when _qgclicked_ and _a2_
+    give pc _reward_
+    end quest
+
+_pcgetsgold2_ task:
+    when _qgclicked_ and _a1_ and not _diseasedbear_
+    give pc _reward_
+    end quest

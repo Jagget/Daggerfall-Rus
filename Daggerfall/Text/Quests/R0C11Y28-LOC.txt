@@ -11,107 +11,107 @@ DisplayName: Безумный истребитель
 QRC:
 
 QuestorOffer:  [1000]
-<ce>               There's a nightmare stalking the streets
-<ce>                    of ___bookstore_. They're calling him the
-<ce>                       ___bookstore_ Slayer, and so far no
-<ce>               one can tell me if he's a man or a beast.
-<ce>                  One of my finest sages, _contact_,
-<ce>               is examing the bodies of the victims, but
-<ce>                %g has begun getting disturbing letters
-<ce>                and frankly fears for %g3 life. I need
-<ce>              someone to investigate %g3 findings to see
-<ce>               if %g3 fears are justified. Will you help
-<ce>                    me in this, %pcf? I will offer
-<ce>              you _reward_ gold pieces in return for the
-<ce>                     retirement of the ___bookstore_ Slayer.
+<ce> There's a nightmare stalking the streets
+<ce> of ___bookstore_. They're calling him the
+<ce> ___bookstore_ Slayer, and so far no
+<ce> one can tell me if he's a man or a beast.
+<ce> One of my finest sages, _contact_,
+<ce> is examing the bodies of the victims, but
+<ce> %g has begun getting disturbing letters
+<ce> and frankly fears for %g3 life. I need
+<ce> someone to investigate %g3 findings to see
+<ce> if %g3 fears are justified. Will you help
+<ce> me in this, %pcf? I will offer
+<ce> you _reward_ gold pieces in return for the
+<ce> retirement of the ___bookstore_ Slayer.
 
 RefuseQuest:  [1001]
-<ce>                 Not an uncommon response. Then I have
-<ce>                 little choice, but to call on some of
-<ce>                 my less savoury contacts for help --
-<ce>                   an option I was hoping to avoid.
+<ce> Not an uncommon response. Then I have
+<ce> little choice, but to call on some of
+<ce> my less savoury contacts for help --
+<ce> an option I was hoping to avoid.
 
 AcceptQuest:  [1002]
-<ce>                      Thank %god for that anyway.
-<ce>                    The people of %reg are becoming
-<ce>               anxious about the lack of progress in the
-<ce>                official investigations. I fear that we
-<ce>                will have a mob situation soon, perhaps
-<ce>                  in =total_ days or less. _contact_
-<ce>                       works out of _bookstore_,
-<ce>                 and I told %g2 I'd be sending someone
-<ce>                  there soon. Watch out for yourself,
-<ce>                     %pcf. Until this situation is
-<ce>                    resolved, remember that the ___bookstore_
-<ce>                          night has a knife.
+<ce> Thank %god for that anyway.
+<ce> The people of %reg are becoming
+<ce> anxious about the lack of progress in the
+<ce> official investigations. I fear that we
+<ce> will have a mob situation soon, perhaps
+<ce> in =total_ days or less. _contact_
+<ce> works out of _bookstore_,
+<ce> and I told %g2 I'd be sending someone
+<ce> there soon. Watch out for yourself,
+<ce> %pcf. Until this situation is
+<ce> resolved, remember that the ___bookstore_
+<ce> night has a knife.
 
 QuestFail:  [1003]
-<ce>                        The ___bookstore_ Slayer is still
-<ce>                at large. I have no time for chatting,
-<ce>                            nor should you.
+<ce> The ___bookstore_ Slayer is still
+<ce> at large. I have no time for chatting,
+<ce> nor should you.
 
 QuestComplete:  [1004]
-<ce>                     %reg is at peace again, %pcf,
-<ce>          thanks to you. Here is the _reward_ gold I promised
-<ce>             -- gladly will I give it for the end of that
-<ce>              maniac and your discretion in this matter.
-<ce>                    %god truly blessed us when you
-<ce>                             came to %reg.
+<ce> %reg is at peace again, %pcf,
+<ce> thanks to you. Here is the _reward_ gold I promised
+<ce> -- gladly will I give it for the end of that
+<ce> maniac and your discretion in this matter.
+<ce> %god truly blessed us when you
+<ce> came to %reg.
 
 RumorsDuringQuest:  [1005]
 It isn't safe to walk the streets of ___bookstore_ anymore. Not with the ___bookstore_ Slayer.
-<--->
+   <--->
 I hear the Slayer isn't a man at all, but a daedra come to punish us all.
-<--->
+   <--->
 The last victim of the ___bookstore_ Slayer was found scattered in pieces over ___bookstore_.
-<--->
+   <--->
 Some folks are wondering if the Slayer might be a vampire or a werewolf.
 
 RumorsPostfailure:  [1006]
 The killings stopped without us needing a mob. Guess the Slayer moved on.
-<--->
+   <--->
 _qgiver_'s just lucky the ___bookstore_ Slayer decided to move on. Panic was setting in.
-<--->
+   <--->
 _qgiver_ is still anxious. You'd think the Slayer's absence would relieve %g2.
-<--->
+   <--->
 The ___bookstore_ Slayer disappeared just as suddenly as he came to ___bookstore_.
-<--->
+   <--->
 Some say the Slayer's still here, waiting for the stars to be right again.
 
 RumorsPostsuccess:  [1007]
 I'm still afraid to be out in ___bookstore_ alone, even with the Slayer supposedly dead.
-<--->
+   <--->
 Guess the ___bookstore_ Slayer was just some poor lunatic. Nothing romantic to him at all.
-<--->
+   <--->
 The newest rumor is that the ___bookstore_ Slayer wasn't a vampire, but thought he was.
 
 QuestorPostsuccess:  [1008]
 I still remember you, %pcf, and the discretion you showed with the ___bookstore_ Slayer.
 
 QuestorPostfailure:  [1009]
-<ce>                    You failed me in the ___bookstore_ Slayer
-<ce>                         affair, %pcf. I don't
-<ce>                  see any reason to believe you won't
-<ce>                            fail me again.
+<ce> You failed me in the ___bookstore_ Slayer
+<ce> affair, %pcf. I don't
+<ce> see any reason to believe you won't
+<ce> fail me again.
 
 QuestLogEntry:  [1010]
-<ce>                        Ah, %pcf, my dear %ra,
-<ce>                I am very glad you've arrived. You have
-<ce>              doubtless been told that I've become a bit
-<ce>               of a hermit ever since I began receiving
-<ce>                those letters threatening my life if I
-<ce>              did not abandoned my investigations. Well,
-<ce>               now I have an old colleague in town with
-<ce>                whose assistance I may be able to solve
-<ce>               these murders. I would like you to bring
-<ce>                       these notes to a _vamp_,
-<ce>                       a =vamp_ you will find at
-<ce>                      _hookerhouse_. If anything
-<ce>               should happen to me, I want someone to be
-<ce>              able to continue on in the investigations.
-<ce>                        That will be _vamp_ and
-<ce>                   you, %pcf. So don't get yourself
-<ce>                           killed out there.
+<ce> Ah, %pcf, my dear %ra,
+<ce> I am very glad you've arrived. You have
+<ce> doubtless been told that I've become a bit
+<ce> of a hermit ever since I began receiving
+<ce> those letters threatening my life if I
+<ce> did not abandoned my investigations. Well,
+<ce> now I have an old colleague in town with
+<ce> whose assistance I may be able to solve
+<ce> these murders. I would like you to bring
+<ce> these notes to a _vamp_,
+<ce> a =vamp_ you will find at
+<ce> _hookerhouse_. If anything
+<ce> should happen to me, I want someone to be
+<ce> able to continue on in the investigations.
+<ce> That will be _vamp_ and
+<ce> you, %pcf. So don't get yourself
+<ce> killed out there.
 
 Message:  1011
 _contact_,
@@ -124,7 +124,7 @@ _contact_,
  studies are finished. Consider this this a
  serious warning.
  
-<ce>                             A Well-Wisher
+<ce> A Well-Wisher
 
 Message:  1012
 Dear _contact_,
@@ -136,7 +136,7 @@ Dear _contact_,
  demonstrate our power to stop you, for we will
  act but once.
  
-<ce>                             A Well-Wisher
+<ce> A Well-Wisher
 
 Message:  1013
 _contact_,
@@ -157,9 +157,9 @@ _contact_,
  case I look forward to receiving your
  courier and note.
  
-<ce>                         Yours in admiration,
+<ce> Yours in admiration,
  
-<ce>                                _vamp_
+<ce> _vamp_
 
 Message:  1014
 Autopsy report for %fn:
@@ -191,58 +191,58 @@ Autopsy report for %fn:
  to attack? Check on background of victim)
 
 Message:  1015
-<ce>                    So, for all the days _contact_
-<ce>                has spent with those flyblown cadavers
-<ce>                       and all %g comes up with
-<ce>                     is this. %god, with this as a
-<ce>                      start, _contact_ won't get
-<ce>                an intimation of the Slayer's identity
-<ce>                     for weeks yet. Listen, %pcf,
-<ce>                     if you want to help _qgiver_,
-<ce>                   take this flower over to _widow_
-<ce>                        in _widowhouse_ -- %g3
-<ce>                        brother was %mn, one of
-<ce>                  the Slayer's victims. This may seem
-<ce>                 like a trivial sentimentality, but it
-<ce>                 will bring you closer to finding the
-<ce>                        ___bookstore_ Slayer than any of
-<ce>                        _contact_'s scientific
-<ce>                      catalyses. Trust me, %pcf.
+<ce> So, for all the days _contact_
+<ce> has spent with those flyblown cadavers
+<ce> and all %g comes up with
+<ce> is this. %god, with this as a
+<ce> start, _contact_ won't get
+<ce> an intimation of the Slayer's identity
+<ce> for weeks yet. Listen, %pcf,
+<ce> if you want to help _qgiver_,
+<ce> take this flower over to _widow_
+<ce> in _widowhouse_ -- %g3
+<ce> brother was %mn, one of
+<ce> the Slayer's victims. This may seem
+<ce> like a trivial sentimentality, but it
+<ce> will bring you closer to finding the
+<ce> ___bookstore_ Slayer than any of
+<ce> _contact_'s scientific
+<ce> catalyses. Trust me, %pcf.
 
 Message:  1016
 _vamp_ is the =vamp_ I met over at _hookerhouse_. Nice enough, but spooky.
-<--->
+   <--->
 _vamp_ is the name of the =vamp_ staying over at _hookerhouse_.
 
 Message:  1017
 _vamp_ is one of the %vcn, sent to ___bookstore_ to eliminate the mad Slayer.
-<--->
+   <--->
 _vamp_ is a %vcn vampire here to stop the risk to %g3 security, the Slayer.
 
 Message:  1018
 Poor _widow_ stays at _widowhouse_ every since the Slayer got %g3 brother.
-<--->
+   <--->
 The %reg Slayer killed _widow_'s brother, and now %g never leaves _widowhouse_.
 
 Message:  1019
-<ce>               A red poppy? Oh, you must be my brother's
-<ce>                    friend, _rippername_, yes? I do
-<ce>             appreciate the comforting note you sent after
-<ce>             his death. He didn't have very many friends,
-<ce>            and, to tell the truth, he had never mentioned
-<ce>             your name. But I certainly thank you for the
-<ce>              lovely flowers and the invitation to visit
-<ce>                         you at _ripperhouse_.
-<ce>              I've always admired that place, and I would
-<ce>                     like to see the inside of it.
-<ce>                                    
-<ce>                  What, you're not _rippername_? Oh,
-<ce>              I'm so sorry. Please forgive me, I haven't
-<ce>              been myself since my brother... No, I don't
-<ce>             think I have information that might help you
-<ce>              find that murdering devil. You know I would
-<ce>              help you if I could. But you will find the
-<ce>               fiend that killed my brother, won't you?
+<ce> A red poppy? Oh, you must be my brother's
+<ce> friend, _rippername_, yes? I do
+<ce> appreciate the comforting note you sent after
+<ce> his death. He didn't have very many friends,
+<ce> and, to tell the truth, he had never mentioned
+<ce> your name. But I certainly thank you for the
+<ce> lovely flowers and the invitation to visit
+<ce> you at _ripperhouse_.
+<ce> I've always admired that place, and I would
+<ce> like to see the inside of it.
+<ce> 
+<ce> What, you're not _rippername_? Oh,
+<ce> I'm so sorry. Please forgive me, I haven't
+<ce> been myself since my brother... No, I don't
+<ce> think I have information that might help you
+<ce> find that murdering devil. You know I would
+<ce> help you if I could. But you will find the
+<ce> fiend that killed my brother, won't you?
 
 Message:  1020
 %qdat:
@@ -313,44 +313,44 @@ Message:  1025
  trap if there ever was one.
 
 Message:  1026
-<ce>                 Which letter brought you to me, %pcn?
-<ce>             You are probably aware that I wrote them all.
-<ce>                      After _contact_ refused to
-<ce>           listen to my polite warnings about investigating
-<ce>            matters beyond mortal understanding, I invited
-<ce>             %g2 here as %g3 friend. I knew %g2, you see,
-<ce>             years ago, before I became a vampire. We met,
-<ce>                      went back to _bookstore_ to
-<ce>              see the bodies, and there I slew %g2. Quite
-<ce>             painlessly. I could tell %g would never have
-<ce>              halted his studies. More than that I cannot
-<ce>               say, except that the Slayer is a vampire
-<ce>               like myself, but mad from the blessing of
-<ce>                      immortality. _rippername_,
-<ce>             that's the Slayer's real name and %g lives at
-<ce>                    _ripperhouse_. If you go there
-<ce>            and slay %g2, I will reward you. If you intend
-<ce>                     to continue with _contact_'s
-<ce>              studies, I will have no choice but to kill
-<ce>                 you as well. That is my simple offer.
+<ce> Which letter brought you to me, %pcn?
+<ce> You are probably aware that I wrote them all.
+<ce> After _contact_ refused to
+<ce> listen to my polite warnings about investigating
+<ce> matters beyond mortal understanding, I invited
+<ce> %g2 here as %g3 friend. I knew %g2, you see,
+<ce> years ago, before I became a vampire. We met,
+<ce> went back to _bookstore_ to
+<ce> see the bodies, and there I slew %g2. Quite
+<ce> painlessly. I could tell %g would never have
+<ce> halted his studies. More than that I cannot
+<ce> say, except that the Slayer is a vampire
+<ce> like myself, but mad from the blessing of
+<ce> immortality. _rippername_,
+<ce> that's the Slayer's real name and %g lives at
+<ce> _ripperhouse_. If you go there
+<ce> and slay %g2, I will reward you. If you intend
+<ce> to continue with _contact_'s
+<ce> studies, I will have no choice but to kill
+<ce> you as well. That is my simple offer.
 
 Message:  1027
 _contact_ is quite a learned scientist over in _bookstore_, %di of here.
-<--->
+   <--->
 _contact_ is a =contact_ who works out of _bookstore_.
 
 Message:  1028
 _contact_ is dissecting the Slayer's victims and someone doesn't like that.
-<--->
+   <--->
 _contact_'s a scientist at _bookstore_, who has been getting threat letters.
 
 Message:  1050
-<ce>                   By killing _rippername_, you have
-<ce>                 aided both %reg and myself. For this,
-<ce>                  I give you a _reward2_. Perhaps we
-<ce>                     may meet again one day, %pcn.
-<ce>                  You have intrigued me in our brief
-<ce>              acquaintance. May the night keep you safe.
+<ce> By killing _rippername_, you have
+<ce> aided both %reg and myself. For this,
+<ce> I give you a _reward2_. Perhaps we
+<ce> may meet again one day, %pcn.
+<ce> You have intrigued me in our brief
+<ce> acquaintance. May the night keep you safe.
 
 
 -- Symbols used in the QRC file:

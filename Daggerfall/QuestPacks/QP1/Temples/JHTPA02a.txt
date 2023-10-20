@@ -1,0 +1,46 @@
+Quest: JHTPA02a
+DisplayName: Месть Гильдии Магов
+-- Message panels
+QRC:
+
+Message:  1010
+<ce> Неподалеку ты слышишь коробящий звук.
+<ce> Из ниоткуда появляется маг в капюшоне и произносит заклинание.
+<ce>
+<ce> "Умри, раб Джулианоса!!!"
+<ce>
+<ce> Несколько големов начинают материализовываться, а маг
+<ce> исчезает так же быстро, как и появился.
+   <--->
+<ce> Ты слышишь рядом коробящий звук.
+<ce> Из ниоткуда появляется маг в капюшоне и произносит заклинание.
+<ce>
+<ce> "Умри, раб Джулианоса!!!"
+<ce>
+<ce> Несколько големов начинают материализовываться, а маг
+<ce> исчезает так же быстро, как и появился.
+
+QBN:
+
+Clock _delay_ 3.00:00 4.00:00
+Clock _smalldelay_ 0:05
+
+Foe _warr_ is Fire_atronach
+Foe _heal_ is Ice_atronach
+Foe _arch_ is Iron_atronach
+
+--	Quest start-up:
+    start timer _delay_
+
+_delay_ task:
+    say 1010
+    create foe _warr_ every 0 minutes 1 times with 100% success
+    create foe _heal_ every 0 minutes 1 times with 100% success
+    create foe _arch_ every 0 minutes 1 times with 100% success
+    change foe _warr_ infighting true
+    change foe _heal_ infighting true
+    change foe _arch_ infighting true
+    start timer _smalldelay_
+
+_smalldelay_ task:
+    end quest

@@ -1,0 +1,163 @@
+Quest: JHDB109
+DisplayName: Возвращение домой
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> У нас есть задача, которая должна была бы быть 
+<ce> простой, если бы её доверили кому-то с 
+<ce> минимальной компетенцией. Ребёнка по имени _kdd_ 
+<ce> уже несколько недель держат в ___dngn_ в рамках 
+<ce> заговора о выкупе. После того как мы потеряли 
+<ce> связь на несколько дней, один из наших более 
+<ce> магически одаренных членов обследовал это место и 
+<ce> обнаружил, что куратор мертв, а ребенок испуган и 
+<ce> одинок. Теперь деньги за выкуп прибыли, и ребенка 
+<ce> нужно вернуть. Помоги Братству в этом 
+<ce> затруднительном положении, %pcf.
+
+RefuseQuest:  [1001]
+<ce> Оставь свое оружие на выходе.
+<ce> Мы можем отдать их кому-нибудь полезному.
+
+AcceptQuest:  [1002]
+<ce> =dngntimer_ дней будет достаточно, чтобы спуститься 
+<ce> в ___dngn_ и забрать ребенка. Оттуда доставь %g2 в 
+<ce> ___home_ не более чем за =hometimer_ дней. Ребёнка 
+<ce> примет некто по имени _prnt_. Поспрашивай вокруг, 
+<ce> если не сможешь найти %g2. Теперь иди.
+
+QuestComplete:  [1004]
+<ce> Твоя работа здесь закончена. Теперь - выбираться отсюда.
+
+RumorsDuringQuest:  [1005]
+Слышал когда-нибудь о Темном Братстве? Кучка ассасинов.
+
+RumorsPostfailure:  [1006]
+В эти дни я беспокоюсь о преступности.
+
+RumorsPostsuccess:  [1007]
+Мне кажется, что %crn катится под откос. Просто оглянись вокруг.
+
+QuestorPostfailure:  [1009]
+Некомпетентность в человеческом обличье. Чего ты хочешь?
+
+QuestLogEntry:  [1010]
+%qdt:
+ Я должен вызволить ребенка из глубин 
+ ___dngn_ в течение =dngntimer_ дней, а 
+ затем добраться до ___home_ через 
+ =hometimer_ дней, чтобы получить выкуп 
+ для Темного Братства.
+
+Message:  1011
+<ce> _kdd_ просто смотрит в безмолвном 
+<ce> ужасе. ___dngn_ был неласков, но 
+<ce> %g1 боится тебя больше. Ты 
+<ce> хватаешь %g2 и уходишь.
+   <--->
+<ce> _kdd_ с ненавистью смотрит на тебя.
+<ce>
+<ce> "Однажды я стану большим, сильным 
+<ce> рыцарем и убью сотни людей из 
+<ce> Темного Братства, таких, как ты!"
+<ce>
+<ce> Ты хватаешь %g2 и двигаешься дальше.
+
+Message:  1012
+<ce> Выкуп провалился. Поскольку ты не 
+<ce> получишь денег, нет смысла больше 
+<ce> удерживать _kdd_. Ты отсылаешь %g2 
+<ce> дальше по пути к ___home_ без тебя.
+
+Message:  1013
+<ce> Как бы хорошо _kdd_ ни умел прятаться, 
+<ce> %g1 не выжил бы в ___dngn_ так долго.
+
+Message:  1016
+<ce> _kdd_ вырывается из твоей хватки и бежит 
+<ce> к _prnt_. Эти двое обнимаются в течение 
+<ce> нескольких мгновений. Холодная тишина - 
+<ce> достаточная причина, чтобы уйти.
+
+Message:  1017
+<ce> _kdd_ вырывается из твоей хватки и бежит 
+<ce> к _prnt_, чтобы крепко обнять его. Затем 
+<ce> взрослый говорит,
+<ce>
+<ce> "Жалкий негодяй! Ты не уйдешь отсюда живым!"
+<ce>
+<ce> Затем _prnt_ несет ребенка на %g3 руках 
+<ce> и бросается вон из здания.
+
+QBN:
+
+Person _kdd_ faction Children
+Person _prnt_ group Local_3.0
+
+Place _dngn_ remote dungeon5
+Place _home_ remote house
+
+Foe _enemy1_ is Rogue
+Foe _enemy2_ is Nightblade
+Foe _enemy3_ is Barbarian
+
+Clock _dngntimer_ 00:00 0 flag 1 range 0 2
+Clock _hometimer_ 15.00:00
+
+--	Quest start-up:
+	start timer _dngntimer_
+	reveal _dngn_
+	log 1010 step 0
+	place npc _kdd_ at _dngn_
+	place npc _prnt_ at _home_
+	pick one of _E.01_ _E.02_
+
+variable _E.01_
+variable _E.02_
+_dngntimer_ task:
+	start timer _hometimer_
+
+_cick_ task:
+	when _capture_ and _hometimer_
+	say 1012
+
+_cick2_ task:
+	when not _capture_ and _hometimer_
+	say 1013
+
+_hometimer_ task:
+	hide npc _kdd_
+	end quest
+
+_capture_ task:
+	clicked npc _kdd_
+	hide npc _kdd_
+	say 1011
+	add _kdd_ face
+
+_reward_ task:
+	when _pclicked_ and _capture_ and _E.01_
+	say 1016
+	give pc nothing
+	end quest
+
+_ambush_ task:
+	when _pclicked_ and _capture_ and _E.02_
+	say 1017
+	hide npc _prnt_
+	create foe _enemy1_ every 0 minutes 1 times with 100% success
+	create foe _enemy2_ every 0 minutes 1 times with 50% success
+	create foe _enemy3_ every 0 minutes 1 times with 25% success
+	change foe _enemy1_ infighting true
+	change foe _enemy2_ infighting true
+	change foe _enemy3_ infighting true
+	give pc nothing
+	end quest
+
+_pclicked_ task:
+	clicked npc _prnt_
+
+_S.04_ task:
+	when _pclicked_ and not _capture_
+	clear _pclicked_ _S.04_

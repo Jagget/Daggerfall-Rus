@@ -1,0 +1,84 @@
+Quest: JHTP101
+DisplayName: Экклезиаст, или Проповедник
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> %pct, независимо от твоих прошлых достижений и твоей 
+<ce> истории, все должны нести свою ношу в этом храме. Не 
+<ce> отнесешь ли ты кое-что из нашего учения потенциальному 
+<ce> новообращенному в ___rsd_?
+
+RefuseQuest:  [1001]
+<ce> У тебя совсем нет интереса к своим обязанностям?
+
+AcceptQuest:  [1002]
+<ce> Тогда отправляйся в путь. Ты найдешь _cnvrt_ в _rsd_. 
+<ce> Мы не ожидаем, что ты будешь проповедовать %g2. Вместо 
+<ce> этого у нас есть этот готовый буклет, который ты 
+<ce> можешь передать, и мы будем считать это успехом с 
+<ce> твоей стороны. Задача проста. Вернись сюда в течение 
+<ce> =tmr_ дней, чтобы заслужить наше расположение. 
+<ce> Счастливого пути в ___rsd_ тебе.
+
+QuestFail:  [1003]
+<ce> В храме ожидали, что ты уже
+<ce> вернешься в ___qgiver_.
+
+QuestComplete:  [1004]
+<ce> Очень хорошо. Продолжай в том же духе, 
+<ce> и вскоре ты окажешься посвященным в 
+<ce> более великие дела храма.
+
+Message:  1020
+<ce> А, это тот тракт, который __qgiver_ мне обещал. 
+<ce> Спасибо, %ra. Не мог бы ты рассказать мне 
+<ce> подробнее о его содержании? А, ну я уверен, что 
+<ce> ты будешь не последним посланником, которого 
+<ce> мне пришлют. Я потрачу несколько дней на 
+<ce> обдумывание этого материала. Передай привет 
+<ce> рядовомым проповедникам.
+
+Message:  1030
+%qdt:
+ Я должен передать религиозный трактат 
+ _cnvrt_ в ___rsd_. _qgiver_ будет 
+ ожидать моего возвращения в 
+ ___qgiver_ через =tmr_ дней.
+
+QBN:
+Item _trct_ letter
+
+Person _qgiver_ group Questor
+Person _cnvrt_ group Local_4.0
+
+Place _rsd_ remote house
+
+Clock _tmr_ 00:00 0 flag 17 range 0 2
+
+--	Quest start-up:
+	start timer _tmr_
+	log 1030 step 0
+	place npc _cnvrt_ at _rsd_
+	get item _trct_
+
+_deliver_ task:
+	toting _trct_ and _cnvrt_ clicked
+	say 1020
+	take _trct_ from pc
+
+_victory_ task:
+	when _qgclicked_ and _deliver_
+	give pc nothing
+	end quest
+
+_qgclicked_ task:
+	clicked npc _qgiver_
+
+_clearclick_ task:
+	when _qgclicked_ and not _deliver_
+	clear _qgclicked_ _clearclick_
+
+_tmr_ task:
+	say 1003
+	end quest

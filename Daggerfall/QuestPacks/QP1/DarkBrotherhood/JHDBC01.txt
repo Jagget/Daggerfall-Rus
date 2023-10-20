@@ -1,0 +1,26 @@
+Quest: JHDBC01
+DisplayName: Темное Братство. Последствия. Квест 1
+-- Message panels
+QRC:
+
+QuestComplete:   [1004]
+<ce> Когда вы входите в зал гильдии, воздух становится очень тяжелым.
+<ce> Здесь нет приветливых лиц, чтобы поприветствовать вас.
+<ce>
+<ce> Возможно, убийство трех членов гильдии
+<ce> создало вам дурную славу?
+
+QBN:
+
+Clock _endtimer_ 60.00:00
+
+--	Quest start-up:
+    pc at any fighters do _inside_
+    start timer _endtimer_
+
+_inside_ task:
+    say 1004
+    end quest
+
+_endtimer_ task:
+    end quest

@@ -1,0 +1,116 @@
+-- Noble
+Quest: JHNL202
+DisplayName: Концы в воду
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Темное Братство служит полезной и 
+<ce> законной цели, пока о них не 
+<ce> говорят публично. Невежественные 
+<ce> умы возмущаются тем, какую работу 
+<ce> они выполняют. Тем не менее в 
+<ce> последний месяц они подвели меня в 
+<ce> том, что должно было быть простой 
+<ce> задачей. Ты должен стереть с лица 
+<ce> земли все осведомленные стороны.
+
+RefuseQuest:  [1001]
+<ce> Хорошо ли ты умеешь хранить секреты, %ra?
+
+AcceptQuest:  [1002]
+<ce> Единственный правильный ответ. 
+<ce> Твои цели находятся в _loc1_ в 
+<ce> ___loc1_, и _loc2_, который 
+<ce> находится в ___loc2_. Справитесь 
+<ce> с обеими, и я подарю вам 
+<ce> волшебный _rwrd_ из своего 
+<ce> личного хранилища. Займет это не 
+<ce> более =timer_ дней. Не подведи 
+<ce> меня, как это сделали они.
+
+QuestFail:  [1003]
+<ce> Долго ты не проживёшь!
+
+QuestComplete:  [1004]
+<ce> Умно сработано, %pcf. Твоя работа позволяет 
+<ce> мне спать по ночам. Пусть у тебя будет 
+<ce> _rwrd_, как мы и договаривались.
+
+Message:  1020
+<ce> Этого провального убийцы больше нет.
+
+Message:  1021
+<ce> Цель _questgiver_ больше не существует.
+
+Message:  1030
+%qdt:
+ _questgiver_ приказал мне 
+ уничтожить несколько врагов. 
+ Один из них прячется в 
+ _loc1_ в ___loc1_, а другой 
+ в _loc2_, в пределах 
+ ___loc2_. Я должен вернуться 
+ к ___questgiver_ через 
+ =timer_ дней за своей 
+ наградой - зачарованным 
+ _rwrd_. 
+
+Message:  1031
+%qdt:
+ Я убил убийцу от имени _questgiver_.
+
+Message:  1032
+%qdt:
+ Я убил бывшего врага _questgiver_.
+
+Message:  1099
+<ce> Я не знаю, как долго мои 
+<ce> враги будут оставаться в 
+<ce> ___loc1_ и ___loc2_. Найди 
+<ce> их и убей.
+
+QBN:
+Item _rwrd_ magic_item
+
+Person _questgiver_ group Questor male
+
+Foe _assa_ is Assassin
+Foe _mrk_ is Acrobat
+
+Place _loc1_ remote random
+Place _loc2_ remote random
+
+Clock _timer_ 30.00:00
+
+--	Quest start-up:
+	start timer _timer_
+	place foe _assa_ at _loc1_
+	place foe _mrk_ at _loc2_
+	log 1030 step 0
+	change foe _assa_ infighting true
+	change foe _mrk_ infighting true
+
+_aslain_ task:
+	killed 1 _assa_ saying 1020
+	log 1031 step 1
+
+_mslain_ task:
+	killed 1 _mrk_ saying 1021
+	log 1032 step 2
+
+_pcgetsgold_ task:
+	when _qgclicked_ and _aslain_ and _mslain_
+	give pc _rwrd_
+	end quest
+
+_qgclicked_ task:
+	clicked npc _questgiver_
+
+_clearclick_ task:
+	when _qgclicked_ and not _aslain_ and not _mslain_
+	say 1099
+	clear _qgclicked_ _clearclick_
+
+_timer_ task:
+	end quest

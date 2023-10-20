@@ -1,0 +1,89 @@
+Quest: JHIM203
+DisplayName: Обыкновенное привидение
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Пожалуйста, помогите мне! В моём доме завелось 
+<ce> привидение! Ты сможешь его изгнать?
+   <--->
+<ce> В _ghostres_ завелись призраки! Мне нужна 
+<ce> чья-нибудь помощь! Пожалуйста!
+
+RefuseQuest:  [1001]
+<ce> Почему ты отказываешься помочь мне?!
+
+AcceptQuest:  [1002]
+<ce> Пожалуйста, отправляйся в _ghostres_ и уничтожь 
+<ce> его! Я не могу больше этого выносить! Я отдам 
+<ce> тебе все, что у меня есть, только помоги мне! Я 
+<ce> не выдержу еще один такой день!
+
+QuestFail:  [1003]
+<ce> _questgiver_ попросил тебя изгнать призрака в 
+<ce> _ghostres_ за один день, который уже прошел.
+
+QuestComplete:  [1004]
+<ce> Спасибо! Спасибо! Все, что у меня есть, - это 
+<ce> эти _reward_ золотых. Пожалуйста, возьмите 
+<ce> их, и мою глубочайшую благодарность.
+
+Message:  1020
+<ce> Зловредный дух исчезает.
+
+Message:  1030
+%qdt:
+ У _questgiver_, из 
+ ___questgiver_, есть призрак, 
+ обитающий в %g3 доме, называемом 
+ _ghostres_. Я должен изгнать 
+ призрака за один день.
+
+Message:  1099
+<ce> _ghostres_ все еще населен привидениями! 
+<ce> Почему ты не хочешь мне помочь?!
+
+QBN:
+Item _reward_ gold range 200 to 299
+
+Person _questgiver_ group Questor male
+
+Place _ghostres_ local house2
+
+Clock _timer_ 1.00:00
+
+Foe _ghost1_ is Ghost
+Foe _ghost2_ is Wraith
+
+--	Quest start-up:
+	start timer _timer_
+	log 1030 step 0
+	pick one of _D.01_ _D.02_
+
+_D.01_ task:
+	place foe _ghost1_ at _ghostres_
+	change foe _ghost1_ infighting true
+
+_D.02_ task:
+	place foe _ghost2_ at _ghostres_
+	change foe _ghost2_ infighting true
+
+_slain_ task:
+	killed 1 _ghost1_ saying 1020
+	killed 1 _ghost2_ saying 1020
+
+_qgclicked_ task:
+	clicked npc _questgiver_
+
+_pcgetsgold_ task:
+	when _qgclicked_ and _slain_
+	give pc _reward_
+	end quest
+
+_timer_ task:
+	end quest
+
+_clearclick_ task:
+	when _qgclicked_ and not _slain_
+	say 1099
+	clear _qgclicked_ _clearclick_

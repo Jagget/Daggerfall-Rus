@@ -1,0 +1,188 @@
+Quest: JHDB108
+DisplayName: В тонком воздухе
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Такие знатоки ремесла зачистки, как мы, время от 
+<ce> времени должны принимать особые меры для 
+<ce> обеспечения анонимности, чтобы не обнаружить, что 
+<ce> зал нашей гильдии превратился в золу в начале 
+<ce> недели. У нас есть одно такое дело, которое 
+<ce> нельзя доверить новичку. Тебе выпала честь 
+<ce> выполнить это деликатное задание. Прими её.
+   <--->
+<ce> Каждый член Темного Братства должен испытывать глубокое 
+<ce> чувство гордости за ту работу, которую мы выполняем. 
+<ce> Все, кто состоит в Братстве, должны постоянно работать 
+<ce> над тем, чтобы стать лучшими убийцами во всем Тамриэле. 
+<ce> С этой целью мы должны провести несколько сложный 
+<ce> расчёт, и ты был выбран, чтобы довести его до конца.
+
+RefuseQuest:  [1001]
+<ce> Чего ты надеешься добиться?
+   <--->
+<ce> Ах, правда, мне нужен кто-то,
+<ce> кто не трус. Я подожду ещё.
+
+AcceptQuest:  [1002]
+<ce> Отправляйся в ___dngn_. Мы договорились о том, что наш 
+<ce> дорогой благородный человек будет перенесен в его глубины 
+<ce> через =dungeontimer_ дней. Заклинание "Разрыв 
+<ce> волшебника" будет сопровождать телепортацию, чтобы 
+<ce> предотвратить заклинание "Возврат", но оно развеется при 
+<ce> обычном отдыхе. На завершение работы отводи не более семи 
+<ce> часов. У нас есть =rwrd_ золотых, которые мы отдадим 
+<ce> тебе, когда дело будет завершено. А теперь иди. Во имя 
+<ce> нашего блага ты не должен потерпеть неудачу в этом деле.
+
+QuestFail:  [1003]
+<ce> У тебя закончилось время. Темное Братство будет нести 
+<ce> ответственность за твою неудачу.
+
+QuestComplete:  [1004]
+<ce> Ну что ж, тебе понравилось, %pcf? Очень надеюсь, что да. 
+<ce> Забирай свою награду.
+
+Message:  1020
+<ce> Ты совершил идеальное преступление. Пройдут годы, 
+<ce> прежде чем тело вообще будет опознано. А теперь 
+<ce> вернемся к _questgiver_.
+
+Message:  1021
+<ce> Помеченный Темным Братством уже 
+<ce> должен был прибыть в ___dngn_. 
+<ce> Нельзя терять время.
+
+Message:  1022
+<ce> Зная, что конец близок, твой клиент вступает 
+<ce> в истерику предсмертных переговоров.
+<ce>
+<ce> "Пожалуйста! Пожалуйста! Остановись, я знаю %t! Если ты 
+<ce> только оставишь меня в живых, я возвеличу твое имя в %crn! 
+<ce> Я помогу тебе восстановить всю испорченную репутацию, 
+<ce> которую ты здесь имеешь! Пожалуйста, просто пощади меня!"
+   <--->
+<ce> Зная, что конец близок, твой клиент вступает 
+<ce> в истерику предсмертных переговоров.
+<ce>
+<ce> "Нет! Нет, умоляю тебя, остановись! Послушай, я могу тебе 
+<ce> помочь! У наемного убийцы наверняка запятнанная репутация 
+<ce> в %crn, и я могу помочь тебе ее восстановить! Просто 
+<ce> оставь меня в живых, и я клянусь жизнью %t, что дам тебе 
+<ce> влияние, которого ты раньше не знал!"
+
+Message:  1023
+<ce> Похоже, что вы достигли соглашения. Твой новый друг 
+<ce> благодарит тебя за доброту и клянется неустанно 
+<ce> трудиться, чтобы дать тебе новое имя в %crn. Ты 
+<ce> предполагаешь, что обещание будет выполнено, так как 
+<ce> повторить этот сценарий будет несложно.
+
+Message:  1030
+%qdt:
+ _questgiver_ из Темного Братства, 
+ ___questgiver_, отправил меня в 
+ ___dngn_, чтобы я ожидал прибытия 
+ некоего благородного в течение 
+ =dungeontimer_ дней. Я должен 
+ закончить работу до того, как будет 
+ наложено заклинание "Возврат". Мне 
+ заплатят =rwrd_ золотых.
+
+QBN:
+Item _rwrd_ gold range 1201 to 1399
+
+Person _questgiver_ group Questor male
+
+Place _dngn_ remote dungeon9
+
+Clock _dungeontimer_ 00:00 0 flag 1 range 0 2
+Clock _killtimer_ 07:15 09:00
+Clock _return_ 180.00:00
+
+Foe _enemy1_ is Ranger
+Foe _enemy2_ is Bard
+Foe _enemy3_ is Knight
+
+--	Quest start-up:
+	start timer _dungeontimer_
+	log 1030 step 0
+	pick one of _E.01_ _E.02_ _E.03_
+	reveal _dngn_
+	pick one of _m1_ _m2_
+
+variable _E.01_
+variable _E.02_
+variable _E.03_
+variable _m1_
+variable _m2_
+
+_dungeontimer_ task:
+	say 1021
+	start timer _killtimer_
+
+_spawn1_ task:
+	when _E.01_ and _dungeontimer_
+	place foe _enemy1_ at _dngn_
+
+_spawn2_ task:
+	when _E.02_ and _dungeontimer_
+	place foe _enemy2_ at _dngn_
+
+_spawn3_ task:
+	when _E.03_ and _dungeontimer_
+	place foe _enemy3_ at _dngn_
+
+_inj_ task:
+	injured _enemy1_
+	injured _enemy2_
+	injured _enemy3_
+	clicked foe _enemy1_
+	clicked foe _enemy2_
+	clicked foe _enemy3_
+	change foe _enemy1_ infighting true
+	change foe _enemy2_ infighting true
+	change foe _enemy3_ infighting true
+
+_prom_ task:
+	when _inj_ and _m2_
+	prompt 1022 yes _mercy_ no _normal_
+
+_mercy_ task:
+	say 1023
+	remove foe _enemy1_
+	remove foe _enemy2_
+	remove foe _enemy3_
+
+variable _normal_
+_slain_ task:
+	killed 1 _enemy1_ saying 1020
+	killed 1 _enemy2_ saying 1020
+	killed 1 _enemy3_ saying 1020
+	stop timer _killtimer_
+	start timer _return_
+
+_qgclicked_ task:
+	clicked npc _questgiver_
+
+_clearclick_ task:
+	when _qgclicked_ and not _slain_
+	clear _qgclicked_ _clearclick_
+
+_pcgetsgold_ task:
+	when _qgclicked_ and _slain_
+	give pc _rwrd_
+	end quest
+
+_gainrep_ task:
+	when _killtimer_ and _mercy_ and not _slain_
+	legal repute +20
+
+_killtimer_ task:
+	say 1003
+	change repute with _questgiver_ by -13
+	end quest
+
+_return_ task:
+	end quest

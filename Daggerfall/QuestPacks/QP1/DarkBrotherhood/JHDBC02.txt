@@ -1,0 +1,35 @@
+Quest: JHDBC02
+DisplayName: Темное Братство. Последствия. Квест 2
+-- Message panels
+QRC:
+
+Message:  1011
+<ce> Ты удивляешься, когда видишь среди своих 
+<ce> вещей небольшой пергамент. Ты протягиваешь 
+<ce> руку, чтобы взять его, и тонкий слой дурно 
+<ce> пахнущего порошка взлетает в воздух, 
+<ce> обволакивая твое лицо. Ты не спеша 
+<ce> вытираешь порошок, надеясь, что он не имеет 
+<ce> злого умысла. В записке написано следующее:
+<ce>
+"Темному Братству".
+С любовью,
+           Гильдия Воров".
+
+QBN:
+
+Clock _timer_ 12:00 2.00:00
+
+Item _dummy_ gem
+
+--	Quest start-up:
+    start timer _timer_
+    have _dummy_ set _disease_
+
+_timer_ task:
+    give pc _dummy_ notify 1011
+
+_disease_ task:
+    take _dummy_ from pc
+    make pc ill with Witches'_Pox
+    end quest

@@ -1,0 +1,180 @@
+Quest: JHIM106
+DisplayName: Обряд освящения.
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Меня зовут _questgiver_. Недавно я совершил
+<ce> ошибку, осквернив могилу волшебника
+<ce> в ___dung_, и теперь мне придется
+<ce> расплачиваться. Мне нужен герой, чтобы провести меня 
+<ce> туда снова, чтобы я мог снять это проклятие.
+<ce> Вы защитите меня в моем путешествии, %ra?
+
+RefuseQuest:  [1001]
+<ce> Тогда оставьте меня в моем страдании,
+<ce> иначе проклятие поразит и вас.
+
+AcceptQuest:  [1002]
+<ce> Спасибо, %pcn. Я уже собрал
+<ce> свои вещи, и мы отправимся немедленно.
+<ce> Я не говорил вам, что из-за проклятия скелетные
+<ce> призраки будут появляться против нас каждые несколько часов,
+<ce> но я вижу, что для такого, как вы, это не составляет большой проблемы.
+<ce> То же самое нельзя сказать
+<ce> о моей семье, которая также страдает. Мне нужно поспешить освободить
+<ce> их от этого. Пусть %god будет с нами. Мы найдем
+<ce> _relig_ на полу там, который вы должны
+<ce> взять в свои руки. Мы поговорим снова в тот момент.
+<ce> Пусть моя семья будет свободна в течение =timer_ дней, мой защитник.
+
+QuestFail:  [1003]
+<ce> "Мы договорились завершить это в течение =timer_ дней.
+<ce> С каждым днем моя семья становится еще больше в опасности.
+<ce> Мне нужно завершить это самому и не терять больше времени."
+<ce>
+<ce> _questgiver_ уходит,
+<ce> не добавляя ничего.
+
+QuestComplete:  [1004]
+<ce> Проклятие теперь окончено. Вы чувствуете
+<ce> удовлетворение, беря свою награду.
+
+QuestorPostSuccess:   [1008]
+
+Message:  1010
+<ce> "Спасибо, %ra. С того момента как _relig_
+<ce> удален, проклятие почти окончено.
+<ce> Тем не менее, потребуется еще одно действие.
+<ce> Я должен удовлетворить месть колдуна 
+<ce> своей собственной жизнью. Пожалуйста, сделайте это быстро и
+<ce> безболезненно. Вы можете забрать свою оплату
+<ce> из моего кармана, когда я умру."
+<ce>
+<ce> _questgiver_ становится на
+<ce> колени на полу, глаза закрыты. Убьете ли вы %g3?
+
+Message:  1011
+<ce> "Тогда я найду какое-нибудь дикое создание,
+<ce> чтобы оно сделало это за меня. Я благодарю вас за то, что
+<ce> привели меня до сюда, даже если вы не могли
+<ce> убить меня. Пусть %god будет с вами,
+<ce> когда вы покинете это место."
+<ce>
+<ce> _questgiver_ тяжело вздыхает
+<ce> и быстро уходит во тьму.
+
+Message:  1012
+<ce> Вы слышите мучительный крик.
+<ce> Похоже, проклятие 
+<ce> взяло верх над собой.
+
+Message:  1013
+<ce> "Спасибо, %ra. Если вы встретите мою семью,
+<ce> скажите им, что вы были нашим спасителем. Им
+<ce> захочется знать ваше имя."
+<ce>
+<ce> Вы завершаете это одним быстрым ударом.
+
+Message:  1020
+<ce> "Спасибо, %ra. С того момента как _relig_
+<ce> возвращен, проклятие окончено. Я найду
+<ce> дорогу наружу по пути, который вы
+<ce> очистили. Пожалуйста, возьмите эти деньги и
+<ce> мою глубокую благодарность."
+<ce>
+<ce> _questgiver_ достает
+<ce> мешок золота и бросает его
+<ce> вам, махая рукой, когда %g1 уходит.
+
+Message:  1030
+%qdt:
+ _questgiver_ попросил
+ меня сопровождать %g3 в
+ ___dung_, чтобы вернуть
+ _relig_, из-за которого на н%g3
+ пало проклятие. Скелеты
+ будут нападать на н%g3, пока мы не решим эту проблему.
+ У нас есть =timer_ дня.
+
+QBN:
+Item _reward_ gold range 300 to 500
+Item _relig_ religious
+
+Person _questgiver_ group Questor male
+
+Place _dung_ remote dungeon
+
+Clock _timer_ 00:00 0 flag 17 range 0 2
+Clock _death_ 00:05 00:08
+
+Foe _skel_ is Skeletal_warrior
+Foe _skel2_ is Skeletal_warrior
+
+--	Quest start-up:
+    start timer _timer_
+    log 1030 step 0
+    hide npc _questgiver_
+    add _questgiver_ face
+    pick one of _peace_ _sacr_
+    place item _relig_ at _dung_
+    reveal _dung_
+
+variable _peace_
+variable _sacr_
+
+_spawn_ task:
+    when not _decision_
+    create foe _skel_ every 240 minutes indefinitely with 40% success
+    create foe _skel2_ every 600 minutes indefinitely with 20% success
+
+_daily_ task:
+    daily from 0:00 to 23:59
+    change foe _skel_ infighting true
+    change foe _skel2_ infighting true
+    clear _daily_
+
+_take_ task:
+    clicked item _relig_
+    drop _questgiver_ face
+    start task _decision_
+
+_decision_ task:
+    take _relig_ from pc
+
+_path1_ task:
+    when _decision_ and _peace_
+    say 1020
+    give pc _reward_
+    end quest
+
+_path2_ task:
+    when _decision_ and not _peace_
+    prompt 1010 yes _path2a_ no _path2b_
+
+_path2a_ task:
+    say 1013
+    give pc _reward_
+    destroy _questgiver_
+    end quest
+
+_path2b_ task:
+    say 1011
+    start timer _death_
+
+_death_ task:
+    say 1012
+    destroy _questgiver_
+    end quest
+
+_timer_ task:
+    say 1003
+    drop _questgiver_ face
+    end quest
+
+_qgclicked_ task:
+    clicked npc _questgiver_
+
+_clearclick_ task:
+    when _qgclicked_
+    clear _qgclicked_ _clearclick_

@@ -1,0 +1,38 @@
+Quest: JHMGC04
+DisplayName: Гильдия магов. Последствия. Квест 4
+-- Message panels
+--used in MG118
+QRC:
+
+Message:  1010
+<ce> Как только ты выходишь из зала гильдии, ты видишь пару фигур в капюшонах.
+<ce> Они не прилагают никаких усилий, чтобы скрыть себя.
+<ce>
+<ce> "У магов хорошие сокровища, не так ли?
+<ce> Давайте посмотрим, что нам выпадет сёдня!".
+<ce>
+<ce> Вынув ножи, они идут вперед.
+
+QBN:
+
+Foe _enemy1_ is Thief
+Foe _enemy2_ is Thief
+
+Clock _timer_ 0:01
+
+--	Quest start-up:
+    pc at any magery set _maged_
+
+variable _maged_
+
+_begin_ task:
+    when not _maged_
+    say 1010
+    create foe _enemy1_ every 0 minutes 1 times with 100% success
+    create foe _enemy2_ every 0 minutes 1 times with 100% success
+    change foe _enemy1_ infighting true
+    change foe _enemy2_ infighting true
+    start timer _timer_
+
+_timer_ task:
+	end quest

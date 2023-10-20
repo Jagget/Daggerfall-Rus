@@ -1,0 +1,32 @@
+Quest: JHKNC03
+DisplayName: Рыцарский орден. Последствия. Квест 3
+-- Message panels
+--used in KN210
+QRC:
+
+QuestComplete:   [1004]
+<ce> Барышня улыбается вам одобрительно.
+<ce>
+<ce> "Эй, ты один из тех рыцарей, правда?
+<ce> Заходи! У нас для тебя готова комната!"
+   <--->
+<ce> Официантка улыбается вам.
+<ce>
+<ce> "Ты один из рыцарей, да?
+<ce> Рады вас видеть! Надеюсь, вам
+<ce> понравится ночь здесь!"
+
+QBN:
+
+Clock _endtimer_ 2.00:00
+
+--	Quest start-up:
+    pc at any tavern do _inside_
+    start timer _endtimer_
+
+_inside_ task:
+    say 1004
+    end quest
+
+_endtimer_ task:
+    end quest

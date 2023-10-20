@@ -1,0 +1,28 @@
+Quest: JHMGC06
+DisplayName: Гильдия магов. Последствия. Квест 6
+-- Message panels
+--used in MG122
+QRC:
+
+QuestComplete:   [1004]
+<ce> Ваша нога натыкается на мешок с монетами
+<ce> возле зала гильдии. На нем простая записка.
+<ce>
+<ce> "Для %pcn. Спасибо".
+<ce>
+<ce> Ничто не указывает на происхождение подарка.
+<ce> Золото вы можете забрать.
+
+QBN:
+
+Item _item_ gold range 300 to 500
+
+--	Quest start-up:
+    pc at any magery set _maged_
+
+variable _maged_
+
+_begin_ task:
+    when not _maged_
+    give pc _item_
+	end quest

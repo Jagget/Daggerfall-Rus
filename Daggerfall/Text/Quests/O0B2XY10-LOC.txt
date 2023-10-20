@@ -12,30 +12,30 @@ QRC:
 
 QuestorOffer:  [1000]
 <ce> Привет, %pcn, меня зовут
-<ce>  _qgiver_. Мне нужен кто-то,
-<ce>  кто принесет зелье _potion_.
-<ce>  Что скажешь? Я заплачу тебе
-<ce>  _gold_ золотых, если сделаешь это.
+<ce> _qgiver_. Мне нужен кто-то,
+<ce> кто принесет зелье _potion_.
+<ce> Что скажешь? Я заплачу тебе
+<ce> _gold_ золотых, если сделаешь это.
 
 RefuseQuest:  [1001]
 <ce> Дай мне знать, если тебе нужна
-<ce>  будет настоящая работа, %pcn.
+<ce> будет настоящая работа, %pcn.
 
 AcceptQuest:  [1002]
 <ce> В магазине _alchemyshop_ города
-<ce>  __alchemyshop_ ты найдешь
-<ce>  _potion_. Стащи и принеси мне
-<ce>  в течение =traveltime_ дней, и я оплачу
-<ce>  твои услуги. Это совсем нетрудно.
-<ce>  Удачи.
+<ce> __alchemyshop_ ты найдешь
+<ce> _potion_. Стащи и принеси мне
+<ce> в течение =traveltime_ дней, и я оплачу
+<ce> твои услуги. Это совсем нетрудно.
+<ce> Удачи.
 
 QuestComplete:  [1004]
 <ce> Неплохо, %pcn. Вот твои
-<ce>  _gold_ золотых.
+<ce> _gold_ золотых.
 
 RumorsDuringQuest:  [1005]
 В магазине _alchemyshop_ можно найти лучшие компоненты зелий в городе __alchemyshop_.
-                                     <--->
+   <--->
 Если вы заболели, идите в аптеку _alchemyshop_ в местечке __alchemyshop_.
 
 RumorsPostfailure:  [1006]
@@ -49,19 +49,19 @@ QuestorPostsuccess:  [1008]
 
 QuestorPostfailure:  [1009]
 <ce> Стоп. Дай я угадаю. Ты плетешься
-<ce>  в аптеку _alchemyshop_, находишь
-<ce>  зелье _potion_, и, совершенно
-<ce>  случайно, выпиваешь его. Правильно?
-<ce>  %oth, разные воры, а история одна и та же.
+<ce> в аптеку _alchemyshop_, находишь
+<ce> зелье _potion_, и, совершенно
+<ce> случайно, выпиваешь его. Правильно?
+<ce> %oth, разные воры, а история одна и та же.
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce>  _qgiver_, вор из Гильдии
-<ce>  города ___qgiver_, нанимает меня
-<ce>  на работу по краже зелья _potion_
-<ce>  из магазина _alchemyshop_ в
-<ce>  городе __alchemyshop_. На все у
-<ce>  меня есть =traveltime_ дней.
+<ce> _qgiver_, вор из Гильдии
+<ce> города ___qgiver_, нанимает меня
+<ce> на работу по краже зелья _potion_
+<ce> из магазина _alchemyshop_ в
+<ce> городе __alchemyshop_. На все у
+<ce> меня есть =traveltime_ дней.
 
 
 -- Symbols used in the QRC file:

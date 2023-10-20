@@ -1,0 +1,22 @@
+Quest: JHKNC05
+DisplayName: Рыцарский орден. Последствия. Квест 5
+-- Message panels
+--used in KN135
+QRC:
+
+QuestComplete:   [1004]
+<ce> Мужчина и женщина, занятые какими-то делами,
+<ce> находят время, чтобы почтительно поклониться вам
+<ce> перед уходом. Такое уважение
+<ce> к рыцарям в %crn.
+
+QBN:
+
+Clock _endtimer_ 1:00 6:00
+
+--	Quest start-up:
+    start timer _endtimer_
+
+_endtimer_ task:
+    say 1004
+    end quest

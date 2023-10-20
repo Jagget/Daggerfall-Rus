@@ -1,0 +1,153 @@
+Quest: JHIM102
+DisplayName: Quiz Time, Survival
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Приветствую тебя, %ra. Вы выглядите так, будто повидали немало приключений.
+<ce> Я уже отошел от всего этого, но время от времени я все еще
+<ce> вспоминаю старые добрые времена. Как насчет того, чтобы
+<ce> проверить ваши знания, узнать, знаете ли вы
+<ce> столько же, сколько и я, о выживании в заливе Илиак?
+<ce> За пять вопросов вы можете выиграть =reward_ золота. 
+
+RefuseQuest:  [1001]
+<ce> Я ничего не теряю.
+
+AcceptQuest:  [1002]
+<ce> Посмотрим, как вы справитесь.
+
+QuestFail:  [1003]
+<ce> Досадная ошибка. В следующий раз повезет больше.
+
+QuestComplete:  [1004]
+<ce> %oth!
+<ce> Возьмите это золото, пока я не передумал!
+
+QuestorPostSuccess:   [1008]
+Got a lot of knowledge, you do.
+
+Message:  1031
+<ce> Начнем.
+<ce>
+<ce> Первое: Бесы не получают урона от железного оружия.
+
+Message:  1032
+<ce> Начнем.
+<ce>
+<ce> Первое: Магия определяется комбинацией
+<ce> интеллекта и силы воли.
+
+Message:  1034
+<ce> Один готов.
+<ce>
+<ce> Второе: скорость определяет движение и частоту ударов.
+
+Message:  1035
+<ce> Один готов.
+<ce>
+<ce> Второе: сила определяет часть максимального здоровья.
+
+Message:  1037
+<ce> Это два.
+<ce>
+<ce> Третье: Урон от рукопашного боя зависит от силы.
+
+Message:  1038
+<ce> Это два.
+<ce>
+<ce> В-третьих, при большей выносливости вы теряете
+<ce> меньше выносливости за действие.
+
+Message:  1040
+<ce> Три правильных.
+<ce>
+<ce> Четвертое: Чтобы ранить вампира, нужно гномье оружие
+<ce> гномье оружие или лучше.
+
+Message:  1041
+<ce> Три правильных.
+<ce>
+<ce> Четвертое: Банки предлагают кредиты, кратные 25 000 золотых.
+
+Message:  1043
+<ce> Почти готово.
+<ce>
+<ce> Пятое: шабаши ведьм в жилых домах могут
+<ce> вызывать только Хермеуса Мору.
+
+Message:  1044
+<ce> Почти готово.
+<ce>
+<ce> Пятое: Ламии, рыбы-убийцы, зомби, скелетные воины,
+<ce> и ледяные атронахи могут быть найдены под водой.
+
+Message:  1030
+%qdt:
+ В настоящее время я отвечаю на
+ на вопросы, заданные
+ местным торговцем за
+ сумму в =reward_ золотом.
+
+QBN:
+Item _reward_ gold range 350 to 350
+
+Clock _failsafe_ 1.00:00
+
+--	Quest start-up:
+	start timer _failsafe_
+	log 1030 step 0 
+	pick one of _S.01_ _S.02_
+
+_S.01_ task:
+	prompt 1031 yes _S.03_ no _fail_
+
+_S.02_ task:
+	prompt 1032 yes _fail_ no _S.03_
+
+_S.03_ task:
+	pick one of _S.04_ _S.05_
+
+_S.04_ task:
+	prompt 1034 yes _S.06_ no _fail_
+
+_S.05_ task:
+	prompt 1035 yes _fail_ no _S.06_
+
+_S.06_ task:
+	pick one of _S.07_ _S.08_
+
+_S.07_ task:
+	prompt 1037 yes _S.09_ no _fail_
+
+_S.08_ task:
+	prompt 1038 yes _fail_ no _S.09_
+
+_S.09_ task:
+	pick one of _S.10_ _S.11_
+
+_S.10_ task:
+	prompt 1040 yes _fail_ no _S.12_
+
+_S.11_ task:
+	prompt 1041 yes _fail_ no _S.12_
+
+_S.12_ task:
+	pick one of _S.13_ _S.14_
+
+_S.13_ task:
+	prompt 1043 yes _fail_ no _pcgetsgold_
+
+_S.14_ task:
+	prompt 1044 yes _pcgetsgold_ no _fail_
+
+_fail_ task:
+	say 1003
+	end quest
+
+_pcgetsgold_ task:
+	give pc _reward_
+	end quest 
+
+_failsafe_ task:
+	end quest

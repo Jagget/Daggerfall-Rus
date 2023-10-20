@@ -1,0 +1,29 @@
+Quest: JHKNC04
+DisplayName: Рыцарский орден. Последствия. Квест 4
+-- Message panels
+--used in KN236
+QRC:
+
+QuestComplete:   [1004]
+<ce> Пара шумных завсегдатаев узнает вас
+<ce> когда вы входите в таверну.
+<ce>
+<ce> "Веселишься, убивая кентавров, %ra?
+<ce> Попробуй когда-нибудь совершить что-нибудь героическое!"
+<ce>
+<ce> Они разражаются хохотом и расходятся.
+
+QBN:
+
+Clock _endtimer_ 2.00:00
+
+--	Quest start-up:
+    pc at any tavern do _inside_
+    start timer _endtimer_
+
+_inside_ task:
+    say 1004
+    end quest
+
+_endtimer_ task:
+    end quest

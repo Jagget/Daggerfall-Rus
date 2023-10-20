@@ -1,0 +1,160 @@
+Quest: JHIM115
+DisplayName: Крупное ограбление во всей красе
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Успокойтесь. У меня есть информация 
+<ce> о доме в городе, где ночью будут 
+<ce> хранить большие деньги. Я могу 
+<ce> сказать вам, где это, но это будет 
+<ce> стоить дорого. Хотите узнать?
+
+RefuseQuest:  [1001]
+<ce> Хорошо, оставим так.
+
+AcceptQuest:  [1002]
+<ce> Это будет стоить 400 золотых. Но это того стоит. 
+<ce> Поговорим через мгновение, мне нужно достать свой кошель 
+<ce> с деньгами.
+
+QuestComplete:  [1004]
+<ce> Похоже, это и есть тайник.
+
+QuestorPostSuccess:   [1008]
+Не рассказывайте никому, как вы нашли эти деньги в _res_.
+
+Message:  1010
+<ce> 400 золотых, точно-точно. Я беру их, 
+<ce> спасибо большое.
+<ce>
+<ce> Итак, вот сделка. _res_ здесь в городе 
+<ce> будет хранить деньги после аукциона 
+<ce> недвижимости. Я не слышал, сколько именно, 
+<ce> но, по-моему, это пара тысяч. Входи после 
+<ce> полуночи. Если попробуешь сделать это днем, 
+<ce> они начнут истерику. Их курьер придет 
+<ce> забрать деньги после полуночи, так что, 
+<ce> если хочешь прикинуться, вот твое 
+<ce> прикрытие. Что произойдет после этого, 
+<ce> зависит только от тебя. Приятно было иметь
+<ce> дело с тобой.
+
+Message:  1011
+<ce> Вы входите в дом и тихо закрываете 
+<ce> за собой дверь.
+
+Message:  1012
+<ce> "Извините, кто вы?"
+<ce>
+<ce> Из-за угла вас с удивлением смотрит испуганный юноша.
+<ce> Вы говорите, что вы здесь, чтобы забрать деньги?
+
+Message:  1013
+<ce> "О, вы курьер? Хорошо."
+<ce>
+<ce> Она уходит, оставляя вас с вашей задачей.
+   <--->
+<ce> "О, вы курьер? Хорошо."
+<ce>
+<ce> Он уходит, оставляя вас с вашей задачей.
+
+Message:  1014
+<ce> "Тогда зачем ты здесь?! А?!"
+<ce>
+<ce> Ее пронзительный крик разрывает 
+<ce> воздух, и люди начинают искать вас.
+   <--->
+<ce> "Тогда зачем ты здесь?! А?!"
+<ce>
+<ce> Его громкий крик разрывает воздух, 
+<ce> и люди начинают искать вас.
+
+Message:  1015
+<ce> Информация, которую вы купили, была 
+<ce> верной. Действительно, дом охраняется 
+<ce> до полуночи. Вы пришли не в то время 
+<ce> и были идентифицированы как угроза.
+
+Message:  1016
+<ce> 400, ну же. У меня полно дел.
+
+Message:  1030
+%qdt:
+Я приобрел информацию о доме 
+в ___res_, где хранится 
+большая сумма денег. _res_ 
+будет в основном без охраны с 
+полуночи до 5 утра. Если мне 
+удастся попасть туда, я смогу 
+взять золото.
+
+QBN:
+
+Person _qg_ group Questor
+
+Item _sack_ large_sack
+Item _reward_ gold range 1435 to 2499
+
+Place _res_ local house
+
+Clock _timer_ 1.00:00
+Clock _sneak_ 0:00 0:01
+
+Foe _warr_ is Warrior
+
+--   Quest start-up:
+  start timer _timer_
+
+_start_ task:
+  clicked _qg_ and at least 400 gold otherwise do _fail_
+  say 1010
+  place item _sack_ at _res_
+  pc at _res_ do _inside_
+  log 1030 step 0
+
+_fail_ task:
+  say 1016
+
+variable _inside_
+_nosneak_ task:
+  when not _inside_
+  stop timer _sneak_
+
+_entry_ task:
+  when _inside_ and _start_ and not _day_
+  say 1011
+  start timer _sneak_
+
+_day_ task:
+  daily from 5:00 to 23:59
+
+_caught1_ task:
+  when _inside_ and _start_ and _day_
+  say 1015
+  setplayercrime Theft
+  spawncityguards immediate
+
+_sneak_ task:
+  prompt 1012 yes _agree_ no _caught2_
+
+_agree_ task:
+  say 1013
+
+_caught2_ task:
+  say 1014
+  setplayercrime Theft
+  spawncityguards immediate
+
+_found_ task:
+  clicked item _sack_
+  take _sack_ from pc
+  give pc _reward_
+  remove log step 0
+
+_finish_ task:
+  when _found_ and not _inside_
+  end quest
+
+_timer_ task:
+  end quest

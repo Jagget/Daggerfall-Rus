@@ -8,10 +8,10 @@ mouseLookSmoothingStrengths,"Нет
 Среднее
 Высокое
 Самое высокое"
-configureAdvancedControls,Настройка расширенных управляющих элементов
+configureAdvancedControls,Расширенная настройка управления
 continueUpper,ПРОДОЛЖИТЬ
 mouseLookSmoothing,Сглаживание движения мыши
-mouseLookSensitivity,Чувствительность мыши при взгляде
+mouseLookSensitivity,Чувствительность обзора мышью
 invertLookY,Инвертировать ось Y взгляда
 movementAcceleration,Ускорение движения
 weaponSwingMode,Режим удара оружием
@@ -22,8 +22,8 @@ Escape,Выход
 AutoRun,Автобег
 ToggleConsole,Консоль
 PrintScreen,Скриншот
-QuickSave,Быстрое сохранение
-QuickLoad,Быстрая загрузка
+QuickSave,Быстрое сохр.
+QuickLoad,Быстрая загр.
 close,Закрыть
 dungeonTextureModes,"Классический
 Климат
