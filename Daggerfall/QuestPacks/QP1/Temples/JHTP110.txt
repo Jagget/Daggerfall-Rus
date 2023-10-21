@@ -1,135 +1,137 @@
 Quest: JHTP110
-DisplayName: Curing a Werewolf
+DisplayName: Исцеление оборотня
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A citizen of ___questgiver_ has requested
-<ce> the temple's aid in curing oneself of lycanthropy,
-<ce> or werewolfism. We don't know what that will entail,
-<ce> but we're happy to reduce Tamriel's beast count.
-<ce> We need to send some combat-ready person to aid.
-<ce> Can we count on your help?
+<ce> Житель из ___questgiver_ обратился в храм с просьбой 
+<ce> помочь ему излечиться от ликантропии, или оборотничества. 
+<ce> Мы не знаем, что это повлечет за собой, но будем рады 
+<ce> уменьшить количество чудовищ в Тамриэле. Нам нужно 
+<ce> отправить на помощь какого-нибудь боеспособного человека. 
+<ce> Можем ли мы рассчитывать на твою помощь?
 
 RefuseQuest:  [1001]
-<ce> Very well. We want someone who is certainly ready for it.
+<ce> Очень хорошо. Нам нужен человек, который, безусловно, готов к этому.
 
 AcceptQuest:  [1002]
-<ce> Good. Find _person_ in _res_,
-<ce> to the %di of here. That's our poor infected soul.
-<ce> Your mission is to rid %g2 of lycanthropy.
-<ce> You'll get your instructions when you speak to %g2, I suppose.
-<ce> %god help your endeavor.
+<ce> Хорошо. Найди _person_ в _res_,
+<ce> на %di отсюда. Это наша бедная зараженная душа. Твоя 
+<ce> миссия - избавить %g3 от ликантропии. Инструкции ты 
+<ce> получишь, когда будешь говорить с клиентом, я полагаю. 
+<ce> Да поможет %god твоему начинанию.
 
 QuestFail:  [1003]
+<ce> Задание провалено.
 
 QuestComplete:  [1004]
-<ce> _person_ will no more suffer from lycanthropy.
+<ce> _person_ больше не будет страдать от ликантропии.
 
 RumorsPostSuccess:  [1007]
-_person_ will never stop talking about you.
+_person_ никогда не перестанет говорить о тебе.
    <--->
-_person_ donated a ton of money to __questgiver_.
+_person_ пожертвовал кучу денег __questgiver_.
    <--->
-_person_'s cured of werewolfism! It's possible after all!
+_person_ излечился от оборотничества! Это всё-таки возможно!
 
 Message:  1010
-<ce> Greetings. __questgiver_? Welcome to
-<ce> my abode. I've done most of the footwork to find a
-<ce> cure to my fearsome condition, and now the last step
-<ce> remains. I lack the courage to do it myself, and need
-<ce> your help. Let us be off to ___farhouse_.
-<ce> We must find _kid_, who holds the key to my cure.
-<ce> That is what the alchemist told me, at least.
+<ce> Приветствую. __questgiver_? Добро пожаловать в мою обитель. 
+<ce> Я уже сделал большую часть работы по поиску лекарства от 
+<ce> своего страшного заболевания, и теперь остался последний 
+<ce> шаг. У меня не хватает смелости сделать это самому, и мне 
+<ce> нужна твоя помощь. Давай отправимся в ___farhouse_. Мы 
+<ce> должны найти _kid_, у которого находится ключ к моему 
+<ce> лекарству. По крайней мере, так мне сказал алхимик.
 
 Message:  1011
-<ce> _person_ leans down and speaks to
-<ce> this child. "Excuse me, you're _kid_,
-<ce> aren't you?" The child nods cautiously in response.
+<ce> _person_ наклоняется и обращается к этому 
+<ce> ребенку. "Извините, вы _kid_, не так ли?". 
+<ce> Ребенок осторожно кивает в ответ.
 <ce>
-<ce> _person_ begins unpacking several things from %g3
-<ce> belongings, including a few weapons and a vial of blood.
-<ce> "Okay %pcf, this is what we have to do. You get
-<ce> this kid to drink this," %g1 says, pointing to the vial.
-<ce> "Then get ready to run, 'cause things are gonna get ugly."
+<ce> _person_ достаёт из рюкзака несколько вещей, включая 
+<ce> несколько видов оружия и пузырек с кровью. "Так, %pcf, вот 
+<ce> что мы должны сделать. Ты заставишь этого парня выпить вот 
+<ce> это", - говорит %g1, указывая на пузырек. "Затем приготовься 
+<ce> бежать, потому что все будет очень плохо".
 <ce>
-<ce> You understand why %g1 kept these details secret until now.
-<ce> As if to assuage any hesitation on your part, %g1 says,
-<ce> "You want to know the truth? This kid's a werewolf, just
-<ce> like me. Sooner or later it's gonna come out and start
-<ce> murdering people. You can't help it. It needs a cure.
-<ce> I want that cure, and there's no other way than this.
-<ce> I've done my research! I've seen it all!"
+<ce> Ты понимаешь, почему до сих пор это было секретом. 
+<ce> Словно желая развеять все твои сомнения, %g1 говорит: 
+<ce> "Хочешь знать правду? _kid_ - оборотень, как и я. 
+<ce> Рано или поздно превращение произойдёт и начнутся 
+<ce> новые убийства. Этому не помочь. Это нужно лечить. 
+<ce> Я хочу исцелиться, и другого пути, кроме этого, нет. 
+<ce> Я провёл исследования! Я всё видел!"
 <ce>
-<ce> _kid_ begins crying, hearing the many
-<ce> scary words in this conversation.
-<ce> Do you join _person_ to help %g2 get rid of
-<ce> %g3 lycanthropy?
+<ce> _kid_ начинает плакать, услышав множество страшных 
+<ce> слов в этом разговоре. Присоединишься ли ты к 
+<ce> _person_, чтобы помочь %g2 избавиться от
+<ce> %g3 ликантропии?
 
 Message:  1012
-<ce> You agreed to help _person_ get cured, and this is
-<ce> the price to pay. You send %g2 outside so you
-<ce> can calm the child down. Convincing _kid_ to
-<ce> drink the werewolf blood is easier than you expect --
-<ce> perhaps this talk of latent lycanthropy is true after all.
-<ce> It doesn't take long before %g1 starts groaning and
-<ce> writhing, turning into a werewolf in front of you.
+<ce> Ты согласился помочь _person_ вылечиться, заплатив эту 
+<ce> высокую цену. Ты отправляешь %g3 наружу, чтобы успокоить 
+<ce> ребенка. Убедить _kid_ выпить кровь оборотня оказалось 
+<ce> проще, чем ты ожидал, - возможно, разговоры о скрытой 
+<ce> ликантропии все-таки правда. Проходит совсем немного 
+<ce> времени, и %g1 начинает стонать и корчиться, превращаясь 
+<ce> на твоих глазах в оборотня.
 
 Message:  1013
-<ce> _person_ pops back into the room, sobbing with relief.
+<ce> _person_ заскакивает обратно в комнату, рыдая от облегчения.
 <ce>
-<ce> "I could feel it! The moment of the transformation, I knew it!
-<ce> I'm free! By %god, my life is mine once more!
-<ce> Thank you, %pct! __questgiver_ has my thanks forevermore!"
+<ce> "Я почувствовал это! В момент трансформации! Я свободен! 
+<ce> О, %god, моя жизнь снова моя! Спасибо тебе, %pct! И я 
+<ce> буду вечно благодарить __questgiver_!"
 <ce>
-<ce> You gain no reward, but hope the temple has a very firm
-<ce> ally in ___questgiver_ from now on.
+<ce> Вы не получаете никакой награды, но надеетесь, что отныне у храма есть 
+<ce> очень надежный союзник в лице ___questgiver_.
 
 Message:  1014
-<ce> "You're not getting in my way. I've come too far and done too
-<ce> much to stop now. This has to happen, now!"
+<ce> "Ты не встанешь у меня на пути. Я зашел слишком далеко и сделал слишком 
+<ce> много, чтобы останавливаться сейчас. Это нужно сделать, сейчас!"
 <ce>
-<ce> _kid_ cowers in fear and then runs out the door.
-<ce> _person_ turns to you, %g3 cowardice consumed in rage.
+<ce> _kid_ трусит от страха и выбегает за дверь.
+<ce> _person_ поворачивается к тебе, %g3 трусость сменяется яростью.
 <ce>
-<ce> "I'll find that kid, but I can't let you stop me!
-<ce> I need to do this, even if I have to kill you!"
+<ce> "Я найду _kid_, но я не могу позволить тебе остановить меня!
+<ce> Я должен это сделать, даже если мне придется тебя убить!"
 
 Message:  1015
-<ce> You've spared _kid_ by slaying _person_.
-<ce> Though __questgiver_ may not have intended it,
-<ce> this certainly solves the problem.
+<ce> Ты пощадил _kid_, убив _person_.
+<ce> Хотя __questgiver_, возможно, и не
+<ce> собирался этого делать, это, безусловно, решает проблему.
 
 Message:  1016
-<ce> You flee the house. Shortly thereafter, you hear the
-<ce> screams of a child, which are cut short.
-<ce> It appears _person_ didn't need your help after all.
+<ce> Ты убегаешь из дома. Вскоре ты слышишь
+<ce> крики ребенка, которые тут же обрываются.
+<ce> Похоже, что твоя помощь всё-таки не понадобилась _person_.
 
 Message:  1017
-<ce> You've taken too long, and _person_ leaves you.
+<ce> Вы слишком затянули, и _person_ покидает вас.
 
 Message:  1018
-<ce> You find _person_ outside, sobbing with relief.
+<ce> Вы находите _person_ снаружи, на лице слёзы облегчения.
 <ce>
-<ce> "I could feel it! The moment of the transformation, I knew it!
-<ce> I'm free! By %god, my life is mine once more!
-<ce> Thank you, %pct! __questgiver_ has my thanks forevermore!"
+<ce> "Я почувствовал это! В момент трансформации! Я свободен! 
+<ce> О, %god, моя жизнь снова моя! Спасибо тебе, %pct! И я 
+<ce> буду вечно благодарить __questgiver_!"
 <ce>
-<ce> You gain no reward, but hope the temple has a very firm
-<ce> ally in ___questgiver_ from now on.
+<ce> Вы не получаете никакой награды, но надеетесь, что отныне у храма есть 
+<ce> очень надежный союзник в лице ___questgiver_.
 
 Message:  1030
 %qdt:
- __questgiver_ has sent me to
- aid _person_, a local citizen who
- wants to be cured of lycanthropy.
- I will receive more details from %g2.
+ __questgiver_ отправил меня на 
+ помощь _person_, местному жителю, 
+ который хочет вылечиться от 
+ ликантропии. Более подробную 
+ информацию я получу от клиента.
 
 Message:  1031
 %qdt:
- _person_ says the way to be cured
- goes through _kid_, who lives in
- ___farhouse_.
+ _person_ говорит, что путь к 
+ исцелению лежит через _kid_, 
+ который живет в ___farhouse_.
 
 QBN:
 Person _questgiver_ group Questor

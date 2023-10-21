@@ -1,64 +1,64 @@
 Quest: JHTP107
-DisplayName: The Filthy Pit
+DisplayName: Грязная яма
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pct, I'm at my wit's end. The %t
-<ce> has ordered us to cleanse a persistent
-<ce> infection in ___dung_ that
-<ce> refuses to come out. I've already lost
-<ce> =dummy_ members to it, all healers of
-<ce> various kinds. If you decide to take this
-<ce> up, will you promise me you'll come back alive?
+<ce> %pct, я на пределе своих возможностей. %t 
+<ce> приказал нам очистить ___dung_ от 
+<ce> хронической заразы, которая отказывается 
+<ce> уходить. Я уже потерял из-за этого =dummy_ 
+<ce> членов, все целители разных мастей. Если ты 
+<ce> решишь взяться за это дело, пообещаешь ли ты 
+<ce> мне вернуться живым?
 
 RefuseQuest:  [1001]
-<ce> I'm happy and sad at your answer, for
-<ce> I truly hoped to be done with this.
+<ce> Меня радует и огорчает твой ответ, ведь я 
+<ce> искренне надеялся решить этот вопрос.
 
 AcceptQuest:  [1002]
-<ce> Oh, well, I suppose I can find a little
-<ce> joy in your promise then. The depths are
-<ce> absolutely washed in typhoid fever.
-<ce> No matter how often you cure it, it'll
-<ce> come back. Please see me again in =timer_ days
-<ce> with the job done. I have reserved an
-<ce> enchanted _reward_ for you. They are
-<ce> difficult to come by, but this occasion
-<ce> merits it. Fight with all the strength you
-<ce> have, and do not succumb to the illness. Farewell.
+<ce> О, ну тогда, полагаю, я могу найти немного 
+<ce> радости в твоем обещании. Глубины абсолютно 
+<ce> пропитаны тифозной лихорадкой. Неважно, как 
+<ce> часто ты будешь его лечить, он будет 
+<ce> возвращаться. Пожалуйста, загляни ко мне 
+<ce> снова через =timer_ дней, выполнив работу. Я 
+<ce> зарезервировал для тебя _reward_, с 
+<ce> волшебной силой. Их трудно достать, но этот 
+<ce> случай того заслуживает. Борись изо всех 
+<ce> сил, и не поддавайся болезни. Прощай.
 
 QuestFail:  [1003]
-<ce> The =timer_ days _qgiver_
-<ce> gave you to cleanse ___dung_ are up.
+<ce> Закончились те =timer_ дней, которые 
+<ce> _qgiver_ дал тебе для очищения ___dung_.
 
 QuestComplete:  [1004]
-<ce> What a joy! So the cause was a walking
-<ce> corpse? Better than some human with such power
-<ce> over the miasma, for that would only terrify
-<ce> me all the more. Take this _reward_.
-<ce> You are certainly making a name for yourself.
+<ce> Вот это радость! Значит, причиной был ходячий труп? 
+<ce> Лучше уж так, чем какой-то человек, обладающий 
+<ce> такой властью над миазмами, потому что это только 
+<ce> еще больше ужаснуло бы меня. Вот, возьми _reward_. 
+<ce> Ты определенно делаешь себе имя.
 
 RumorsDuringQuest:  [1005]
-I got a fever the other day. Temples are good for that.
+На днях у меня поднялась температура. Для этого хорошо подходят храмы.
 
 Message:  1020
-<ce> This place stinks terribly. There's no question
-<ce> any amount of time here will bring an illness.
+<ce> Это место ужасно воняет. Несомненно, любое количество 
+<ce> времени, проведенное здесь, принесет болезнь.
 
 Message:  1021
-<ce> This zombie seemed to radiate the odor
-<ce> penetrating this whole area. The problem
-<ce> appears to now be resolved.
+<ce> Казалось, что этот зомби излучает запах, 
+<ce> пронизывающий всю эту область. Теперь 
+<ce> проблема, похоже, решена.
 
 Message:  1030
 %qdt:
- _qgiver_ of ___qgiver_
- has sent me to ___dung_
- to get rid of the source of a
- powerful disease that has filled
- the hovel. I have =timer_ days to
- return for a reward.
+ _qgiver_ из ___qgiver_ послал 
+ меня в ___dung_, чтобы я 
+ избавился от источника мощной 
+ болезни, заполнившей эту дыру. У 
+ меня есть =timer_ дней, чтобы 
+ вернуться за вознаграждением.
 
 QBN:
 Item _reward_ magic_item

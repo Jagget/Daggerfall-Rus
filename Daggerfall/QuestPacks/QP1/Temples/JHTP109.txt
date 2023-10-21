@@ -1,120 +1,121 @@
 Quest: JHTP109
-DisplayName: Purge
+DisplayName: Очищение
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Have you any ability to dispel the undead, %pct?
-<ce> Any variant of the spell will do. It just requires
-<ce> that you cast it yourself. Bit of nefarious dealings
-<ce> with the Necromancers that we've been asked to clean up.
+<ce> Есть ли у тебя способность изгонять нежить, %pct? 
+<ce> Подойдет любой вариант заклинания. Просто требуется, 
+<ce> чтобы ты сам его произнес. Есть небольшая проблема с 
+<ce> гнусными некромантами, которую нас попросили решить.
 
 RefuseQuest:  [1001]
-<ce> I may have to send out to the Mages Guild for this one.
+<ce> Возможно, мне придется послать за этим в Гильдию Магов.
 
 AcceptQuest:  [1002]
-<ce> I'll take your word for it. We were quite surprised when
-<ce> the %t sent us word that a local couple had lent their
-<ce> house to the Necromancers for several dark rituals.
-<ce> They've since had a change of heart and asked us for help
-<ce> in removing the influence of the undead from their abode.
+<ce> Я поверю тебе на слово. Мы были весьма удивлены, когда 
+<ce> %t прислал нам сообщение о том, что одна местная пара 
+<ce> предоставила свой дом некромантам для проведения нескольких 
+<ce> темных ритуалов. С тех пор они изменили свое мнение и 
+<ce> попросили нас помочь убрать нежить из их обители.
 <ce>
-<ce> Lest you think this will be a normal trip to slay a mummy,
-<ce> I forewarn you that it will not be. Find some
-<ce> comfortable place in the house to cast the dispel
-<ce> effect and then remain in the building. If you leave,
-<ce> things will get much worse. Your life force will sustain the
-<ce> divine influence while you remain there. I suspect it will
-<ce> take about twenty-four hours for the purge to complete.
-<ce> Such is the power of the wicked Necromancers
-<ce> once you let them wield a little influence.
-<ce> I'll expect you to arrive by this time tomorrow.
-<ce> Look for _res_ here near in ___res_.
-<ce> I will await your successful report.
+<ce> Чтобы ты не думал, что это будет обычная поездка с 
+<ce> целью убить мумию, предупреждаю тебя, что это будет 
+<ce> не так. Найди какое-нибудь удобное место в доме, 
+<ce> чтобы наложить эффект рассеивания, а затем 
+<ce> оставайся в здании. Если ты уйдешь, все станет 
+<ce> намного хуже. Твоя жизненная сила будет 
+<ce> поддерживать божественное влияние, пока ты 
+<ce> остаешься там. Я подозреваю, что для завершения 
+<ce> очищения потребуется около суток. Такова сила 
+<ce> злобных некромантов. Я ожидаю, что ты прибудешь 
+<ce> завтра к этому времени. Ищи _res_ здесь неподалеку 
+<ce> в ___res_. Я буду ждать твоего отчета об успехе.
 
 QuestFail:  [1003]
-<ce> _questgiver_ needed you to begin removing
-<ce> the dark influence of _res_ by now.
+<ce> _questgiver_ ожидал, что к этому времени ты уже 
+<ce> устранишь темное влияние _res_.
 
 QuestComplete:  [1004]
-<ce> The difference in ___res_ is palpable, even from here. I need
-<ce> no further proof of your doings. Darkness has fled a little
-<ce> this day. Fine work, %pcf. Take this _tri_.
+<ce> Разница в ___res_ ощутима даже отсюда. Мне не нужны 
+<ce> дальнейшие доказательства. Темнота немного отступила в 
+<ce> этот день. Отличная работа, %pcf. Вот, возьми _tri_.
 
 Message:  1010
-<ce> This is clearly the right building. The residents should
-<ce> feel relief to see you, but are disturbed by
-<ce> the malignant influence.
+<ce> Это явно правильное здание. Жители должны 
+<ce> испытывать облегчение при виде тебя, но их 
+<ce> беспокоит влияние зла.
 
 Message:  1011
-<ce> "No... No! NO!"
+<ce> "Нет... Нет! Нет!"
 <ce>
-<ce> The Necromancers have bound a spirit here to maintain
-<ce> their influence. This will be a long day indeed.
+<ce> Некроманты связали здесь дух, чтобы поддерживать 
+<ce> своё влияние. Это будет действительно долгий день.
 
 Message:  1012
-<ce> The spirit that lingers here has
-<ce> been given power to materialize multiple times.
-<ce> The Necromancers' power is not to be trifled with.
+<ce> Дух, который здесь обитает, получил силу 
+<ce> материализоваться несколько раз. С силой 
+<ce> некромантов нельзя шутить.
 
 Message:  1013
-<ce> "Begone... Begone... Begone... Begone... Begone..."
+<ce> "Сгинь... Сгинь... Сгинь... Сгинь... Сгинь..."
 
 Message:  1014
-<ce> "Death comes for you, %ra..."
+<ce> "Смерть приходит за тобой, %ra..."
 
 Message:  1015
-<ce> "How long will I endure this pain?"
+<ce> "Как долго я буду терпеть эту боль?"
 
 Message:  1016
-<ce> "Please, stop, stop, stop, stop..."
+<ce> "Пожалуйста, остановись, остановись, остановись, остановись..."
 
 Message:  1017
-<ce> "Are you my missing child? Come to me, sweetie..."
+<ce> "Ты мой пропавший ребенок? Приди ко мне, милый..."
 
 Message:  1018
-<ce> "Cease... this... incantation... for... my... pain..."
+<ce> "Прекрати... это... заклинание... для... меня... боль...".
 
 Message:  1019
-<ce> "Release me from undeath! Free me!"
+<ce> "Освободи меня от нежизни! Освободи меня!"
 
 Message:  1020
-<ce> "You will regret challenging the Necromancers!"
+<ce> "Ты пожалеешь, что бросил вызов некромантам!"
 
 Message:  1021
-<ce> "Darkness will always devour the light, mortal."
+<ce> "Тьма всегда будет пожирать свет, смертный".
 
 Message:  1022
-<ce> "Quickly, leave this place... I will give in..."
+<ce> "Скорее, покинь это место... Я сдамся..."
 
 Message:  1023
-<ce> "I'm almost free! Please, leave the building
-<ce> and cast the spell anew!"
+<ce> "Я почти свободен! Пожалуйста, покинь здание и 
+<ce> произнеси заклинание заново!"
 
 Message:  1024
-<ce> "Give in and become as we are!"
+<ce> "Сдайся и стань таким, как мы!"
 
 Message:  1025
-<ce> The effect has taken permanent hold. The spirit bound to this
-<ce> home dissipates, impotent to work further in the mortal realm.
-<ce> _questgiver_ will await your report.
+<ce> Эффект закрепился навсегда. Дух, привязанный к этому дому, 
+<ce> рассеивается, не имея больше возможности существовать в 
+<ce> этом мире. _questgiver_ будет ждать твоего доклада.
 
 Message:  1030
 %qdt:
- _questgiver_ has sent me to purify
- _res_, a local home, from
- the Necromancers' influence.
- I am to cast any spell to dispel the undead
- within and then remain inside for twenty-four
- hours. I should begin before a day has passed.
+ _questgiver_ послал меня очистить
+ _res_, местный дом,
+ от влияния некромантов. Я должен 
+ произнести любое заклинание, чтобы развеять 
+ нежить внутри, а затем оставаться внутри в 
+ течение двадцати четырёх часов. Я должен 
+ приступить к работе до того, как пройдут сутки.
 
 Message:  1031
-<ce> You leave the residence and suddenly hear a loud
-<ce> whooping sound come from within, then above, the building.
-<ce> The malignant influence you were trapping and nullifying
-<ce> springs free of its confines and rushes out into the open air.
-<ce> Soon it will be under the control of the Necromancers
-<ce> for yet another villainous scheme.
+<ce> Ты выходишь из дома и вдруг слышишь громкий 
+<ce> свистящий звук, доносящийся изнутри, а затем сверху 
+<ce> здания. Вредоносный дух, который ты отлавливал и 
+<ce> изводил, вырвался из пут и устремился на волю. 
+<ce> Вскоре он вновь окажется под контролем некромантов 
+<ce> для осуществления очередного злодейского замысла.
 
 QBN:
 Item _tri_ trinket

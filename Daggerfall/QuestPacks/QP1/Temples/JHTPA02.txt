@@ -1,84 +1,85 @@
 Quest: JHTPA02
-DisplayName: Washing the Brain
+DisplayName: Промывка мозгов
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Our long-running feud with the Mages Guild should
-<ce> not surprise anyone. They have repeatedly stolen our
-<ce> work and claimed it as their own, to name the least
-<ce> of their crimes against us. But we are informed that
-<ce> one of our members has been stolen away and forced
-<ce> to work in a Mages Guild hall, far from ___qgiver_.
-<ce> Julianos requires a brave soul to bring us back
-<ce> our friend. Will you go?
+<ce> Наша давняя вражда с Гильдией Магов не должна 
+<ce> никого удивлять. Они неоднократно крали нашу 
+<ce> работу и выдавали её за свою, и это лишь самое 
+<ce> малое из их преступлений против нас. Но нам 
+<ce> сообщили, что один из наших соратников был 
+<ce> украден и вынужден работать в зале Гильдии 
+<ce> Магов, далеко от ___qgiver_. Джулианос требует  
+<ce> вернуть нашего друга. Ты пойдешь?
 
 RefuseQuest:  [1001]
-<ce> Remember, if it happened to you,
-<ce> one of us would rescue you. Remember that.
+<ce> Помни, что если бы это случилось с тобой, то 
+<ce> один из нас спас бы тебя. Помни об этом.
 
 AcceptQuest:  [1002]
-<ce> Julianos smiles upon thee, %pct.
-<ce> You will travel to ___magery_ to find =apoc_
-<ce> named _apoc_ within the mages' hall.
-<ce> You should expect resistance once your intentions are known,
-<ce> but neither we nor the law would hold you
-<ce> accountable should you defend yourself.
-<ce> The Mages Guild generally prefers a few dead bodies
-<ce> in lieu of the %rt finding out what they really do over there.
-<ce> However your method, return here in =timer_ days
-<ce> with _apoc_ intact. Should that time expire,
-<ce> others will be sent in your place, and you
-<ce> will be dubbed a failure.
+<ce> Джулианос улыбается тебе, %pct. Ты отправишься 
+<ce> в ___magery_, чтобы найти =apoc_ по имени 
+<ce> _apoc_ в зале магов. Тебе следует ожидать 
+<ce> сопротивления, как только твои намерения станут 
+<ce> известны, но никто не обвинит тебя, если ты 
+<ce> будешь защищаться. Гильдия Магов вообще проще 
+<ce> убить, чтобы %rt не узнали, чем они там на 
+<ce> самом деле занимаются. Каким бы ни был твой 
+<ce> метод, вернись сюда через =timer_ дней с _apoc_ 
+<ce> в целости и сохранности. Если это время 
+<ce> истечет, на твое место будут посланы другие, а 
+<ce> ты будешь признан неудачником.
 
 QuestFail:  [1003]
-<ce> You were to return to ___qgiver_
-<ce> with _apoc_ by this time.
+<ce> К этому времени ты должен был вернуться
+<ce> в ___qgiver_ с _apoc_.
 
 QuestComplete:  [1004]
-<ce> _apoc_ wildly thrashes about as %g1 recognizes
-<ce> the familiar faces of the adherents of Julianos.
-<ce> Healers approach and begin the long, arduous work
-<ce> of dispelling the Mages Guild's enchantment on %g2,
-<ce> pulling %g2 into another room. _qgiver_ speaks.
+<ce> _apoc_ дико заметался по комнате, когда %g1 узнал 
+<ce> знакомые лица приверженцев Джулианоса. Целители 
+<ce> приближаются и начинают долгую, тяжелую работу по 
+<ce> развеиванию чар Гильдии Магов, оттаскивая %g3 в 
+<ce> другую комнату. _qgiver_ говорит:
 <ce>
-<ce> "It isn't pretty, but it is necessary.
-<ce> The Mages Guild will pay for its crimes,
-<ce> even if the whole Empire should burn for it.
-<ce> Julianos' wrath will be poured out in its season.
-<ce> As for you, I managed to get my hands on this
-<ce> fairly unique _item_ while you were away.
-<ce> Would you accept it as a reward?"
+<ce> "Это некрасиво, но необходимо. Гильдия 
+<ce> Магов заплатит за свои преступления, даже 
+<ce> если будет гореть вся Империя. Они познают 
+<ce> гнев Джулианоса! Что касается тебя, то пока 
+<ce> тебя не было, мне удалось заполучить в свои 
+<ce> руки один довольно уникальный предмет. 
+<ce> Примешь ли ты его в качестве награды?"
 
 Message:  1010
-<ce> A tense air reigns in the Mages Guild.
-<ce> The people here seem to know something is wrong,
-<ce> but they aren't brave enough to do anything about it.
+<ce> В Гильдии Магов царит напряженная атмосфера. Люди 
+<ce> здесь, похоже, понимают, что что-то не так, но им 
+<ce> страшно что-то предпринять.
 <ce>
-<ce> You hope none of them get in your way once you find _apoc_.
+<ce> Ты надеешься, что никто из них не встанет у тебя на пути,
+<ce>  когда ты найдешь _apoc_.
 
 Message:  1011
-<ce> This =apoc_ matches the description _qgiver_
-<ce> gave you of _apoc_. However, %g3 eyes are distant,
-<ce> and %g1 appears to bear no conscious thought.
-<ce> You grab %g3 wrist, and though %g1 offers little resistance,
-<ce> %g1 is impelled to shout, "H-help! Enemies!
-<ce> They're coming to take me away!!"
+<ce> Этот =apoc_ соответствует описанию, которое 
+<ce> _qgiver_ дал тебе. Однако %g3 глаза смотрят вдаль, 
+<ce> и %g1, похоже, ничего не соображает. Ты хватаешь 
+<ce> %g3 за запястье, и хотя %g1 не оказывает 
+<ce> сопротивления, %g1 кричит: "Н-помогите! Враги! Они 
+<ce> идут, чтобы забрать меня!!!"
 
 Message:  1012
-<ce> A serious-looking group from the Temple of Julianos
-<ce> have found you. They take _apoc_ from your custody
-<ce> and lead %g2 to ___qgiver_.
-<ce> Your reward is forfeit.
+<ce> Тебя нашла серьезно выглядящая группа из 
+<ce> храма Джулианоса. Они забирают _apoc_ из-под 
+<ce> твоей опеки и ведут %g3 к ___qgiver_. Твоя 
+<ce> награда теряет силу.
 
 Message:  1030
 %qdt:
-__qgiver_ of
-___qgiver_ has asked me to travel
-to ___magery_ to find a =apoc_
-named _apoc_ inside the Mages Guild.
-I am to return within =timer_ days
-with %g2.
+__qgiver_ из ___qgiver_ 
+попросил меня отправиться в 
+___magery_, чтобы найти =apoc_ 
+по имени _apoc_ внутри Гильдии 
+Магов. Я должен вернуться в 
+течение =timer_ дней.
 
 QBN:
 Person _qgiver_ group Questor
