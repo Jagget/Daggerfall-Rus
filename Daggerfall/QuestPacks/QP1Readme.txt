@@ -5,7 +5,7 @@
 * FightersGuild (0/52)
 * KnightlyOrders (0/49)
 * MagesGuild (0/32)
-* Misc (0/33)
+* Misc (33/33) - Готово
 * Noble (4/4) - Готово
 * Temples (15/15) - Готово
 * ThievesGuild (0/33)
