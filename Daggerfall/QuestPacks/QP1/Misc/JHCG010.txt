@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG010
-DisplayName: Cartographer Rank 1
+DisplayName: Картограф 1-го ранга
 -- Message panels
 QRC:
 

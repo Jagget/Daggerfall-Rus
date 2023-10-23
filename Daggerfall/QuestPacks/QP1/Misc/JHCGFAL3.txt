@@ -1,6 +1,6 @@
 -- Cartographers Quest, Rank 3 Failsafe
 Quest: JHCGFAL3
-DisplayName: Диверсия неудачи Картографа, Ранг 3
+DisplayName: Картограф. Уклонение от неудачи, Ранг 3
 -- Message panels
 QRC:
 

@@ -1,6 +1,6 @@
 -- Cartographers Quest, Rank 1 Failsafe
 Quest: JHCGFAIL
-DisplayName: Диверсия неудачи Картографа
+DisplayName: Картограф. Уклонение от неудачи
 -- Message panels
 QRC:
 

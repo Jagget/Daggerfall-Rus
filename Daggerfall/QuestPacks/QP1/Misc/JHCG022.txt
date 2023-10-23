@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG022
-DisplayName: Шабаша на Блафе
+DisplayName: Шабаш на Блафе
 -- Message panels
 QRC:
 
