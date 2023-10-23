@@ -1,6 +1,6 @@
 -- Cartographers Quest, Rank 1 Failsafe
 Quest: JHCGFAIL
-DisplayName: Cartographer Failure Diversion
+DisplayName: Диверсия неудачи Картографа
 -- Message panels
 QRC:
 
@@ -17,36 +17,36 @@ QuestFail:  [1003]
 <ce> ERROR 1003 JHCGFAIL
 
 QuestComplete:  [1004]
-<ce> Ah, this is very good news. I was worried
-<ce> we had lost you. If you need, take a breather
-<ce> and get your head sorted out. We want you
-<ce> to be in top shape for the work we do. I'll send
-<ce> a letter to our communications officers that you're
-<ce> still willing to work. Thank you, %pcf.
+<ce> А, это очень хорошая новость. Я волновался,
+<ce> что мы тебя потеряли. Если нужно, сделай передышку
+<ce> и разберись со своей головой. Мы хотим, чтобы ты
+<ce> был в отличной форме для той работы, которую мы выполняем. Я отправлю
+<ce> письмо нашим офицерам по связям с общественностью о том, что ты
+<ce> все еще готов работать. Спасибо, %pcf.
 
 Message:  1010
-<ce> A middle-aged, well-dressed courier draws near.
-<ce> "%pcf, right? I've got some mail for you.
-<ce> Here, take this. Have a good day."
+<ce> Приближается хорошо одетый курьер средних лет.
+<ce> "%pcf, верно? У меня для тебя есть кое-какая почта.
+<ce> Вот, возьми. Хорошего дня".
 
 Message:  1011
-  %pcn,
+%pcn,
+
+Я беспокоюсь по поводу твоего отсутствия. В прошлом
+месяце мы дали тебе задание, но оно осталось
+незаконченным, и теперь у нас нет никаких сведений
+относительно твоего решения. Если ты хочешь
+расстаться с нами, не отвечай на это письмо.
+Мы поймем и примем это. Если же твое упущение
+было ошибочным, и ты хочешь продолжить работу
+с нами, пожалуйста, приди и поговори со мной.
+Мы хотим снова включить тебя в работу. Я останусь
+здесь еще =timer_ дней.
  
-  I am worried regarding your absence. We gave
-  you an assignment last month, but it went
-  unfinished and now we have no knowledge
-  concerning your decision. If you wish to part from
-  working with us, give no response to this letter.
-  We will understand and accept it. If your omission
-  was in error and you wish to continue working with
-  us, please come speak to me. We wish to integrate
-  you into our work cycle once more. I will remain
-  here for =timer_ more days.
- 
-                         _qg_
-                         Pathfinder
-                         The Cartographers
-                         ___place_, ____place_
+                    _qg_
+                    Следопыт
+                    Ассоциация Картографов
+                    ___place_, ____place_
 
 QBN:
 Item _letter_ letter used 1011

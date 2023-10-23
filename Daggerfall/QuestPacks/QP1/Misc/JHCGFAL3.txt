@@ -1,6 +1,6 @@
 -- Cartographers Quest, Rank 3 Failsafe
 Quest: JHCGFAL3
-DisplayName: Cartographer Failure Diversion Rank 3
+DisplayName: Диверсия неудачи Картографа, Ранг 3
 -- Message panels
 QRC:
 
@@ -17,36 +17,36 @@ QuestFail:  [1003]
 <ce> ERROR 1003 JHCGFAL3
 
 QuestComplete:  [1004]
-<ce> What a relief. Thank you for following up,
-<ce> Pathfinder. I'll let our coordinators know
-<ce> this was just a fluke and not a desertion.
-<ce> If you ever need to move on and end your
-<ce> service with us, we'll understand. We just
-<ce> hope to get as much work out of you
-<ce> as we can until that time comes.
+<ce> Какое облегчение. Спасибо за последующие действия,
+<ce> Следопыт. Я сообщу нашим координаторам, что
+<ce> что это была просто случайность, а не дезертирство.
+<ce> Если ты когда-нибудь решишь завершить свою
+<ce> службу у нас, мы поймем. Мы просто
+<ce> надеемся получить от тебя выгоду и
+<ce> как можно больше, пока это время не наступило.
 
 Message:  1010
-<ce> A courier, not much older than a child, pulls a letter
-<ce> out of his bag and silently hands it to you.
+<ce> Курьер, не намного старше ребенка, достает письмо
+<ce> из своей сумки и молча протягивает его тебе.
    <--->
-<ce> A courier, not much older than a child, pulls a letter
-<ce> out of her bag and silently hands it to you.
+<ce> Курьер, не намного старше ребенка, достает письмо
+<ce> из своей сумки и молча протягивает его тебе.
 
 Message:  1011
-  Pathfinder,
+Следопыт,
+
+Я пишу это, надеясь, что тебя не постигла никакая беда.
+Ты не справился с последним заданием, и с тех пор
+мы ничего не знаем о тебе. Если ты
+просто совершил ошибку и хочешь продолжить службу,
+то, пожалуйста, встреться со мной здесь до того, как пройдет
+=timer_ дней прошло. Я искренне надеюсь, что ты
+сможешь и дальше служить нам.
  
-  I write this hoping that no ill has come upon you.
-  You came up short on your last assignment, and
-  since then we have known nothing of you. If you
-  merely made a mistake and wish to continue in
-  our service, please meet me here before
-  =timer_ days have passed. I sincerely hope you
-  will be able to continue to serve us.
- 
-                         _qg_
-                         Trailblazer
-                         The Cartographers
-                         ___place_, ____place_
+                    _qg_
+                    Первопроходец
+                    Ассоциация Картографов
+                    ___place_, ____place_
 
 QBN:
 Item _letter_ letter used 1011

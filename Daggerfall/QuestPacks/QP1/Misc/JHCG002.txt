@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG002
-DisplayName: Dungeon Hunter
+DisplayName: Охотник за подземельями
 -- Message panels
 QRC:
 
@@ -14,79 +14,79 @@ AcceptQuest:  [1002]
 <ce> ERROR 1002 JHCG002
 
 QuestFail:  [1003]
-<ce> The Cartographers needed you to report
-<ce> on __dung_'s location by now.
+<ce> На данный момент ты нужен был уже сообщить Картографам 
+<ce> о местонахождении __dung_.
 
 QuestComplete:  [1004]
-<ce> Wonderful work, %pcf. Thank you for
-<ce> bringing me this report. I promise you lives
-<ce> will be saved through this simple little trip
-<ce> you made. We have a bit of money set apart
-<ce> for you, so please take it. We'll be in touch.
+<ce> Замечательная работа, %pcf. Спасибо тебе за то, что
+<ce> принес мне этот отчет. Я обещаю, что жизни
+<ce> будут спасены благодаря этой простой маленькой поездке
+<ce> которую ты совершил. Мы приготовили немного денег
+<ce> для тебя, так что, пожалуйста, возьми их. Мы будем на связи.
 
 Message:  1010
-<ce> You hear someone calling your name. Before
-<ce> you can so much as turn around, a paper is
-<ce> pushed into your hand, and the young man
-<ce> who brought it to you is marching away.
+<ce> Ты слышишь, как кто-то зовет тебя по имени. 
+<ce> Прежде чем ты успеваешь обернуться, тебе 
+<ce> в руку суют бумажку. А молодой человек,
+<ce> который принес ее тебе, уходит.
    <--->
-<ce> You hear someone calling your name. Before
-<ce> you can so much as turn around, a paper is
-<ce> pushed into your hand, and the young woman
-<ce> who brought it to you is marching away.
+<ce> Ты слышишь, как кто-то зовет тебя по имени. 
+<ce> Прежде чем ты успеваешь обернуться, тебе 
+<ce> в руку суют бумажку. А девушка,
+<ce> которая принесла ее тебе, уходит.
 
 Message:  1011
   %pcn,
  
-  We have an urgent assignment for you.
-  The city guard need help planning an assault.
-  They have decided to squash a nest of criminals
-  operating out of __dung_, but to plan
-  properly, they need exact directions. If you need
-  a general idea of where the hole is, come see me.
-  Please go scout it and inform me of its location.
-  They told me they need this report within =timer_ days.
+  У нас есть для тебя срочное задание.
+  Городской страже нужна помощь в планировании нападения.
+  Они решили раздавить гнездо преступников.
+  действующих из __dung_, но для правильного планирования
+  им нужны точные указания. Если тебе нужно
+  общее представление о том, где находится эта дыра, зайди ко мне.
+  Пожалуйста, сходи на разведку и сообщи мне о её местонахождении.
+  Они сказали мне, что им нужен этот отчет в течение =timer_ дней.
  
-                         _qg_
-                         Wanderer, Field Officer
-                         The Cartographers
-                         ___place_, ____place_
+                _qg_
+                Исследователь, полевой офицер
+                Ассоциация Картографов
+                ___place_, ____place_
 
 Message:  1012
-<ce> Welcome, %pcf. Exciting, isn't it?
-<ce> We get to promote the general welfare with
-<ce> our exploration skills. We might offer this to
-<ce> one of our higher-ranking members due to
-<ce> its time limit, but we want to see how you
-<ce> perform. Let me mark __dung_
-<ce> on your map. I will wait here for you. Remember
-<ce> that they gave us a time limit. Safe travels.
+<ce> Добро пожаловать, %pcf. Захватывающе, не правда ли?
+<ce> Мы будем поспособствуем всеобщему благу с помощью
+<ce> наших навыков разведки. Мы можем предложить это задание
+<ce> одному из наших членов более высокого ранга из-за
+<ce> ограничения по времени, но мы хотим посмотреть, как ты себя проявишь.
+<ce> Позволь мне отметить __dung_
+<ce> на твоей карте. Я буду ждать тебя здесь. Помни,
+<ce> что время ограничено. Счастливого пути.
 
 Message:  1013
-<ce> You're certain this is __dung_. Now
-<ce> to tell _qg_ of its location so
-<ce> the guards can begin their assault.
+<ce> Ты уверен, что это __dung_. Теперь
+<ce> сообщить _qg_ о его местонахождении, чтобы
+<ce> стражники могли начать штурм.
    <--->
-<ce> This must be __dung_. You take note
-<ce> of the directions and surroundings so
-<ce> the town guard will know how to arrive.
+<ce> Это, должно быть, __dung_. Ты записываешь
+<ce> направления, приметы и окрестности, чтобы
+<ce> городская стража знала, как сюда добраться.
 
 Message:  1030
 %qdt:
- ____place_ needs my help to
- locate __dung_, where a
- criminal group is hiding. I can ask
- _qg_ in ___place_ for a
- general idea of where it is.
- I should bring my report to %g2
- within =timer_ days' time.
+  ____place_ нуждается в моей помощи, чтобы
+ определить местонахождение __dung_, где 
+ скрывается преступная группировка. Я могу спросить
+ _qg_ в ___place_ о
+ примерном местонахождении.
+ Я должен принести %g2 свой отчет
+ в течение =timer_ дней времени.
 
 Message:  1099
-<ce> We're counting on you to give
-<ce> precise instructions on where to
-<ce> find __dung_. What
-<ce> a thrill it is to save lives
-<ce> through our simple work!
+<ce> Мы рассчитываем на то, что ты дашь
+<ce> точные инструкции о том, где
+<ce> найти __dung_. Какой
+<ce> восторг - спасать жизни людей
+<ce> благодаря нашей простой работе!
 
 QBN:
 Item _reward_ gold range 150 to 200

@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG021
-DisplayName: Tomb of the Unknown...
+DisplayName: Гробница Неизвестного...
 -- Message panels
 QRC:
 
@@ -18,78 +18,77 @@ QuestFail:  [1003]
 <ce> unmarked tomb has expired.
 
 QuestComplete:  [1004]
-<ce> Not what you were expecting, right Pathfinder?
-<ce> We Cartographers make different maps for
-<ce> different purposes. The place we just sent you
-<ce> to won't be on ordinary maps, I can say that
-<ce> much. Take your pay, and see if anyone will
-<ce> believe what you've witnessed.
+<ce> Не то, что ты ожидал, правда Следопыт?
+<ce> Мы, картографы, делаем разные карты для
+<ce> разных целей. То место, куда мы только что отправили тебя,
+<ce> не появится на обычных картах, это я могу сказать точно.
+<ce> Получи свою плату и посмотри, поверит ли кто-нибудь
+<ce> в то, чему ты был свидетелем.
 
 Message:  1010
-<ce> You realize a message has found its way
-<ce> into your belongings without your noticing.
+<ce> Ты понимаешь, что сообщение нашло свой путь
+<ce> в твои вещи незаметно для тебя.
    <--->
-<ce> There's a letter in your pack which carries
-<ce> the compass seal of the Cartographers.
+<ce> В твоей сумке лежит письмо, на котором стоит
+<ce> печать компаса Картографов.
 
 Message:  1011
-  Pathfinder,
+  Следопыт,
  
-  We have a mission which will require you to scout
-  a location I cannot name at this time. Please see
-  me for directions on how to reach it. All I can say
-  is that it is a tomb that carries great meaning for
-  the people of High Rock. This assignment will
-  last for =timer_ days.
+  У нас есть задание, которое потребует от тебя разведать
+  место, которое я сейчас не могу назвать. Пожалуйста, обратись
+  ко мне за указаниями, как туда добраться. Всё, что я могу сказать,
+  это то, что это гробница, которая имеет большое значение для
+  жителей Хай Рока. На это задание у тебя есть =timer_ дней.
  
-                         _qg_
-                         Master Assistant
-                         The Cartographers
-                         ___place_, ____place_
+                    _qg_
+                    Ассистент Мастера
+                    Ассоциация Картографов
+                    ___place_, ____place_
 
 Message:  1012
-<ce> Pathfinder, well met. We are sending you
-<ce> to Menevia. Begin at the village of Westcastle.
-<ce> From the House of Dibella, walk straight south.
-<ce> Your destination will be visible after the second
-<ce> hill you cross. It's a small building made of brick
-<ce> with an odd-looking roof that stretches over it,
-<ce> like an awning. Venture inside if you wish for
-<ce> curiosity's sake, but I urge caution. We have
-<ce> lost enough people inside that cavern. I will
-<ce> hear from you before =timer_ days are up.
+<ce> Следопыт, приятно тебя встретить. Мы отправляем тебя
+<ce> в Меневию. Начни с деревни Весткасл.
+<ce> От Дома Дибеллы иди прямо на юг.
+<ce> Твой пункт назначения будет виден после второго
+<ce> холма, который ты пересечешь. Это небольшое здание из кирпича.
+<ce> со странной на вид крышей, которая простирается над ним,
+<ce> как навес. Загляни внутрь, если хочешь, 
+<ce> любопытства ради, но я призываю к осторожности. Мы уже
+<ce> потеряли достаточно людей в этой пещере. Я хочу
+<ce> получить от тебя весточку до истечения =timer_ дней.
 
 Message:  1013
-<ce> This must be the mysterious tomb.
+<ce> Должно быть, это и есть та самая таинственная гробница.
    <--->
-<ce> You see the tomb before you. Now to
-<ce> return to _qg_.
+<ce> Ты видишь перед собой гробницу. Теперь нужно
+<ce> вернуться к _qg_.
 
 Message:  1030
 %qdt:
- The Cartographers have sent me
- to scout a nameless tomb. I
- should speak to _qg_ at
- ___place_ in ____place_
- for directions on where it is.
- I have =timer_ days to see it
- and return.
+ Картографы послали меня
+ разведать безымянную гробницу. Я
+ должен поговорить с _qg_ в
+ ___place_ в ____place_, чтобы
+ узнать, где она находится.
+ У меня есть =timer_ дней, чтобы 
+ увидеть ее и вернуться.
 
 Message:  1031
 %qdt:
- The Cartographers instructed me
- on how to find the tomb. I should
- start in the village of Westcastle in
- Menevia. Beginning at the House of
- Dibella, I should walk south across two
- hills. The tomb should be in front of me
- then, a small brick building.
+ Картографы проинструктировали меня
+ как найти гробницу. Мне следует
+ начать в деревне Весткасл в
+ Меневии. Начиная от Дома
+ Дибеллы, я должен пройти на юг через два
+ холма. Передо мной должна быть гробница - 
+ небольшое кирпичное здание.
 
 Message:  1099
-<ce> The place should be pretty easy to find.
-<ce> I don't know that it's more than a few hundred
-<ce> steps out. Follow the directions and come
-<ce> back here when you've found it.
+<ce> Это место должно быть довольно легко найти.
+<ce> Я не уверен, но там не больше нескольких сотен
+<ce> шагов до выхода. Следуй указаниям и
+<ce> вернись сюда, когда найдешь его.
 
 QBN:
 Item _reward_ gold range 700 to 799

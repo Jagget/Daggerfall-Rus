@@ -1,34 +1,34 @@
 Quest: JHCAPpassive
-DisplayName: The Werewolf Hunt Passive Income
+DisplayName: Охота на оборотня. Пассивный доход
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> A messenger arrives, bringing you a sack with coins.
-<ce> Your passive income from the werewolf job has arrived.
+<ce> Прибывает гонец, который приносит тебе мешочек с монетами.
+<ce> Твой пассивный доход от решения проблемы с оборотнем прибыл.
    <--->
-<ce> A messenger arrives, bringing you a sack with coins.
-<ce> You find a note of gratitude for slaying the werewolf,
-<ce> and your share for this week.
+<ce> Прибывает посыльный, который приносит тебе мешочек с монетами.
+<ce> Ты находишь записку с благодарностью за убийство оборотня,
+<ce> и свою долю за эту неделю.
    <--->
-<ce> A messenger gives you a sack of coins.
-<ce> Your passive income from the werewolf hunt has arrived.
+<ce> Посыльный вручает тебе мешочек с монетами.
+<ce> Твой пассивный доход от охоты на оборотней прибыл.
    <--->
-<ce> A courier identifies you and gives you some coins.
-<ce> You are told that it's the money promised by the farmers
-<ce> for killing the werewolf.
+<ce> Курьер опознает тебя и дает несколько монет.
+<ce> Вам говорят, что это деньги, обещанные фермерами
+<ce> за убийство оборотня.
    <--->
-<ce> A courier hands you a bag with coins.
-<ce> The farmers have sent you your weekly share.
+<ce> Курьер вручает тебе мешочек с монетами.
+<ce> Фермеры прислали тебе твою еженедельную долю.
 
 Message:  1010
-<ce> A courier arrives with no more than a note. It says:
+<ce> Курьер приезжает всего лишь с запиской. В ней говорится:
 <ce>
 %pcn
 <ce>
-Our sincerest apologies. We tried our hardest, but the farms
-are underwater. We've gone bankrupt. We thank you for slaying
-the werewolf but can no longer pay you dividends.
+Приносим наши самые искренние извинения. Мы старались изо всех сил, но 
+фермы оказались затоплены. Мы стали банкротами. Мы благодарим тебя за 
+истребление оборотня, но больше не можем выплачивать тебе дивиденды.
 
 QBN:
 Item _reward_ gold range 100 to 250

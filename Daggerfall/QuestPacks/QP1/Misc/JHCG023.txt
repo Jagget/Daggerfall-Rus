@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG023
-DisplayName: Direnni Tower
+DisplayName: Башня Диренни
 -- Message panels
 QRC:
 
@@ -14,70 +14,70 @@ AcceptQuest:  [1002]
 <ce> ERROR 1002 JHCG023
 
 QuestFail:  [1003]
-<ce> You needed to travel to Direnni Tower by now.
+<ce> Тебе уже нужно было отправиться в Башню Диренни.
 
 QuestComplete:  [1004]
-<ce> They say Direnni Tower is one of the oldest
-<ce> buildings in all of Tamriel. Well, that's what
-<ce> they say. Who knows how true it is. I hope
-<ce> you enjoyed the scenic trip, Pathfinder.
-<ce> Have your assignment fee.
+<ce> Говорят, что Башня Диренни - одно из самых старых
+<ce> зданий во всем Тамриэле. Ну, это то, что
+<ce> говорят. Кто знает, насколько это правда. Надеюсь, что
+<ce> тебе понравилось живописное путешествие, Следопыт.
+<ce> Держи свой гонорар за задание.
 
 Message:  1010
-<ce> A courier presents a scroll to you.
-<ce> "From the Cartographers," he says
-<ce> before leaving for other ventures.
+<ce> Курьер вручает тебе свиток.
+<ce> "От Картографов", - говорит он
+<ce> перед тем, как отправиться по делам.
    <--->
-<ce> A courier presents a scroll to you.
-<ce> "From the Cartographers," she says
-<ce> before leaving for other ventures.
+<ce> Курьер вручает тебе свиток.
+<ce> "От Картографов", - говорит она
+<ce> перед тем, как отправиться по делам.
 
 Message:  1011
-  Pathfinder,
+  Следопыт,
  
-  We need a chart from Direnni Tower to here.
-  That's on the Isle of Balfiera. It's a fairly simple trip
-  if you know how to make it. If not, come see me and
-  I'll orient you as best I can. We give you =timer_ days.
+  Нам нужна карта от Башни Диренни до сюда.
+  Это находится на Острове Балфиера. Это довольно простое путешествие
+  если ты знаешь, куда ехать. Если нет, приходи ко мне и
+  я сориентирую тебя, как смогу. Мы даем тебе =timer_ дней.
  
-                         _qg_
-                         Master Assistant
-                         The Cartographers
-                         ___place_, ____place_
+                    _qg_
+                    Ассистент Мастера
+                    Ассоциация Картографов
+                    ___place_, ____place_
 
 Message:  1012
-<ce> Very good, Pathfinder. Show me your map. Look
-<ce> first at the Isle of Balfiera. There's this city in
-<ce> the middle of the greatest land mass, Singbury.
-<ce> Start there and head east. From there it'll just
-<ce> be wilderness for a long while. It shouldn't be too
-<ce> hard to see the tower itself. All the other vegetation
-<ce> is generally quite low to the ground. Come here
-<ce> afterwards and present your report. Best of luck.
+<ce> Очень хорошо, Следопыт. Покажи мне свою карту. Посмотри
+<ce> сначала на Остров Балфиера. Там есть один город в
+<ce> центре самого большого массива суши, Сингбери.
+<ce> Начни оттуда и двигайся на восток. Дальше это будет просто
+<ce> дикая местность. Саму башню не должно быть слишком
+<ce> трудно заметить. Вся остальная растительность
+<ce> как правило, находится довольно низко к земле. Приходи сюда
+<ce> после этого и представь свой отчет. Желаю удачи.
 
 Message:  1013
-<ce> This has to be Direnni Tower.
+<ce>Это, должно быть, Башня Диренни.
    <--->
-<ce> Birds circle this enormous stone tower. This
-<ce> must be what the Cartographers sent you for.
+<ce> Птицы кружат вокруг этой огромной каменной башни. Это
+<ce> должно быть то, за чем тебя послали Картографы.
 
 Message:  1030
 %qdt:
- _qg_, of ___place_ in
- ____place_, has sent me to Direnni
- Tower to chart the distance. I have
- =timer_ days to do so.
+ _qg_, из ___place_ в
+ ____place_, отправил меня в Башню
+ Диренни, чтобы нарисовать карту. У меня есть
+ =timer_ дней, чтобы сделать это.
 
 Message:  1031
 %qdt:
- To reach Direnni Tower, I should start
- in Singbury and go east. It should
- just be a long walk until I see it.
+ Чтобы добраться до Башни Диренни, я должен начать
+ в Сингбери и пойти на восток. Нужно просто
+ долго идти, пока я не увижу её.
 
 Message:  1099
-<ce> It's an enormous stone tower,
-<ce> in great contrast to the surrounding
-<ce> area. It should stick out quite clearly.
+<ce> Это огромная каменная башня,
+<ce> сильно контрастирующая с окружающей
+<ce> местностью. Она должна выделяться довольно четко.
 
 QBN:
 Item _reward_ gold range 800 to 899

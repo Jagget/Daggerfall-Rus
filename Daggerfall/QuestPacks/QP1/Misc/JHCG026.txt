@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG026
-DisplayName: Castle Necromoghan
+DisplayName: Замок Некромоган
 -- Message panels
 QRC:
 
@@ -14,94 +14,95 @@ AcceptQuest:  [1002]
 <ce> ERROR 1002 JHCG026
 
 QuestFail:  [1003]
-<ce> Your assignment to scout Castle
-<ce> Necromoghan has now run over.
+<ce> Твое задание разведать Замок
+<ce> Некромоган уже закончилось.
 
 QuestComplete:  [1004]
-<ce> Very good, Pathfinder. Did you take a look
-<ce> inside? Others have told me about awful moaning
-<ce> they hear from its depths. I'm happy to assign
-<ce> others to it all day long, even if it were to come
-<ce> out of my own pay. Speaking of pay, here's yours.
+<ce> Очень хорошо, Следопыт. Ты заглянул
+<ce> внутрь? Другие рассказывали мне об ужасных стонах
+<ce> которые они слышат из его глубин. Я с удовольствием дам
+<ce> другим работать над этой тайной, даже если будет оплачено
+<ce> из моей собственной зарплаты. Кстати, о зарплате, вот твоя.
 
 Message:  1010
-<ce> "Letter, %pcf! The Cartographers!" A courier
-<ce> cheerfully puts a letter into your hands before
-<ce> turning and walking away.
+<ce> "Письмо, %pcf! Картографы!" Курьер
+<ce> радостно вкладывает тебе в руки письмо, после чего
+<ce> поворачивается и уходит.
    <--->
-<ce> A courier waves to you. "Hey, %ra! You're
-<ce> that Pathfinder with the Cartographers, right?
-<ce> This is for you!" You receive a letter.
+<ce> Курьер машет тебе рукой. "Привет, %ra! Ты ведь
+<ce> тот Следопыт с Картографами, верно?
+<ce> Это для тебя!" Ты получаешь письмо.
 
 Message:  1011
-  Pathfinder,
+  Следопыт,
  
-  We have an assignment which requires something
-  of etiquette. Please do not divulge widely the terms
-  of this mission. We need to send you to Castle
-  Necromoghan in Daggerfall. If you do not understand
-  the significance of it, do not ask. You have =timer_
-  days to bring your report. Ask me if you need directions.
-  Be certain to physically enter the location in this case
-  to provide us with the most accurate chart possible.
+  У нас есть задание, которое требует соблюдения некоторого
+  этикета. Пожалуйста, не разглашайте широко условия
+  этого задания. Нам нужно отправить тебя в Замок
+  Некромоган в Даггерфолле. Если ты не понимаешь
+  значение этого, не спрашивай. У тебя есть =timer_
+  дней, чтобы принести свой отчет. Спроси меня, если тебе нужны указания.
+  Не забудь в этом случае заглянуть внутрь,
+  чтобы предоставить нам максимально точную карту.
  
-                         _qg_
-                         Master Assistant
-                         The Cartographers
-                         ___place_, ____place_
+                    _qg_
+                    Ассистент Мастера
+                    Ассоциация Картографов
+                    ___place_, ____place_
 
 Message:  1012
-<ce> Before we begin, %pcf, I must emphasize
-<ce> once again the deep importance that no one know
-<ce> you are going to visit the place. Castle Necromoghan
-<ce> is not meant to be publicly known. We put it on some
-<ce> maps, not on all of them.
+<ce> Прежде чем мы начнем, %pcf, я должен подчеркнуть
+<ce> еще раз глубокую важность того, чтобы никто не знал.
+<ce> что ты собираешься посетить это место. Местоположение
+<ce> Замка Некромоган не предназначено для широкой публики.
+<ce> Мы нанесли его на некоторые карты, но не на все.
  
-<ce> To arrive, I recommend beginning at the Singing Seer
-<ce> of Kynareth in the Daggerfall region. Press yourself against
-<ce> the northwesternmost house in the little community there.
-<ce> Then walk straight north. It's a bit of a trek, but it is supposed
-<ce> to be hidden, after all. Look for a mound in the earth with
-<ce> a decrepit door, lying before a small pond. There is no castle.
-<ce> My theory is that the name is meant to make people go look
-<ce> for a real castle and leave that place alone. But in any case,
-<ce> those instructions will be sufficient. You could alternatively
-<ce> start at The Old Yeomsley Shack and go east or Blessed Ascencion
-<ce> of Kynareth and go west. Castle Necromoghan is where
-<ce> all these points meet. And remember, we've given you =timer_ days.
+<ce> Чтобы туда добраться, я рекомендую начать с Поющего Провидеца
+<ce> Кинарет в районе Даггерфолла. Прижмись к
+<ce> самому северо-западному дому в тамошней маленькой общине.
+<ce> Затем иди прямо на север. Это небольшой поход, но он должен быть
+<ce> быть тайным, в конце концов. Ищи курган в земле с
+<ce> ветхой дверью, лежащий перед небольшим прудом. Никакого замка там нет.
+<ce> Моя теория заключается в том, что такое название 
+<ce> призвано заставить людей пойти искать настоящий большой
+<ce> замок и оставить это место в покое. Но в любом случае,
+<ce> этих инструкций будет достаточно. В качестве альтернативы ты можешь
+<ce> начать со Старой Лачуги Йеомсли и идти на восток или Благословенного Вознесения
+<ce> Кинарет и иди на запад. Замок Некромоган находится там, где
+<ce> встречаются все эти точки. И помни, что мы дали тебе =timer_ дней.
 
 Message:  1013
-<ce> You've found Castle Necromoghan. The name is far
-<ce> more justified below ground than above it.
+<ce> Ты нашел Замок Некромоган. Это название гораздо
+<ce> более оправдано под землей, чем над ней.
    <--->
-<ce> Strange as it must be, this has to be Castle Necromoghan.
+<ce> Как ни странно, это должен быть Замок Некромоган.
 
 Message:  1030
 %qdt:
- I've been sent to make a chart for
- the Cartographers from Castle
- Necromoghan to ___place_ in
- ____place_. I can go there to ask
- _qg_ for directions. I'll
- need to enter the castle to
- make my chart properly.
+ Меня послали составить карту для
+ Картографов от Замка
+ Некромоган до ___place_ в
+ ____place_. Я могу пойти туда, или спросить
+ _qg_ о подсказах. Мне
+ нужно войти в замок, чтобы
+ составить полноценую карту.
 
 Message:  1031
 %qdt:
- The recommendation is to begin at
- Singing Seer of Kynareth in the
- Daggerfall region, at the house
- furthest to the northwest, and walk
- straight north. Castle Necromoghan
- will be a little mound in the earth.
- It's where Singing Seer of Kynareth,
- The Old Yeomsley Shack, and Blessed
- Ascencion of Kynareth meet.
+ Рекомендуется начать с
+ Поющего Провидеца Кинарет в
+ регионе Даггерфолл, у дома
+ расположенном дальше всего на северо-западе, и идти
+ прямо на север. Замок Некромоган
+ будет представлять собой небольшой курган в земле.
+ Он так же находится там, где встречаются линии от
+ Поющего Провидеца Кинарет, Старой Лачуги
+ Йеомсли, и Благословенного Вознесения Кинарет.
 
 Message:  1099
-<ce> Castle Necromoghan is meant to
-<ce> be hard to find. Look where those
-<ce> three points converge. You'll see it.
+<ce> Замок Некромоган должен
+<ce> быть труднодоступным. Посмотри, где сходятся эти
+<ce> три точки сходятся. Ты заметишь.
 
 QBN:
 Item _reward_ gold range 600 to 699

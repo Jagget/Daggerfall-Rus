@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG012
-DisplayName: To Shedungent
+DisplayName: В Шедунгент
 -- Message panels
 QRC:
 
@@ -14,94 +14,94 @@ AcceptQuest:  [1002]
 <ce> ERROR 1002 JHCG012
 
 QuestFail:  [1003]
-<ce> Your assignment to provide a chart
-<ce> from Shedungent has expired.
+<ce> Ваше задание по предоставлению карты
+<ce> из Шедунгента истекло.
 
 QuestComplete:  [1004]
-<ce> As I might have mentioned, we'll probably be
-<ce> sending you back to Shedungent time and again.
-<ce> Queen Aubk-i has a particular interest in her
-<ce> grandmother-in-law's dwelling place. But once
-<ce> you know where it is, this is easy money.
+<ce> Как я уже мог упомянуть, мы, вероятно, будем
+<ce> отправлять тебя обратно в Шедунгент снова и снова.
+<ce> Королева Аубк-и проявляет особый интерес к
+<ce> обители своей свекрови. Но как только
+<ce> ты узнаешь, где оно находится, это легкие деньги.
 
 Message:  1010
-<ce> A young adult in the employ of a courtier hands
-<ce> you a letter. "You must be %pcf.
-<ce> This belongs to you." He then moves on.
+<ce> Юноша, находящийся на службе у придворного, вручает
+<ce> тебе письмо. "Ты, должно быть, %pcf.
+<ce> Это тебе". Затем он идет дальше.
    <--->
-<ce> A young adult in the employ of a courtier hands
-<ce> you a letter. "You must be %pcf.
-<ce> This belongs to you." She then moves on.
+<ce> Девушка, находящийся на службе у придворного, вручает
+<ce> тебе письмо. "Ты, должно быть, %pcf.
+<ce> Это тебе". Затем она идет дальше.
 
 Message:  1011
   %pcf,
  
-  I can't remember whether we've sent you
-  to Shedungent yet, in the Wrothgarian
-  Mountains. If so, please forgive us for
-  this assignment. You will be paid as well as
-  in every other case. We need you to chart
-  the distance from there to here. Speak to
-  me if you need directions to it. This needs
-  to be done within =timer_ days.
+  Я не помню, отправляли ли мы тебя
+  В Шедунгент, во Вротгарианские горы.
+  Горы. Если да, то, пожалуйста, прости нас за
+  это задание. Тебе будет выплачено вознаграждение, как и
+  во всех остальных случаях. Нам нужно, чтобы ты составил карту
+  расстояний от туда до сюда. Поговори со мной,
+  если тебе нужны указания как добраться до этого места. Это нужно
+  сделать в течение =timer_ дней.
  
-                   _qg_
-                   Master Assistant
-                   The Cartographers
-                   ___place_, ____place_
+                _qg_
+                Исследователь, полевой офицер
+                Ассоциация Картографов
+                ___place_, ____place_
 
 Message:  1012
-<ce> Always a pleasure, %pcf. Shedungent is quite far out there,
-<ce> which makes it an important target to chart once and again.
-<ce> The former Queen Mother, Nulfaga, is also there. We try
-<ce> not to bother her for good reasons.
+<ce> Всегда рад, %pcf. Шедунгент находится довольно далеко от нас,
+<ce> что делает его важной целью, которую нужно раз за разом наносить на карту.
+<ce> Бывшая королева-мать, Нульфага, также находится там. Мы стараемся
+<ce> не беспокоить ее без уважительной причины.
  
-<ce>If you don't know where it is, I will warn you it isn't easy to find.
-<ce> It's east of Kieran Theatre and south of The Hearthhouse Tombs.
-<ce> Go to Longwell in the Wrothgarian Mountains. Leave to the
-<ce> south-southeast until you're directly between The Greensley
-<ce> Plantation and The Greensly Farmstead. From there, head directly south.
-<ce> It's in a low point in the ground, so use the hills to your advantage.
+<ce> Если ты не знаешь, где он находится, то предупрежу, что найти его нелегко.
+<ce> Он находится к востоку от Театр Киран и к югу от Гробницы Хартхаус.
+<ce> Отправляйся в Лонгвелл в Вротгарианских горах. Иди на
+<ce> юго-юго-восток, пока не окажешься прямо между Плантацией Гринсли
+<ce> и Усадьбой Гринсли. Оттуда направляйся прямо на юг.
+<ce> Шедунгент находится в низине, поэтому холмы - твои помощники.
  
-<ce> Alternatively you could start from The Greensley Plantation and
-<ce> go east-southeast, but that'll usually get you lost pretty fast.
-<ce> Just keep looking around there. I assure you it's there, somewhere.
-<ce> It's a peculiar building, all black with a staircase up one side and a
-<ce> straw roof. Come back when you've found it, in no more than =timer_ days.
+<ce> В качестве альтернативы ты можешь начать с Плантации Гринсли и
+<ce> идти на восток-юго-восток, но так ты быстро заблудишься.
+<ce> Просто продолжай смотреть по сторонам. Уверяю тебя, он где-то там.
+<ce> Это необычное здание, полностью черное, с лестницей на одной стороне и
+<ce> соломенной крышей. Возвращайся, как найдешь его, не позже чем через =timer_ дней.
 
 Message:  1013
-<ce> You recognize this as Shedungent.
-<ce> It's time to get back to ___qg_.
+<ce> Ты узнаешь Шедунгент.
+<ce> Пришло время вернуться к ___qg_.
    <--->
-<ce> Now that you've scouted Shedungent,
-<ce> it's time to give your report to _qg_.
+<ce> Теперь, когда ты разведал Шедунгент,
+<ce> пришло время предоставить свой отчет _qg_.
 
 Message:  1030
 %qdt:
- I've been assigned to map
- the distance from Shedungent
- to ___place_ in
- ____place_. I have =timer_
- days to travel to do this and
- report to _qg_.
+ Мне поручили составить карту
+ расстояний от Шедунгента
+ до ___place_ в
+ ____place_. У меня есть =timer_
+ дней, чтобы добраться туда и
+ отчитаться перед _qg_.
 
 Message:  1031
 %qdt:
- _qg_ gave me these steps
- to reach Shedungent. From Longwell,
- I can go south-southeast until I'm between
- The Greensley Plantation and The
- Greensly Farmstead, and then south.
- I could also start at The Greensley
- Plantation and go east-southeast, but 
- %g1 warned me that's the harder route.
- I also noted it's east of Kieran Theatre
- and south of The Hearthhouse Tombs.
+ _qg_ дал мне эти шаги
+ чтобы найти Шедунгент. Из Лонгвелла
+ я могу идти на юго-юго-восток, пока не 
+ окажусь между Плантацией Гринсли и
+ Усадьбой Гринсли, а затем на юг.
+ Я также могу начать с Плантации Гринсли.
+ и двигаться на восток-юго-восток, но 
+ %g1 предупредил меня, что это более трудный маршрут.
+ Я также отметил, что он находится к востоку от Театра Киран
+ и к югу от Гробницы Хартхаус.
 
 Message:  1099
-<ce> I warn you not to enter Shedungent.
-<ce> I've lost a couple people over the years
-<ce> who did so. Just chart it and return.
+<ce> Я предупреждаю тебя, что не стоит входить в Шедунгент.
+<ce> За эти годы я потерял несколько человек
+<ce> таким образом. Просто составь карту и возвращайся.
 
 QBN:
 Item _reward_ gold range 1000 to 1099

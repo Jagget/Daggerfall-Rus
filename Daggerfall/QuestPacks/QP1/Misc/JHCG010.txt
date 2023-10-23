@@ -20,31 +20,31 @@ QuestComplete:  [1004]
 <ce> ERROR 1004 JHCG010
 
 Message:  1010
-<ce> A courier, holding a pouch with an embroidered
-<ce> compass on the front, hands you a scroll and
-<ce> bows courteously before departing.
+<ce> Курьер, держащий в руках мешочек с вышитым
+<ce> компасом на лицевой стороне, вручает тебе свиток,
+<ce> вежливо кланяется и уходит.
    <--->
-<ce> "Hail, %pcn! The Cartographers
-<ce> have sent a missive for your noble eyes only!"
-<ce> A courier unfurls a scroll and kneels before you,
-<ce> holding it aloft. You take it out of his hands,
-<ce> and he marches off to continue his duties.
+<ce> "Славься, %pcn! Картографы
+<ce> прислали послание только для твоих благородных глаз!"
+<ce> Курьер разворачивает свиток и преклоняет перед тобой колени,
+<ce> поднимая свиток над собой. Ты берешь свиток,
+<ce> и курьер отправляется по своим делам.
 
 Message:  1011
   %pcn,
  
-  In response to your obvious dedication to our work,
-  we are pleased to grant you the title of Scout.
-  We will soon send you your first ranked assignment.
-  As promised, your pay per mission will increase,
-  as will the skill required for the tasks before you.
-  Consult with us when necessary and carry our
-  banner with honor as you have done thus far.
+  В ответ на твою очевидную преданность нашей работе,
+  мы рады присвоить тебе звание Скаута.
+  Вскоре мы пришлём тебе твоё первое ранговое задание.
+  Как и было обещано, твоя зарплата за миссию будет расти,
+  как и мастерство, необходимое для выполнения поставленных 
+  перед тобой задач. Советуйся с нами, когда это необходимо,
+  и неси наше знамя с честью, как ты это делал до сих пор.
  
-                         Gondystir Greenfield
-                         Master
-                         The Cartographers
-                         Eastbrone, Wayrest
+                         Гондистир Гринфилд
+                         Мастер
+                         Ассоциация Картографов
+                         Истброн, Вейрест
 
 QBN:
 Item _letter_ letter used 1011

@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCGENT2
-DisplayName: Cartographers Quest Selection 2
+DisplayName: Картографы. Выбор квеста 2
 -- Message panels
 QRC:
 

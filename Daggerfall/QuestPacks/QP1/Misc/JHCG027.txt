@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG027
-DisplayName: Castle Llugwych
+DisplayName: Замок Ллугвич
 -- Message panels
 QRC:
 
@@ -14,77 +14,77 @@ AcceptQuest:  [1002]
 <ce> ERROR 1002 JHCG027
 
 QuestFail:  [1003]
-<ce> The =timer_ days you were given to
-<ce> chart Castle Llugwych have run out.
+<ce> =timer_ дней, которые тебе были отведены
+<ce> для составления карты до Замка Ллугвич истекли.
 
 QuestComplete:  [1004]
-<ce> Excellent. I do ask that you keep the place
-<ce> a secret. I will not say who the castle belongs
-<ce> to or what purpose it has. Some of my good
-<ce> ties to civilization might fray were I to do so.
-<ce> Let's change the subject, shall we? Here
-<ce> is the assignment fee, _reward_ gold.
+<ce> Отлично. Но я прошу, чтобы ты держал это место
+<ce> в секрете. Я не скажу, кому принадлежит этот замок
+<ce> и какова его цель. Некоторые из моих хороших 
+<ce> связей с цивилизацией могут разрушиться, если я это сделаю.
+<ce> Давай сменим тему, хорошо? Вот твоя
+<ce> плата за задание, _reward_ золотых.
 
 Message:  1010
-<ce> "Letter from the Cartographers! Take it!"
-<ce> You are given no choice before a courier
-<ce> thrusts it into your hands.
+<ce> "Письмо от Картографов! Возьми его!"
+<ce> Тебе не оставляют выбора, так как курьер
+<ce> сует его тебе в руки.
    <--->
-<ce> A bored-looking page hands you a letter
-<ce> and departs before you can say a word.
+<ce> Скучающего вида паж вручает тебе письмо
+<ce> и уходит, прежде чем ты успеваешь сказать хоть слово.
 
 Message:  1011
-  Pathfinder,
+  Следопыт,
  
-  Your next assignment is to chart the distance
-  from Castle Llugwych in Ykalon to here. You
-  are given =timer_ days. Speak to me if you
-  don't know how to get there.
+  Твое следующее задание - составить карту расстояний
+  от Замка Ллугвич в Йкалоне до этого места. Тебе
+  даётся =timer_ дней. Обращайся ко мне, если ты
+  не знаешь, как туда добраться.
  
-                         _qg_
-                         Master Assistant
-                         The Cartographers
-                         ___place_, ____place_
+                    _qg_
+                    Ассистент Мастера
+                    Ассоциация Картографов
+                    ___place_, ____place_
 
 Message:  1012
-<ce> Welcome, Pathfinder. Castle Llugwych is in the
-<ce> Ykalon region, far to the north. By far the easiest
-<ce> starting point is at a tiny wilderness shrine called
-<ce> the Altar of I'ric, which should already be on your
-<ce> map. From there just go south. If it's a clear day
-<ce> and you have good eyesight, Castle Llugwych
-<ce> might already be in view from there. It isn't directly
-<ce> to the south though, so make a slight adjustment to
-<ce> the east on the way. That should be enough to get
-<ce> you there. Report to me when you've done it.
+<ce> Добро пожаловать, Следопыт. Замок Ллугвич находится в
+<ce> Йкалонской области, далеко на севере. Безусловно, самой простой
+<ce> стартовой точкой является крошечное святилище в дикой местности под названием
+<ce> Алтарь И'рика, который уже должен быть на твоей
+<ce> карте. Оттуда просто иди на юг. Если это ясный день
+<ce> и у тебя хорошее зрение, то Замок Ллугвич
+<ce> уже может быть виден оттуда. Однако, он находится не прямо
+<ce> на юг, поэтому сделай небольшую поправку на
+<ce> на восток по пути. Этого должно быть достаточно, чтобы добраться
+<ce> до туда. Доложи мне, когда сделаешь это.
 
 Message:  1013
-<ce> You've found Castle Llugwych. Who knows what secrets
-<ce> it holds out here, in the middle of nowhere.
+<ce> Ты нашел Замок Ллугвича. Кто знает, какие секреты
+<ce> он хранит здесь, в глуши.
    <--->
-<ce> This certainly has the appearance of a
-<ce> castle. No doubt this is Llugwych.
+<ce> Это, безусловно, имеет вид
+<ce> замка. Несомненно, это Ллугвич.
 
 Message:  1030
 %qdt:
- The Cartographers need me to report
- the distance from Castle Llugwych in
- Ykalon to ___place_ in ____place_.
- I can speak to _qg_
- if I don't know how to arrive.
+ Картографам нужно, чтобы я сообщил
+ расстояние от Замка Ллугвич в
+ Йкалоне до ___place_ в ____place_.
+ Я могу обратиться к _qg_.
+ если не знаю, как туда добраться.
 
 Message:  1031
 %qdt:
- Castle Llugwych should be south
- and a little to the east of Altar
- of I'ric in Ykalon. It should also
- be visible on the horizon.
+ Замок Ллугвич должен находиться южнее.
+ и немного восточнее Алтаря
+ И'рика в Йкалоне. Он также должен быть
+ быть виден на горизонте.
 
 Message:  1099
-<ce> Castle Llugwych is one of the
-<ce> easiest destinations to chart.
-<ce> This assignment should be
-<ce> considered a privilege.
+<ce> Замок Ллугвич - одна из самых
+<ce> целей для составления карты.
+<ce> Это задание должно
+<ce> считаться привилегией.
 
 QBN:
 Item _reward_ gold range 600 to 699

@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG022
-DisplayName: Coven on the Bluff
+DisplayName: Шабаша на Блафе
 -- Message panels
 QRC:
 
@@ -14,73 +14,73 @@ AcceptQuest:  [1002]
 <ce> ERROR 1002 JHCG022
 
 QuestFail:  [1003]
-<ce> You were to chart the Coven
-<ce> on the Bluff by now.
+<ce> Ты должен был составить крату до Шабаша
+<ce> на Блафе к этому времени.
 
 QuestComplete:  [1004]
-<ce> A beautiful sight, isn't it Pathfinder?
-<ce> A lone altar, a majestic hill, and the sight
-<ce> of the boundless ocean before you. That's
-<ce> always a favorite. I hope it is for you, too.
-<ce> Take your pay. We'll be in contact.
+<ce> Прекрасное зрелище, не правда ли, Следопыт?
+<ce> Одинокий алтарь, величественный холм и вид
+<ce> безбрежного океана перед тобой. Такие места -
+<ce> мои самые любимые. Надеюсь, что и для тебя тоже.
+<ce> Забирай свою зарплату. Мы будем на связи.
 
 Message:  1010
-<ce> A page calls out to you and absentmindedly
-<ce> hands you a parchment.
+<ce> Паж обращается к тебе и рассеянно
+<ce> протягивает тебе пергамент.
    <--->
-<ce> A courier silently passes a letter to you
-<ce> before moving on to other tasks.
+<ce> Курьер молча передает тебе письмо.
+<ce> прежде чем отправиться по своим делам.
 
 Message:  1011
-  Pathfinder,
+  Следопыт,
  
-  Your assignment at this time is to chart the
-  Coven on the Bluff. That's in Daggerfall. Please
-  see me if you need directions.
+  Твоё задание на данный момент - составить карту до
+  Шабаша на Блафе. Это находится в Даггерфолле. Пожалуйста,
+  зайди ко мне, если тебе нужны указания.
  
-                         _qg_
-                         Master Assistant
-                         The Cartographers
-                         ___place_, ____place_
+                    _qg_
+                    Ассистент Мастера
+                    Ассоциация Картографов
+                    ___place_, ____place_
 
 Message:  1012
-<ce> A pleasure to see you, %pcf. You'll
-<ce> start at Burning Martyr of Kynareth in
-<ce> the Daggerfall region. It's by the coast
-<ce> on the west side. March south on the hills
-<ce> above the coastline. It shouldn't take you
-<ce> very long before you see an open clearing
-<ce> with an altar and a single witch. When
-<ce> you're done come back to me with your
-<ce> report and you'll get your pay.
+<ce> Рад тебя видеть, %pcf. Ты начнешь
+<ce> от храма Горящий Мученик Кинарет в
+<ce> регионе Даггерфолл. Он находится у побережья
+<ce> с западной стороны. Иди на юг по холмам
+<ce> над береговой линией. Это не должно занять у тебя
+<ce> очень долго, прежде чем ты увидишь открытую поляну
+<ce> с алтарем и одинокой ведьмой. Когда
+<ce> ты закончишь, возвращайся ко мне с отчетом.
+<ce> отчетом и получишь свое жалованье.
 
 Message:  1013
-<ce> You see the Coven on the Bluff before you.
+<ce> Ты видишь перед собой Шабаш на Блафе.
    <--->
-<ce> A witch gestures to you before returning
-<ce> to a ritual of some kind. This must
-<ce> be the coven you were sent to.
+<ce> Ведьма жестами приветствует тебя, прежде чем вернуться
+<ce> к какому-то ритуалу. Это должен быть
+<ce> быть Шабаш, который ты ищешь.
 
 Message:  1030
 %qdt:
- My assignment for the Cartographers
- is to chart the Coven on the Bluff in
- Daggerfall. My contact is _qg_
- in ___place_ in ____place_.
+ Мое задание от Картографов состоит
+ в том, чтобы составить карту Шабаша на Блафе в
+ Даггерфолле. Мой контакт - _qg_.
+ в ___place_ в ____place_.
 
 Message:  1031
 %qdt:
- _qg_ told me to start at
- Burning Martyr of Kynareth in
- the Daggerfall region. The coven
- should be a short walk to the south.
- It'll be in an open clearing above
- the ocean, on a hill crest.
+ _qg_ сказал мне, чтобы я начал в
+ храме Горящий Мученик Кинарет в
+ регионе Даггерфолл. Шабаш
+ должен находиться в нескольких минутах ходьбы к югу.
+ Он будет находиться на открытой поляне над
+ океаном, на гребне холма.
 
 Message:  1099
-<ce> Look for an open clearing to
-<ce> the south of Burning Martyr of
-<ce> Kynareth. You'll see the altar.
+<ce> Ищи открытую поляну к
+<ce> югу от Горящего Мученика
+<ce> Кинарет. Ты увидишь алтарь.
 
 QBN:
 Item _reward_ gold range 800 to 899

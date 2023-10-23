@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG029
-DisplayName: Orsinium
+DisplayName: Орсиниум
 -- Message panels
 QRC:
 
@@ -14,88 +14,88 @@ AcceptQuest:  [1002]
 <ce> ERROR 1002 JHCG029
 
 QuestFail:  [1003]
-<ce> The Cartographers requested your
-<ce> report regarding Orsinium by now.
+<ce> Картографы запросили твой отчет
+<ce> относительно Орсиниума к этому времени.
 
 QuestComplete:  [1004]
-<ce> Are you serious? Let me see that chart.
-<ce> %oth! You're the only one in an
-<ce> entire year to actually do the Orsinium
-<ce> chart. This deserves special commendation,
-<ce> so much as it's in my power to give it.
-<ce> Take your fee and my admiration. You
-<ce> have done what very few take seriously.
+<ce> Ты серьезно? Дай-ка мне посмотреть карту.
+<ce> %oth! Ты единственный за
+<ce> весь год, кто действительно сделал карту
+<ce> Орсиниума. Это заслуживает особой похвалы,
+<ce> настолько, насколько это в моих силах.
+<ce> Прими свой гонорар и мое восхищение. Ты
+<ce> сделал то, к чему очень немногие относятся серьезно.
 
 Message:  1010
-<ce> An elderly page hands you an
-<ce> unrolled scroll with a kindly smile.
+<ce> Пожилой паж, улыбаясь, протягивает тебе
+<ce> развёрнутый свиток.
    <--->
-<ce> "Letter from the Cartographers, %ra."
-<ce> A page proffers you a scroll, which you
-<ce> put in your pack.
+<ce> "Письмо от картографов, %ra".
+<ce> Паж протягивает тебе свиток, который ты
+<ce> кладёшь в свой рюкзак.
 
 Message:  1011
-  Pathfinder,
+  Следопыт,
  
-  It's your turn to chart from Orsinium City to here.
-  We've set the time limit at =timer_ days. See
-  me if you want directions on how to arrive.
+  Настала твоя очередь составить карту от города Орсиниум до сюда.
+  Мы установили лимит времени =timer_ дней. Обратись
+  ко мне, если тебе нужны указания, как добраться.
  
-                         _qg_
-                         Master Assistant
-                         The Cartographers
-                         ___place_, ____place_
+                    _qg_
+                    Ассистент Мастера
+                    Ассоциация Картографов
+                    ___place_, ____place_
 
 Message:  1012
-<ce> So you're actually going to try this one, eh %pcf?
-<ce> That's admirable. Most people see the phrase "Orsinium City"
-<ce> and just burn the letter. I know that first-hand. I will tell you
-<ce> right now, there is no easy route to get there. None. Long
-<ce> but sure is starting at Old Evelorya's Shack in the Orsinium
-<ce> region, from whence you go north for Oblivion knows how
-<ce> many kilometers. It'll be a few dozen paces to the east as
-<ce> well, so stay alert to it. If people begin welcoming you to
-<ce> the Wrothgarian Mountains, turn around and look harder.
-<ce> The older folks say it's easier to arrive from The Buckinging
-<ce> Farmstead and go east-southeast, but to me that's a load
-<ce> of bunk. There is nothing to guide you that way. Just
-<ce> remember that it's almost directly to the north of Old
-<ce> Evelorya's Shack and a little lower in latitude than Midpath
-<ce> Hill, and not quite into the Wrothgarian Mountains. If all else
-<ce> fails, just remember that it's a little civilized-looking village,
-<ce> so get up on a hill and use your telescope. You'll see buildings
-<ce> sooner or later if you just look around. %god help you
-<ce> to find it, %pcf. No one else seems to be able to. I'll have
-<ce> your money waiting for you here.
+<ce> Значит, ты действительно собираешься попробовать, а %pcf?
+<ce> Это достойно восхищения. Большинство людей, увидев фразу "город Орсиниум",
+<ce> просто сжигают письмо. Я знаю это не понаслышке. Я скажу тебе
+<ce> прямо сейчас, что легкого пути туда нет. Ни одного. Длинный
+<ce> но проверенный - начиная с Лачуги Старой Эвелории в регионе Орсиниум,
+<ce> откуда ты отправляешься на север за Обливион знает сколько
+<ce> много километров. Так же нужно будет сместиться на восток,
+<ce> так что будь начеку. Если люди начнут говорить тебе, что ты в
+<ce> Вротгарианских горах, повернись и посмотри внимательнее.
+<ce> Старожилы говорят, что проще начать из Усадьбы Букингинг
+<ce> и идти на восток-юго-восток, но по мне так это полная ерунда.
+<ce> Нет никаких свидетельств, что нужно идти в ту сторону.
+<ce> Просто помни, что это почти прямо на север от
+<ce> Лачуги Старой Эвелории и немного ниже по широте, чем Мидпат
+<ce> Хилл, и не совсем в Вротгарианских горах. Если все остальное
+<ce> не получится, просто помни, что это небольшая цивилизованная на вид деревня,
+<ce> так что заберись на холм и используй телескоп. Ты увидишь здания.
+<ce> рано или поздно, если ты просто посмотришь вокруг. %god поможет тебе
+<ce> найти его, %pcf. Похоже, больше никому это не удастся. Я и
+<ce> твой гонорар ждём тебя здесь.
 
 Message:  1013
-<ce> After a very long trek, you see Orsinium before you.
+<ce> После очень долгого похода ты видишь перед собой Орсиниум.
    <--->
-<ce> The legendary lost city of Orsinium lies before you.
-<ce> At least, that's what it feels like.
+<ce> Перед тобой лежит легендарный затерянный город Орсиниум.
+<ce> По крайней мере, тебе так кажется.
 
 Message:  1030
 %qdt:
- The Cartographers have tasked me
- with traveling to Orsinium City and
- making a chart to ___place_
- in ____place_. _qg_
- is also there to give me directions.
+ Картографы поручили мне
+ отправиться в город Орсиниум и
+ составить карту до ___place_
+ в ____place_. _qg_
+ также может дать мне указания.
 
 Message:  1031
 %qdt:
- According to _qg_,
- I'm in way over my head. Orsinium
- City is far to the north and a little
- to the east of Old Evelorya's Shack.
+ Согласно _qg_,
+ я влип по уши. Город Орсиниум
+ находится далеко на севере и немного
+ к востоку от Лачуги Старой Эвелории.
  
 
 Message:  1099
-<ce> You're a brave soul to try the
-<ce> Orsinium chart. If you want, just
-<ce> let the time limit expire and
-<ce> reconnect with us afterwards.
-<ce> No one will blame you for doing it.
+<ce> Ты храбрая душа, если решил попробовать составить
+<ce> карту Орсиниума. Если хочешь, просто подожди
+<ce> пока время задания не истечёт, а затем
+<ce> вернись к нам. Никто не будет винить
+<ce> тебя за то, что ты так поступил.
 
 QBN:
 Item _reward_ gold range 700 to 799

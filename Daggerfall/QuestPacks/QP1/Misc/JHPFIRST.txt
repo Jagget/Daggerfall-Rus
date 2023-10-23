@@ -19,8 +19,8 @@ QuestComplete:  [1004]
 <ce> QP1 1004
 
 Message:  1011
-<ce> Do you want to receive an Early Artifact Quest
-<ce> as part of DFU Quest Pack 1?
+<ce> Хочешь ли ты получить квест "Ранний артефакт" 
+<ce> в составе DFU Quest Pack 1?
 
 QBN:
 

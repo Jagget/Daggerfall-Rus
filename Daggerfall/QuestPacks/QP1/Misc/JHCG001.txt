@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG001
-DisplayName: No Cemetery Unturned
+DisplayName: Все кладбища проверены
 -- Message panels
 QRC:
 
@@ -14,78 +14,78 @@ AcceptQuest:  [1002]
 <ce> ERROR 1002 JHCG001
 
 QuestFail:  [1003]
-<ce> You were given =timer_ days to map
-<ce> out ___grav_ for the Cartographers,
-<ce> which have now run out.
+<ce> На составление карты ___grav_ для Картографов 
+<ce> вам были даны =timer_ дней, которые уже 
+<ce> закончились.
 
 QuestComplete:  [1004]
-<ce> Ah, %pcf. Let me take a look at your map. 
-<ce> Well, we weren't so far off after all! Thank you
-<ce> for this information. We've allocated something
-<ce> of a modest reward for you. Continue on, recruit.
-<ce> We'll have more to offer you in the future.
-<ce> Just be patient with us for now while
-<ce> we build our trust in one another.
+<ce> Ах, %pcf. Позвольте мне взглянуть на вашу 
+<ce> карту. Ну, в конце концов, мы были не так 
+<ce> уж далеко! Благодарю вас за эту 
+<ce> информацию. Мы выделили для вас скромную 
+<ce> награду. Продолжайте, рекрут. В будущем 
+<ce> нам будет что предложить вам. Пока мы 
+<ce> недостаточно вам доверяем.
 
 Message:  1010
-<ce> A page calls out to you. "Hey! %pcf, right?
-<ce> The Cartographers have a message for you!"
-<ce> He hands you a letter and departs.
+<ce> Паж обращается к тебе. "Эй! %pcf, верно?
+<ce> У Картографов есть для тебя сообщение!".
+<ce> Он вручает тебе письмо и уходит.
    <--->
-<ce> A page calls out to you. "Hey! %pcf, right?
-<ce> The Cartographers have a message for you!"
-<ce> She hands you a letter and departs.
+<ce> Паж обращается к тебе. "Эй! %pcf, верно?
+<ce> У Картографов есть для тебя сообщение!".
+<ce> Она вручает тебе письмо и уходит.
 
 Message:  1011
   %pcn,
  
-  We have need of your services. We must chart the
-  distance from __grav_ to ___place_.
-  I can mark its approximate location on your map
-  if you meet me here. We need this done in =timer_ days.
+  Мы нуждаемся в твоих услугах. Мы должны нанести на карту 
+  расстояние от __grav_ до ___place_. Я могу отметить его 
+  примерное расположение на твоей карте, если ты встретишься 
+  со мной. Нам нужно, чтобы это было сделано за =timer_ дней.
  
-                         _qg_
-                         Explorer, Field Officer
-                         The Cartographers
-                         ___place_, ____place_
+                _qg_
+                Исследователь, полевой офицер
+                Ассоциация Картографов
+                ___place_, ____place_
 
 Message:  1012
-<ce> %pcf! How good it is to see you. We have
-<ce> another simple task on our hands, it seems.
-<ce> We will pay you, as we always do. Be patient
-<ce> with us and we'll get you moving into more
-<ce> exotic locales.
+<ce> %pcf! Как приятно тебя видеть. Кажется, 
+<ce> перед нами стоит еще одна простая 
+<ce> задача. Мы заплатим вам, как всегда. 
+<ce> Наберитесь терпения, и вы сможете 
+<ce> посетить более экзотические места.
  
-<ce> As I mentioned, __grav_ is a place
-<ce> we've neglected for more time than we should
-<ce> have. I'll show its approximate location on your
-<ce> map. We need you to provide us precise
-<ce> coordinates and traveling distance.
-<ce> Meet me here once you've charted it.
+<ce> Как я уже говорил, __grav_ — это место, которым 
+<ce> мы пренебрегали дольше, чем следовало бы. Я 
+<ce> покажу его примерное местоположение на вашей 
+<ce> карте. Нам нужно, чтобы вы предоставили нам 
+<ce> точные координаты и расстояние поездки. 
+<ce> Встретимся здесь, как только составишь карту.
 
 Message:  1013
-<ce> It looks like this is __grav_. It's incredible
-<ce> that a graveyard could be forgotten, but after
-<ce> all, the Cartographers exist for a reason.
+<ce> Похоже, это __grav_. Невероятно, 
+<ce> чтобы кладбище могло быть забыто, но ведь 
+<ce> Картографы существуют не просто так.
    <--->
-<ce> From what you can tell, this is the cemetery
-<ce> _qg_ told you to find. Now
-<ce> to report its location back to %g2.
+<ce> Насколько вы можете судить, это кладбище, 
+<ce> которое _qg_ велел вам найти. Теперь нужно 
+<ce> сообщить %g2 о местонахождении кладбища.
 
 Message:  1030
 %qdt:
- The Cartographers have given me
- an assignment to chart __grav_
- in ____place_. I must deliver my
- report to _qg_ in =timer_ days or less.
- I can also speak to %g2 in ___place_
- for directions.
+ Картографы дали мне задание 
+ составить карту __grav_ в 
+ ____place_. Я должен доставить свой 
+ отчет _qg_ за =timer_ дней или 
+ меньше. Я также могу посетить %g3 в 
+ ___place_, чтобы узнать дорогу.
 
 Message:  1099
-<ce> __grav_ is a lost location
-<ce> here in %crn. We trust you
-<ce> to visit it and bring us details
-<ce> concerning its location.
+<ce> __grav_ — это затерянная локация 
+<ce> здесь, в %crn. Мы доверяем вам 
+<ce> посетить его и сообщить нам 
+<ce> подробности о его местонахождении.
 
 QBN:
 Item _reward_ gold range 150 to 200

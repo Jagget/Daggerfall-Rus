@@ -1,6 +1,6 @@
 -- Perpetual Quest
 Quest: JHPQB01
-DisplayName: Race to the Daedra
+DisplayName: Забег к даэдра
 -- Message panels
 QRC:
 
@@ -17,50 +17,50 @@ QuestFail:  [1003]
 <ce> ERROR 1003 JHPQB01
 
 QuestComplete:  [1004]
-<ce> The Daedra slain, the Oghma Infinium clatters onto the ground.
-<ce> Its powers are now yours to unleash.
+<ce> Даэдра убита, Охма Инфинум падает на землю.
+<ce> Теперь его сила принадлежит тебе.
 
 Message:  1010
-<ce> A page quietly offers you a letter and departs.
+<ce> Паж спокойно предлагает тебе письмо и уходит.
 
 Message:  1011
-%pcn, %ra in the service of Uriel Septim VII
+%pcn, %ra на службе Уриэля Септима VII
  
-  Please forgive my indiscretion. The Emperor
-spoke to me concerning you and I have some
-information to offer as aid. If what is herein
-contained is of no use to you, please disregard
-it and forget that I have bothered you.
+  Прошу простить мою бестактность. Император говорил со мной о 
+тебе, и у меня есть некоторая информация, которую я могу 
+предложить в качестве помощи. Если то, что здесь изложено не 
+принесет тебе пользы, пожалуйста, не обращай внимания и 
+забудь, что я тебя побеспокоил.
  
-  In the region of ____dung_ some ruins by the name
-of ___dung_ lie in the wilderness. The place has
-been adopted as a lair by a specimen of Oblivion, a
-Daedra Lord named =enemy_. This on its own does not
-merit so much attention were it not that another agent
-in the region reported to us that the foe possesses an
-artifact of great power called the Oghma Infinium.
-The short conversation the two eked out suggested that
-the foe will spend three more months in the cave, and once
-it leaves, it intends to take the Oghma Infinium with it.
+  В области ____dung_ в глуши лежат некоторые руины по 
+имени ___dung_. Это место было использовано в качестве 
+логова одним порождений Обливиона, даэдра-лордом по 
+имени =enemy_. Само по себе это не заслуживает столь 
+пристального внимания, если бы не тот факт, что другой 
+агент в этом регионе сообщил нам, что враг обладает 
+артефактом огромной силы под названием Охма Инфинум. Из 
+короткого разговора выяснилось, что враг проведет в 
+пещере еще три месяца, а когда выйдет, намерен забрать 
+с собой Охма Инфинум.
  
-  My involvement in this matter is to inform you concerning
-the object's existence and entreat you to employ all possible
-means to recover it. Surely it will be a great aid to you.
+  Мое участие в этом деле заключается в том, чтобы проинформировать тебя о
+о существовании этого предмета и убедить тебя использовать все возможные
+средства для его извлечения. Несомненно, он окажет тебе большую помощь.
  
-  This letter will cease to be in one week's time from delivery,
-and I request that you jot down all information of use. A map
-to ___dung_ is included on the opposite side of this page.
+  Это письмо испариться через неделю после доставки, так что
+я прошу тебя записать всю полезную информацию. Карта
+к ___dung_ прилагается на обороте этой страницы.
  
-                The Emperor's warmest greetings,
-                The Great Knight
+                Самые теплые приветствия от Императора,
+                Великий Рыцарь
 
 Message:  1012
-<ce> According to the Great Knight, in this cave
-<ce> resides =enemy_. The Oghma Infinium awaits.
+<ce> По словам Великого Рыцаря, в этой пещере
+<ce> обитает =enemy_. Охма Инфинум ждёт меня.
 
 Message:  1013
-<ce> =enemy_ merely laughs at your intrusion.
-<ce> There will be only one way to retrieve the Oghma Infinium.
+<ce> =enemy_ просто смеется над твоим вторжением.
+<ce> Есть только один способ забрать Охма Инфинум.
 
 QBN:
 Item _reward_ artifact Oghma_Infinium

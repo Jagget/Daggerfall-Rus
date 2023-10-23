@@ -1,6 +1,6 @@
 -- Cartographers Quest, Rank 2 Failsafe
 Quest: JHCGFAL2
-DisplayName: Cartographer Failure Diversion Rank 2
+DisplayName: Диверсия неудачи Картографа, Ранг 2
 -- Message panels
 QRC:
 
@@ -17,33 +17,33 @@ QuestFail:  [1003]
 <ce> ERROR 1003 JHCGFAL2
 
 QuestComplete:  [1004]
-<ce> How wonderful it is to see you! I was worried you had given
-<ce> up. Your mistakes don't matter with us. There'll always be
-<ce> someone else we can send to get the job done. We're
-<ce> just happy to have you among our ranks. Thank you, Scout.
-<ce> We'll send you a letter soon with your next assignment.
+<ce> Как замечательно видеть тебя! Я волновался, что ты всё бросил и
+<ce> сдался. У нас твои ошибки не имеют значения. Всегда найдётся
+<ce> кто-то другой, кого мы можем послать, чтобы выполнить работу. Мы
+<ce> просто счастливы, что ты в наших рядах. Спасибо, Скаут.
+<ce> Скоро мы пришлем тебе письмо с твоим следующим заданием.
 
 Message:  1010
-<ce> A middle-aged, well-dressed courier draws near.
-<ce> "%pcf, right? I've got some mail for you.
-<ce> Here, take this. Have a good day."
+<ce> Приближается хорошо одетый курьер средних лет.
+<ce> "%pcf, верно? У меня для тебя есть кое-какая почта.
+<ce> Вот, возьми. Хорошего дня".
 
 Message:  1011
-  Scout,
+Скаут,
+
+Срок выполнения твоего последнего задания истек.
+а мы так и не получили от тебя никаких известий. Мы надеемся, что
+что тебя не постигло никакое зло. Возможно, ты решил
+перестать работать на Картографов, и если это так,
+мы не держим на тебя зла. Но если у тебя есть желание остаться
+с нами, пожалуйста, приходи ко мне. Твои таланты
+здесь пригодятся. Если же нет, то мы желаем тебе всего наилучшего и
+удачи в твоих новых начинаниях. %god хранит тебя.
  
-  The deadline for your last assignment has passed
-  and we have received no word from you. We hope
-  no evil has befallen you. Perhaps you have chosen
-  to cease working for the Cartographers, and if so,
-  we bear you no ill will. But if you have desires to stay
-  with us, please come speak to me. Your talents are
-  put to good use here. If not, we wish you the best
-  of luck in your new pursuits. %god watch over you.
- 
-                         _qg_
-                         Pathfinder
-                         The Cartographers
-                         ___place_, ____place_
+                    _qg_
+                    Следопыт
+                    Ассоциация Картографов
+                    ___place_, ____place_
 
 QBN:
 Item _letter_ letter used 1011

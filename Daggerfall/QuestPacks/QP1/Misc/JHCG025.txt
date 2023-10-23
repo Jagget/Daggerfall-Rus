@@ -1,6 +1,6 @@
 -- Cartographers Quest
 Quest: JHCG025
-DisplayName: Wroth Coven
+DisplayName: Шабаш Врот
 -- Message panels
 QRC:
 
@@ -14,80 +14,80 @@ AcceptQuest:  [1002]
 <ce> ERROR 1002 JHCG025
 
 QuestFail:  [1003]
-<ce> The Cartographers assigned you to
-<ce> chart the Wroth Coven by now.
+<ce> Картографы поручили тебе
+<ce> составить карту Шабаш Врот к этому времени.
 
 QuestComplete:  [1004]
-<ce> Well done, %pcf. These things are
-<ce> always a bother to find at the first, but once
-<ce> you've done it, you can keep doing the task
-<ce> with perfect confidence. We may never run
-<ce> out of charting assignments, even if you find
-<ce> yourself at the same locations once and again.
+<ce> Молодец, %pcf. Такие вещи
+<ce> всегда нелегко найти вначале, но как только
+<ce> ты это сделал, то можешь продолжать выполнять задание
+<ce> с полной уверенностью. Возможно, у нас никогда
+<ce> не закончится задания по составлению карт, даже если ты будешь
+<ce> отправляться в одни и те же места снова и снова.
 
 Message:  1010
-<ce> A man bearing the crest of the
-<ce> Cartographers gives you a letter
-<ce> and promptly departs.
+<ce> Мужчина, носящий на одежде герб
+<ce> Картографов, вручает тебе письмо.
+<ce> и стремительно уходит.
    <--->
-<ce> A woman bearing the crest of the
-<ce> Cartographers gives you a letter
-<ce> and promptly departs.
+<ce> Женщина, носящая на одежде герб
+<ce> Картографов, вручает тебе письмо.
+<ce> и стремительно уходит.
 
 Message:  1011
-  Pathfinder,
+  Следопыт,
  
-  We need you to chart the Wroth Coven,
-  in the Wrothgarian Mountains. I'm in
-  ___place_ in case you need instructions.
-  You have =timer_ days to fulfill this task.
+  Ты нам нужен, чтобы составить карту Шабаш Врот,
+  в Вротгарианских горах. Я нахожусь в
+  ___place_ на случай, если тебе понадобятся инструкции.
+  На выполнение этого задания у тебя есть =timer_ дней.
  
-                         _qg_
-                         Master Assistant
-                         The Cartographers
-                         ___place_, ____place_
+                    _qg_
+                    Ассистент Мастера
+                    Ассоциация Картографов
+                    ___place_, ____place_
 
 Message:  1012
-<ce> Of course I'll help you, %pcf.
-<ce> Start in the village of Deerville in the
-<ce> Wrothgarian Mountains. Specifically,
-<ce> stand next to a store called Deerville's Best
-<ce> General Store, and march east. If you follow
-<ce> that direction precisely, you should walk right
-<ce> over the stone circle of the Wroth Coven.
-<ce> There aren't any nearby landmarks or hills, so
-<ce> unfortunately that's all the direction I can give
-<ce> you. I will add that it's no further than
-<ce> two leagues out. Don't go wandering off into
-<ce> Skyrim looking for it. We've given you =timer_
-<ce> days to do this task.
+<ce> Конечно, я помогу тебе, %pcf.
+<ce> Начни с деревни Дирвиль в
+<ce> Вротгарианских горах. А именно,
+<ce> встань рядом с магазином под названием Дирвиль: Наилучший
+<ce> Универмаг, и иди на восток. Если ты будешь следовать
+<ce> этому направлению в точности, то ты должен пройти прямо
+<ce> над каменным кругом Шабаш Врот.
+<ce> Поблизости нет никаких ориентиров или холмов, так что
+<ce> к сожалению, это все указания, какие я могу дать
+<ce> тебе. Добавлю, что это не дальше
+<ce> двух километров. Не стоит идти до
+<ce> Скайрима в поисках его. Мы дали тебе =timer_
+<ce> дней на выполнение этого задания.
 
 Message:  1013
-<ce> This must be the Wroth Coven.
+<ce> Это, должно быть, Шабаш Врот.
    <--->
-<ce> You've found the Wroth Coven. Now it's
-<ce> time to report to _qg_.
+<ce> Ты нашел Шабаш Врот. Теперь самое
+<ce> вермя отправиться к _qg_.
 
 Message:  1030
 %qdt:
- The Cartographers have sent me to
- the Wroth Coven in the Wrothgarian
- Mountains. I have =timer_ days to find
- it and arrive at ___place_
- in ____place_ for my reward.
+ Картографы отправили меня в
+ Шабаш Врот в Вротгарианских
+ Горах. У меня есть =timer_ дней, чтобы найти
+ его и прибыть в ___place_
+ в ____place_ за своей наградой.
 
 Message:  1031
 %qdt:
- _qg_ said I should go to Deerville, to
- Deerville's Best General Store, and then
- just walk east. The coven is a stone circle
- in the middle of the greenery, not further
- than two leagues from the village.
+ _qg_ сказал, что я должен поехать в Дирвилль, в
+ Дирвиль: Наилучший Универмаг, а затем
+ просто идти на восток. Шабаш - это каменный круг
+ посреди зелени, не далее
+ чем в двух километрах от деревни.
 
 Message:  1099
-<ce> It's not always easy to find, since there
-<ce> aren't any landmarks besides Deerville.
-<ce> Watch for the jagged stones in the coven.
+<ce> Его не всегда легко найти, так как там
+<ce> нет никаких ориентиров, кроме Дирвилля.
+<ce> Следи за зазубренными камнями в Шабаше.
 
 QBN:
 Item _reward_ gold range 800 to 899
