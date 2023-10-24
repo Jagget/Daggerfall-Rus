@@ -1,79 +1,79 @@
 Quest: JHTG102
-DisplayName: Personal Transport
+DisplayName: Личный транспорт
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pcf, we're working out a plan.
-<ce> We're usually in the business of moving
-<ce> jewels, powders, and money around, but
-<ce> right now we want to move a person.
-<ce> Wanna help us out?
+<ce> %pcf, мы разрабатываем план.
+<ce> Обычно мы занимаемся тем, что перевозим
+<ce> драгоценности, порошки и деньги, но
+<ce> сейчас мы хотим перевести человека.
+<ce> Хочешь помочь нам?
 
 RefuseQuest:  [1001]
-<ce> You weren't gonna pick 'im up and
-<ce> carry him in your arms, halfwit. The
-<ce> guild needs this kind of money.
+<ce> Тебе не нужно было поднимать его и
+<ce> нести его на руках, полудурок.
+<ce> Гильдии нужны эти деньги.
 
 AcceptQuest:  [1002]
-<ce> All right then. What you're gonna have to
-<ce> do is head over to ___res_.
-<ce> The kid's gonna be waiting inside some
-<ce> place called _res_. Name's
-<ce> _kid_. Grab %g2 fast and
-<ce> get moving to __dung_. We'll
-<ce> have someone inside waiting to take
-<ce> %g2 off your hands. You'll get your
-<ce> reward then. Get moving, %pcf.
-<ce> You've got =timer_ days.
+<ce> Хорошо. Всё что тебе нужно будет
+<ce> сделать, это отправиться в ___res_.
+<ce> Парень будет ждать тебя в
+<ce> месте под названием _res_. Зовут
+<ce> _kid_. Быстро бери %g3 и
+<ce> двигайся к __dung_. В нутри
+<ce> вас будут ждать, сдашь им %g3
+<ce> из рук в руки. Тогда ты получишь свою
+<ce> награду. Двигайся, %pcf.
+<ce> У тебя есть =timer_ дней.
 
 QuestFail:  [1003]
-<ce> By now the city guard will have caught
-<ce> on to the guild's kidnapping scheme.
+<ce> К этому времени городская стража уже
+<ce> разнюхала схему похищения.
 
 QuestComplete:  [1004]
-<ce> A man in a grey tunic motions to you.
+<ce> Человек в серой тунике машет тебе рукой.
 <ce>
-<ce> "Thieves Guild, right? Good. I'll
-<ce> take _kid_ from here. We
-<ce> need to find a place to hide until
-<ce> we get the ransom money. Here's
-<ce> your take. Now leave us alone."
+<ce> "Гильдия Воров, верно? Хорошо. 
+<ce> _kid_ теперь моя забота. Нам
+<ce> нужно найти место, где можно спрятаться,
+<ce> пока мы не получим выкуп. Вот
+<ce> твоя доля. А теперь оставь нас в покое".
 
 Message:  1020
-<ce> The house is quiet. It appears
-<ce> no one suspected your entry.
+<ce> В доме тихо. Похоже никто 
+<ce> не заметил твоего проникновения.
 
 Message:  1021
-<ce> _kid_ stares at you in fear.
-<ce> "Who are you? Where's Daddy?"
+<ce> _kid_ в страхе уставился на тебя.
+<ce> "Кто ты такой? Где папа?"
 <ce>
-<ce> You gag %g2 and cover %g2 with
-<ce> a heavy cloak nearby. Now to deliver
-<ce> %g2 to __dung_.
+<ce> Ты затыкаешь %g2 рот и накрываешь %g3 тяжелым
+<ce> плащом, который лежит неподалеку. Теперь нужно доставить
+<ce> %g3 в __dung_.
    <--->
-<ce> _kid_ stares at you in terror.
-<ce> "Who are you? No, leave me alone!"
+<ce> _kid_ в ужасе уставился на тебя.
+<ce> "Кто ты такой? Нет, оставь меня в покое!"
 <ce>
-<ce> You gag %g2 and cover %g2 with
-<ce> a heavy cloak nearby. Now to deliver
-<ce> %g2 to ___dung_.
+<ce> Ты затыкаешь %g2 рот и накрываешь %g3 тяжелым
+<ce> плащом, который лежит неподалеку. Теперь нужно доставить
+<ce> %g3 в __dung_.
 
 Message:  1025
-<ce> You hear the floor creak. Someone shouts,
-<ce> "Is there somebody there?!"
+<ce> Ты слышишь, как скрипит пол. Кто-то кричит:
+<ce> "Там кто-то есть?!".
 
 Message:  1030
 %qdt:
- The Thieves Guild has sent me
- to kidnap _kid_, a child
- in _res_ at ___res_.
- I then need to take %g2 to
- __dung_. I have =timer_ days.
+ Гильдия Воров послала меня
+ похитить _kid_, ребенка.
+ из _res_ в ___res_.
+ Затем мне нужно отвезти %g3 в
+ __dung_. У меня есть =timer_ дней.
 
 Message:  1099
-<ce> Take the kid from ___res_ to
-<ce> ___dung_. You'll get paid then.
+<ce> Доставь ребенка из ___res_ в
+<ce> ___dung_. Тогда ты получишь деньги.
 
 QBN:
 Person _questgiver_ group Questor male

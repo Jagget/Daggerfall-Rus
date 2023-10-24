@@ -1,64 +1,64 @@
 Quest: JHTG101
-DisplayName: The Test of Speed
+DisplayName: Тест на скорость
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Sometimes in the guild we like to kick back for some
-<ce> sport. Got an invitation you might want to listen to.
-<ce> There's a treasure chest in a crypt around here
-<ce> that's infested with bats. If you can find the chest
-<ce> and bring it back here without killing any bats,
-<ce> you get something enchanted. Want in?
+<ce> Иногда в гильдии мы любим позабавиться спортом.
+<ce> У меня есть приглашение, к которому ты, возможно, захочешь прислушаться.
+<ce> В одном из склепов неподалеку, который кишит летучими мышами,
+<ce> есть сундук с сокровищами. Если ты сможешь найти сундук
+<ce> и принести его сюда, не убив ни одной летучей мыши,
+<ce> то получишь нечто зачарованное. Хочешь поучаствовать?
 
 RefuseQuest:  [1001]
-<ce> We'll see if you change your mind.
+<ce> Посмотрим, может быть, ты передумаешь.
 
 AcceptQuest:  [1002]
-<ce> "All right, let us just do one thing before
-<ce> we tell you where it is."
+<ce> "Хорошо, мы должны сделать кое-что, прежде чем
+<ce> мы скажем тебе, где он находится".
 <ce>
-<ce> A robed figure enters, casts two short spells on you,
-<ce> and leaves. You don't feel any different.
+<ce> Входит закутанная в робы фигура, накладывает на тебя два коротких
+<ce> заклинания, и уходит. Ты не чувствуешь никакой разницы.
 <ce>
-<ce> "There. Now we'll be able to see you, and the bats
-<ce> will come swarming after you. Kill none of them in the
-<ce> crypt, place called ___mondung_.
-<ce> The spell won't last forever, so get on back
-<ce> here in =timer_ days with the chest in hand.
-<ce> You'll be getting this enchanted _reward_
-<ce> if you do it. Take care now."
+<ce> "Вот. Теперь мы сможем тебя видеть, а летучие мыши
+<ce> будут роиться за тобой. Не убей ни одной из них в
+<ce> склепе. Место называется ___mondung_.
+<ce> Заклинание не будет длиться вечно, так что возвращайся обратно
+<ce> сюда через =timer_ дней с сундуком в руках.
+<ce> Ты получишь зачарованное _reward_,
+<ce> если сделаешь это. Береги себя".
 
 QuestFail:  [1003]
-<ce> You needed to deliver the chest to the
-<ce> Thieves Guild by now.
+<ce> Тебе нужно было доставить сундук в
+<ce> Гильдию Воров к этому времени.
 
 QuestComplete:  [1004]
-<ce> That was a thrill to watch. A bunch of us gathered
-<ce> around and shared some mead, made some bets.
-<ce> Wish we could do it more often. Here's
-<ce> your _reward_. Hope it serves you well.
+<ce> Это было захватывающее зрелище. Многие собрались
+<ce> посмотреть и выпить медовухи, даже делали ставки.
+<ce> Хотелось бы повторять это почаще. Вот
+<ce> твоя _reward_. Надеюсь, это хорошо послужит тебе.
 
 QuestLogEntry:  [1010]
 %qdt:
- I've been given a challenge by the Thieves Guild
- to find a certain chest in ___mondung_
- and deliver it to them in ___questgiver_
- within =timer_ days. I can't kill any
- bats inside the place.
+ Гильдия Воров поставила передо мной задачу
+ найти определенный сундук в ___mondung_
+ и доставить его им в ___questgiver_
+ в течение =timer_ дней. При этом я не могу убить ни одной
+ летучей мышей внутри этого места.
 
 Message:  1011
-<ce> As your hand touches this chest, a magical insignia
-<ce> appears in front of you. This must be the right one.
-<ce> You're disappointed to see it's empty, but it's still
-<ce> yours to deliver.
+<ce> Как только твоя рука касается этого сундука, перед тобой
+<ce> появляется магический знак отличия. Должно быть, это тот сундук.
+<ce> Ты разочарован, увидев, что он пуст, но сундук
+<ce> все же нужно доставить.
 
 Message:  1012
-<ce> As this bat falls, a design like a skull appears before
-<ce> your eyes. The Thieves Guild knows you have failed.
+<ce> Как только летучая мышь падает, перед твоими глазами появляется
+<ce> видение черепа. Гильдия Воров знает, что ты потерпел неудачу.
 
 Message:  1013
-<ce> You can already hear the faint chittering of bats.
+<ce> Ты уже слышишь слабое стрекотание летучих мышей.
 
 QBN:
 Item _reward_ magic_item
