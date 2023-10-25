@@ -1,44 +1,44 @@
 Quest: JHTG108
-DisplayName: No Simple Theft
+DisplayName: Не простая кража
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We need a good thief. Or maybe just a tough one.
-<ce> There's a gem over in ___place_ that
-<ce> belongs to some relative of the %t. We're paying
-<ce> an enchanted =reward_ in exchange for bringing it
-<ce> back in =timer_ days. You want in?
+<ce> Нам нужен хороший вор. А может, просто крутой.
+<ce> В ___place_ есть драгоценный камень, который принадлежит
+<ce> какому-то родственнику местного правителя. Мы платим
+<ce> заколдованный =reward_ в обмен на камень. Он нужен нам
+<ce> через =timer_ дней. Ты хочешь поучаствовать?
 
 RefuseQuest:  [1001]
-<ce> I'll look for a good thief then.
+<ce> Тогда буду искать хорошего вора.
 
 AcceptQuest:  [1002]
-<ce> So here's the deal. It's off in _place_,
-<ce> which to me is suspicious. Be ready for anything that
-<ce> could happen. You're on your own 'til you get here.
-<ce> You've got =timer_ days before that _gem_ has to
-<ce> to be over here. Take care of yourself.
+<ce> В общем, дело такое. Он хранится в _place_,
+<ce> что подозрительно. Будь готов ко всему, что
+<ce> может произойти. Ты сам по себе, пока не придешь сюда.
+<ce> У тебя есть =timer_ дней до того, как этот _gem_ должен
+<ce> быть здесь. Следи за собой.
 
 QuestFail:  [1003]
-<ce> _questgiver_ wanted the %t's family _gem_ by now.
+<ce> _questgiver_ хотел бы уже получить _gem_.
 
 QuestComplete:  [1004]
-<ce> So tell me how it went. Yeah, you look like you've been
-<ce> through a lot. I won't ask any more. Take your _reward_.
+<ce> Так расскажи мне, как все прошло. Ты выглядишь так, будто тебе пришлось
+<ce> через многое пройти. Ни слова больше. Забирай свой _reward_.
 
 Message:  1020
-<ce> So soon as you touch it, the _gem_ emits
-<ce> a puff of dark smoke. You start to feel ill.
+<ce> Как только ты прикосаешься к камню, _gem_ испускает
+<ce> клубок темного дыма. Ты чувствуешь, что тебе стало плохо.
 
 Message:  1030
 %qdt:
- The %t's family has a _gem_
- stored up in ___place_,
- at _place_, that I
- can take to _questgiver_
- in ___questgiver_ for a
- reward in =timer_ days.
+ У родни местного правителя есть _gem_,
+ хранящийся в ___place_,
+ в _place_. Я должен
+ отнести его к _questgiver_
+ в ___questgiver_ за
+ вознаграждение через =timer_ дней.
 
 QBN:
 

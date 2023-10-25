@@ -1,59 +1,58 @@
 Quest: JHTG106
-DisplayName: Fall Guys
+DisplayName: Подставной вор
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> One of our members is pulling in a real haul,
-<ce> making a lot of money for the guild.
-<ce> Problem is, the locals are starting to figure him
-<ce> out and they're starting to get suspicious.
-<ce> We need someone to take a fall for him,
-<ce> get framed so they let their guard back down.
-<ce> Your reputation in %crn's gonna take a hit,
-<ce> but we've got a good reward for you this time.
+<ce> Один из наших членов делает серьёзную работу,
+<ce> приносящую гильдии много денег.
+<ce> Проблема в том, что местные жители начинают что-то подозревать.
+<ce> Нужно сбить их со следа.
+<ce> Нам нужен кто-то, кто возьмётся за то,
+<ce> чтобы подставиться, чтобы они ослабили бдительность.
+<ce> Твоя репутация в %crn сильно пострадает,
+<ce> но за это мы хорошо заплатим.
 
 RefuseQuest:  [1001]
-<ce> I'm telling you, you want this reward.
-<ce> I'll hold onto it for awhile,
-<ce> but you're missing out.
+<ce> Я тебе говорю, дело того стоит.
+<ce> Предлжение пока ещё в силе,
+<ce> но ты можешь упустить момент.
 
 AcceptQuest:  [1002]
-<ce> Good. You won't regret this.
-<ce> The town guard's got him figured out, that he's
-<ce> going to hit _res_ next, in ___res_.
-<ce> That's where you need to be.
-<ce> Find something valuable in that house and take it.
-<ce> You might get caught,
-<ce> you'll probably get a bad rep, but that's gravy.
-<ce> When I see you again,
-<ce> I'll have your enchanted _reward_ here.
-<ce> And it ain't no ordinary thing, it's just what a thief wants.
+<ce> Хорошо. Ты не пожалеешь об этом.
+<ce> Городская стража знает, что он следующим
+<ce> собирается ограбить _res_ в ___res_.
+<ce> Именно там тебе и нужно быть.
+<ce> Найди в том доме что-нибудь ценное и возьми это.
+<ce> Скорее всего тебя поймают,
+<ce> у тебя будет плохая репутация, но это уже мелочи.
+<ce> Когда я увижу тебя снова,
+<ce> у меня здесь будет твоя заколдованная _reward_.
+<ce> И это не обычная вещь, это именно то, что нужно вору.
 
 QuestComplete:  [1004]
-<ce> Life's gonna be tough with a bad rep,
-<ce> I know. We've all been there.
-<ce> If you decide to head off someplace else,
-<ce> you might be doing yourself a favor.
-<ce> But an even bigger favor is taking this thing,
-<ce> your _reward_. Got an enchantment
-<ce> on it to unlock doors. Use it wisely,
-<ce> it's gonna wear out pretty fast.
+<ce> Жизнь будет тяжелой с плохой репутацией,
+<ce> я знаю. Мы все там были.
+<ce> Если ты решишь пожить в другом регионе,
+<ce> возможно, ты окажешь себе услугу.
+<ce> Вот _reward_ - возьми это.
+<ce> На него наложены чары, открывающие двери.
+<ce> Используй это с умом, он быстро износится.
 
 Message: 1011
-<ce> A watchman catches you in the act.
+<ce> Сторож застает тебя за этим занятием.
 <ce>
-<ce> "Hey! We found %pg2! The thief of ___res_!"
+<ce> "Эй! Мы нашли %pg3! Вора из ___res_!"
 <ce>
-<ce> Looks like the plan is working out just fine.
+<ce> Похоже, что план сработал просто отлично.
 
 Message:  1030
 %qdt:
- In exchange for some good enchanted reward,
- _qgiver_ of ___qgiver_ is sending me
- to steal anything valuable I can find in
- _res_, ___res_. Once I get caught,
- I can return for my reward.
+ В обмен на хорошую заколдованную награду,
+ _qgiver_ из ___qgiver_ посылает меня
+ украсть все ценное, что я смогу найти в
+ _res_, ___res_. Как только меня поймают,
+ я смогу вернуться за своей наградой.
 
 QBN:
 Item _item_ gem
