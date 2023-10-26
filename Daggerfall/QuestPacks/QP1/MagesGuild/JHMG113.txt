@@ -70,10 +70,10 @@ Message:  1010
 <ce> benefit, to attract it to you. Do you try (yes)
 <ce> or wait for it to come to you (no)?
 <ce>
-<ce> (SKILL CHECK: YES: Mysticism, difficulty low)
+<ce> (ПРОВЕРКА НАВЫКА: YES: Mysticism, difficulty low)
 
 Message:  1011
-<ce> (SKILL CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
 <ce> You start to work, and manage to pull
 <ce> the flow of magicka toward yourself.
@@ -100,7 +100,7 @@ Message:  1013
 <ce> Now is the time to return to ___qgiver_.
 
 Message:  1014
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> You attempt to manipulate the magic for your benefit.
 <ce> Whatever you end up doing gets the atronach's attention,

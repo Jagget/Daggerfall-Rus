@@ -108,16 +108,16 @@ Message:  1013
 <ce> you could attempt to dampen the magic
 <ce> at its source. Do you try?
 <ce>
-<ce> (SKILL CHECK: YES: Thaumaturgy, difficulty high)
+<ce> (ПРОВЕРКА НАВЫКА: YES: Thaumaturgy, difficulty high)
 
 Message:  1014
-<ce> (SKILL CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
 <ce> You turn the _tri_'s power against itself.
 <ce> It goes inert.
 
 Message:  1015
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> You try to turn the _tri_'s power against it,
 <ce> but it glows all the more, and starts to bounce

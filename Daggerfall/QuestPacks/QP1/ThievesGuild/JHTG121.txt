@@ -1,80 +1,80 @@
 Quest: JHTG121
-DisplayName: Petty Theft
+DisplayName: Мелкое воровство
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> You know how to pick pockets, %pct?
-<ce> We got someone over at a tavern in town
-<ce> holding something they shouldn't.
-<ce> We need it in our hands by the end of the day.
+<ce> Ты знаешь, как чистить карманы, %pct?
+<ce> У нас есть кое-кто в таверне в городе.
+<ce> И этот кто-то держит в руках то, что не должен.
+<ce> Нам нужно, чтобы это было у нас к концу дня.
 
 RefuseQuest:  [1001]
-<ce> Not a popular art. Shame on us as thieves.
+<ce> Не самое популярный навый. Позор нам, как ворам.
 
 AcceptQuest:  [1002]
-<ce> All right, the mark's in _tav_,
-<ce> off %di here in ___tav_.
-<ce> Look for a bloke with a scar on his chin,
-<ce> red hair. In one of his pockets he's got
-<ce> a piece of paper with some important information on it.
-<ce> What that is, you don't need to know.
-<ce> Get it here before one day's up.
+<ce> Хорошо, цель в _tav_,
+<ce> это на %di, в ___tav_.
+<ce> Ищи парня со шрамом на подбородке,
+<ce> рыжие волосы. В одном из карманов у него лежит
+<ce> листок бумаги, на котором написана очень важная информация.
+<ce> Что это такое, тебе знать не обязательно.
+<ce> Принеси её сюда, пока не истёк один день.
 
 QuestFail:  [1003]
-<ce> The Thieves Guild needed you to steal and
-<ce> deliver the paper from the red-haired man by now.
+<ce> Гильдия Воров хотела, чтобы к этому времени ты уже 
+<ce> украл и доставил бумагу от рыжего человека.
 
 QuestComplete:  [1004]
-<ce> Here it is. I don't hear anyone shouting halt,
-<ce> so I'll assume the job was clean. Nice work.
-<ce> We could use more pickpockets like you.
+<ce> Вот оно. Я не слышу, чтобы кто-то кричал "стоп",
+<ce> так что буду считать, что работа была выполнена чисто. Отличная работа.
+<ce> Нам бы не помешало побольше таких карманников, как ты.
 
 QuestorPostSuccess:   [1008]
-How're them fingers doing? Steal anything nice lately?
+Как поживают пальцы? Украл что-нибудь хорошее в последнее время?
 
 QuestorPostFailure:   [1009]
-Yeah, our so-called pickpocket. Guild's gonna be a laughingstock at this rate.
+Ааа, наш так называемый карманник. Такими темпами гильдия превратится в посмешище.
 
 Message:  1010
-<ce> As luck would have it, your mark is about to leave the tavern.
-<ce> He matches the description. If you're going to steal from him,
-<ce> this is your chance. Will you take it?
+<ce> Так совпало что твоя цель вот-вот выйдет из таверны.
+<ce> Он соответствует описанию. Если ты собираешься обокрасть его,
+<ce> то это твой шанс. Воспользуешься ли ты им?
 <ce>
-<ce> (SKILL CHECK: YES: Pickpocket, difficulty low)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Карманные кражи, сложность низкая)
 
 Message:  1011
-<ce> The words on this paper shift around.
-<ce> You'd need some spell to read them.
+<ce> Слова на этой бумаге постоянно смещаются.
+<ce> Чтобы прочитать их, тебе понадобится заклинание.
 
 Message:  1012
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> You wait until he passes before reaching into the back pocket
-<ce> of his coat. Not only is it empty, he notices your attempt.
-<ce> The man delivers you a swift backhand before calling for the guards
-<ce> and fleeing into the town.
+<ce> Ты ждешь, пока он пройдет мимо, прежде чем потянуться в задний карман
+<ce> его одежды. Карман оказался пуст, и цель замечает твою попытку.
+<ce> Он наносит тебе быстрый удар наотмашь, после чего зовет охранников
+<ce> и скрывается в городе.
 
 Message:  1013
-<ce> You could get into real trouble doing something like this.
-<ce> You step aside and let the man leave the tavern.
-<ce> _qgiver_ may not be happy, but you feel better this way.
+<ce> У тебя могут возникнуть серьезные проблемы, если ты сделаешь что-то подобное.
+<ce> Ты отходишь в сторону и позволяешь мужчине покинуть таверну.
+<ce> _qgiver_ может быть недоволен, но так ты чувствуешь себя лучше.
 
 Message:  1014
-<ce> (SKILL CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> You know how to deal with this.
-<ce> You eye the man's pockets and casually bump into him.
-<ce> He's angry with the confrontation, but doesn't notice
-<ce> your theft. You apologize and he leaves in a huff.
+<ce> Ты знаешь, как с этим справиться.
+<ce> Ты нацеливаешься на карман мужчины и как бы случайно натыкаешься на него.
+<ce> Он злится из-за и ворчит из-за этой стычки, но не замечает
+<ce> твоей кражи. Ты извиняешься, и он уходит, ворча под нос.
 
 Message:  1030
 %qdt:
- Some man with red hair and a chin scar
-is in _tav_, holding a paper of worth
-to the Thieves Guild. I need to liberate
-it and deliver it to _qgiver_ here
-in ___tav_ before one day passes.
+ Какой-то мужчина с рыжими волосами и шрамом на подбородке
+ находится в _tav_, имея на руках бумагу, представляющую ценность
+ для Гильдии Воров. Мне нужно стащщить этот документ
+ и доставить _qgiver_ сюда
+ в ___tav_ до того, как истечёт день.
 
 QBN:
 Item _gold_ gold range 150 to 200

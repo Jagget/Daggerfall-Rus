@@ -109,7 +109,7 @@ Message:  1029
 <ce> you could try to interfere with the lich's
 <ce> summoning spell. Do you?
 <ce>
-<ce> (SKILL CHECK: YES: Mysticism, difficulty very high)
+<ce> (ПРОВЕРКА НАВЫКА: YES: Mysticism, difficulty very high)
 
 Message:  1030
 %qdt:
@@ -131,7 +131,7 @@ Message:  1031
  and escape this menace for now.
 
 Message:  1032
-<ce> (SKILL CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
 <ce> You stop for a moment and channel everything
 <ce> you have within. It seems like it takes forever,
@@ -149,7 +149,7 @@ Message:  1032
 <ce> the summoner's pets.
 
 Message:  1033
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> You stop for a moment and try to tap into the
 <ce> tremendous power that reverberates through these tunnels.

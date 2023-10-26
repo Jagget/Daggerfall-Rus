@@ -1,98 +1,99 @@
 Quest: JHTG116
-DisplayName: Daily Heist, Moderate
+DisplayName: Ежедневный грабеж, средний
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> One of the benefits of being in the Thieves Guild
-<ce> is knowing where money is in the city, free for the grabbing.
-<ce> There's a house here in ___qgiver_ that's got about a
-<ce> thousand in it. If you're good at sneaking, you can try
-<ce> to nab it for yourself. Want me to reserve the house for you?
+<ce> Одним из преимуществ членства в Гильдии Воров является 
+<ce> знание того, где в городе водятся деньги.
+<ce> Здесь, в ___qgiver_, есть дом, в котором есть около
+<ce> тысячи золотых. Если ты хорошо умеешь красться, то можешь попробовать
+<ce> взять их себе. Хочешь, я зарезервирую дом для тебя?
    <--->
-<ce> Every day here in ___qgiver_, people hide away their
-<ce> savings in their houses. Some do it good, others do it sloppy.
-<ce> We got a tip on a house that's carrying around a thousand gold.
-<ce> If you want, I can mark it down for you. Won't earn you
-<ce> any points with the guild, but you'll get some money.
-<ce> You takin' it?
+<ce> Каждый день здесь, в ___qgiver_, люди прячут свои
+<ce> сбережения по домам. Одни делают это хорошо, другие - неаккуратно.
+<ce> У нас есть наводка на дом, в котором хранится около тысячи золотых.
+<ce> Если хочешь, я могу отметить его для тебя. Это не принесет тебе
+<ce> никаких очков в гильдии, но ты получишь немного денег.
+<ce> Возьмешь?
 
 RefuseQuest:  [1001]
-<ce> No loss. Can't be overfeeding in this city, anyway.
+<ce> Без проблем. Все равно в этом городе нельзя разбогатеть.
    <--->
-<ce> This one's gonna be gone next hour, I swear it.
+<ce> Этот уйдет в ближайший час, клянусь.
 
 AcceptQuest:  [1002]
-<ce> All right then. It's called _house_, %di from here.
-<ce> They know carrying that much money is a risk, so you're gonna
-<ce> have to be good. You're running a real risk here.
-<ce> I don't think you'll get more than two
-<ce> days before it's spent or moved, so hurry on.
-<ce> And remember that if you get caught, whoever tipped us
-<ce> off on the house is gonna suffer for it. Don't get caught.
+<ce> Ну ладно. Дом называется _house_, на %di отсюда.
+<ce> Они знают, что носить с собой столько денег - это риск, поэтому ты
+<ce> должен быть хорош. Ты здесь реально рискуешь.
+<ce> Я не думаю, что у тебя будет больше двух
+<ce> дней до того, как деньги будут потрачены или перепрятаны, так что поторопись.
+<ce> И помни, что если тебя поймают, то пострадает и тот, кто дал 
+<ce> нам наводку на этот дом. Не попадайся.
    <--->
-<ce> _house_ has your money,
-<ce> off that way, %di. You've seen it.
-<ce> It's got maybe a thousand gold, and they're gonna
-<ce> watch it like hawks. And don't get caught.
-<ce> Whoever told us about that house would suffer
-<ce> for it. Money like that gets spent in a couple days,
-<ce> so don't dally on it.
+<ce> Твои деньги лежат в _house_,
+<ce> это туда, на %di. Ты его сам видел.
+<ce> В нем, может быть, тысяча золотых, и они собираются
+<ce> следить за ними, как ястребы. И не попадись.
+<ce> Тот, кто рассказал нам об этом доме тоже пострадает.
+<ce> Такие деньги тратятся за пару дней,
+<ce> так что не тяни с этим.
 
 QuestFail:  [1003]
-<ce> (STEALTH CHECK FAILED)
+<ce> (ПРОВЕРКА НА СКРЫТНОСТЬ ПРОВАЛЕНА)
 <ce>
-<ce> You know something about sneaking, but not enough.
-<ce> Someone knows you're here, and they're shouting up a storm.
+<ce> Ты немного умеешь красться, но недостаточно.
+<ce> Кто-то знает, что ты здесь, и кричит во весь голос.
 
 QuestComplete:  [1004]
-<ce> Looks like you're in the clear. The money is yours to spend.
+<ce> Похоже, ты в полной безопасности. Деньги в твоем распоряжении.
 
 QuestorPostFailure:  [1009]
-Remember, you owe us for the money in _house_. Take some jobs and pay us back.
+Помни, что ты должен нам за деньги в _house_.
+Найди какую-нибудь работу и расплатись с нами.
 
-Message:  1010
+Message:  1010  
 %qdt:
- The Thieves Guild tipped me off
- about a house here in ___qgiver_
- that should be holding several hundred
- gold somewhere inside,
- called _house_.
- If I can find the money in the next
- couple of days, it's mine.
+ Гильдия Воров сообщила мне.
+ о доме здесь, в ___qgiver_.
+ в котором должно храниться 
+ около тысячи золотых.
+ Дом называется _house_.
+ Если я смогу найти деньги в ближайшие
+ пару дней, они будут моими.
 
 Message:  1011
-<ce> You find the chest and see it has a good
-<ce> lock on it. If you want what's inside,
-<ce> you're going to have to unlock it yourself.
-<ce> Do you attempt to open it?
+<ce> Ты находишь сундук и видишь, что на нем стоит
+<ce> очень серьёзный замок. Если ты хочешь получить то, что находится внутри,
+<ce> тебе придётся отпереть его самому.
+<ce> Ты попытаешься открыть его?
 <ce>
-<ce> (SKILL CHECK: YES: Lockpicking, difficulty high)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Взлом, сложность высокая)
 
 Message:  1012
-<ce> (SKILL CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> Knowing you don't have much time, you get working.
-<ce> It doesn't take more than a few seconds before the lid
-<ce> flies open. You grab the contents for yourself.
+<ce> Зная, что у тебя не так много времени, ты приступаешь к работе.
+<ce> Проходит не более нескольких секунд, прежде чем крышка
+<ce> откидывается. Ты хватаешь содержимое.
 
 Message:  1013
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> Knowing you don't have much time, you get working.
-<ce> You dig in deep and trigger something you shouldn't have.
-<ce> A loud siren rings throughout the house.
-<ce> You're in it deep now.
+<ce> Зная, что у тебя мало времени, ты приступаешь к работе.
+<ce> Ты копаешься в замке и запускаешь то, что не должен был.
+<ce> Громкая сирена разносится по всему дому.
+<ce> Теперь ты влип.
 
 Message:  1014
-<ce> Looking at the lock, you start to second-guess your abilities.
-<ce> You can still get out without causing a major
-<ce> screw-up, you tell yourself. You leave the chest. No sense
-<ce> carrying around a big red flag if you can't get it open.
+<ce> Глядя на замок, ты начинаешь сомневаться в своих способностях.
+<ce> Ты все еще можешь выбраться, не подняв большого шума,
+<ce> говоришь ты сам себе. Ты отходишь от сундука. Нет смысла
+<ce> тащщить его с собой, если ты не можешь его открыть.
 
 Message:  1015
-<ce> This is the right house. You've got to find
-<ce> a chest somewhere inside it.
+<ce> Это правильный дом.
+<ce> Сундук где-то внутри.
 
 QBN:
 Item _item_ item class 1 subclass 8

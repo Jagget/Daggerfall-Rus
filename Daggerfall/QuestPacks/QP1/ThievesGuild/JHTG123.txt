@@ -1,78 +1,77 @@
 Quest: JHTG123
-DisplayName: Retrieving the Stash
+DisplayName: Возвращение заначки
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We've got another bail-out situation.
-<ce> One of the idiots here in ___qgiver_
-<ce> is storing some _drug_ down in a cave,
-<ce> and the guards got wind of it.
-<ce> They've got a guard posted inside,
-<ce> and we need someone to go grab the stash.
+<ce> У нас очередная ситуация с залогом.
+<ce> Один из идиотов здесь, в ___qgiver_.
+<ce> хранит какие-то _drug_ в пещере,
+<ce> и стражники пронюхали об этом.
+<ce> Они выставили охрану внутри,
+<ce> и нам нужен кто-то, кто пойдет и возьмет тайник.
 
 RefuseQuest:  [1001]
-<ce> Not willing to stick your neck out?
-<ce> Guild's full of cowards.
+<ce> Не хочешь подставить шею?
+<ce> В гильдии одни трусы.
 
 AcceptQuest:  [1002]
-<ce> Hurry over to ___dung_, is what it's called.
-<ce> I'll mark it on your map if it's not already there.
-<ce> You're looking for some _drug_. Addictive little thing,
-<ce> it's a kind of drug if you don't know.
-<ce> Now, I told you there's a guard at the entrance,
-<ce> and you can't kill whoever it is.
-<ce> At least, you shouldn't. Nobody's gonna
-<ce> break your neck for doing it,
-<ce> but you don't want a bad rep, not in %crn.
-<ce> Bring the drug back here in =timer_ days,
-<ce> 'cause we've got a deal to get it
-<ce> transferred to another town pretty soon.
+<ce> Поспеши в ___dung_, так это называется.
+<ce> Я отмечу его на твоей карте, если ты не знаешь это место.
+<ce> Ты ищешь _drug_. Маленькая штука, вызывающая привыкание,
+<ce> это разновидность наркотика, если ты не знаешь.
+<ce> Так вот, я говорил тебе, что у входа стоит охранник,
+<ce> и ты не можешь его убить.
+<ce> По крайней мере, не должен. Никто не собирается
+<ce> ломать тебе шею за то, что ты это сделал,
+<ce> но тебе не нужна плохая репутация. Точно не в %crn.
+<ce> Принеси препарат обратно сюда через =timer_ дней,
+<ce> потому что у нас есть договоренность о том, чтобы 
+<ce> в скором времени отправили его дальше.
 
 QuestFail:  [1003]
-<ce> _qgiver_ wanted you
-<ce> to deliver the _drug_ by now.
+<ce> _qgiver_ хотел, чтобы ты уже
+<ce> доставить _drug_ к этому времени.
 
 QuestComplete:  [1004]
-<ce> Here's your money, drug %ra.
+<ce> Вот твои деньги, %ra.
 
 Message:  1011
-<ce> There's the _drug_. I'll be taking that.
-<ce> Word already got out that
-<ce> you murdered the guard in ___dung_.
-<ce> Not a good look for you or the guild, but we'll get by.
-<ce> Just be more careful about these things, all right?
+<ce> Вот и _drug_. Я это заберу.
+<ce> Уже пошли слухи, что
+<ce> ты убил охранника в ___dung_.
+<ce> Не лучший образ для тебя и гильдии, но мы справимся.
+<ce> Просто будь осторожнее в таких делах, хорошо?
 
 Message:  1012
-<ce> Ah, the _drug_. Good work.
-<ce> The guard that they posted in ___dung_
-<ce> sent word that the place was robbed by
-<ce> an "unknown assailant," and needs to be abandoned.
-<ce> You know what we call that? That's a "success" in our book.
+<ce> А, _drug_. Хорошая работа.
+<ce> Охранник, которого они выставили в ___dung_,
+<ce> прислал сообщение, что это место было ограблено
+<ce> "неизвестным нападавшим" и его нужно покинуть.
+<ce> Знаешь, как мы это называем? Успех!
 
 Message:  1013
-<ce> This is the _drug_ you were sent to find.
+<ce> Это _drug_, который тебя послали найти.
 
 Message:  1014
-<ce> A sentry notices your entry to ___dung_.
+<ce> Часовой замечает как ты проник в ___dung_.
 <ce>
-<ce> "Halt! This structure is under investigation!
-<ce> Leave immediately or face the consequences!"
+<ce> "Стоять! Здесь проходит следствие!
+<ce> Немедленно покинь это место или прими последствия!"
 
 Message:  1015
-<ce> With this guard slain, you'll be able to explore
-<ce> this place in peace.
+<ce> Убив этого охранника, ты сможешь спокойно
+<ce> исследовать это место.
 
 Message:  1030
 %qdt:
- _qgiver_ of ___qgiver_ sent me to
- pick up some forgotten _drug_
- in a place called ___dung_, ____dung_.
- It needs to be in %g3 hands
- within =timer_ days.
- A guard is posted at the entrance to
- the cave, and I'm advised not to kill
- whoever it is.
+ _qgiver_ из ___qgiver_ послал меня, чтобы я
+ забрал какой-то забытый _drug_
+ в месте, которое называется ___dung_, ____dung_.
+ Мне нужно вернуться
+ в течение =timer_ дней.
+ У входа выставлен охранник
+ и мне не следует убивать его.
 
 QBN:
 

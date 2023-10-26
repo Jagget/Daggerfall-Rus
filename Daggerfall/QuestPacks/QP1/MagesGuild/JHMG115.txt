@@ -68,14 +68,14 @@ Message:  1010
 <ce> Do you attempt it (yes) or fight off
 <ce> the mercenaries instead (no)?
 <ce>
-<ce> (SKILL CHECK: YES: Illusion, difficulty low)
+<ce> (ПРОВЕРКА НАВЫКА: YES: Illusion, difficulty low)
 
 Message:  1011
 <ce> You hear no more shouting. Hopefully these are the last
 <ce> mercenaries sent to slay _dummy_.
 
 Message:  1012
-<ce> (SKILL CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
 <ce> Just as you hear footsteps approach the door,
 <ce> you grasp the spell's concept and try to
@@ -94,7 +94,7 @@ Message:  1012
 <ce> Your role here is finished.
 
 Message:  1013
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> Just as you hear footsteps approach the door,
 <ce> you grasp the spell's concept and try to

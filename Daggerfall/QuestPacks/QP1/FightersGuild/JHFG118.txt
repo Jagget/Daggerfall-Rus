@@ -55,7 +55,7 @@ Message:  1011
 <ce> with magic of your own. Do you try to stop the enchantment (yes)
 <ce> or fight the skeletons after they form (no)?
 <ce>
-<ce> (SKILL CHECK: YES: Mysticism, difficulty high)
+<ce> (ПРОВЕРКА НАВЫКА: YES: Mysticism, difficulty high)
 
 Message:  1012
 <ce> The dark magic giving power to these bodies runs out.
@@ -66,7 +66,7 @@ Message:  1013
 <ce> You'll just have to wait around until the skeletons rise.
 
 Message:  1014
-<ce> (SKILL CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
 <ce> You concentrate and try to read the forces
 <ce> at work. You perceive enough to see what keeps
@@ -74,7 +74,7 @@ Message:  1014
 <ce> Once the cycle fails to renew itself, the magick stops.
 
 Message:  1015
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> You concentrate and try to read the forces
 <ce> at work. You reach a conclusion and try to

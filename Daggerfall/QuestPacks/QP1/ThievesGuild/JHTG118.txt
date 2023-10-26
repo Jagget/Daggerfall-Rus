@@ -1,101 +1,102 @@
 Quest: JHTG118
-DisplayName: Kidnapping
+DisplayName: Похищение
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> There's a kid here in town who needs
-<ce> to get abducted and held for ransom.
-<ce> We need someone who's good with words and can
-<ce> move from place to place quickly.
-<ce> Accept only if you meet those qualifications.
+<ce> Здесь, в городе, есть ребенок, которого нужно
+<ce> похитить и придержать для выкупа.
+<ce> Нам нужен человек, который хорошо болтает и может
+<ce> быстро перемещаться с места на место.
+<ce> Соглашайся, если ты соответствуешь этим требованиям.
 
 RefuseQuest:  [1001]
-<ce> Speech is real important for a thief.
-<ce> I hope you get better at it, fast.
+<ce> Речь действительно важна для вора.
+<ce> Надеюсь, когда-нибудь ты научишься красноречию.
 
 AcceptQuest:  [1002]
-<ce> All right. The kid's name is
-<ce> _kid_. Every day %g3 parents leave %g2 in
-<ce> _tavern_ while they work, and then
-<ce> a relative comes and picks %g3 up later on.
-<ce> Whatever excuse you wanna come up with,
-<ce> that's your job, but you need to get this kid
-<ce> out of the tavern and into _res_
-<ce> in town. That'll mean =reward_ gold for you.
-<ce> Screw up, and you get nothing.
-<ce> We need to collect on this in 24 hours.
+<ce> Хорошо. Ребёнка зовут
+<ce> _kid_. Каждый день %g3 родители оставляют %g3 в
+<ce> _tavern_, пока они работают, а потом
+<ce> позже приходит родственник и забирает %g3.
+<ce> Какие отговорки ты придумаешь,
+<ce> это твоя забота, но ты должен утащить этого парня
+<ce> из таверны и привести его в _res_.
+<ce> Ты можешь рассчитывать на =reward_ золотых.
+<ce> Облажаешься - и ничего не получишь.
+<ce> У тебя на всё про всё 24 часа.
 
 QuestFail:  [1003]
-<ce> 24 hours have passed, and you have
-<ce> not delivered _kid_ to _res_.
-<ce> The scheme has failed.
+<ce> Прошло 24 часа, а ты
+<ce> не доставил _kid_ в _res_.
+<ce> Схема провалилась.
 
 QuestComplete:  [1004]
-<ce> When you enter the residence,
-<ce> a hooded figure takes _kid_ by the shoulder
-<ce> and leads %g2 to another room.
-<ce> You wait for your payment, and then realize that
-<ce> a bag of gold has somehow been put into your hand.
+<ce> Когда ты входишь в резиденцию,
+<ce> фигура в капюшоне берет _kid_ за плечо.
+<ce> и ведет %g3 в другую комнату.
+<ce> Ты ждешь, пока тебе заплатят, и тут понимаешь, что
+<ce> мешок с золотом уже каким-то образом оказался у тебя в руке.
 
 Message:  1010
-<ce> The typical cacophany of _tavern_ assaults
-<ce> your ears as you enter. Loud laughter, cheering, and
-<ce> some snoring sound from within the patrons' rooms.
+<ce> Типичная какофония _tavern_ бьёт по
+<ce> ушам, когда вы входите. Громкий смех, радостные возгласы и
+<ce> чей-то храп, доносящийся из угла.
 
 Message:  1011
-<ce> _kid_ looks at you distrustfully. "Who are you, and
-<ce> why are we leaving so early? We just got here.
-<ce> Where's my aunt?" You make up some explanations that
-<ce> the child naively accepts, and %g1 starts to follow.
+<ce> _kid_ недоверчиво смотрит на тебя. "Кто ты такой, и
+<ce> почему мы так рано уходим? Мы только что приехали.
+<ce> Где моя тетя?" Ты придумываешь несколько объяснений, которые
+<ce> ребенок наивно принимает, и начинает следовать за тобой.
 
 Message:  1012
-<ce> You are spotted immediately after leaving the tavern.
-<ce> "Halt!" A member of the town guard runs over to you.
-<ce> "I've seen that child leave the tavern lots of times, but
-<ce> never with you. Who are you and what are you doing?"
+<ce> Тебя замечают сразу же после выхода из таверны.
+<ce> "Стой!" К тебе подбегает городской стражник.
+<ce> "Я много раз видел, как этот ребенок выходил из таверны, но
+<ce> всегда с другим человеком. Кто ты такой и что делаешь?"
 <ce>
-<ce> Your mind races. Do you attempt to lie (yes) or surrender
-<ce> the child to the guard (no)?
+<ce> Твои мысли разбегаются. Попытаться солгать (да) или отдать
+<ce> ребенка охраннику (нет)?
 <ce>
-<ce> (SKILL CHECK: YES: Streetwise, difficulty very low)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Жаргон, сложность очень низкая)
 
 Message:  1013
-<ce> (SKILL CHECK SUCCEEDED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> "So %g3 aunt asked you to come for %g2 because she's
-<ce> injured? Well, all right then." He kneels down and asks
-<ce> _kid_, "Do you believe this %ra?" The child shrugs and says,
-<ce> "I guess. My aunt's a pretty smart lady.
-<ce> I'll have to see what's wrong with her when we get home."
+<ce> "Итак, тетя попросила тебя приехать и забрать %g3, потому что она
+<ce> ранена? Ну, тогда ладно". Он опускается на колени и спрашивает
+<ce> _kid_: "Ты веришь %ra?". Ребенок пожимает плечами и говорит,
+<ce> "Наверное. Моя тетя - довольно умная женщина.
+<ce> Надо будет посмотреть, что с ней не так, когда мы вернемся домой".
 <ce>
-<ce> "All right, get moving, you two. But I'll be watching you,"
-<ce> the guard says, waving you along.
+<ce> "Ладно, проходите, вы двое. Но я буду следить за вами".
+<ce> сказал охранник, махнув тебе рукой.
 
 Message:  1014
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> Your mind freezes up. You start to come up with a story,
-<ce> but your manner of telling it convinces no one.
-<ce> The child shrieks and runs away, and the town guard
-<ce> flees back a pace, shouting for help.
+<ce> Твой разум застывает. Ты начинаешь придумывать историю,
+<ce> но твой рассказ никого не убеждает.
+<ce> Ребенок вскрикивает и убегает, а городской стражник
+<ce> отходит назад, громко зовя на помощь.
 
 Message:  1015
-<ce> You surrender the child to the guard.
-<ce> He looks at you with some surprise, but can tell you're
-<ce> in over your head here. "Fine then. I'll just forget about
-<ce> this, and we'll make sure this young one gets home safe."
+<ce> Ты отдаешь ребенка стражнику. Он смотрит на тебя
+<ce> с некоторым удивлением, и понимает, что ты
+<ce> влип по уши. "Ладно. Давай просто забудем об
+<ce> этом, и мы позаботимся о том, чтобы этот 
+<ce> малыш добрался до дома в целости и сохранности".
 <ce>
-<ce> You step back and let the two of them go,
-<ce> washing your hands of the incident.
+<ce> Ты отступаешь назад и позволяешь им двоим уйти,
+<ce> не ввязывясь больше в это дело.
 
 Message:  1030
 %qdt:
- The Thieves Guild has sent me
- to kidnap _kid_, a child
- in _tavern_ here in ___tavern_.
- I then need to take %g2 to
- _res_. I have 24 hours.
+ Гильдия Воров послала меня
+ похитить _kid_, ребенка
+ в _tavern_ здесь, в ___tavern_.
+ Затем мне нужно отвести %g3 в
+ _res_. У меня есть 24 часа.
 
 QBN:
 Person _kid_ faction Children

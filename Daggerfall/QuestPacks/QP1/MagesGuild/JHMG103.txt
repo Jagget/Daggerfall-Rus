@@ -58,7 +58,7 @@ Message:  1011
 <ce> without the proper knowledge could make
 <ce> the situation even more dangerous, though.
 <ce>
-<ce> (SKILL CHECK: Mysticism: difficulty very high)
+<ce> (ПРОВЕРКА НАВЫКА: Mysticism: difficulty very high)
 
 Message:  1012
 <ce> (SKILL CHECK PASSED!)
@@ -70,7 +70,7 @@ Message:  1012
 <ce> Whatever danger you could have faced is now past. 
 
 Message:  1013
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> You begin focusing on the portal to close it.
 <ce> Whether it's power or knowledge you lack, you don't know;

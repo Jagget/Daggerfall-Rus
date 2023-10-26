@@ -50,7 +50,7 @@ Message:  1011
 <ce>
 <ce> Do you try to teach _kid_ about using a sword?
 <ce>
-<ce> (SKILL CHECK: YES: Long Blade, difficulty medium)
+<ce> (ПРОВЕРКА НАВЫКА: YES: Long Blade, difficulty medium)
 
 Message:  1012
 <ce> (SKILL CHECK SUCCEEDED)
@@ -63,7 +63,7 @@ Message:  1012
 <ce> you wouldn't be down here.
 
 Message:  1013
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> With your encouragement, _kid_ starts swinging
 <ce> the blade around wildly. Once %g1 loses a proper

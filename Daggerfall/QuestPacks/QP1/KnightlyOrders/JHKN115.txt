@@ -48,10 +48,10 @@ Message:  1020
 <ce> Do you try to talk to it (yes) or
 <ce> try to avoid it (no)?
 <ce>
-<ce> (SKILL CHECK: YES: Spriggan, difficulty low)
+<ce> (ПРОВЕРКА НАВЫКА: YES: Spriggan, difficulty low)
 
 Message:  1021
-<ce> (SKILL CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
 <ce> You catch the creature's attention with
 <ce> a greeting and tell it you intend no harm.
@@ -62,7 +62,7 @@ Message:  1021
 <ce> You dismiss it, and it wanders elsewhere.
 
 Message:  1022
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> Whatever you know of the Spriggan language
 <ce> is not enough. Your speech incenses the creature,

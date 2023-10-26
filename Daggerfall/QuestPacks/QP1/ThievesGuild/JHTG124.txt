@@ -1,135 +1,134 @@
 Quest: JHTG124
-DisplayName: An Explosion of Action
+DisplayName: Всплеск активности
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We need someone experienced, mature, and sensible to
-<ce> help out two very idiotic recruits to the guild.
-<ce> They found something they probably should've left alone,
-<ce> and I think it's dangerous. There's a real risk
-<ce> to this one, I'm warning you.
+<ce> Нам нужен кто-то опытный, зрелый и здравомыслящий, чтобы
+<ce> помочь двум очень новобранцам-идиотам из гильдии.
+<ce> Они нашли что-то, что им следовало бы оставить в покое,
+<ce> и я думаю, что это опасно. Я предупреждаю тебя,
+<ce> есть реальный риск.
 
 RefuseQuest:  [1001]
-<ce> They might die. Then again, I might not care.
+<ce> Они могут умереть. С другой стороны, мне всё равно.
 
 AcceptQuest:  [1002]
-<ce> They got a few days' lead on you, headed to ___dung_.
-<ce> If you hurry, you might catch up to them.
-<ce> You're looking for _pers_,
-<ce> the only =pers_ you're gonna find down there,
-<ce> and his friend Viljas.
-<ce> They found a magical skull of some kind, with some
-<ce> real genuine powers to it. I really want
-<ce> it to end up in more seasoned hands than theirs.
-<ce> If at all possible, get it from them.
-<ce> I don't care if you give it to the
-<ce> guild or hold on to it for yourself,
-<ce> I just don't want them having it.
-<ce> If you can't do that, then whatever.
-<ce> Meet me here again in =timer_ days
-<ce> so I can be at peace.
+<ce> Несколько дней назад они направились в ___dung_.
+<ce> Если ты поторопишься, то сможешь догнать их.
+<ce> Ищи _pers_ и его друга Вильяса.
+<ce> Там может быть только один =pers_, не ошибёшься.
+<ce> Они нашли какой-то магический череп, с какими-то
+<ce> натуральными способностями. Я очень хочу, чтобы
+<ce> чтобы он попал в более опытные руки.
+<ce> Если это вообще возможно, забери его у них.
+<ce> Меня не волнует, отдашь ли ты его
+<ce> гильдии или оставишь себе,
+<ce> Я просто не хочу, чтобы он был у них.
+<ce> Если ты не сможешь этого сделать, мне всё равно.
+<ce> Встретимся здесь снова через =timer_ дней.
+<ce> Я очень волнуюсь.
 
 QuestFail:  [1003]
-<ce> _qgiver_ wanted you
-<ce> to report on the enchanted skull by now.
+<ce> _qgiver_ хотел, чтобы ты
+<ce> уже доложил о заколдованном черепе.
 
 QuestComplete:  [1004]
-<ce> They got away with it? By %god.
-<ce> No, I don't blame you, not if what you're telling me is true.
-<ce> They're gonna be mass murderers at this rate.
-<ce> Maybe they already are.
-<ce> I'll tell the Mages Guild, or the %t, or someone.
-<ce> I don't know. Here, take this and let me
-<ce> figure out what I'm gonna do. This is bad.
+<ce> Им это сошло с рук? %god сохрани.
+<ce> Нет, я не виню тебя, если то, что ты мне говоришь, правда.
+<ce> Такими темпами они могут убить толпы людей.
+<ce> Может быть, они уже убили.
+<ce> Я расскажу кому-нибудь. Гильдии Магов и %t должны знать.
+<ce> Вот, возьми это и дай мне
+<ce> подумать, что мне делать дальше. Дело плохо.
 
 Message:  1011
-<ce> "Hey! Oh, wow! You startled me! Thieves Guild?
-<ce> Good, good, good, good! Oh, %oth, I've got this
-<ce> skull in my hands and it's getting warm. I'm just about--"
+<ce> "Хей! Ух ты! Ты меня напугал! Гильдия Воров?
+<ce> Хорошо, хорошо, хорошо, хорошо! О, %oth, у меня есть этот
+<ce> череп, и он становится теплым. Я вот-вот..."
 <ce>
-<ce> _pers_ is interrupted by a man,
-<ce> shouting and rapidly approaching. He yells,
+<ce> Реплика _pers_ прерывается человеком,
+<ce> кторый орёт и быстро приближается. Он кричит,
 <ce>
-<ce> "Bad news! Bad news bad news bad news, they've found us!
-<ce> The people looking for that skull, they're almost here!
-<ce> They're right on our tail, they're gonna kill us!"
+<ce> "Плохие новости! Плохо плохо плохо плохо, они нашли нас!
+<ce> Люди, которые ищут этот череп, они почти здесь!
+<ce> Они прямо у нас на хвосте, они собираются нас убить!"
 <ce>
-<ce> _pers_ shouts back, "Viljas! You idiot, you led them to us?!"
+<ce> _pers_ кричит в ответ: "Вильяс! Ты идиот, ты привел их к нам?!"
 <ce>
-<ce> Viljas answers, "They already knew! They know about the skull!
-<ce> We can't hide it anymore! We're dead! We're all dead!"
-<ce> Then he asks you, "Who are you?"
+<ce> Вильяс отвечает: "Они уже знали! Они знают о черепе!
+<ce> Мы больше не можем это скрывать! Мы мертвы! Мы все мертвы!"
+<ce> Затем он спрашивает тебя: "Кто ты?".
 <ce>
-<ce> "Our savior, that's who," _pers_ answers. He hands the skull
-<ce> to Viljas and says, "Hey, neither of us are meant for fighting,
-<ce> so you're gonna keep us safe, okay? I know you don't know what's going on,
-<ce> but please, just fend them off until I say, okay? Please? Please?"
+<ce> "Наш спаситель, вот кто", - отвечает _pers_. Он вручает череп
+<ce> Вильясу и говорит: "Эй, никто из нас не предназначен для сражений,
+<ce> так что ты будешь охранять нас, хорошо? Я знаю, что ты не понимаешь, что происходит,
+<ce> но, пожалуйста, просто отбивайся от них, пока я не скажу, хорошо? Пожалуйста? Пожалуйста?"
 <ce>
-<ce> Even as he speaks, you hear shouting and many plated boots beating the floor.
-<ce> There's no hiding now. The battle is almost upon you.
+<ce> Даже пока он говорит, ты слышишь крики и шум множества бронированных ног по полу.
+<ce> Теперь уже не спрятаться. Битва уже почти настигла тебя.
 <ce>
-<ce> "One thing, we need to stay underground until it's ready," Viljas mentions.
-<ce> "This thing's going to be useless otherwise. Just keep us safe for a little
-<ce> bit. It'll be worth it, okay?!"
+<ce> "Ещё кое что, нам нужно оставаться под землей, пока все не будет готово", - упоминает Вильяс.
+<ce> "Иначе эта штука будет бесполезна. Просто обезопась нас на некоторое
+<ce> время. Это того стоит, хорошо?!"
 
 Message:  1012
-<ce> Viljas shouts in pain as the skull gets searingly hot.
-<ce> He holds on tight, keeping it away from your many foes.
+<ce> Вильяс кричит от боли, когда череп становится обжигающе горячим.
+<ce> Он держит его крепко, держа его вдали от твоих многочисленных врагов.
 
 Message:  1013
-<ce> "AHH! I can't take it anymore!!" Viljas screams.
-<ce> The skull glows brightly, and then shoots out a force wave.
+<ce> "АААА! Я больше не могу этого выносить!!!" кричит Вильяс.
+<ce> Череп ярко светится, а затем выстреливает силовой волной.
 
 Message:  1014
-<ce> "VILJAS!! Do that again!" _pers_ screams.
+<ce> "ВИЛЬЯС!!! Давай ещё раз!" кричит _pers_.
 <ce>
-<ce> "Calm your mouth, this thing hurts like blazes!!" Viljas yells back.
-<ce> The skull begins to glow again.
+<ce> "Заткнись, эту боль невозможно терпеть!!!" кричит в ответ Вильяс.
+<ce> Череп снова начинает светиться.
 
 Message:  1015
-<ce> All your foes are dead. Your two companions pant heavily, exhausted from
-<ce> the tumult of battle. Then they give each other a high-five.
-<ce> "HA HA! Amazing stuff! What a story that was!"
-<ce> They laugh and celebrate as Viljas puts the skull away.
-<ce> Then he starts running. Before you can catch him,
-<ce> _pers_ checks you with a shoulder tackle, sending you to the ground.
-<ce> By the time you recover your footing, they're both long gone.
+<ce> Все твои враги мертвы. Твои спутники тяжело дышат, обессилев от
+<ce> бурной битвы. Затем они дают друг другу "дай пять".
+<ce> "ХАХА! Потрясающая штука! Вот это история!"
+<ce> Они смеются и празднуют, пока Вильяс убирает череп.
+<ce> Затем он начинает бежать. Прежде чем ты успеваешь его догнать,
+<ce> _pers_ ударяет тебя плечом, отправляя на землю.
+<ce> К тому времени, как ты поднялся, они оба уже давно ушли.
 <ce>
-<ce> "Finders keepers, dumb %ra!" Viljas' voice echoes from afar.
+<ce> "Кто нашёл тот владеет, тупой %ra!" голос Вильяса доносится издалека.
 <ce>
-<ce> This will be quite the tale to tell _qgiver_.
+<ce> Будет очень интересно рассказывать об этом _qgiver_.
 
 Message:  1016
-<ce> _pers_ and Viljas' jaws drop with disbelief.
-<ce> They begin to yell at you.
-<ce> "IDIOT! We told you to stay underground until this thing was ready!
-<ce> Now it's useless!" They throw the skull at the ground, shattering it.
-<ce> They then stomp off without further discussion.
+<ce> У _pers_ и Вильяс смотрят с отвисшими челюстям.
+<ce> Они начинают кричать на тебя.
+<ce> "ИДИОТ! Мы же говорили тебе оставаться под землей, пока эта штука не будет готова!
+<ce> Теперь она бесполезна!" Они бросают череп на землю, разбивая его вдребезги.
+<ce> Затем они топают прочь без дальнейших разговоров.
 
 Message:  1017
-<ce> Viljas yells as the skull shoots out another force wave.
+<ce> Вильяс кричит, когда череп выстреливает еще одну силовую волну.
 
 Message:  1030
 %qdt:
- _qgiver_ of ___qgiver_ sent me to
- ___dung_ to find a pair of
- guild newcomers. They found
- something dangerous, and
- shouldn't be left alone with it.
- If I can, I need to get it from them
- and deliver it to _qgiver_,
- or at least tell %g2 about it
- within =timer_ days' time.
+ _qgiver_ из ___qgiver_ послал меня в
+ ___dung_, чтобы найти пару
+ новобранцев из гильдии. Они нашли
+ нечто опасное, и
+ не должны оставаться с этим наедине.
+ Если я смогу, мне нужно забрать это у них
+ и доставить его _qgiver_,
+ или хотя бы рассказать об этом
+ в течение =timer_ дней.
 
 Message:  1031
 %qdt:
- The two fools are holding an enchanted skull
- with some kind of power. We're being pursued by
- an armed band, and I have to keep us safe
- by one means or another until the skull
- is "ready." However, we can't leave
- ___dung_ until that happens.
+ Два дурака держат в руках заколдованный череп
+ обладающий какой-то силой. Нас преследует
+ вооруженная группа, и я должен обеспечить нам безопасность
+ тем или иным способом, пока череп не
+ будет "готов". Однако мы не можем покинуть
+ ___dung_, пока это не произойдет.
 
 QBN:
 

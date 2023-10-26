@@ -65,7 +65,7 @@ Message:  1010
 <ce> your foe to come to you. Do you try to set a trap (yes)
 <ce> or search on your own (no)?
 <ce>
-<ce> (SKILL CHECK: YES: Stealth, difficulty medium)
+<ce> (ПРОВЕРКА НАВЫКА: YES: Stealth, difficulty medium)
 
 Message:  1011
 <ce> You're back, and you have no proof of a slain criminal.
@@ -75,7 +75,7 @@ Message:  1012
 <ce> Very well then. Off you go.
 
 Message:  1013
-<ce> (SKILL CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
 <ce> Using a few pieces of litter nearby, you arm
 <ce> a noise trap that sounds a few steps away from you.
@@ -84,7 +84,7 @@ Message:  1013
 <ce> "Is someone there?"
 
 Message:  1014
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> You gather a few pieces of litter nearby and start
 <ce> to work on a noise trap. However, you're not nearly

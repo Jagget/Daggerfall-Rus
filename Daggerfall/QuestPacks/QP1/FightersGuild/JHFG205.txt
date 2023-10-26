@@ -55,10 +55,10 @@ Message:  1010
 <ce> ask them to help you kill your prey.
 <ce> Do you ask for their help (yes) or do it on your own (no)?
 <ce>
-<ce> (SKILL CHECK: YES: Spriggan, difficulty low)
+<ce> (ПРОВЕРКА НАВЫКА: YES: Spriggan, difficulty low)
 
 Message:  1011
-<ce> (SKILL CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
 <ce> You explain to the spriggans that these animals
 <ce> are harming the cycle of nature by attacking
@@ -67,7 +67,7 @@ Message:  1011
 <ce> march toward you to help.
 
 Message:  1012
-<ce> (SKILL CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> You call out to the spriggans and try to convince them
 <ce> to attack the beasts. You attract their attention but don't
