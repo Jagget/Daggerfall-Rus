@@ -1,76 +1,77 @@
 Quest: JHTG113
-DisplayName: The Mark of Mastery
+DisplayName: Знак Мастерства
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> You've made a name for yourself here
-<ce> in the guild, %pcf, but you're
-<ce> still lacking something to be called
-<ce> a true master. We've got a test that
-<ce> the greatest of our members pass before
-<ce> they can consider themselves made.
-<ce> You can try it any time, but only once,
-<ce> and the test starts immediately.
-<ce> Ready to put your life on the line?
+<ce> Ты сделал себе имя здесь
+<ce> в гильдии, %pcf, но тебе
+<ce> все еще не хватает кое-чего, чтобы называться
+<ce> настоящим мастером. У нас есть испытание, которое
+<ce> проходят величайшие из наших членов, прежде чем
+<ce> они могут считать себя Мастерами.
+<ce> Ты можешь попробовать в любое время, но только один раз,
+<ce> и испытание начинается немедленно.
+<ce> Готов поставить свою жизнь на кон?
 
 RefuseQuest:  [1001]
-<ce> Take some time to prepare and come back.
+<ce> Возьми время на подготовку и возвращайся.
 
 AcceptQuest:  [1002]
-<ce> _questgiver_ reaches for something
-<ce> that %g1 attaches to your wrist.
-<ce> You feel yourself being conveyed
-<ce> elsewhere. As %g1 fades away, you
-<ce> hear _questgiver_ say,
+<ce> _questgiver_ берёт какой-то предмет,
+<ce> который %g1 прикрепляет к твоему запястью.
+<ce> Ты чувствуешь, как тебя переносят
+<ce> в другое место. Когда %g1 исчезает, ты
+<ce> слышишь, как _questgiver_ говорит,
 <ce>
-<ce> "Just survive half an hour. Run as fast as you can."
+<ce> "Просто выживи полчаса. Беги так быстро, как только сможешь".
 
 QuestFail:  [1003]
-<ce> The bracelet put on you for this test burns.
-<ce> Your Recall spell fails to work.
+<ce> Браслет, надетый на тебя для этого испытания, сгорел.
+<ce> Твое заклинание "Возврат" не сработало.
 
 QuestComplete:  [1004]
-<ce> You've done it, %pcf. We were watching
-<ce> through the bracelet. Now we can
-<ce> call you %pct in very deed.
-<ce> Those kinds of bragging rights are hard
-<ce> to come by, but we wanted a more
-<ce> tangible reward for you, sort of to
-<ce> say thanks for how you've helped us out.
+<ce> Ты сделал это, %pcf. Мы наблюдали
+<ce> через браслет. Теперь мы можем
+<ce> сказать, что ты на самом деле %pct.
+<ce> Такое право хвастаться сложно
+<ce> получить, но мы хотели дать тебе более 
+<ce> осязаемую награду, чтобы
+<ce> сказать спасибо за то, что ты нам помог.
 
 QuestorPostSuccess:   [1008]
-The true Master Thief. Welcome.
+Настоящий Мастер вор. Добро пожаловать.
 
 QuestorPostFailure:   [1009]
-I'm glad you're here among the living, but you only get one chance at the Mark of Mastery.
+Я рад, что ты здесь, среди живых, но у тебя есть только один шанс получить Знак Мастерства.
 
 Message:  1010
-<ce> The bracelet put on you dissolves.
-<ce> The vampires fade away into the dark,
-<ce> leaving no trace of their presence.
+<ce> Браслет, надетый на тебя, растворяется.
+<ce> Вампиры исчезают в темноте,
+<ce> не оставляя и следа.
 
 Message:  1011
-<ce> The bracelet binds itself to your skin.
-<ce> Nearby, you hear a hissing noise.
-<ce> It's time to run.
+<ce> Браслет как бы приклеен к твоей коже.
+<ce> Неподалеку ты слышишь шипящий звук.
+<ce> Пора бежать.
 <ce>
-<ce> (Hint: You may be in a location that's impossible to escape from,)
-<ce> (like the bottom of a chute. If so,)
-<ce> (make a save and try the console command "teleport" to get out.)
+<ce> (Подсказка: ты можешь оказаться в таком месте, откуда невозможно сбежать).
+<ce> (например, на дне желоба. Если это так, то сделай сохранение).
+<ce> (и попробуй выполнить консольную команду "teleport", чтобы выбраться).
 
 Message:  1012
-<ce> It appears you have no means of escaping
-<ce> until this test is over.
+<ce> Похоже, у тебя нет возможности выбраться,
+<ce> пока это испытание не закончится.
 
 Message:  1030
 %qdt:
- I've taken a test of mastery
- for the Thieves Guild. I've been
- sent into a cave somewhere
- in %crn and need only to
- survive for half an hour.
- Then I can return to ___questgiver_.
+ Я принял тест на мастерство
+ от Гильдии Воров. Меня
+ отправили в пещеру где-то
+ в %crn, и мне нужно всего лишь
+ выжить в течение получаса.
+ Затем я смогу вернуться
+ к ___questgiver_.
 
 QBN:
 Item _reward_ artifact Skeletons_Key

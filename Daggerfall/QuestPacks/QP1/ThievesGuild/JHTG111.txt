@@ -1,100 +1,100 @@
 Quest: JHTG111
-DisplayName: A Bit of Bribery
+DisplayName: Небольшой подкуп
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> One of the family's got a rather vindictive enemy in
-<ce> %crn's courts. This noble's been hauling
-<ce> the fellow to jail every few months for petty crimes.
-<ce> We need someone to help bribe the problem away.
+<ce> У одной из семей есть довольно злопамятный враг при 
+<ce> дворе %crn. Этот аристократ каждые несколько 
+<ce> месяцев таскает парня в тюрьму за мелкие преступления. 
+<ce> Нам нужен кто-то, кто поможет купить решение.
 
 RefuseQuest:  [1001]
-<ce> Someone's gonna come around and do this.
+<ce> Обязательно найдётся кто-то кто это сделает.
 
 AcceptQuest:  [1002]
-<ce> Word has it the noble's right hand mutt, _kni_,
-<ce> has a soft spot for precious stones. We've been watching
-<ce> a particular shipment of a flawless kind of _gem_
-<ce> that should catch %g3 attention. Grab a sample from
-<ce> _jewel_ in ___jewel_ and then
-<ce> get it to _kni_. Lives in ___knitown_.
-<ce> Do it at night when %g1's not working and there won't
-<ce> be as many witnesses. I'll have =reward_
-<ce> gold for you if you're here in =timer_ days.
+<ce> Ходят слухи, что правая рука благородной шавки, 
+<ce> _kni_ неравнодушна к драгоценным камням. Мы 
+<ce> наблюдаем за особой партией _gem_  безупречного 
+<ce> качества, которая должен привлечь %g3 внимание. 
+<ce> Возьми образец у _jewel_ в ___jewel_, а потом 
+<ce> отнеси его _kni_. Живет в ___knitown_. Сделай это 
+<ce> ночью, когда %g1 не работает и мало свидетелей. У 
+<ce> меня будет для тебя =reward_ золотом, если ты 
+<ce> придешь через =timer_ дней.
 
 QuestFail:  [1003]
-<ce> You were to deliver the stolen _gem_
-<ce> and report to _questgiver_ by now.
+<ce> Ты должен был доставить украденный _gem_
+<ce> и явиться к _questgiver_ уже сейчас.
 
 QuestComplete:  [1004]
-<ce> Tell me, how'd _kni_ react?
-<ce> I figured %g1'd put up a show. Nice work. Take the money.
+<ce> Скажи мне, как отреагировал _kni_?
+<ce> Я так и думал, что %g1 устроит шоу. Хорошая работа. Возьми деньги.
 
 Message:  1011
-<ce> (PICKPOCKETING CHECK FAILED)
+<ce> (ПРОВЕРКА НА КАРМАННИЧЕСТВО ПРОВАЛЕНА)
 <ce>
-<ce> "Thief! I'm sick of you lot! I'll kill you myself!"
+<ce> "Вор! Как вы мне надоели! Я сам тебя убью!"
 
 Message:  1012
-<ce> (PICKPOCKETING CHECK PASSED)
+<ce> (ПРОВЕРКА НА КАРМАННИЧЕСТВО ПРОЙДЕНА)
 <ce>
-<ce> You deftly put the gem away. No one is the wiser.
+<ce> Ты ловко убираешь драгоценный камень. Ни сном ни духом.
 
 Message:  1013
-<ce> "Good evening. I fail to recognize your face. State your business."
+<ce> "Добрый вечер. Я не узнаю тебя в лицо. По какому ты делу?"
 
 Message:  1014
-<ce> "My word, what an atrocious proposal you make. You say
-<ce> I ought to let your friend go and present me with this
-<ce> _gem_ in exchange? Tell me, have you a good reason
-<ce> behind this blatant perversion of justice?"
+<ce> "Боже мой, какую мерзость ты мне предлагаешь. Ты говоришь, что я 
+<ce> должен отпустить твоего друга, а взамен ты дашь мне этот _gem_? 
+<ce> Скажи мне, есть ли у тебя веские причины для такого извращенного 
+<ce> представления о справедливости?"
 
 Message:  1015
-<ce> "Preposterous. And what might that be?"
+<ce> "Какая нелепость. И что же это может быть?"
 <ce>
-<ce> You explain that the guild member is suffering from a
-<ce> vindictive noble's wrath rather than the weight of any crime.
+<ce> Ты объясняешь, что член гильдии страдает от мстительного дворянского 
+<ce> гнева, а не от тяжести какого-либо преступления.
 <ce>
-<ce> "That is quite difficult for me to believe. Our justice system
-<ce> is impeccable, and every accusation by our fair monarchy
-<ce> must be well-founded. Don't you believe that?"
+<ce> "В это мне довольно трудно поверить. Наша система правосудия 
+<ce> безупречна, и каждое обвинение со стороны нашей справедливой 
+<ce> монархии должно быть вполне обоснованным. Разве ты не веришь в это?"
 
 Message:  1016
-<ce> "Ha! I should call the town guard on you for trespassing.
-<ce> I never once gave you permission to enter. But lest I
-<ce> be called uncivilized, I will permit you to leave
-<ce> without further issue. Good day."
+<ce> "Ха! Я должен вызвать городскую стражу за незаконное 
+<ce> проникновение. Я не давал тебе разрешения войти. Но, чтобы 
+<ce> меня не называли неучтивым, я разрешаю тебе убраться 
+<ce> быстро и прямо сейчас. Всего хорошего".
 <ce>
-<ce> _kni_ extends %g3 hand to shake yours.
-<ce> Will you do so?
+<ce> _kni_ предлагает ударить по рукам.
+<ce> Сделаешь ли ты это?
 
 Message:  1017
-<ce> Still holding the _gem_, you take %g3 hand and make the transfer.
-<ce> _kni_ nods knowingly and winks.
-<ce> Your fellow guild member will soon be free.
+<ce> Всё ещё держа _gem_, ты жмёшь руку, незаметно передавая камень.
+<ce> _kni_ понимающе кивает и подмигивает.
+<ce> Твой товарищ по гильдии скоро будет свободен.
 
 Message:  1018
-<ce> "As I thought. Begone, chattel!"
+<ce> "Как я и думал. Сгинь, болван!"
 
 Message:  1019
-<ce> "Indeed, and I would be a fool to consort any further with you. Begone."
+<ce> "Да, и я был бы глупцом, если бы стал общаться с тобой дальше. Уходи".
 
 Message:  1020
-<ce> _kni_ frowns and reaches %g3 hand back.
-<ce> It appears your fellow guild member will not be set free.
+<ce> _kni_ хмурится и убирает руку.
+<ce> Похоже, твой товарищ по гильдии не будет освобожден.
 
 Message:  1030
 %qdt:
- I'm being sent to ___jewel_ to get a
- particular _gem_ from _jewel_,
- which I need to give to some servant
- named _kni_ who lives in ___knitown_.
- I'll get paid =reward_ gold if I'm back
- to the Thieves Guild in ___questgiver_
- in =timer_ days. If I don't find
- the servant at home, I should wait
- 'til night.
+ Меня посылают в ___jewel_, чтобы я получил
+ определенный драгоценный камень,
+ который я должен отдать некоему слуге
+ по имени _kni_, который живет в ___knitown_.
+ Мне заплатят =reward_ золотых, если я вернусь
+ в Гильдию Воров в ___questgiver_
+ через =timer_ дней. Если я не найду
+ слугу дома, мне следует подождать
+ до ночи.
 
 QBN:
 

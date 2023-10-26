@@ -1,70 +1,70 @@
 Quest: JHTG109
-DisplayName: Only the Best
+DisplayName: Только лучшие
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Yeah, I've got something for you. That is, for YOU.
-<ce> It ain't gonna be pretty, I can tell you that.
-<ce> But if you take it, the client's offering one of those
-<ce> artifacts, the powerful ones. That's how big this
-<ce> thing is. Are you gonna take it?
+<ce> Да, у меня есть кое-что для тебя. Именно для ТЕБЯ.
+<ce> Могу тебе сразу сказать, работа грязная.
+<ce> Но если ты согласишься, клиент предложит один из тех
+<ce> знаменитых мощных артефактов. Вот насколько важна эта
+<ce> работа. Ты возьмешься?
 
 RefuseQuest:  [1001]
 <ce> Well then, that's that.
 
 AcceptQuest:  [1002]
-<ce> Here. There's this bag here, and don't bother opening it.
-<ce> You can't and you don't wanna know what's inside. Now that
-<ce> it's in your hands, two things are gonna start to happen.
-<ce> One, you're gonna start to feel violently ill, and that's
-<ce> not gonna go away. Two, you're gonna start to see daedra
-<ce> coming for you. That's why this is for you specifically.
-<ce> For most people this is a suicide job, and maybe we should
-<ce> call it that. But this bag has to get to ___tav_.
-<ce> A contact named _gpers_ is gonna be in a tavern
-<ce> called _tav_ about =days_ days from now.
+<ce> Вот. Держи эту сумку и не трудись ее открывать.
+<ce> Ты не сможешь и не захочешь узнать, что внутри. Теперь, когда
+<ce> она у тебя, начнут происходить две вещи.
+<ce> Во-первых, ты начнешь чувствовать сильное недомогание, и это
+<ce> не пройдет. Второе - за тобой начнут приходить даэдра
+<ce> Вот почему эта работа специально для тебя.
+<ce> Для большинства людей это самоубийство.
+<ce> Этот пакет должен попасть в ___tav_.
+<ce> Контакт по имени _gpers_ будет находиться в таверне
+<ce> под названием _tav_ примерно через =days_ дней.
 
 QuestFail:  [1003]
 
 QuestComplete:  [1004]
-<ce> Welcome, child. Give me the bag, quickly.
-<ce> No creature must know of its continued presence here.
-<ce> And now, before I slay you and your witnessing eyes,
-<ce> take this reward. It is a fair exchange.
-<ce> Safe travels, %ra.
+<ce> Добро пожаловать, дитя. Дай мне сумку, быстро.
+<ce> Ни одна душа не должна знать о том, что она здесь.
+<ce> А теперь, пока я не убил тебя и не вырвал твои глаза,
+<ce> которые всё видели, прими эту награду. Это справедливый обмен.
+<ce> Доброго пути, %ra.
 
 Message:  1010
-<ce> But really, let me just ask this. One last time.
-<ce> Are you sure you want to do this? You've only got one life,
-<ce> and I'd hate to see you throw it away.
+<ce> Это серьёзно! Позволь мне задать один вопрос. В последний раз.
+<ce> Ты уверен, что хочешь это сделать? У тебя только одна жизнь,
+<ce> и мне бы очень не хотелось, чтобы ты её потерял.
 
 Message:  1011
-<ce> All right then. Get marching, soldier.
-<ce> Oblivion's on its way.
+<ce> Хорошо. Тогда в путь, солдат.
+<ce> Обливион ждёт тебя.
 
 Message:  1012
-<ce> Sure, no hard feelings. Like I said, it's suicide.
-<ce> I'll tell the client it's not worth the trouble.
+<ce> Конечно, никаких обид. Как я уже сказал, это было бы самоубийство.
+<ce> Я скажу клиенту, этот заказ не стоит таких проблем.
 
 Message:  1015
-<ce> You could throw away the bag if you choose, though
-<ce> that would likely cause problems for the Thieves Guild.
-<ce> Do you wish to abandon it?
+<ce> При желании ты можешь выбросить сумку, хотя
+<ce> это, скорее всего, создаст проблемы для Гильдии Воров.
+<ce> Ты хочешь выбросить её?
 
 Message:  1016
-<ce> You discard the bag.
+<ce> Ты выбрасываешь сумку.
 
 Message:  1020
-<ce> A deafening roar sounds in the distance.
+<ce> Вдалеке раздается оглушительный рев.
 
 Message:  1030
 %qdt:
- _questgiver_ of the Thieves Guild
- gave me a bag that needs to get to
- a person named _gpers_
- at _tav_, ___tav_,
- after about =days_ days.
+ _questgiver_ из Гильдии Воров
+ передал мне сумку, которая должна попасть к
+ человеку по имени _gpers_.
+ в _tav_, ___tav_,
+ примерно через =days_ дней.
 
 QBN:
 

@@ -1,70 +1,70 @@
 Quest: JHTG114
-DisplayName: Gang War
+DisplayName: Война между бандами
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Got a bit of a territory war that'll break out
-<ce> near a temple here in %reg. The Wharf Rats
-<ce> are getting brave again, and we need some strong arms
-<ce> for fighting. You gonna lend us yours, %pcf?
+<ce> Будет небольшая война за территорию, которая разразится
+<ce> возле храма здесь, в %reg. Причальные Крысы
+<ce> снова становятся смелыми, и нам нужны сильные руки
+<ce> для борьбы. Ты одолжишь нам свои, %pcf?
 
 RefuseQuest:  [1001]
-<ce> The more we control, the more we all profit.
-<ce> Think about it, %pct.
+<ce> Чем больше мы контролируем, тем больше мы все зарабатываем.
+<ce> Подумай об этом, %pct.
    <--->
-<ce> Yeah, why would I ask for your arms
-<ce> if you don't have a brain?
+<ce> Да, зачем мне просить тебя помочь руками,
+<ce> если у тебя нет мозга?
 
 AcceptQuest:  [1002]
-<ce> Head to ___templehome_. That's
-<ce> %di from here. A bit of a trek. We've already
-<ce> got some hired men waiting for the fight, so the thing's
-<ce> gonna break out any time. Hurry over there and
-<ce> help us win this. We can't count on dark arts or none of
-<ce> that Dark Brotherhood business, so take every advantage
-<ce> you can get. Just don't go killing any guards, right?
-<ce> You do that, the blood's on your hands. Get going.
+<ce> Отправляйся в ___templehome_. Это на
+<ce> %di отсюда. Небольшой поход. Мы уже
+<ce> купили наемников, которые ждут драки, так что 
+<ce> может полыхнуть в любой момент. Поспеши туда и
+<ce> помоги нам победить. Мы не можем рассчитывать ни на темные искусства, ни на все 
+<ce> эти делишки Темного Братства, так что используй все преимущества,
+<ce> которые у тебя есть. Только не вздумай убивать охранников, да?
+<ce> Если ты это сделаешь, кровь будет на твоих руках. Отправляйся в путь.
 
 QuestFail:  [1003]
-<ce> Thieves aren't known for their bravery, but running
-<ce> from this battle will give you a particularly bad reputation.
+<ce> Воры не славятся своей храбростью, но бегство
+<ce> от этой битвы создаст тебе особенно плохую репутацию.
 
 QuestComplete:  [1004]
-<ce> The battle is won. Your allies merely
-<ce> give each other congratulatory nods
-<ce> before fading away into the shadows.
-<ce> The Thieves Guild's pay is enough for them,
-<ce> and the Wharf Rats' loot is yours.
+<ce> Битва выиграна. Твои союзники лишь
+<ce> поздравительно кивнули друг другу,
+<ce> прежде чем скрыться в тени.
+<ce> Гильдии Воров заплатила им достаточно,
+<ce> а что осталось от Причальных Крыс - твоё.
 
 RumorsPostSuccess:  [1007]
-The Thieves Guild are a ferocious bunch.
+Гильдия Воров - свирепая компания.
 
 QuestorPostSuccess:  [1008]
-The Wharf Rats show up again, I'll tell you about it.
+Причальные Крысы снова появились, я расскажу тебе об этом.
 
 Message:  1010
-<ce> Your allies, a hired band of barbarians, notice your
-<ce> arrival in ___templehome_ and
-<ce> give you a sign to lay low. They've counted out
-<ce> six foes, a mix of rogues and spellswords.
+<ce> Твои союзники, наемные варвары, заметили твое
+<ce> прибытие в ___templehome_ и
+<ce> подают тебе знак залечь на дно. Они насчитали
+<ce> шесть противников, смесь из жуликов и заклинателей.
 <ce>
-<ce> The Wharf Rats soon notice your group's movement
-<ce> and rush to meet you. The battle is on.
+<ce> Причальные Крысы вскоре заметили движение твоей группы
+<ce> и бросились навстречу. Битва началась.
 
 Message:  1011
-<ce> One of your allies has fallen.
-<ce> The enemy cheers, rallied by their small victory.
+<ce> Один из твоих союзников пал.
+<ce> Противник ликует, воодушевленный своей маленькой победой.
 
 Message:  1030
 %qdt:
- The Thieves Guild needs help
- fighting off some rival group
- that's rooted into ___templehome_
- in ____questgiver_. They
- asked me to head over there and
- kill them off with the
- help of some hired muscle.
+ Гильдии Воров нужна помощь
+ в борьбе с какой-то конкурирующей группировкой,
+ которая пустила корни в ___templehome_
+ в ____questgiver_. Они
+ попросили меня отправиться туда и
+ убить их, заручившиь помощью
+ нескольких наёмников.
 
 QBN:
 
