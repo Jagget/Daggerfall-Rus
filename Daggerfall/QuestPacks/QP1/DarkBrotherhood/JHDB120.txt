@@ -1,104 +1,104 @@
 Quest: JHDB120
-DisplayName: Discord of the Mages Guild
+DisplayName: Раздор в Гильдии Магов
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We recently received a request from the
-<ce> Mages Guild to off one of their members.
-<ce> Quite official-looking. I suppose it couldn't
-<ce> hurt to improve your standing among them
-<ce> by taking this job, would it %pct?
+<ce> Недавно мы получили запрос от Гильдии Магов об 
+<ce> устранении одного из их членов. Довольно 
+<ce> официально выглядящий. Я полагаю, вам не 
+<ce> повредит улучшить свое положение среди Магов, 
+<ce> согласившись на эту работу, не так ли, %pct?
 
 RefuseQuest:  [1001]
-<ce> You can have other allegiances, %ra.
-<ce> We will not be jealous.
+<ce> Ты можешь быть предан другим, %ra.
+<ce> Мы не будем ревновать.
 
 AcceptQuest:  [1002]
-<ce> Good. First head to the sap's guild hall
-<ce> in ___guild_. They'll explain where
-<ce> to go. We don't particularly care about why
-<ce> the fool needs to die; the Brotherhood
-<ce> is merely happy to be the instrument, and
-<ce> you are given the honor of carrying it out.
-<ce> They demanded that this matter be concluded
-<ce> in =timer_ days. Be sure that whoever this is
-<ce> ceases breathing by then. Your contact's
-<ce> name in the guild is _mage_. Farewell.
+<ce> Хорошо. Сначала отправляйтесь в зал гильдии в 
+<ce> ___guild_. Они объяснят, куда идти. Нас не 
+<ce> особенно волнует, почему дурак должен 
+<ce> умереть; Братство просто счастливо быть 
+<ce> инструментом, и вам выпала честь исполнить 
+<ce> задачу. Они потребовали, чтобы это дело было 
+<ce> завершено в течение =timer_ дней. Убедитесь, 
+<ce> что к этому времени цель перестала дышать, 
+<ce> кто бы это ни был. Имя вашего контактного 
+<ce> лица в гильдии - _mage_. Прощайте.
 
 QuestFail:  [1003]
-<ce> Did you get lost on the way to ___guild_, %pct?
+<ce> Вы заблудились по дороге в ___guild_, %pct?
 
 QuestComplete:  [1004]
-<ce> This matter is finished. The mages of
-<ce> ___guild_ need fear no more a rogue
-<ce> daedra summoner.
+<ce> С этим делом покончено. Магам из ___guild_ 
+<ce> больше не нужно бояться изгоя, 
+<ce> призывающего даэдра.
 
 Message:  1010
-<ce> Good day. Ah, you would be our, um, specialist!
-<ce> For that one difficult matter! Please, let us
-<ce> speak softly.
+<ce> Добрый день. Ах, вы будете нашим, гм, специалистом! 
+<ce> Для этого единственного трудного дела! Пожалуйста, 
+<ce> давайте говорить потише.
 <ce>
-<ce> We would tell you of a problem that needs solving,
-<ce> and it's quite urgent. The summoning of daedra is
-<ce> a task of great hazards, not to be propagated
-<ce> by every last child with a desire to speak to
-<ce> otherworldly forces. We of the Mages Guild do well
-<ce> to restrict that power only to the responsible.
-<ce> Nevertheless, we occasionally let one or another
-<ce> slip through our fingers, as has happened this time.
+<ce> Мы хотели бы рассказать вам о проблеме, которая нуждается 
+<ce> в решении, и это довольно срочно. Призыв даэдра - задача, 
+<ce> сопряженная с большими опасностями, и ее не следует 
+<ce> пропагандировать каждому ребенку, желающему поговорить с 
+<ce> потусторонними силами. Мы, члены Гильдии Магов, поступаем 
+<ce> правильно, предоставляя эту власть только ответственным. 
+<ce> Тем не менее, мы иногда позволяем тому или иному 
+<ce> ускользнуть от нас, как это произошло сейчас.
 <ce>
-<ce> Our hard-headed pupil has taken refuge in a hole,
-<ce> ___dung_, hoping to continue with
-<ce> the daedra-baiting down there. Where this art
-<ce> was learned we do not know, for a mere Journeyman
-<ce> in our halls will never so be taught. Please
-<ce> have finished with this menace, that we may
-<ce> all rest more easily.
+<ce> Наш твердолобый ученик укрылся в норе, 
+<ce> ___dung_, надеясь продолжить погоню за 
+<ce> даэдра там, внизу. Где они этому искусству 
+<ce> научились, мы не знаем, ибо простого 
+<ce> подмастерья в наших залах никогда такому не 
+<ce> учат. Пожалуйста, покончите с этой угрозой, 
+<ce> чтобы нам всем было спокойнее.
 
 Message:  1011
-<ce> This foe's face turns pale. A few shouts in an
-<ce> arcane language follow, and one hand goes into
-<ce> the pack for some kind of parchment. It quickly
-<ce> starts to degrade due to an enchantment put on it.
+<ce> Лицо этого врага бледнеет. Раздается несколько 
+<ce> возгласов на непонятном языке, и одна рука лезет в 
+<ce> рюкзак за каким-то пергаментом. Он быстро начинает 
+<ce> разрушаться из-за наложенных на него чар.
 
 Message:  1012
-<ce> This parchment has stopped disintegrating
-<ce> with the rogue mage's death, but it likely
-<ce> won't last longer than a day in its current
-<ce> state. If you're going to get any use from it,
-<ce> it will be from memorizing its contents.
+<ce> Этот пергамент перестал распадаться со смертью 
+<ce> мага-изгоя, но в своем нынешнем состоянии он, 
+<ce> скорее всего, продержится не больше суток. Если вы 
+<ce> и собираетесь извлечь из него какую-то пользу, то 
+<ce> только путем запоминания его содержимого.
 
 Message:  1013
-A thousand thanks to thee, child. To rely on one
-of the civilized world tends to invoke turmoil upon
-our kind, but thou hast proven to be of an exceptional
-breed. Thy name among us is well-earned.
+Тысяча благодарностей тебе, дитя. Полагаться на кого-то из 
+цивилизованного мира, как правило, приводит к беспорядкам 
+среди нашего рода, но ты доказал, что принадлежишь к 
+исключительной породе. Твое имя среди нас заслуженно.
 <ce>
-We see fit to grant thee direct visitation to our
-sisterhood. No more need we waste time with intermediaries.
-If thou wilt visit us in our coven thou shalt be as one
-of us. With thine eyes, see thou the Burning Martyr of
-Kynareth in the region of Daggerfall. Put the setting sun
-to thy right ear and walk. Thou shalt find our altar
-and our joyful reception in short order, if thou vary not
-from thy course. Seek us on a plateau overlooking the sea.
+Мы считаем нужным предоставить тебе прямое посещение 
+нашего сестричества. Нам больше не нужно тратить время на 
+посредников. Если ты посетишь нас в нашем шабаше, ты 
+будешь как один из нас. Своими глазами узри Горящего 
+Мученика Кинарет в районе Даггерфолла. Приложи заходящее 
+солнце к своему правому уху и иди. Ты скоро найдешь наш 
+алтарь и получишь радостный прием, если не свернешь со 
+своего пути. Ищите нас на плато с видом на море.
 
 Message:  1030
 %qdt:
- The Dark Brotherhood of ___questgiver_
- has assigned me to speak with 
- _mage_ of the Mages Guild
- in ___guild_, who will
- tell me of an accounting that must
- be rendered within =timer_ days.
+ Темное Братство ___questgiver_
+ поручило мне поговорить с 
+ _mage_ из Гильдии Магов
+ в ___guild_, который
+ расскажет мне о деле, которое должено
+ быть улажено в течение =timer_ дней.
 
 Message:  1031
 %qdt:
- The Mages Guild, in turn, has sent
- me to ___dung_ to get rid
- of someone with too much interest
- in summoning daedra.
+ Гильдия Магов, в свою очередь, отправила
+ меня в ___dung_, чтобы избавиться
+ от кого-то, кто слишком сильно заинтересован
+ в вызове даэдра.
 
 QBN:
 Person _questgiver_ group Questor male

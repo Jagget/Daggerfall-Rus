@@ -1,76 +1,77 @@
 Quest: JHDB110
-DisplayName: Kidnap and Ransom
+DisplayName: Похищение и выкуп
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Does the name _kid_ ring a bell,
-<ce> %pcf? It belongs to one of the more famous
-<ce> ransom marks in %crn. We have word
-<ce> of a plot being conducted by some ring of
-<ce> amateurs, and wish to take possession of it.
-<ce> Will you be Mephala's hand in stealing this child away?
+<ce> Вам что-нибудь говорит имя _kid_,
+<ce> %pcf? Он является одной из наиболее известных
+<ce> целей похищения в %crn. У нас есть сообщение
+<ce> о заговоре, проводимом какими-то любителями
+<ce> и мы желаем перехватить цель.
+<ce> Будешь ли ты рукой Мефалы в похищении этого ребенка?
 
 RefuseQuest:  [1001]
-<ce> A trifling matter. We have much to do.
+<ce> Пустяковое дело. У нам много другой работы.
 
 AcceptQuest:  [1002]
-<ce> We know _kid_ will be taken to ___place_
-<ce> in =2place_ days. Look in _place_.
-<ce> The captors intend to spend no more than
-<ce> twenty-four hours in the building, so you must
-<ce> not fail in arriving. Once you have completed the
-<ce> transfer, take %g2 to _ransom_ at
-<ce> ___ransom_. Now go.
+<ce> Мы знаем, что _kid_ будет доставлен в ___place_
+<ce> через =2place_ дней. Загляни в _place_.
+<ce> Похитители намерены провести не более
+<ce> суток в здании, так что вы обязаны
+<ce> успеть вовремя. Как только вы завершите передачу,
+<ce> приведите ребенка в _ransom_ что в
+<ce> ___ransom_. А теперь иди.
 
 QuestFail:  [1003]
-<ce> You are too late. _kid_ will
-<ce> have left ___place_ by now.
+<ce> Ты опоздал. _kid_ к настоящему
+<ce> времени уже покинул ___place_.
 
 QuestComplete:  [1004]
-<ce> Once you enter the building, a member of
-<ce> the Brotherhood stops you to speak.
+<ce> Как только вы входите в здание, член
+<ce> Братства не даёт тебе заговорить.
 <ce>
-<ce> "Excellent work. We will carry the burden of this
-<ce> child's welfare now. Come, _kid_.
-<ce> We have much to do."
+<ce> "Отличная работа. Мы возьмем на себя бремя
+<ce> благополучия ребенка. Пойдем, _kid_.
+<ce> Нам многое предстоит сделать".
 <ce>
-<ce> _kid_ is led out of the building.
-<ce> Your work is done.
+<ce> Они выводят _kid_ из здания.
+<ce> Ваша работа выполнена.
 
 Message:  1015
-<ce> _kid_ will now be in _place_.
+<ce> _kid_ теперь будет находиться на _place_.
 
 Message:  1019
-<ce> (STEALTH CHECK PASSED)
+<ce> (ПРОВЕРКА СКРЫТНОСТИ ПРОЙДЕНА)
 <ce>
-<ce> You creep into _place_ in
-<ce> perfect silence. Now for the surprise attack.
+<ce> Ты прокрадываешься в _place_
+<ce> совершенно бесшумно. Теперь внезапная атака.
 
 Message:  1020
-<ce> (STEALTH CHECK FAILED)
-<ce> You enter _place_, where
-<ce> _kid_ is being kept.
+<ce> (ПРОВЕРКА СКРЫТНОСТИ ПРОВАЛЕНА)
+<ce>
+<ce> Вы входите в _place_, где
+<ce> они держат _kid_.
 
 Message:  1021
-<ce> You gag _kid_ and pull %g2 with you.
+<ce> Ты затыкаешь рот _kid_ и тянешь %g3 за собой.
 
 Message:  1030
 %qdt:
- The Dark Brotherhood has sent
- me to interrupt another group's
- ransom plot. I will find _kid_ in
- _place_ of ___place_
- in =2place_ days and take
- %g2 to _ransom_,
- ___ransom_. The child will only
- be in ___place_ for a single day.
- I must not fail to arrive.
+ Темное Братство послало
+ меня прервать заговор другой группы
+ с целью получения выкупа. Я найду _kid_ в
+ _place_ в ___place_
+ за =2place_ дней и уведу
+ %g3 в _ransom_
+ в ___ransom_. Ребенок будет
+ находиться в ___place_ только один день.
+ Я не должен опоздать.
 
 Message:  1040
-<ce> How is this possible?!
+<ce> Как это возможно?!
    <--->
-<ce> This can't be happening!
+<ce> Этого не может быть!
 
 QBN:
 Person _kid_ faction Children

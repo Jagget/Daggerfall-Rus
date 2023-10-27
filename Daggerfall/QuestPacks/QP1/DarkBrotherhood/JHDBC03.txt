@@ -1,20 +1,20 @@
 Quest: JHDBC03
-DisplayName: Dark Brotherhood Consequence Quest 3
+DisplayName: Темное Братство. Последствия. Квест 3
 -- Message panels
 QRC:
 
 Message:  1011
-<ce> An inhuman shriek brings you up sharp.
+<ce> Нечеловеческий вопль заставляет вас резко вскочить.
 <ce>
-<ce> "%pcn! Your time has come!"
+<ce> "%pcn! Твое время пришло!"
 <ce>
-<ce> A lone hooded mage holds a small trinket in his hand.
-<ce> He throws it to the ground, and with a bright flash,
-<ce> several foes take shape.
+<ce> Одинокий маг в капюшоне держит в руке маленькую безделушку.
+<ce> Он бросает его на землю, и с яркой вспышкой
+<ce> несколько врагов обретают форму.
 <ce>
-<ce> "For the Archmagister! Die, dog!"
+<ce> "За архимагистра! Умри, собака!"
 <ce>
-<ce> The mage teleports away.
+<ce> Маг телепортируется прочь.
 
 QBN:
 

@@ -1,113 +1,113 @@
 Quest: JHDB117
-DisplayName: Researching Notes
+DisplayName: Исследовательские заметки
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> For some reason there's an incessant demand for
-<ce> research notes related to the mundane sciences.
-<ce> Our client demands that these notes be gathered for
-<ce> an undisclosed purpose, and the Brotherhood is to
-<ce> obtain them by any means necessary. Where bribery
-<ce> fails, we send one such as yourself. Your task will
-<ce> be to kill the courier and take the Mages Guild's notes.
+<ce> По какой-то причине существует постоянный спрос на 
+<ce> исследовательские заметки, связанные с мирскими науками. Наш 
+<ce> клиент требует, чтобы эти записи были собраны с нераскрытой 
+<ce> целью, и Братство обязано получить их любыми необходимыми 
+<ce> средствами. Там, где подкуп не удается, мы посылаем такого, 
+<ce> как вы. Ваша задача будет состоять в том, чтобы убить 
+<ce> курьера и забрать записи Гильдии Магов.
 
 RefuseQuest:  [1001]
-<ce> What a surprise.
+<ce> Какой сюрприз.
 
 AcceptQuest:  [1002]
-<ce> Then the contract is yours. Your obligation is both
-<ce> the murder of the courier and the delivery of the
-<ce> document, for we wish to show the end of those who
-<ce> resist our generous offers. Seek out _dummymg_,
-<ce> wherever %g1 may be, and bring the research here
-<ce> within =timer_ days' time. Glory to the Night Mother.
+<ce> Тогда контракт ваш. Вашей обязанностью является как 
+<ce> убийство курьера, так и доставка документа, 
+<ce> поскольку мы хотим наказать тех, кто сопротивляется 
+<ce> нашим щедрым предложениям. Найдите _dummymg_, где 
+<ce> бы %g1 ни был, и принесите результаты исследования 
+<ce> сюда в течение =timer_ дней. Слава Матери Ночи.
 
 QuestFail:  [1003]
-<ce> _qgiver_ wanted the research notes by now.
+<ce> _qgiver_ уже хотел получить исследовательские заметки.
 
 QuestComplete:  [1004]
-<ce> Let me see the document. Hmm. Very well.
-<ce> I remain ignorant of the urgency our patron
-<ce> feels for these essays, but such concerns exceed
-<ce> my capacity to care. Your work is done, %pct.
+<ce> Дайте мне взглянуть на документ. Хмм. Очень хорошо. Я остаюсь 
+<ce> в неведении относительно срочности, с которой наш покровитель 
+<ce> относится к этим эссе, но подобные опасения превышают мои 
+<ce> возможности. Ваша работа выполнена, %pct.
 
 Message:  1010
-<ce> Hey! No! Someone help! Please!
+<ce> Привет! Нет! Кто-нибудь, помогите! Пожалуйста!
    <--->
-<ce> No! I'm dying! Help! Help!
+<ce> Нет! Я умираю! Помогите! Помогите!
 
 Message:  1011
-<ce> This paper contains the research _qgiver_ wanted.
+<ce> Эти бумаги содержат исследование, которое требует _qgiver_.
 
 Message:  1012
-That darn fool's always running around ___place_.
+Этот чертов дурак всегда бегает вокруг ___place_.
    <--->
-_courier_'s wasting %g3 life, I say.
+_courier_ впустую тратит свою жизнь, я вам говорю!
    <--->
-_courier_? Who's that?
+_courier_? Кто это?
 
 Message:  1013
-The manner by which the diastolic pressure
- of any two scarce commodities (creating a
- type of propulsion with no moving parts
- and virtual silence) has been postulated
- by thyrionic mathematicians for many years.
- In conventional thinking, the default
- parameters of any formula (objectively
- speaking, it is essential to remember that
- objectivity is indeed subjective) will
- always return to what Mornthaur called the
- "back medium." However, starting with a
- grid of complex numbers that more than covers
- the unit circle and three cube roots of one,
- we can backtrace, by uptracking the negative
- "half numbers," and create an infinite basin
- with dual natures of blackness and whiteness.
- The rate of adiabatic cooling or warming in
- unsaturated air can thus be made directly
- proportional to the fourth power of its
- absolute temperature.
+ Способ, с помощью которого изменяется 
+ диастолическое давление любых двух дефицитных 
+ товаров (создавая тип двигателя без движущихся 
+ частей и практически бесшумный), постулировался 
+ математиками-тирионистами в течение многих лет. 
+ В традиционном мышлении параметры по умолчанию 
+ любой формулы (объективно говоря, важно 
+ помнить, что объективность на самом деле 
+ субъективна) всегда будут возвращаться к тому, 
+ что Морнтхаур назвал "обратной средой". Однако, 
+ начав с сетки комплексных чисел, которая более 
+ чем покрывает единичный круг и три кубических 
+ корня из единицы, мы можем вернуться назад, 
+ отследив отрицательные "половинные числа", и 
+ создать бесконечный бассейн с двойной природой 
+ черноты и белизны. Таким образом, скорость 
+ адиабатического охлаждения или разогрева 
+ ненасыщенного воздуха может быть прямо 
+ пропорциональна четвертой степени его 
+ абсолютной температуры.
 
 Message:  1014
-<ce> A fellow in nondescript clothing presses
-<ce> a note into your hand and departs.
+<ce> Парень в невзрачной одежде сует
+<ce> вам в руку записку и уходит.
 
 Message:  1015
-%ra in the service of the Dark Brotherhood
+%ra службе у Темного Братства
  
- I greet you in the name of the King of Worms.
- We appear to have a common interest in the notes
- held by the scholar _dummymg_.
- Your loyalty to the Dark Brotherhood is admirable,
- but remember that such things have their end.
- The time will come that they turn to slay you as
- they do all their useful pawns. You may save yourself
- from your blind loyalty bringing the research to
- me in exchange for =reward_ gold pieces. One as
- cunning as yourself can see the balance is well
- in favor of a pact between us. Bring me what I want
- and earn the favor of the Lord of Death itself.
+ Я приветствую вас от имени Короля Червей. Похоже, 
+ у нас общий интерес к заметкам ученого _dummymg_. 
+ Ваша преданность Темному Братству достойна 
+ восхищения, но помните, что у всего есть свой 
+ конец. Придет время, и они убьют вас, как они 
+ делают со всеми своими полезными пешками. Вы 
+ можете избавить себя от своей слепой преданности, 
+ передав результаты исследования мне в обмен на 
+ =reward_ золотых. Такой хитрый человек, как вы, 
+ может видеть, что баланс в пользу соглашения 
+ между нами. Принеси мне то, что я хочу, и заслужи 
+ благосклонность самого Повелителя Смерти.
  
                 _nech_
                 ___nech_
 
 Message:  1016
-<ce> Will you give the research notes to the Necromancers?
+<ce> Вы передадите исследовательские записи некромантам?
 
 Message:  1017
-<ce> A smart choice, %ra. Have your money. I will
-<ce> spread the word concerning your prudence and
-<ce> values. I assure you, having the Necromancers
-<ce> for friends is not to be regretted.
+<ce> Разумный выбор, %ra. Забирай свои деньги. Я 
+<ce> расскажу о вашем благоразумии и ценностях. 
+<ce> Уверяю вас, о том, что у вас есть 
+<ce> друзья-некроманты, сожалеть не стоит.
 
 Message:  1030
 %qdt:
- The Dark Brotherhood of ___qgiver_
- has assigned me to obtain research
- notes held by one _dummymg_,
- who must also die in the process.
- I have =timer_ days to return.
+ Темное Братство ___qgiver_ поручило мне 
+ раздобыть исследовательские записи, 
+ хранящиеся у некоего _dummymg_, который 
+ также должен умереть в процессе. У меня 
+ есть =timer_ дней, чтобы вернуться.
 
 QBN:
 Person _qgiver_ group Questor male

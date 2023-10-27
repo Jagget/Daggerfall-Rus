@@ -1,5 +1,5 @@
 Quest: JHDB106
-DisplayName: Fundraising
+DisplayName: Сбор средств
 -- Message panels
 QRC:
 

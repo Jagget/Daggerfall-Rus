@@ -1,75 +1,76 @@
 Quest: JHDB111
-DisplayName: To Meddle with Mages
+DisplayName: Вмешиваться в дела магов
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Have you ever heard of an Archmagister, %pct?
-<ce> It is the highest known public office of the Mages Guild.
-<ce> Whether there is one Archmagister or many is beyond
-<ce> my concern; we have a demand here for his culling,
-<ce> with a powerful enchanted _reward_ as a reward.
-<ce> Would you like to wield it?
+<ce> Вы когда-нибудь слышали об Архимагистре, %pct?
+<ce> Это самая известная государственная должность Гильдии Магов.
+<ce> Существует ли один Архимагистр или их много, не
+<ce> моя забота; у нас есть задание убрать его,
+<ce> с мощным зачарованным _reward_ в качестве награды.
+<ce> Хотели бы вы получить такую награду?
 
 RefuseQuest:  [1001]
-<ce> We should screen our initiates for Mages Guild membership.
+<ce> Мы должны проверить наших посвященных на членство в Гильдии Магов.
 
 AcceptQuest:  [1002]
-<ce> This Archmagister, whoever he is, is conducting
-<ce> a visit to the guild hall in ___mg_.
-<ce> Look for someone under the alias "_archm_."
-<ce> For this contract, you must eschew all subtlety.
-<ce> Go boldly in the name of Mephala and slay him.
-<ce> Whoever else stands in your way does so at their own peril.
-<ce> Your license to kill is absolute.
+<ce> Этот Архимагистр, кем бы он ни был, проводит
+<ce> визит зала гильдии в ___mg_.
+<ce> Ищите кого-нибудь под псевдонимом "_archm_".
+<ce> Для этого контракта не нужна утончённость.
+<ce> Смело идите во имя Мефалы и убейте его.
+<ce> Тот, кто стоит у вас на пути, пусть пеняет на себя.
+<ce> Ваша лицензия на убийство абсолютна.
 <ce>
-<ce> Return here within =timer_ days,
-<ce> and your _reward_ will await you.
+<ce> Возвращайтесь сюда в течение =timer_ дней,
+<ce> и ваш _reward_ будет ждать вас.
 
 QuestFail:  [1003]
-<ce> Your time to claim the reward for the Archmagister's death has passed.
+<ce> Ваше время требовать награду за смерть Архимагистра прошло.
 
 QuestComplete:  [1004]
-<ce> It must have been quite a battle,
-<ce> from the rumors the Spymaster's been getting.
-<ce> All the more glory to the Night Mother.
-<ce> No one is exempt from the Brotherhood's reach.
-<ce> No one.
+<ce> Должно быть, это была настоящая битва,
+<ce> судя по слухам, которые доходили до Начальника разведки.
+<ce> Тем больше славы Матери Ночи.
+<ce> Никто не застрахован от визита Братства.
+<ce> Никто.
 <ce>
-<ce> I hope you enjoy this.
+<ce> Я надеюсь, вам это понравилось.
 
 RumorsPostSuccess:   [1007]
-The Archmagister was attacked in ___mg_... but they say it was a body double.
+На Архимагистра напали в ___mg_... но они говорят, что это было подставное тело.
    <--->
-The Dark Brotherhood tried to kill the Archmagister, visiting ___mg_, but it was a fake.
+Темное братство пыталось убить Архимагистра в ___mg_, но это была подделка.
    <--->
-The Dark Brotherhood tries to kill the Archmagister. No one's safe, after all.
+Темное братство пытается убить Архимагистра. В конце концов, никто не в безопасности.
 
 Message:  1011
-<ce> "Yes? Can I help you?"
+<ce> "Да? Могу я вам чем-нибудь помочь?"
 <ce>
-<ce> Subtlety would make this a lot easier,
-<ce> but you have no such option today.
-<ce> You inform him that this
-<ce> is the day of his death.
-<ce> He shouts loud and fearfully.
+<ce> Тонкость сделала бы это намного проще,
+<ce> но сегодня у вас нет такой возможности.
+<ce> Вы сообщаете ему, что это
+<ce> день его смерти.
+<ce> Он кричит громко и испуганно.
 <ce>
-<ce> "The Dark Brotherhood is in our halls!
-<ce> Everyone, defend yourselves!!"
+<ce> "Темное братство в наших залах!
+<ce> Все, защищайтесь!!"
 
 Message:  1012
-<ce> "This-- this cannot be!! No!"
+<ce> "Этого... этого не может быть!! Нет!"
 <ce>
-<ce> The Archmage expires.
+<ce> Архимагистр умирает.
 
 Message:  1030
 %qdt:
- "An" Archmagister, or "the" Archmagister,
- of the Mages Guild is visiting
- their hall at ___mg_.
- The Brotherhood requires me to slay him
- and return to ___questgiver_
- within =timer_ days for a powerful enchanted _reward_.
+ "Один" Архимагистр, или "тот самый" Архимагистр
+ Гильдии Магов посещает
+ их зал в ___mg_.
+ Братство требует, чтобы я убил его
+ и вернулся к ___questgiver_
+ в течение =timer_ дней за
+ могущественным зачарованным _reward_.
 
 QBN:
 Person _questgiver_ group Questor male

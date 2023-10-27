@@ -1,145 +1,145 @@
 Quest: JHDB112
-DisplayName: Pulling Weeds
+DisplayName: Выдергивание сорняков
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Surprising as it may be, some of our more
-<ce> weak-willed members have expressed discontent
-<ce> with Mephala's rule and tried to organize
-<ce> themselves as a rival assassination
-<ce> guild. It's really more pathetic than
-<ce> threatening, and I do not expect we
-<ce> will need more than one person to flatten
-<ce> it to the ground. I extend this opportunity
-<ce> to you due to your loyalty.
+<ce> Как это ни удивительно, некоторые из наших наиболее
+<ce> слабовольных соратинков выразили недовольство
+<ce> правлением Мефалы и попытались организовать
+<ce> конкурирующую Гильдию Убийц.
+<ce> Это выглядит скорее жалко, чем
+<ce> угрожающе, и я не думаю, что 
+<ce> потребуется более одного человека, чтобы сравнять
+<ce> их с землёй. Я предоставляю эту возможность
+<ce> вам из-за вашей преданности.
 
 RefuseQuest:  [1001]
-<ce> So soon as our other associates know of this,
-<ce> we will have swarms begging to take care of it.
+<ce> Как только другие наши соратники узнают об этом,
+<ce> у нас будут толпы людей, умоляющих дать это дело им.
 
 AcceptQuest:  [1002]
-<ce> The riffraff are operating out of ___res_.
-<ce> They are far more skilled at fleeing than at
-<ce> combat, which says much of why they have little
-<ce> to do with us. In other words, you'll need to earn
-<ce> their trust and lower their guard before you
-<ce> make the killing blow. The Spymaster tells us
-<ce> the very center of it all is _th_.
-<ce> Find %g2 in _res_ and breach %g3
-<ce> distrust. Strike when you see the proper moment.
-<ce> Then return. You are granted =timer_ days.
+<ce> Сброд действует из ___res_.
+<ce> Они гораздо более искусны в бегстве, чем в
+<ce> бою, что говорит о том, почему у нас с
+<ce> ними так мало общего. Другими словами, вам нужно будет заручиться
+<ce> их доверием и ослабить их бдительность перед тем, как
+<ce> нанеси смертельный удар. Начальник шпионской сети сообщает нам
+<ce> главный организатор всего этого - это _th_.
+<ce> Найдите %g3 в _res_ и втеритесь в
+<ce> доверие. Нанеси удар, когда увидишь подходящий момент.
+<ce> Затем возвращайся. Вам предоставляется =timer_ дней.
 <ce>
-<ce> First, take this basilisk's eye. That's their sad
-<ce> attempt at secrecy. _th_ will not
-<ce> speak to anyone who will not show it first.
-<ce> Second, this letter. It will open up
-<ce> a discussion on a supposed accounting
-<ce> that %g1 doesn't know actually failed.
-<ce> Third, this _gem_. Once it leaves your hands
-<ce> it will dissipate the magicka of the holder.
-<ce> Such tricks as invisibility and teleportation will
-<ce> remain out the question. The rest is up to you.
+<ce> Для начала возьми глаз василиска. Это их убогая
+<ce> попытка сохранить тайну. _th_ не будет
+<ce> поговорить только с тем, кто покажет глаз.
+<ce> Во-вторых, это письмо. Это предлог для
+<ce> разговора о некоей предполагаемой работе
+<ce> которая на самом деле уже провалена.
+<ce> В-третьих, это _gem_. Как только вы выпустите его из рук,
+<ce> это рассеет магию цели.
+<ce> Такие трюки, как невидимость и телепортация,
+<ce> перестанут работать. Остальное зависит от вас.
 
 QuestFail:  [1003]
-<ce> You were to report on _th_'s death by now.
+<ce> Вы уже должны были сообщить о смерти _th_.
 
 QuestComplete:  [1004]
-<ce> Ah, well done. This is why the Dark Brotherhood
-<ce> continues to be feared. I need not brag. Our actions
-<ce> speak far louder than I ever could.
+<ce> Ах, молодец. Вот почему Темное Братство
+<ce> продолжает вызывать страх. Мне нет нужды хвастаться. Наши действия
+<ce> говорят гораздо красноречивее, чем я когда-либо смогу.
 
 Message:  1010
-<ce> _th_ stares at you with cold eyes.
-<ce> Radiating fear and tension, %g1 says nothing at all.
+<ce> _th_ смотрит на тебя холодными глазами.
+<ce> Излучая страх и напряжение, %g1 вообще ничего не говорит.
 <ce>
-<ce> In all likelihood you could probably get a reward
-<ce> from this group by alerting them to the Brotherhood's
-<ce> plot. No one would know of the deal you strike.
-<ce> Do you attempt to make a deal with %g2?
+<ce> По всей вероятности, вы могли бы получить вознаграждение
+<ce> от этой группы, предупредив их о заговоре 
+<ce> Братства. Никто не узнает о сделке, которую вы заключите.
+<ce> Пытаетесь ли вы заключить сделку с ними?
 
 Message:  1011
-<ce> Your mark relaxes a little upon seeing
-<ce> the basilisk's eye.
+<ce> Ваша цель немного расслабляется, увидев
+<ce> глаз василиска.
 <ce>
-<ce> "I have never seen you before, which
-<ce> is a poor omen. Who are you and
-<ce> why have you sought me out?"
+<ce> "Я никогда не видел вас раньше, и это
+<ce> плохой знак. Кто вы такой и
+<ce> почему вы разыскали меня?"
 
 Message:  1012
-<ce> _th_ tears the paper from your
-<ce> hands and starts to read, never fully
-<ce> taking %g3 attention from you. After
-<ce> reading it twice through, %g1
-<ce> starts to think.
+<ce> _th_ вырывает бумагу из твоих
+<ce> рук и начинает читать, всё время
+<ce> поглядывая на вас.
+<ce> Прочитав это дважды, %g1
+<ce> начинает думать.
 <ce>
-<ce> "Fine then. %pcf, I guess I have no reason
-<ce> to doubt you. Where's the pay for this job?
-<ce> This wasn't a simple murder."
+<ce> "Тогда ладно. %pcf, я думаю, у меня нет причин
+<ce> сомневаться в тебе. Где оплата за эту работу?
+<ce> Это было не простое убийство."
 
 Message:  1013
-<ce> You offer the _gem_, which %g1 eyes greedily.
-<ce> The instant it touches %g3 hand, %g3 eyes grow
-<ce> wide. Magical power seems to waft away from %g2.
-<ce> _th_ unsheathes %g3 weapon and shouts,
-<ce> "What?! No! No, I'll kill you! Die, filthy pig!"
+<ce> Вы предлагаете _gem_, на который %g1 жадно смотрит.
+<ce> В тот момент, когда он касается %g3 руки, %g3 глаза
+<ce> удивлённо распахиваются. Магическая сила испаряется.
+<ce> _th_ выхватывает оружие и кричит:
+<ce> "Что?! Нет! Нет, я убью тебя! Умри, грязная свинья!"
 
 Message:  1014
-<ce> Without %g3 leadership, _th_'s guild will dissolve.
+<ce> _th_ убит. Без %g3 руководства гильдия развалится.
 
 Message:  1015
-<ce> You show _th_ the basilisk's eye
-<ce> and explain what the Dark Brotherhood has sent you
-<ce> to do. At first %g1 is far too suspicious and
-<ce> intends to escape, but you quickly show the letter
-<ce> and payment that were meant to deceive %g2.
+<ce> Ты показываешь _th_ глаз василиска
+<ce> и объясняешь, что Темное Братство послало тебя
+<ce> сделать. На первый взгляд %g1 слишком подозрителен и
+<ce> намеревается сбежать, но вы быстро показываете письмо
+<ce> и платеж, которые были предназначены для обмана.
 <ce>
-<ce> "Can this be so? _qgiver_ has actually
-<ce> found us? This cannot be. And who are you to trick
-<ce> the Dark Brotherhood? What do you want?"
+<ce> "Неужели это правда? _qgiver_ на самом деле
+<ce> нашел нас? Этого не может быть. И кто вы такой, чтобы обманывать
+<ce> Темное Братство? Чего вы хотите?"
 <ce>
-<ce> You insinuate that a payment would probably be
-<ce> appropriate for the service you've rendered.
-<ce> Grumbling a little, %g1 nevertheless sees the
-<ce> sense of paying you off. You accept =reward_ gold
-<ce> pieces in a small pouch, and _th_
-<ce> mutters a spell to disappear.
+<ce> Вы намекаете, что оплата, вероятно, была бы
+<ce> уместна за оказанную вами услугу.
+<ce> Немного поворчав, %g1, тем не менее, видит смысл
+<ce> расплатиться с вами. Вы принимаете =reward_ золотых
+<ce> в маленьком мешочке, и _th_
+<ce> бормочет заклинание, чтобы исчезнуть.
    <--->
-<ce> You show _th_ the basilisk's eye
-<ce> and explain what the Dark Brotherhood has sent you
-<ce> to do. At first %g1 is far too suspicious and
-<ce> intends to escape, but you quickly show the letter
-<ce> and payment that were meant to deceive %g2.
+<ce> Ты показываешь _th_ глаз василиска
+<ce> и объясняешь, что Темное Братство послало тебя
+<ce> сделать. На первый взгляд %g1 слишком подозрителен и
+<ce> намеревается сбежать, но вы быстро показываете письмо
+<ce> и платеж, которые были предназначены для обмана.
 <ce>
-<ce> "I should believe this but it is hard. How could
-<ce> they have found us and studied us so? And who are
-<ce> you? Why have you told us this?"
+<ce> "Я похоже на правду, но в это трудно поверить. Как это могло
+<ce> случиться, что они нашли нас и так изучили? И кто вы
+<ce> такой? Зачем вы нам это рассказали?"
 <ce>
-<ce> You insinuate that a payment would probably be
-<ce> appropriate for the service you've rendered.
-<ce> Grumbling a little, %g1 nevertheless sees the
-<ce> sense of paying you off. You accept =reward_ gold
-<ce> pieces in a small pouch, and _th_
-<ce> mutters a spell to disappear.
+<ce> Вы намекаете, что оплата, вероятно, была бы
+<ce> уместна за оказанную вами услугу.
+<ce> Немного поворчав, %g1, тем не менее, видит смысл
+<ce> расплатиться с вами. Вы принимаете =reward_ золотых
+<ce> в маленьком мешочке, и _th_
+<ce> бормочет заклинание, чтобы исчезнуть.
 
 Message:  1020
-<ce> _th_'s suspicions win %g2 over.
-<ce> "I knew it!" %g1 shouts before casting a
-<ce> spell, conveying %g2 out of the building entirely.
-<ce> You have lost your opportunity.
+<ce> Подозрительность одерживает верх над _th_.
+<ce> "Я так и знал!" - кричит %g1, прежде чем произнести заклинание,
+<ce> переносящее %g3 далеко за пределы здания.
+<ce> Вы упустили свою возможность.
 
 Message:  1030
 %qdt:
- _qgiver_ of the Dark Brotherhood,
- ___qgiver_, has offered me the privilege
- of stamping out a small rival organization.
- The leader, _th_, hides in
- ___res_ and needs to be deceived
- into trusting me before I can strike.
- I have a basilisk's eye to prove my loyalty,
- a letter detailing a current job, and a
- _gem_ that needs to get into %g3 hands.
- I have =timer_ days to kill %g2 and return.
+ _qgiver_ из Темного Братства,
+ ___qgiver_, предложил мне привилегию
+ уничтожить небольшую конкурирующую организацию.
+ Лидер, _th_, прячется в
+ ___res_ и мне необходимо обманом
+ заставить %g3 поверить мне, прежде чем я смогу нанести удар.
+ У меня есть глаз василиска, чтобы доказать свою лояльность,
+ письмо с подробным описанием текущей работы и
+ _gem_, который должен попасть в %g3 руки.
+ У меня есть =timer_ дней, чтобы убить %g3 и вернуться.
 
 QBN:
 Person _qgiver_ group Questor male

@@ -1,68 +1,67 @@
 Quest: JHDB113
-DisplayName: To the Wolves
+DisplayName: К волкам
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> One of our regular clients has a peculiar
-<ce> desire to dispose of one of %crn's
-<ce> more infamous scoundrels in a rather dramatic fashion.
-<ce> We need someone to take a hostage to a remote
-<ce> cave to be eaten alive. Are you capable of this?
+<ce> У одного из наших постоянных клиентов есть своеобразное
+<ce> желание избавиться от одного из наиболее отъявленных 
+<ce> негодяев %crn в довольно драматичной манере.
+<ce> Нам нужен кто-то, кто возьмет заложника в удаленную
+<ce> пещеру, где того съедят заживо. Способны ли вы на это?
 
 RefuseQuest:  [1001]
-<ce> Ah, you're trying to avoid the gruesome work. I see.
+<ce> Ах, ты пытаешься избежать ужасной работы. Понимаю.
 
 AcceptQuest:  [1002]
-<ce> In ___res_ an aristocrat named _hos_
-<ce> lives in _res_. Take %g2 from there to a
-<ce> hole called ___dung_. Once inside,
-<ce> ring this _bell_ and step back. The matter
-<ce> will resolve itself in summary fashion.
-<ce> I merely ask that you bring back some proof
-<ce> of the fool's death to provide to our client.
-<ce> Have this done in =timer_ days.
+<ce> В ___res_ аристократ по имени _hos_
+<ce> живет в _res_. Перевезите %g3 оттуда в
+<ce> ___dung_. Оказавшись внутри, позвоните в _bell_
+<ce> и отойдите назад. Всё остальное разрешится само собой.
+<ce> Я просто прошу вас привести какие-нибудь доказательства
+<ce> смерти дурака, чтобы предоставить нашему клиенту.
+<ce> Сделайте это за =timer_ дней.
 
 QuestFail:  [1003]
-<ce> _qgiver_ asked you to finish
-<ce> the feeding contract by now.
+<ce> _qgiver_ попросил вас к настоящему времени 
+<ce> закончить контракт на кормление.
 
 QuestComplete:  [1004]
-<ce> Rather efficient, isn't it %pct? It almost
-<ce> makes me want to forget what it feels like
-<ce> to push a blade into human flesh and dig inward
-<ce> until the mark stops moving. Ah, the joys
-<ce> of our work. The client specifically stipulated
-<ce> that our agent be given a payment. Take this.
+<ce> Довольно эффективно, не правда ли, %pct? Я даже
+<ce> почти захотел забыть, каково это - чувствовать
+<ce> как лезвие пронзает человеческую плоть всё глубже,
+<ce> до тех пор, пока цель не перестанет двигаться. Ах, эти радости
+<ce> нашей работы. Клиент специально оговорил
+<ce> чтобы нашему агенту был выплачен платеж. Возьми это.
 
 Message:  1010
-<ce> _hos_ is unable to so much as speak a word
-<ce> before you have ensured %g3 silence. You begin to
-<ce> lead your semi-cooperative hostage out of the building.
+<ce> _hos_ не смог произнести ни слова
+<ce> как вы уже заткнули %g2 рот. Вы начинаете
+<ce> выведить своего полупослушного заложника из здания.
 
 Message:  1011
-<ce> You ring the bell and step back, pushing _hos_
-<ce> to the ground. With %g3 hands tied %g1 can only watch
-<ce> the pair of tigers approach. The act of disposal takes
-<ce> less than a minute. You are careful to snatch one of
-<ce> the mark's fingers before the animals devour it.
+<ce> Ты звонишь в колокольчик и отступаешь назад, толкая _hos_
+<ce> на землю. Со связанными руками %g1 может только наблюдать
+<ce> приближается пара тигров. "Утилизация" тела занимает
+<ce> меньше минуты. Будьте осторожны и отхватите один из
+<ce> пальцев цели до того, как животные всё сожрут.
 
 Message:  1012
-<ce> As luck would have it, the beasts' hunger is not sated.
-<ce> Perhaps it's been some time since their masters have
-<ce> brought a free meal. They appear to have no qualms
-<ce> taking advantage of your visit.
+<ce> Как назло, животные не насытились.
+<ce> Возможно, их очень давно не кормили.
+<ce> Похоже, они не испытывают никаких угрызений совести
+<ce> и смотрят на вас как на ещё одну порцию еды.
 
 Message:  1030
 %qdt:
- The Dark Brotherhood of ___qgiver_
- has assigned me with taking one
- _hos_ of ___res_, living
- in _res_, to a cave called
- ___dung_ where trained animals will
- dispose of %g2 once I ring a bell.
- I must bring proof of the death before
- =timer_ have passed.
+ Темное Братство из ___qgiver_
+ поручило мне отвести некоего
+ _hos_ из __res_, живущего
+ в _res_, в пещеру под названием
+ ___dung_, где дрессированные животные
+ избавятся от %g3, как только я позвоню в колокольчик.
+ Я должен принести доказательства
+ смерти до того, как истечет =timer_ дней.
 
 QBN:
 Person _qgiver_ group Questor male

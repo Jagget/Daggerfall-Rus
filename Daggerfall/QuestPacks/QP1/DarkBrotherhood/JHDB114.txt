@@ -1,66 +1,66 @@
 Quest: JHDB114
-DisplayName: Dark Works of Art
+DisplayName: Мрачные произведения искусства
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> One curious request asks that we slay a particular
-<ce> person and deliver the body to our client.
-<ce> Smells like a necromancer to me. Is this a job
-<ce> we can entrust to you?
+<ce> Есть один любопытный запрос на убийство определенного 
+<ce> человека и доставку тела нашему клиенту.
+<ce> По-моему, попахивает некромантией. Можно ли поручить
+<ce> тебе такую работу?
 
 RefuseQuest:  [1001]
-<ce> Ah, because you have standards, surely.
+<ce> А, потому что у тебя есть стандарты, конечно.
 
 AcceptQuest:  [1002]
-<ce> Perhaps I should interject that I do not know whether
-<ce> the client is actually a servant of the dark arts.
-<ce> That is merely the sense this petition gives me.
-<ce> The corpse must be delivered with all vital organs
-<ce> intact to ___nhome_. The body must not decompose
-<ce> for more than =2nhome_ days. The request calls for
-<ce> _mark_, resident of ___mhome_.
-<ce> I will warn you, however, that %crn's guard will not tolerate
-<ce> the sight of a %ra carrying a festering corpse around. Avoid
-<ce> all civilization until you have made the delivery.
-<ce> The Night Mother watch over you, %pct.
+<ce> Я должен заметить, что я точно не знаю, является ли
+<ce> клиент на самом деле является служителем темных искусств.
+<ce> Это всего лишь ощущение, которое вызывает у меня эта петиция.
+<ce> Труп должен быть доставлен со всеми жизненно важными органами
+<ce> в целости и сохранности в ___nhome_. Тело должно быть 
+<ce> доставлено не позднее =2nhome_ дней. В заявке упоминается
+<ce> _mark_, ___mhome_.
+<ce> Однако я предупрежу тебя, что стража %crn не потерпит
+<ce> вида %ra, несущего на себе труп. Избегай
+<ce> любых населённых пунктов до тех пор, пока ты не доставишь труп.
+<ce> Ночная Мать присматривает за тобой, %pct.
 
 QuestFail:  [1003]
-<ce> The body has clearly decomposed beyond what the client
-<ce> could have asked for. You discard it and cut your losses.
+<ce> Тело явно разложилось больше, чем просил клиент.
+<ce> Ты выбрасываешь его.
 
 QuestComplete:  [1004]
-<ce> A robed figure spots you from within the cottage.
-<ce> Soon %g1 comes out to greet you.
+<ce> Изнутри коттеджа тебя заметила фигура в робе.
+<ce> Вскоре %g1 выходит поприветствовать тебя.
 <ce>
-<ce> "Yes? Oh, splendid. Well done, %ra. Surely a bit of payment
-<ce> is in order, I say. Take this as motivation to keep quiet,
-<ce> will you? I deal with people who simply cannot tolerate
-<ce> this work being noised abroad. Here now, take it."
+<ce> "Да? О, великолепно. Отличная работа, %ra. Конечно, немного оплаты
+<ce> не помешает. Прими это как плату за молчание,
+<ce> не так ли? Я имею дело с людьми, которые просто не потерпят,
+<ce> чтобы об этой работе шептались по углам. Вот, теперь бери".
 
 Message:  1010
-<ce> "Hello, yes?"
+<ce> "Привет, да?"
 <ce>
-<ce> You catch _mark_ completely by surprise.
-<ce> The killing blow follows swiftly after.
+<ce> Ты застал _mark_ врасплох.
+<ce> Убийственный удар следует незамедлительно.
 
 Message:  1011
-<ce> You begin to carry the corpse. You should
-<ce> avoid civilized areas while it's on you.
+<ce> Ты начинаешь нести труп. Тебе следует
+<ce> избегать цивилизованных мест, пока он с тобой.
 
 Message:  1012
-<ce> You are spotted carrying _mark_'s corpse
-<ce> and the alarm is raised. A few peacekeepers
-<ce> come forward to carry out justice for your crime.
+<ce> Вас заметили, когда вы несли труп _mark_.
+<ce> Поднята тревога. Несколько стражников
+<ce> приближаются, чтобы свершить правосудие.
 
 Message:  1030
 %qdt:
- The Dark Brotherhood of ___qgiver_
- has contracted with me to slay
- _mark_ of ___mhome_ and
- deliver %g3 body to a place
- called ___nhome_. I must
-  carry it for no more than =2nhome_ days.
+ Темное Братство ___qgiver_.
+ заключило со мной контракт на убийство
+ _mark_ из ___mhome_ и
+ доставку тела в место,
+ называемое ___nhome_. Я должен
+ донести его не поздее =2nhome_ дней.
 
 QBN:
 

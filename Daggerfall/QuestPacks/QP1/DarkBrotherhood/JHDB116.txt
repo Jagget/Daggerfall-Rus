@@ -1,105 +1,105 @@
 Quest: JHDB116
-DisplayName: Venom
+DisplayName: Яд
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Occasionally we receive requests to claim a life
-<ce> while deflecting suspicion. The greatest assassins
-<ce> in all Tamriel know how to make people die quickly
-<ce> or slowly, which is why our business recurs.
-<ce> Will you accept a simple job to poison a mark?
+<ce> Время от времени мы получаем запрос забрать жизнь
+<ce> и отвести от себя подозрения. Величайшие убийцы
+<ce> во всем Тамриэле знают, как сделать так, чтобы люди умирали быстро
+<ce> или медленно, и именно поэтому наше дело живёт.
+<ce> Согласитесь ли вы на простую работу по отравлению цели?
 
 RefuseQuest:  [1001]
-<ce> Why? Do you need to drink blood after every kill?
+<ce> Почему? Вам нужно пить кровь после каждого убийства?
 
 AcceptQuest:  [1002]
-<ce> This task will send you to ___tavern_.
-<ce> The target, _mark_, is expecting a
-<ce> prepaid shipment of _plant_ within =2tavern_
-<ce> days' time. You will deliver this in its place.
-<ce> We have dispatched %g3 regular courier, so you will
-<ce> face no interference. Avoid unshielded contact with
-<ce> the plant. The poison we have placed on it will
-<ce> react over several hours. To avoid suspicion, you
-<ce> must not stay within the building for more than a
-<ce> few minutes. Your face will be easily remembered
-<ce> otherwise. Return when the task is finished. Farewell.
+<ce> Это задание приведёт вас в ___tavern_.
+<ce> Цель, _mark_, ожидает
+<ce> предоплаченную партию _plant_ в течение =2tavern_
+<ce> дней. Мы отправили %g3 обычного курьера, так что
+<ce> трудностей не будет. Вы доставите _plant_ вместо него.
+<ce> Ни при каких обстоятельствах не касайтесь растения.
+<ce> Яд, который мы поместили на него, будет
+<ce> активным в течение нескольких часов. Чтобы избежать подозрений, Вы
+<ce> должны покинуть здание немедленно после доставки.
+<ce> В противном случае ваше лицо будет легко запомнить.
+<ce> Возвращайтесь, когда задание будет выполнено. Прощайте.
 
 QuestFail:  [1003]
-<ce> _mark_ expected the _plant_
-<ce> to arrive in ___tavern_ by now.
+<ce> _mark_ ожидал, что _plant_ уже
+<ce> должено быть доставлено в ___tavern_.
 
 QuestComplete:  [1004]
-<ce> I presume you did not linger in the tavern
-<ce> for very long? It would be a shame for the Brotherhood
-<ce> to be associated with clumsy traipsing by one of its
-<ce> members, no matter %pg3 history. Your devotion
-<ce> has been noted, %pct.
+<ce> Я полагаю, что вы не задержались в таверне
+<ce> надолго? Было бы неприятно, если бы Братство
+<ce> связали с неуклюжими похождениями одного из его
+<ce> членов, независимо от %pg3 заслуг. Ваша преданность
+<ce> была замечена, %pct.
 
 Message:  1015
-<ce> The time you've spent in this tavern has given the
-<ce> patrons time to commit you to memory. Your work has failed.
+<ce> Время, проведенное вами в этой таверне, дало ее завсегдатаям
+<ce> время, чтобы запомнить вас. Ваша работа провалилась.
 
 Message:  1020
-<ce> Yes, courier? Why thank you! Yes, this will do just fine.
-<ce> A lovely sample if I say so myself. Finest work. Send my
-<ce> regards to my friends. It'll be some time before I can visit.
+<ce> Да, курьер? Спасибо! Да, это отлично подойдет.
+<ce> Прекрасный образец, я считаю. Прекрасная работа. Передавайте
+<ce> привет моим друзьям. Не скоро ещё я смогу навестить их.
 
 Message:  1021
-<ce> Yes? What is this? Pardon me for saying this, but I do
-<ce> not recognize or trust you. For all I know you could be
-<ce> delivering this to the wrong person and soon I will
-<ce> have some angry lout breaking my door down for
-<ce> his _plant_. Is there some reason I should
-<ce> accept this?
+<ce> Да? Что это? Простите меня за эти слова, но я вас не 
+<ce> узнаю и не доверяю вам. Насколько я знаю, вы могли 
+<ce> передать это не тому человеку, и скоро какой-нибудь 
+<ce> разъяренный мужлан выломает мою дверь ради своего 
+<ce> _plant_. Есть ли какая-то причина, по которой я должен 
+<ce> принять это?
    <--->
-<ce> Hello. I'm sorry, what? I don't recognize you.
-<ce> I get my shipments from a certain courier in whom I
-<ce> have placed my confidence, and that is not you.
-<ce> Is there any reason I should accept this _plant_?
+<ce> Здравствуйте. Простите, что? Я тебя не узнаю. Я 
+<ce> получаю свои посылки от определенного курьера, 
+<ce> которому я доверяю, и это не вы. Есть ли какая-нибудь 
+<ce> причина, по которой я должен принять _plant_?
 
 Message:  1022
-<ce> My regular courier would have informed me if something had
-<ce> changed. Surely if he sent you, you must know what our
-<ce> arrangement is. Am I going to pay you for this delivery?
+<ce> Мой обычный курьер сообщил бы мне, если бы что-то изменилось. 
+<ce> Конечно, если он послал вас, вы должны знать, каково наше 
+<ce> соглашение. Собираюсь ли я заплатить вам за эту доставку?
    <--->
-<ce> I should be a fool to take this. But our friendship
-<ce> is not worth tossing into the wastepit merely because
-<ce> of a wrinkle in the delivery process. Tell me,
-<ce> before I make my decision. The agreement that I have
-<ce> to receive this, does it require that I pay my courier?
+<ce> Я был бы дураком, если бы согласился на это. Но наша дружба не 
+<ce> стоит того, чтобы выбрасывать ее на свалку только из-за сбоев в 
+<ce> процессе доставки. Скажи мне, прежде чем я приму свое решение. 
+<ce> Соглашение о том, что я должен получить это, требует ли оно, 
+<ce> чтобы я заплатил своему курьеру?
 
 Message:  1023
-<ce> Well said. I will admit that my suspicions get the worst
-<ce> of me. This is just a sample of _plant_. What
-<ce> could possibly go wrong? Thank you, friend.
-<ce> I will take it now. Send my regards to the fellows
-<ce> at the apothecary. I hope to see them soon.
+<ce> Хорошо сказано. Я признаю, что становлюсь слишком 
+<ce> подозрительным. Это всего лишь образец _plant_. Что 
+<ce> вообще может пойти не так? Спасибо тебе, друг. Я 
+<ce> возьму это сейчас. Передайте мой привет ребятам из 
+<ce> аптеки. Я надеюсь скоро их увидеть.
    <--->
-<ce> Indeed. I think it's been a long week and my
-<ce> suspicions have run away with me this time.
-<ce> I will take it. Thank you. After all, what harm
-<ce> could come from this little sample of _plant_?
-<ce> Farewell, friend. Safe travels.
+<ce> Действительно. Я думаю, что это была долгая неделя, 
+<ce> и на этот раз мои подозрения взяли надо мной верх. 
+<ce> Я возьму это. Благодарю вас. В конце концов, какой 
+<ce> вред может быть от этого маленького образца 
+<ce> _plant_? Прощай, друг. Счастливого пути.
 
 Message:  1024
-<ce> No, no, this will not do. Something is clearly wrong
-<ce> here, and I will not make of myself a thief to
-<ce> accept this odd shipment. Leave now.
+<ce> Нет, нет, так не пойдет. Здесь явно что-то не так, 
+<ce> и я не стану выставлять себя вором, принимая этот 
+<ce> странный груз. Уходи сейчас же.
    <--->
-<ce> No, I refuse. This is all too odd. Leave now.
-<ce> I will have nothing to do with this. If I am making
-<ce> a mistake, I will sort it out later. Begone.
+<ce> Нет, я отказываюсь. Все это слишком странно. Уходи сейчас 
+<ce> же. Я не буду иметь к этому никакого отношения. Если я 
+<ce> совершаю ошибку, я разберусь с ней позже. Убирайся.
 
 Message:  1030
 %qdt:
- I must deliver a poisoned plant
- to _mark_ in ___tavern_
- before =2tavern_ days' have passed,
- and then return to the Dark Brotherhood
- of ___qgiver_ to report
- my success.
+ Я должен доставить отравленное растение
+ к _mark_ в ___tavern_
+ до того, как пройдёт =2tavern_ дней,
+ а затем вернуться в Темное Братство
+ __qgiver_, чтобы сообщить
+ о своем успехе.
 
 QBN:
 Item _plant_ large_plant

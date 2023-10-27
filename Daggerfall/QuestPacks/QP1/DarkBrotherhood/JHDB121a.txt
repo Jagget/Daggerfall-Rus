@@ -130,9 +130,9 @@ Message:  1017
 <ce> Сейчас это твое шоу."
 
 Message:  1018
-"_tri_? Шш. Идите посмотрите в _restwo_ на ___restwo_.
+"_tri_? Шш. Идите посмотрите в _restwo_ в ___restwo_.
    <--->
-Вы ищете некоторые _tri_? О, как бы мне хотелось быть таким богатым!
+Вы ищете _tri_? О, как бы мне хотелось быть таким богатым!
    <--->
 Ваш _tri_? Он потерялся? Надеюсь, вы найдете его.
    <--->
@@ -322,8 +322,7 @@ Message:  1035
 
 QBN:
 Person _elf_ named Br'itsa
-Person _alias_ faction Random_Noble male
--anyInfo 1025
+Person _alias_ faction Random_Noble male anyInfo 1025
 Person _gort_ named Gortwog atHome
 Person _inform_ faction The_Thieves_Guild male
 Person _db_ faction The_Dark_Brotherhood
