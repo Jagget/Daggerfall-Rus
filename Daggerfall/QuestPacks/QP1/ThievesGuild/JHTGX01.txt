@@ -1,5 +1,5 @@
 Quest: JHTGX01
-DisplayName: Hook, Line, and Sinker
+DisplayName: Крючок, леска и грузило
 -- Message panels
 QRC:
 
@@ -16,104 +16,102 @@ QuestFail:  [1003]
 <ce> ERROR 1003 JHTGX01
 
 QuestComplete:  [1004]
-<ce> Well, what do you know. I know you. You're
-<ce> %pcn. You decided to come.
-<ce> How about that? I'm quite thrilled. Welcome.
-<ce> I'd offer you some tea if I had any. A shame
-<ce> I don't. What I do have is =reward_ gold pieces
-<ce> instead. I hope that'll make up the difference.
-<ce> Why don't I just hand this to you and we can
-<ce> sit down to talk? I'm a man of my word, after all.
+<ce> Ну и дела. Я тебя знаю. Ты
+<ce> %pcn. Ты всё-таки решил прийти.
+<ce> Каково, а? Я в полном восторге. Добро пожаловать.
+<ce> Я бы предложил тебе немного чая, если бы у меня был. Жаль,
+<ce> но у меня нет. То, что у меня есть, - это =reward_ золотых
+<ce> взамен. Надеюсь, это компенсирует разницу.
+<ce> Почему бы мне просто не отдать тебе это, и мы сможем
+<ce> сесть и поговорить? В конце концов, я человек слова.
 
 Message:  1010
-%pcn the %ra,
+%ra %pcn,
  
-  Finest salutations to a fine thief.
-  I am a man in need of very good
-  talent: a burglar and a blackguard
-  put together. Why don't you swing
-  by so we can discuss my offer
-  under more pleasant terms?
-  Look for me in ___res_.
-  I'll be at _res_.
-  You'll get =reward_ gold pieces just
-  for making the trip, no commitment
-  necessary. See you soon.
+  Тёплые приветствия прекрасному вору.
+  Я человек, нуждающийся в очень редком
+  таланте: взломщик и чернокнижник, 
+  вместе взятые. Почему бы тебе не заглянуть
+  ко мне, чтобы мы могли обсудить мое предложение
+  в более приятных условиях?
+  Ищи меня в ___res_.
+  Я буду в _res_.
+  Ты получишь =reward_ золотых только за то,
+  что ты совершишь поездку, никаких обязательств
+  не требуется. До скорой встречи.
  
           K.
 
 Message:  1011
-<ce> Well, if you don't mind my getting down to
-<ce> brass tacks, why don't we have a little talk?
-<ce> I'm something of a member of the Thieves Guild
-<ce> myself. That's how I know about you.
-<ce> Spymaster's awfully useful sometimes. I look
-<ce> for folks who have a strong stomach and the
-<ce> ability to follow orders and defend themselves.
-<ce> In return, my employers pay out several thousands
-<ce> of gold per job. That's quite a bit better
-<ce> than what they're offering over at the guild,
-<ce> don't you think? And don't worry, this isn't
-<ce> a competing interest. I promise you your
-<ce> reputation with the Thieves Guild will
-<ce> be immaculate if you take me up on this.
-<ce> Want in on this neat opportunity?
+<ce> Ну, если ты не против, чтобы я перешел к делу,
+<ce> то почему бы нам не поговорить?
+<ce> Я в некотором роде тоже член Гильдии Воров.
+<ce> Вот откуда я знаю о тебе.
+<ce> Спаймастер иногда бывает очень полезен. Я ищу
+<ce> людей, у которых крепкий дух и
+<ce> способность выполнять приказы и защищать себя.
+<ce> Взамен мои работодатели выплачивают несколько тысяч
+<ce> золота за работу. Это гораздо лучше
+<ce> чем то, что предлагают в гильдии,
+<ce> ты не находишь? И не волнуйся, это не
+<ce> конкуренция. Я обещаю тебе, что твоя
+<ce> репутация в Гильдии Воров останется безупречной,
+<ce> если ты согласишься работать со мной.
+<ce> Хочешь поучаствовать в этой прекрасной возможности?
 
 Message:  1012
-<ce> Now that's a good answer. You've put a
-<ce> smile on this face, %pcf. I'm putting
-<ce> my good name on the line for you, and
-<ce> I know you won't let me down. This'll
-<ce> be a very mutually beneficial arrangement.
-<ce> Oh, my name. I didn't even tell you.
-<ce> I am known as "The Crow," but I send
-<ce> letters as "K." It's simpler that way.
-<ce> I'm known as one of the oldest and most
-<ce> skilled thieves in the entire Iliac Bay.
-<ce> Age leads a man to teach others to do
-<ce> his work for him and share in the profits,
-<ce> you see? That's why I'm not hoarding all
-<ce> this gold for myself.
+<ce> Вот это хороший ответ. Я ставлю
+<ce> свое доброе имя на кон ради тебя, и
+<ce> я знаю, что ты меня не подведешь. Это будет
+<ce> будет очень взаимовыгодным соглашением.
+<ce> О, мое имя. Я даже не сказал тебе его.
+<ce> Меня знают как "Ворон", но я посылаю
+<ce> письма с подписью "К". Так проще.
+<ce> Я известен как один из самых старых и самых
+<ce> опытных воров во всем Илиакском заливе.
+<ce> Возраст заставляет человека учить других делать
+<ce> его работу за него и делиться прибылью.
+<ce> Видишь? Вот почему я не оставляю всё
+<ce> это золото себе.
 <ce>
-<ce> Now, to see whether you're sincere, I'm going
-<ce> to have to prove whether you can handle it.
+<ce> Теперь, чтобы проверить, насколько ты искренен, тебе
+<ce> придется доказать, сможешь ли ты справиться с этим.
 
 Message:  1030
 %qdt:
- Someone named "K." has sent
- me a letter offering me =reward_ gold
- pieces if I just listen to a job offer.
- I can find him at _res_,
- in ___res_ in ____res_.
+ Некто по имени "К." прислал
+ мне письмо, в котором предлагает мне =reward_ золотых
+ просто за то, что я выслушаю предложение о работе.
+ Я могу найти его по адресу _res_,
+ в ___res_ в ____res_.
 
 Message:  1080
-<ce> Will you instead slay _crow_?
+<ce> Может быть, вместо этого ты убъёшь _crow_?
 
 Message:  1081
-<ce> The old man titters as you ready for combat.
+<ce> Старик хихикает, пока ты готовишься к бою.
 <ce>
-<ce> "Oh, my, what a fool I've made of myself.
-<ce> How do I find such hotheads? I'll
-<ce> have to let our mutual friends
-<ce> over at the Thieves Guild know about
-<ce> this uncomfortable little encounter."
+<ce> "О, Боже, каким же дураком я себя выставил.
+<ce> Почему мне попадаются такие горячие головы? Мне
+<ce> придется обратиться к нашим общим друзьям
+<ce> в Гильдии Воров, чтобы они узнали
+<ce> об этой неловкой встрече".
 <ce>
-<ce> He pulls a cloak over his head
-<ce> which renders him completely invisible.
-<ce> Your attempts to touch him are futile.
-<ce> Within seconds you hear the door open and close.
+<ce> Он натягивает на голову плащ,
+<ce> что делает его полностью невидимым.
+<ce> Твои попытки дотронуться до него тщетны.
+<ce> Через несколько секунд ты слышишь, как открывается и закрывается дверь.
 
 Message:  1082
-<ce> "How kind of you. Thank you for
-<ce> turning me down in person. I'll
-<ce> move down the list then."
+<ce> "Как любезно с твоей стороны. Спасибо, что
+<ce> что отказал мне лично. Я обращусь
+<ce> к следующему по списку".
 <ce>
-<ce> _crow_ pulls a cloak over
-<ce> his head as he smiles pleasantly.
-<ce> Some enchantment on the garment
-<ce> renders him completely invisible.
-<ce> The door opens and closes, and
-<ce> he is suddenly gone.
+<ce> _crow_ натягивает плащ на
+<ce> свою голову, приятно улыбаясь.
+<ce> Какие-то чары на одежде
+<ce> делают его совершенно невидимым.
+<ce> Он исчезает, дверь открывается и закрывается.
 
 QBN:
 

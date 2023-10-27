@@ -1,5 +1,5 @@
 Quest: JHTGX02
-DisplayName: A Trial
+DisplayName: Испытание
 -- Message panels
 QRC:
 
@@ -13,89 +13,87 @@ AcceptQuest:  [1002]
 <ce> ERROR 1002 JHTGX02
 
 QuestFail:  [1003]
-<ce> What is this? You fool! You moron!
-<ce> Incompetent halfwit! What did I say?
-<ce> Do not, do not ever, open the bag!
-<ce> What's wrong with you?!
-<ce> Get out of my sight! Now!
+<ce> Что это такое? Ты дурак! Ты кретин!
+<ce> Некомпетентный полудурок! Что я сказал?
+<ce> Не надо, никогда не надо открывать сумку!
+<ce> Да что с тобой не так?!
+<ce> Убирайся с глаз моих! Сейчас же!
 
 QuestComplete:  [1004]
-<ce> I told you it'd be simple, didn't I?
-<ce> Here's your money. I always do what
-<ce> I say. You'll see. But take the
-<ce> money and we'll keep talking.
+<ce> Я же говорил тебе, что все будет просто, не так ли?
+<ce> Вот твои деньги. Я всегда держу слово,
+<ce> вот увидишь. Возьми деньги, и продолжим разговор.
 
 RumorsDuringQuest: [1005]
-They say The Crow's showing up in the Bay again. I think it's an impostor.
+Говорят, что Ворон снова появляется в заливе. Я думаю, что это самозванец.
    <--->
-Y'hear about The Crow showing up in some town? Probably lies.
+Ты слышал о том, что Ворон появился в каком-то городе? Скорее всего, это ложь.
    <--->
-They say The Crow's around, but I thought he died awhile ago.
+Говорят, что Ворон где-то рядом, но я думал, что он давно умер.
 
 Message:  1010
-<ce> First of all, I'm giving you a _lode_.
-<ce> It'll let me find you in case things go awry.
-<ce> We both know anything can happen in this business.
-<ce> If you ever lose it somewhere I won't be able
-<ce> to track you any more, so unless you're gonna
-<ce> give up on me, keep it safe.
+<ce> Прежде всего, я даю тебе _lode_.
+<ce> Это позволит мне найти тебя в случае, если всё пойдёт не так.
+<ce> Мы оба знаем, что в этом бизнесе может случиться все, что угодно.
+<ce> Если ты когда-нибудь потеряешь его где-нибудь, я не смогу
+<ce> отследить тебя, так что если ты собираешься
+<ce> работать со мной, держи его в безопасности.
 <ce>
-<ce> So here's your test. One of my former friends
-<ce> wimped out on the job you're going to do.
-<ce> Long story short, there's a bag of merchandise
-<ce> waiting for pick-up. Just go on over to
-<ce> _apoc_ in ___apoc_.
-<ce> You'll see the bag there. Don't open it,
-<ce> no matter how eager you are. It's going to
-<ce> be properly treated so as long as it doesn't
-<ce> touch the open air, it'll stay good for months.
-<ce> I'm gonna stay in ___res_.
-<ce> Look for me in _res_.
-<ce> For this one I'm paying =reward_ gold.
-<ce> Couldn't ask for anything easier, right?
-<ce> Now go get it, champ.
+<ce> Итак, вот тебе тест. Один из моих бывших друзей
+<ce> завязал с работой, которую тебе предстоит выполнить.
+<ce> Короче говоря, есть мешок с товаром.
+<ce> Он ждет, когда его заберут. Просто подойди к
+<ce> _apoc_ в ___apoc_.
+<ce> Там ты увидишь сумку. Не открывай её,
+<ce> как бы тебе ни хотелось. То что в ней лежит
+<ce> обработано должным образом, так что не испорится несколько месяцев,
+<ce> если не будет соприкасаться с открытым воздухом.
+<ce> Я собираюсь остаться в ___res_.
+<ce> Ищи меня в _res_.
+<ce> За это я плачу =reward_ золотых.
+<ce> Нет ничего проще, верно?
+<ce> Теперь иди, чемпион.
 
 Message:  1030
 %qdt:
- "The Crow," a supposedly legendary
- thief, has recruited me in some
- scheme for his employers.
- He wants me to get a bag of
- merchandise from _apoc_
- at ___apoc_ and take
- it to his meeting spot,
- _res_ of ___res_.
+ "Ворон", якобы легендарный
+ вор, завербовал меня в какую-то свою схему.
+ Он хочет, чтобы я достал сумку с
+ товаром из _apoc_
+ в ___apoc_ и отнести его
+ его к месту встречи,
+ _res_ в ___res_.
 
 Message:  1070
-<ce> This is the bag _crow_ told you
-<ce> about. Do you wish to open it?
+<ce> Это сумка, о которой тебе говорил _crow_.
+<ce> Желаешь ли ты открыть её?
 
 Message:  1071
-<ce> You open the bag. The preserving agents
-<ce> begin to expire due to their contact
-<ce> with the open air, and you are greeted
-<ce> with the sight and smell of various
-<ce> internal organs.
+<ce> Ты открываешь сумку. Консервирующие вещества
+<ce> начинают испарятся из-за контакта
+<ce> с открытым воздухом, и тебя встречает
+<ce> специфическим запахом вид различных
+<ce> внутренних органов.
 
 Message:  1072
-<ce> You keep the bag sealed and
-<ce> add it to your belongings.
-<ce> The little you can sense from it
-<ce> is that something moist is inside.
-<ce> Multiple layers of fabric prevent
-<ce> anything from spilling out.
+<ce> Ты сохраняешь пакет запечатанным и
+<ce> кладёшь его себе в рюкзак.
+<ce> То немногое, что ты можешь понять,
+<ce> это то, что внутри находится что-то влажное.
+<ce> Многочисленные слои ткани не позволяют
+<ce> этому пролиться наружу.
 
 Message:  1080
-<ce> Do you wish to leave behind the _lode_
-<ce> and give up your ties to _crow_?
+<ce> Желаешь ли ты выкинуть _lode_
+<ce> и отказаться от своих связей с _crow_?
 
 Message:  1081
-<ce> You discard the small piece of metal.
-<ce> Whatever schemes he has are his alone now.
+<ce> Ты выбрасываешь маленький кусочек металла.
+<ce> Какие бы у него ни были планы, теперь они принадлежат только ему.
 
 Message:  1082
-<ce> You return the _lode_ to your
-<ce> belongings, at least for now.
+<ce> Ты возвращаешь _lode_ в свой
+<ce> рюкзак, по крайней мере, пока.
 
 QBN:
 

@@ -1,5 +1,5 @@
 Quest: JHTGX00
-DisplayName: Как ворона летает
+DisplayName: Как Ворон летает
 -- Message panels
 QRC:
 

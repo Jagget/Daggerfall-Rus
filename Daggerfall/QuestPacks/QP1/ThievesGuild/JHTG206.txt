@@ -1,49 +1,49 @@
 Quest: JHTG206
-DisplayName: Payment for Notes
+DisplayName: Оплата за заметки
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> There's a big reward being offered
-<ce> for research notes by some wizard
-<ce> named _dummy_. I guess
-<ce> it's 'cause %g1's a member of the
-<ce> Mages Guild. If you're not worried
-<ce> about making enemies with them, you
-<ce> can head over to ___res_
-<ce> and bring some papers back here.
+<ce> Предлагается большая награда
+<ce> за исследовательские заметки некоего волшебника
+<ce> по имени _dummy_. Я полагаю, что
+<ce> это потому, что %g1 - член
+<ce> Гильдии Магов. Если ты не беспокоишься
+<ce> о том, чтобы нажить себе врагов, то ты
+<ce> можешь отправиться в ___res_.
+<ce> и принести сюда кое-какие бумаги.
 
 RefuseQuest:  [1001]
-<ce> Don't want =reward_ gold? Oh well.
+<ce> Не хочешь =reward_ золотых? Что ж.
 
 AcceptQuest:  [1002]
-<ce> I don't know how long there's gonna be
-<ce> a market for this particular scholar's work,
-<ce> so get back here by, say, =timer_ days from now.
-<ce> I'll have your cut here. I don't think the
-<ce> place is guarded, so just find it and
-<ce> come on back. Oh yeah, it's in a place
-<ce> called _res_ in ___res_.
-<ce> Almost forgot to mention that.
+<ce> Я не знаю, как долго будет существовать
+<ce> спрос на работы конкретного этого учёного,
+<ce> так что возвращайся сюда, скажем, через =timer_ дней.
+<ce> Я буду держать твою долю здесь. Я не думаю, у него
+<ce> есть охрана, так что просто найди его и
+<ce> возвращайся. Ах да, он находится в месте
+<ce> под названием _res_ в ___res_.
+<ce> Чуть не забыл об этом упомянуть.
 
 QuestFail:  [1003]
-<ce> _questgiver_ wanted you
-<ce> to deliver the notes by now.
+<ce> _questgiver_ хотел, чтобы ты
+<ce> доставил записки к этому времени.
 
 QuestComplete:  [1004]
-<ce> Looks like the real deal. Not like
-<ce> I could tell anyway. Here's your cut.
+<ce> Выглядит как что-то стоящее. Не то чтобы
+<ce> я в этом что-то понимал. Вот твоя доля.
 
 Message: 1021
-<ce> You pick up _dummy_'s notes.
+<ce> Ты берёшь записки _dummy_.
 
 Message:  1030
 %qdt:
- If I bring some researcher's notes
- from ___res_ back to ___questgiver_
- within =timer_ days' time, _questgiver_'s
- willing to pay me for them. %g1 told me
- they're in _res_.
+ Если я принесу заметки какого-нибудь исследователя
+ из ___res_ обратно в ___questgiver_.
+ в течение =timer_ дней, то _questgiver_ 
+ готов заплатить за них. %g1 сказал мне,
+ что они находятся в _res_.
 
 QBN:
 
