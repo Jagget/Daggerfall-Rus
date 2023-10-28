@@ -1,5 +1,5 @@
 Quest: JHMGC04
-DisplayName: Гильдия магов. Последствия. Квест 4
+DisplayName: Гильдия Магов. Последствия. Квест 4
 -- Message panels
 --used in MG118
 QRC:

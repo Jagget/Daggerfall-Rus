@@ -1,173 +1,174 @@
 Quest: JHDB122
-DisplayName: Quill Circus
+DisplayName: Цирк Квилла
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Chulmore Quill is a distant... affiliate,
-<ce> I can say, of the Dark Brotherhood.
-<ce> The lightweight has never shown skill
-<ce> with a weapon, but nevertheless makes
-<ce> the right people die when needed.
-<ce> We've received an invitation from him
-<ce> to send a skilled combatant to an arena
-<ce> of death for a considerable gold reward.
-<ce> Take it or leave it.
+<ce> Чулмор Квилл - дальний... родственник, я 
+<ce> бы сказал, Темного Братства. Легковес 
+<ce> никогда не демонстрировал умения 
+<ce> обращаться с оружием, но, тем не менее, 
+<ce> заставляет нужных людей умирать, когда 
+<ce> это необходимо. Мы получили от него 
+<ce> приглашение отправить опытного бойца на 
+<ce> арену смерти за значительную золотую 
+<ce> награду. Соглашайся или забудь.
 
 RefuseQuest:  [1001]
-<ce> Yes, let's get back to business.
+<ce> Да, давайте вернемся к делу.
 
 AcceptQuest:  [1002]
-<ce> Quill is waiting in _place_,
-<ce> at ___place_. Find him before
-<ce> =timer_ days are finished. We care
-<ce> not for whatever the outcome is,
-<ce> though your failure could provide
-<ce> an entertaining tale.
+<ce> Квилл ждет в _place_, в 
+<ce> ___place_. Найдите его до того, 
+<ce> как истечет =timer_ дней. Нас не 
+<ce> волнует, каков будет результат, 
+<ce> хотя ваша неудача могла бы стать 
+<ce> занимательной историей.
 
 QuestFail:  [1003]
-<ce> You have stepped outside the bounds of the battlefield.
-<ce> _chul_'s nauseating laughter fills the air.
-<ce> You are declared the loser by default.
+<ce> Вы вышли за пределы поля боя. _chul_ 
+<ce> тошнотворно смеётся вам вслед. По умолчанию вы 
+<ce> объявлены проигравшим.
 <ce>
-<ce> "Such cowardice deserves a fitting punishment,
-<ce> doesn't it boys? Perhaps a dose of the Plague
-<ce> will teach %pg2 not to get our hopes up!"
+<ce> "Такая трусость заслуживает достойного 
+<ce> наказания, не так ли, мальчики? Возможно, доза 
+<ce> Чумы научит %pg3 не обольщаться!"
 <ce>
-<ce> The crystal ball disappears. You smell something foul.
+<ce> Хрустальный шар исчезает. Ты чувствуешь какой-то неприятный запах.
 
 QuestComplete:  [1004]
-<ce> Foes cease to appear. Finally, the crystal ball
-<ce> begins to smoke lightly.
+<ce> Враги перестают появляться. Наконец, хрустальный 
+<ce> шар начинает слегка дымиться.
 <ce>
-<ce> "Quite a show you've put on for us! Clever child.
-<ce> You have served our purposes, and we will now
-<ce> serve yours. Claim your reward."
+<ce> "Ну и шоу вы для нас устроили! Умное дитя. Вы 
+<ce> послужили нашим целям, и теперь мы будем служить 
+<ce> вашим. Забирай свою награду."
 <ce>
-<ce> The ball shatters with a flash of light,
-<ce> and in its place you find the gold.
+<ce> Шар разлетается вдребезги со вспышкой света, и на его 
+<ce> месте вы находите золото.
 
 Message:  1011
-<ce> Ho ho! The Brotherhood has sent me
-<ce> a new inductee for the circus! That is what you're
-<ce> here for, I presume? We don't have any other outstanding
-<ce> business, you and I. But I do have a treat for you
-<ce> if you wish to play along. How would you like to
-<ce> earn for yourself 10,000 gold pieces?
-<ce> All you have to do is survive.
-<ce> Doesn't that sound agreeable?
+<ce> Хо-хо! Братство прислало мне нового 
+<ce> призывника в цирк! Полагаю, вы здесь 
+<ce> именно для этого? У нас с тобой нет 
+<ce> других важных дел. Но у меня есть для 
+<ce> тебя подарок, если ты хочешь подыграть. 
+<ce> Вы бы хотели заработать 10000 золотых? 
+<ce> Все, что вам нужно сделать, это выжить. 
+<ce> Разве это не звучит заманчиво?
 
 Message:  1012
-<ce> Ooh, a delightsome response. You must think
-<ce> you're very brave, don't you? Well, we shall see.
-<ce> My friends and I wish to see you survive against a few
-<ce> ordinary pets we will put against you. Race to
-<ce> ___cult_ before =2cult_ days are up.
-<ce> If you make it, we'll accept your offer of entertainment.
-<ce> We hope you do not let us down.
+<ce> О, восхитительный ответ. Вы, должно быть, считаете, что вы 
+<ce> очень храбры, не так ли? Что ж, поживем - увидим. Я и мои 
+<ce> друзья хотим посмотреть, как вы выживете против нескольких 
+<ce> обычных домашних животных, которых мы выставим против вас. 
+<ce> Участвуйте в гонке к ___cult_ до истечения =2cult_ дней. 
+<ce> Если у вас получится, мы примем ваше предложение о 
+<ce> развлечении. Мы надеемся, что вы нас не подведете.
 
 Message:  1013
-<ce> Oh, then you must be one of the wimps
-<ce> the Fighters Guild keeps rescuing. Too bad.
-<ce> One day I'll meet my champion, I'm sure!
+<ce> О, тогда ты, должно быть, один из тех слабаков, которых 
+<ce> продолжает спасать Гильдия Бойцов. Очень плохо. Однажды я 
+<ce> встречу своего чемпиона, я уверен!
 
 Message:  1014
-<ce> You approach the shrine but find no one. Perhaps
-<ce> Chulmore's people aren't here yet.
+<ce> Вы подходите к святилищу, но никого не находите. Возможно, 
+<ce> людей Чулмора еще нет здесь.
 <ce>
-<ce> "Ah, our toy has arrived! Welcome, plaything!
-<ce> The Quill Circus needs entertainment of its own,
-<ce> and you are today's program!"
+<ce> "А, наша игрушка прибыла! Добро пожаловать, игрушка! Цирк 
+<ce> Квилла нуждается в особенном развлечении, и сегодняшняя 
+<ce> программа - это вы!"
 <ce>
-<ce> The entertainer's voice rings out from a crystal
-<ce> ball you see on the ground nearby. The shrine attendant
-<ce> grins, clearly in on the deal.
+<ce> Голос ведущего раздается из хрустального шара, который вы 
+<ce> видите на земле неподалеку. Служитель храма ухмыляется, 
+<ce> явно участвуя в сделке.
 <ce>
-<ce> "You didn't think we'd be present, did you? But we can
-<ce> see the whole show through this clever apparatus.
-<ce> Now, our deal applies: fight to win, and don't you
-<ce> dare think of fleeing! Stay close to the shrine!
-<ce> Let the games begin!"
+<ce> "Ты же не думал, что мы будем присутствовать, не так ли? 
+<ce> Но мы можем видеть все шоу целиком с помощью этого 
+<ce> хитроумного устройства. Теперь наше соглашение: сражайся 
+<ce> до победы, и не смей даже думать о бегстве! Держитесь 
+<ce> поближе к святилищу! Да начнутся игры!"
 
 Message:  1015
-<ce> _chul_'s shrill laughter pierces the air.
+<ce> Пронзительный смех Квилла пронзает воздух.
 <ce>
-<ce> "Why don't we start with something easy? We always
-<ce> get a good show from the undead."
+<ce> "Почему бы нам не начать с чего-нибудь попроще? Мы 
+<ce> всегда получаем хорошее шоу от нежити".
 <ce>
-<ce> The ball then emits a projection of three zombies
-<ce> which materialize properly.
+<ce> Шар испускает проекцию трех зомби, которые затем 
+<ce> полностью материализуются.
 
 Message:  1016
-<ce> _chul_'s shrill laughter pierces the air.
+<ce> Пронзительный смех Квилла пронзает воздух.
 <ce>
-<ce> "Why don't we start with something easy? We always
-<ce> get a good show from the undead."
+<ce> "Почему бы нам не начать с чего-нибудь попроще? Мы 
+<ce> всегда получаем хорошее шоу от нежити".
 <ce>
-<ce> The ball then emits a projection of three ghosts
-<ce> which materialize properly.
+<ce> Шар испускает проекцию трех призраков, которые затем 
+<ce> полностью материализуются.
 
 Message:  1017
-<ce> _chul_'s shrill laughter pierces the air.
+<ce> Пронзительный смех Квилла пронзает воздух.
 <ce>
-<ce> "Why don't we start with something easy? We always
-<ce> get a good show from the undead."
+<ce> "Почему бы нам не начать с чего-нибудь попроще? Мы 
+<ce> всегда получаем хорошее шоу от нежити".
 <ce>
-<ce> The ball then emits a projection of three wraiths
-<ce> which materialize properly.
+<ce> Шар испускает проекцию трех привидений, которые затем 
+<ce> полностью материализуются.
 
 Message:  1018
-<ce> "Well, that was a bit cruel, wasn't it?
-<ce> Let's go for a breather round. I hear
-<ce> atronachs are quite in style this time of year."
+<ce> "Ну, это было немного жестоко, не так ли? 
+<ce> Давайте сделаем передышку. Я слышал, атронахи 
+<ce> в моде в это время года."
 
 Message:  1019
-<ce> "My comrades here are telling me to pick up the pace.
-<ce> You and I wouldn't want to let them down, would we?
-<ce> Let's go for something a bit quicker this time."
+<ce> "Мои товарищи здесь советуют мне ускорить темп. Мы 
+<ce> бы с тобой не хотели их подвести, не так ли? Давай 
+<ce> на этот раз выберем что-нибудь побыстрее."
 
 Message:  1020
-<ce> "My friends are telling me to send out
-<ce> some more undead. Who am I to tell them no?"
+<ce> "Мои друзья советуют мне послать еще немного 
+<ce> нежити. Кто я такой, чтобы говорить им "нет"?"
 
 Message:  1021
-<ce> "This is for my friends in particular. Have you ever
-<ce> wondered what it would be like to fight forty bats?"
+<ce> "Это специально для моих друзей. Вы когда-нибудь задумывались, 
+<ce> каково это - сразиться с сорока летучими мышами?"
 
 Message:  1022
-<ce> "Most people wouldn't expect us to have
-<ce> vampires at the ready. But I guess that's what
-<ce> makes Quill Circus world famous, isn't it?
-<ce> The element of surprise."
+<ce> "Большинство людей не ожидали бы, что у нас 
+<ce> будут вампиры наготове. Но я думаю, именно это 
+<ce> делает Кирка Квилла всемирно известным, не так 
+<ce> ли? Элемент неожиданности."
 
 Message:  1023
-<ce> "I'm surprised we waited this long to bring out the daedra
-<ce> projections. But the suspense is starting to wear me out."
+<ce> "Я удивлен, что мы так долго ждали, прежде чем представить 
+<ce> проекцию даэдра. Но неизвестность начала меня утомлять".
 
 Message:  1024
-<ce> "I figured I'd go for something simple to end this.
-<ce> How about one last undead foe? He'll go easy
-<ce> on you, I swear."
+<ce> "Я решил, что выберу что-нибудь простое, чтобы покончить 
+<ce> с этим. Как насчет последней нежити? Он будет с тобой 
+<ce> помягче, я клянусь."
 
 Message:  1030
 %qdt: 
- The Dark Brotherhood has given me
- a chance to compete in some kind
- of event for Quill Circus.
- I am to meet _chul_ at
- _place_ in ___place_
- to hear the task I will undertake.
- I have =timer_ days to do so.
+ Темное братство дало мне шанс 
+ поучаствовать в каком-то 
+ мероприятии для Кирка Квилла. Я 
+ должен встретиться с _chul_ в 
+ _place_ в ___place_, чтобы услышать 
+ задание, за которое я возьмусь. У 
+ меня есть =timer_ дней, чтобы 
+ сделать это.
 
 Message:  1031
 %qdt:
- _chul_ has invited me to go to ___cult_
- to survive in exchange for 10,000 gold pieces.
- I have to arrive there within =2cult_ days.
+ _chul_ пригласил меня пойти в ___cult_, 
+ чтобы выжить, в обмен на 10000 золотых. Я 
+ должен прибыть туда в течение =2cult_ дней.
 
 Message:  1032
-<ce> By now _chul_'s invitation has expired.
-<ce> Certainly it couldn't have been that important.
+<ce> К настоящему времени срок действия приглашения _chul_ истек.
+<ce> Конечно, это не могло быть настолько важно.
 
 QBN:
 Place _place_ local house
