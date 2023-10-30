@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 32
 Quest: L0B50Y11
-DisplayName: Борьба с гильдией воров
+DisplayName: Борьба с Гильдией Воров
 -- Message panels
 QRC:
 

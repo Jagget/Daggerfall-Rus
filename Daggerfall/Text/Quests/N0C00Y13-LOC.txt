@@ -141,7 +141,7 @@ QuestorPostfailure:  [1009]
 QuestLogEntry:  [1010]
 %qdt:
  Я говорил с _questgiver_
-<ce> из гильдии магов в ___questgiver_.
+<ce> из Гильдии Магов в ___questgiver_.
 <ce> Меня послали в ___dungeon_ с заданием
 <ce> найти хранящийся там древний свиток.
 <ce> У меня =traveltime_ дней, чтобы найти

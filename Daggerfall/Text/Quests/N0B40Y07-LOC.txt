@@ -91,7 +91,7 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из гильдии магов
+<ce> _qgiver_ из Гильдии Магов
 <ce> в ___qgiver_
 <ce> послал меня в ___mondung_,
 <ce> где мне нужно использовать "Изгнание даэдра"

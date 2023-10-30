@@ -43,7 +43,7 @@ QuestComplete:  [1004]
 <ce> договаривались.
 
 RumorsDuringQuest:  [1005]
-<ce> У _qgiver_ проблемы с гильдией воров.
+<ce> У _qgiver_ проблемы с Гильдией Воров.
 <ce> Я слышал, они собираются проучить его.
 
 RumorsPostfailure:  [1006]
