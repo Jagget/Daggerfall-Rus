@@ -1,73 +1,73 @@
 --Unused quest for now
 
 Quest: JHDB205
-DisplayName: Slay a Barbarian
+DisplayName: Убить варвара
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pct, tell me concerning yourself. Were
-<ce> you to spend a night in a tavern after a long day
-<ce> of merchandising, only to be awakened every six
-<ce> minutes by a loud and drunk barbarian in the main
-<ce> hall, would you feel it proper to approach the
-<ce> Brotherhood and request some natural justice be
-<ce> meted out against the clueless brute? And would
-<ce> you answer a call to deliver such justice?
+<ce> %pct, с вашей точки зрения, если бы вы провели 
+<ce> ночь в таверне после долгого дня, посвященного 
+<ce> торговле, только для того, чтобы каждые шесть 
+<ce> минут вас будил шумный и пьяный варвар в главном 
+<ce> зале, сочли бы вы правильным обратиться к Братству 
+<ce> и потребовать свершения естественного правосудия 
+<ce> над невежественным животным? И откликнулись бы вы 
+<ce> на призыв вершить такое правосудие?
    <--->
-<ce> %pct, I will not mince words. You, I, and every
-<ce> other person in ___qgiver_ hates
-<ce> barbarians. We have a petition to rid %crn
-<ce> of one of them. Will you take advantage of it?
+<ce> %pct, я не буду стесняться в выражениях. Вы, я и каждый 
+<ce> человек в ___qgiver_ ненавидит варваров. 
+<ce> У нас есть контракт избавить %crn от одного из них. 
+<ce> Воспользуетесь ли вы этим в своих интересах?
 
 RefuseQuest:  [1001]
-<ce> The Brotherhood rarely makes mistakes, and we
-<ce> hope for your sake you are not one of them.
+<ce> Братство редко совершает ошибки, и мы надеемся,
+<ce> ради вашего же блага, что вы не одна из них.
 
 AcceptQuest:  [1002]
-<ce> The only correct answer. This barbarian, staying
-<ce> in _tavern_, is actually the target of multiple
-<ce> contracts. If only every day were as lucrative as
-<ce> this. The motives include ceaselessly bragging
-<ce> about romantic conquests, debauching the
-<ce> soon-to-be-married, shouting loudly in the morning
-<ce> hours, and even scratching a beer glass. Apparently
-<ce> the innkeeper has also grown tired of this beast.
-<ce> Serve ___qgiver_ by slaying this
-<ce> brute and returning here within twelve hours.
+<ce> Единственный правильный ответ. Этот варвар, 
+<ce> проживающий в _tavern_, на самом деле является 
+<ce> объектом нескольких контрактов. Если бы только 
+<ce> каждый день был таким же прибыльным, как этот. 
+<ce> Мотивы включают в себя непрерывное хвастовство 
+<ce> романтическими завоеваниями, развращение 
+<ce> помолвленных дев, громкие крики до утра и даже 
+<ce> царапанье пивного бокала. Очевидно, трактирщику тоже 
+<ce> надоело это чудовище. Послужи ___qgiver_, убив 
+<ce> этого зверя и вернувшись сюда в течение 12 часов.
 
 QuestFail:  [1003]
-<ce> Failure text
+<ce> Провал задания
 
 QuestComplete:  [1004]
-<ce> Good, %pct. But let this task cause
-<ce> you no pride. You have yet to do
-<ce> meaningful service in Mephala's favor.
+<ce> Хорошо, %pct. Но вам пока ещё нечем 
+<ce> гордиться. Вам еще предстоит оказать 
+<ce> значимую услугу Мефале.
 
 Message:  1023
-<ce> Ha ha ha! Sorry %ra, I'm havin' too
-<ce> much fun 'ere! Maybe a good thrashing
-<ce> will get some o' the beer outta me!
+<ce> Ха-ха-ха! Звини, %ra, мне здс
+<ce> слишкм весло! Может быть, хоршая 
+<ce> взбучка выбьет из мня немнго пива!
 
 Message:  1024
-<ce> Ha ha ha! This's rich! This %ra
-<ce> is tryin' ta start a fight! Hey fellas,
-<ce> get on over here an' even tha odds!
+<ce> Ха-ха-ха! Это круто! Этот %ra 
+<ce> пытается затеять драку! Эй, ребята, 
+<ce> идите сюда и уравняйте шансы!
 
 Message:  1033
 %qdt:
- The Dark Brotherhood has
- sent me to slay a barbarian
- in _tavern_.
- I have twelve hours to
- do it and return.
+ Темное Братство
+ послало меня убить варвара
+ в _tavern_.
+ У меня есть 12 часов, чтобы
+ сделать это и вернуться.
 
 Message:  1043
-<ce> "But how many more... could I have..."
+<ce> "Но сколько еще... у меня могло бы быть.."
 <ce>
-<ce> The fool's mouth shuts before
-<ce> more stupidity can flow out.
-<ce> Your work here is done.
+<ce> Рот дурака закрывается прежде, чем из 
+<ce> него может вылиться еще больше глупости. 
+<ce> Ваша работа здесь закончена.
 
 QBN:
 Person _qgiver_ group Questor male

@@ -1,77 +1,77 @@
 --Unused quest for now
 
 Quest: JHDB204
-DisplayName: Slay a Priest
+DisplayName: Убить священника
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pct, we have no qualms with the adherents
-<ce> to religious study and practice. Their gods do
-<ce> not interfere with our god, and therefore they
-<ce> live. Nevertheless, a contract has recently arrived
-<ce> to request the end of a particularly nosy preacher
-<ce> in ___questgiver_. Will you serve the
-<ce> Night Mother by doing the Brotherhood's work?
+<ce> %pct, у нас нет никакой предвзятости в отношении 
+<ce> приверженцев изучения и практики религии. Их 
+<ce> боги не мешают нашему богу, и поэтому они живы. 
+<ce> Тем не менее, недавно поступил контракт на 
+<ce> устранение особо любопытного проповедника в 
+<ce> ___questgiver_. Будешь ли ты служить Матери 
+<ce> Ночи, выполняя работу Братства?
    <--->
-<ce> For obvious reasons we rarely send our members
-<ce> to _temple_. Usually their
-<ce> practitioners and ours are incompatible, lending
-<ce> to an uncomfortable friction. Yet even they will
-<ce> occasionally request our aid as a last resort
-<ce> when kind words and uncomfortable glances
-<ce> are not enough. We have on our hands an
-<ce> errant cleric who requires an accounting.
+<ce> По понятным причинам мы редко отправляем наших 
+<ce> пользователей в _temple_. Обычно их практики и 
+<ce> наши несовместимы, что приводит к неприятным 
+<ce> трениям. Тем не менее, даже они иногда 
+<ce> обращаются к нам за помощью в качестве 
+<ce> последнего средства, когда добрых слов и 
+<ce> неловких взглядов недостаточно. У нас на руках 
+<ce> контракт на странствующего священнослужителя.
 
 RefuseQuest:  [1001]
-<ce> What easier task do you seek, %pct?
-<ce> Shining someone's boots? Combing some hair?
+<ce> Какую более легкую задачу вы ищете, %pct?
+<ce> Начищать чьи-то ботинки? Расчесываешь волосы?
 
 AcceptQuest:  [1002]
-<ce> This complaint concerns a priest in
-<ce> _temple_ who has
-<ce> shown little of the restraint and etiquette
-<ce> necessary for a preacher of morality.
-<ce> Some say this cleric has gone too far.
-<ce> One is paying us to prove it. Bring balance
-<ce> to ___questgiver_ and return
-<ce> within twelve hours.
+<ce> Эта жалоба касается священника в храме, 
+<ce> который проявил мало сдержанности и 
+<ce> этикета, необходимых проповеднику морали. 
+<ce> Некоторые говорят, что этот 
+<ce> священнослужитель зашел слишком далеко. 
+<ce> Они платят нам за то, чтобы мы это 
+<ce> доказали. Принесите покой в ___questgiver_ 
+<ce> и вернитесь в течение 12 часов.
 
 QuestFail:  [1003]
-<ce>
+<ce> Провал задания
 
 QuestComplete:  [1004]
-<ce> Very good, %pct. May Mephala
-<ce> guide you in your future service
-<ce> to the Dark Brotherhood.
+<ce> Очень хорошо, %pct. Пусть Мефала 
+<ce> направит тебя в твоем будущем 
+<ce> служении Темному Братству.
 
 Message:  1022
-<ce> Look how even the common criminal
-<ce> passes through the door of our
-<ce> temple! Have at you and be one
-<ce> with the dust of the earth!
+<ce> Посмотрите, даже обычный преступник 
+<ce> может пройти через двери нашего храма! 
+<ce> Возьми себя в руки и стань единым 
+<ce> целым с прахом земным!
 
 Message:  1032
 %qdt:
- The Dark Brotherhood has
- sent me to slay a priest
- in _temple_.
- I have twelve hours to
- do it and return.
+ Темное Братство
+ послало меня убить священника
+ в _temple_.
+ У меня есть 12 часов, чтобы
+ сделать это и вернуться.
 
 Message:  1042
-<ce> "May the doors of this temple
-<ce> be closed to you forever!"
+<ce> "Пусть двери этого храма будут
+<ce> закрыты для вас навсегда!"
 <ce>
-<ce> The priest lets out one final gasp
-<ce> and collapses. The other members
-<ce> are not so convinced of this fool's
-<ce> pronouncement. Your work here is done.
+<ce> Священник испускает последний вздох и 
+<ce> падает. Другие участники не особо 
+<ce> убеждены словами этого дурака.
+<ce> Ваша работа здесь закончена.
 
 Message:  1099
-<ce> Do you know what a temple looks
-<ce> like, %pct? Go there. Kill the priest.
-<ce> Come here. This is simple.
+<ce> Ты знаешь, как выглядит храм, %pct? 
+<ce> Иди туда. Убей священника. Иди сюда. 
+<ce> Это очень просто.
 
 QBN:
 Person _questgiver_ group Questor male

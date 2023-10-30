@@ -1,93 +1,93 @@
 Quest: JHDB207
-DisplayName: No Bodyguards Allowed
+DisplayName: Телохранители запрещены
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We rarely ask questions concerning why certain
-<ce> tasks are brought to us, and further still when
-<ce> they pay well. I will tell you nothing about this
-<ce> mark except that a bodyguard had to be hired
-<ce> for peace of mind. Show the poor fool in
-<ce> ___res_ what we think of bodyguards.
+<ce> Мы редко задаем вопросы о том, почему нам 
+<ce> поручают те или иные задачи, а тем более когда 
+<ce> за них хорошо платят. Я ничего не скажу вам об 
+<ce> этой цели, кроме того, что этой цели пришлось 
+<ce> нанять телохранителя. Покажите бедному дураку в 
+<ce> ___res_, что мы думаем о телохранителях.
    <--->
-<ce> There are times we find satisfaction in simply
-<ce> proving our superiority over every other force
-<ce> moving across ____res_. What name
-<ce> inspires so much as half the fear as the Dark
-<ce> Brotherhood among the citizenry? Yet to ensure
-<ce> we remain more than a mere name, we must
-<ce> overpower those who wish to thwart us.
-<ce> Go to ___res_ and slay a fool who
-<ce> has hired a bodyguard.
+<ce> Бывают времена, когда мы находим удовлетворение в 
+<ce> том, чтобы просто доказать свое превосходство 
+<ce> над всеми в ____res_. Какое имя внушает 
+<ce> гражданам хотя бы половину такого страха, как 
+<ce> Темное Братство? Однако, чтобы гарантировать, 
+<ce> что мы останемся чем-то большим, чем просто 
+<ce> именем, мы должны одолеть тех, кто хочет 
+<ce> помешать нам. Отправляйся в ___res_ и убей 
+<ce> дурака, который нанял телохранителя.
 
 RefuseQuest:  [1001]
-<ce> Perhaps you should work for the Fighters Guild
-<ce> if you dislike dirtying your hands.
+<ce> Возможно, вам стоит поработать в Гильдии Бойцов,
+<ce> если вы не любите пачкать руки.
 
 AcceptQuest:  [1002]
-<ce> The bodyguard is of little concern to us.
-<ce> Perhaps shattering its ego would provide
-<ce> you more satisfaction than killing it. The
-<ce> accounting is for the mark only. This
-<ce> tragic duo will stay at _res_
-<ce> in ___res_. Return here in
-<ce> =timer_ days. Go with Mephala, %pct.
+<ce> Телохранитель нас мало волнует. Возможно, 
+<ce> сокрушение его эго принесло бы вам больше 
+<ce> удовлетворения, чем его убийство. Контракт 
+<ce> только для цели. Этот трагический дуэт 
+<ce> остановится в _res_ в ___res_. Вернитесь 
+<ce> сюда через =timer_ дней. Да пребудет с 
+<ce> вами Мефала, %pct.
 
 QuestFail:  [1003]
-<ce> The Dark Brotherhood expected you
-<ce> in ___questgiver_ by now.
+<ce> Темное Братство ожидало вас в 
+<ce> ___questgiver_ к этому времени.
 
 QuestComplete:  [1004]
-<ce> Well done, %pct. And what did you
-<ce> do to the incompetent guardian? A fitting
-<ce> resolution. The Night Mother will be pleased.
+<ce> Молодец, %pct. И что вы сделали с 
+<ce> некомпетентным стражем? Подходящее 
+<ce> решение. Ночная Мать будет довольна.
 
 Message:  1019
-<ce> You step into _res_,
-<ce> watching for this so-called bodyguard.
+<ce> Вы входите в _res_,
+<ce> высматривая этого так называемого телохранителя.
 
 Message:  1020
-<ce> The acrobat collapses in defeat.
-<ce> The contract is fulfilled.
+<ce> Акробат терпит поражение.
+<ce> Контракт выполнен.
 
 Message:  1025
-<ce> You step into _res_ and are
-<ce> accosted by a voice coming from thin air.
+<ce> Вы входите в _res_, и к вам обращается голос, 
+<ce> доносящийся из ниоткуда.
 <ce>
-<ce> "%ra, cease. I can see your doings.
-<ce> The one you seek is under my protection.
-<ce> Continuing your fruitless mission will
-<ce> engender my wrath. Do not understimate me."
+<ce> "%ra, прекрати. Я вижу что ты делаешь.
+<ce> Тот, кого ты ищешь, находится под моей защитой.
+<ce> Продолжение твоей бесплодной миссии вызовет 
+<ce> мой гнев. Не недооценивай меня."
    <--->
-<ce> You step into _res_ and are
-<ce> accosted by a voice coming from thin air.
+<ce> Вы входите в _res_, и к вам обращается голос, 
+<ce> доносящийся из ниоткуда.
 <ce>
-<ce> "Stop. The one you seek is my ward and
-<ce> I will avenge thirtyfold any injury
-<ce> you produce. Turn and leave now,
-<ce> lest you face my wrath."
+<ce> "Прекрати. Тот, кого ты ищешь, - мой 
+<ce> подопечный, и я тридцатикратно отомщу за любой 
+<ce> причиненный тобой вред. Повернись и уходи 
+<ce> сейчас же, чтобы не столкнуться с моим гневом."
 
 Message:  1026
-<ce> The voice you previously heard returns.
+<ce> Возвращается голос, который вы слышали ранее.
 <ce>
-<ce> "You cannot comprehend what you have done.
-<ce> Your life is forfeit. Suffer for your deed."
+<ce> "Ты не можешь понять, что ты натворил.
+<ce> Твоя жизнь под угрозой. Пострадай за свой поступок".
    <--->
-<ce> The voice you previously heard returns.
+<ce> Возвращается голос, который вы слышали ранее.
 <ce>
-<ce> "Your end is come. Nothing can repay the
-<ce> crime you have committed. You will die, worm."
+<ce> "Твой конец настал. Ничто не может искупить
+<ce> совершенное вами преступление. Ты умрешь, червяк."
 
 Message:  1030
 %qdt:
- The Dark Brotherhood has sent
- me from ___questgiver_ to
- ___res_ to look for an
- fool and a bodyguard, who hide
- in _res_. I must at
- least kill the acrobat and return within
- =timer_ days for recognition.
+ Темное Братство отправило
+ меня из ___questgiver_ в
+ ___res_ искать
+ дурака и телохранителя, которые прячутся
+ в _res_. Я должен, по крайней
+ мере, убить дурака и вернуться в течение
+ =timer_ дней.
 
 QBN:
 

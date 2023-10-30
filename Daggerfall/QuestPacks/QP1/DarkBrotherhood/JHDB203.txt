@@ -1,72 +1,72 @@
 --Unused quest for now
 
 Quest: JHDB203
-DisplayName: Slay a Thief
+DisplayName: Убить вора
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pct, this task is elementary to the
-<ce> point that a child could fulfill it within an hour.
-<ce> We therefore have confidence that you will not
-<ce> fail us in this matter. Will you slay a thief with
-<ce> an overstayed welcome in ___questgiver_?
+<ce> %pct, это задание элементарно до такой степени, что 
+<ce> ребенок мог бы выполнить его в течение часа. 
+<ce> Поэтому мы уверены, что вы не подведете нас в этом 
+<ce> вопросе. Убьете ли вы вора злоупотребляющего 
+<ce> гостеприимством в ___questgiver_?
    <--->
-<ce> Not all our work may be precisely termed
-<ce> lawful, but at least we do it well. We have
-<ce> a request to reconcile a thief who has failed
-<ce> to do a proper job and yet is too stupid
-<ce> to flee ___questgiver_. Will you
-<ce> make reconciliation for our client?
+<ce> Не всю нашу работу можно точно назвать законной, 
+<ce> но, по крайней мере, мы делаем ее хорошо. У нас 
+<ce> есть просьба порешить вора, который должным 
+<ce> образом не справился с работой и к тому же 
+<ce> слишком глуп, чтобы сбежать из ___questgiver_. 
+<ce> Возьметесь лы вы за этот контракт?
 
 RefuseQuest:  [1001]
-<ce> If this task is too difficult for you, perhaps
-<ce> the Brotherhood is the wrong place to be.
+<ce> Если эта задача слишком сложна, возможно, 
+<ce> Братство - неподходящее место для вас.
 
 AcceptQuest:  [1002]
-<ce> Then you will slay a thief, and quite an
-<ce> incompetent one. It requires a special
-<ce> kind of idiocy to remain in a city
-<ce> when you've stolen from one of its
-<ce> principal residents, and more so when
-<ce> you've been spotted in the act. The
-<ce> tramp apparently is paying for short-
-<ce> term lodging in _thieves_.
-<ce> Go there and have finished with
-<ce> this in fewer than twelve hours.
+<ce> Тогда вы убьете вора, причем 
+<ce> совершенно некомпетентного. 
+<ce> Требуется особый вид идиотизма, 
+<ce> чтобы оставаться в городе, когда ты 
+<ce> обокрал одного из его ключевых 
+<ce> жителей, и тем более когда тебя 
+<ce> застукали с поличным. Бродяга, 
+<ce> по-видимому, снял комнату в 
+<ce> _thieves_. Отправляйтесь туда и 
+<ce> покончите с этим менее чем за 12 часов.
 
 QuestFail:  [1003]
-<ce>
+<ce> Провал задания
 
 QuestComplete:  [1004]
-<ce> Well done, %pct. These acts
-<ce> keep the wheels of %crn
-<ce> turning smoothly. Continue to
-<ce> serve the Night Mother with zeal.
+<ce> Молодец, %pct. Эти действия 
+<ce> как смазка для механизма 
+<ce> %crn. Продолжайте усердно 
+<ce> служить Матери Ночи.
 
 Message:  1021
-<ce> Moron! The only thing quicker
-<ce> than my feet is my blade!
+<ce> Идиот! Единственное, что быстрее 
+<ce> моих ног, - это мой клинок!
 
 Message:  1031
 %qdt:
- The Dark Brotherhood has
- sent me to slay a thief
- in _thieves_.
- I have twelve hours to
- do it and return.
+ Темное Братство послало 
+ меня убить вора в 
+ _thieves_. У меня есть 
+ 12 часов, чтобы сделать 
+ это и вернуться.
 
 Message:  1041
-<ce> "What?! How--"
+<ce> "Что?! Как..."
 <ce>
-<ce> The thief crumples into a heap on
-<ce> the floor. Your work here is done.
+<ce> Вор оседает на пол. Ваша 
+<ce> работа здесь закончена.
 
 Message:  1099
-<ce> Do you need help, %pct?
-<ce> Leave this building and look for
-<ce> the house. Kill the thief and then
-<ce> return. Do it in that order.
+<ce> Тебе нужна помощь, %pct? Покиньте 
+<ce> это здание и поищите дом. Убейте 
+<ce> вора, а затем возвращайтесь. 
+<ce> Делайте это в таком порядке.
 
 QBN:
 Person _questgiver_ group Questor male

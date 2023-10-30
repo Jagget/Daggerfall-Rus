@@ -1,65 +1,65 @@
 Quest: JHDB225
-DisplayName: A Fighter Astray
+DisplayName: Боец сбился с пути
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Mephala watch your blade, %pct.
-<ce> Your loyalty to the Brotherhood exceeds
-<ce> all other concerns. Prove it by disposing of a
-<ce> member of the Fighters Guild who has taken up residence
-<ce> in one of %crn's caverns.
+<ce> Мефала следит за вашим клинком, %pct. 
+<ce> Ваша преданность Братству превыше всех 
+<ce> остальных забот. Докажите это, избавившись 
+<ce> от члена Гильдии Бойцов, который поселился 
+<ce> в одной из пещер %crn.
 
 RefuseQuest:  [1001]
-<ce> Then find some other way to prove your loyalty.
-<ce> But prove it, lest your time come as well.
+<ce> Тогда найди какой-нибудь другой способ доказать свою преданность.
+<ce> Усепей доказать, пока не пришло и твое время.
 
 AcceptQuest:  [1002]
-<ce> You will travel to ___dung_ and find
-<ce> the fighter inside. Use whatever method best suits you.
-<ce> The more evident that this was the work of the Brotherhood,
-<ce> the better for us all. Let none cross our reputation
-<ce> with impunity. The fool will only stay there for =2res_ days,
-<ce> so ensure the killing is done by then. Report your success
-<ce> at any time after that.
+<ce> Вы отправитесь в ___dung_ и найдете бойца внутри. 
+<ce> Используйте любой метод, который вам больше всего подходит. 
+<ce> Чем очевиднее, что это была работа Братства, тем лучше для 
+<ce> всех нас. Не позволяйте никому безнаказанно портить нашу 
+<ce> репутацию. Дурак пробудет там всего =2res_ дней, поэтому 
+<ce> убедитесь, что к тому времени убийство будет совершено. 
+<ce> Сообщите о своем успехе в любое время после этого.
 
 QuestFail:  [1003]
-<ce> The Fighters Guild mark has fled ___dung_ by now.
+<ce> Цель из Гильдии Бойцов к настоящему времени сбежал из ___dung_.
 
 QuestComplete:  [1004]
-<ce> Some in this hall feared you had loyalties elsewhere.
-<ce> I am happy to see the contrary. We don't
-<ce> always compensate our contracts, but I happened to
-<ce> get my hands on this _magic_ that can paralyze foes,
-<ce> and I thought of you.
-<ce> May Mephala's foes know true terror at your hands.
+<ce> Некоторые в этом зале опасались, что у вас есть 
+<ce> привязанности на стороне. Я рад видеть обратное. Мы не 
+<ce> всегда компенсируем наши контракты, но мне случайно 
+<ce> попалась в руки этот _magic_, который может 
+<ce> парализовать врагов, и я подумал о вас. Пусть враги 
+<ce> Мефалы познают истинный ужас от ваших рук.
 
 Message:  1021
-<ce> I won't go down easy!
-<ce> I'm a member of the Fighters Guild!
+<ce> Я так просто не сдамся!
+<ce> Я член Гильдии Бойцов!
    <--->
-<ce> Ha! I'll show you what the guild taught me!
+<ce> Ха! Я покажу тебе, чему меня научила гильдия!
 
 Message:  1022
-Quest log:
-_fg_ of ___fg_ has
-tasked me with traveling to ___dung_
-and slaying all the spiders inside it.
-I have to return within =random_ days
-for my pay of =gold_ gold.
+Журнал заданий:
+  _fg_ из ___fg_
+  поручил мне отправиться в ___dung_
+  и убить всех пауков внутри него.
+  Я должен вернуться в течение =random_ дней
+  за своей оплатой в размере =gold_ золотых.
 
 Message:  1031
 %qdt:
-_questgiver_ assigned me
-to slay a member of
-the Fighters Guild in ___dung_
-before =2res_ days have passed.
-I can return to the Brotherhood
-in ___questgiver_ at any time afterward.
+ _questgiver_ поручил мне
+ убить члена
+ Гильдии Бойцов в ___dung_
+ до того, как пройдет =2res_ дней.
+ Я могу вернуться в Братство
+ в ___questgiver_ в любое время после этого.
 
 Message:  1041
-<ce> The Fighters Guild now has one less mercenary
-<ce> to count on. The Brotherhood will be pleased.
+<ce> Гильдия Бойцов теперь стала на одного 
+<ce> наемника меньше. Братство будет довольно.
 
 QBN:
 Person _questgiver_ group Questor male
