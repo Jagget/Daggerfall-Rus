@@ -125,7 +125,7 @@ Person _lhotun_ named Prince_Lhotun atHome
 Person _vampires_ face 113 factiontype Vampire_Clan remote
 Person _gortwog_ face 144 named Gortwog atHome
 Person _underking_ named The_Underking
-Person _aubk-i_ named Queen_Aubk-i atHome
+Person _aubki_ named Queen_Aubk-i atHome
 Person _thievesguild_ face 1 faction The_Thieves_Guild remote
 Person _kingofworms_ named King_of_Worms atHome
 Person _elysana_ named Princess_Elysana atHome
@@ -150,7 +150,7 @@ Clock _delay_ 1.00:00 0 flag 1 range 0 1
 	repute with _vampires_ exceeds 10 do _S.00_
 	repute with _gortwog_ exceeds 25 do _S.00_ 
 	repute with _underking_ exceeds 5 do _S.01_ 
-	repute with _aubk-i_ exceeds 25 do _S.01_
+	repute with _aubki_ exceeds 25 do _S.01_
 	repute with _thievesguild_ exceeds 50 do _S.01_ 
 	repute with _kingofworms_ exceeds 15 do _S.02_ 
 	repute with _elysana_ exceeds 25 do _S.02_ 

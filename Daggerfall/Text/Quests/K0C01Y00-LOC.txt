@@ -67,7 +67,7 @@ RumorsPostsuccess:  [1007]
    <--->
 _qgiver_ в величайшем горе, оплакивает _victim_. Как это печально.
 
-QuestorPostsuccess:  [1008]7
+QuestorPostsuccess:  [1008]
 Вы спасли меня от это мерзкой жабы _victim_, %pcf. Не думайте, что я забыл ваши услуги.
 
 QuestorPostfailure:  [1009]

@@ -1,66 +1,66 @@
 Quest: JHDB201
-DisplayName: Returning to the Natural Order
+DisplayName: Возврат к естественному порядку
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Understand that we have no personal vendetta
-<ce> against this mark, %pct. For us, all are
-<ce> free to obey the sky, the trees, the Night Mother, or
-<ce> nothing at all, however they may find satisfaction.
-<ce> Yet when one causes wild beasts to attack passers
-<ce> by, a request for an accounting quickly follows.
-<ce> Will you return a nature-crazed hermit to the earth?
+<ce> Поймите, что у нас нет личной вендетты против этой 
+<ce> цели, %pct. Для нас все свободны повиноваться небу, 
+<ce> деревьям, Матери Ночи или вообще ничему, лишь бы это 
+<ce> их удовлетворяло. Тем не менее, когда кто-то 
+<ce> заставляет диких зверей нападать на прохожих, очень 
+<ce> скоро приходится держать ответ. Сможете ли вы вернуть 
+<ce> на землю помешанного на природе отшельника?
    <--->
-<ce> On rare occasions, we receive petitions to execute
-<ce> the law when the town guard refuses to do so.
-<ce> My reading of the law is rather negligent, but I
-<ce> am certain some provision must exist against
-<ce> enraging wild animals and sending them into
-<ce> nearby towns. Are you willing to play executioner
-<ce> against a nature-wielding hermit?
+<ce> В редких случаях мы получаем петиции об исполнении 
+<ce> закона, когда городская стража отказывается это 
+<ce> делать. Мое прочтение закона довольно небрежное, но я 
+<ce> уверен, что должно существовать какое-то положение, 
+<ce> запрещающее выводить из себя диких животных и 
+<ce> отправлять их в близлежащие города. Готовы ли вы 
+<ce> сыграть палача против управляющего природой отшельника?
 
 RefuseQuest:  [1001]
-<ce> This contract will be taken up quickly.
-<ce> It will be a true joy to someone.
+<ce> Этот контракт будет занят очень быстро.
+<ce> Для кого-то это будет настоящей радостью.
 
 AcceptQuest:  [1002]
-<ce> The recluse has made of ___mondung_
-<ce> a home, completing rituals of kinds that drive
-<ce> the wildlife into a frenzy. Apparently these
-<ce> attacks wane during the night hours, as even
-<ce> the clerics of the dirt require rest. Restore
-<ce> the natural order and return before =timer_
-<ce> nights have passed. Mephala be with you.
+<ce> Отшельник превратил ___mondung_ в свой дом, 
+<ce> совершая там ритуалы, которые приводят дикую природу 
+<ce> в неистовство. Очевидно, эти атаки ослабевают в 
+<ce> ночные часы, поскольку даже жрецам грязи 
+<ce> требуется отдых. Восстановите естественный 
+<ce> порядок и вернитесь до того, как пройдет =timer_ 
+<ce> ночей. Да пребудет с тобой Мефала.
 
 QuestFail:  [1003]
-<ce> You were to report to _questgiver_
-<ce> concerning the wild hermit's death by now.
+<ce> Вы уже должны были доложить _questgiver_
+<ce> о смерти дикого отшельника.
 
 QuestComplete:  [1004]
-<ce> Now you see the dangers of subsisting entirely
-<ce> on _alch_. The Brotherhood is pleased
-<ce> to provide a return to the natural order when
-<ce> all other responsible parties refuse to do so.
+<ce> Теперь вы видите, как опасно питаться только 
+<ce> _alch_. Братство с удовольствием обеспечивает 
+<ce> возврат к естественному порядку, когда все другие 
+<ce> ответственные стороны отказываются это делать.
 
 Message:  1020
-<ce> The priest of nature is now dead. The wild
-<ce> animals will likely return to their natural patterns.
+<ce> Жрец природы теперь мертв. Дикие животные, скорее 
+<ce> всего, вернутся к своему естественному образу жизни.
 
 Message:  1024
-<ce> Odd. _questgiver_ warned you
-<ce> your mark would cause mayhem with the
-<ce> local wildlife, but this place shows no signs
-<ce> of it. Perhaps the rumors were overblown.
+<ce> Странно. _questgiver_ предупреждал вас, что 
+<ce> ваша цель вызывает хаос в местной дикой 
+<ce> природе, но в этом месте нет никаких признаков 
+<ce> этого. Возможно, слухи были преувеличены.
 
 Message:  1030
 %qdt:
- In ___mondung_ there's a
- religious hermit who has caused
- animal attacks on surrounding cities.
- I must execute the Dark Brotherhood's
- contract to cull the priest and return
- to ___questgiver_ in =timer_ days' time.
+ В ___mondung_ есть религиозный отшельник, 
+ который стал причиной нападений животных 
+ на окружающие города. Я должен выполнить 
+ контракт Темного Братства, чтобы 
+ уничтожить священника и вернуться к 
+ ___questgiver_ через =timer_ дней.
 
 QBN:
 Item _alch_ small_plant

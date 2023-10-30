@@ -89,42 +89,42 @@ QuestLogEntry:  [1010]
 
 Message:  1011
 <ce> Эта книга не имеет цены.
-<ce> _pickuplocal_ не видел эту
+<ce> _pickupregion_ не видел эту
 <ce> копию _book_
 <ce> уже много лет.
 
 Message:  1012
-<ce> _pickuplocal_ нуждается в этом
+<ce> _pickupregion_ нуждается в этом
 <ce> _ingredient_ для особого сорта
 <ce> пива, которое %g варит.
 
 Message:  1013
 <ce> Эта _jewelry_ - дар
-<ce> к _pickuplocal_, с которым заключена
+<ce> к _pickupregion_, с которым заключена
 <ce> договоренность.
 
 Message:  1014
 <ce> Это особый _mensclothing_,
 <ce> который моя мать сделала для
-<ce> _pickuplocal_ к празднику.
+<ce> _pickupregion_ к празднику.
 
 Message:  1015
-<ce> _pickuplocal_ заказал эту
+<ce> _pickupregion_ заказал эту
 <ce> картину _painting_.
 <ce> Необходимо доставить вовремя.
 
 Message:  1016
-<ce> _pickuplocal_ нуждается в этом
+<ce> _pickupregion_ нуждается в этом
 <ce> _potion_ как можно скорее.
 
 Message:  1017
-<ce> _pickuplocal_ грозит опасность
+<ce> _pickupregion_ грозит опасность
 <ce> Это - _weapon_ - должно
 <ce> придать ему уверенности.
 
 Message:  1018
 <ce> Я приобрел это прекрасное _womensclothing_
-<ce> для жены _pickuplocal_.
+<ce> для жены _pickupregion_.
 <ce> Будет очень некрасиво, если посылка не
 <ce> будет доставлена в срок.
 

@@ -90,10 +90,11 @@ Message:  1011
 <ce> _transporter_ - нервно выглядящий =transporter_,
 <ce> связанный с _questgiver_.
    <--->
-=transporter_ -- %g %di его в __transporter_.
+<ce> =transporter_ -- %g на %di в его __transporter_.
+
 Message:  1012
 <ce> Вы подобрали _item_.
-<ce> Теперь доставьте его _transporter_.
+<ce> Теперь доставьте его к _transporter_.
 
 Message:  1015
 %qdt:

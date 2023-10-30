@@ -6,351 +6,354 @@
 -- QuestId: 28
 Messages: 51
 Quest: R0C11Y28
-DisplayName: Безумный истребитель
+DisplayName: Безумный убийца
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> There's a nightmare stalking the streets
-<ce> of ___bookstore_. They're calling him the
-<ce> ___bookstore_ Slayer, and so far no
-<ce> one can tell me if he's a man or a beast.
-<ce> One of my finest sages, _contact_,
-<ce> is examing the bodies of the victims, but
-<ce> %g has begun getting disturbing letters
-<ce> and frankly fears for %g3 life. I need
-<ce> someone to investigate %g3 findings to see
-<ce> if %g3 fears are justified. Will you help
-<ce> me in this, %pcf? I will offer
-<ce> you _reward_ gold pieces in return for the
-<ce> retirement of the ___bookstore_ Slayer.
+<ce> По улицам ___bookstore_ бродит кошмар. 
+<ce> Они называют его Убийцей из 
+<ce> ___bookstore_, и до сих пор никто не 
+<ce> может сказать мне, человек он или зверь. 
+<ce> Один из моих лучших мудрецов, _contact_, 
+<ce> осматривает тела жертв, но %g начал 
+<ce> получать тревожные письма и, откровенно 
+<ce> говоря, опасается за свою жизнь. Мне 
+<ce> нужно, чтобы кто-нибудь изучил %g3 
+<ce> выводы, чтобы понять, оправданы ли %g3 
+<ce> опасения. Вы поможете мне в этом, %pcf? Я 
+<ce> предложу вам _reward_ золотыми монетами в 
+<ce> обмен на отставку Убийцы из ___bookstore_.
 
 RefuseQuest:  [1001]
-<ce> Not an uncommon response. Then I have
-<ce> little choice, but to call on some of
-<ce> my less savoury contacts for help --
-<ce> an option I was hoping to avoid.
+<ce> Не такая уж необычная реакция. Тогда у меня нет 
+<ce> другого выбора, кроме как обратиться за помощью к 
+<ce> кому-нибудь из моих менее приятных знакомых - 
+<ce> вариант, которого я надеялся избежать.
 
 AcceptQuest:  [1002]
-<ce> Thank %god for that anyway.
-<ce> The people of %reg are becoming
-<ce> anxious about the lack of progress in the
-<ce> official investigations. I fear that we
-<ce> will have a mob situation soon, perhaps
-<ce> in =total_ days or less. _contact_
-<ce> works out of _bookstore_,
-<ce> and I told %g2 I'd be sending someone
-<ce> there soon. Watch out for yourself,
-<ce> %pcf. Until this situation is
-<ce> resolved, remember that the ___bookstore_
-<ce> night has a knife.
+<ce> Слався %god. Жители %reg начинают 
+<ce> беспокоиться из-за отсутствия 
+<ce> прогресса в официальных 
+<ce> расследованиях. Я боюсь, что скоро 
+<ce> толпа выйдет из под контроля, 
+<ce> возможно, всего через =total_ дней 
+<ce> или раньше. _contact_ работает в 
+<ce> _bookstore_, и я сказал %g3, что 
+<ce> скоро отправлю туда кого-нибудь. 
+<ce> Берегите себя, %pcf. Пока эта 
+<ce> ситуация не разрешится, помните, что 
+<ce> ___bookstore_ опасен по ночам.
 
 QuestFail:  [1003]
-<ce> The ___bookstore_ Slayer is still
-<ce> at large. I have no time for chatting,
-<ce> nor should you.
+<ce> Убийца из ___bookstore_ все еще на 
+<ce> свободе. У меня нет времени на 
+<ce> болтовню, да и у тебя не должно быть.
 
 QuestComplete:  [1004]
-<ce> %reg is at peace again, %pcf,
-<ce> thanks to you. Here is the _reward_ gold I promised
-<ce> -- gladly will I give it for the end of that
-<ce> maniac and your discretion in this matter.
-<ce> %god truly blessed us when you
-<ce> came to %reg.
+<ce> %reg снова обрел покой, %pcf, благодаря вам. 
+<ce> Вот обещанное мной золото в награду - я с 
+<ce> радостью отдам его за то, что вы покончили с 
+<ce> этим маньяком, и за ваше благоразумие в этом 
+<ce> вопросе. %god действительно благословил нас, 
+<ce> когда ты приехал в %reg.
 
 RumorsDuringQuest:  [1005]
-It isn't safe to walk the streets of ___bookstore_ anymore. Not with the ___bookstore_ Slayer.
+Ходить по улицам ___bookstore_ больше небезопасно. Только не с Убийцей из ___bookstore_.
    <--->
-I hear the Slayer isn't a man at all, but a daedra come to punish us all.
+Я слышал, что Убийца вовсе не человек, а даэдра, пришедший наказать нас всех.
    <--->
-The last victim of the ___bookstore_ Slayer was found scattered in pieces over ___bookstore_.
+Последняя жертва Убийцы из ___bookstore_ была найдена разбросанной по всему ___bookstore_.
    <--->
-Some folks are wondering if the Slayer might be a vampire or a werewolf.
+Некоторые люди задаются вопросом, может ли Убийца быть вампиром или оборотнем.
 
 RumorsPostfailure:  [1006]
-The killings stopped without us needing a mob. Guess the Slayer moved on.
+Убийства прекратились, и нам не понадобилась толпа. Думаю, Убийца двинулся дальше.
    <--->
-_qgiver_'s just lucky the ___bookstore_ Slayer decided to move on. Panic was setting in.
+_qgiver_ просто повезло, что Убийца из ___bookstore_ решил двигаться дальше. Начиналась паника.
    <--->
-_qgiver_ is still anxious. You'd think the Slayer's absence would relieve %g2.
+_qgiver_ все еще встревожен. Можно было бы подумать, что отсутствие Убийцы принесёт облегчение.
    <--->
-The ___bookstore_ Slayer disappeared just as suddenly as he came to ___bookstore_.
+Убийца из ___bookstore_ исчез так же внезапно, как и появился.
    <--->
-Some say the Slayer's still here, waiting for the stars to be right again.
+Некоторые говорят, что Убийца все еще здесь, ожидая, когда звезды сойдутся снова.
 
 RumorsPostsuccess:  [1007]
-I'm still afraid to be out in ___bookstore_ alone, even with the Slayer supposedly dead.
+Я все еще боюсь оставаться в ___bookstore_ в одиночестве, даже когда Убийца предположительно мертв.
    <--->
-Guess the ___bookstore_ Slayer was just some poor lunatic. Nothing romantic to him at all.
+Полагаю, Убийца из ___bookstore_ был просто каким-то бедным сумасшедшим. В нем вообще не было ничего романтичного.
    <--->
-The newest rumor is that the ___bookstore_ Slayer wasn't a vampire, but thought he was.
+Самый свежий слух заключается в том, что Убийца из ___bookstore_ не был вампиром, но думал, что он им был.
 
 QuestorPostsuccess:  [1008]
-I still remember you, %pcf, and the discretion you showed with the ___bookstore_ Slayer.
+Я все еще помню тебя, %pcf, и ту осмотрительность, которую ты проявил с Убийцей из ___bookstore_.
 
 QuestorPostfailure:  [1009]
-<ce> You failed me in the ___bookstore_ Slayer
-<ce> affair, %pcf. I don't
-<ce> see any reason to believe you won't
-<ce> fail me again.
+<ce> Ты подвел меня в деле с Убийцей 
+<ce> из ___bookstore_, %pcf. Я не 
+<ce> вижу никаких причин верить, что 
+<ce> ты не подведешь меня снова.
 
 QuestLogEntry:  [1010]
-<ce> Ah, %pcf, my dear %ra,
-<ce> I am very glad you've arrived. You have
-<ce> doubtless been told that I've become a bit
-<ce> of a hermit ever since I began receiving
-<ce> those letters threatening my life if I
-<ce> did not abandoned my investigations. Well,
-<ce> now I have an old colleague in town with
-<ce> whose assistance I may be able to solve
-<ce> these murders. I would like you to bring
-<ce> these notes to a _vamp_,
-<ce> a =vamp_ you will find at
-<ce> _hookerhouse_. If anything
-<ce> should happen to me, I want someone to be
-<ce> able to continue on in the investigations.
-<ce> That will be _vamp_ and
-<ce> you, %pcf. So don't get yourself
-<ce> killed out there.
+<ce> Ах, %pcf, мой дорогой %ra, я очень 
+<ce> рад, что ты приехал. Вам, 
+<ce> несомненно, говорили, что я стал 
+<ce> чем-то вроде отшельника с тех пор, 
+<ce> как начал получать эти письма с 
+<ce> угрозами моей жизни, если я не 
+<ce> откажусь от своих расследований. 
+<ce> Что ж, теперь у меня в городе есть 
+<ce> старый коллега, с чьей помощью я, 
+<ce> возможно, смогу раскрыть эти 
+<ce> убийства. Я бы хотел, чтобы вы 
+<ce> отнесли эти заметки _vamp_, =vamp_ 
+<ce> вы найдете в _hookerhouse_. Если со 
+<ce> мной что-нибудь случится, я хочу, 
+<ce> чтобы кто-нибудь смог продолжить 
+<ce> расследование. Это будут _vamp_ и 
+<ce> ты, %pcf. Так что не дай себя там убить.
 
 Message:  1011
 _contact_,
  
- Terminate your investigations of the %reg Slayer's
- victims if you value your life. You are moving
- blindly into an inferno.
+ Прекратите свои расследования в отношении жертв 
+ Убийцы %reg, если вам дорога ваша жизнь. Вы 
+ слепо движетесь в ад.
  
- If you continue, you will die before your
- studies are finished. Consider this this a
- serious warning.
+ Если вы продолжите, то умрете до того, как 
+ закончите изыскания. Считайте это серьезным 
+ предупреждением.
  
-<ce> A Well-Wisher
+<ce> Доброжелатель
 
 Message:  1012
 Dear _contact_,
  
- Even if you lock all your doors and extinguish
- all light from _bookstore_, we
- will know that you are still indulging in your
- forbidden autopsies. Do not ask for us to
- demonstrate our power to stop you, for we will
- act but once.
+ Даже если вы закроете все свои двери и погасите 
+ весь свет в _bookstore_, мы будем знать, что вы 
+ все еще занимаетесь своими запрещенными 
+ вскрытиями. Не просите нас продемонстрировать 
+ нашу силу, чтобы остановить вас, ибо мы будем 
+ действовать только один раз.
  
-<ce> A Well-Wisher
+<ce> Доброжелатель
 
 Message:  1013
 _contact_,
  
- I would very much like to meet with you
- about your fascinating mortuary studies of
- the Slayer victims. As you know, I have
- done similar investigations and would be
- happy to share my knowledge and experience
- with a distinguished colleague.
+ Я бы очень хотел встретиться с вами по 
+ поводу ваших увлекательных исследований 
+ трупов жертв Убийцы. Как вы знаете, я 
+ проводил аналогичные расследования и 
+ был бы рад поделиться своими знаниями и 
+ опытом с уважаемым коллегой.
  
- Let me know by courier how it would be
- most convenient for us to meet. I am
- staying at _hookerhouse_,
- but perhaps you would rather meet at
- _bookstore_ so I might
- see the corpses in question. In either
- case I look forward to receiving your
- courier and note.
+ Сообщите мне с курьером, как нам было 
+ бы удобнее всего встретиться. Я 
+ остановился в _hookerhouse_, но, 
+ возможно, вы предпочли бы встретиться в 
+ _bookstore_, чтобы я мог увидеть трупы, 
+ о которых идет речь. В любом случае я с 
+ нетерпением жду вашего курьера и 
+ записки.
  
-<ce> Yours in admiration,
+<ce> Ваш в восхищении,
  
 <ce> _vamp_
 
 Message:  1014
-Autopsy report for %fn:
- 
- Throat torn out, apparently
- with violent force (Slayer a
- madman? Check into Lobornus'
- work with criminally insane in Agryn
- Prison). Death instantaneous,
- no sign of struggle (Slayer knew
- victim? Did not appear a threat?)
- Carotid artery completely severed,
- loss of blood extensive by time of
- examination (remember to ask
- _qgiver_ to send over guards
- who found body for interview).
- 
- Autopsy report for %mn:
- 
- Subject shows similar pathology to
- female victim. Throat torn out violently,
- bruises on upper arms as if gripped by
- extremely strong man (Slayer's insanity
- produces superhuman strength? Note to self:
- write to Lobornus for research notes from
- interesting case he reported at last year's
- Conclave). Bruising indicates some time
- between attack and death? (Could be unrelated
- to attack? Check on background of victim)
+Отчет о вскрытии %fn:
+<ce>
+ Горло вырвано, по-видимому, с 
+ применением жестокой силы (Убийца - 
+ сумасшедший? Ознакомьтесь с работой 
+ Лоборнуса с невменяемыми преступниками 
+ в тюрьме Агрин). Смерть мгновенная, 
+ никаких признаков борьбы (Убийца знал 
+ жертву? Не появилась ли угроза?) Сонная 
+ артерия полностью перерезана, к моменту 
+ осмотра потеря крови была значительной 
+ (не забудьте попросить _qgiver_ 
+ прислать охранников, обнаруживших тело, 
+ для допроса).
+<ce>
+Отчет о вскрытии %mn:
+<ce>
+ У субъекта обнаружена патология, сходная с патологией 
+ жертвы женского пола. Жестоко вырванное горло, синяки 
+ на предплечьях, как будто их схватил чрезвычайно 
+ сильный мужчина (безумие Убийцы порождает 
+ сверхчеловеческую силу? Примечание для себя: напишите 
+ Лоборнусу, чтобы получить исследовательские заметки по 
+ интересному делу, о котором он сообщил на прошлогоднем 
+ Конклаве). Синяки указывают на какой-то промежуток 
+ времени между нападением и смертью? (Может быть, это 
+ не связано с атакой? Проверьте биографию жертвы)
 
 Message:  1015
-<ce> So, for all the days _contact_
-<ce> has spent with those flyblown cadavers
-<ce> and all %g comes up with
-<ce> is this. %god, with this as a
-<ce> start, _contact_ won't get
-<ce> an intimation of the Slayer's identity
-<ce> for weeks yet. Listen, %pcf,
-<ce> if you want to help _qgiver_,
-<ce> take this flower over to _widow_
-<ce> in _widowhouse_ -- %g3
-<ce> brother was %mn, one of
-<ce> the Slayer's victims. This may seem
-<ce> like a trivial sentimentality, but it
-<ce> will bring you closer to finding the
-<ce> ___bookstore_ Slayer than any of
-<ce> _contact_'s scientific
-<ce> catalyses. Trust me, %pcf.
+<ce> Итак, за все те дни, что _contact_ 
+<ce> провел с этими полуразложенными 
+<ce> трупами, и все, что приходит в 
+<ce> голову, это вот что. %god, если мы 
+<ce> так продолжим, _contact_ еще 
+<ce> несколько недель не получит ни 
+<ce> малейшего намека на личность Убийцы. 
+<ce> Послушай, %pcf, если ты хочешь помочь 
+<ce> _qgiver_, отнеси этот цветок _widow_ 
+<ce> в _widowhouse_ - %g3 брат был %mn, 
+<ce> одной из жертв Убийцы. Это может 
+<ce> показаться банальной 
+<ce> сентиментальностью, но это приблизит 
+<ce> вас к поиску Убийцы из ___bookstore_ 
+<ce> больше, чем любой из научных 
+<ce> катализаторов, что использует 
+<ce> _contact_. Поверь мне, %pcf.
 
 Message:  1016
-_vamp_ is the =vamp_ I met over at _hookerhouse_. Nice enough, but spooky.
+_vamp_ - это тот самый =vamp_, которого я встретил в _hookerhouse_. Достаточно милый, но жутковатый.
    <--->
-_vamp_ is the name of the =vamp_ staying over at _hookerhouse_.
+_vamp_ - это имя =vamp_, остановившегося на ночь в _hookerhouse_.
 
 Message:  1017
-_vamp_ is one of the %vcn, sent to ___bookstore_ to eliminate the mad Slayer.
+_vamp_ - один из %vcn, посланный в ___bookstore_, чтобы устранить безумного Убийцу.
    <--->
-_vamp_ is a %vcn vampire here to stop the risk to %g3 security, the Slayer.
+_vamp_ - это вампир из %vcn, который здесь, чтобы устранить угрозу безопасности - Убийцу.
 
 Message:  1018
-Poor _widow_ stays at _widowhouse_ every since the Slayer got %g3 brother.
+Бедная _widow_ остается в _widowhouse_ каждый день с тех пор, как у Убийца забрал %g3 брата.
    <--->
-The %reg Slayer killed _widow_'s brother, and now %g never leaves _widowhouse_.
+Убийца %reg убил брата _widow_, и теперь %g никогда не покидает _widowhouse_.
 
 Message:  1019
-<ce> A red poppy? Oh, you must be my brother's
-<ce> friend, _rippername_, yes? I do
-<ce> appreciate the comforting note you sent after
-<ce> his death. He didn't have very many friends,
-<ce> and, to tell the truth, he had never mentioned
-<ce> your name. But I certainly thank you for the
-<ce> lovely flowers and the invitation to visit
-<ce> you at _ripperhouse_.
-<ce> I've always admired that place, and I would
-<ce> like to see the inside of it.
+<ce> Красный мак? О, вы, должно быть, друг моего 
+<ce> брата, _rippername_, да? Я действительно 
+<ce> ценю утешительную записку, которую вы 
+<ce> прислали после его смерти. У него было не 
+<ce> так уж много друзей, и, по правде говоря, он 
+<ce> никогда не упоминал вашего имени. Но я, 
+<ce> конечно, благодарю вас за прекрасные цветы и 
+<ce> приглашение навестить вас в _ripperhouse_. Я 
+<ce> всегда восхищалась этим местом, и мне 
+<ce> хотелось бы увидеть его изнутри.
 <ce> 
-<ce> What, you're not _rippername_? Oh,
-<ce> I'm so sorry. Please forgive me, I haven't
-<ce> been myself since my brother... No, I don't
-<ce> think I have information that might help you
-<ce> find that murdering devil. You know I would
-<ce> help you if I could. But you will find the
-<ce> fiend that killed my brother, won't you?
+<ce> Что, вы не _rippername_? О, мне так жаль. 
+<ce> Пожалуйста, простите меня, я была сама не своя с 
+<ce> тех пор, как умер мой брат... Нет, я не думаю, что 
+<ce> у меня есть информация, которая могла бы помочь 
+<ce> вам найти этого дьявола-убийцу. Ты знаешь, я бы 
+<ce> помогла тебе, если бы могла. Но ты найдешь 
+<ce> дьявола, убившего моего брата, не так ли?
 
 Message:  1020
 %qdat:
- I am on the trail of the Slayer
- of ___bookstore_. %rt _qgiver_ wants
- the ___bookstore_ Slayer caught in =total_ days
- before the murders inflame the populace
- to riot. _qgiver_ has a scientist
- who has been examining the bodies of the
- Slayer's victims and has recently
- begun getting death threats, apparently
- from the Slayer. _contact_ is
- the name of this scientist, and %g
- works out of _bookstore_.
+ Я иду по следу Убийцы из 
+ ___bookstore_. %rt хочет, чтобы 
+ Убийцу из ___bookstore_ поймали за 
+ =total_ дней до того, как убийства 
+ спровоцируют население на бунт. У 
+ _qgiver_ есть ученый, который 
+ исследовал тела жертв Убийцы и 
+ недавно начал получать угрозы, 
+ по-видимому, от самого Убийцы. 
+ _contact_ - имя этого ученого, и %g 
+ работает в _bookstore_.
 
 Message:  1021
 %qdat:
- _contact_ has sent me
- to _hookerhouse_ to meet with
- an old colleague named _vamp_,
- who might be able to help with the research.
+ _contact_ отправил меня
+ в _hookerhouse_ на встречу со
+ старым коллегой по имени _vamp_,
+ который, возможно, сможет помочь с исследованием.
 
 Message:  1022
 %qdat:
- I got to _bookstore_ too late.
- Apparently _contact_'s death
- threats were very real. Among the letters
- I found was one from a colleague interested in
- meeting with _contact_, someone
- named _vamp_ staying at
+ Я добрался до _bookstore_ слишком поздно. 
+ Очевидно, угрозы смерти что получал 
+ _contact_ были вполне реальными. Среди 
+ писем, которые я нашел, было одно от 
+ коллеги, заинтересованного во встрече с 
+ _contact_, неким _vamp_, проживающим в 
  _hookerhouse_.
 
 Message:  1023
 %qdat:
- I met with _vamp_ who seems
- less than impressed with %g3
- colleague _contact_'s work
- on the %reg Slayer victims.
- _vamp_ told me to bring
- a red poppy to someone named
- _widow_ whose brother
- was killed by the Slayer. I have some
- suspicions, but I won't know for sure
- until I go to _widowhouse_
- where _widow_ lives.
+ Я встретился с _vamp_, который, 
+ кажется, менее чем впечатлен 
+ работой коллеги _contact_ над 
+ жертвами Убийцы из %reg. вампир 
+ велел мне принести красный мак 
+ кому-то по имени _widow_, чей 
+ брат был убит Убийцей. У меня 
+ есть кое-какие подозрения, но я 
+ не буду знать наверняка, пока не 
+ отправлюсь в _widowhouse_, где 
+ живет _widow_.
 
 Message:  1024
 %qdat:
- The late _contact_'s colleague
- and murderer are one and the same person.
- _vamp_ is a vampire, but professes
- not to be the Slayer. If I kill the person
- %g says is the %reg Slayer, _rippername_
- of _ripperhouse_, _vamp_
- has promised me a reward, apparently
- in addition to the reward I'd get
- from _qgiver_.
+ Коллега покойного _contact_ и убийца 
+ - одно и то же лицо. _vamp_ - вампир, 
+ но утверждает, что не является 
+ Убийцей. Если я убью человека, 
+ которого %g называет Убийцей из %reg, 
+ _rippername_ из _ripperhouse_, _vamp_ 
+ пообещал мне награду, очевидно, в 
+ дополнение к награде, которую я 
+ получил бы от _qgiver_.
 
 Message:  1025
 %qdat:
- _widow_, the =widow_
- _vamp_ sent me to, believed
- that I was someone named _rippername_.
- This _rippername_ apparently sent
- _widow_ a bouquet of red poppies
- and invited %g2 to a place called
- _ripperhouse_. Sounds like a Slayer
- trap if there ever was one.
+ _widow_, =widow_, к которой меня отправил 
+ _vamp_, верила, что я кто-то по имени 
+ _rippername_. Этот _rippername_, 
+ по-видимому, отправил _widow_ букет 
+ красных маков и пригласил %g3 в место под 
+ названием _ripperhouse_. Звучит как 
+ ловушка Убийцы, если он когда-либо 
+ существовал.
 
 Message:  1026
-<ce> Which letter brought you to me, %pcn?
-<ce> You are probably aware that I wrote them all.
-<ce> After _contact_ refused to
-<ce> listen to my polite warnings about investigating
-<ce> matters beyond mortal understanding, I invited
-<ce> %g2 here as %g3 friend. I knew %g2, you see,
-<ce> years ago, before I became a vampire. We met,
-<ce> went back to _bookstore_ to
-<ce> see the bodies, and there I slew %g2. Quite
-<ce> painlessly. I could tell %g would never have
-<ce> halted his studies. More than that I cannot
-<ce> say, except that the Slayer is a vampire
-<ce> like myself, but mad from the blessing of
-<ce> immortality. _rippername_,
-<ce> that's the Slayer's real name and %g lives at
-<ce> _ripperhouse_. If you go there
-<ce> and slay %g2, I will reward you. If you intend
-<ce> to continue with _contact_'s
-<ce> studies, I will have no choice but to kill
-<ce> you as well. That is my simple offer.
+<ce> Какое письмо привело тебя ко мне, %pcn? Вы, 
+<ce> вероятно, знаете, что я написал их все. После 
+<ce> того, как _contact_ отказался прислушаться к 
+<ce> моим вежливым предупреждениям о расследовании 
+<ce> дел, выходящих за рамки понимания смертных, я 
+<ce> пригласил %g3 сюда притворившись другом. Видите 
+<ce> ли, я знал %g3 много лет назад, еще до того, 
+<ce> как стал вампиром. Мы встретились, вернулись в 
+<ce> _bookstore_, чтобы посмотреть на тела, и там я 
+<ce> убил %g3. Совершенно безболезненно. Я мог бы 
+<ce> сказать, что %g никогда бы не прекратил свои 
+<ce> занятия. Больше я ничего не могу сказать, кроме 
+<ce> того, что Убийца - такой же вампир, как и я, но 
+<ce> обезумевший от благословения бессмертия. 
+<ce> _rippername_, это настоящее имя Убийцы, и %g 
+<ce> живет в _ripperhouse_. Если ты пойдешь туда и 
+<ce> убьешь %g3, я вознагражу тебя. Если ты намерен 
+<ce> продолжать изыскания, что начал _contact_, у 
+<ce> меня не будет другого выбора, кроме как убить и 
+<ce> тебя тоже. Таково мое простое предложение.
 
 Message:  1027
-_contact_ is quite a learned scientist over in _bookstore_, %di of here.
+_contact_ - довольно образованный ученый из _bookstore_, на %di отсюда.
    <--->
-_contact_ is a =contact_ who works out of _bookstore_.
+_contact_ - это =contact_, который работает в _bookstore_.
 
 Message:  1028
-_contact_ is dissecting the Slayer's victims and someone doesn't like that.
+_contact_ препарирует жертв Убийцы, и кому-то это не нравится.
    <--->
-_contact_'s a scientist at _bookstore_, who has been getting threat letters.
+_contact_ - ученый из _bookstore_, который получал письма с угрозами.
+
+Message:  1029
+<ce> Безумного Убийцы больше нет.
 
 Message:  1050
-<ce> By killing _rippername_, you have
-<ce> aided both %reg and myself. For this,
-<ce> I give you a _reward2_. Perhaps we
-<ce> may meet again one day, %pcn.
-<ce> You have intrigued me in our brief
-<ce> acquaintance. May the night keep you safe.
+<ce> Убив _rippername_, вы помогли и %reg, и 
+<ce> мне. За это я даю вам _reward2_. 
+<ce> Возможно, однажды мы встретимся снова, 
+<ce> %pcn. Вы заинтриговали меня за время 
+<ce> нашего краткого знакомства. Пусть ночь 
+<ce> сохранит тебя в безопасности.
 
 
 -- Symbols used in the QRC file:
@@ -391,10 +394,10 @@ Item _I.00_ letter used 1011
 Item _I.01_ letter used 1012
 Item letter31 letter used 1013
 Item _I.03_ letter used 1014
-Item _I.04_ dead_body
+-Item _I.04_ dead_body
 Item _reward_ gold
 Item _reward2_ trinket
-Item _I.08_ item class 26 subclass 3
+-Item _I.08_ item class 26 subclass 3
 Item _I.09_ item class 15 subclass 13
 
 Person _qgiver_ group Questor
@@ -415,7 +418,7 @@ Clock _total_ 3.00:00 0 flag 1 range 0 1
 Foe _murder_ is Vampire
 
 --	Quest start-up:
-	place item _I.08_ at _bookstore_ 
+-	place item _I.08_ at _bookstore_ 
 	dialog link for location _ripperhouse_ person _rippername_ 
 	dialog link for person _widow_ 
 	dialog link for person _vamp_ 
@@ -425,10 +428,14 @@ Foe _murder_ is Vampire
 	place npc _contact_ at _bookstore_ 
 	place npc _vamp_ at _hookerhouse_ 
 	place npc _widow_ at _widowhouse_ 
-	have _I.04_ set _deadbody_
+-	have _I.04_ set _deadbody_
+--removing everything related to the dead body. It's out of place for
+--the quest, has no relevance and no function. Also had a sprite change
+--since last checked? In any case, not useful.
 
 _S.00_ task:
 	killed 1 _murder_ 
+	say 1029
 
 _1stparton_ task:
 	start timer _2ndparton_ 
@@ -440,7 +447,7 @@ _S.03_ task:
 	place item _I.01_ at _bookstore_ 
 	place item _I.00_ at _bookstore_ 
 	place item letter31 at _bookstore_ 
-	place item _I.04_ at _bookstore_ 
+-	place item _I.04_ at _bookstore_ 
 	hide npc _contact_ 
 
 _vampclicked_ task:
@@ -449,14 +456,18 @@ _vampclicked_ task:
 _qgclicked_ task:
 	clicked npc _qgiver_ 
 
+_qgclearclick_ task:
+	when not _S.00_ and _qgclicked_ 
+	clear _qgclicked_ _qgclearclick_
+
 _pcgetsgold_ task:
 	when _S.00_ and _qgclicked_ 
 	give pc _reward_ 
 	unset _qgclicked_ 
 	end quest 
 
-_deadbody_ task:
-	take _I.04_ from pc
+-_deadbody_ task:
+-	take _I.04_ from pc
 --added deadbody task. otherwise body would clog inventory
 
 _S.07_ task:
@@ -470,18 +481,24 @@ _S.08_ task:
 	say 1026 
 
 _S.09_ task:
-	toting _I.03_ and _vamp_ clicked 
+	when _hasletter_ and _vampclicked_
 	add dialog for person _widow_ 
 	log 1023 step 3 
 	get item _I.09_ 
 	say 1015 
 
+variable _hasletter_
 _S.10_ task:
 	clicked npc _contact_ 
 	add dialog for person _vamp_ 
 	log 1021 step 1 
 	get item _I.03_
-	say 1010 
+	setvar _hasletter_
+	say 1010
+
+_vampclearclick_ task:
+	when _vampclicked_ and not _S.00_
+	clear _vampclicked_ _vampclearclick_
 
 _S.11_ task:
 	add dialog for person _vamp_ 

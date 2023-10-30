@@ -1,97 +1,97 @@
 Quest: JHDB124
-DisplayName: In the Darkest Depths
+DisplayName: В самых темных глубинах
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We require the aid of one skilled in combat,
-<ce> quick to think and act. One of our senior members
-<ce> is conducting a ritual to obtain dark powers and
-<ce> will soon awaken in weakness. Someone must provide
-<ce> protection when that happens. Will you go?
+<ce> Нам нужна помощь человека, опытного в бою, быстро 
+<ce> соображающего и действующего. Один из наших старших 
+<ce> членов проводит ритуал обретения темных сил и скоро 
+<ce> проснется слабым как никогда. Кто-то должен обеспечить 
+<ce> защиту, когда это произойдет. Ты пойдешь?
 
 RefuseQuest:  [1001]
-<ce> Then get out of the way. This task needs fulfilling.
+<ce> Тогда убирайся с дороги. Эта задача должна быть выполнена.
 
 AcceptQuest:  [1002]
-<ce> Somewhere in ___dung_, our friend
-<ce> _dbf_ has taken refuge while performing
-<ce> a lengthy ritual to become a lich. The Spymaster
-<ce> hears rumors that a tribe of brutes will attack %g2
-<ce> immediately concluding the transformation, while %g1
-<ce> is weakest. Stay with _dbf_ until %g3 foes
-<ce> are slain. I will have a magical _item_ for your reward.
-<ce> Hurry there, for I doubt %g1 can delay longer than
-<ce> =2dung_ days to finish the ritual.
-<ce> Show %g2 this old _gem_ which belongs to %g2,
-<ce> and return it to me with %g3 power in it.
+<ce> Где-то в ___dung_ наш друг _dbf_ нашел убежище, 
+<ce> выполняя длительный ритуал превращения в лича. 
+<ce> Мастер шпионажа получил информацию о том, что племя 
+<ce> варваров нападет на н%g3 сразу после завершения 
+<ce> превращения, пока %g1 слабее всего. Оставайтесь с 
+<ce> _dbf_ до тех пор, пока все враги не будут убиты. В 
+<ce> качестве награды у меня будет волшебный _item_. 
+<ce> Поторопись, потому что я сомневаюсь, что %g1 сможет 
+<ce> отложить завершение ритуала дольше, чем на =2dung_ 
+<ce> дней. Покажите %g2 этот старый _gem_, который 
+<ce> принадлежит %g2, и верните его мне с %g3 силой в нем.
 
 QuestFail:  [1003]
-<ce> _dbf_ has been slain.
+<ce> _dbf_ был убит.
 
 QuestComplete:  [1004]
-<ce> Ah, the energized _gem_ of _dbf_.
-<ce> Proof enough. We will have much to do with %g2 in
-<ce> the future. Your loyalty to the Brotherhood has been noted.
+<ce> А, _dbf_ зарядил своей энергией _gem_.
+<ce> Достаточное доказательство. В будущем нам предстоит многое 
+<ce> совместных дел. Ваша преданность Братству была отмечена.
 
 Message:  1010
-<ce> _dbf_ appears to be only barely conscious.
-<ce> Great magical power emanates from %g3 body.
+<ce> Похоже, что _dbf_ едва ли находится в сознании.
+<ce> Огромная магическая сила исходит от тела.
 <ce>
-<ce> Sensing the _gem_, %g1 seems to grow more
-<ce> lucid. Now that you're here, the final step of the
-<ce> ritual can begin.
+<ce> Почувствовав _gem_, %g1, кажется, становится более 
+<ce> разумным. Теперь, когда вы здесь, можно приступать к 
+<ce> заключительному этапу ритуала.
 
 Message:  1011
-<ce> (ORCISH CHECK FAILED)
+<ce> (ЯЗЫК ОРКОВ, ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> You are brought up straight by Orcish shouting.
-<ce> You do not know what they mean, but they
-<ce> are obviously hostile. They march toward
-<ce> the two of you.
+<ce> До вас доносятся крики орков. Вы не 
+<ce> знаете, что они имеют в виду, но они 
+<ce> явно враждебны. Они направляются к 
+<ce> вам двоим.
 
 Message:  1012
-<ce> (ORCISH CHECK PASSED)
+<ce> (ЯЗЫК ОРКОВ, ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> You are brought up straight by Orcish shouting.
-<ce> You know enough of their speech to understand.
+<ce> Вас приводят в чувство крики орков. Вы 
+<ce> достаточно хорошо знаете их речь, чтобы понять.
 <ce>
-<ce> "Another lich in the land! Slay it!
-<ce> Let the Bretons gain no more power!"
+<ce> "Еще один лич! Убить его! Бретонцы больше не 
+<ce> получат власти!"
 <ce>
-<ce> They march toward the two of you.
+<ce> Они направляются к вам двоим.
 
 Message:  1013
-<ce> The ritual finishes, and _dbf_ cackles.
+<ce> Ритуал заканчивается, и _dbf_ хихикает.
 <ce>
-<ce> "Finally, undying power is mine! Let these orcs
-<ce> be the first witnesses of my wrath!"
+<ce> "Наконец-то несокрушимая сила принадлежит мне! Пусть
+<ce> эти орки станут первыми свидетелями моего гнева!"
 <ce>
-<ce> Then %g1 beckons you to continue the fight.
+<ce> Затем %g1 приглашает вас продолжить бой.
 
 Message:  1014
-<ce> _dbf_'s ritual is finished by now, and
-<ce> you were not there to protect %g2.
+<ce> Ритуал, который проводил _dbf_, к настоящему времени
+<ce> завершен, и вас не было рядом, чтобы %g3 защитить.
 
 Message:  1015
-<ce> The orcs are dead. _dbf_ grins delightfully.
+<ce> Орки мертвы. _dbf_ восхищенно улыбается.
 <ce>
-<ce> "Well done, %ra. May we meet again in darkness."
+<ce> "Молодец, %ra. Да встретимся мы снова во тьме".
 <ce>
-<ce> You explain that you need evidence of your deed,
-<ce> and %g1 casts a spell on the Lodestone, making it glow.
-<ce> With that, %g1 leaves you.
+<ce> Вы объясняете, что вам нужны доказательства вашего
+<ce> поступка, и %g1 накладывает заклинание на _gem_.
+<ce> Затем %g1 покидает вас.
 
 Message:  1030
 %qdt:
- The Dark Brotherhood of
- ___questgiver_ has sent me
- to ___dung_ to protect
- _dbf_, a member undergoing a ritual
- to become a lich.
- I am to present, and then return,
- a personalized _gem_ as proof of the deed.
- The ritual will likely end within =2dung_ days.
+ Темное Братство ___questgiver_ 
+ отправило меня в ___dung_, чтобы 
+ защитить _dbf_, члена, проходящего 
+ ритуал, чтобы стать личом. Я должен 
+ предъявить, а затем вернуть именную 
+ драгоценность в качестве доказательства 
+ содеянного. Ритуал, скорее всего, 
+ закончится в течение =2dung_ дней.
 
 QBN:
 

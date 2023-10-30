@@ -11,242 +11,244 @@ DisplayName: Безумный потрошитель
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pcn, a madman they call
-<ce> the ____qgiver_ Ripper is terrorizing
-<ce> the city of ___qgiver_, and my guards
-<ce> and constabulary are helpless against him.
-<ce> They have no clues to his identity whatsoever.
-<ce> I know you have some resources and rather
-<ce> nontraditional contacts. Can you try and
-<ce> help me in this matter, for the good
-<ce> of all ____qgiver_ -- and a substantial sum of gold?
+<ce> %pcn, сумасшедший, которого они называют 
+<ce> Потрошитель из ____qgiver_, терроризирует город 
+<ce> ___qgiver_, и мои охранники и полиция бессильны 
+<ce> против него. У них нет никаких зацепок, позволяющих 
+<ce> установить его личность. Я знаю, что у вас есть 
+<ce> кое-какие ресурсы и довольно нетрадиционные 
+<ce> контакты. Не могли бы вы попытаться помочь мне в 
+<ce> этом вопросе, ради блага всех в ____qgiver_ - и 
+<ce> значительной суммы золота?
 
 RefuseQuest:  [1001]
-<ce> Not an uncommon response. Then I have
-<ce> little choice, but to call on some of
-<ce> my less savoury contacts for help --
-<ce> an option I was hoping to avoid.
+<ce> Не такая уж необычная реакция. Тогда у меня нет 
+<ce> другого выбора, кроме как обратиться за помощью к 
+<ce> кому-нибудь из моих менее приятных знакомых - 
+<ce> вариант, которого я надеялся избежать.
 
 AcceptQuest:  [1002]
-<ce> You are a true friend, %pcf.
-<ce> The people of ____qgiver_ are becoming
-<ce> anxious about the lack of progress in the
-<ce> official investigations. The situation is becoming
-<ce> explosive, with people afraid that the
-<ce> Ripper is coming for them next. I fear that we
-<ce> will have a mob situation soon, perhaps within
-<ce> =total_ days or less. The only other person I've
-<ce> unofficially hired on this is _contact_,
-<ce> a local scholar who has been analyzing some
-<ce> of the letters I've been sent. Go to
-<ce> _bookstore_ to talk to %g2 first,
-<ce> and check on %g3 progress. If you cannnot
-<ce> solve this mystery, then %god help us all.
+<ce> Ты настоящий друг, %pcf. Жители в ____qgiver_ 
+<ce> начинают беспокоиться по поводу отсутствия 
+<ce> прогресса в официальных расследованиях. Ситуация 
+<ce> становится взрывоопасной, люди боятся, что за 
+<ce> каждым из них придет Потрошитель. Я боюсь, что 
+<ce> скоро толпа выйдет из под контроля, возможно, в 
+<ce> течение =total_ дней или меньше. Единственный 
+<ce> человек, которого я неофициально нанял для 
+<ce> этого, - это _contact_, местный ученый, который 
+<ce> анализировал некоторые из отправленных мне 
+<ce> писем. Зайдите в _bookstore_, чтобы сначала 
+<ce> поговорить с _contact_ и проверить %g3 прогресс. 
+<ce> Если вы не сможете разгадать эту тайну, то да 
+<ce> поможет нам всем бог.
 
 QuestFail:  [1003]
-<ce> The ____qgiver_ Ripper is still
-<ce> at large. I have no time for chatting,
-<ce> nor should you.
+<ce> Потрошитель из ____qgiver_ все еще на 
+<ce> свободе. У меня нет времени на болтовню, 
+<ce> да и у тебя не должно быть.
 
 QuestComplete:  [1004]
-<ce> ___qgiver_ is at peace again, %pcf,
-<ce> thanks to you. Here is the _reward_
-<ce> gold I promised -- gladly will
-<ce> I give it for the end of that
-<ce> maniac. %god truly blessed us
-<ce> when you came to ____qgiver_.
+<ce> Благодаря тебе, ___qgiver_ снова обрел 
+<ce> покой, %pcf. Вот _reward_ золотых, что я 
+<ce> обещал в награду - я с радостью отдам их 
+<ce> за то, что с этим маньяком покончено. 
+<ce> %god действительно благословил нас, когда 
+<ce> вы пришли в ____qgiver_.
 
 RumorsDuringQuest:  [1005]
-It isn't safe to walk the streets of ___qgiver_ anymore. Not with the ____qgiver_ Ripper.
-   <--->
-I hear the ____qgiver_ Ripper isn't a man at all, but a daedra come to punish us all.
-   <--->
-The last victim of the ____qgiver_ Ripper was found scattered in pieces over ___qgiver_.
-   <--->
-Some folks are wondering if the ____qgiver_ Ripper might be a vampire or a werewolf.
+Ходить по улицам ___qgiver_ больше небезопасно. Только не с Потрошителем из ____qgiver_.
+<--->
+Я слышал, что Потрошитель из ____qgiver_ вообще не человек, а даэдра, пришедший наказать нас всех.
+<--->
+Последняя жертва Потрошителя из ____qgiver_ была найдена разбросанной по ___qgiver_.
+<--->
+Некоторые люди задаются вопросом, может ли Потрошитель из ____qgiver_ быть вампиром или оборотнем.
 
 RumorsPostfailure:  [1006]
-The killings stopped without us needing a mob. Guess the Ripper moved on.
-   <--->
-_qgiver_'s just lucky the ____qgiver_ Ripper decided to move on. Panic was setting in.
+Убийства прекратились, и нам не понадобилась толпа. Полагаю, Потрошитель двинулся дальше.
+<--->
+_qgiver_ просто повезло, что Потрошитель из ____qgiver_ решил двигаться дальше. Начиналась паника.
 
 RumorsPostsuccess:  [1007]
-I can't believe _rippername_ was the ____qgiver_ Ripper -- %g was so nice and quiet.
-   <--->
-%oth, they say they found a mountain of skulls buried under _rippername_'s house.
-   <--->
-_rippername_, they say, was a loner who kept mostly to %g2-self. Typical.
+Я не могу поверить, что _rippername_ был Потрошителем из ____qgiver_ - %g был таким милым и тихим.
+<--->
+%oth, они говорят, что нашли гору черепов, зарытых под домом _rippername_.
+<--->
+Говорят, что _rippername_ был одиночкой, который ни с кем не общался. Типично.
 
 QuestorPostsuccess:  [1008]
-I always have time for the %ra who solved the ____qgiver_ Ripper mystery, %pcf.
-   <--->
-If it weren't for you, the ____qgiver_ Ripper would still terrorize us. What can I do?
+У меня всегда найдется время для %ra, который раскрыл тайну Потрошителя из ____qgiver_, %pcf.
+<--->
+Если бы не ты, Потрошитель из ____qgiver_ все еще терроризировал бы нас. Что я могу сделать?
 
 QuestorPostfailure:  [1009]
-<ce> Lucky for you the ____qgiver_ Ripper
-<ce> moved on. Otherwise, I'd be very angry
-<ce> with you. In fact, I am angry with you.
-<ce> Sod off, %pcf.
+<ce> К счастью для вас, Потрошитель из 
+<ce> ____qgiver_ двинулся дальше. Иначе я бы 
+<ce> очень рассердился на тебя. На самом 
+<ce> деле, я злюсь на тебя. Отвали, %pcf.
 
 QuestLogEntry:  [1010]
-<ce> Good timing, %pcf. I was
-<ce> about to go out to meet someone at
-<ce> _hookerhouse_ who might be able
-<ce> to shed some light on this situation.
-<ce> A =hooker_ named _hooker_.
-<ce> Quite frankly, a prostitute, but one
-<ce> whose name was scratched off
-<ce> the top of a letter _qgiver_
-<ce> received. Perhaps the Ripper was
-<ce> writing a letter to _hooker_,
-<ce> and then changed his mind. If so,
-<ce> %g might have some idea about the
-<ce> Ripper's identity. It's worth a try. Why
-<ce> don't you go to _hookerhouse_
-<ce> with the letter and see?
+<ce> Очень вовремя, %pcf. Я собирался пойти 
+<ce> на встречу кое с кем в _hookerhouse_, 
+<ce> кто, возможно, смог бы пролить 
+<ce> некоторый свет на эту ситуацию. 
+<ce> =hooker_ по имени _hooker_. Откровенно 
+<ce> говоря, проститутка, но та, чье имя 
+<ce> было нацарапано вверху письма, 
+<ce> полученного _qgiver_. Возможно, 
+<ce> Потрошитель писал письмо к _hooker_, а 
+<ce> потом передумал. Если это так, то %g 
+<ce> может иметь некоторое представление о 
+<ce> личности Потрошителя. Стоит 
+<ce> попробовать. Почему бы тебе не пойти в 
+<ce> _hookerhouse_ с письмом и не 
+<ce> посмотреть?
 
 Message:  1011
-<ce> _qgiver_, the last
- one was So Tasty, I eveN toke a bite. Yor
- WHole family looks juicy too -- may be the
-<ce> Ripper will visit
- you nexxt. Ripping and rippng and tHen a
-<ce> litle RIPPING to setle the scoor.
-<ce> Gracishly yors,
- The ____qgiver_ Rippr
+<ce> _qgiver_, последняя жертва
+ была такой вкусной, что я дажЭ откусиЛ кусочек.
+ ВсЯ ваша семья тоже выглядит аппетитно - возможно,
+<ce> Потрошитель навестит
+ вас в следующий раз. Рвать и метать,
+<ce> а затем еЩё немного РВАТЬ, чтобы свсти щщоты.
+<ce> С уважэнием,
+ Птрштль из ____qgiver_
 
 Message:  1012
 _qgiver_,
-    catsh me if you CAN
- may be now you care abut your ____qgiver_
- now its soked in BLOOD
- Yor freind,
-<ce> The ____qgiver_ Rippr
+  паймай меня, если СМОЖЕШЬ
+может быть, теперь тебе небезразлично,
+что твой ____qgiver_
+теперь весь в КРОВИ
+ Твой друг,
+<ce> Птрштль из ____qgiver_
 
 Message:  1013
 _contact_,
- 
-   I would be happy to meet with you,
- either at your place or mine about
- that barmy admirer of mine. I have
- a letter I was sent that might be
- helpful.
- 
-<ce> Yours truly, _hooker_
+<ce>
+  Я была бы рада встретиться с вами
+либо у вас дома, либо у себя по поводу моего
+сумасшедшего поклонника. У меня есть
+отправленное мне письмо, которое может оказаться
+полезным.
+<ce> 
+<ce> Искренне ваша, _hooker_
 
 Message:  1014
 _hooker_,
  
- You said you would be my freind, but
- when I saw you on the street, you
- pretended you didn't see me.
+ Ты сказала, что будешь моим другом, но
+ когда я увидел тебя на улице, ты
+ притворилась, что не видишь меня.
  
- You don't want to make me angry
- again, do you
+ Ты же не хочешь снова разозлить
+ меня, правда
  
  _rippername_
 
 Message:  1015
-<ce> You work with _contact_, do
-<ce> you, %pcf? Well, %g was
-<ce> interested in this letter I was sent the
-<ce> other night. _rippername_ was
-<ce> a client of mine, with some real tetched
-<ce> ideas of a good time. Some real tetched
-<ce> ideas in general. I kinda felt sorry for
-<ce> %g2, mostly I was afraid of %g2 so I
-<ce> guess I let %g2 think I liked %g2. 'Course
-<ce> now I'm getting letters like this. I think
-<ce> %g's very much could be the ____qgiver_
-<ce> Ripper. He lives at _ripperhouse_ if
-<ce> you want to go see %g2 for real life.
+<ce> Вы работаете с _contact_, не так ли, %pcf? Ну, 
+<ce> %g заинтересовался этим письмом, которое мне 
+<ce> прислали прошлой ночью. _rippername_ был моим 
+<ce> клиентом, у которого было несколько 
+<ce> по-настоящему дурацких идей о том, как хорошо 
+<ce> провести время. В целом, несколько действительно 
+<ce> заумных идей. Мне было немного жаль %g3, в 
+<ce> основном я боялась %g3, так что, думаю, я 
+<ce> позволил %g2 думать, что %g3 мне нравится. 
+<ce> Конечно, теперь я получаю подобные письма. Я 
+<ce> думаю, что %g очень может быть Потрошителем из 
+<ce> ____qgiver_. Он живет в _ripperhouse_, если вы 
+<ce> хотите увидеть %g3 сами.
 
 Message:  1016
-_hooker_ is a common prostitute. Just %di of here if you're interested.
-   <--->
-Nothing more than a cheap prostitute, _hooker_ is. %di if you're looking.
+_hooker_ - это обычная проститутка. На %di отсюда, если тебе интересно.
+<--->
+_hooker_ - не что иное, как дешевая проститутка. На %di, если ты ищешь.
 
 Message:  1017
-_hooker_ used to hang around with a character called _rippername_. Spooky one.
-   <--->
-_hooker_ knows all about Rippers. Ask %g3 about _rippername_ -- nasty creep.
+_hooker_ раньше общалась с персонажем по имени _rippername_. Жуткий тип.
+<--->
+_hooker_ знает все о Потрошителе. Спроси %g3 о _rippername_ - мерзкий урод.
 
 Message:  1020
 %qdat:
- I have arrived in ___qgiver_
- and met with _qgiver_ about
- the mystery of the ____qgiver_ Ripper.
- %g wants the Ripper caught in =total_
- days before all ___qgiver_ turns into an
- angry mob. My only lead is a scholar named
- _contact_ who has the letters
- the Ripper sent _qgiver_.
- _contact_ is working out of
- _bookstore_.
+ Я прибыл в ___qgiver_ и встретился с 
+ _qgiver_ по поводу тайны Потрошителя 
+ из ____qgiver_. %g хочет, чтобы 
+ Потрошителя поймали за =total_ дней до 
+ того, как все в ___qgiver_ превратятся 
+ в разъяренную толпу. Моя единственная 
+ зацепка - ученый по имени _contact_, у 
+ которого есть письма, отправленные 
+ Потрошителем к _qgiver_. _contact_ 
+ работает в _bookstore_.
 
 Message:  1021
 %qdat:
- _contact_ has sent me
- to _hookerhouse_ to meet with
- a prostitute named _hooker_,
- who might have some information about the Ripper.
+ _contact_ отправил меня
+ в _hookerhouse_ на встречу с
+ проституткой по имени _hooker_,
+ у которой может быть какая-то информация о Потрошителе.
 
 Message:  1022
 %qdat:
- The ____qgiver_ Ripper had a meeting
- with _contact_ before I got there.
- One of the letters I found
- in __contact_ was from someone
- named _hooker_ who wanted to
- meet with _contact_ about a
- 'barmy admirer.' That's who I have to find next.
- And this time, I'll need to be there earlier.
+ У Потрошителя из ____qgiver_ была встреча
+ с _contact_ до того, как я туда добрался.
+ Одно из писем, которое я нашел
+ в __contact_, было от человека
+ по имени _hooker_, который хотел
+ встретиться с _contact_ по поводу
+ "сумасшедшего поклонника". Вот кого мне нужно найти следующим.
+ И на этот раз мне нужно будет прийти туда раньше.
 
 Message:  1023
 %qdat:
- _hooker_ told me about
- a client %g had, crazy enough to be the Ripper.
- Someone named _rippername_, who lives
- at _ripperhouse_. I hope this won't
- be the last log I ever write.
+ _hooker_ рассказала мне о
+ клиенте, который был у н%g3, достаточно
+ сумасшедшем, чтобы быть Потрошителем.
+ Некто по имени _rippername_, который живет
+ в _ripperhouse_. Я надеюсь, что это будет не
+ последняя запись в журнал, что я когда-либо напишу.
 
 Message:  1024
 %qdat:
- _hooker_'s admirer apparently
- came calling before I did. In %g2
- house I did find a letter from someone named
- _rippername_. Sounded skittish
- enough to be our Ripper. Worth investigating
- anyhow.
+ Поклонник _hooker_, очевидно,
+ пришёл раньше меня. В
+ доме я действительно нашел письмо от кого-то по имени
+ _rippername_. Звучало
+ достаточно норовисто, чтобы быть нашим Потрошителем. 
+ В любом случае, стоит провести расследование.
 
 Message:  1025
-_contact_ is quite a learned scholar over in _bookstore_, %di of here.
-   <--->
-_contact_ is sometimes _qgiver_'s tutor on certain matters of the human mind.
+_contact_ - довольно образованный ученый из _bookstore_, на %di отсюда.
+<--->
+_contact_ иногда является наставником _qgiver_ по некоторым вопросам человеческого разума.
 
 Message:  1026
-_contact_ is an old fool who's going to get in trouble one day pursuing the Ripper.
-   <--->
-_contact_'s a sage at _bookstore_, dangerously involved in the Ripper business.
+_contact_ - это старый дурак, который однажды попадет в беду, преследуя Потрошителя.
+<--->
+_contact_ - мудрец из _bookstore_, опасно замешанный в деле Потрошителя.
 
 Message:  1040
-_rippername_?  You'll probably find %g2 over at _ripperhouse_.
+_rippername_?  Вы, вероятно, найдете %g3 в _ripperhouse_.
    <--->
-Don't know much about _rippername_. Keeps to himself mostly.
+Я мало что знаю о _rippername_. В основном держится особняком.
    <--->
-_rippername_ is that nice young man who lives in _ripperhouse_.
+_rippername_ - это тот приятный молодой человек, который живет в _ripperhouse_.
 
 Message:  1041
-<ce> Well, he seems normal enough, but I've heard a few stories about him
-<ce> that might make you think otherwise.
+<ce> Что ж, он кажется достаточно нормальным, но я слышал о нем
+<ce> несколько историй, которые могут заставить вас думать иначе.
    <--->
-<ce>He's nice, but a little weird, you know?  Makes you wonder sometimes if
-<ce> he's playing with a full deck.
+<ce> Он милый, но немного странный, понимаешь? Иногда начинаешь
+<ce> задумываться, а все ли у него дома.
 
 Message:  1050
-<ce> I seen you with my girlfriend!  Now you and she
-<ce> are gonna get Ripped together since you like
-<ce> each other so much!
+<ce> Я видел тебя с моей девушкой! Теперь я
+<ce> порву вас с ней вместе, потому что вы
+<ce> так сильно нравитесь друг другу!
 
 
 -- Symbols used in the QRC file:
@@ -354,6 +356,10 @@ _deadbody2_ task:
 
 _qgclicked_ task:
 	clicked npc _qgiver_ 
+
+_clearclick_ task:
+	when _qgclicked_ and not _S.00_
+	clear _qgclicked_ _clearclick_
 
 _pcgetsgold_ task:
 	when _qgclicked_ and _S.00_ 

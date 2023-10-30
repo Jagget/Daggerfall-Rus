@@ -161,7 +161,6 @@ Person _woodsman_ face 168 group Resident2 remote
 
 Place _dungeon_ remote dungeon
 Place _newdung_ remote dungeon
-Place _house_ remote house1
 
 Clock _2dung_ 00:00 0 flag 17 range 0 2
 Clock _end_ 00:00
@@ -169,7 +168,6 @@ Clock _end_ 00:00
 Foe _monster_ is Spriggan
 
 --	Quest start-up:
-	dialog link for location _house_ person _woodsman_ 
 	start timer _2dung_ 
 	reveal _dungeon_ 
 	log 1010 step 0 
@@ -181,19 +179,21 @@ _2dung_ task:
 
 _S.01_ task:
 	killed 1 _monster_ saying 1011 
+	hide npc _woodsman_
+	remove log step 1
 
 _qgclicked_ task:
 	clicked npc _qgiver_ 
 
 _normalvict_ task:
-                when _qgclicked_ and _S.01_
+    when _qgclicked_ and _S.01_
 	say 1003
-                start task _victory_
+    start task _victory_
 --1003 appears to be a victory statement for kill path
 
 _victory_ task:
 	give pc _gold_ 
-                start timer _end_
+    start timer _end_
 --	end quest 
 --this would cause double quest ending, for double reputation gain
 
@@ -212,20 +212,21 @@ _yes_ task:
 	add dialog for person _woodsman_ 
 	log 1030 step 1 
 	say 1021 
-	restrain foe _monster_ 
-	create npc at _house_ 
-	place npc _woodsman_ at _house_ 
+	restrain foe _monster_
 
 _no_ task:
 	say 1022 
 
 _S.07_ task:
 	clicked npc _woodsman_
-                say 1023 
+
+_notkill_ task:
+	when _S.07_ and _injtalk_ and not _S.01_
+    say 1023 
 	change repute with _woodsman_ by +10 
 
 _S.08_ task:
-	when _qgclicked_ and _S.07_ 
+	when _qgclicked_ and _notkill_ 
 	say 1025 
 	start task _victory_
 
@@ -237,4 +238,4 @@ _S.11_ task:
     say 1080 
 
 _end_ task:
-                end quest
+    end quest

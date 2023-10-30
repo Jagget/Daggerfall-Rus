@@ -1,75 +1,75 @@
 Quest: JHDB123
-DisplayName: Dark Brotherhood Rescue
+DisplayName: Спасение Темного Братства
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> One of our higher-ranking members is
-<ce> the victim of a ransom plot, and we
-<ce> need someone to perform a rescue.
-<ce> Show your allegiance to the Brotherhood.
+<ce> Один из наших высокопоставленных сотрудников стал 
+<ce> жертвой заговора с целью получения выкупа, и нам 
+<ce> нужен кто-то для проведения спасательной 
+<ce> операции. Покажи свою преданность Братству.
 
 RefuseQuest:  [1001]
-<ce> Oh, of course. What allegiance?
+<ce> О, конечно. Какая преданность?
 
 AcceptQuest:  [1002]
-<ce> Within ___dung_ a relative of one
-<ce> of our local Dark Brothers is being held
-<ce> captive. Since said family member is too
-<ce> involved in a higher-level plot at this
-<ce> moment, we promised to send someone capable
-<ce> to resolve this matter instead. Go find
-<ce> _captive_ and return here within =timer_ days.
+<ce> В пределах ___dung_ находится в плену родственник 
+<ce> одного из наших местных Темных Братьев. Поскольку 
+<ce> указанный член семьи в данный момент слишком 
+<ce> вовлечен в заговор более высокого уровня, мы 
+<ce> пообещали прислать вместо него кого-нибудь, 
+<ce> способного решить этот вопрос. Найдите _captive_ 
+<ce> и вернитесь сюда в течение =timer_ дней.
 
 QuestFail:  [1003]
-<ce> I would not waste time if I were you.
-<ce> _captive_ is in ___dung_.
+<ce> На твоем месте я бы не тратил время впустую.
+<ce> _captive_ находится в ___dung_.
 
 QuestComplete:  [1004]
-<ce> Why is _captive_ not with you?
-<ce> Give your report.
+<ce> Почему _captive_ не с вами?
+<ce> Предоставьте свой отчет.
 <ce>
-<ce> I see. I believe your words.
-<ce> I will pass the news on.
-<ce> Mephala's wrath will keen
-<ce> for such a cynical crime.
+<ce> Понимаю. Я верю вам на слово. 
+<ce> Я передам эту новость дальше. 
+<ce> Гнев Мефалы удвоится за такое 
+<ce> циничное преступление.
 
 Message:  1010
-<ce> You find _captive_,
-<ce> but she resists your approach.
+<ce> Вы находите _captive_, 
+<ce> но она сопротивляется вашему приближению.
 <ce>
-<ce> "No! No! Leave me down here!
-<ce> I don't want to go, please!"
+<ce> "Нет! Нет! Оставь меня здесь, внизу!
+<ce> Я не хочу уходить, пожалуйста!"
 <ce>
-<ce> Some people need to be forced out
-<ce> of the luxury of this squalid hole,
-<ce> it seems. You pull her along with you.
+<ce> Похоже, некоторых людей нужно 
+<ce> силой вытаскивать из роскоши этой 
+<ce> убогой дыры. Ты тянешь ее за собой.
 
 Message:  1011
-<ce> _captive_ shrieks as you
-<ce> exit ___dung_.
+<ce> _captive_ визжит, когда вы выходите из 
+<ce> ___dung_.
 <ce>
-<ce> "I TOLD YOU! I TOLD YOU TO
-<ce> LEAVE ME THERE! IT HURTS! NO!"
+<ce> "Я ЖЕ ГОВОРИЛА ТЕБЕ! Я ЖЕ СКАЗАЛА ТЕБЕ 
+<ce> ОСТАВИТЬ МЕНЯ ТАМ! ЭТО БОЛЬНО! НЕТ!"
 <ce>
-<ce> A gruesome transformation follows,
-<ce> leaving her in a very different state.
+<ce> За этим следует ужасная трансформация, 
+<ce> оставляющая ее в совершенно ином состоянии.
 
 Message:  1030
 %qdt:
- I have undertaken a rescue effort
- on behalf of the Dark Brotherhood
- of ___qgiver_. I need to
- find _captive_ in ___dung_
- and return within =timer_ days.
+ Я предпринял спасательную 
+ операцию от имени Темного 
+ Братства ___qgiver_. Мне нужно 
+ найти _captive_ в ___dung_ и 
+ вернуться в течение =timer_ дней.
 
 Message:  1031
 %qdt:
- _captive_ was cursed to
- a gruesome death upon leaving
- ___dung_. I have no other
- option than to report the deed
- to _qgiver_.
+ _captive_ была проклята на 
+ ужасную смерть, если она покинет 
+ ___dung_. У меня нет другого 
+ выбора, кроме как сообщить о 
+ случившемся _qgiver_.
 
 QBN:
 
