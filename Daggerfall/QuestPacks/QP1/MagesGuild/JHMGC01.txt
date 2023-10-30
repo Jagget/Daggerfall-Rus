@@ -1,5 +1,5 @@
 Quest: JHMGC01
-DisplayName: Mages Guild Consequence Quest 1
+DisplayName: Гильдия Магов. Последствия. Квест 1
 -- Message panels
 --used in MG107
 QRC:

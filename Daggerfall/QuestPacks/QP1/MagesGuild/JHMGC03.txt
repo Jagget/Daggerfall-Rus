@@ -1,33 +1,33 @@
 Quest: JHMGC03
-DisplayName: Mages Guild Consequence Quest 3
+DisplayName: Гильдия Магов. Последствия. Квест 3
 -- Message panels
 --used in MG104
 QRC:
 
 QuestComplete:   [1004]
-<ce> Entering the tavern, you garner the attention
-<ce> of a merry-looking patron. He swaggers over toward
-<ce> you, raises a mug, and says,
+<ce> Войдя в таверну, вы привлекаете внимание веселого на вид 
+<ce> посетителя. Он с важным видом подходит к вам, поднимает 
+<ce> кружку и говорит,
 <ce>
-<ce> "This one 'ere, this one's from them Mages Guild!
-<ce> A good %ra, this one is! Take some gold from my
-<ce> las' expedition, an' be keeping us all safe, ya hear?"
+<ce> "Вот этот, этот из Гильдии Магов!
+<ce> Хороший %ra, вот этот вот! Возьми немного золота из моей 
+<ce> прошлой экспедиции и продолжай охранять нас, слышишь?"
 <ce>
-<ce> A small bag of gold is placed into your hands.
-<ce> You don't know to what to owe this gift,
-<ce> as your benefactor exits the tavern without further comment.
+<ce> Вам в руки кладут небольшой мешочек с золотом.
+<ce> Вы не знаете, чему обязаны этим подарком, поскольку ваш 
+<ce> благодетель выходит из таверны без дальнейших комментариев.
    <--->
-<ce> Entering the tavern, you garner the attention
-<ce> of a merry-looking patron. She swaggers over toward
-<ce> you, raises a mug, and says,
+<ce> Войдя в таверну, вы привлекаете внимание веселого на вид 
+<ce> посетителя. Она с важным видом подходит к вам, поднимает 
+<ce> кружку и говорит,
 <ce>
-<ce> "This one 'ere, this one's from them Mages Guild!
-<ce> A good %ra, this one is! Take some gold from my
-<ce> las' expedition, an' be keeping us all safe, ya hear?"
+<ce> "Вот этот, этот из Гильдии Магов!
+<ce> Хороший %ra, вот этот вот! Возьми немного золота из моей 
+<ce> прошлой экспедиции и продолжай охранять нас, слышишь?"
 <ce>
-<ce> A small bag of gold is placed into your hands.
-<ce> You don't know to what to owe this gift,
-<ce> as your benefactor exits the tavern without further comment.
+<ce> Вам в руки кладут небольшой мешочек с золотом.
+<ce> Вы не знаете, чему обязаны этим подарком, поскольку ваш 
+<ce> благодетель выходит из таверны без дальнейших комментариев.
 
 QBN:
 
