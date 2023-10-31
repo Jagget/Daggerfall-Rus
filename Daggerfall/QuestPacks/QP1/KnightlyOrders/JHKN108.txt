@@ -48,7 +48,7 @@ Message:  1010
 <ce> in case their fears are brought to pass.
 
 Message:  1011
-<ce> (SKILL CHECK PASSED: ORCISH)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: ORCISH)
 <ce>
 <ce> You hear the orcs begin to enter the building.
 <ce> Deepening your voice, you roar at them

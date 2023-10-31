@@ -53,7 +53,7 @@ Message:  1011
 <ce> (ПРОВЕРКА НАВЫКА: YES: Long Blade, difficulty medium)
 
 Message:  1012
-<ce> (SKILL CHECK SUCCEEDED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
 <ce> You carefully show %g2 how to properly hold the pommel,
 <ce> swing the sword, and deliver a full cut.

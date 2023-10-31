@@ -55,7 +55,7 @@ Message:  1010
 <ce> (O.K.) Walk into the trap, knowing that it will cause nonlethal damage.
 
 Message:  1011
-<ce> (SKILL CHECK FAILED: PICKPOCKETING)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: PICKPOCKETING)
 <ce>
 <ce> Your attempt to make a small anchor to attract the
 <ce> trap's power goes terribly wrong. The offensive spell rebounds
@@ -63,14 +63,14 @@ Message:  1011
 <ce> significantly. However, you remain alive.
 
 Message:  1012
-<ce> (SKILL CHECK PASSED: PICKPOCKET)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: PICKPOCKET)
 <ce>
 <ce> You make a small anchor from scrap metal and toss it
 <ce> toward the trap. The offensive enchantment fires,
 <ce> and then goes inert. The _tri_ is yours for the taking.
 
 Message:  1013
-<ce> (SKILL CHECK FAILED: MYSTICISM)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: MYSTICISM)
 <ce>
 <ce> Standing on the edge of the trap's range, you begin
 <ce> a spell to counter its effects. You misjudge the power required,
@@ -78,7 +78,7 @@ Message:  1013
 <ce> It hurts terribly, and your innards have a strange feel to them.
 
 Message:  1014
-<ce> (SKILL CHECK PASSED: MYSTICISM)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: MYSTICISM)
 <ce>
 <ce> Setting a counter-enchantment to the trap is trivial.
 <ce> Whoever this thief was, their magical power could not

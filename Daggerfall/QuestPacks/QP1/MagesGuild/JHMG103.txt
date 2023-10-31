@@ -61,7 +61,7 @@ Message:  1011
 <ce> (ПРОВЕРКА НАВЫКА: Mysticism: difficulty very high)
 
 Message:  1012
-<ce> (SKILL CHECK PASSED!)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА!)
 <ce>
 <ce> The Psijics may know something about Mysticism,
 <ce> but so do you. You take hold of the portal and begin

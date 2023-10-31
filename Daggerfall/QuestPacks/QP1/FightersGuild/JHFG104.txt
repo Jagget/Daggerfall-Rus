@@ -64,7 +64,7 @@ Message:  1021
 <ce> attempt to take it for yourself?
 <ce>
 <ce> (ПРОВЕРКА НАВЫКА: YES: Pickpocket, difficulty low)
-<ce> (OR SKILL CHECK: YES: Stealth, difficulty medium)
+<ce> (ИЛИ ПРОВЕРКА НАВЫКА: YES: Stealth, difficulty medium)
 
 Message:  1022
 <ce> (STEALTH/PICKPOCKET CHECK PASSED)
