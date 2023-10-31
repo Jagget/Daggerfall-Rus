@@ -41,7 +41,7 @@ Message:  1011
 <ce> life depended on it. Thank you!
 
 Message:  1012
-<ce> (ATTRIBUTE CHECK FAILED: ENDURANCE)
+<ce> (ATTRIBUTE CHECK FAILED: Выносливость)
 <ce>
 <ce> As soon as you enter, you step on a false tile.
 <ce> A disgusting gas begins to shoot into the air.
@@ -49,7 +49,7 @@ Message:  1012
 <ce> but you wonder what it might have done to you.
 
 Message:  1013
-<ce> (ATTRIBUTE CHECK PASSED: ENDURANCE)
+<ce> (ATTRIBUTE CHECK PASSED: Выносливость)
 <ce>
 <ce> As soon as you enter, you step on a false tile.
 <ce> A disgusting gas begins to shoot into the air.
