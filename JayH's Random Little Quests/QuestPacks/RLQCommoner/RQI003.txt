@@ -1,82 +1,82 @@
 Quest: RQI003
-DisplayName: Math Magic
+DisplayName: Математическая магия
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> "Oh! Sorry, I was reading from this book here.
-<ce> It's from the Mages Guild. It has introductory
-<ce> exercises in mathematics. Say, if you have a few
-<ce> moments, would you do some problems with me?
-<ce> I have some spare money here as payment
-<ce> if you want to help me work through them."
+<ce> "Ой! Извините, я читал книгу. Это из Гильдии Магов. 
+<ce> В ней есть вводные упражнения по математике. 
+<ce> Скажите, если у вас есть несколько минут, не могли 
+<ce> бы вы решить со мной несколько задач? У меня есть 
+<ce> немного денег в качестве оплаты, если вы хотите 
+<ce> помочь мне разобраться с ними."
 
 RefuseQuest:  [1001]
-<ce> "That's okay. Let me see, three times eight was..."
+<ce> "Все в порядке. Дай-ка подумать, трижды восемь было..."
 
 AcceptQuest:  [1002]
-<ce> "Wonderful! Well, let me open this back up
-<ce> and see where I left off."
+<ce> "Замечательно! Что ж, давайте посмотрим,
+<ce> на чем я остановился."
 
 QuestComplete:  [1004]
-<ce> "Okay, hold on. Let me fix that...
-<ce> And that's it! Yes, that's the whole exercise finished.
-<ce> Thank you for going through them with me.
-<ce> I feel a bit more confident! Have this gold."
+<ce> "Ладно, подожди. Позвольте мне это исправить... И это 
+<ce> все! Да, на этом все упражнение закончено. Спасибо вам 
+<ce> за то, что вы прошели через это вместе со мной. Я 
+<ce> чувствую себя немного увереннее! Возьмите золото".
 
 QuestorPostSuccess:  [1008]
-You're quite good at math!
+Вы неплохо разбираетесь в математике!
 
 Message:  1011
-<ce> "Let's see, first equation...
-<ce> It's missing this part here. Four plus five is nine, isn't it?"
+<ce> "Давайте посмотрим, первое уравнение...
+<ce> Надо заполнить пропуск. Четыре плюс пять - это девять, не так ли?"
                                      <--->
-<ce> "Let's see, first equation...
-<ce> It's missing this part here. Two plus seven is nine, isn't it?"
+<ce> "Давайте посмотрим, первое уравнение...
+<ce> Надо заполнить пропуск. Два плюс семь - это девять, не так ли?"
 
 Message:  1012
-<ce> "Yes, of course it's nine. I shouldn't even be hesitating.
-<ce> Sorry, a little nervous here.
-<ce> Okay, next part. Three times four is fourteen, right?"
+<ce> "Да, конечно, это девять. Я даже не должен был колебаться.
+<ce> Извините, я немного нервничаю.
+<ce> Ладно, следующая часть. Трижды четыре - четырнадцать, верно?"
                                      <--->
-<ce> "Yes, of course it's nine. I shouldn't even be hesitating.
-<ce> Sorry, a little nervous here.
-<ce> Okay, next part. Two times eight is fourteen, right?"
+<ce> "Да, конечно, это девять. Я даже не должен был колебаться.
+<ce> Извините, я немного нервничаю.
+<ce> Ладно, следующая часть. Дважды восемь - четырнадцать, верно?"
 
 Message:  1013
-<ce> "You're right, not fourteen. Yes, let me correct that. The formula works out!
+<ce> "Вы правы, не четырнадцать. Да, позвольте мне это исправить. Формула работает!
 <ce>
-<ce> "Okay, next section. Fifteen times five... is seventy five?"
+<ce> Ладно, следующий раздел. Пятнадцать умножить на пять... это семьдесят пять?"
                                      <--->
-<ce> "You're right, not fourteen. Yes, let me correct that. The formula works out!
+<ce> "Вы правы, не четырнадцать. Да, позвольте мне это исправить. Формула работает!
 <ce>
-<ce> "Okay, next section. Two hundred and fifty divided by ten is... twenty five?"
+<ce> Ладно, следующий раздел. Двести пятьдесят разделить на десять - это... двадцать пять?"
 
 Message:  1014
-<ce> "Good! Yes, the formula continues. Let me carry over that value.
-<ce>Um, this next part. One hundred divided by five is twenty, isn't it?"
+<ce> "Хорошо! Да, формула всё ещё работает. Позвольте мне перенести это значение.
+<ce> Хм, это следующая часть. Сто, деленное на пять, равно двадцати, не так ли?"
                                      <--->
-<ce> "Good! Yes, the formula continues. Let me carry over that value.
-<ce> Um, this next part. Twenty-two divided by eleven has to be two, isn't it?"
+<ce> "Хорошо! Да, формула всё ещё работает. Позвольте мне перенести это значение.
+<ce> Хм, это следующая часть. Двадцать два, деленное на одиннадцать, должно быть два, не так ли?"
 
 Message:  1015
-<ce> "Okay, almost done. Now I just need to find the circumference...
-<ce> oh bother. Um, this circle... No, the diameter. Hold on.
-<ce> Yes, the diameter of a circle that's twelve meters long.
-<ce> Is that six meters?"
+<ce> "Ладно, почти готово. Теперь мне просто нужно найти 
+<ce> окружность... о, черт возьми. Хм, этот круг... Нет, 
+<ce> диаметр. Подождите. Да, диаметр круга длиной 
+<ce> двенадцать метров. Это шесть метров?"
                                      <--->
-<ce> "Okay, almost done. Now I just need to find the circumference...
-<ce> oh bother. Um, this circle... No, the diameter. Hold on.
-<ce> Yes, the diameter of a circle that's twenty meters long.
-<ce> Is that ten meters?"
+<ce> "Ладно, почти готово. Теперь мне просто нужно найти 
+<ce> окружность... о, черт возьми. Хм, этот круг... Нет, 
+<ce> диаметр. Подождите. Да, диаметр круга длиной 
+<ce> двадцать метров. Это десять метров?"
 
 Message:  1016
-<ce> Your patron takes a moment and incorporates that answer
-<ce> into the next question. However, the answer doesn't fit,
-<ce> and soon the whole formula begins to malfunction.
-<ce> Once it is discovered that your guidance was wrong,
-<ce> any promise of payment is null and void.
-<ce> The book is closed and the activity is over.
+<ce> Ваш случайный знакомый улучает минутку и подставляет 
+<ce> ваш ответ в следующий вопрос. Однако ответ не подходит, 
+<ce> и вскоре вся формула начинает давать сбои. Как только 
+<ce> обнаружится, что ваши рекомендации были неверными, 
+<ce> любое обещание оплаты становится недействительным. 
+<ce> Книга закрыта, и занятие окончено.
 
 QBN:
 

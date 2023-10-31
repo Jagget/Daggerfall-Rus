@@ -43,7 +43,7 @@ Message:  1011
 <ce> as the atronach ceases moving. Your work is done.
 
 Message:  1012
-<ce> (ATTRIBUTE CHECK FAILED: Выносливость)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Выносливость)
 <ce>
 <ce> This atronach has clearly come straight from Oblivion.
 <ce> Fiery tendrils reach out and rake your skin,

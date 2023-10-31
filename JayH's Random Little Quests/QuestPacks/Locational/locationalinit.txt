@@ -1,5 +1,5 @@
 Quest: locationalinit
-DisplayName: Locational Events Creator
+DisplayName: Создатель локальных событий
 -- Message panels
 QRC:
 

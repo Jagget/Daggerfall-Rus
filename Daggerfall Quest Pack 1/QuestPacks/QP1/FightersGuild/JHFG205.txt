@@ -83,7 +83,7 @@ Message:  1020
 <ce> property owners will take care of the clean-up.
 
 Message:  1021
-<ce> (ATTRIBUTE CHECK PASSED: LUCK)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: LUCK)
 <ce>
 <ce> You approach the property and see the bears
 <ce> you have to dispose of. As luck would have it, you notice
@@ -94,7 +94,7 @@ Message:  1021
 <ce> The bears are dead and you expended no effort.
 <ce> The Fighters Guild can't complain, can they?
    <--->
-<ce> (ATTRIBUTE CHECK PASSED: LUCK)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: LUCK)
 <ce>
 <ce> You approach the property and see the tigers
 <ce> you have to dispose of. As luck would have it, you notice

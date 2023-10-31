@@ -37,7 +37,7 @@ RumorsDuringQuest:  [1005]
 The Fighters Guild failed to save some kid from an abandoned prison. Shame on them.
 
 Message:  1010
-<ce> (ATTRIBUTE CHECK FAILED: AGILITY)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: AGILITY)
 <ce>
 <ce> Your drug-addled foe is in a frenzy, willing
 <ce> to try anything. Up comes a swift roundhouse kick

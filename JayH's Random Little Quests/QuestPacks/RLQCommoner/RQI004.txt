@@ -1,93 +1,93 @@
 Quest: RQI004
-DisplayName: Money Duplication Trick
+DisplayName: Трюк с удвоением денег
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Hail, %ra. Have time for a game?
-<ce> It's very simple. You pay 100 gold, non-refundable,
-<ce> and we flip a coin. If heads is up, I pay you 200.
-<ce> If heads is down, I keep your money.
-<ce> You can keep doubling as long as you get heads up,
-<ce> but if you ever get a heads down, I take it all.
-<ce> Want to put down a hundred?
+<ce> Приветствую вас, %ra. Есть время для игры? Все очень 
+<ce> просто. Вы платите 100 золотых, не подлежащих 
+<ce> возврату, и мы бросаем монету. Если орёл, я плачу вам 
+<ce> 200. Если решка, то я оставляю ваши деньги себе. Вы 
+<ce> можете продолжать удваивать до тех пор, пока выпадает 
+<ce> орёл, но если когда-нибудь выпадет решка, я заберу 
+<ce> всё. Хотите поставить сотню?
 
 RefuseQuest:  [1001]
-<ce> Maybe a wise choice, friend.
+<ce> Возможно, это мудрый выбор, друг.
 
 QuestComplete:  [1004]
-<ce> "Fine then. Here's your money."
+<ce> "Тогда ладно. Вот ваши деньги".
 
 QuestorPostSuccess:  [1008]
-You're quite good at math!
+Вы неплохо разбираетесь в математике!
 
 Message:  1011
-<ce> You count out 100 gold coins and offer them up.
+<ce> Вы отсчитываете 100 золотых монет и отдаёте их.
 <ce>
-<ce> "Okay, result is... heads up. You have 200. Want to keep going?"
+<ce> "Итак, результат... орёл. У Вас 200. Хотите продолжить?"
 
 Message:  1012
-<ce> You watch the coin flip again. It lands heads up.
+<ce> Вы снова наблюдаете за подбрасыванием монеты. Выпадает орёл.
 <ce>
-<ce> "You're at 400. Keep going?"
+<ce> "У Вас 400. Продолжаем?"
 
 Message:  1013
-<ce> The coin is flipped again. It lands heads up.
+<ce> Монета подбрасывается еще раз. Выпадает орёл.
 <ce>
-<ce> "You have 800 now. Keep going?"
+<ce> "Теперь у Вас 800. Продолжать?"
 
 Message:  1014
-<ce> You watch another coin flip. It lands heads up again.
+<ce> Вы наблюдаете за очередным подбрасыванием монеты. Снова выпадает орёл.
 <ce>
-<ce> "%oth, I'm starting to regret this. 1,600 in the pot. Go again?"
+<ce> "%oth, я начинаю жалеть об этом. 1600 в банке. Продолжаем?"
 
 Message:  1015
-<ce> The coin gets flipped again. It lands heads up.
+<ce> Монету подбрасывают еще раз. Выпадает орёл.
 <ce>
-<ce> "You know the odds of this? 3,200 gold now. Do another?"
+<ce> "Вы знаете, какова вероятность этого? 3200 золотых сейчас. Ещё раз?"
 
 Message:  1016
-<ce> You watch another flip of the coin. It lands heads up.
+<ce> Вы наблюдаете за очередным подбрасыванием монеты. Выпадает орёл.
 <ce>
-<ce> "I don't believe this. I really don't.
-<ce> 6,400 gold to you. Risk it all and go again?"
+<ce> "Я не верю в это. Правда, не верю.
+<ce> 6400 золотых для вас. Рискнёте всем ещё раз?"
 
 Message:  1017
-<ce> The coin is flipped once more. It lands in your favor.
+<ce> Монета подбрасывается еще раз. Она падает в вашу пользу.
 <ce>
-<ce> "You're about to clean me out for the month, %ra.
-<ce> Unless you lose the next flip. Try it?"
-<ce> You currently have 12,800 gold at stake.
+<ce> "Вы собираетесь обчистить меня, %ra.
+<ce> Если только вы не проиграете при следующем подбрасывании. Попробуем?"
+<ce> В настоящее время у Вас на кону 12800 золотых.
 
 Message:  1018
-<ce> Once more the coin flips, and once more it lands heads up.
+<ce> Еще раз взлетает монета, и еще раз выпадет орёл.
 <ce>
-<ce> "I don't believe this. Take your money and go.
-<ce> Whatever witchcraft you're dealing in, I don't want in here.
-<ce> You don't get another flip. Leave now."
+<ce> "Я в это не верю. Забирайте свои деньги и уходите.
+<ce> Каким бы колдовством Вы ни занимались, я не хочу здесь находиться.
+<ce> Больше вы не получите ни одного броска. Уходите сейчас же".
 <ce>
-<ce> You are given 25,000 gold coins.
-<ce> Apparently you've cleaned this place out.
+<ce> Вам дают 25600 золотых монет.
+<ce> Очевидно, вам здесь больше делать нечего.
 
 Message:  1019
-<ce> (ATTRIBUTE CHECK PASSED: LUCK)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Удача)
 <ce>
-<ce> You're certain no one expected someone as lucky as you to play.
-<ce> You win the first coin flip, and then another, and another.
+<ce> Вы уверены, что никто не ожидал, что в игру вступит такой удачливый человек, как вы.
+<ce> Вы выигрываете первый бросок монеты, а затем еще один, и еще.
 <ce>
-<ce> "Hey, something's wrong here. I don't know what you're pulling,
-<ce> but I don't like it. Take your 800 coins and get outta here."
+<ce> "Эй, что-то здесь не так. Я не знаю, к чему вы колните,
+<ce> но мне это не нравится. Забирайте свои 800 монет и убирайтесь отсюда".
 
 Message:  1020
-<ce> The coin is flipped, and it lands heads down.
+<ce> Монета подбрасывается, и выпадает решка.
 <ce>
-<ce> "Sorry %ra, but I win, fair and square."
+<ce> "Извини, %ra, но я выиграл, честно и справедливо".
 <ce>
-<ce> Your money is taken from you.
+<ce> У вас забрали деньги.
 
 Message:  1021
-<ce> You search your belongings for 100 coins, but don't find enough.
-<ce> You'll have to miss out this time.
+<ce> Вы обыскиваете свои карманы в поисках 100 монет, но не находите достаточного количества.
+<ce> На этот раз вам придется пропустить.
 
 QBN:
 
@@ -98,7 +98,7 @@ Item _1600_ gold range 1600 to 1600
 Item _3200_ gold range 3200 to 3200
 Item _6400_ gold range 6400 to 6400
 Item _12800_ gold range 12800 to 12800
-Item _25000_ gold range 25000 to 25000
+Item _25000_ gold range 25600 to 25600
 
 --	Quest start-up:
     pay 100 money do _begin_ otherwise do _nomoney_

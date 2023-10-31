@@ -1,43 +1,43 @@
 Quest: locationalatronachs
-DisplayName: Locational Atronachs from QP1
+DisplayName: Атронахи (Квест Пак 1)
 -- Message panels
 QRC:
 
 RumorsDuringQuest:   [1005]
-___city_'s having problems with atronachs these days.
+В ___city_ сейчас проблемы с атронахами.
 <--->
-The %rt's trying to get rid of the golems in ___city_.
+%rt пытается избавиться от големов в ___city_.
 <--->
-The %rt promised to send more forces to clear out the golems in ___city_.
+%rt пообещал послать дополнительные силы для уничтожения големов в ___city_.
 <--->
-___city_'s got problems with atronachs again.
+У ___city_ снова проблемы с атронахами.
 <--->
-___city_'s filled with golems.
+В ___city_ полно големов.
 
 RumorsPostFailure:   [1006]
-The %rt cleared those atronachs out of ___city_.
+%rt вычистил атронахов из ___city_.
 <--->
-___city_ got over its atronach problem!
+___city_ справился с проблемой атронахов!
 <--->
-The %rt had to hire an army to get those golems out of ___city_.
+%rt нанял армию, чтобы вывести големов из ___city_.
 
 Message:  1010
-<ce> You see a warning sign on a post as you approach ___city_.
+<ce> Вы видите предупреждающий знак на столбе по мере приближения к ___city_.
 <ce> 
-<ce> "Travelers to ___city_,
-<ce> Due to some idiot mage, the town is currently
-<ce> under attack by living statues ('atronachs').
-<ce> Whoever it is will be found and slain without hesitation.
-<ce> Until that time, remain indoors as much as possible
-<ce> or stay elsewhere for a time.
-<ce> Dutifully,
-<ce> The %rt, %rn."
+<ce> "Путешественники в ___city_,
+<ce> По вине какого-то идиота-мага город в настоящее время
+<ce> подвергается нападению живых статуй ("атронахов").
+<ce> Кто бы это ни был, он будет найден и убит без колебаний.
+<ce> До этого времени оставайтесь как можно больше в помещении,
+<ce> или оставайтесь на время в другом месте.
+<ce> С уважением,
+<ce> %rt, %rn."
 <--->
-<ce> Someone has posted a warning outside ___city_.
+<ce> Кто-то вывесил предупреждение за пределами ___city_.
 <ce> 
-<ce> "Rogue mage has summoned atronachs against this city.
-<ce> They will attack anyone in sight. Flee or defend yourself
-<ce> as best suits you. The %rt will soon send aid."
+<ce> "Маг-изгой выслал атронахов против этого города.
+<ce> Они будут атаковать всех, кто окажется в поле зрения. Бегите или защищайтесь
+<ce> в зависимости от того, что Вам больше подходит. Скоро %rt пришлет помощь".
 
 QBN:
 

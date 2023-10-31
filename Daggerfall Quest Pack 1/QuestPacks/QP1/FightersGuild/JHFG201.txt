@@ -47,7 +47,7 @@ Message:  1011
 <ce> before crumpling to the floor.
 
 Message:  1012
-<ce> (ATTRIBUTE CHECK FAILED: WILLPOWER)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: WILLPOWER)
 <ce>
 <ce> The vampire raises her arms and shrieks, casting
 <ce> a spell in self-defense. It only stuns you for a moment,

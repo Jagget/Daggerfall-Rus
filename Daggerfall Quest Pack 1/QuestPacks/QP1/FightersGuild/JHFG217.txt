@@ -41,7 +41,7 @@ Message:  1011
 <ce> _qgiver_ needs to report the act to the %t.
 
 Message:  1012
-<ce> (ATTRIBUTE CHECK PASSED: LUCK)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: LUCK)
 <ce>
 <ce> The Necromancer's summoning spells fail.
 <ce> "W-why?! What is happening?!"

@@ -57,7 +57,7 @@ Message:  1010
 <ce> test to save yourself time and prove your intellect.
 <ce> Do you make the suggestion (yes) or submit to the quiz (no)?
 <ce>
-<ce> (ATTRIBUTE CHECK: YES: Intelligence, very high)
+<ce> (ПРОВЕРКА АТРИБУТА: YES: Intelligence, very high)
    <--->
 <ce> "Hmph. As if I would listen to a cave creature
 <ce> with your appearance. Yes, yes, I hear you, that
@@ -75,10 +75,10 @@ Message:  1010
 <ce> test to save yourself time and prove your intellect.
 <ce> Do you make the suggestion (yes) or submit to the quiz (no)?
 <ce>
-<ce> (ATTRIBUTE CHECK: YES: Intelligence, difficulty very high)
+<ce> (ПРОВЕРКА АТРИБУТА: YES: Intelligence, difficulty very high)
 
 Message:  1011
-<ce> (ATTRIBUTE CHECK PASSED)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА)
 <ce>
 <ce> You suggest a game of logic, drawn on the floor.
 <ce> Intrigued, _scholar_ decides to take you up
@@ -91,7 +91,7 @@ Message:  1011
 <ce> tell a proper specimen in action."
 
 Message:  1012
-<ce> (ATTRIBUTE CHECK FAILED)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА)
 <ce>
 <ce> You suggest a game of logic, drawn on the floor.
 <ce> Intrigued, _scholar_ decides to take you up

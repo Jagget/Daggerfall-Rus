@@ -58,7 +58,7 @@ QuestComplete:  [1004]
 <ce> slaves to it in time. Have your book.
 
 Message:  1010
-<ce> (ATTRIBUTE CHECK PASSED: LUCK)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: LUCK)
 <ce>
 <ce> Luck is on your side. The renegade student is both
 <ce> nearby and in normal form. You both arm yourselves for

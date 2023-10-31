@@ -4,7 +4,7 @@ DisplayName: Random Little Quest Singing Circle
 QRC:
 
 QuestComplete:   [1004]
-<ce> (ATTRIBUTE CHECK PASSED: PERSONALITY)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Привлекательность)
 <ce>
 <ce> When it's your turn, your voice captivates the audience.
 <ce> They all pause and seem to freeze in time,
@@ -28,7 +28,7 @@ Message:  1011
 <ce> but you have other things to be doing.
 
 Message:  1012
-<ce> (ATTRIBUTE CHECK FAILED: PERSONALITY)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Привлекательность)
 <ce> 
 <ce> You take your place on the edge of the crowd
 <ce> and prepare to sing. You try your best, but
