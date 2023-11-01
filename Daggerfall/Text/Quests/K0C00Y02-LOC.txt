@@ -105,7 +105,7 @@ Message:  1015
 -- Symbols used in the QRC file:
 --
 --                %g occurs 1 time.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %god occurs 2 times.
 --              %oth occurs 2 times.
 --              %pcf occurs 30 times.

@@ -130,7 +130,7 @@ Message:  1017
 --              %dat occurs 1 time.
 --                %g occurs 65 times.
 --               %g2 occurs 1 time.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %pcf occurs 3 times.
 --              %pcn occurs 3 times.
 --              %qdt occurs 1 time.

@@ -303,7 +303,7 @@ Message:  1073
 --
 --                %g occurs 10 times.
 --               %g2 occurs 6 times.
---               %g3 occurs 8 times.
+--               %g4 occurs 8 times.
 --              %god occurs 1 time.
 --              %oth occurs 2 times.
 --              %pcf occurs 1 time.

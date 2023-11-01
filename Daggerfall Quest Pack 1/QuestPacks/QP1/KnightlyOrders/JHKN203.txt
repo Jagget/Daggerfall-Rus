@@ -83,7 +83,7 @@ Message:  1021
 Message:  1022
 <ce> You have defeated the vampire. You offer
 <ce> _mage_ as proper a burial you
-<ce> can under the circumstances. Surely %g3
+<ce> can under the circumstances. Surely %g4
 <ce> sacrifice will be honored.
 
 Message:  1023

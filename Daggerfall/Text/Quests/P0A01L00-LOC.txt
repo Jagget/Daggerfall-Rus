@@ -84,7 +84,7 @@ QuestorPostfailure:  [1009]
 Error: Questtext 1009 Called. Not sposed to be.
 
 QuestLogEntry:  [1010]
-_questgiver_? Я %g3 не знаю. %g где-то здесь?
+_questgiver_? Я %g4 не знаю. %g где-то здесь?
 
 Message:  1011
 =questgiver_ - это учитель семьи вампиров %vam.

@@ -64,7 +64,7 @@ QuestorPostfailure:  [1009]
 QuestLogEntry:  [1010]
 %qdt:
 <ce> _giver_ из ___giver_ пообещал мне _gold_
-<ce> золотых за поиски %g3 книги, _book_.
+<ce> золотых за поиски %g4 книги, _book_.
 
 Message:  1014
 <ce> Попробуйте спросить _informant_. %g
@@ -107,7 +107,7 @@ Message:  1035
 <ce> по поводу пропавшей книги _book_.
 <ce> %g думает, что в это дело может быть
 <ce> замешан _thief_. Теперь неплохо бы
-<ce> найти %g3.
+<ce> найти %g4.
 
 Message:  1027
 _thief_ живет в _house_ в __house_.
@@ -143,7 +143,7 @@ Message:  1030
 --
 --                %g occurs 7 times.
 --               %g2 occurs 3 times.
---               %g3 occurs 3 times.
+--               %g4 occurs 3 times.
 --              %pcf occurs 1 time.
 --              %pcn occurs 2 times.
 --              %qdt occurs 2 times.

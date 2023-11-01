@@ -145,7 +145,7 @@ Message:  1071
 
 -- Symbols used in the QRC file:
 --
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %pcf occurs 2 times.
 --              %qdt occurs 4 times.
 --         =keytime_ occurs 7 times.

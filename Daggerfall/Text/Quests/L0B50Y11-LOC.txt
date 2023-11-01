@@ -85,7 +85,7 @@ Message:  1020
 <ce> остается надолго. %g только использует
 <ce> меня для своих удовольствий.
 <ce> За 50 золотых я с удовольствием
-<ce> сдам %g3 с потрохами.
+<ce> сдам %g4 с потрохами.
 
 Message:  1021
 <ce> На помощь! _marknpc _!
@@ -138,7 +138,7 @@ Message:  1031
 --
 --                %g occurs 23 times.
 --               %g2 occurs 6 times.
---               %g3 occurs 10 times.
+--               %g4 occurs 10 times.
 --              %pcf occurs 43 times.
 --              %pcn occurs 3 times.
 --              %qdt occurs 1 time.

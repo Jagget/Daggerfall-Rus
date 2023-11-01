@@ -17,8 +17,8 @@ RefuseQuest:  [1001]
 AcceptQuest:  [1002]
 <ce> You're gonna find _friend_ over
 <ce> in _res_ here in town. You'll
-<ce> be taking %g2 to %g3 house in another town
-<ce> first to pick up %g3 things, and then lead %g2
+<ce> be taking %g2 to %g4 house in another town
+<ce> first to pick up %g4 things, and then lead %g2
 <ce> to a hideout, wherever that's gonna be. From
 <ce> there you'll get paid and you're home free.
 <ce> So head on over there and see how it'll work.
@@ -32,9 +32,9 @@ QuestFail:  [1003]
 <ce> _friend_ escape. You lose track of %g2.
 
 QuestComplete:  [1004]
-<ce> You decide against revenge and leave %g2 to %g3
+<ce> You decide against revenge and leave %g2 to %g4
 <ce> ill-gotten peace. Your hands will not have
-<ce> %g3 blood on them.
+<ce> %g4 blood on them.
 
 QuestorPostFailure:  [1009]
 I can't really trust you to keep debtors safe, can I?
@@ -97,7 +97,7 @@ Message:  1020
 <ce>
 <ce> "Excuse me %ra, but you seem to be traveling with
 <ce> some pond scum named _friend_. You'll
-<ce> want to step aside. We have a warrant for %g3
+<ce> want to step aside. We have a warrant for %g4
 <ce> capture on behalf of _bank_.
 <ce> We are authorized to give you =reward_ gold pieces
 <ce> for your cooperation. Please stand down."
@@ -108,7 +108,7 @@ Message:  1021
 <ce> "Good choice. Go."
 <ce>
 <ce> Against _friend_'s bewildered protests,
-<ce> you deliver %g2 into the hands of %g3 enemies.
+<ce> you deliver %g2 into the hands of %g4 enemies.
 <ce> One of the mercenaries hands you a pouch
 <ce> full of money, and the band departs.
 
@@ -129,12 +129,12 @@ Message:  1031
 %qdt:
  _friend_ wants to go first
  to ___farhome_, to pick up
- %g3 belongings in _farhome_.
+ %g4 belongings in _farhome_.
 
 Message:  1032
 %qdt:
  _friend_ will hide away
- in ___farmhome_ from %g3 creditors.
+ in ___farmhome_ from %g4 creditors.
 
 QBN:
 

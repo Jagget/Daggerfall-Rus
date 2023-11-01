@@ -108,7 +108,7 @@ Message:  1012
 --
 --                %g occurs 4 times.
 --               %g2 occurs 7 times.
---               %g3 occurs 3 times.
+--               %g4 occurs 3 times.
 --              %oth occurs 1 time.
 --              %pct occurs 4 times.
 --              %qdt occurs 1 time.

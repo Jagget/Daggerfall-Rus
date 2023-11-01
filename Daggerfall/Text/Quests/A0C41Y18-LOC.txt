@@ -179,7 +179,7 @@ Item _finger_ finger anyInfo 1015
 Item _letter_ letter used 1040
 Item _gold1_ gold
 Item _gold2_ gold
---changed msg 1030 %g2 to %g3
+--changed msg 1030 %g2 to %g4
 
 Person _sage_ group Cleric remote anyInfo 1050 rumors 1050
 Person _giver_ group Questor

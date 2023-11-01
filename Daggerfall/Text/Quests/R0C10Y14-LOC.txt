@@ -57,7 +57,7 @@ RumorsDuringQuest:  [1005]
 Этот =contact_ уже несколько дней бродит в окрестностях __contact_.
 
 RumorsPostfailure:  [1006]
-Бедняга _contact_ -- %g3 посылка никогда не попадет по месту назначения.
+Бедняга _contact_ -- %g4 посылка никогда не попадет по месту назначения.
    <--->
 Удивляюсь, чего еще ждет _contact_. Какого-нибудь чуда?
 
@@ -93,7 +93,7 @@ QuestLogEntry:  [1010]
 --
 --                %g occurs 6 times.
 --               %g2 occurs 1 time.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %oth occurs 2 times.
 --              %qdt occurs 1 time.
 --               %ra occurs 1 time.

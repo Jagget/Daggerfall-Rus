@@ -214,7 +214,7 @@ Message:  2005
 --
 --                %g occurs 5 times.
 --               %g2 occurs 2 times.
---               %g3 occurs 16 times.
+--               %g4 occurs 16 times.
 --              %god occurs 1 time.
 --              %pcn occurs 2 times.
 --              %qdt occurs 4 times.

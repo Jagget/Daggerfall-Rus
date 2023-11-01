@@ -136,7 +136,7 @@ Message:  1012
 --
 --               %cn occurs 2 times.
 --               %g2 occurs 3 times.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %jok occurs 6 times.
 --              %oth occurs 10 times.
 --              %pcf occurs 5 times.

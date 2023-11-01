@@ -135,7 +135,7 @@ _thief_ любит блюда, которые готовят в _inn_.
 
 Message:  1040
 <ce> Я слышал вы ищете кое-кого - _thief_.
-<ce> Что ж, вы нашли %g3. А теперь проваливайте,
+<ce> Что ж, вы нашли %g4. А теперь проваливайте,
 <ce> пока я не сделал вам больно.
 
 
@@ -143,7 +143,7 @@ Message:  1040
 --
 --                %g occurs 5 times.
 --               %g2 occurs 1 time.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %pcf occurs 2 times.
 --              %pcn occurs 2 times.
 --              %qdt occurs 1 time.

@@ -112,7 +112,7 @@ Message:  1032
 
 Message:  1033
 <ce> _darkb_ обычно обретается в _place_,
-<ce> но я не хочу вмешиваться в %g3 дела.
+<ce> но я не хочу вмешиваться в %g4 дела.
 <ce> Это просто дружеский совет.
 
 
@@ -120,7 +120,7 @@ Message:  1033
 --
 --               %g2 occurs 4 times.
 --           %g2self occurs 2 times.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %oth occurs 2 times.
 --              %pcf occurs 4 times.
 --              %qdt occurs 1 time.

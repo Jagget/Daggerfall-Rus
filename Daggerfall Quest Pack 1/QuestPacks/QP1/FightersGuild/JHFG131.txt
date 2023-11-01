@@ -57,7 +57,7 @@ Message:  1012
 <ce>
 <ce> You carefully show %g2 how to properly hold the pommel,
 <ce> swing the sword, and deliver a full cut.
-<ce> You hope %g3 parents won't criticize the guild
+<ce> You hope %g4 parents won't criticize the guild
 <ce> for this, but it's a dangerous world out there.
 <ce> Perhaps if _kid_ knew this already,
 <ce> you wouldn't be down here.
@@ -68,7 +68,7 @@ Message:  1013
 <ce> With your encouragement, _kid_ starts swinging
 <ce> the blade around wildly. Once %g1 loses a proper
 <ce> posture, %g1 ends up falling onto the blade, slicing
-<ce> %g3 shoulder. You wince and help %g2 up.
+<ce> %g4 shoulder. You wince and help %g2 up.
 <ce>
 <ce> "I guess I'll have to wait 'til I'm older," %g1 says
 <ce> as you apply a makeshift bandage. Then %g1
@@ -98,7 +98,7 @@ Message:  1016
 <ce> "THAT WAS AWESOME! I'm gonna be a real fighter!
 <ce> This is the coolest thing I've ever done!"
 <ce> _kid_ dances around, clattering the sword onto the ground.
-<ce> You'll have to see whether %g1 tells %g3 parents
+<ce> You'll have to see whether %g1 tells %g4 parents
 <ce> about that part.
 
 Message:  1017
@@ -124,7 +124,7 @@ Message:  1019
 <ce> the parents come down the stairs.
 <ce> They smother _kid_ in hugs and kisses,
 <ce> trying to hide their worry at the large gash
-<ce> on %g3 shoulder. Then %g1 blurts out,
+<ce> on %g4 shoulder. Then %g1 blurts out,
 <ce> "Don't worry about my arm. This %ra and I were practicing
 <ce> sword fighting down in the cave, and I got hurt.
 <ce> But I'm fine, really!"

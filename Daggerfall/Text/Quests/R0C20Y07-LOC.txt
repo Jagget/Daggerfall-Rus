@@ -98,7 +98,7 @@ Message:  1011
 -- Symbols used in the QRC file:
 --
 --                %g occurs 3 times.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %oth occurs 2 times.
 --              %pcf occurs 4 times.
 --              %pcn occurs 1 time.

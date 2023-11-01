@@ -22,7 +22,7 @@ AcceptQuest:  [1002]
 <ce> within =2res_ days. After that just
 <ce> come pick up your money whenever you
 <ce> want. Go find %g2 in ___res_.
-<ce> Ask around if %g3 house isn't
+<ce> Ask around if %g4 house isn't
 <ce> obvious. Stay safe.
 
 QuestFail:  [1003]

@@ -93,7 +93,7 @@ Message:  1080
 -- Symbols used in the QRC file:
 --
 --                %g occurs 1 time.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %pcf occurs 2 times.
 --              %pcn occurs 3 times.
 --              %qdt occurs 1 time.

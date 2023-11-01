@@ -22,7 +22,7 @@ AcceptQuest:  [1002]
 <ce> The object to be identified is said to be of minimal
 <ce> difficulty, which is why we have not asked it to
 <ce> be taken to a guild hall. Apparently our client
-<ce> is so busy that merely stepping outside %g3 residence
+<ce> is so busy that merely stepping outside %g4 residence
 <ce> supposes a ponderous burden. The agreed sum is
 <ce> =reward_ gold, which you are free to pocket as compensation.
 <ce> I do merely ask that you arrive within =2res_ days.
@@ -92,7 +92,7 @@ QuestComplete:  [1004]
 
 Message:  1010
 <ce> _client_ ignores you for several moments, clearly
-<ce> caught up in other work. You wait until %g3 attention shifts.
+<ce> caught up in other work. You wait until %g4 attention shifts.
 <ce>
 <ce> "Yes? Oh, from the Mages Guild, I see. Well, here it is.
 <ce> This is a document I've held in storage for quite some time.

@@ -123,7 +123,7 @@ Message:  1021
 --
 --                %g occurs 6 times.
 --               %g2 occurs 1 time.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %oth occurs 1 time.
 --              %pcf occurs 9 times.
 --              %qdt occurs 2 times.

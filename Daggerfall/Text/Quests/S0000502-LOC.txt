@@ -117,7 +117,7 @@ Message:  1070
 --
 --                %g occurs 2 times.
 --               %g2 occurs 2 times.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %pcf occurs 2 times.
 --              %pcn occurs 2 times.
 --              %qdt occurs 2 times.

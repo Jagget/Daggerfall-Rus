@@ -47,7 +47,7 @@ Message:  1015
 I am racing an athlete named _person_
 to the tavern called _tavern_
 within ___tavern_. I could win
-if I beat %g3 record of 50 seconds
+if I beat %g4 record of 50 seconds
 from our starting point.
 
 QBN:

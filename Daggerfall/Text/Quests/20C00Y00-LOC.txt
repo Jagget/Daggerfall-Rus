@@ -111,7 +111,7 @@ Message:  1060
 --               %di occurs 3 times.
 --                %g occurs 1 time.
 --               %g2 occurs 1 time.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %pcf occurs 2 times.
 --              %pcn occurs 1 time.
 --              %qdt occurs 1 time.

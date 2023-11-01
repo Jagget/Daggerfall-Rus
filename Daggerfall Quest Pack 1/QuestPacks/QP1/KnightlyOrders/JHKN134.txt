@@ -50,7 +50,7 @@ QuestLogEntry:  [1010]
  need me to speak to a noble named
  _nob_ in the local palace,
  to end the betrothal of
- %g3 daughter and _knight_.
+ %g4 daughter and _knight_.
  I have =timer_ days.
 
 Message:  1011
@@ -97,7 +97,7 @@ Message:  1016
 Message:  1017
 <ce> You shuffle around to find 2,500 gold pieces,
 <ce> but do not have enough. _nob_ seethes with
-<ce> rage, though %g1 does not open %g3 mouth to release it.
+<ce> rage, though %g1 does not open %g4 mouth to release it.
 
 Message:  1018
 <ce> You discreetly deliver the 2,500 gold pieces

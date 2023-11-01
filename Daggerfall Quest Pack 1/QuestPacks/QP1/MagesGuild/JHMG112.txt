@@ -89,9 +89,9 @@ Message:  1015
 Message:  1016
 <ce> You reach for the _thing_ and activate it.
 <ce> _enmage_'s face suddenly grows pale,
-<ce> knowing you have robbed %g2 of some of %g3 power.
+<ce> knowing you have robbed %g2 of some of %g4 power.
 <ce> You proceed with the battle, confident of having
-<ce> undone one of %g3 tricks.
+<ce> undone one of %g4 tricks.
 
 Message:  1020
 <ce> _enmage_ will likely have escaped by now.

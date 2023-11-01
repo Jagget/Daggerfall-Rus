@@ -67,7 +67,7 @@ QuestorPostfailure:  [1009]
 QuestLogEntry:  [1010]
 %qdt:
 <ce> _qgiver_ в ___qgiver_
-<ce> сказал мне, что %g3 хозяин
+<ce> сказал мне, что %g4 хозяин
 <ce> _master_ заплатит _gold_ золотых
 <ce> за неизвестную, но вероятно очень опасную
 <ce> миссию. Он находится в _meetingplace_
@@ -130,7 +130,7 @@ Message:  1035
 --
 --                %g occurs 14 times.
 --               %g2 occurs 8 times.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %pcf occurs 1 time.
 --              %pcn occurs 1 time.
 --              %qdt occurs 3 times.

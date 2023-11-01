@@ -180,7 +180,7 @@ Message:  1031
 --
 --                %g occurs 3 times.
 --               %g2 occurs 3 times.
---               %g3 occurs 3 times.
+--               %g4 occurs 3 times.
 --              %pcf occurs 4 times.
 --              %qdt occurs 1 time.
 --               %ra occurs 1 time.

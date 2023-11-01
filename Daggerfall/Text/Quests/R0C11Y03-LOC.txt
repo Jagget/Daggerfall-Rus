@@ -133,7 +133,7 @@ Message:  1020
 --               %di occurs 3 times.
 --                %g occurs 6 times.
 --               %g2 occurs 1 time.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %pcf occurs 2 times.
 --              %qdt occurs 1 time.
 --               %ra occurs 4 times.

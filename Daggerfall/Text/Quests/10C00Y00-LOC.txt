@@ -55,7 +55,7 @@ RumorsPostfailure:  [1006]
 Этот =qgfriend_ _qgfriend_ ушел из __qgfriend_ обеспокоенный бесчестным %ra.
 
 RumorsPostsuccess:  [1007]
-Говорят, что одно из существ из коллекции =monster_ ожило и убило %g3.
+Говорят, что одно из существ из коллекции =monster_ ожило и убило %g4.
    <--->
 =monster_ был убит кем-то заинтересованным в его сокровищах.
 
@@ -107,7 +107,7 @@ Message:  1040
 --               %di occurs 2 times.
 --                %g occurs 3 times.
 --               %g2 occurs 2 times.
---               %g3 occurs 9 times.
+--               %g4 occurs 9 times.
 --              %pcn occurs 1 time.
 --              %qdt occurs 1 time.
 --               %ra occurs 2 times.

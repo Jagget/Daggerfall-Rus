@@ -222,7 +222,7 @@ Message:  1024
 --              %dat occurs 1 time.
 --                %g occurs 6 times.
 --               %g2 occurs 22 times.
---               %g3 occurs 9 times.
+--               %g4 occurs 9 times.
 --              %oth occurs 1 time.
 --              %pcf occurs 3 times.
 --              %pcn occurs 7 times.

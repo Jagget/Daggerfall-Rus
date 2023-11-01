@@ -99,7 +99,7 @@ Message:  1015
 <ce> "Pathetic %ra! Tiger lover! I'm not gonna
 <ce> let you stab me in the back!"
 <ce>
-<ce> _hunter_ steps back and readies %g3 bow.
+<ce> _hunter_ steps back and readies %g4 bow.
 
 Message:  1016
 <ce> You knock %g2 to the ground, enough to instil the fear

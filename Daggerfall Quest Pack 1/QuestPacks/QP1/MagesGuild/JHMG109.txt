@@ -49,7 +49,7 @@ QuestFail:  [1003]
 QuestComplete:  [1004]
 <ce> Good day. What have we here? Ah, a
 <ce> sample of _dummy_'s fine work.
-<ce> Let me check whether it has %g3 seal.
+<ce> Let me check whether it has %g4 seal.
 <ce> Well, it appears to be in proper order
 <ce> and condition. Send my regards to
 <ce> _qgiver_. Here is your

@@ -124,7 +124,7 @@ Message:  1057
 
 Message:  1058
 <ce> Your partner takes _noble_ aside and
-<ce> whispers something in %g3 ear for about a minute.
+<ce> whispers something in %g4 ear for about a minute.
 <ce> The noble feigns surprise, clearly in on the secret.
 <ce> With a snap of the fingers %g1 summons a servant who
 <ce> brings several useful objects to the two of you, which

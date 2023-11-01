@@ -24,8 +24,8 @@ AcceptQuest:  [1002]
 <ce> Then let me tell you concerning the matter.
 <ce> ___qgiver_ is home to _mark_,
 <ce> one of the most talented mages in all
-<ce> %crn. %g1 also conjures the dead for %g3
-<ce> foul purposes. If left to follow %g3 course,
+<ce> %crn. %g1 also conjures the dead for %g4
+<ce> foul purposes. If left to follow %g4 course,
 <ce> %g1 could become the new Archmagister
 <ce> with sufficient time. This cannot be.
 <ce>
@@ -45,7 +45,7 @@ AcceptQuest:  [1002]
 
 QuestFail:  [1003]
 <ce> _mark_ will have absconded
-<ce> from ___dungeon_ by now to plot %g3 revenge.
+<ce> from ___dungeon_ by now to plot %g4 revenge.
 
 QuestComplete:  [1004]
 <ce> My word, %pcf, you have done us a great service.
@@ -82,7 +82,7 @@ Message:  1020
 Message:  1021
 <ce> You raise the _gem_ into the air, and it
 <ce> flashes brightly. _mark_ cries
-<ce> out in a stupor, %g3 magical force
+<ce> out in a stupor, %g4 magical force
 <ce> being drained during the teleportation.
 <ce> Within seconds the room is as before,
 <ce> except without your colleague.
@@ -100,7 +100,7 @@ Message:  1022
 
 Message:  1023
 <ce> _mark_'s body slumps down.
-<ce> The battle is over. You take %g3
+<ce> The battle is over. You take %g4
 <ce> official seal as proof of the deed.
 
 Message:  1030

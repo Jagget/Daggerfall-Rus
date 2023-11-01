@@ -133,7 +133,7 @@ Message:  1030
 --
 --                %g occurs 13 times.
 --               %g2 occurs 6 times.
---               %g3 occurs 3 times.
+--               %g4 occurs 3 times.
 --              %pcf occurs 2 times.
 --              %qdt occurs 1 time.
 --               %ra occurs 1 time.

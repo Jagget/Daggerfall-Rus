@@ -27,7 +27,7 @@ AcceptQuest:  [1002]
 <ce> of working with the eccentric mind.
 <ce> The two of you should arrive at _res_
 <ce> by 11:00 tonight. _hunt_ will conduct
-<ce> their meeting, and you will bring %g3 report to me.
+<ce> their meeting, and you will bring %g4 report to me.
 <ce> Do not return without it, and do not arrive late
 <ce> to the residence. Farewell, and good luck.
 
@@ -76,7 +76,7 @@ Message:  1013
 <ce> for the last few who attempted to help
 <ce> in matters of vampirism."
 <ce>
-<ce> You hear %g3 voice shakes. Apparently %g3 troubled
+<ce> You hear %g4 voice shakes. Apparently %g4 troubled
 <ce> demeanor is the result of experience rather
 <ce> than temperament.
 

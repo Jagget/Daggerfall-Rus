@@ -66,7 +66,7 @@ Message:  1010
 <ce> appearance, and you have failed in that respect.
 <ce> I should sooner silence and slay you, but I must
 <ce> entertain the outlandish possibility that you
-<ce> are actually here on %g3 errand.
+<ce> are actually here on %g4 errand.
 <ce> So indulge me in my questions, mageling."
 <ce>
 <ce> _scholar_ begins to pull out a quiz of some

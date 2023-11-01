@@ -95,7 +95,7 @@ Message:  1040
 --
 --                %g occurs 1 time.
 --               %g1 occurs 1 time.
---               %g3 occurs 3 times.
+--               %g4 occurs 3 times.
 --              %pcf occurs 6 times.
 --              %qdt occurs 1 time.
 --              %reg occurs 1 time.

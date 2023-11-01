@@ -203,7 +203,7 @@ Message:  1021
 -- Symbols used in the QRC file:
 --
 --               %g2 occurs 1 time.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %pcf occurs 8 times.
 --              %pcn occurs 4 times.
 --              %qdt occurs 2 times.

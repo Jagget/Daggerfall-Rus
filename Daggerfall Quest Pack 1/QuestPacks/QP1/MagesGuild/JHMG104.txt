@@ -23,7 +23,7 @@ AcceptQuest:  [1002]
 <ce> is mere fantasy. _mage_ went
 <ce> into ___dung_ a few days ago
 <ce> and our minds have not ceased to worry
-<ce> for %g3 state. Please bring %g2
+<ce> for %g4 state. Please bring %g2
 <ce> back within =timer_ days' time.
 <ce> If you follow the gods, seek their help as
 <ce> you go. No one can predict what will happen.
@@ -46,12 +46,12 @@ QuestComplete:  [1004]
 
 Message:  1010
 <ce> _mage_ appears to be in deep
-<ce> concentration. You try to get %g3 attention.
+<ce> concentration. You try to get %g4 attention.
 <ce>
 <ce> Then something goes wrong. Crackles of power
-<ce> shoot from %g3 body in various directions.
+<ce> shoot from %g4 body in various directions.
 <ce> The room momentarily pulses darker.
-<ce> As %g3 eyes shoot open, %g1 shouts.
+<ce> As %g4 eyes shoot open, %g1 shouts.
 <ce>
 <ce> "N-no! It wasn't finished! You fool!
 <ce> For distracting me..."
@@ -91,7 +91,7 @@ Message:  1012
 <ce> your ken. What will you do?
 
 Message:  1013
-<ce> _mage_'s eyes turn red. From %g3 and
+<ce> _mage_'s eyes turn red. From %g4 and
 <ce> the daedra's mouth come the same words.
 <ce>
 <ce> "I am =daed_, lord of Oblivion! I cannot
@@ -111,14 +111,14 @@ Message:  1014
 <ce> completely drained. _mage_
 <ce> only has energy enough to mutter some
 <ce> choice words against you before entering a torpor.
-<ce> You gather up %g3 inert form and take %g2 with you.
+<ce> You gather up %g4 inert form and take %g2 with you.
 
 Message:  1015
 <ce> You strike the daedra, and the mental link
 <ce> shares the pain with _mage_.
-<ce> In that moment of weakness %g3 guard is down,
+<ce> In that moment of weakness %g4 guard is down,
 <ce> and the monster takes the opportunity to blast
-<ce> %g3 mind from the inside. You watch %g3
+<ce> %g4 mind from the inside. You watch %g4
 <ce> body crumple to the floor.
 <ce>
 <ce> "Well done, feeble creature! Now I am free
@@ -129,10 +129,10 @@ Message:  1015
 
 Message:  1016
 <ce> You strike _mage_ and break
-<ce> %g3 concentration. In that moment of
-<ce> weakness %g3 guard is down, and the
+<ce> %g4 concentration. In that moment of
+<ce> weakness %g4 guard is down, and the
 <ce> monster takes the opportunity to blast
-<ce> %g3 mind from the inside. You watch %g3
+<ce> %g4 mind from the inside. You watch %g4
 <ce> body crumple to the floor. The daedra roars
 <ce> with laughter.
 <ce>

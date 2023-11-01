@@ -35,7 +35,7 @@ AcceptQuest:  [1002]
 <ce> Во избежание затруднений, мне нужно,
 <ce> чтобы вы украли _item_ из
 <ce> храма и доставили его к _transporter_.
-<ce> Вы найдете %g3 в _inn_ в __inn_.
+<ce> Вы найдете %g4 в _inn_ в __inn_.
 <ce> _item_ должен быть в руках идиотского _transporter_
 <ce> не позднее =1stparton_ дней; и вы должны вернуться
 <ce> сюда из __inn_ не позднее =2ndparton_ дней после этого,
@@ -84,7 +84,7 @@ QuestLogEntry:  [1010]
 <ce> -- %g он притворится, что никогда не
 <ce> знал вас и вы не получите награду, если
 <ce> не прибудете раньше, чем за =2ndparton_ дней.
-<ce> Верьте мне, я хорошо знаю %g3 привычки.
+<ce> Верьте мне, я хорошо знаю %g4 привычки.
 
 Message:  1011
 <ce> _transporter_ - нервно выглядящий =transporter_,
@@ -119,7 +119,7 @@ Message:  1020
 --               %di occurs 1 time.
 --                %g occurs 2 times.
 --               %g2 occurs 1 time.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %god occurs 1 time.
 --              %oth occurs 3 times.
 --              %pcf occurs 7 times.

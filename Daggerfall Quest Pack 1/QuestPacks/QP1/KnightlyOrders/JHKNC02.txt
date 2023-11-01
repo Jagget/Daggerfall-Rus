@@ -15,7 +15,7 @@ QuestComplete:   [1004]
 <ce> You would've done the same thing in my place!"
 <ce> _witch_ exclaims.
 <ce>
-<ce> _friend_ puts %g3 hand on her shoulder.
+<ce> _friend_ puts %g4 hand on her shoulder.
 <ce> "It is time for us to go. I pray this
 <ce> token is worthy thanks to you,
 <ce> for doing the right thing,"

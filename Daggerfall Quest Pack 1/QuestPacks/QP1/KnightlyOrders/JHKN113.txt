@@ -45,11 +45,11 @@ QuestComplete:  [1004]
 <ce> as soon as I am able. You have saved
 <ce> my life! I will not forget it!"
 <ce>
-<ce> _escort_ heads on %g3
+<ce> _escort_ heads on %g4
 <ce> way, and you are left alone.
 
 Message:  1010
-<ce> Words barely creep out of %g3 mouth. You
+<ce> Words barely creep out of %g4 mouth. You
 <ce> miss what is said, but it likely doesn't matter.
    <--->
 <ce> _escort_'s gaunt eyes tell

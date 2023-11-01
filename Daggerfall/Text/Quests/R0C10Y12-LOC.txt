@@ -101,7 +101,7 @@ Who is calling 1023?
 --
 --               %di occurs 11 times.
 --               %g2 occurs 3 times.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %god occurs 1 time.
 --              %pcf occurs 4 times.
 --              %qdt occurs 1 time.

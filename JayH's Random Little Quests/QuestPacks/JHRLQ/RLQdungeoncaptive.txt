@@ -16,7 +16,7 @@ QuestComplete:  [1004]
 <ce> I'll make sure everyone knows what you did for me,
 <ce> from the tavern owner to the %rt! %god bless you!"
 <ce>
-<ce> Capable of making %g3 way from here, %g1 departs.
+<ce> Capable of making %g4 way from here, %g1 departs.
 
 Message:  1010
 <ce> A piece of cardboard paper near your feet details

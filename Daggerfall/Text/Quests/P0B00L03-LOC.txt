@@ -34,7 +34,7 @@ AcceptQuest:  [1002]
 <ce> основательно подготовьтесь.
 <ce> Зовут этого вампира - _vampname_.
 <ce> Древний храм, где %g сейчас находится,
-<ce> называется ___mondung_. У н%g3 есть одна
+<ce> называется ___mondung_. У н%g4 есть одна
 <ce> слабость. %g очень сильно гордится своей
 <ce> лучшей вещью, - _vampproof_
 <ce> сделанной из кожи его жертв.
@@ -70,7 +70,7 @@ RumorsDuringQuest:  [1005]
 _vampname_ - аристократ. Говорят, %g находится где-то в храме ___mondung_.
 
 RumorsPostfailure:  [1006]
-_vampname_... %g3 больше не видно в храме ___mondung_. Для аристократа это место явно не подходит.
+_vampname_... %g4 больше не видно в храме ___mondung_. Для аристократа это место явно не подходит.
    <--->
 Сейчас, когда _vampname_ в подземелье ___mondung_, в %g опять достаточно места.
 
@@ -168,7 +168,7 @@ Message:  1026
 --
 --               %di occurs 2 times.
 --                %g occurs 3 times.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %god occurs 1 time.
 --              %pcf occurs 7 times.
 --              %pcn occurs 2 times.

@@ -122,7 +122,7 @@ Message:  1011
 -- Symbols used in the QRC file:
 --
 --               %cn occurs 1 time.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %jok occurs 3 times.
 --              %oth occurs 7 times.
 --              %pcf occurs 2 times.

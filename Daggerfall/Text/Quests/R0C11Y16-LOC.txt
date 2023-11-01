@@ -113,7 +113,7 @@ Message:  1016
 --
 --                %g occurs 4 times.
 --               %g2 occurs 1 time.
---               %g3 occurs 3 times.
+--               %g4 occurs 3 times.
 --              %pcf occurs 44 times.
 --              %pcn occurs 1 time.
 --              %qdt occurs 2 times.

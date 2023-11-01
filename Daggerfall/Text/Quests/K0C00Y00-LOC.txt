@@ -132,7 +132,7 @@ Message:  1016
 --
 --                %g occurs 1 time.
 --               %g2 occurs 1 time.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %oth occurs 1 time.
 --              %pcf occurs 6 times.
 --              %pcn occurs 2 times.

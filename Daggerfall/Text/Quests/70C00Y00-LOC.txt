@@ -34,7 +34,7 @@ AcceptQuest:  [1002]
 <ce> безобиден; имя его =monster_ и %g
 <ce> спалил много моих последователей. Иди
 <ce> в заброшенный храм, где %g обитает,
-<ce> ___mondung_, и вырви %g3 сердце из
+<ce> ___mondung_, и вырви %g4 сердце из
 <ce> груди. Мой агент, _contact_ будет
 <ce> ожидать тебя в ___contact_.
 <ce> _contact_ будет ждать тебя не более
@@ -108,7 +108,7 @@ Message:  1020
 --
 --               %di occurs 1 time.
 --                %g occurs 4 times.
---               %g3 occurs 4 times.
+--               %g4 occurs 4 times.
 --              %pcf occurs 5 times.
 --              %pcn occurs 2 times.
 --              %pct occurs 5 times.

@@ -7,7 +7,7 @@ QuestorOffer:  [1000]
 <ce> My good %pcf, may I tell you concerning _mage_?
 <ce> I love _mage_, and I hate %g2. %g1 has done
 <ce> great work for the Mages Guild in the past,
-<ce> and therefore should not be abandoned in %g3 hour
+<ce> and therefore should not be abandoned in %g4 hour
 <ce> of need. Nevertheless, some experiments simply
 <ce> cannot be allowed to proceed, regardless of the pretended
 <ce> societal benefit. Will you travel to ___res_
@@ -17,7 +17,7 @@ RefuseQuest:  [1001]
 <ce> What a bother. Are you interested in work, truly?
 
 AcceptQuest:  [1002]
-<ce> Our beloved colleague spends %g3 time in
+<ce> Our beloved colleague spends %g4 time in
 <ce> _res_ of ___res_. I know of the
 <ce> subject matter, but I do not speak it aloud, for I know
 <ce> some will not recover from the shame of having their
@@ -74,19 +74,19 @@ Message:  1015
 <ce> Then %g1 begins sweating and breathing heavily.
 
 Message:  1016
-<ce> _mage_ moans, %g3 footsteps faltering.
+<ce> _mage_ moans, %g4 footsteps faltering.
    <--->
 <ce> _mage_ nearly stumbles. You help %g2
-<ce> regain %g3 footing before continuing.
+<ce> regain %g4 footing before continuing.
    <--->
 <ce> _mage_ spends several seconds in a coughing
 <ce> fit before wearily beginning to move again.
 
 Message:  1017
-<ce> _mage_ speaks with %g3 eyes closed.
+<ce> _mage_ speaks with %g4 eyes closed.
 <ce> You understand very little of it.
    <--->
-<ce> _mage_ speaks with %g3 eyes closed.
+<ce> _mage_ speaks with %g4 eyes closed.
 <ce> The words are merely whispers.
 
 Message:  1018
@@ -95,7 +95,7 @@ Message:  1018
    <--->
 <ce> _mage_ begins shaking uncontrollably.
    <--->
-<ce> _mage_ falls to %g3 feet and vomits profusely.
+<ce> _mage_ falls to %g4 feet and vomits profusely.
 <ce> You help %g2 back up and continue on.
 
 Message:  1020
@@ -154,7 +154,7 @@ Message:  1025
 <ce>
 <ce> Whatever you said, it had the opposite effect.
 <ce> The imp foams with rage, and then turns to _mage_
-<ce> and slashes %g2 severely. In %g3 weakened state,
+<ce> and slashes %g2 severely. In %g4 weakened state,
 <ce> %g1 can't withstand the blow, and tumbles to the floor.
 
 Message:  1026
@@ -179,7 +179,7 @@ Message:  1030
 Message:  1031
 %qdt:
  _mage_ has been transported to
- ___dung_ by %g3 own trickery.
+ ___dung_ by %g4 own trickery.
 
 Message:  1032
 %qdt:

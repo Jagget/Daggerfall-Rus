@@ -174,7 +174,7 @@ Message:  1019
 --
 --                %g occurs 5 times.
 --               %g2 occurs 7 times.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %god occurs 2 times.
 --              %jok occurs 1 time.
 --              %oth occurs 1 time.

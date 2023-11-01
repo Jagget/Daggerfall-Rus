@@ -72,7 +72,7 @@ Message:  1012
 <ce> begin advancing toward your foe.
 <ce> However, as luck would have it, your opponent
 <ce> knows more than rudimentary swordsmanship.
-<ce> Though %g3 wooden sword doesn't cut deeply, it still hurts.
+<ce> Though %g4 wooden sword doesn't cut deeply, it still hurts.
 <ce> You suffer a blow and are ejected from the match.
 <--->
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: LONG BLADE)
@@ -83,7 +83,7 @@ Message:  1012
 <ce> begin advancing toward your foe.
 <ce> However, as luck would have it, your opponent
 <ce> knows more than rudimentary swordsmanship.
-<ce> Though %g3 wooden sword doesn't cut deeply, it still hurts.
+<ce> Though %g4 wooden sword doesn't cut deeply, it still hurts.
 <ce> You suffer a blow and are ejected from the match.
 <--->
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: LONG BLADE)
@@ -94,7 +94,7 @@ Message:  1012
 <ce> begin advancing toward your foe.
 <ce> However, as luck would have it, your opponent
 <ce> knows more than rudimentary swordsmanship.
-<ce> Though %g3 wooden sword doesn't cut deeply, it still hurts.
+<ce> Though %g4 wooden sword doesn't cut deeply, it still hurts.
 <ce> You suffer a blow and are ejected from the match.
 <--->
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: LONG BLADE)
@@ -105,7 +105,7 @@ Message:  1012
 <ce> begin advancing toward your foe.
 <ce> However, as luck would have it, your opponent
 <ce> knows more than rudimentary swordsmanship.
-<ce> Though %g3 wooden sword doesn't cut deeply, it still hurts.
+<ce> Though %g4 wooden sword doesn't cut deeply, it still hurts.
 <ce> You suffer a blow and are ejected from the match.
 <--->
 

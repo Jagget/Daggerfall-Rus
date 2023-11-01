@@ -31,7 +31,7 @@ AcceptQuest:  [1002]
 <ce> Отлично. Нужный мне человек проживает во
 <ce> дворце __palace_. Запиши имя своей жертвы:
 <ce> _enemy_.
-<ce> Убей %g3 и иди в местечко ___contact_,
+<ce> Убей %g4 и иди в местечко ___contact_,
 <ce> где мой слуга _contact_ будет
 <ce> ждать тебя в библиотеке. Думаю информации
 <ce> для тебя достаточно. Не подведи меня в этом
@@ -127,7 +127,7 @@ QuestTimeLapse:  [1045]
 --
 --                %g occurs 4 times.
 --               %g2 occurs 3 times.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %pcf occurs 3 times.
 --              %qdt occurs 1 time.
 --              %reg occurs 2 times.

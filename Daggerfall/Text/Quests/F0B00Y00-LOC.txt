@@ -119,7 +119,7 @@ Message:  1030
 --
 --                %g occurs 5 times.
 --               %g2 occurs 2 times.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %pcf occurs 13 times.
 --              %qdt occurs 1 time.
 --               %ra occurs 2 times.

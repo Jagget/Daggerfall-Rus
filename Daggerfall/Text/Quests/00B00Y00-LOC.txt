@@ -79,7 +79,7 @@ Message:  1031
 
 -- Symbols used in the QRC file:
 --
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %pcf occurs 10 times.
 --              %pcn occurs 1 time.
 --              %qdt occurs 1 time.

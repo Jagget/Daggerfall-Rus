@@ -247,7 +247,7 @@ Message:  1022
 --
 --                %g occurs 7 times.
 --               %g2 occurs 4 times.
---               %g3 occurs 8 times.
+--               %g4 occurs 8 times.
 --              %pcf occurs 3 times.
 --              %pcn occurs 1 time.
 --              %pct occurs 7 times.

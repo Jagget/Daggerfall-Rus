@@ -190,7 +190,7 @@ Message:  1041
 %qdt:
 <ce> Мне удалось найти мага, _wizard_, в
 <ce> подземелье ___dungeon2_. Теперь мне
-<ce> нужно найти дух %g3 великого предка в
+<ce> нужно найти дух %g4 великого предка в
 <ce> склепе ___dungeon3_.
 <ce> Он может рассказать мне, где находится
 <ce> потерянный артефакт великой силы.
@@ -207,7 +207,7 @@ Message:  1042
 
 -- Symbols used in the QRC file:
 --
---               %g3 occurs 5 times.
+--               %g4 occurs 5 times.
 --              %oth occurs 4 times.
 --              %pcf occurs 2 times.
 --              %pcn occurs 7 times.

@@ -62,7 +62,7 @@ Message:  1011
 <ce> while you still stand. And you are free to take from me what my breath imparts."
 <ce>
 <ce> The din of the tavern seems to fade as %g1 asks several direct,
-<ce> probing questions concerning principles of magic. Owing to %g3 distinct
+<ce> probing questions concerning principles of magic. Owing to %g4 distinct
 <ce> schooling, you find yourself approaching the schools of magic
 <ce> from various unexpected directions. New insights seem to jump
 <ce> out at you which should have been obvious. Hours pass, during which

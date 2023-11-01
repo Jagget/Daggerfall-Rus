@@ -162,7 +162,7 @@ Message:  1020
 --              %dat occurs 1 time.
 --                %g occurs 4 times.
 --               %g2 occurs 1 time.
---               %g3 occurs 6 times.
+--               %g4 occurs 6 times.
 --              %oth occurs 4 times.
 --              %pcf occurs 83 times.
 --              %pcn occurs 1 time.

@@ -124,7 +124,7 @@ Message:  1061
 -- Symbols used in the QRC file:
 --
 --                %g occurs 6 times.
---               %g3 occurs 2 times.
+--               %g4 occurs 2 times.
 --              %god occurs 3 times.
 --              %pcf occurs 2 times.
 --              %pct occurs 2 times.

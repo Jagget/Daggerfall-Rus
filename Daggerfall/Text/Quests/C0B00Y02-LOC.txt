@@ -33,7 +33,7 @@ AcceptQuest:  [1002]
 <ce> %g - =child_ из
 <ce> _house_ здесь в __house_,
 <ce> но человек, с которым вам надо поговорить,
-<ce> %g3 опекун, _guardian_
+<ce> %g4 опекун, _guardian_
 <ce> в _tavern_. Если исходить
 <ce> из того, что %g говорит и вы решите,
 <ce> что без экзорцизма не обойтись,
@@ -55,7 +55,7 @@ QuestComplete:  [1004]
 RumorsDuringQuest:  [1005]
 Бедное дитя _child_. И бедный _guardian_ вынужден видеть мучения своего ребенка.
    <--->
-Сердце %cn действительно зависит от _child_ и %g3 страшного кризиса.
+Сердце %cn действительно зависит от _child_ и %g4 страшного кризиса.
 
 RumorsPostfailure:  [1006]
 _child_ и _guardian_ ушли из ___guardian_.
@@ -256,7 +256,7 @@ Message:  1026
 --               %cn occurs 3 times.
 --                %g occurs 19 times.
 --               %g2 occurs 17 times.
---               %g3 occurs 9 times.
+--               %g4 occurs 9 times.
 --              %god occurs 8 times.
 --              %oth occurs 4 times.
 --              %pcf occurs 8 times.

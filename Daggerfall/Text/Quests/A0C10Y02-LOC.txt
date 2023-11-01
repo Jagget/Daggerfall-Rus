@@ -27,7 +27,7 @@ QuestorOffer:  [1000]
 RefuseQuest:  [1001]
 <ce> Какой черный день для меня.
 <ce> Темное Братство убьет _child_.
-<ce> Пусть %g3 призрак будет преследовать
+<ce> Пусть %g4 призрак будет преследовать
 <ce> вас до скончания ваших дней!
 
 AcceptQuest:  [1002]
@@ -65,7 +65,7 @@ RumorsPostsuccess:  [1007]
 
 QuestorPostsuccess:  [1008]
 <ce> Спаситель моего ребенка! Я и _child_
-<ce> благодарим вам за %g3 спасение.
+<ce> благодарим вам за %g4 спасение.
 <ce> Благословляю вас, %pcf.
 
 QuestorPostfailure:  [1009]
@@ -88,8 +88,8 @@ Message:  1012
 <ce> душераздирающую историю похищения его
 <ce> ребенка _child_ Темным Братством.
 <ce> Я немедленно соглашаюсь разыскать и
-<ce> забрать %g3 из _dbguild_ в
-<ce> __dbguild_.  %g3 семья будет ждать
+<ce> забрать %g4 из _dbguild_ в
+<ce> __dbguild_.  %g4 семья будет ждать
 <ce> =timeforq_ дней моего возвращения в
 <ce> __qgiver_ в ___qgiver_.
 
@@ -102,7 +102,7 @@ Message:  1020
 --
 --                %g occurs 3 times.
 --               %g2 occurs 5 times.
---               %g3 occurs 18 times.
+--               %g4 occurs 18 times.
 --              %god occurs 1 time.
 --              %pcf occurs 4 times.
 --              %qdt occurs 1 time.

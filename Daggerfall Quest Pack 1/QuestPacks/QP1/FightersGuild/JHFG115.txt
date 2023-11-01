@@ -40,7 +40,7 @@ Message:  1019
 <ce> to pay for that, I assume. We'll split
 <ce> the items we find on the criminals."
 <ce>
-<ce> The words leave some doubt for %g3 sincerity.
+<ce> The words leave some doubt for %g4 sincerity.
 
 Message:  1020
 <ce> "Well, I'm satisfied. I think we both came out
@@ -61,14 +61,14 @@ Message:  1021
 <ce> this whole deal. Thanks for your help."
 <ce>
 <ce> It appears %g1 is about to leave. If you wanted,
-<ce> you could slay %g2 to get %g3 item.
+<ce> you could slay %g2 to get %g4 item.
 <ce> Will you let %g2 go free?
 
 Message:  1022
 <ce> As %g1 disappears, you know you've at least
 <ce> held on to your honor, to say nothing of the
 <ce> Fighters Guild's reputation. Someone else will
-<ce> have to teach %g2 not to break %g3 word.
+<ce> have to teach %g2 not to break %g4 word.
 
 Message:  1023
 <ce> "Wait, what?"

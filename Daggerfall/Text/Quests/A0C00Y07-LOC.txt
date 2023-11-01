@@ -35,7 +35,7 @@ RumorsDuringQuest:  [1005]
 <ce> принадлежащий _qgiver_ заполонили
 <ce> гигантские жуки!
    <--->
-<ce> Мне очень неудобно перед _qgiver_. %g3
+<ce> Мне очень неудобно перед _qgiver_. %g4
 <ce> _house_ фактически забит гигантскими
 <ce> крысами длинною в 12 футов с ядовитыми
 <ce> зубами. Я слышал они могут превратить
@@ -50,12 +50,12 @@ RumorsPostfailure:  [1006]
 
 RumorsPostsuccess:  [1007]
 <ce> Вы случайно не тот %ra, который
-<ce> помог _qgiver_ вычистить %g3
+<ce> помог _qgiver_ вычистить %g4
 <ce> _house_ от заполонивших его тварей?
    <--->
 <ce> Я слышал, что _qgiver_ щедро заплатил
 <ce> кому-то, кто убил всех тварей,
-<ce> заполонивших %g3 _house_.
+<ce> заполонивших %g4 _house_.
 
 QuestorPostsuccess:  [1008]
 <ce> %pcf, я очень признателен вам за проведенную
@@ -95,7 +95,7 @@ Message:  1012
 -- Symbols used in the QRC file:
 --
 --                %g occurs 3 times.
---               %g3 occurs 5 times.
+--               %g4 occurs 5 times.
 --              %pcf occurs 1 time.
 --              %pcn occurs 2 times.
 --              %qdt occurs 1 time.

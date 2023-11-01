@@ -8,7 +8,7 @@ QuestComplete:   [1004]
 <ce>
 <ce> A spry messenger comes racing toward you.
 <ce>
-<ce> "_merchant_ sends %g3 regards and thanks
+<ce> "_merchant_ sends %g4 regards and thanks
 <ce> you infinitely for your kindness.
 <ce> Have the money %g1 promised."
 

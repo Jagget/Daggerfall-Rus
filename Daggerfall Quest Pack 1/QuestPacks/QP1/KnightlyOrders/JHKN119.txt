@@ -17,7 +17,7 @@ AcceptQuest:  [1002]
 <ce> I knew you would not turn us down. You are to find
 <ce> the priest, a =priest_ named _priest_,
 <ce> in _temple_ here in the city. Together, journey toward
-<ce> ___graveyard_ and allow %g2 to do %g3 work.
+<ce> ___graveyard_ and allow %g2 to do %g4 work.
 <ce> The rite can only happen at night, to have maximum
 <ce> effect upon the hemophiles. Keep _priest_ safe,
 <ce> and whatever spoils you gain from the vampires are yours.
@@ -91,7 +91,7 @@ Message:  1014
 
 Message:  1015
 <ce> "We're almost there! Keep at it!"
-<ce> _priest_ shouts, %g3 body glowing brightly.
+<ce> _priest_ shouts, %g4 body glowing brightly.
 
 Message:  1016
 <ce> You have strayed too far from ___graveyard_,

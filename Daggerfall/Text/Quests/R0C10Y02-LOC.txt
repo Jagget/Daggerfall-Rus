@@ -87,7 +87,7 @@ QuestLogEntry:  [1010]
 <ce> к контактному лицу _contact_ в ___contact_,
 <ce> чтобы доставить слиток золота этому
 <ce> =contact_ в __contact_.
-<ce> Золото должно быть в %g3 руках не позднее
+<ce> Золото должно быть в %g4 руках не позднее
 <ce> =1stparton_ дней, чтобы я получил
 <ce> причитающуюся мне награду.
 
@@ -120,7 +120,7 @@ Message:  1030
 -- Symbols used in the QRC file:
 --
 --                %g occurs 5 times.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %pcf occurs 8 times.
 --              %qdt occurs 2 times.
 --               %ra occurs 8 times.

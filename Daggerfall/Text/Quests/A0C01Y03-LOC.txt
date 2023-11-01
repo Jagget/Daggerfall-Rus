@@ -15,7 +15,7 @@ QuestorOffer:  [1000]
 <ce> мужественного охотника. Я люблю
 <ce> _spouse_. Увы, %g отказала мне,
 <ce> пока я не докажу свою осведомленность, найдя
-<ce> ответ на загадку %g3 наставника _hermit_,
+<ce> ответ на загадку %g4 наставника _hermit_,
 <ce> пропавшего при загадочных обстоятельствах.
 <ce> Вы должны найти его и узнать ответ на
 <ce> эту загадку. По успешном окончании я
@@ -140,7 +140,7 @@ Message:  1017
 --                %g occurs 12 times.
 --               %g2 occurs 8 times.
 --           %g2self occurs 3 times.
---               %g3 occurs 3 times.
+--               %g4 occurs 3 times.
 --              %pcf occurs 1 time.
 --              %pcn occurs 2 times.
 --              %qdt occurs 1 time.

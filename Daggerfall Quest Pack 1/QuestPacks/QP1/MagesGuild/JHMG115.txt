@@ -26,7 +26,7 @@ QuestorOffer:  [1000]
 <ce> Someone must go defend %g2. Is it you?
 
 RefuseQuest:  [1001]
-<ce> Then %g3 life will be on your conscience
+<ce> Then %g4 life will be on your conscience
 <ce> should %g1 not survive the attempt!
 
 AcceptQuest:  [1002]

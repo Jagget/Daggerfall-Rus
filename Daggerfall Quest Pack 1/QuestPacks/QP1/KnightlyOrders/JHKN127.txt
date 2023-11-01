@@ -15,7 +15,7 @@ RefuseQuest:  [1001]
 AcceptQuest:  [1002]
 <ce> "Excellent. Now, it is difficult to tell where
 <ce> the band will strike next. Your task will be to
-<ce> remain with _guide_ and %g3 caravan
+<ce> remain with _guide_ and %g4 caravan
 <ce> until the thieves come out of hiding. Travel to
 <ce> various small settlements, for the reports tell
 <ce> us they tend to shy away from large cities.
@@ -33,7 +33,7 @@ AcceptQuest:  [1002]
    <--->
 <ce> "Excellent. Now, it is difficult to tell where
 <ce> the band will strike next. Your task will be to
-<ce> remain with _guide_ and %g3 caravan
+<ce> remain with _guide_ and %g4 caravan
 <ce> until the thieves come out of hiding. Travel to
 <ce> various small settlements, for the reports tell
 <ce> us they tend to shy away from large cities.

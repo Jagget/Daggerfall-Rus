@@ -66,7 +66,7 @@ Message:  1011
 Message:  1013
 <ce> While you battled these daedra, _person_
 <ce> has most likely run far from ___home_.
-<ce> You wonder whether %g3 account with Oblivion has
+<ce> You wonder whether %g4 account with Oblivion has
 <ce> been settled by now. At least these foes
 <ce> should carry reward enough for you.
 
@@ -79,14 +79,14 @@ Message:  1014
 <ce> "No! Leave me alone! You want the %ra, not me!
 <ce> Someone help, they're taking me--"
 <ce>
-<ce> Then %g3 voice trails away.
+<ce> Then %g4 voice trails away.
 
 Message:  1021
 <ce> A warping effect surrounds _person_,
 <ce> and space itself appears to distort. The effect
 <ce> rapidly builds until it seems as though the air
 <ce> itself is about to hemorrhage magical power.
-<ce> Once %g1 notices %g3 eyes grow wide but
+<ce> Once %g1 notices %g4 eyes grow wide but
 <ce> there is nothing you can do; %g1 is
 <ce> sucked in amid an otherworldly silence.
 

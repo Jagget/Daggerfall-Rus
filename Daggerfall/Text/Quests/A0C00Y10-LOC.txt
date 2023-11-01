@@ -171,7 +171,7 @@ Message:  1027
 --
 --                %g occurs 1 time.
 --               %g2 occurs 55 times.
---               %g3 occurs 4 times.
+--               %g4 occurs 4 times.
 --              %oth occurs 1 time.
 --              %pcn occurs 1 time.
 --              %qdt occurs 1 time.

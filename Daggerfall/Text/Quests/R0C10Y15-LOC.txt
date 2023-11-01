@@ -107,7 +107,7 @@ Message:  1016
 --
 --                %g occurs 3 times.
 --               %g2 occurs 2 times.
---               %g3 occurs 12 times.
+--               %g4 occurs 12 times.
 --              %god occurs 3 times.
 --              %oth occurs 1 time.
 --              %pcf occurs 13 times.

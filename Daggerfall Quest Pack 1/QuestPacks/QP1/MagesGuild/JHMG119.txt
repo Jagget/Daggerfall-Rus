@@ -147,7 +147,7 @@ Message:  1038
 <ce>
 <ce> "Fool! You know nothing of the power I wield!"
 <ce>
-<ce> Casting a spell, %g3 appearance changes radically.
+<ce> Casting a spell, %g4 appearance changes radically.
 
 Message:  1039
 <ce> By slaying _nec_ you have done a great service to

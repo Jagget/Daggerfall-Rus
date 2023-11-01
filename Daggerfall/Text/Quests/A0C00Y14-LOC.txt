@@ -125,7 +125,7 @@ Message:  1019
 <ce> Что вы хотите? _questgiver_?
 <ce> Да, %g обещал прислать некоторое
 <ce> время назад посылку. Если вы
-<ce> найдете %g3, %g заплатит за
+<ce> найдете %g4, %g заплатит за
 <ce> доставку.
 
 Message:  1020
@@ -139,7 +139,7 @@ Message:  1020
 --
 --                %g occurs 10 times.
 --               %g2 occurs 4 times.
---               %g3 occurs 6 times.
+--               %g4 occurs 6 times.
 --              %pcf occurs 4 times.
 --              %qdt occurs 1 time.
 --               %ra occurs 2 times.

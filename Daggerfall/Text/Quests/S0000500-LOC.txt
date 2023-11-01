@@ -44,7 +44,7 @@ Message:  1022
 %qdt:
 <ce> Мне удалось разыскать _traitor_
 <ce> в темнице замка Сентинел и я
-<ce> сопровождаю %g3 в _safehouse_ в
+<ce> сопровождаю %g4 в _safehouse_ в
 <ce> __safehouse_, где мы встретим
 <ce> друзей _traitor_.
 

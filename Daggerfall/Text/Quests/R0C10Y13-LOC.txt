@@ -90,7 +90,7 @@ Message:  1020
 -- Symbols used in the QRC file:
 --
 --                %g occurs 1 time.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %god occurs 1 time.
 --              %oth occurs 1 time.
 --              %pcf occurs 8 times.

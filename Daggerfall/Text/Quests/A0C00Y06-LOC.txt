@@ -36,7 +36,7 @@ QuestLogEntry:  [1010]
  Со мной встретился
 <ce> _qgiver_ в ___qgiver_,
 <ce> который рассказал мне, что
-<ce> %g3 хозяин из __traitor_
+<ce> %g4 хозяин из __traitor_
 <ce> заплатит _gold_ золотых за
 <ce> выполнение непонятной, но
 <ce> может быть весьма опасной
@@ -61,7 +61,7 @@ Message:  1013
 <ce> предал тебя. Не хочу иметь
 <ce> с тобой дело, %pcn.
 <ce> %g ушел в ___traitor_.
-<ce> Ищи %g3 там.
+<ce> Ищи %g4 там.
 
 Message:  1014
 <ce> Не знаю как ты выбрался из
@@ -74,7 +74,7 @@ Message:  1014
 --
 --                %g occurs 1 time.
 --               %g2 occurs 2 times.
---               %g3 occurs 1 time.
+--               %g4 occurs 1 time.
 --              %pcf occurs 1 time.
 --              %pcn occurs 1 time.
 --              %qdt occurs 2 times.

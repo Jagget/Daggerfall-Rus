@@ -47,7 +47,7 @@ QuestFail:  [1003]
 <ce> "One of our members used your position as
 <ce> a reference to scry into ___dung_
 <ce> and see how _npc_ was doing with the _tri_.
-<ce> No one expected to see %g3 dead corpse instead.
+<ce> No one expected to see %g4 dead corpse instead.
 <ce> I'd have you thrown in prison had I time
 <ce> to prove my case. Begone, churl."
 
@@ -89,7 +89,7 @@ Message:  1011
 
 Message:  1012
 <ce> _npc_ halts midstep. Lucidity appears
-<ce> to return to %g3 eyes, and %g1 trembles.
+<ce> to return to %g4 eyes, and %g1 trembles.
 <ce>
 <ce> "Oh, my. Oh, dear. I didn't hurt you, did I? What
 <ce> an awful, awful trap was put on this simple little thing!
