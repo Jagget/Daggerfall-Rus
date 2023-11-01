@@ -126,7 +126,7 @@ Message:  1030
 
 Message:  1040
 =vampleader_,
- 
+
 <ce> Этот треклятый _questgiver_ окончательно
 <ce> заполучил _item_, который %g искал,
 <ce> и отправил своему человеку по имени
@@ -141,7 +141,7 @@ Message:  1040
 <ce> что находится в __vamphouse_.
 <ce>
 <ce> Ваш в смерти,
- 
+
                             _vampire_
 
 
@@ -190,67 +190,67 @@ Foe _vampires_ is Vampire
 Foe _vampleader_ is Ancient_vampire
 
 --	Quest start-up:
-	dialog link for location _vamphouse_ person _vampire_ 
-	start timer _queston_ 
-	log 1010 step 0 
-	get item _item_ 
-	pick one of _yesmap_ _nomap_ _nomap_ _nomap_ 
+	dialog link for location _vamphouse_ person _vampire_
+	start timer _queston_
+	log 1010 step 0
+	get item _item_
+	pick one of _yesmap_ _nomap_ _nomap_ _nomap_
 
 _queston_ task:
-	change repute with _questgiver_ by -20 
-	end quest 
+	change repute with _questgiver_ by -20
+	end quest
 
 _npcclicked_ task:
-	toting _item_ and _contact_ clicked 
-	give pc _reward_ 
-	end quest 
+	toting _item_ and _contact_ clicked
+	give pc _reward_
+	end quest
 
 _vampclicked_ task:
-	toting _item_ and _vampire_ clicked 
-	prompt 1011 yes _thankyou_ no _gimme_ 
+	toting _item_ and _vampire_ clicked
+	prompt 1011 yes _thankyou_ no _gimme_
 
 _thankyou_ task:
-	get item _vampreward_ 
-	get item _vampitem_ 
-	say 1012 
-	make _vampitem_ permanent 
-	make _vampreward_ permanent 
-	change repute with _vampire_ by +10 
+	get item _vampreward_
+	get item _vampitem_
+	say 1012
+	make _vampitem_ permanent
+	make _vampreward_ permanent
+	change repute with _vampire_ by +10
 	end quest
 --eliminates long wait for quest to end. quest is impossible with this choice
 
 _gimme_ task:
-	get item _item_ 
-	say 1013 
-	change repute with _vampire_ by -5 
+	get item _item_
+	say 1013
+	change repute with _vampire_ by -5
 
 _S.07_ task:
-	daily from 05:50 to 17:30 
+	daily from 05:50 to 17:30
 
 _S.08_ task:
-	injured _vampires_ 
+	injured _vampires_
 
 _readmap_ task:
-	reveal kykosCoven in province 11 at 484567 
+	reveal kykosCoven in province 11 at 484567
 
 variable _yesmap_
 variable _nomap_
 _placemap_ task:
-	when _yesmap_ and _S.08_ 
-	_map_ used do _readmap_ 
-	give item _map_ to _vampires_ 
+	when _yesmap_ and _S.08_
+	_map_ used do _readmap_
+	give item _map_ to _vampires_
 
 _S.13_ task:
-	injured _vampleader_ 
-	_note_ used do _readnote_ 
-	give item _note_ to _vampleader_ 
+	injured _vampleader_
+	_note_ used do _readnote_
+	give item _note_ to _vampleader_
 
 _readnote_ task:
-	add dialog for location _vamphouse_ 
-	create npc at _vamphouse_ 
-	place npc _vampire_ at _vamphouse_ 
+	add dialog for location _vamphouse_
+	create npc at _vamphouse_
+	place npc _vampire_ at _vamphouse_
 
 _conhouse_ task:
-	when not _S.07_ and not _thankyou_ 
-	create foe _vampires_ every 10 minutes 8 times with 25% success 
-	create foe _vampleader_ every 20 minutes 1 times with 100% success 
+	when not _S.07_ and not _thankyou_
+	create foe _vampires_ every 10 minutes 8 times with 25% success
+	create foe _vampleader_ every 20 minutes 1 times with 100% success

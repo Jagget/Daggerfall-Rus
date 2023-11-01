@@ -3,7 +3,7 @@ Author: Порберт Литтумли
 IsNaughty: True
 Price: 467
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

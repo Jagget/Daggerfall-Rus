@@ -136,27 +136,27 @@ Clock _1stparton_ 00:00 0 flag 1 range 2 5
 Foe _monster_ is Ancient_vampire
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1020 step 0 
-	place foe _monster_ at _mondung_ 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1020 step 0
+	place foe _monster_ at _mondung_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 -- _2ndparton_ removed as nonexistent task
 _pcgetsgold_ task:
-	when _npcclicked_ and _mondead_ 
-	give pc _artifact_ 
-	end quest 
+	when _npcclicked_ and _mondead_
+	give pc _artifact_
+	end quest
 --removed unnecessary delay
 
 _mondead_ task:
-	killed 1 _monster_ 
-	say 1030 
+	killed 1 _monster_
+	say 1030
 
 _npcclicked_ task:
-	clicked npc _qgfriend_ 
+	clicked npc _qgfriend_
 
 --defining clearclick to prevent out-of-place victory condition
 _clearclick_ task:

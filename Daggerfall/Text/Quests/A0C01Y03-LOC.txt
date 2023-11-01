@@ -177,37 +177,37 @@ Clock _S.01_ 90.00:00
 
 
 --	Quest start-up:
-	dialog link for location _school_ person _teacher_ 
-	dialog link for location _dungeon_ person _hermit_ 
-	start timer _S.01_ 
-	log 1010 step 0 
-	get item _flowers_ 
-	get item _letter_ 
-	create npc _spouse_ 
-	place npc _hermit_ at _dungeon_ 
-	place npc _teacher_ at _school_ 
+	dialog link for location _school_ person _teacher_
+	dialog link for location _dungeon_ person _hermit_
+	start timer _S.01_
+	log 1010 step 0
+	get item _flowers_
+	get item _letter_
+	create npc _spouse_
+	place npc _hermit_ at _dungeon_
+	place npc _teacher_ at _school_
 
 variable _questdone_
 _S.01_ task:
-	end quest 
+	end quest
 
 _S.02_ task:
-	toting _flowers_ and _spouse_ clicked saying 1011 
-	add dialog for location _school_ person _teacher_ 
-	log 1015 step 1 
-	get item _book_ 
+	toting _flowers_ and _spouse_ clicked saying 1011
+	add dialog for location _school_ person _teacher_
+	log 1015 step 1
+	get item _book_
 
 _S.03_ task:
-	toting _book_ and _teacher_ clicked saying 1012 
-	add dialog for person _hermit_ 
-	reveal _dungeon_ 
-	log 1016 step 2 
+	toting _book_ and _teacher_ clicked saying 1012
+	add dialog for person _hermit_
+	reveal _dungeon_
+	log 1016 step 2
 
 _S.04_ task:
-	toting _letter_ and _hermit_ clicked saying 1013 
-	get item _answer_ 
+	toting _letter_ and _hermit_ clicked saying 1013
+	get item _answer_
 
 _S.05_ task:
-	toting _answer_ and _qgiver_ clicked 
-	give pc _gold_ 
-	end quest 
+	toting _answer_ and _qgiver_ clicked
+	give pc _gold_
+	end quest

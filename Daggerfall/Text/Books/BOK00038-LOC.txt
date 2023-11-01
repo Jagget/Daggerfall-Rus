@@ -3,7 +3,7 @@ Author: Саларт
 IsNaughty: False
 Price: 687
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

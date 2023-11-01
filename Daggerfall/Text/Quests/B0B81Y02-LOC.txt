@@ -249,136 +249,136 @@ Foe _ghost_ is Wraith
 Foe _battlemage_ is Battle_mage
 
 --	Quest start-up:
-	start timer _2dung_ 
-	reveal _dungeon_ 
-	log 1010 step 0 
-	pick one of _ancientlich_ _lich_ _lich_ 
-	pick one of _artifact1_ _artifact2_ _artifact3_ _artifact4_ 
+	start timer _2dung_
+	reveal _dungeon_
+	log 1010 step 0
+	pick one of _ancientlich_ _lich_ _lich_
+	pick one of _artifact1_ _artifact2_ _artifact3_ _artifact4_
 
 variable _2dung_
 _S.01_ task:
-	killed 1 _F.01_ saying 1011 
-	killed 1 _F.00_ saying 1011 
-	_map_ used do _readmap_ 
+	killed 1 _F.01_ saying 1011
+	killed 1 _F.00_ saying 1011
+	_map_ used do _readmap_
 
 _S.02_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _success_ task:
-	when _S.02_ and _S.01_ 
-	give pc nothing 
-	remove log step 0 
+	when _S.02_ and _S.01_
+	give pc nothing
+	remove log step 0
 
 _clearclick_ task:
-	when _S.02_ and not _S.01_ 
-	clear _S.02_ _clearclick_ 
+	when _S.02_ and not _S.01_
+	clear _S.02_ _clearclick_
 
 variable _S.04_
 variable _S.05_
 _ancientlich_ task:
-	give item _map_ to _F.00_ 
-	place foe _F.00_ at _dungeon_ 
+	give item _map_ to _F.00_
+	place foe _F.00_ at _dungeon_
 
 _lich_ task:
-	give item _map_ to _F.01_ 
-	place foe _F.01_ at _dungeon_ 
+	give item _map_ to _F.01_
+	place foe _F.01_ at _dungeon_
 
 _artifact1_ task:
-	place item _I.03_ at _mageguild_ 
+	place item _I.03_ at _mageguild_
 
 _artifact2_ task:
-	place item _I.02_ at _mageguild_ 
+	place item _I.02_ at _mageguild_
 
 _artifact3_ task:
-	place item _I.04_ at _mageguild_ 
+	place item _I.04_ at _mageguild_
 
 _artifact4_ task:
-	place item _I.01_ at _mageguild_ 
+	place item _I.01_ at _mageguild_
 
 _readmap_ task:
-	start timer _S.30_ 
+	start timer _S.30_
 	reveal _dungeon2_ readmap
-	place npc _wizard_ at _dungeon2_ 
+	place npc _wizard_ at _dungeon2_
 
 _S.13_ task:
-	clicked npc _wizard_ 
+	clicked npc _wizard_
 
 _S.14_ task:
-	when _artifact1_ and _S.13_ 
-	prompt 1031 yes yes no _no_ 
+	when _artifact1_ and _S.13_
+	prompt 1031 yes yes no _no_
 
 _S.15_ task:
-	when _artifact2_ and _S.13_ 
-	prompt 1032 yes yes no _no_ 
+	when _artifact2_ and _S.13_
+	prompt 1032 yes yes no _no_
 
 _S.16_ task:
-	when _artifact3_ and _S.13_ 
-	prompt 1033 yes yes no _no_ 
+	when _artifact3_ and _S.13_
+	prompt 1033 yes yes no _no_
 
 _potion_ task:
-	when _artifact4_ and _S.13_ 
-	prompt 1034 yes yes no _no_ 
+	when _artifact4_ and _S.13_
+	prompt 1034 yes yes no _no_
 
 _S.18_ task:
-	clicked item _I.02_ 
-	clicked item _I.03_ 
-	clicked item _I.01_ 
-	clicked item _I.04_ 
+	clicked item _I.02_
+	clicked item _I.03_
+	clicked item _I.01_
+	clicked item _I.04_
 
 _S.19_ task:
-	when _S.13_ and _S.20_ 
-	clear _S.13_ _S.19_ 
+	when _S.13_ and _S.20_
+	clear _S.13_ _S.19_
 
 variable _S.20_
 yes task:
-	pc at _mageguild_ set _S.25_ 
+	pc at _mageguild_ set _S.25_
 	reveal _dungeon3_
-	say 1035 
-	log 1041 step 1 
-	get item _I.06_ 
-	place foe _ghost_ at _dungeon3_ 
+	say 1035
+	log 1041 step 1
+	get item _I.06_
+	place foe _ghost_ at _dungeon3_
 
 _no_ task:
-	say 1030 
+	say 1030
 
 totemReward2 task:
-	killed 1 _ghost_ 
-	have _I.06_ set _S.24_ 
+	killed 1 _ghost_
+	have _I.06_ set _S.24_
 
 _S.24_ task:
-	log 1042 step 2 
-	say 1040 
+	log 1042 step 2
+	say 1040
 
 _S.25_ task:
-	create foe _battlemage_ every 5 minutes 5 times with 50% success 
+	create foe _battlemage_ every 5 minutes 5 times with 50% success
 
 _S.26_ task:
-	when _artifact1_ and _S.18_ 
-	make _I.03_ permanent 
+	when _artifact1_ and _S.18_
+	make _I.03_ permanent
 
 _S.27_ task:
-	when _artifact2_ and _S.18_ 
-	make _I.02_ permanent 
+	when _artifact2_ and _S.18_
+	make _I.02_ permanent
 
 _S.28_ task:
-	when _artifact3_ and _S.18_ 
-	make _I.04_ permanent 
+	when _artifact3_ and _S.18_
+	make _I.04_ permanent
 
 _S.29_ task:
-	when _artifact4_ and _S.18_ 
-	make _I.01_ permanent 
+	when _artifact4_ and _S.18_
+	make _I.01_ permanent
 
 _S.30_ task:
-	end quest 
+	end quest
 
 _questdone_ task:
-	when _2dung_ and not _readmap_ 
-	end quest 
+	when _2dung_ and not _readmap_
+	end quest
 
 _S.32_ task:
-	when _clearclick_ and _2dung_ 
-	say 1028 
+	when _clearclick_ and _2dung_
+	say 1028
 
 _S.33_ task:
-	when _S.26_ or _S.27_ or _S.28_ or _S.29_ 
-	end quest 
+	when _S.26_ or _S.27_ or _S.28_ or _S.29_
+	end quest

@@ -88,7 +88,7 @@ _npc1_,
 <ce> в силах мне дать. Я чувствовала себя грязной, при-
 <ce> нимая твои отвратительные золотые подарки.
 <ce> Никогда больше не появляйся.
- 
+
                        _npc3_
 
 Message:  1012
@@ -100,7 +100,7 @@ Message:  1012
 <ce> чтобы поцеловать меня. %g был высечен и теперь
 <ce> не работает у меня. Прости меня пожалуйста.
 <ce> Я люблю только тебя.
- 
+
                        _npc3_
 
 Message:  1013
@@ -165,7 +165,7 @@ Message:  1021
                   _npc2_
 
 Message:  1022
-<ce> Тебя поймали, и ты это знаешь. 
+<ce> Тебя поймали, и ты это знаешь.
 <ce> Убирайся с глаз моих, %ra.
 
 Message:  1030
@@ -222,17 +222,17 @@ Foe _knight_ is Knight
 Foe _monk_ is Monk
 
 --	Quest start-up:
-	place item _treasure_ at _inn_ 
-	start timer _traveltime_ 
-	log 1010 step 0 
-	pick one of _letter1_ _letter2_ _letter3_ _letter4_ 
-	pc at _inn_ set _S.00_ saying 1013 
+	place item _treasure_ at _inn_
+	start timer _traveltime_
+	log 1010 step 0
+	pick one of _letter1_ _letter2_ _letter3_ _letter4_
+	pc at _inn_ set _S.00_ saying 1013
 
 variable _S.00_
 _questdone_ task:
-	when _S.02_ and _S.03_ and not _traveltime_ and not _S.04_ 
-	give pc _gold_ 
-	end quest 
+	when _S.02_ and _S.03_ and not _traveltime_ and not _S.04_
+	give pc _gold_
+	end quest
 
 _badend_ task:
 	when _S.02_ and _S.04_
@@ -241,66 +241,66 @@ _badend_ task:
 --added badend task and msg 1022. Previously if the PC grabbed the treasure and completed the quest, the questgiver would ignore entirely.
 
 _S.02_ task:
-	toting _letter6_ and _qgiver_ clicked 
-	toting _letter4a_ and _qgiver_ clicked 
-	toting _letter3a_ and _qgiver_ clicked 
-	toting _letter5_ and _qgiver_ clicked 
+	toting _letter6_ and _qgiver_ clicked
+	toting _letter4a_ and _qgiver_ clicked
+	toting _letter3a_ and _qgiver_ clicked
+	toting _letter5_ and _qgiver_ clicked
 
 _S.03_ task:
-	dropped _falseletter3_ at _inn_ saying 1015 
-	dropped _falseletter1_ at _inn_ saying 1015 
-	dropped _falseletter4_ at _inn_ saying 1015 
-	dropped _falseletter2_ at _inn_ saying 1015 
+	dropped _falseletter3_ at _inn_ saying 1015
+	dropped _falseletter1_ at _inn_ saying 1015
+	dropped _falseletter4_ at _inn_ saying 1015
+	dropped _falseletter2_ at _inn_ saying 1015
     clear _S.15_
 
 _S.04_ task:
-	clicked item _treasure_ 
-	pick one of _S.11_ _S.12_ _S.13_ _S.14_ 
+	clicked item _treasure_
+	pick one of _S.11_ _S.12_ _S.13_ _S.14_
 
 _traveltime_ task:
-	end quest 
+	end quest
 
 _S.06_ task:
-	injured _spellsword_ 
-	injured _knight_ 
-	injured _monk_ 
-	injured _ranger_ 
-	say 1014 
+	injured _spellsword_
+	injured _knight_
+	injured _monk_
+	injured _ranger_
+	say 1014
 
 _letter1_ task:
-	place item _letter3a_ at _inn_ 
-	get item _falseletter1_ 
+	place item _letter3a_ at _inn_
+	get item _falseletter1_
 
 _letter2_ task:
-	place item _letter4a_ at _inn_ 
-	get item _falseletter2_ 
+	place item _letter4a_ at _inn_
+	get item _falseletter2_
 
 _letter3_ task:
-	place item _letter5_ at _inn_ 
-	get item _falseletter3_ 
+	place item _letter5_ at _inn_
+	get item _falseletter3_
 
 _letter4_ task:
-	place item _letter6_ at _inn_ 
-	get item _falseletter4_ 
+	place item _letter6_ at _inn_
+	get item _falseletter4_
 
 _S.11_ task:
-	create foe _knight_ every 1 minutes 1 times with 100% success 
+	create foe _knight_ every 1 minutes 1 times with 100% success
 
 _S.12_ task:
-	create foe _monk_ every 1 minutes 1 times with 100% success 
+	create foe _monk_ every 1 minutes 1 times with 100% success
 
 _S.13_ task:
-	create foe _spellsword_ every 1 minutes 1 times with 100% success 
+	create foe _spellsword_ every 1 minutes 1 times with 100% success
 
 _S.14_ task:
-	create foe _ranger_ every 1 minutes 1 times with 100% success 
+	create foe _ranger_ every 1 minutes 1 times with 100% success
 --increased spawn rate to 100% in S13 and S14. Doesn't seem to make much sense for the enemy to follow you off to another town and spawn there.
 
 _S.15_ task:
-	clicked item _falseletter4_ 
-	clicked item _falseletter1_ 
-	clicked item _falseletter2_ 
-	clicked item _falseletter3_ 
+	clicked item _falseletter4_
+	clicked item _falseletter1_
+	clicked item _falseletter2_
+	clicked item _falseletter3_
 	clear _S.03_
 
 _qgclicked_ task:

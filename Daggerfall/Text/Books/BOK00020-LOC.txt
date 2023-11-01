@@ -3,7 +3,7 @@ Author: Тидасус
 IsNaughty: False
 Price: 691
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 

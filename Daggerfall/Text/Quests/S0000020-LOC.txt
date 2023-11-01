@@ -121,50 +121,50 @@ Place _Orsinium_ permanent OrsiniumCastle1
 
 
 --	Quest start-up:
-	add _Mynisera_ as questor 
-	add _gortwog_ as questor 
+	add _Mynisera_ as questor
+	add _gortwog_ as questor
 
 _S.00_ task:
-	clicked npc _Mynisera_ 
+	clicked npc _Mynisera_
 
 MorgiahSatisfied _S.01_
 _S.02_ task:
-	when _S.00_ and _S.09_ 
-	prompt QuestorOffer yes yes no _no_ 
+	when _S.00_ and _S.09_
+	prompt QuestorOffer yes yes no _no_
 
 until _S.02_ performed:
-	clear _S.00_ _S.10_ 
+	clear _S.00_ _S.10_
 
 yes task:
-	log 1010 step 0 
-	get item GortwogsLetter 
-	reveal _Orsinium_ in province 26 at 146892 
-	say AcceptQuest 
+	log 1010 step 0
+	get item GortwogsLetter
+	reveal _Orsinium_ in province 26 at 146892
+	say AcceptQuest
 
 _no_ task:
-	say RefuseQuest 
+	say RefuseQuest
 
 _S.05_ task:
-	toting GortwogsLetter and _gortwog_ clicked 
+	toting GortwogsLetter and _gortwog_ clicked
 	place item EmperorsLetter at _Orsinium_ marker 0
-	say 1015 
+	say 1015
 
 _S.06_ task:
-	toting EmperorsLetter and _Mynisera_ clicked 
-	start quest 988 988 
-	start task _S.07_ 
-	say 1030 
-	change repute with _Mynisera_ by +15 
-	change repute with _gortwog_ by +10 
-	drop _gortwog_ as questor 
-	drop _Mynisera_ as questor 
-	end quest 
+	toting EmperorsLetter and _Mynisera_ clicked
+	start quest 988 988
+	start task _S.07_
+	say 1030
+	change repute with _Mynisera_ by +15
+	change repute with _gortwog_ by +10
+	drop _gortwog_ as questor
+	drop _Mynisera_ as questor
+	end quest
 
 MyniseraSatisfied _S.07_
 BarenziahSatisfied _S.08_
 _S.09_ task:
-	when _S.08_ or _S.01_ 
+	when _S.08_ or _S.01_
 
 _S.10_ task:
-	when _S.00_ and not _S.09_ 
-	say 1040 
+	when _S.00_ and not _S.09_
+	say 1040

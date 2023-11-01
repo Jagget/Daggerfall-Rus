@@ -175,30 +175,30 @@ Clock _end_ 00:00
 
 
 --	Quest start-up:
-	place item _ingredient_ at _dungeon_ 
-	start timer _traveltime_ 
-	reveal _dungeon_ 
-	log 1010 step 0 
-	pick one of _map_ _nomap_ _nomap_ 
+	place item _ingredient_ at _dungeon_
+	start timer _traveltime_
+	reveal _dungeon_
+	log 1010 step 0
+	pick one of _map_ _nomap_ _nomap_
 
 _traveltime_ task:
-	end quest 
+	end quest
 
 _giveingredient_ task:
-	toting _ingredient_ and _qgiver_ clicked 
-	give pc nothing 
+	toting _ingredient_ and _qgiver_ clicked
+	give pc nothing
                 start timer _end_
 
 _end_ task:
-	end quest 
+	end quest
 
 _dummymage_ task:
-	clicked item _ingredient_ 
-	say 1040 
+	clicked item _ingredient_
+	say 1040
 
 variable _map_
 variable _nomap_
 _S.05_ task:
-	when _map_ and _giveingredient_ 
+	when _map_ and _giveingredient_
 	reveal _newdung_ readmap
     say 1080 

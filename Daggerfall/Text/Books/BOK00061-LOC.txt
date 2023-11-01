@@ -3,7 +3,7 @@ Author: Одива Голлвуд
 IsNaughty: False
 Price: 358
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

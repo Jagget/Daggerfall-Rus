@@ -128,7 +128,7 @@ Message:  1051
 Message:  1060
 <ce> Даэдра =daedra_ окончательно
 <ce> изгнана обратно в план Обливиона.
-   
+
 
 
 -- Symbols used in the QRC file:
@@ -163,20 +163,20 @@ Foe _daedra_ is Frost_daedra
 Foe _firedaedra_ is Fire_daedra
 
 --	Quest start-up:
-	start timer _queston_ 
-	reveal _mondung_ 
-	log 1010 step 0 
-	get item _spellScroll_ 
-	place foe _daedra_ at _mondung_ 
+	start timer _queston_
+	reveal _mondung_
+	log 1010 step 0
+	get item _spellScroll_
+	place foe _daedra_ at _mondung_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _reward_ task:
-	when _qgclicked_ and _S.10_ and not _S.06_ 
-	give pc _book_ 
-	unset _qgclicked_ 
-	end quest 
+	when _qgclicked_ and _S.10_ and not _S.06_
+	give pc _book_
+	unset _qgclicked_
+	end quest
 
 _out_ task:
 	remove foe _daedra_
@@ -184,36 +184,36 @@ _out_ task:
 
 variable _S.03_
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _S.05_ task:
-	take _spellScroll_ from pc 
-	--changed "place item spellScroll at aide" to this "take from pc" action. 
+	take _spellScroll_ from pc
+	--changed "place item spellScroll at aide" to this "take from pc" action.
 	say 1050
 	--"say 1050" transferred from middle of "until _S.07_ performed," had faulty placing and this is a better ordering
 	create foe _firedaedra_ every 1 minutes 1 times with 100% success
-	say 1051 
+	say 1051
 	--transferred "msg 1051" from previous line to this one, not known to be a valid argument
 
 _S.06_ task:
-	killed 1 _daedra_ 
+	killed 1 _daedra_
 
 _S.07_ task:
-	injured _daedra_ 
-	_spellScroll_ used do _S.08_ 
+	injured _daedra_
+	_spellScroll_ used do _S.08_
 
 until _S.07_ performed:
-	_spellScroll_ used do _S.05_ 
+	_spellScroll_ used do _S.05_
 	
 _S.08_ task:
-	cast Banish_Daedra spell do _out_ 
-	restrain foe _daedra_ 
+	cast Banish_Daedra spell do _out_
+	restrain foe _daedra_
 
 _S.09_ task:
-	when _qgclicked_ and _S.06_ 
-	say 1040 
-	end quest 
+	when _qgclicked_ and _S.06_
+	say 1040
+	end quest
 
 _S.10_ task:
-	when _out_ and not _S.06_ 
-	say 1060 
+	when _out_ and not _S.06_
+	say 1060

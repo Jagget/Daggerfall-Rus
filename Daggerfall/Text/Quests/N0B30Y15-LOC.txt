@@ -107,55 +107,55 @@ Clock _S.09_ 00:04
 Foe _imp_ is Imp
 
 --	Quest start-up:
-	start timer _traveltime_ 
-	log 1010 step 0 
-	pc at _palace_ set _S.01_ 
-	place foe _imp_ at _palace_ 
-	create npc at _palace_ 
+	start timer _traveltime_
+	log 1010 step 0
+	pc at _palace_ set _S.01_
+	place foe _imp_ at _palace_
+	create npc at _palace_
 
 _traveltime_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	start timer _S.02_ 
-	cast Spell_Shield spell on _imp_ 
-	cast Troll's_Blood spell on _imp_ 
-	cast Shield spell on _imp_ 
-	cast Shield spell on _imp_ 
-	cast Invisibility spell on _imp_ 
+	start timer _S.02_
+	cast Spell_Shield spell on _imp_
+	cast Troll's_Blood spell on _imp_
+	cast Shield spell on _imp_
+	cast Shield spell on _imp_
+	cast Invisibility spell on _imp_
 
 _S.02_ task:
-	start timer _Gothryd_ 
-	cast Shield spell on _imp_ 
-	cast Troll's_Blood spell on _imp_ 
-	cast Spell_Shield spell on _imp_ 
-	cast Invisibility spell on _imp_ 
+	start timer _Gothryd_
+	cast Shield spell on _imp_
+	cast Troll's_Blood spell on _imp_
+	cast Spell_Shield spell on _imp_
+	cast Invisibility spell on _imp_
 
 _S.03_ task:
-	killed 1 _imp_ 
+	killed 1 _imp_
 
 _S.04_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _clearclick_ task:
-	when _S.04_ and not _S.03_ 
-	clear _S.04_ _clearclick_ 
+	when _S.04_ and not _S.03_
+	clear _S.04_ _clearclick_
 
 _S.06_ task:
-	when _S.04_ and _S.03_ 
-	give pc _gold_ 
-	end quest 
+	when _S.04_ and _S.03_
+	give pc _gold_
+	end quest
 
 _Gothryd_ task:
-	start timer _S.08_ 
-	cast Invisibility spell on _imp_ 
-	cast Spell_Shield spell on _imp_ 
-	cast Troll's_Blood spell on _imp_ 
+	start timer _S.08_
+	cast Invisibility spell on _imp_
+	cast Spell_Shield spell on _imp_
+	cast Troll's_Blood spell on _imp_
 
 _S.08_ task:
-	cast Spell_Shield spell on _imp_ 
-	cast Troll's_Blood spell on _imp_ 
-	cast Shield spell on _imp_ 
-	cast Invisibility spell on _imp_ 
+	cast Spell_Shield spell on _imp_
+	cast Troll's_Blood spell on _imp_
+	cast Shield spell on _imp_
+	cast Invisibility spell on _imp_
 
 variable _S.09_

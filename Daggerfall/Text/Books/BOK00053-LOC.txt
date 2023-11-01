@@ -3,7 +3,7 @@ Author: Мориан Зенас
 IsNaughty: False
 Price: 559
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

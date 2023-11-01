@@ -106,20 +106,20 @@ Clock _traveltime_ 00:00 0 flag 17 range 0 2
 
 
 --	Quest start-up:
-	place item _ingredient_ at _dungeon_ 
-	start timer _traveltime_ 
-	reveal _dungeon_ 
-	log 1010 step 0 
+	place item _ingredient_ at _dungeon_
+	start timer _traveltime_
+	reveal _dungeon_
+	log 1010 step 0
 
 _traveltime_ task:
-	end quest 
+	end quest
 
 _questdone_ task:
-	toting _ingredient_ and _qgiver_ clicked 
-	give pc _gold_ 
-	end quest 
+	toting _ingredient_ and _qgiver_ clicked
+	give pc _gold_
+	end quest
 
 _S.02_ task:
 	clicked item _ingredient_
-	say 1011 
+	say 1011
 	--illegal argument

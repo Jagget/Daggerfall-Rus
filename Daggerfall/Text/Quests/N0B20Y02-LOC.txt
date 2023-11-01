@@ -88,7 +88,7 @@ QuestorPostfailure:  [1009]
 <ce> Ничего хорошего в этом не вижу.
 
 QuestLogEntry:  [1010]
-%qdt: 
+%qdt:
  Меня уговорили
 <ce> защищать мага _sleepingmage_ в
 <ce> _magesguild_, пока он
@@ -163,61 +163,61 @@ Foe _F.03_ is Knight
 Foe _F.04_ is Battle_mage
 
 --	Quest start-up:
-	start timer _oneday_ 
-	start timer _S.12_ 
-	log 1010 step 0 
-	create npc at _magesguild_ 
-	place npc _sleepingmage_ at _magesguild_ 
+	start timer _oneday_
+	start timer _S.12_
+	log 1010 step 0
+	create npc at _magesguild_
+	place npc _sleepingmage_ at _magesguild_
 
 variable _oneday_
 _S.01_ task:
-	create foe _F.00_ every 55 minutes 1 times with 100% success 
+	create foe _F.00_ every 55 minutes 1 times with 100% success
 
 _S.02_ task:
-	injured _F.00_ saying 1011 
+	injured _F.00_ saying 1011
 
 _S.03_ task:
-	killed 3 _F.00_ 
+	killed 3 _F.00_
 
 _S.04_ task:
-	clicked npc _sleepingmage_ say 1012 
-	hide npc _sleepingmage_ 
-	change repute with _sleepingmage_ by -10 
-	cast Spell_Shield spell on _mage_ 
-	cast Spell_Absorption spell on _mage_ 
-	place foe _mage_ at _magesguild_ 
+	clicked npc _sleepingmage_ say 1012
+	hide npc _sleepingmage_
+	change repute with _sleepingmage_ by -10
+	cast Spell_Shield spell on _mage_
+	cast Spell_Absorption spell on _mage_
+	place foe _mage_ at _magesguild_
 
 _S.05_ task:
-	when not _S.12_ and not _S.04_ 
+	when not _S.12_ and not _S.04_
 
 _questdone_ task:
-	when _S.03_ and _S.12_ and not _S.04_ 
-	give pc _magicitem_ 
-	end quest 
+	when _S.03_ and _S.12_ and not _S.04_
+	give pc _magicitem_
+	end quest
 
 _S.07_ task:
-	killed 1 _mage_ 
-	create foe _F.03_ every 30 minutes 10 times with 10% success 
-	create foe _F.04_ every 2 minutes 5 times with 50% success 
-	create foe _F.02_ every 25 minutes 10 times with 10% success 
-	start timer _S.09_ 
-	change repute with _sleepingmage_ by -50 
+	killed 1 _mage_
+	create foe _F.03_ every 30 minutes 10 times with 10% success
+	create foe _F.04_ every 2 minutes 5 times with 50% success
+	create foe _F.02_ every 25 minutes 10 times with 10% success
+	start timer _S.09_
+	change repute with _sleepingmage_ by -50
 
 _S.08_ task:
-	injured _mage_ saying 1013 
+	injured _mage_ saying 1013
 
 variable _S.09_
 _S.10_ task:
-	injured _F.02_ saying 1014 
-	injured _F.03_ saying 1014 
-	injured _F.04_ saying 1030 
+	injured _F.02_ saying 1014
+	injured _F.03_ saying 1014
+	injured _F.04_ saying 1030
 
 _talisman_ task:
-	when _S.07_ and _S.09_ 
-	end quest 
+	when _S.07_ and _S.09_
+	end quest
 
 _S.12_ task:
-	hide npc _sleepingmage_ 
+	hide npc _sleepingmage_
 
 until _S.12_ performed:
-	pc at _magesguild_ set _S.01_ 
+	pc at _magesguild_ set _S.01_

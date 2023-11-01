@@ -100,21 +100,21 @@ Foe _thief_ is Thief
 Foe _spellsword_ is Spellsword
 
 --	Quest start-up:
-	create foe _thief_ every 12 minutes 2 times with 5% success 
-	create foe _spellsword_ every 12 minutes 2 times with 5% success 
-	start timer _traveltime_ 
-	log 1010 step 0 
-	get item _religitem_ 
+	create foe _thief_ every 12 minutes 2 times with 5% success
+	create foe _spellsword_ every 12 minutes 2 times with 5% success
+	start timer _traveltime_
+	log 1010 step 0
+	get item _religitem_
 
 _traveltime_ task:
-	change repute with _qgiver_ by -5 
-	end quest 
+	change repute with _qgiver_ by -5
+	end quest
 
 _questdone_ task:
-	toting _religitem_ and _priest_ clicked 
-	give pc nothing 
-	end quest 
+	toting _religitem_ and _priest_ clicked
+	give pc nothing
+	end quest
 
 _S.02_ task:
-	injured _spellsword_ saying 1011 
+	injured _spellsword_ saying 1011
 	injured _thief_ saying 1011 

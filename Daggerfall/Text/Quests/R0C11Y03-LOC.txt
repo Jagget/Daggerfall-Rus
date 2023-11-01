@@ -162,38 +162,38 @@ Clock _2ndparton_ 00:00 0 flag 1 range 2 5
 Foe _daedra_ is Daedroth
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	log 1015 step 0 
+	start timer _1stparton_
+	log 1015 step 0
 	get item _item_
 
 variable _1stparton_
 _2ndparton_ task:
-	change repute with _questgiver_ by -30 
-	end quest 
+	change repute with _questgiver_ by -30
+	end quest
 
 _pcgetsgold_ task:
-	when _S.06_ and _npcclicked_ 
-	give pc _reward_ 
-	end quest 
+	when _S.06_ and _npcclicked_
+	give pc _reward_
+	end quest
 
 _npcclicked_ task:
-	toting _item_ and _chemist_ clicked 
-	start timer _2ndparton_ 
-	say 1010 
-	change repute with _dummydaedra_ by -20 
+	toting _item_ and _chemist_ clicked
+	start timer _2ndparton_
+	say 1010
+	change repute with _dummydaedra_ by -20
 
 until _npcclicked_ performed:
-	create foe _daedra_ every 5 minutes 10 times with 33% success 
+	create foe _daedra_ every 5 minutes 10 times with 33% success
 
 variable _qgclicked_
 _queston_ task:
-	when _1stparton_ and not _npcclicked_ 
-	make _item_ permanent 
-	change repute with _questgiver_ by -30 
-	end quest 
+	when _1stparton_ and not _npcclicked_
+	make _item_ permanent
+	change repute with _questgiver_ by -30
+	end quest
 
 _S.06_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _S.07_ task:
-	injured _daedra_ saying 1020 
+	injured _daedra_ saying 1020

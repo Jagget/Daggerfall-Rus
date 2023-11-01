@@ -91,11 +91,11 @@ Message:  1014
 
 Message:  1020
                        %qdt
- 
+
  Dear %pcn,
- 
+
  Дорогой друг %pcn,
- 
+
     Или мне называть вас "=wereboar_", как вас
  называют местные, запирающиеся по ночам на все
  замки в страхе перед вами? Да, я знаю кто вы и
@@ -275,10 +275,10 @@ Message:  1060
 
 Message:  1061
 Похоже на страницу, вырванную из книги:
- 
+
  "...прославились возможностью возвращать к жизни
  мертвых, поскольку за Конклавом не замечено ничего
- такого, о чем не говорили бы легенды и анекдоты. 
+ такого, о чем не говорили бы легенды и анекдоты.
    Существование Гленморильского ковена своими
  корнями уходит глубоко в историю. В действительности
  этот ковен такой древний, что его истинное происхож-
@@ -293,7 +293,7 @@ Message:  1061
  обладает возможностью исцелить ликантропию.
  Полное собрание этих легенд можно найти в библиотеке
  в ___mapdung_.
- 
+
    Илиакский залив также является домом для..."
 
 
@@ -349,102 +349,102 @@ Foe _F.00_ is Knight
 Foe _wereboar_ is Wereboar
 
 --	Quest start-up:
-	place item _map_ at _mapdung_ 
-	place item map2 at _hintdung_ 
-	dialog link for location glenmorilCoven person _hunter_ 
-	dialog link for location _mapdung_ person _priest_ 
-	dialog link for person _local_ 
-	dialog link for location _hintdung_ person _alchemist_ 
-	dialog link for person _father_ 
-	dialog link for person _child_ 
-	_letter_ used do _readletter_ 
-	_map_ used do _S.10_ 
-	map2 used do _S.16_ 
-	have _letter_ set _S.09_ 
-	give pc _letter_ notify 1045 
-	create npc at _childhouse_ 
-	place npc _child_ at _childhouse_ 
+	place item _map_ at _mapdung_
+	place item map2 at _hintdung_
+	dialog link for location glenmorilCoven person _hunter_
+	dialog link for location _mapdung_ person _priest_
+	dialog link for person _local_
+	dialog link for location _hintdung_ person _alchemist_
+	dialog link for person _father_
+	dialog link for person _child_
+	_letter_ used do _readletter_
+	_map_ used do _S.10_
+	map2 used do _S.16_
+	have _letter_ set _S.09_
+	give pc _letter_ notify 1045
+	create npc at _childhouse_
+	place npc _child_ at _childhouse_
 
 _S.00_ task:
-	clicked npc _priest_ 
-	prompt 1030 yes _S.03_ no _S.04_ 
-	say 1021 
+	clicked npc _priest_
+	prompt 1030 yes _S.03_ no _S.04_
+	say 1021
 
 _readletter_ task:
-	add dialog for person _hunter_ 
-	add dialog for person _priest_ 
-	log 1050 step 0 
+	add dialog for person _hunter_
+	add dialog for person _priest_
+	log 1050 step 0
 
 variable _S.02_
 _S.03_ task:
-	add dialog for person _father_ 
-	add dialog for person _alchemist_ 
-	log 1051 step 1 
-	say 1022 
+	add dialog for person _father_
+	add dialog for person _alchemist_
+	log 1051 step 1
+	say 1022
 
 _S.04_ task:
-	reveal _hintdung_ 
-	log 1052 step 1 
-	say 1023 
+	reveal _hintdung_
+	log 1052 step 1
+	say 1023
 
 _S.05_ task:
-	make _map_ permanent 
-	end quest 
+	make _map_ permanent
+	end quest
 
 _huntstart_ task:
-	start timer _S.05_ 
+	start timer _S.05_
 
 _S.07_ task:
-	injured _F.00_ saying 1040 
+	injured _F.00_ saying 1040
 
 _S.08_ task:
-	toting _blood_ and _child_ clicked 
-	prompt 1028 yes _S.14_ no _S.15_ 
-	say 1027 
+	toting _blood_ and _child_ clicked
+	prompt 1028 yes _S.14_ no _S.15_
+	say 1027
 
 _S.09_ task:
-	start timer _huntstart_ 
+	start timer _huntstart_
 
 _S.10_ task:
-	reveal glenmorilCoven in province 60 at 81312 
+	reveal glenmorilCoven in province 60 at 81312
 
 _npc_ task:
-	clicked _alchemist_ and at least 1000 gold otherwise do _S.12_ 
-	get item _blood_ 
-	say 1024 
+	clicked _alchemist_ and at least 1000 gold otherwise do _S.12_
+	get item _blood_
+	say 1024
 
 _S.12_ task:
-	say 1025 
-	clear _S.12_ _npc_ 
+	say 1025
+	clear _S.12_ _npc_
 
 _S.13_ task:
-	clicked npc _local_ 
-	add dialog for person _child_ 
-	log 1054 step 2 
-	say 1026 
+	clicked npc _local_
+	add dialog for person _child_
+	log 1054 step 2
+	say 1026
 
 _S.14_ task:
-	give pc nothing 
-	hide npc _child_ 
-	cure lycanthropy 
-	legal repute -10 
-	place foe _wereboar_ at _childhouse_ 
+	give pc nothing
+	hide npc _child_
+	cure lycanthropy
+	legal repute -10
+	place foe _wereboar_ at _childhouse_
 
 _S.15_ task:
-	get item _blood_ 
+	get item _blood_
 
 _S.16_ task:
-	reveal _mapdung_ 
-	log 1053 step 2 
+	reveal _mapdung_
+	log 1053 step 2
 
 _S.17_ task:
-	killed 1 _wereboar_ 
-	legal repute -20 
+	killed 1 _wereboar_
+	legal repute -20
 
 _S.18_ task:
-	when _huntstart_ 
-	create foe _F.00_ every 79 minutes 30 times with 20% success 
+	when _huntstart_
+	create foe _F.00_ every 79 minutes 30 times with 20% success
 
 _S.19_ task:
-	when _S.14_ 
-	clear _S.18_ 
+	when _S.14_
+	clear _S.18_

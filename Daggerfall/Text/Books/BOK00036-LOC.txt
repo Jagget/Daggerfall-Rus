@@ -3,7 +3,7 @@ Author: Варнард Карассен
 IsNaughty: False
 Price: 419
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

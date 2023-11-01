@@ -47,8 +47,8 @@ Error: Questtext 1009 Called
 QuestLogEntry:  [1010]
                    __vamp_
                     ___vamp_
- 
- 
+
+
 <ce> %pcn,
 <ce>
 <ce> Вы нужны роду %vam.
@@ -56,7 +56,7 @@ QuestLogEntry:  [1010]
 <ce>
 <ce>
 <ce> Ваш друг в Смерти,
- 
+
                   _vamp_
 
 Message:  1011
@@ -77,7 +77,7 @@ Message:  1011
 
 Message:  1012
 %qdt:
-<ce> Мне принесли письмо из 
+<ce> Мне принесли письмо из
 <ce> города ___vamp_ от семьи
 <ce> %vam. _vamp_ ожидает
 <ce> моего срочного прибытия в
@@ -111,7 +111,7 @@ Message:  1021
 <ce> семье %vam, что =wereboar_
 <ce> отправил вас назад, потому как
 <ce> вы не можете играть честно.
- 
+
 
 -- Symbols used in the QRC file:
 --
@@ -139,51 +139,51 @@ Foe _F.00_ is Werewolf
 Foe _wereboar_ is Wereboar
 
 --	Quest start-up:
-	dialog link for person _vamp_ 
-	pc at _mondung_ set _S.07_ 
-	_letter_ used do _readletter_ 
-	have _letter_ set _S.09_ 
-	give pc _letter_ notify 1017 
-	place foe _wereboar_ at _mondung_ 
+	dialog link for person _vamp_
+	pc at _mondung_ set _S.07_
+	_letter_ used do _readletter_
+	have _letter_ set _S.09_
+	give pc _letter_ notify 1017
+	place foe _wereboar_ at _mondung_
 
 _queston_ task:
-	change repute with _vamp_ by -5 
-	end quest 
+	change repute with _vamp_ by -5
+	end quest
 
 _vampclicked_ task:
-	clicked npc _vamp_ 
+	clicked npc _vamp_
 
 _S.06_ task:
-	when _vampclicked_ 
-	reveal _mondung_ 
-	log 1013 step 1 
-	say 1011 
+	when _vampclicked_
+	reveal _mondung_
+	log 1013 step 1
+	say 1011
 
 _nononono_ task:
-	when _vampclicked_ and not _S.04_ 
-	clear _vampclicked_ _nononono_ 
+	when _vampclicked_ and not _S.04_
+	clear _vampclicked_ _nononono_
 
 _reward_ task:
-	toting _I.01_ and _vamp_ clicked 
-	give pc _I.01_ 
-	end quest 
+	toting _I.01_ and _vamp_ clicked
+	give pc _I.01_
+	end quest
 
 _S.04_ task:
-	killed 1 _wereboar_ 
-	say 1020 
+	killed 1 _wereboar_
+	say 1020
 
 _readletter_ task:
-	add dialog for person _vamp_ 
-	log 1012 step 0 
-	create npc _vamp_ 
+	add dialog for person _vamp_
+	log 1012 step 0
+	create npc _vamp_
 
 _S.07_ task:
-	create foe _F.00_ every 12 minutes 30 times with 50% success 
+	create foe _F.00_ every 12 minutes 30 times with 50% success
 
 _S.08_ task:
-	injured _wereboar_ 
-	give item _I.01_ to _wereboar_ 
-	say 1021 
+	injured _wereboar_
+	give item _I.01_ to _wereboar_
+	say 1021
 
 _S.09_ task:
-	start timer _queston_ 
+	start timer _queston_

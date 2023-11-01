@@ -192,25 +192,25 @@ Clock _traveltime_ 00:00 0 flag 17 range 0 2
 Foe _atronach_ is Ice_atronach
 
 --	Quest start-up:
-	place item _ingredient_ at _dungeon_ 
-	start timer _traveltime_ 
-	reveal _dungeon_ 
-	log 1010 step 0 
+	place item _ingredient_ at _dungeon_
+	start timer _traveltime_
+	reveal _dungeon_
+	log 1010 step 0
 
 _traveltime_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	toting _ingredient_ and _questgiver_ clicked 
-	give pc nothing 
-	end quest 
+	toting _ingredient_ and _questgiver_ clicked
+	give pc nothing
+	end quest
 
 _S.02_ task:
-	clicked item _ingredient_ 
-	_ingredient_ used do _S.03_ 
+	clicked item _ingredient_
+	_ingredient_ used do _S.03_
 	--moved "saying 1045" from used do, not a valid argument, to S.03.
-	say 1040 
+	say 1040
 
 _S.03_ task:
 	say 1045
-	create foe _atronach_ every 1 minutes 1 times with 100% success 
+	create foe _atronach_ every 1 minutes 1 times with 100% success

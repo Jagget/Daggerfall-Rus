@@ -239,7 +239,7 @@ maxf: 70
 	enemy: 3
 	face: -1
 	race: -1
-	flat: 175 8 
+	flat: 175 8
 	sgroup: 6
 	ggroup: 2
 	minf: 25
@@ -874,8 +874,8 @@ power: 45
 flags: 129
 face: -1
 race: -1
-flat: 181 4 
-flat: 181 4 
+flat: 181 4
+flat: 181 4
 sgroup: 6
 ggroup: -1
 minf: 50
@@ -892,8 +892,8 @@ maxf: 90
 	flags: 0
 	face: -1
 	race: -1
-	flat: 181 4 
-	flat: 181 4 
+	flat: 181 4
+	flat: 181 4
 	sgroup: 7
 	ggroup: 17
 	minf: 5
@@ -1734,7 +1734,7 @@ maxf: 70
 		ally: 364
 		face: 22
 		race: 3
-		flat:  334 1 
+		flat:  334 1
 		sgroup: 2
 		ggroup: -1
 		minf: 5
@@ -1971,7 +1971,7 @@ maxf: 70
 		face: -1
 		race: -1
 		flat: 177 1
-		flat: 182 50	    
+		flat: 182 50	
 		sgroup: 2
 		ggroup: 10
 		minf: 10
@@ -2390,7 +2390,7 @@ maxf: 90
 		flags: 0
 		face: 28
 		race: 3
-		flat: 182 39 
+		flat: 182 39
 		sgroup: 4
 		ggroup: -1
 		minf: 50
@@ -2680,7 +2680,7 @@ maxf: 60
 	face: -1
 	race: -1
 	flat: 182 23
-	flat: 182 27  
+	flat: 182 27
 	sgroup: 7
 	ggroup: 17
 	minf: 5

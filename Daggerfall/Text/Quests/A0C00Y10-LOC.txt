@@ -193,41 +193,41 @@ Clock _S.02_ 01:00
 Foe _F.00_ is Spellsword
 
 --	Quest start-up:
-	start timer _S.01_ 
-	start timer _S.02_ 
-	start timer _S.00_ 
-	prompt 1025 yes _S.03_ no _S.05_ 
-	pc at _inn_ set _S.08_ 
+	start timer _S.01_
+	start timer _S.02_
+	start timer _S.00_
+	prompt 1025 yes _S.03_ no _S.05_
+	pc at _inn_ set _S.08_
 
 _S.00_ task:
-	place foe _F.00_ at _inn_ 
+	place foe _F.00_ at _inn_
 
 _S.01_ task:
-	end quest 
+	end quest
 
 _S.02_ task:
-	hide npc _giver_ 
+	hide npc _giver_
 
 _S.03_ task:
-	prompt 1016 yes _S.04_ no _S.05_ 
+	prompt 1016 yes _S.04_ no _S.05_
 
 _S.04_ task:
-	log 1003 step 0 
-	say 1018 
+	log 1003 step 0
+	say 1018
 
 --moved "saying ###" to its own line as "say". Should not be an argument to end quest.
 _S.05_ task:
     say 1027
-	end quest 
+	end quest
 
 _S.06_ task:
-	injured _F.00_ saying 1019 
+	injured _F.00_ saying 1019
 
 _S.07_ task:
-	killed 1 _F.00_ 
-	give pc nothing 
+	killed 1 _F.00_
+	give pc nothing
 
 variable _S.08_
 _S.09_ task:
-	when not _S.08_ and _S.07_ 
-	end quest 
+	when not _S.08_ and _S.07_
+	end quest

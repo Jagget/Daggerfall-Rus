@@ -18,7 +18,7 @@ QuestorOffer:  [1000]
 <ce> Все, что нужно - принести кое-что
 <ce> нашему представителю в городе
 <ce> ___contact_, взять у н%g4 плату
-<ce> и вернуться назад. "Кое-что" - 
+<ce> и вернуться назад. "Кое-что" -
 <ce> это  _weapons_. Справишься?
 
 RefuseQuest:  [1001]
@@ -154,25 +154,25 @@ Foe _F.01_ is 2 Thief
 Foe _F.02_ is Spellsword
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	log 1030 step 0 
-	get item _weapons_ 
+	start timer _1stparton_
+	log 1030 step 0
+	get item _weapons_
 
 variable _pcgetsgold_
 _qgclicked_ task:
-	toting _gems_ and _questgiver_ clicked 
-	give pc _reward_ 
-	end quest 
+	toting _gems_ and _questgiver_ clicked
+	give pc _reward_
+	end quest
 
 _npcclicked_ task:
-	toting _weapons_ and _contact_ clicked 
-	get item _gems_ 
-	say 1010 
+	toting _weapons_ and _contact_ clicked
+	get item _gems_
+	say 1010
 
 until _npcclicked_ performed:
-	create foe _guards_ every 150 minutes 4 times with 5% success 
-	create foe _F.02_ every 179 minutes 4 times with 5% success 
-	create foe _F.01_ every 163 minutes 4 times with 5% success 
+	create foe _guards_ every 150 minutes 4 times with 5% success
+	create foe _F.02_ every 179 minutes 4 times with 5% success
+	create foe _F.01_ every 163 minutes 4 times with 5% success
 
 _qgtalk_ task:
 	clicked npc _questgiver_
@@ -184,36 +184,36 @@ _clearclick_ task:
 --added _qgtalk_ and _clearclick_
 
 _1stparton_ task:
-	make _weapons_ permanent 
-	make _gems_ permanent 
-	have _weapons_ set _S.11_ 
-	have _gems_ set _keptgems_ 
-	end quest 
+	make _weapons_ permanent
+	make _gems_ permanent
+	have _weapons_ set _S.11_
+	have _gems_ set _keptgems_
+	end quest
 
 variable _pchasitem1_
 variable _pchasitem2_
 _S.06_ task:
-	injured _F.01_ 
-	prompt 1022 yes _yes_ no _no_ 
+	injured _F.01_
+	prompt 1022 yes _yes_ no _no_
 
 _yes_ task:
-	take _weapons_ from pc saying 1023 
-	change repute with _questgiver_ by -20 
-	restrain foe _guards_ 
-	restrain foe _F.02_ 
-	restrain foe _F.01_ 
+	take _weapons_ from pc saying 1023
+	change repute with _questgiver_ by -20
+	restrain foe _guards_
+	restrain foe _F.02_
+	restrain foe _F.01_
 
 variable _no_
 _S.09_ task:
-	injured _F.02_ 
-	prompt 1021 yes _yes_ no _no_ 
+	injured _F.02_
+	prompt 1021 yes _yes_ no _no_
 
 _greklith_ task:
-	injured _guards_ 
-	prompt 1020 yes _yes_ no _no_ 
+	injured _guards_
+	prompt 1020 yes _yes_ no _no_
 
 _S.11_ task:
-	change repute with _questgiver_ by -10 
+	change repute with _questgiver_ by -10
 
 _keptgems_ task:
-	change repute with _questgiver_ by -20 
+	change repute with _questgiver_ by -20

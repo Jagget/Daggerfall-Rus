@@ -97,31 +97,31 @@ Foe _ghost_ is Ghost
 Foe _wraith_ is Wraith
 
 --	Quest start-up:
-	start timer _2dung_ 
-	reveal _dungeon_ 
-	log 1010 step 0 
-	pick one of _S.04_ _S.05_ 
+	start timer _2dung_
+	reveal _dungeon_
+	log 1010 step 0
+	pick one of _S.04_ _S.05_
 
 _2dung_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	killed 1 _wraith_ saying 1011 
-	killed 1 _ghost_ saying 1011 
+	killed 1 _wraith_ saying 1011
+	killed 1 _ghost_ saying 1011
 
 _S.02_ task:
-	clicked npc _qgiver_ 
-	give pc nothing 
-	change repute with _local_ by +4 
-	change repute with _nobleman_ by +10 
-	end quest 
+	clicked npc _qgiver_
+	give pc nothing
+	change repute with _local_ by +4
+	change repute with _nobleman_ by +10
+	end quest
 
 _clearclick_ task:
-	when _S.02_ and not _S.01_ 
-	clear _S.02_ _clearclick_ 
+	when _S.02_ and not _S.01_
+	clear _S.02_ _clearclick_
 
 _S.04_ task:
-	place foe _wraith_ at _dungeon_ 
+	place foe _wraith_ at _dungeon_
 
 _S.05_ task:
-	place foe _ghost_ at _dungeon_ 
+	place foe _ghost_ at _dungeon_

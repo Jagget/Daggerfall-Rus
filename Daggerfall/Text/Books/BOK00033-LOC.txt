@@ -3,7 +3,7 @@ Author: Тет-и
 IsNaughty: False
 Price: 379
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

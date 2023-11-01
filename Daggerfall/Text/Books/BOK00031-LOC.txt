@@ -3,7 +3,7 @@ Author: Стронах
 IsNaughty: False
 Price: 352
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

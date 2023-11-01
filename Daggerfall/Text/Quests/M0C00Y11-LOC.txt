@@ -94,26 +94,26 @@ Clock _2dung_ 1.00:00 0 flag 1 range 0 1
 Foe _monster_ is Giant_scorpion
 
 --	Quest start-up:
-	start timer _2dung_ 
-	reveal _house_ 
-	log 1010 step 0 
-	place foe _monster_ at _house_ 
-	create npc at _house_ 
+	start timer _2dung_
+	reveal _house_
+	log 1010 step 0
+	place foe _monster_ at _house_
+	create npc at _house_
 
 _2dung_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	killed 1 _monster_ saying 1011 
+	killed 1 _monster_ saying 1011
 
 _S.02_ task:
-	when _qgclicked_ and _S.01_ 
-	give pc nothing 
-	end quest 
+	when _qgclicked_ and _S.01_
+	give pc nothing
+	end quest
 
 _qgclicked_ task:
                clicked npc _qgiver_
 
 _clearclick_ task:
-	when _qgclicked_ and not _S.01_ 
-	clear _qgclicked_ _clearclick_ 
+	when _qgclicked_ and not _S.01_
+	clear _qgclicked_ _clearclick_

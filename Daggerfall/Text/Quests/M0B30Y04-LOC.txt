@@ -40,7 +40,7 @@ AcceptQuest:  [1002]
 <ce> этого срока. Удачи! Тебе она понадобится...
 
 QuestFail:  [1003]
-<ce> Что, %pcf, небольшой отдых не 
+<ce> Что, %pcf, небольшой отдых не
 <ce> повредит перед охотой на лича?
 <ce> Только не медли слишком долго.
 
@@ -122,42 +122,42 @@ Clock _1stparton_ 00:00 0 flag 17 range 0 2
 Foe _monster_ is Lich
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1030 step 0 
-	pick one of _map_ _nomap_ _nomap_ _map_ 
-	place foe _monster_ at _mondung_ 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1030 step 0
+	pick one of _map_ _nomap_ _nomap_ _map_
+	place foe _monster_ at _mondung_
 
 _pcgetsgold_ task:
-	when _qgclicked_ and _mondead_ 
-	give pc _reward_ 
+	when _qgclicked_ and _mondead_
+	give pc _reward_
 
 _S.01_ task:
-	injured _monster_ 
-	say 1020 
+	injured _monster_
+	say 1020
 
 _mondead_ task:
-	killed 1 _monster_ 
+	killed 1 _monster_
 
 _qgclicked_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 _clearclick_ task:
 	when _qgclicked_ and not _mondead_
-	say 1003 
-	clear _qgclicked_ _clearclick_ 
+	say 1003
+	clear _qgclicked_ _clearclick_
 
 variable _map_
 variable _nomap_
 _S.07_ task:
-	when _map_ and _pcgetsgold_ 
+	when _map_ and _pcgetsgold_
 	reveal _newdung_ readmap
-    say 1080 
+    say 1080
 	end quest
 
 _S.08_ task:
-	when _nomap_ and _pcgetsgold_ 
+	when _nomap_ and _pcgetsgold_
 	end quest

@@ -58,7 +58,7 @@ QuestComplete:  [1004]
 <ce> по сравнению с Лизандусом. Ну и конечно же моя
 <ce> собственная семья...впрочем достаточно этих
 <ce> дворцовых сплетен.
-<ce> 
+<ce>
 <ce> Если вы действительно хотите найти это письмо,
 <ce> советую пообщаться с Минисерой, прежней королевой
 <ce> Даггерфолла и матерью королевой Готрида. Я бы
@@ -90,21 +90,21 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 _necs_,
-<ce> 
+<ce>
 <ce> Я согласна на ваши условия. Я дам вам
 <ce> моего первенца, а вы окажете свое влияние
 <ce> на короля Фестхольда на острове Сомерсет.
 <ce> Только вы можете поговорить с его умершим
 <ce> сыном. За это он даже будет готов жениться
 <ce> на Нульфаге!
-<ce> 
+<ce>
 <ce> -- М
 
 Message:  1011
 Принцесса,
-<ce> 
+<ce>
  Выполнено.
-<ce> 
+<ce>
 <ce> -- _necs_
 
 Message:  1012
@@ -174,58 +174,58 @@ Clock _S.01_ 7.00:00 14.00:00
 Clock _letterdelay_ 1.00:00
 
 --	Quest start-up:
-	prompt QuestorOffer yes yes no _no_ 
+	prompt QuestorOffer yes yes no _no_
 
 _2ndgo_ task:
-	drop _morgiah_ as questor 
-	end quest 
+	drop _morgiah_ as questor
+	end quest
 
 _S.01_ task:
-	repute with _morgiah_ exceeds 10 do _S.07_ 
-	rumor mill 1013 
+	repute with _morgiah_ exceeds 10 do _S.07_
+	rumor mill 1013
 
 _S.07_ task:
-	have engagement set _S.10_ 
-	give pc engagement notify 1015 
+	have engagement set _S.10_
+	give pc engagement notify 1015
 
 _S.02_ task:
-	toting letter13 and _morgiah_ clicked 
-	give pc _reward_ 
-	start timer _S.01_ 
-	stop timer _2ndgo_ 
-	remove log step 0 
-	start task _S.08_ 
-	change repute with _morgiah_ by +10 
-	drop _morgiah_ as questor 
+	toting letter13 and _morgiah_ clicked
+	give pc _reward_
+	start timer _S.01_
+	stop timer _2ndgo_
+	remove log step 0
+	start task _S.08_
+	change repute with _morgiah_ by +10
+	drop _morgiah_ as questor
 
 _S.03_ task:
-	toting letter44 and _necs_ clicked saying 1016 
-	get item letter13 
-	change repute with _necs_ by +10 
+	toting letter44 and _necs_ clicked saying 1016
+	get item letter13
+	change repute with _necs_ by +10
 
 variable _S.04_
 yes task:
-	start timer _2ndgo_ 
-	log 1012 step 0 
-	get item letter44 
-	reveal _scourgbarrow_ in province 1 at 450958 
-	say AcceptQuest 
-	add _morgiah_ as questor 
+	start timer _2ndgo_
+	log 1012 step 0
+	get item letter44
+	reveal _scourgbarrow_ in province 1 at 450958
+	say AcceptQuest
+	add _morgiah_ as questor
 
 _no_ task:
-	say RefuseQuest 
-	end quest 
+	say RefuseQuest
+	end quest
 
 MorgiahSatisfied _S.08_
 _S.09_ task:
 	when _S.01_ and not _S.07_
-	start quest 21 21 
-	end quest 
+	start quest 21 21
+	end quest
 
 _S.10_ task:
 	start timer _letterdelay_
 --adding 24-hour delay to allow to read letter. this is a very common bug report
 
 _letterdelay_ task:
-	start quest 21 21 
-	end quest 
+	start quest 21 21
+	end quest

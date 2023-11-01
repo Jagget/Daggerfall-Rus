@@ -97,7 +97,7 @@ Message:  1012
 Message:  1015
 %qdt:
  _questgiver_ из
-<ce> ___questgiver_ нанял меня 
+<ce> ___questgiver_ нанял меня
 <ce> от имени, _qgfriend_ из
 <ce> ___qgfriend_, чтобы убить монстра,
 <ce> известного только, как =giant_, который
@@ -155,51 +155,51 @@ Foe _mage_ is Battle_mage
 Foe _giant_ is Giant
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1015 step 0 
-	pick one of _S.06_ _S.07_ _orsinium_ _S.09_ 
-	say 1021 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1015 step 0
+	pick one of _S.06_ _S.07_ _orsinium_ _S.09_
+	say 1021
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 _pcgetsgold_ task:
-	when _npcclicked_ and _mondead_ 
-	give pc _reward_ 
-	end quest 
+	when _npcclicked_ and _mondead_
+	give pc _reward_
+	end quest
 
 variable _queston_
 _mondead_ task:
-	killed 1 _giant_ 
-	killed 1 _wereboar_ 
-	killed 1 _vampire_ 
-	killed 1 _mage_ 
-	say 1012 
-	create npc _qgfriend_ 
+	killed 1 _giant_
+	killed 1 _wereboar_
+	killed 1 _vampire_
+	killed 1 _mage_
+	say 1012
+	create npc _qgfriend_
 
 _npcclicked_ task:
-	clicked npc _qgfriend_ 
+	clicked npc _qgfriend_
 
 _clearclick_ task:
-	when _npcclicked_ and not _mondead_ 
-	clear _npcclicked_ _clearclick_ 
+	when _npcclicked_ and not _mondead_
+	clear _npcclicked_ _clearclick_
 
 _S.06_ task:
-	place foe _giant_ at _mondung_ 
+	place foe _giant_ at _mondung_
 
 _S.07_ task:
-	place foe _mage_ at _mondung_ 
+	place foe _mage_ at _mondung_
 
 _orsinium_ task:
-	place foe _wereboar_ at _mondung_ 
+	place foe _wereboar_ at _mondung_
 
 _S.09_ task:
-	place foe _vampire_ at _mondung_ 
+	place foe _vampire_ at _mondung_
 
 _S.10_ task:
-	injured _wereboar_ 
-	injured _vampire_ 
-	injured _mage_ 
-	injured _giant_ 
-	say 1030 
+	injured _wereboar_
+	injured _vampire_
+	injured _mage_
+	injured _giant_
+	say 1030

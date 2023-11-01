@@ -159,47 +159,47 @@ Foe _monster1_ is Mummy
 Foe _monster2_ is Zombie
 
 --	Quest start-up:
-	start timer _S.00_ 
-	pc at _direni1_ set _S.10_ 
+	start timer _S.00_
+	pc at _direni1_ set _S.10_
 
 _S.00_ task:
-	pc at _tavern_ set _S.05_ 
-	_letter_ used do _readletter_ 
-	place item _item_ at _direni2_ 
-	start timer _S.03_ 
-	give pc _letter_ notify 1070 
-	place npc _rebel_ at _direni1_ 
+	pc at _tavern_ set _S.05_
+	_letter_ used do _readletter_
+	place item _item_ at _direni2_
+	start timer _S.03_
+	give pc _letter_ notify 1070
+	place npc _rebel_ at _direni1_
 
 _S.01_ task:
-	injured _atronach_ 
-	start timer _towertime_ 
-	log 1021 step 1 
-	reveal _direni1_ in province 9 at 204718 
-	say 1032 
-	remove foe _atronach_ 
+	injured _atronach_
+	start timer _towertime_
+	log 1021 step 1
+	reveal _direni1_ in province 9 at 204718
+	say 1032
+	remove foe _atronach_
 	--replaced "place foe at remote dungeon" with "remove foe." Always cleaner implementation.
 
 _readletter_ task:
-	log 1020 step 0 
+	log 1020 step 0
 
 variable _S.03_
 _S.04_ task:
-	clicked npc _rebel_ 
+	clicked npc _rebel_
 
 _S.05_ task:
-	say 1031 
-	restrain foe _atronach_ 
-	place foe _atronach_ at _tavern_ 
+	say 1031
+	restrain foe _atronach_
+	place foe _atronach_ at _tavern_
 
 _S.06_ task:
-	clicked item _item_ 
-	place foe _guardian_ at _direni2_ 
+	clicked item _item_
+	place foe _guardian_ at _direni2_
 
 _S.07_ task:
-	when _S.04_ and not _S.06_ 
-	hide npc _rebel_ 
-	say 1041 
-	add _rebel_ face 
+	when _S.04_ and not _S.06_
+	hide npc _rebel_
+	say 1041
+	add _rebel_ face
 	start task _accompany_
 
 variable _accompany_
@@ -207,58 +207,58 @@ variable _accompany_
 --as a permanent countermeasure.
 
 _S.08_ task:
-	toting _item_ and _rebel_ clicked 
+	toting _item_ and _rebel_ clicked
 	hide npc _rebel_
-	say 1040 
-	give pc _reward_ 
+	say 1040
+	give pc _reward_
 	start task _goout_
 
 _outgoing_ task:
-	start quest 503 503 
-	end quest 
+	start quest 503 503
+	end quest
 --moved sequel quest to here from "atronach injured" above.
 --DFU considered the Baltham Greyman from 502 to also be the
 --one from 503, mixing the quests together. 503 will now only
 --start when 502 is successfully finished.
 
 _S.09_ task:
-	when _S.06_ and _accompany_ 
---	place item _item_ at aide 
-	start timer _S.18_ 
+	when _S.06_ and _accompany_
+--	place item _item_ at aide
+	start timer _S.18_
 	say 1042
---action to move item to hidden dungeon is obsolete in DFU. 
+--action to move item to hidden dungeon is obsolete in DFU.
 
 variable _S.10_
 _S.11_ task:
 	when _S.10_ and _accompany_ and not _goout_
-	create foe _monster2_ every 7 minutes 10 times with 20% success 
-	create foe _monster1_ every 5 minutes 10 times with 20% success 
+	create foe _monster2_ every 7 minutes 10 times with 20% success
+	create foe _monster1_ every 5 minutes 10 times with 20% success
 
 _S.12_ task:
-	injured _monster1_ 
-	say 1050 
-	cast Gods'_Fire spell on _monster1_ 
-	unset _S.12_ 
+	injured _monster1_
+	say 1050
+	cast Gods'_Fire spell on _monster1_
+	unset _S.12_
 
 _S.13_ task:
-	injured _monster2_ 
-	say 1051 
-	cast Lightning spell on _monster2_ 
-	unset _S.13_ 
+	injured _monster2_
+	say 1051
+	cast Lightning spell on _monster2_
+	unset _S.13_
 
 _S.14_ task:
-	when _S.03_ and not _S.01_ 
-	end quest 
+	when _S.03_ and not _S.01_
+	end quest
 
 variable _towertime_
 _S.16_ task:
-	when not _S.10_ and _accompany_ 
-	when _towertime_ and _accompany_ 
-	say 1043 
+	when not _S.10_ and _accompany_
+	when _towertime_ and _accompany_
+	say 1043
 
 _S.17_ task:
-	when _S.16_ and _S.09_ 
-	give pc _reward_ 
+	when _S.16_ and _S.09_
+	give pc _reward_
 	start task _goout_
 
 _goout_ task:
@@ -271,7 +271,7 @@ _goout_ task:
 --any time you're victorious and leave the tower, Part 3 should trigger.
 
 _S.18_ task:
-	say 1052 
+	say 1052
 	cast Banish_Daedra spell on _guardian_
 
 _timeup_ task:

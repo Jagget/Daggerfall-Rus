@@ -126,28 +126,28 @@ Clock _1stparton_ 00:00 0 flag 17 range 0 2
 Foe _vamprival_ is Ancient_vampire
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1015 step 0 
-	place foe _vamprival_ at _mondung_ 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1015 step 0
+	place foe _vamprival_ at _mondung_
 
 falseAide0 task:
-	when _vampclicked_ and _S.01_ 
-	give pc _reward_ 
-	end quest 
+	when _vampclicked_ and _S.01_
+	give pc _reward_
+	end quest
 
 _S.01_ task:
-	killed 1 _vamprival_ 
-	say 1020 
+	killed 1 _vamprival_
+	say 1020
 
 _vampclicked_ task:
-	clicked npc _witch_ 
+	clicked npc _witch_
 
 _clearclick_ task:
-	when _vampclicked_ and not _S.01_ 
+	when _vampclicked_ and not _S.01_
 	say 1003
 	clear _vampclicked_ _clearclick_
 	--replaced "until _vampclicked_ performed" action with _clearclick_. this is more flexible, allowing 1003 message.
 
 _1stparton_ task:
-	end quest 
+	end quest

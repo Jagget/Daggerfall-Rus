@@ -3,7 +3,7 @@ Author: Кролл Бомовэл
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

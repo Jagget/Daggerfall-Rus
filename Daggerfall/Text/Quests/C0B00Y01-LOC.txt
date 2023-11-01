@@ -123,7 +123,7 @@ Message:  1011
 Message:  1012
                           __qgiver_
                            ___qgiver_
- 
+
 <ce> %pct %pcn,
 <ce>
 <ce> _priest_ потерпел неудачу в попытке
@@ -135,7 +135,7 @@ Message:  1012
 <ce> либо %g4 тело, после чего должиться мне.
 <ce> Все остальные назначения и расследования
 <ce> получают самый низкий приоритет.
- 
+
 <ce> _qgiver_
 
 Message:  1013
@@ -161,8 +161,8 @@ Message:  1013
 Message:  1014
                    _tavern_
                     __tavern_
- 
- 
+
+
 <ce> Дорогой друг, %pcn,
 <ce>
 <ce>
@@ -173,7 +173,7 @@ Message:  1014
 <ce>
 <ce>
 <ce> Искренне ваш,
- 
+
  _replace_
 
 Message:  1015
@@ -257,7 +257,7 @@ Message:  1021
 <ce> твои органы веревками ради торжества вели-
 <ce> чайшей славы богов вселенной. Мерзкая
 <ce> =lover_, не мучай больше меня.
- 
+
 <ce> _prophet_
 
 Message:  1022
@@ -403,7 +403,7 @@ Message:  1037
 <ce> Найден палец, который, как полагаю, когда-то
 <ce> принадлежал руке _priest_. Очень любопытно,
 <ce> отсечен он был по всем правилам какого-то ритуала.
- 
+
 
 
 -- Symbols used in the QRC file:
@@ -477,123 +477,123 @@ Clock _S.16_ 05:00 11:40
 Foe _fighter_ is Warrior
 
 --	Quest start-up:
-	dialog link for location _prophouse_ person _replace_ item _relartifact_ 
-	dialog link for person _priest_ 
-	dialog link for person _lover_ 
-	dialog link for person _replace_ 
-	dialog link for item _finger_ 
-	start timer _S.04_ 
-	start timer _S.14_ 
-	start timer _queston_ 
-	reveal _mondung_ 
-	log 1010 step 0 
-	_letter9_ used do _readletter_ 
-	create npc _lover_ 
-	place npc _contact_ at _tavern_ 
-	place npc _prophet_ at _prophouse_ 
-	place npc _priest_ at _mondung_ 
+	dialog link for location _prophouse_ person _replace_ item _relartifact_
+	dialog link for person _priest_
+	dialog link for person _lover_
+	dialog link for person _replace_
+	dialog link for item _finger_
+	start timer _S.04_
+	start timer _S.14_
+	start timer _queston_
+	reveal _mondung_
+	log 1010 step 0
+	_letter9_ used do _readletter_
+	create npc _lover_
+	place npc _contact_ at _tavern_
+	place npc _prophet_ at _prophouse_
+	place npc _priest_ at _mondung_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _pcgetsgold_ task:
-	toting _letter9_ and _qgiver_ clicked 
-	toting _finger_ and _qgiver_ clicked 
-	give pc _reward_ 
-	end quest 
+	toting _letter9_ and _qgiver_ clicked
+	toting _finger_ and _qgiver_ clicked
+	give pc _reward_
+	end quest
 
 variable _S.02_
 _S.03_ task:
-	clicked npc _contact_ 
-	add dialog for location _prophouse_ person _lover_ 
-	log 1032 step 1 
-	get item _letter7_ 
-	say 1013 
-	clear _S.06_ 
+	clicked npc _contact_
+	add dialog for location _prophouse_ person _lover_
+	log 1032 step 1
+	get item _letter7_
+	say 1013
+	clear _S.06_
 
 _S.04_ task:
-	start timer _S.06_ 
-	hide npc _contact_ 
-	place npc _replace_ at _tavern_ 
+	start timer _S.06_
+	hide npc _contact_
+	place npc _replace_ at _tavern_
 
 variable _S.05_
 _S.06_ task:
-	give pc _letter8_ notify 1015 
+	give pc _letter8_ notify 1015
 
 _S.07_ task:
-	clicked npc _replace_ 
-	add dialog for person _lover_ item _relartifact_ 
-	log 1034 step 3 
-	get item _relartifact_ 
-	say 1016 
+	clicked npc _replace_
+	add dialog for person _lover_ item _relartifact_
+	log 1034 step 3
+	get item _relartifact_
+	say 1016
 
 _S.08_ task:
-	clicked npc _lover_ 
-	repute with _lover_ exceeds 5 do _S.09_ 
+	clicked npc _lover_
+	repute with _lover_ exceeds 5 do _S.09_
 
 _S.09_ task:
-	get item _letter9_ 
-	say 1019 
+	get item _letter9_
+	say 1019
 
 _S.10_ task:
-	toting _relartifact_ and _lover_ clicked 
+	toting _relartifact_ and _lover_ clicked
 
 _S.11_ task:
-	when _S.10_ and not _S.09_ 
-	get item _letter9_ 
-	say 1020 
-	clear _S.08_ 
+	when _S.10_ and not _S.09_
+	get item _letter9_
+	say 1020
+	clear _S.08_
 
 _S.12_ task:
-	when _S.10_ and _S.09_ 
-	say 1024 
+	when _S.10_ and _S.09_
+	say 1024
 
 _S.13_ task:
-	when _S.08_ and not _S.09_ 
-	say 1018 
+	when _S.08_ and not _S.09_
+	say 1018
 
 _S.14_ task:
-	place item _finger_ at _mondung_ 
-	start timer _S.16_ 
-	hide npc _priest_ 
+	place item _finger_ at _mondung_
+	start timer _S.16_
+	hide npc _priest_
 
 _S.15_ task:
-	clicked npc _priest_ 
-	add dialog for person _lover_ 
-	log 1033 step 2 
-	say 1025 
+	clicked npc _priest_
+	add dialog for person _lover_
+	log 1033 step 2
+	say 1025
 
 _S.16_ task:
 	have _letter_ set _S.16a_
-	give pc _letter_ notify 1015 
+	give pc _letter_ notify 1015
 
 _S.16a_ task:
-	log 1036 step 5 
+	log 1036 step 5
 --this log was getting written too soon
 
 _S.17_ task:
-	clicked item _finger_ 
-	add dialog for item _finger_ 
-	log 1037 step 6 
-	say 1026 
+	clicked item _finger_
+	add dialog for item _finger_
+	log 1037 step 6
+	say 1026
 
 _S.18_ task:
-	clicked npc _prophet_ 
-	say 1029 
+	clicked npc _prophet_
+	say 1029
 
 _S.19_ task:
-	toting _finger_ and _prophet_ clicked 
-	say 1028 
+	toting _finger_ and _prophet_ clicked
+	say 1028
 
 _S.20_ task:
-	toting _letter9_ and _prophet_ clicked 
-	hide npc _prophet_ 
-	say 1030 
-	place foe _fighter_ at _prophouse_ 
+	toting _letter9_ and _prophet_ clicked
+	hide npc _prophet_
+	say 1030
+	place foe _fighter_ at _prophouse_
 
 _S.21_ task:
-	toting _relartifact_ and _prophet_ clicked 
-	say 1031 
+	toting _relartifact_ and _prophet_ clicked
+	say 1031
 
 _readletter_ task:
-	log 1035 step 4 
+	log 1035 step 4

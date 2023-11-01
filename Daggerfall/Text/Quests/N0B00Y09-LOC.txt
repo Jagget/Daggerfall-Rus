@@ -92,9 +92,9 @@ QuestLogEntry:  [1010]
 Message:  1011
                                 __db_
                                  ___db_
- 
- 
- 
+
+
+
 <ce> Почтенный %pcf,
 <ce>
 <ce> Неплохая работа, %pcf. _scholar_
@@ -109,14 +109,14 @@ Message:  1011
 <ce>
 <ce>
 <ce> С уважением,
- 
- 
+
+
                                _db_
 
 Message:  1012
 %pcn,
- 
- 
+
+
 <ce> Не советую становиться врагом Темного Братства.
 <ce> Мы можем оказать помощь нашему другу, но врагов
 <ce> своих жестоко накажем. Когда вы получите бумаги
@@ -124,8 +124,8 @@ Message:  1012
 <ce>
 <ce> Не подведите меня, или гнев Мефалы падет на
 <ce> вашу голову.
- 
- 
+
+
                              _db_
 
 Message:  1013
@@ -287,76 +287,76 @@ Clock _S.05_ 06:40 23:20
 Foe _hunter_ is Orc_shaman
 
 --	Quest start-up:
-	start timer _queston_ 
-	log 1010 step 0 
-	pick one of _letter_ _letter_ _S.04_ _S.04_ 
-	repute with _db_ exceeds 10 do _S.00_ 
-	letter34 used do _S.15_ 
-	letter35 used do _S.16_ 
+	start timer _queston_
+	log 1010 step 0
+	pick one of _letter_ _letter_ _S.04_ _S.04_
+	repute with _db_ exceeds 10 do _S.00_
+	letter34 used do _S.15_
+	letter35 used do _S.16_
 
 _S.00_ task:
-	start timer _S.02_ 
-	clear _letter_ 
+	start timer _S.02_
+	clear _letter_
 
 until _S.00_ performed:
-	dialog link for person _db_ 
+	dialog link for person _db_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _S.02_ task:
-	give pc letter34 notify 1022 
+	give pc letter34 notify 1022
 
 _letter_ task:
-	start timer _S.05_ 
+	start timer _S.05_
 
 variable _S.04_
 _S.05_ task:
-	give pc letter35 notify 1022 
+	give pc letter35 notify 1022
 
 _S.06_ task:
-	clicked npc _scholar_ 
-	get item research1 
-	say 1013 
+	clicked npc _scholar_
+	get item research1
+	say 1013
 
 _S.07_ task:
-	toting research1 and _db_ clicked 
-	prompt 1014 yes _S.08_ no _nononono_ 
+	toting research1 and _db_ clicked
+	prompt 1014 yes _S.08_ no _nononono_
 
 _S.08_ task:
-	pick one of _S.10_ _S.11_ 
-	change repute with _db_ by +10 
+	pick one of _S.10_ _S.11_
+	change repute with _db_ by +10
 
 _nononono_ task:
-	get item research1 
+	get item research1
 
 _S.10_ task:
-	get item research2 
-	get item _dbgold_ 
-	say 1019 
-	make _dbgold_ permanent 
+	get item research2
+	get item _dbgold_
+	say 1019
+	make _dbgold_ permanent
 
 _S.11_ task:
-	get item _dbgold_ 
-	say 1018 
-	make _dbgold_ permanent 
-	end quest 
+	get item _dbgold_
+	say 1018
+	make _dbgold_ permanent
+	end quest
 
 _S.12_ task:
-	toting research1 and _qgiver_ clicked 
+	toting research1 and _qgiver_ clicked
 
 _S.13_ task:
-	toting research2 and _qgiver_ clicked 
+	toting research2 and _qgiver_ clicked
 
 _reward_ task:
-	when _S.12_ or _S.13_ 
-	give pc _gold_ 
-	end quest 
+	when _S.12_ or _S.13_
+	give pc _gold_
+	end quest
 
 _S.15_ task:
-	add dialog for person _db_ 
-	log 1021 step 1 
+	add dialog for person _db_
+	log 1021 step 1
 
 _S.16_ task:
-	add dialog for person _db_ 
-	log 1020 step 1 
+	add dialog for person _db_
+	log 1020 step 1

@@ -28,7 +28,7 @@ AcceptQuest:  [1002]
 <ce> за большие деньги, и спрятал ее
 <ce> особняке  _townhouse_ в городе
 <ce> __townhouse_. Притащи ее сюда
-<ce> и вознаграждение не заставит 
+<ce> и вознаграждение не заставит
 <ce> себя ждать. Получишь за это _gold_
 <ce> золотых. Ну, и чтобы жизнь медом не
 <ce> казалась, у тебя есть на все
@@ -89,7 +89,7 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ посылает меня 
+<ce> _qgiver_ посылает меня
 <ce> украсть картину из особняка _townhouse_
 <ce> в городе __townhouse_.
 <ce> У меня есть =traveltime_ дней, чтобы
@@ -130,34 +130,34 @@ Foe _F.02_ is Spider
 Foe _F.03_ is Sabretooth_tiger
 
 --	Quest start-up:
-	place item _painting_ at _townhouse_ 
-	start timer _traveltime_ 
-	log 1010 step 0 
-	pc at _townhouse_ set _S.01_ 
+	place item _painting_ at _townhouse_
+	start timer _traveltime_
+	log 1010 step 0
+	pc at _townhouse_ set _S.01_
 
 _traveltime_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
 	start task _S.01a_
 
 _S.01a_ task:
-	pick one of _guard1_ _guard2_ _guard3_ _guard4_ 
+	pick one of _guard1_ _guard2_ _guard3_ _guard4_
 --set this apart to a permanent task, previous setup would randomly pick again upon re-entering the house
 
 _questdone_ task:
-	toting _painting_ and _qgiver_ clicked 
-	give pc _gold_ 
-	end quest 
+	toting _painting_ and _qgiver_ clicked
+	give pc _gold_
+	end quest
 
 _guard1_ task:
-	create foe _F.00_ every 4 minutes 1 times with 10% success 
+	create foe _F.00_ every 4 minutes 1 times with 10% success
 
 _guard2_ task:
-	create foe _F.01_ every 4 minutes 1 times with 10% success 
+	create foe _F.01_ every 4 minutes 1 times with 10% success
 
 _guard3_ task:
-	create foe _F.02_ every 4 minutes 1 times with 10% success 
+	create foe _F.02_ every 4 minutes 1 times with 10% success
 
 _guard4_ task:
-	create foe _F.03_ every 4 minutes 1 times with 10% success 
+	create foe _F.03_ every 4 minutes 1 times with 10% success

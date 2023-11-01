@@ -156,55 +156,55 @@ Foe _guard1_ is Barbarian
 Foe _guard2_ is Ranger
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	log 1020 step 0 
-	pc at _palace_ set _S.06_ 
-	place npc _enemy_ at _palace_ 
+	start timer _1stparton_
+	log 1020 step 0
+	pc at _palace_ set _S.06_
+	place npc _enemy_ at _palace_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 variable _2ndparton_
 _pcgetsgold_ task:
-	when _npcclicked_ and _mondead_ 
-	when _S.10_ and _mondead_ 
-	give pc _artifact_ 
-	end quest 
+	when _npcclicked_ and _mondead_
+	when _S.10_ and _mondead_
+	give pc _artifact_
+	end quest
 --removed unnecessary delay
 
 _mondead_ task:
-	killed 1 _monster_ 
-	create foe _guard2_ every 3 minutes 5 times with 50% success 
-	say 1030 
+	killed 1 _monster_
+	create foe _guard2_ every 3 minutes 5 times with 50% success
+	say 1030
 
 _npcclicked_ task:
-	clicked npc _contact_ 
+	clicked npc _contact_
 
 _clearclick_ task:
 	when not _mondead_ and _npcclicked_
-	say 1003 
-	clear _npcclicked_ _clearclick_ 
+	say 1003
+	clear _npcclicked_ _clearclick_
 
 _S.06_ task:
-	hide npc _enemy_ 
-	restrain foe _monster_ 
-	place foe _monster_ at _palace_ 
+	hide npc _enemy_
+	restrain foe _monster_
+	place foe _monster_ at _palace_
 
 _S.07_ task:
-	injured _monster_ 
-	prompt 1035 yes yes no _no_ 
+	injured _monster_
+	prompt 1035 yes yes no _no_
 
 yes task:
-	get item _magic_ 
-	place foe _monster_ at _L.01_ 
+	get item _magic_
+	place foe _monster_ at _L.01_
 
 _no_ task:
-	create foe _guard1_ every 2 minutes 5 times with 35% success 
+	create foe _guard1_ every 2 minutes 5 times with 35% success
 
 _S.10_ task:
-	toting _magic_ and _contact_ clicked 
-	say 1040 
+	toting _magic_ and _contact_ clicked
+	say 1040
 
 _S.11_ task:
-	when _S.10_ and not _mondead_ 
+	when _S.10_ and not _mondead_
 	say 1045 

@@ -252,107 +252,107 @@ Clock _2ransom_ 00:00 0 flag 17 range 1 2
 Foe _thug_ is Rogue
 
 --	Quest start-up:
-	start timer _2ransom_ 
-	start timer _queston_ 
-	log 1010 step 0 
-	get item _gem_ 
-	_map_ used do _S.08_ 
-	place npc _victim_ at _mondung_ 
+	start timer _2ransom_
+	start timer _queston_
+	log 1010 step 0
+	get item _gem_
+	_map_ used do _S.08_
+	place npc _victim_ at _mondung_
 
 _queston_ task:
-	have _gem_ set _S.20_ 
-	end quest 
+	have _gem_ set _S.20_
+	end quest
 
 variable _2ransom_
 _S.02_ task:
-	toting _gem_ and _kidnapper_ clicked 
-	repute with _kidnapper_ exceeds 10 do _S.05_ 
+	toting _gem_ and _kidnapper_ clicked
+	repute with _kidnapper_ exceeds 10 do _S.05_
 
 _S.03_ task:
-	say 1019 
+	say 1019
 
 _S.04_ task:
-	create foe _thug_ every 1 minutes 1 times with 100% success 
-	get item _gem_ 
-	give item _map_ to _thug_ 
-	hide npc _kidnapper_ 
-	say 1013 
+	create foe _thug_ every 1 minutes 1 times with 100% success
+	get item _gem_
+	give item _map_ to _thug_
+	hide npc _kidnapper_
+	say 1013
 
 _S.05_ task:
-	prompt 1012 yes _S.07_ no _S.04_ 
+	prompt 1012 yes _S.07_ no _S.04_
 
 _S.06_ task:
-	when _S.02_ and not _S.05_ 
-	prompt 1011 yes _S.03_ no _S.04_ 
+	when _S.02_ and not _S.05_
+	prompt 1011 yes _S.03_ no _S.04_
 
 _S.07_ task:
-	get item _gem_ 
-	say 1018 
+	get item _gem_
+	say 1018
 
 _S.08_ task:
 	reveal _mondung_
 
 _S.09_ task:
-	clicked npc _victim_ 
-	hide npc _victim_ 
-	say 1014 
-	add _victim_ face 
+	clicked npc _victim_
+	hide npc _victim_
+	say 1014
+	add _victim_ face
 
 _reward_ task:
-	when _S.11_ and _S.09_ 
-	say 1099 
-	change repute with _qgiver_ by +15 
-	change repute with _kidnapper_ by -10 
+	when _S.11_ and _S.09_
+	say 1099
+	change repute with _qgiver_ by +15
+	change repute with _kidnapper_ by -10
 
 _S.11_ task:
-	toting _gem_ and _qgiver_ clicked 
-	clear _qgclicked_ 
+	toting _gem_ and _qgiver_ clicked
+	clear _qgclicked_
 
 _S.12_ task:
-	when _S.11_ and not _S.09_ and not _S.04_ 
-	get item _gem_ 
+	when _S.11_ and not _S.09_ and not _S.04_
+	get item _gem_
 
 _S.13_ task:
-	when _S.11_ and not _S.09_ and _S.04_ 
-	say 1016 
+	when _S.11_ and not _S.09_ and _S.04_
+	say 1016
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
-	have _gem_ set _S.15_ 
+	clicked npc _qgiver_
+	have _gem_ set _S.15_
 
 variable _S.15_
 _S.16_ task:
-	when _qgclicked_ and not _S.15_ and _S.09_ 
-	say 1017 
-	change repute with _qgiver_ by +8 
+	when _qgclicked_ and not _S.15_ and _S.09_
+	say 1017
+	change repute with _qgiver_ by +8
 
 _S.17_ task:
-	when _qgclicked_ and _S.07_ 
-	when _qgclicked_ and _S.03_ 
-	say 1020 
+	when _qgclicked_ and _S.07_
+	when _qgclicked_ and _S.03_
+	say 1020
 
 _S.18_ task:
-	when not _S.15_ or not _S.09_ or not _S.03_ or not _S.07_ 
-	clear _qgclicked_ 
+	when not _S.15_ or not _S.09_ or not _S.03_ or not _S.07_
+	clear _qgclicked_
 
 _S.19_ task:
-	when _queston_ and _S.09_ and not _qgclicked_ 
-	say 1021 
+	when _queston_ and _S.09_ and not _qgclicked_
+	say 1021
 
 _S.20_ task:
-	make _gem_ permanent 
+	make _gem_ permanent
 
 _S.21_ task:
-	when _queston_ and not _S.09_ and not _S.07_ and not _S.17_ 
-	say 1022 
-	change repute with _qgiver_ by -5 
+	when _queston_ and not _S.09_ and not _S.07_ and not _S.17_
+	say 1022
+	change repute with _qgiver_ by -5
 
 _S.22_ task:
-	when not _S.09_ and _S.11_ 
-	get item _gem_ 
-	clear _S.11_ 
+	when not _S.09_ and _S.11_
+	get item _gem_
+	clear _S.11_
 
 _givereward_ task:
-	when _reward_ or _S.16_ or _S.17_ 
-	give pc _gold_ 
-	end quest 
+	when _reward_ or _S.16_ or _S.17_
+	give pc _gold_
+	end quest

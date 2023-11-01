@@ -73,7 +73,7 @@ QuestorPostsuccess:  [1008]
 <ce> Опасность таилась в таком великолепном
 <ce> развлечении. Пошедший за мной однажды,
 <ce> теперь пребывает в невзгодах. А это
-<ce> равносильно руинам! Вечным, вечным и 
+<ce> равносильно руинам! Вечным, вечным и
 <ce> вечным руинам. Ох, дитя мое, ну почему ты
 <ce> не послушался меня. Твои уши, твое красивое
 <ce> и гордое, но смертное лицо, твой рот, твои
@@ -154,39 +154,39 @@ Clock _2shedungent_ 00:00 0 flag 17 range 0 2
 
 
 --	Quest start-up:
-	prompt QuestorOffer yes yes no _no_ 
+	prompt QuestorOffer yes yes no _no_
 
 _2shedungent_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	clicked npc _nulfaga_ 
+	clicked npc _nulfaga_
 
 variable _S.02_
 variable _S.03_
 variable _S.04_
 _S.05_ task:
-	when _S.01_ and not _S.09_ 
-	say QuestorPostsuccess 
-	clear _S.01_ _S.05_ 
+	when _S.01_ and not _S.09_
+	say QuestorPostsuccess
+	clear _S.01_ _S.05_
 
 variable _S.06_
 yes task:
 	place item horn at _huntstart_ marker 1
-	start timer _2shedungent_ 
-	log 1010 step 0 
-	reveal _huntstart_ in province 16 at 50966 
-	say AcceptQuest 
+	start timer _2shedungent_
+	log 1010 step 0
+	reveal _huntstart_ in province 16 at 50966
+	say AcceptQuest
 
 _no_ task:
-	say RefuseQuest 
-	end quest 
+	say RefuseQuest
+	end quest
 
 LiftedCurse _S.09_
 MedoraGotHorn _S.10_
-	toting horn and _medora_ clicked 
-	give pc _magicitem_ 
-	start quest 18 18 
-	change repute with _medora_ by +10 
-	mute npc _medora_ 
-	end quest 
+	toting horn and _medora_ clicked
+	give pc _magicitem_
+	start quest 18 18
+	change repute with _medora_ by +10
+	mute npc _medora_
+	end quest

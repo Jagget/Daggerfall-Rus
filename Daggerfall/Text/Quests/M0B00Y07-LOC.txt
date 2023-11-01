@@ -105,40 +105,40 @@ Foe _monster_ is Sabretooth_tiger
 Foe _bear_ is Grizzley_bear
 
 --	Quest start-up:
-	start timer _2dung_ 
-	log 1010 step 0 
-	pick one of _map_ _nomap_ _nomap_ 
-	pick one of _monster1_ _monster2_ 
-	create npc at _house_ 
+	start timer _2dung_
+	log 1010 step 0
+	pick one of _map_ _nomap_ _nomap_
+	pick one of _monster1_ _monster2_
+	create npc at _house_
 
 _2dung_ task:
-	end quest 
+	end quest
 
 _mondead_ task:
-	killed 1 _monster_ saying 1011 
-	killed 1 _bear_ saying 1012 
+	killed 1 _monster_ saying 1011
+	killed 1 _bear_ saying 1012
 
 _S.02_ task:
-	when _qgclicked_ and _mondead_ 
-	give pc _gold_ 
-	end quest 
+	when _qgclicked_ and _mondead_
+	give pc _gold_
+	end quest
 
 _clearclick_ task:
-	when _qgclicked_ and not _mondead_ 
-	clear _qgclicked_ _clearclick_ 
+	when _qgclicked_ and not _mondead_
+	clear _qgclicked_ _clearclick_
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 variable _map_
 variable _nomap_
 _S.06_ task:
-	when _map_ and _S.02_ 
+	when _map_ and _S.02_
 	reveal _newdung_ readmap
-    say 1080 
+    say 1080
 
 _monster1_ task:
-	place foe _bear_ at _house_ 
+	place foe _bear_ at _house_
 
 _monster2_ task:
-	place foe _monster_ at _house_ 
+	place foe _monster_ at _house_

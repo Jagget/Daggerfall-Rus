@@ -21,7 +21,7 @@ QuestorOffer:  [1000]
 <ce> возрастет. Итак, что ты скажешь?
 
 RefuseQuest:  [1001]
-<ce> Поостерегся бы ты, грязный 
+<ce> Поостерегся бы ты, грязный
 <ce> ублюдочный предатель!
 
 AcceptQuest:  [1002]
@@ -108,18 +108,18 @@ Foe _F.02_ is 3 Archer
 Foe _F.03_ is Gargoyle
 
 --	Quest start-up:
-	place item _jewelry_ at _palace_ 
-	start timer _2palace_ 
-	log 1010 step 0 
-	pc at _palace_ set _S.02_ 
+	place item _jewelry_ at _palace_
+	start timer _2palace_
+	log 1010 step 0
+	pc at _palace_ set _S.02_
 
 _2palace_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	toting _jewelry_ and _qgiver_ clicked 
-	give pc nothing 
-	change repute with _qgiver_ by +5 
+	toting _jewelry_ and _qgiver_ clicked
+	give pc nothing
+	change repute with _qgiver_ by +5
 	end quest
 
 _qgtalk_ task:
@@ -132,12 +132,12 @@ _clearclick_ task:
 --added _qgtalk_ and _clearclick_
 
 _S.02_ task:
-	create foe _F.03_ every 11 minutes 3 times with 15% success 
-	create foe _F.00_ every 10 minutes 10 times with 15% success 
-	create foe _battlemage_ every 12 minutes 5 times with 15% success 
-	create foe _F.02_ every 13 minutes 20 times with 15% success 
+	create foe _F.03_ every 11 minutes 3 times with 15% success
+	create foe _F.00_ every 10 minutes 10 times with 15% success
+	create foe _battlemage_ every 12 minutes 5 times with 15% success
+	create foe _F.02_ every 13 minutes 20 times with 15% success
 
 _S.04_ task:
 	clicked item _jewelry_
                 say 1020
-	say 1015 
+	say 1015

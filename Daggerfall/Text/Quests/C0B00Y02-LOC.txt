@@ -307,128 +307,128 @@ Clock _queston_ 5.00:00 10.00:00 flag 17 range 1 4
 Foe _daedra_ is Daedroth
 
 --	Quest start-up:
-	dialog link for location _house2_ person _hooker_ 
-	start timer _queston_ 
-	log 1010 step 0 
+	dialog link for location _house2_ person _hooker_
+	start timer _queston_
+	log 1010 step 0
 	pick one of _sham_ _real_
-	place npc _child_ at _house_ 
-	place npc _guardian_ at _tavern_ 
+	place npc _child_ at _house_
+	place npc _guardian_ at _tavern_
 	place npc _priest_ at _house3_
-	have _item_ set _haverelic_  
+	have _item_ set _haverelic_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _talkguardian_ task:
-	clicked npc _guardian_ 
+	clicked npc _guardian_
 
 variable _real_
 variable _sham_
 _realtalk_ task:
-	when _talkguardian_ and _real_ 
-	log 1013 step 1 
-	say 1011 
+	when _talkguardian_ and _real_
+	log 1013 step 1
+	say 1011
 
 _shamtalk_ task:
 	when _talkguardian_ and _sham_ and not _revealsham_
-	log 1014 step 2 
-	say 1012 
+	log 1014 step 2
+	say 1012
 
 _clickchild_ task:
-	clicked npc _child_ 
+	clicked npc _child_
 
 _exorcise_ task:
 	when _haverelic_ and _real_ and _clickchild_
-	take _item_ from pc 
-	hide npc _child_ 
-	say 1015 
-	place foe _daedra_ at _house_ 
+	take _item_ from pc
+	hide npc _child_
+	say 1015
+	place foe _daedra_ at _house_
 	clear _talkguardian_
 
 -until _exorcise_ performed:
--	clear _clickpriest_ _qgclicked_ 
+-	clear _clickpriest_ _qgclicked_
 
 _revealsham_ task:
-	when _haverelic_ and _sham_ and _clickchild_ 
+	when _haverelic_ and _sham_ and _clickchild_
 	take _item_ from pc
-	hide npc _child_ 
-	say 1016 
-	place npc _guardian_ at _house2_ 
-	place npc _hooker_ at _tavern_ 
+	hide npc _child_
+	say 1016
+	place npc _guardian_ at _house2_
+	place npc _hooker_ at _tavern_
 	clear _talkguardian_
 
 variable _haverelic_
 _firstclickchild_ task:
-	when _clickchild_ and not _haverelic_ 
-	log 1020 step 3 
-	say 1017 
+	when _clickchild_ and not _haverelic_
+	log 1020 step 3
+	say 1017
 -	clear _clickchild_
 
 _clickpriest_ task:
-	clicked npc _priest_ 
+	clicked npc _priest_
 
 _rebuff_ task:
 	when _clickpriest_ and not _firstclickchild_ and not _rescueitem_ and not _exorcise_ and not _givenitem_
-	say 1018 
+	say 1018
 	clear _clickpriest_
 
 _priestgivesitem_ task:
 	when _clickpriest_ and _firstclickchild_ and not _exorcise_ and not _rescueitem_
-	say 1019 
+	say 1019
 	start task _givenitem_
 -	start task _giverelictask_
 -
 -_giverelictask_ task:
-	get item _item_ 
+	get item _item_
 	clear _clickpriest_
 	clear _clickchild_
 
 variable _givenitem_
 _thanks_ task:
-	when _talkguardian_ and _exorcise_ 
-	say 1021 
+	when _talkguardian_ and _exorcise_
+	say 1021
 
 _hookerconfess_ task:
-	add dialog for location _house2_ 
-	log 1026 step 6 
-	say 1024 
+	add dialog for location _house2_
+	log 1026 step 6
+	say 1024
 
 _toopoor_ task:
-	say 1022 
+	say 1022
 
 _bribe_ task:
-	clicked _hooker_ and at least 50 gold otherwise do _toopoor_ 
-	prompt 1023 yes _hookerconfess_ no _refuseconfess_ 
+	clicked _hooker_ and at least 50 gold otherwise do _toopoor_
+	prompt 1023 yes _hookerconfess_ no _refuseconfess_
 
 _refuseconfess_ task:
-	get item _gold_ 
-	make _gold_ permanent 
+	get item _gold_
+	make _gold_ permanent
 
 _rescueitem_ task:
-	when _talkguardian_ and _revealsham_ 
-	get item _item_ 
-	hide npc _guardian_ 
-	say 1025 
+	when _talkguardian_ and _revealsham_
+	get item _item_
+	hide npc _guardian_
+	say 1025
 
 -until _rescueitem_ performed:
--	clear _itemtopriest_ _itemtoqg_ _talkguardian_ 
+-	clear _itemtopriest_ _itemtoqg_ _talkguardian_
 
 -_itemtoqg_ task:
--	toting _item_ and _qgiver_ clicked 
+-	toting _item_ and _qgiver_ clicked
 
 -_itemtopriest_ task:
--	toting _item_ and _priest_ clicked 
+-	toting _item_ and _priest_ clicked
 
 _victory_ task:
 	when _qgclicked_ and _rescueitem_
-	when _qgclicked_ and _exorcise_ 
+	when _qgclicked_ and _exorcise_
 	when _clickpriest_ and _rescueitem_
 	when _clickpriest_ and _exorcise_
-	give pc _reward_ 
+	give pc _reward_
 	end quest
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _clearclick_ task:
 	when _qgclicked_ and not _rescueitem_ and not _exorcise_

@@ -250,43 +250,43 @@ Clock _S.00_ 30.00:00 0 flag 9 range 0 1
 
 
 --	Quest start-up:
-	place item _letter_ at _givershouse_ 
-	dialog link for location _givershouse_ person _teller_ 
-	dialog link for location _sistershouse_ person _lover_ item _letter_ 
-	dialog link for location _dungeon_ person _sister_ item _gold_ 
-	start timer _S.00_ 
-	log 1003 step 0 
-	clicked npc _giver_ say 1020 
-	place npc _teller_ at _inn_ 
-	place npc _lover_ at _dungeon_ 
+	place item _letter_ at _givershouse_
+	dialog link for location _givershouse_ person _teller_
+	dialog link for location _sistershouse_ person _lover_ item _letter_
+	dialog link for location _dungeon_ person _sister_ item _gold_
+	start timer _S.00_
+	log 1003 step 0
+	clicked npc _giver_ say 1020
+	place npc _teller_ at _inn_
+	place npc _lover_ at _dungeon_
 
 _S.00_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	clicked npc _teller_ say 1017 
-	log 1010 step 1 
+	clicked npc _teller_ say 1017
+	log 1010 step 1
 
 variable _S.02_
 variable _S.03_
 _S.04_ task:
-	toting _letter_ and _giver_ clicked saying 1021 
-	reveal _dungeon_ 
-	log 1018 step 2 
+	toting _letter_ and _giver_ clicked saying 1021
+	reveal _dungeon_
+	log 1018 step 2
 
 _S.05_ task:
-	give pc _magicsword_ 
-	drop _lover_ face 
-	end quest 
+	give pc _magicsword_
+	drop _lover_ face
+	end quest
 
 _S.06_ task:
-	clicked npc _lover_ say 2000 
-	pc at _sistershouse_ set _S.05_ 
-	log 2001 step 3 
-	hide npc _lover_ 
-	add _lover_ face 
+	clicked npc _lover_ say 2000
+	pc at _sistershouse_ set _S.05_
+	log 2001 step 3
+	hide npc _lover_
+	add _lover_ face
 
 _S.07_ task:
-	when _S.00_ and _S.06_ and not _S.05_ 
-	say 2005 
-	drop _lover_ face 
+	when _S.00_ and _S.06_ and not _S.05_
+	say 2005
+	drop _lover_ face

@@ -153,38 +153,38 @@ Foe _werewolf_ is Werewolf
 Foe _wereboar_ is Wereboar
 
 --	Quest start-up:
-	start timer _queston_ 
-	log 1010 step 0 
-	get item _potion_ 
-	_potion_ used do _S.03_ 
-	place npc _mage_ at _mguild_ 
+	start timer _queston_
+	log 1010 step 0
+	get item _potion_
+	_potion_ used do _S.03_
+	place npc _mage_ at _mguild_
 
 _queston_ task:
-	make _potion_ permanent 
-	end quest 
+	make _potion_ permanent
+	end quest
 
 _S.01_ task:
-	daily from 06:40 to 17:20 
+	daily from 06:40 to 17:20
 
 until _S.01_ performed:
-	create foe _werewolf_ every 19 minutes 12 times with 50% success msg 1013 
-	create foe _wereboar_ every 11 minutes 10 times with 40% success msg 1014 
-	create foe _vampire_ every 15 minutes 7 times with 70% success msg 1012 
+	create foe _werewolf_ every 19 minutes 12 times with 50% success msg 1013
+	create foe _wereboar_ every 11 minutes 10 times with 40% success msg 1014
+	create foe _vampire_ every 15 minutes 7 times with 70% success msg 1012
 
 _S.02_ task:
-	toting _potion_ and _mage_ clicked 
+	toting _potion_ and _mage_ clicked
 
 _S.03_ task:
-	say 1015 
-	cure vampirism 
-	cure lycanthropy 
+	say 1015
+	cure vampirism
+	cure lycanthropy
 
 _S.04_ task:
-	when _S.02_ and _S.03_ 
-	say 1017 
-	end quest 
+	when _S.02_ and _S.03_
+	say 1017
+	end quest
 
 _reward_ task:
-	when _S.02_ and not _S.03_ 
-	give pc _gold_ 
-	end quest 
+	when _S.02_ and not _S.03_
+	give pc _gold_
+	end quest

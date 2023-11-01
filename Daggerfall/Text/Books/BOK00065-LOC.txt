@@ -3,7 +3,7 @@ Author: Неизвестный автор
 IsNaughty: False
 Price: 599
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 

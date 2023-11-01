@@ -89,7 +89,7 @@ Message:  1021
 <ce> воду, которую мне вручили, сильнейшим
 <ce> словом. Мне надо будет оросить тела
 <ce> чудовищ, чтобы они больше не вернулись
-<ce> в храм ___mondung_. 
+<ce> в храм ___mondung_.
 <ce> У меня есть =qtime_ дней, чтобы вернуться
 <ce> назад, или _questgiver_
 <ce> отправит на задание кого-нибудь еще.
@@ -154,61 +154,61 @@ Foe _monster2_ is Mummy
 Foe _monster3_ is Ghost
 
 --	Quest start-up:
-	start timer _qtime_ 
-	reveal _mondung_ 
-	get item _I.00_ 
-	pick one of _S.05_ _S.05_ _S.04_ 
-	pick one of _S.00_ _S.01_ _S.02_ 
+	start timer _qtime_
+	reveal _mondung_
+	get item _I.00_
+	pick one of _S.05_ _S.05_ _S.04_
+	pick one of _S.00_ _S.01_ _S.02_
 
 _S.00_ task:
-	place foe _monster1_ at _mondung_ 
+	place foe _monster1_ at _mondung_
 
 _S.01_ task:
-	place foe _monster2_ at _mondung_ 
+	place foe _monster2_ at _mondung_
 
 _S.02_ task:
-	place foe _monster3_ at _mondung_ 
+	place foe _monster3_ at _mondung_
 
 _qtime_ task:
-	end quest 
+	end quest
 
 _S.04_ task:
-	log 1021 step 0 
-	say 1050 
+	log 1021 step 0
+	say 1050
 
 _S.05_ task:
-	log 1020 step 0 
+	log 1020 step 0
 
 _mondead_ task:
-	killed 1 _monster1_ 
-	killed 1 _monster2_ 
-	killed 1 _monster3_ 
-	say 1060 
-	have _I.00_ set _S.09_ 
+	killed 1 _monster1_
+	killed 1 _monster2_
+	killed 1 _monster3_
+	say 1060
+	have _I.00_ set _S.09_
 
 _S.07_ task:
-	when _mondead_ and _S.09_ and not _S.10_ 
-	take _I.00_ from pc 
-	say 1061 
+	when _mondead_ and _S.09_ and not _S.10_
+	take _I.00_ from pc
+	say 1061
 
 _S.08_ task:
-	toting _I.00_ and _priest_ clicked 
-	get item _I.00_ 
-	say 1051 
+	toting _I.00_ and _priest_ clicked
+	get item _I.00_
+	say 1051
 
 variable _S.09_
 _S.10_ task:
-	when _S.09_ and not _S.08_ and _S.04_ 
+	when _S.09_ and not _S.08_ and _S.04_
 
 _clickqgiver_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _success_ task:
-	when _clickqgiver_ and _S.07_ 
-	give pc nothing 
-	end quest 
+	when _clickqgiver_ and _S.07_
+	give pc nothing
+	end quest
 
 _clearclick_ task:
-	when not _S.07_ and _clickqgiver_ 
+	when not _S.07_ and _clickqgiver_
 	say 1003
-	clear _clickqgiver_ _clearclick_ 
+	clear _clickqgiver_ _clearclick_

@@ -129,33 +129,33 @@ Foe _guard_ is Knight
 
 --	Quest start-up:
 	hide npc _daedra_
-	start timer _queston_ 
-	log 1010 step 0 
+	start timer _queston_
+	log 1010 step 0
 -- hide NPC added to ensure this dummy character won't appear in the wild somewhere.
 -- this NPC is never used in the game world, only as a name drop.
 
 variable _queston_
 _S.01_ task:
-	when _queston_ and _S.05_ 
-	say 1013 
-	make _book_ permanent 
-	end quest 
+	when _queston_ and _S.05_
+	say 1013
+	make _book_ permanent
+	end quest
 
 _S.02_ task:
-	when _queston_ and not _S.05_ 
-	end quest 
+	when _queston_ and not _S.05_
+	end quest
 
 _qgclicked_ task:
-	toting _book_ and _qgiver_ clicked 
-	give pc _mitem_ 
-	end quest 
+	toting _book_ and _qgiver_ clicked
+	give pc _mitem_
+	end quest
 
 _S.04_ task:
-	clicked npc _contact_ 
-	get item _book_ 
-	say 1011 
-	have _book_ set _S.05_ 
+	clicked npc _contact_
+	get item _book_
+	say 1011
+	have _book_ set _S.05_
 
 _S.05_ task:
-	create foe _guard_ every 20 minutes 20 times with 50% success msg 1012 
-	legal repute -30 
+	create foe _guard_ every 20 minutes 20 times with 50% success msg 1012
+	legal repute -30

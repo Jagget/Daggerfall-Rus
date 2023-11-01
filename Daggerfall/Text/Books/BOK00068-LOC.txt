@@ -3,7 +3,7 @@ Author: Неизвесный автор
 IsNaughty: False
 Price: 513
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

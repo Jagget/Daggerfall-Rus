@@ -55,7 +55,7 @@ QuestLogEntry:  [1010]
 <ce> этот режим включенным?
 
 Message:  1012
-<ce> Урок 1 
+<ce> Урок 1
 <ce> Первая вещь, с которой вы захотите поэксперименти-
 <ce> ровать, перемещение вашего персонажа. Не волнуйтесь
 <ce> насчет монстров, в этой комнате нет никого кроме вас.
@@ -92,12 +92,12 @@ Message:  1013
 Message:  1015
 <ce> Урок 3
 <ce>
-<ce> Чтобы вытащить свое оружие, просто нажмите клавишу Z. После 
-<ce> снаряжения оружия возникает небольшая задержка, поэтому не 
+<ce> Чтобы вытащить свое оружие, просто нажмите клавишу Z. После
+<ce> снаряжения оружия возникает небольшая задержка, поэтому не
 <ce> паникуйте, если оно не извлекается мгновенно.
-<ce> 
-<ce> Сделайте несколько тренировочных взмахов, удерживая нажатой 
-<ce> правую кнопку мыши и перемещая ее по кругу. Вот как вы 
+<ce>
+<ce> Сделайте несколько тренировочных взмахов, удерживая нажатой
+<ce> правую кнопку мыши и перемещая ее по кругу. Вот как вы
 <ce> сражаетесь с монстрами.
 <ce>
 <ce> Подсказка: Перемещение мыши в различных направлениях
@@ -226,11 +226,11 @@ QuestTimeLapse:  [1045]
 <ce> Отдыхать можно только в тавернах, если вы заплатите
 <ce> за комнату.
 <ce>
-<ce> Первое, что вы хотите сделать, это нажать клавишу F4, 
-<ce> чтобы включить режим диалога (вы можете изменить режим 
-<ce> взаимодействия в любое время, используя клавиши F1 и F4). 
-<ce> А теперь подойдите поближе к одному из горожан. Они не 
-<ce> станут останавливаться, пока вы не остановитесь тоже. 
+<ce> Первое, что вы хотите сделать, это нажать клавишу F4,
+<ce> чтобы включить режим диалога (вы можете изменить режим
+<ce> взаимодействия в любое время, используя клавиши F1 и F4).
+<ce> А теперь подойдите поближе к одному из горожан. Они не
+<ce> станут останавливаться, пока вы не остановитесь тоже.
 <ce> Нажмите на человека, и перед вами откроется экран диалога.
 <ce>
 <ce> (продолжение следует...)
@@ -331,83 +331,83 @@ Clock _2dagger_ 13.22:40 0 flag 1
 
 
 --	Quest start-up:
-	prompt 1010 yes yes no _no_ 
+	prompt 1010 yes yes no _no_
 
 variable _exitstarter_
 yes task:
-	pc at pirateerHold set _exitstarter_ 
-	start timer _S.03_ 
-	say 1012 
+	pc at pirateerHold set _exitstarter_
+	start timer _S.03_
+	say 1012
 
 _no_ task:
-	start quest 977 977 
-	end quest 
+	start quest 977 977
+	end quest
 
 _S.03_ task:
-	prompt 1013 yes _yes1_ no _no_ 
+	prompt 1013 yes _yes1_ no _no_
 
 _S.04_ task:
-	prompt 1015 yes _yes2_ no _no_ 
+	prompt 1015 yes _yes2_ no _no_
 
 _S.05_ task:
-	prompt 1025 yes _yes4_ no _no_ 
+	prompt 1025 yes _yes4_ no _no_
 
 _S.06_ task:
-	prompt 1020 yes _yes3_ no _no_ 
+	prompt 1020 yes _yes3_ no _no_
 
 _S.07_ task:
-	prompt 1030 yes _ring_ no _no_ 
+	prompt 1030 yes _ring_ no _no_
 
 _S.08_ task:
-	prompt 1035 yes _S.09_ no _no_ 
+	prompt 1035 yes _S.09_ no _no_
 
 variable _S.09_
 variable _S.10_
 variable _used_
 _day1_ task:
-	prompt 1050 yes _poet_ no _no_ 
+	prompt 1050 yes _poet_ no _no_
 
 _day2_ task:
-	start quest 977 977 
-	say 1055 
-	say 1056 
-	end quest 
+	start quest 977 977
+	say 1055
+	say 1056
+	end quest
 
 _2dagger_ task:
-	start quest 977 977 
-	end quest 
+	start quest 977 977
+	end quest
 
 _S.15_ task:
-	pc at cityOfDaggerfall set _S.25_ 
-	when yes and not _exitstarter_ 
-	prompt 1041 yes _yes6_ no _no_ 
-	say 1040 
+	pc at cityOfDaggerfall set _S.25_
+	when yes and not _exitstarter_
+	prompt 1041 yes _yes6_ no _no_
+	say 1040
 
 _yes1_ task:
-	start timer _S.04_ 
+	start timer _S.04_
 
 _yes2_ task:
-	start timer _S.06_ 
+	start timer _S.06_
 
 _yes3_ task:
-	start timer _S.05_ 
+	start timer _S.05_
 
 _yes4_ task:
-	start timer _S.07_ 
+	start timer _S.07_
 
 _ring_ task:
-	start timer _S.08_ 
+	start timer _S.08_
 
 _yes6_ task:
-	start timer _2dagger_ 
+	start timer _2dagger_
 
 _note_ task:
-	start timer _day1_ 
+	start timer _day1_
 
 _poet_ task:
-	start timer _day2_ 
+	start timer _day2_
 
 variable _scum_
 _S.25_ task:
-	prompt 1046 yes _note_ no _no_ 
-	say 1045 
+	prompt 1046 yes _note_ no _no_
+	say 1045

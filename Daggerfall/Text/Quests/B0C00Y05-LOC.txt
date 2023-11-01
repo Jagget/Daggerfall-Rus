@@ -118,29 +118,29 @@ Clock _queston_ 00:00 0 flag 17 range 0 2
 Foe _monster_ is Nightblade
 
 --	Quest start-up:
-	start timer _queston_ 
-	reveal _mondun_ 
-	log 1010 step 0 
-	pick one of _map_ _nomap_ _nomap_ 
-	place foe _monster_ at _mondun_ 
+	start timer _queston_
+	reveal _mondun_
+	log 1010 step 0
+	pick one of _map_ _nomap_ _nomap_
+	place foe _monster_ at _mondun_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _pcgetsgold_ task:
-	when _mondead_ and _qgclicked_ 
-	give pc nothing 
+	when _mondead_ and _qgclicked_
+	give pc nothing
 
 _mondead_ task:
-	killed 1 _monster_ saying 1011 
+	killed 1 _monster_ saying 1011
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _clearclick_ task:
-	when not _mondead_ and _qgclicked_ 
+	when not _mondead_ and _qgclicked_
 	say 1003
-	clear _qgclicked_ _clearclick_ 
+	clear _qgclicked_ _clearclick_
 
 variable _map_
 variable _nomap_

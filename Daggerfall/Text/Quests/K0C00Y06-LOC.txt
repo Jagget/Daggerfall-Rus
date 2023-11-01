@@ -382,10 +382,10 @@ Message:  1032
 
 Message:  1033
 %pcn,
- 
+
      Встретимся в _withouse_,
 	   __withouse_.
- 
+
 <ce> _witness_
 
 Message:  1034
@@ -593,9 +593,9 @@ Message:  1047
 Message:  1048
 _merchant_
  __merchanthome_
- 
+
 <ce> Дорогой _merchant_,
- 
+
 <ce> Надеюсь в __merchanthome_ все в порядке,
 <ce> а ваши родственник в полном здравии. Погода на
 <ce> удивление хорошая, так что должен похвалить вас,
@@ -615,9 +615,9 @@ _merchant_
 Message:  1049
 _noble_
  __noblehome_
- 
+
 <ce> Мой дорогой _noble_,
- 
+
 <ce> А ты оказывается жутко лукавый человек.
 <ce> Даже на минуту не задумался о том, что я могу
 <ce> подозревать, кто стоит за всеми невзгодами,
@@ -641,7 +641,7 @@ _noble_
 Message:  1050
 _priest_
  __priesthome_
- 
+
 <ce> Уважаемый _priest_,
 <ce>
 <ce> Выбросьте мое последнее письмо, в котором
@@ -866,28 +866,28 @@ Foe _guard3_ is Rogue
 Foe _guard4_ is Spellsword
 
 --	Quest start-up:
-	place item _gem_ at _mondung_ 
-	create foe _guard_ every 1 minutes 1 times with 100% success 
-	dialog link for person necromancer 
-	dialog link for person _tg_ 
-	dialog link for person _thief_ 
-	dialog link for location _withouse_ person _witness_ 
-	dialog link for person underking 
-	dialog link for location _thiefhouse_ person _merchant_ 
-	dialog link for person _priest_ 
-	dialog link for person _noble_ 
-	start timer _questtimelimit_ 
-	start timer _delay_ 
-	start timer _letterarrivaltime_ 
-	log 1010 step 0 
-	pick one of _merchantguilty_ _nobleguilty_ _priestguilty_ _thiefguilty_ 
-	_almightyletter_ used do _havereadwitnessletter_ 
-	legal repute -15 
-	place npc _noble_ at _noblehome_ 
-	place npc _merchant_ at _merchanthome_ 
-	place npc _witness_ at _inn_ 
-	place npc _priest_ at _priesthome_ 
-	place npc _thief_ at _thiefhome_ 
+	place item _gem_ at _mondung_
+	create foe _guard_ every 1 minutes 1 times with 100% success
+	dialog link for person necromancer
+	dialog link for person _tg_
+	dialog link for person _thief_
+	dialog link for location _withouse_ person _witness_
+	dialog link for person underking
+	dialog link for location _thiefhouse_ person _merchant_
+	dialog link for person _priest_
+	dialog link for person _noble_
+	start timer _questtimelimit_
+	start timer _delay_
+	start timer _letterarrivaltime_
+	log 1010 step 0
+	pick one of _merchantguilty_ _nobleguilty_ _priestguilty_ _thiefguilty_
+	_almightyletter_ used do _havereadwitnessletter_
+	legal repute -15
+	place npc _noble_ at _noblehome_
+	place npc _merchant_ at _merchanthome_
+	place npc _witness_ at _inn_
+	place npc _priest_ at _priesthome_
+	place npc _thief_ at _thiefhome_
 
 variable _priestguilty_
 variable _merchantguilty_
@@ -895,11 +895,11 @@ variable _nobleguilty_
 variable _thiefguilty_
 
 _delay_ task:
-	hide npc _qgiver_ 
-	say 1100 
+	hide npc _qgiver_
+	say 1100
 
 _latenight_ task:
-	daily from 00:00 to 02:00 
+	daily from 00:00 to 02:00
 
 _priestnight_ task:
 	when _priestguilty_ and _latenight_ and _secondwitnessdiscussion_
@@ -908,18 +908,18 @@ _priestnight_ task:
 
 _priestdayletter_ task:
 	when _priestguilty_ and not _latenight_ and _secondwitnessdiscussion_
-	place item _priestevidenceletter_ at _thiefhouse_ 
-	hide npc _priest_ 
+	place item _priestevidenceletter_ at _thiefhouse_
+	hide npc _priest_
 
 _merchantnight_ task:
 	when _merchantguilty_ and _latenight_ and _secondwitnessdiscussion_
-	place npc _merchant_ at _thiefhouse_ 
+	place npc _merchant_ at _thiefhouse_
 	restore _merchant_
 
 _merchantdayletter_ task:
 	when _merchantguilty_ and not _latenight_ and _secondwitnessdiscussion_
-	place item _merchantevidenceletter_ at _thiefhouse_ 
-	hide npc _merchant_ 
+	place item _merchantevidenceletter_ at _thiefhouse_
+	hide npc _merchant_
 
 _noblenight_ task:
 	when _nobleguilty_ and _latenight_ and _secondwitnessdiscussion_
@@ -928,230 +928,230 @@ _noblenight_ task:
 
 _nobledayletter_ task:
 	when _nobleguilty_ and not _latenight_ and _secondwitnessdiscussion_
-	place item _nobleevidenceletter_ at _thiefhouse_ 
-	hide npc _noble_ 
+	place item _nobleevidenceletter_ at _thiefhouse_
+	hide npc _noble_
 
 _thiefdayletter_ task:
 	when _thiefguilty_ and not _latenight_ and _secondwitnessdiscussion_
-	place item _thiefevidenceletter_ at _thiefhouse_ 
-	hide npc _thief_ 
+	place item _thiefevidenceletter_ at _thiefhouse_
+	hide npc _thief_
 
 _thiefnight_ task:
 	when _thiefguilty_ and _latenight_ and _secondwitnessdiscussion_
-	place npc _thief_ at _thiefhouse_ 
+	place npc _thief_ at _thiefhouse_
 	restore _thief_
 
 _letterarrivaltime_ task:
-	repute with _tg_ exceeds 10 do _friendofthievesguild_ 
-	repute with necromancer exceeds 10 do _friendofnecros_ 
+	repute with _tg_ exceeds 10 do _friendofthievesguild_
+	repute with necromancer exceeds 10 do _friendofnecros_
 	repute with underking exceeds 10 do _friendofunderking_
 
 _friendofthievesguild_ task:
-	_thievesguildletter_ used do _havereadthievesguildletter_ 
-	give pc _thievesguildletter_ notify 1017 
-	clear _friendofnecros_ _friendofunderking_ 
+	_thievesguildletter_ used do _havereadthievesguildletter_
+	give pc _thievesguildletter_ notify 1017
+	clear _friendofnecros_ _friendofunderking_
 
 _havereadthievesguildletter_ task:
-	log 1028 step 1 
+	log 1028 step 1
 
 _friendofnecros_ task:
-	_necromancerletter_ used do _havereadnecromancerletter_ 
-	give pc _necromancerletter_ notify 1017 
-	clear _friendofunderking_ 
+	_necromancerletter_ used do _havereadnecromancerletter_
+	give pc _necromancerletter_ notify 1017
+	clear _friendofunderking_
 
 _havereadnecromancerletter_ task:
-	log 1026 step 1 
+	log 1026 step 1
 
 _friendofunderking_ task:
-	_underkingletter_ used do _havereadunderkingletter_ 
-	give pc _underkingletter_ notify 1017 
+	_underkingletter_ used do _havereadunderkingletter_
+	give pc _underkingletter_ notify 1017
 
 _havereadunderkingletter_ task:
-	log 1027 step 1 
+	log 1027 step 1
 
 _nobodyismyfriend_ task:
-	when not _friendofnecros_ and not _friendofunderking_ and not _friendofthievesguild_ 
+	when not _friendofnecros_ and not _friendofunderking_ and not _friendofthievesguild_
 
 _makehelpfulletterarrive_ task:
-	when _nobodyismyfriend_ and _letterarrivaltime_ 
+	when _nobodyismyfriend_ and _letterarrivaltime_
 
 _clickonwitness_ task:
-	clicked npc _witness_ 
+	clicked npc _witness_
 
 _firstwitnessdiscussion_ task:
-	when _clickonwitness_ and not _havereadwitnessletter_ 
-	create foe _guard2_ every 1 minutes 1 times with 100% success 
-	get item _almightyletter_ 
-	say 1025 
-	place npc _witness_ at _withouse_ 
-	clear _clickonwitness_ 
+	when _clickonwitness_ and not _havereadwitnessletter_
+	create foe _guard2_ every 1 minutes 1 times with 100% success
+	get item _almightyletter_
+	say 1025
+	place npc _witness_ at _withouse_
+	clear _clickonwitness_
 
 _havereadwitnessletter_ task:
-	log 1034 step 3 
+	log 1034 step 3
 
 _secondwitnessdiscussion_ task:
 	when _clickonwitness_ and _havereadwitnessletter_
-	reveal _mondung_ 
-	pick one of _honestmistake_ _annoyingwitness_ 
-	hide npc _witness_ 
+	reveal _mondung_
+	pick one of _honestmistake_ _annoyingwitness_
+	hide npc _witness_
 
 _giveantipriestletter_ task:
-	when _priestguilty_ and _makehelpfulletterarrive_ 
-	_antipriestletter_ used do _antipriestlog_ 
-	give pc _antipriestletter_ notify 1017 
+	when _priestguilty_ and _makehelpfulletterarrive_
+	_antipriestletter_ used do _antipriestlog_
+	give pc _antipriestletter_ notify 1017
 
 _antipriestlog_ task:
-	log 1029 step 2 
+	log 1029 step 2
 
 _giveantimerchantletter_ task:
-	when _merchantguilty_ and _makehelpfulletterarrive_ 
-	_antimerchantletter_ used do _antimerchantlog_ 
-	give pc _antimerchantletter_ notify 1017 
+	when _merchantguilty_ and _makehelpfulletterarrive_
+	_antimerchantletter_ used do _antimerchantlog_
+	give pc _antimerchantletter_ notify 1017
 
 _antimerchantlog_ task:
-	log 1030 step 2 
+	log 1030 step 2
 
 _giveantinobleletter_ task:
-	when _nobleguilty_ and _makehelpfulletterarrive_ 
-	_antinobleletter_ used do _antinoblelog_ 
-	give pc _antinobleletter_ notify 1017 
+	when _nobleguilty_ and _makehelpfulletterarrive_
+	_antinobleletter_ used do _antinoblelog_
+	give pc _antinobleletter_ notify 1017
 
 _antinoblelog_ task:
-	log 1031 step 2 
+	log 1031 step 2
 
 _giveantithiefletter_ task:
-	when _thiefguilty_ and _makehelpfulletterarrive_ 
-	_antithiefletter_ used do _antithieflog_ 
-	give pc _antithiefletter_ notify 1017 
+	when _thiefguilty_ and _makehelpfulletterarrive_
+	_antithiefletter_ used do _antithieflog_
+	give pc _antithiefletter_ notify 1017
 
 _antithieflog_ task:
-	log 1032 step 2 
+	log 1032 step 2
 
 variable _annoyingwitness_
 variable _honestmistake_
 _revealthiefhonestmistake_ task:
-	when _honestmistake_ and _thiefguilty_ 
-	log 1046 step 4 
-	say 1038 
+	when _honestmistake_ and _thiefguilty_
+	log 1046 step 4
+	say 1038
 
 _revealnoblehonestmistake_ task:
-	when _honestmistake_ and _nobleguilty_ 
-	log 1044 step 4 
-	say 1036 
+	when _honestmistake_ and _nobleguilty_
+	log 1044 step 4
+	say 1036
 
 _revealmerchanthonestmistake_ task:
-	when _honestmistake_ and _merchantguilty_ 
-	log 1043 step 4 
-	say 1035 
+	when _honestmistake_ and _merchantguilty_
+	log 1043 step 4
+	say 1035
 
 _revealpriesthonestmistake_ task:
-	when _honestmistake_ and _priestguilty_ 
-	log 1045 step 4 
-	say 1037 
+	when _honestmistake_ and _priestguilty_
+	log 1045 step 4
+	say 1037
 
 _revealthiefannoyingwitness_ task:
-	when _thiefguilty_ and _annoyingwitness_ 
-	log 1094 step 4 
-	say 1042 
+	when _thiefguilty_ and _annoyingwitness_
+	log 1094 step 4
+	say 1042
 
 _revealpriestannoyingwitness_ task:
-	when _priestguilty_ and _annoyingwitness_ 
-	log 1093 step 4 
-	say 1041 
+	when _priestguilty_ and _annoyingwitness_
+	log 1093 step 4
+	say 1041
 
 _revealmerchantannoyingwitness_ task:
-	when _merchantguilty_ and _annoyingwitness_ 
-	log 1091 step 4 
-	say 1039 
+	when _merchantguilty_ and _annoyingwitness_
+	log 1091 step 4
+	say 1039
 
 _revealnobleannoyingwitness_ task:
-	when _nobleguilty_ and _annoyingwitness_ 
-	log 1092 step 4 
-	say 1040 
+	when _nobleguilty_ and _annoyingwitness_
+	log 1092 step 4
+	say 1040
 
 _retrievegem_ task:
-	clicked item _gem_ 
-	say 1047 
+	clicked item _gem_
+	say 1047
 
 _readincriminatingletter_ task:
-	clicked item _priestevidenceletter_ 
-	clicked item _thiefevidenceletter_ 
-	clicked item _merchantevidenceletter_ 
-	clicked item _nobleevidenceletter_ 
-	say 1052 
+	clicked item _priestevidenceletter_
+	clicked item _thiefevidenceletter_
+	clicked item _merchantevidenceletter_
+	clicked item _nobleevidenceletter_
+	say 1052
 
 _makevictimreturn_ task:
-	when _deliverlettertomerchant_ or _deliverlettertonoble_ or _deliverlettertopriest_ or _deliverlettertothief_ 
-	log 1059 step 5 
-	restore _qgiver_ 
+	when _deliverlettertomerchant_ or _deliverlettertonoble_ or _deliverlettertopriest_ or _deliverlettertothief_
+	log 1059 step 5
+	restore _qgiver_
 
 _deliverlettertothief_ task:
-	toting _nobleevidenceletter_ and _thief_ clicked 
-	say 1053 
+	toting _nobleevidenceletter_ and _thief_ clicked
+	say 1053
 
 _deliverlettertomerchant_ task:
-	toting _thiefevidenceletter_ and _merchant_ clicked 
-	say 1054 
+	toting _thiefevidenceletter_ and _merchant_ clicked
+	say 1054
 
 _deliverlettertopriest_ task:
-	toting _merchantevidenceletter_ and _priest_ clicked 
-	say 1055 
+	toting _merchantevidenceletter_ and _priest_ clicked
+	say 1055
 
 _deliverlettertonoble_ task:
-	toting _priestevidenceletter_ and _noble_ clicked 
-	say 1056 
+	toting _priestevidenceletter_ and _noble_ clicked
+	say 1056
 
 _noevidenceconfrontation_ task:
-	when _clickanyone_ and not _makevictimreturn_ 
-	create foe _guard3_ every 1 minutes 1 times with 100% success 
-	say 1057 
-	clear _clickmerchant_ _clicknoble_ _clickpriest_ _clickthief_ 
+	when _clickanyone_ and not _makevictimreturn_
+	create foe _guard3_ every 1 minutes 1 times with 100% success
+	say 1057
+	clear _clickmerchant_ _clicknoble_ _clickpriest_ _clickthief_
 	start task _reminderwitness_
 
 _reminderwitness_ task:
 	log 1061 step 2
 
 _victory_ task:
-	toting _gem_ and _qgiver_ clicked 
+	toting _gem_ and _qgiver_ clicked
 	legal repute -200
-	give pc _reward_ 
-	change repute with _qgiver_ by +10 
+	give pc _reward_
+	change repute with _qgiver_ by +10
 	legal repute +105
-	end quest 
+	end quest
 --changing to -200/+105 again. Criminal conspiracy charges during the quest
 --can lower the player's legal rep more than intended.
 
 _clickmerchant_ task:
-	clicked npc _merchant_ 
+	clicked npc _merchant_
 
 _clicknoble_ task:
-	clicked npc _noble_ 
+	clicked npc _noble_
 
 _clickpriest_ task:
-	clicked npc _priest_ 
+	clicked npc _priest_
 
 _clickthief_ task:
-	clicked npc _thief_ 
+	clicked npc _thief_
 
 _clickanyone_ task:
-	when _clickmerchant_ or _clicknoble_ or _clickpriest_ or _clickthief_ 
+	when _clickmerchant_ or _clicknoble_ or _clickpriest_ or _clickthief_
 
 _revenge_ task:
-	when _clicknoble_ and _deliverlettertothief_ 
-	when _clickpriest_ and _deliverlettertonoble_ 
-	when _clickmerchant_ and _deliverlettertopriest_ 
-	when _clickthief_ and _deliverlettertomerchant_ 
-	create foe _guard4_ every 1 minutes 1 times with 100% success 
-	say 1058 
+	when _clicknoble_ and _deliverlettertothief_
+	when _clickpriest_ and _deliverlettertonoble_
+	when _clickmerchant_ and _deliverlettertopriest_
+	when _clickthief_ and _deliverlettertomerchant_
+	create foe _guard4_ every 1 minutes 1 times with 100% success
+	say 1058
 
 _questtimelimit_ task:
-	have _gem_ set _illkeepthatgem_ 
+	have _gem_ set _illkeepthatgem_
 
 _illkeepthatgem_ task:
-	make _gem_ permanent 
+	make _gem_ permanent
 
 _youhavefailed_ task:
-	when _questtimelimit_ and not _victory_ 
-	say 1060 
-	restore _qgiver_ 
+	when _questtimelimit_ and not _victory_
+	say 1060
+	restore _qgiver_
 	end quest 

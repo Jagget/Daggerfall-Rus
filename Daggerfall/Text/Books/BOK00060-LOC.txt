@@ -3,7 +3,7 @@ Author: Стэм Гамбодж
 IsNaughty: False
 Price: 406
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 

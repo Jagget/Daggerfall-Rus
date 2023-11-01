@@ -3,7 +3,7 @@ Author: Сафир Лонглит
 IsNaughty: False
 Price: 348
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

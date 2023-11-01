@@ -158,27 +158,27 @@ Foe _giant_ is Giant
 Foe _giantFriends_ is Giant
 
 --	Quest start-up:
-	start timer _qtime_ 
-	reveal _mondung_ 
-	log 1020 step 0 
-	pick one of _victim_ _S.09_ _S.09_ 
-	pick one of _map_ _nomap_ _nomap_ 
+	start timer _qtime_
+	reveal _mondung_
+	log 1020 step 0
+	pick one of _victim_ _S.09_ _S.09_
+	pick one of _map_ _nomap_ _nomap_
 	pick one of _magicItem_ _noMagicItem_ _noMagicItem_ _noMagicItem_
-	place foe _giant_ at _mondung_ 
+	place foe _giant_ at _mondung_
 
 variable _map_
 variable _nomap_
 _S.02_ task:
-	injured _giant_ 
+	injured _giant_
 	start task _giantWaveWhileInDungeon_
-	say 1030 
+	say 1030
 
 _S.03_ task:
-	killed 1 _giant_ 
+	killed 1 _giant_
 	say 1031
 
 _clickqgiver_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _clearclick_ task:
 	when _clickqgiver_ and not _S.03_
@@ -186,65 +186,65 @@ _clearclick_ task:
 	clear _clickqgiver_ _clearclick_
 
 _success_ task:
-	when _clickqgiver_ and _S.03_ 
-	give pc _gold_ 
+	when _clickqgiver_ and _S.03_
+	give pc _gold_
 
 variable _qtime_
 _duelist_ task:
-	when _success_ and _map_ 
+	when _success_ and _map_
 	reveal _newdung_ readmap
-	say 1080 
+	say 1080
 
 _victim_ task:
-	place npc _villager_ at _mondung_ 
+	place npc _villager_ at _mondung_
 
 variable _noMagicItem_
 _magicItem_ task:
-	give item _magic_ to _giant_ 
-	make _magic_ permanent 
+	give item _magic_ to _giant_
+	make _magic_ permanent
 
 _S.09_ task:
-	hide npc _villager_ 
+	hide npc _villager_
 
 _S.10_ task:
-	clicked npc _villager_ 
-	prompt 1040 yes _yes_ no _no_ 
+	clicked npc _villager_
+	prompt 1040 yes _yes_ no _no_
 
 _yes_ task:
-	pc at _store_ set _S.13_ 
-	log 1021 step 1 
-	hide npc _villager_ 
-	say 1041 
-	add _villager_ face 
+	pc at _store_ set _S.13_
+	log 1021 step 1
+	hide npc _villager_
+	say 1041
+	add _villager_ face
 
 _no_ task:
-	say 1043 
-	change repute with _villager_ by -10 
+	say 1043
+	change repute with _villager_ by -10
 
 variable _escortComplete_
 _S.13_ task:
-	say 1044 
-	drop _villager_ face 
-	change repute with _villager_ by +15 
-	place npc _villager_ at _store_ 
+	say 1044
+	drop _villager_ face
+	change repute with _villager_ by +15
+	place npc _villager_ at _store_
 	start task _escortComplete_
 
 _S.14_ task:
-	when _yes_ and not _escortComplete_ and _qtime_ 
-	say 1042 
+	when _yes_ and not _escortComplete_ and _qtime_
+	say 1042
 
 _S.15_ task:
-	when _success_ and _no_ 
+	when _success_ and _no_
 
 _S.16_ task:
 	when _success_ and _S.09_
 
 _S.17_ task:
-	when _success_ and _escortComplete_ 
+	when _success_ and _escortComplete_
 
 _S.18_ task:
 	when _qtime_ or _S.15_ or _S.16_ or _S.17_ or _S.19_
-	end quest 
+	end quest
 
 _S.19_ task:
 	when _success_ and _victim_ and not _S.10_

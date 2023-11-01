@@ -158,52 +158,52 @@ Foe _F.00_ is 3 Archer
 Foe _mtraitor_ is Ranger
 
 --	Quest start-up:
-	create foe _F.00_ every 2000 minutes 5 times with 100% success 
-	start timer _S.00_ 
+	create foe _F.00_ every 2000 minutes 5 times with 100% success
+	start timer _S.00_
 	have _letter_ set _startpatsy_
 -- reduced spawning trio from 20 to 5 times
 
 _startpatsy_ task:
-	start timer _patsy_ 
+	start timer _patsy_
 
 _S.00_ task:
-	_letter_ used do _readletter_ 
-	give pc _letter_ notify 1031 
+	_letter_ used do _readletter_
+	give pc _letter_ notify 1031
 	place npc _traitor_ at _wayrest_ marker 3
 
 variable _patsy_
 _time2_ task:
-	end quest 
+	end quest
 
 _readletter_ task:
-	log 1020 step 0 
+	log 1020 step 0
 
 _S.04_ task:
-	clicked npc _queen_ 
+	clicked npc _queen_
 
 _S.05_ task:
-	clicked npc _traitor_ 
-	hide npc _traitor_ 
-	say 1041 
+	clicked npc _traitor_
+	hide npc _traitor_
+	say 1041
 	place foe _mtraitor_ at _wayrest_ marker 3
 
 _hittraitor_ task:
-	injured _mtraitor_ 
+	injured _mtraitor_
 
 _S.07_ task:
-	killed 1 _mtraitor_ 
-	say 1043 
+	killed 1 _mtraitor_
+	say 1043
 
 _S.08_ task:
-	when _hittraitor_ and not _S.07_ 
-	prompt 1042 yes _yes_ no _no_ 
+	when _hittraitor_ and not _S.07_
+	prompt 1042 yes _yes_ no _no_
 
 _S.09_ task:
-	when _S.04_ and _S.00_ 
+	when _S.04_ and _S.00_
 	stop timer _patsy_
-	start timer _time2_ 
-	log 1021 step 1 
-	say 1040 
+	start timer _time2_
+	log 1021 step 1
+	say 1040
 	remove log step 0
 	start task _stagger_
 
@@ -217,39 +217,39 @@ _clearclick_ task:
 	clear _S.04_ _clearclick_
 
 _S.10_ task:
-	when _yes_ and _S.04_ 
-	say 1050 
-	drop _traitor_ face 
+	when _yes_ and _S.04_
+	say 1050
+	drop _traitor_ face
 
 _traitordead_ task:
-	when _S.07_ and _S.04_ 
-	say 1051 
-	unset _S.04_ 
+	when _S.07_ and _S.04_
+	say 1051
+	unset _S.04_
 
 _yes_ task:
-	log 1022 step 2 
-	say 1044 
-	add _traitor_ face 
-	place foe _mtraitor_ at aide 
+	log 1022 step 2
+	say 1044
+	add _traitor_ face
+	place foe _mtraitor_ at aide
 
 _no_ task:
-	say 1045 
+	say 1045
 
 _S.14_ task:
-	when _S.10_ or _traitordead_ 
+	when _S.10_ or _traitordead_
 	give pc _reward1_
-	give pc _reward2_ 
-	end quest 
+	give pc _reward2_
+	end quest
 
 _S.15_ task:
-	when _patsy_ and not _S.09_ 
-	end quest 
+	when _patsy_ and not _S.09_
+	end quest
 
 _S.16_ task:
-	when _yes_ and _time2_ 
-	say 1061 
-	end quest 
+	when _yes_ and _time2_
+	say 1061
+	end quest
 
 _S.17_ task:
-	injured _F.00_ 
-	say 1060 
+	injured _F.00_
+	say 1060

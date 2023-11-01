@@ -151,55 +151,55 @@ Foe _daedroth_ is Daedroth
 Foe _giant_ is Giant
 
 --	Quest start-up:
-	dialog link for person _daedra_ 
-	start timer _queston_ 
-	log 1020 step 0 
-	get item _jewelry_ 
-	place npc _man_ at _tavern_ 
+	dialog link for person _daedra_
+	start timer _queston_
+	log 1020 step 0
+	get item _jewelry_
+	place npc _man_ at _tavern_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	toting _jewelry_ and _man_ clicked 
-	pick one of _S.04_ _S.02_ _S.03_ _S.05_ 
-	hide npc _man_ 
-	say 1011 
+	toting _jewelry_ and _man_ clicked
+	pick one of _S.04_ _S.02_ _S.03_ _S.05_
+	hide npc _man_
+	say 1011
 
 _S.02_ task:
-	place foe _giant_ at _tavern_ 
+	place foe _giant_ at _tavern_
 
 _S.03_ task:
-	place foe _harpy_ at _tavern_ 
+	place foe _harpy_ at _tavern_
 
 _S.04_ task:
-	place foe _daedroth_ at _tavern_ 
+	place foe _daedroth_ at _tavern_
 
 _S.05_ task:
-	place foe _zombie_ at _tavern_ 
+	place foe _zombie_ at _tavern_
 
 _S.06_ task:
-	killed 1 _giant_ 
-	killed 1 _harpy_ 
-	killed 1 _zombie_ 
-	killed 1 _daedroth_ 
+	killed 1 _giant_
+	killed 1 _harpy_
+	killed 1 _zombie_
+	killed 1 _daedroth_
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _S.08_ task:
-	when _qgclicked_ and _S.06_ 
+	when _qgclicked_ and _S.06_
 	say 1012
 	--this was 1020, could not be correct. changed to 1012.
-	change repute with _man_ by -15 
-	make pc ill with Witches'_Pox 
-	end quest 
+	change repute with _man_ by -15
+	make pc ill with Witches'_Pox
+	end quest
 
 _reward_ task:
-	when _qgclicked_ and _S.01_ and not _S.06_ 
-	give pc _mitem_ 
-	end quest 
+	when _qgclicked_ and _S.01_ and not _S.06_
+	give pc _mitem_
+	end quest
 
 _S.10_ task:
-	when _qgclicked_ and not _S.01_ 
-	clear _qgclicked_ _S.10_ 
+	when _qgclicked_ and not _S.01_
+	clear _qgclicked_ _S.10_

@@ -187,69 +187,69 @@ Foe _orc_ is Orc_warlord
 Foe _daedras_ is Daedroth
 
 --	Quest start-up:
-	start timer _totaltime_ 
-	reveal _dungeon_ 
-	log 1010 step 0 
-	give item _ingredient_ to _guardian_ 
-	place foe _guardian_ at _dungeon_ 
-	place npc _qgiver_ at _meetingplace_ 
+	start timer _totaltime_
+	reveal _dungeon_
+	log 1010 step 0
+	give item _ingredient_ to _guardian_
+	place foe _guardian_ at _dungeon_
+	place npc _qgiver_ at _meetingplace_
 
 _giveingredient_ task:
-	toting _ingredient_ and _qgiver_ clicked saying 1013 
-	give item _ingredient_ to _monster_ 
-	cast Shield spell on _monster_ 
-	cast Spell_Reflection spell on _monster_ 
+	toting _ingredient_ and _qgiver_ clicked saying 1013
+	give item _ingredient_ to _monster_
+	cast Shield spell on _monster_
+	cast Spell_Reflection spell on _monster_
 
 _hitguardian_ task:
-	injured _guardian_ 
-	prompt 1012 yes _yes_ no _no_ 
+	injured _guardian_
+	prompt 1012 yes _yes_ no _no_
 --a task yes without underscores is a prima facie danger, though it hasn't caused any problems yet. tasks, items, and so forth should have underscores for style and execution
 
 _yes_ task:
-	log 1011 step 1 
-	get item _token_ 
-	say 1030 
-	restrain foe _guardian_ 
+	log 1011 step 1
+	get item _token_
+	say 1030
+	restrain foe _guardian_
 
 _no_ task:
-	say 1035 
+	say 1035
 
 --unused variable _clickonqgiver_
 variable _clickonqgiver_
 _givetoken_ task:
-	toting _token_ and _qgiver_ clicked saying 1014 
-	cast Silence spell on _monster_ 
+	toting _token_ and _qgiver_ clicked saying 1014
+	cast Silence spell on _monster_
 
 _shamandead_ task:
-	killed 1 _monster_ 
-	start timer _extratime_ 
+	killed 1 _monster_
+	start timer _extratime_
 
 _givereward_ task:
-	when _givetoken_ and _shamandead_ 
+	when _givetoken_ and _shamandead_
 	change repute with _dummymage_ by +25
-	change repute with _dummyorc_ by -10 
+	change repute with _dummyorc_ by -10
 	say 1015
 	--"saying ###" as an argument here is unsupported, I gave it its own line
 
 _extratime_ task:
-	make _ingredient_ permanent 
-	end quest 
+	make _ingredient_ permanent
+	end quest
 
 _totaltime_ task:
-	make _ingredient_ permanent 
-	end quest 
+	make _ingredient_ permanent
+	end quest
 
 _revealmonsters_ task:
-	when _giveingredient_ or _givetoken_ 
-	create foe _orc_ every 1 minutes 1 times with 100% success 
-	hide npc _qgiver_ 
-	place foe _monster_ at _meetingplace_ 
+	when _giveingredient_ or _givetoken_
+	create foe _orc_ every 1 minutes 1 times with 100% success
+	hide npc _qgiver_
+	place foe _monster_ at _meetingplace_
 
 _S.11_ task:
-	killed 1 _guardian_ 
+	killed 1 _guardian_
 
 _betrayguardian_ task:
-	when _yes_ and _S.11_ 
-	create foe _daedras_ every 1 minutes 3 times with 100% success 
-	take _token_ from pc saying 1020 
-	change repute with _dummydarkb_ by -75 
+	when _yes_ and _S.11_
+	create foe _daedras_ every 1 minutes 3 times with 100% success
+	take _token_ from pc saying 1020
+	change repute with _dummydarkb_ by -75

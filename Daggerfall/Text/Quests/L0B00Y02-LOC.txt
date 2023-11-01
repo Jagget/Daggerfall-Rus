@@ -156,42 +156,42 @@ Foe _assassin_ is Assassin
 Foe _boss_ is Knight
 
 --	Quest start-up:
-	start timer _queston_ 
-	reveal _mondung_ 
-	log 1010 step 0 
-	give item _letter_ to _assassin_ 
-	_letter_ used do _S.05_ 
-	place foe _boss_ at _stronghold_ 
-	place foe _assassin_ at _mondung_ 
+	start timer _queston_
+	reveal _mondung_
+	log 1010 step 0
+	give item _letter_ to _assassin_
+	_letter_ used do _S.05_
+	place foe _boss_ at _stronghold_
+	place foe _assassin_ at _mondung_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 variable _reward_
 _S.03_ task:
-	killed 1 _assassin_ 
-	say 1013 
+	killed 1 _assassin_
+	say 1013
 
 _S.04_ task:
-	killed 1 _boss_ 
-	say 1014 
+	killed 1 _boss_
+	say 1014
 
 _S.05_ task:
 	reveal _stronghold_ readmap
-	log 1012 step 1 
+	log 1012 step 1
 
 _S.06_ task:
-	when _S.03_ and not _S.04_ and _qgclicked_ 
-	say 1015 
+	when _S.03_ and not _S.04_ and _qgclicked_
+	say 1015
 
 _S.07_ task:
-	when _S.03_ and _S.04_ and _qgclicked_ 
-	give pc nothing 
-	end quest 
+	when _S.03_ and _S.04_ and _qgclicked_
+	give pc nothing
+	end quest
 
 _S.08_ task:
-	when not _S.03_ and not _S.04_ and _qgclicked_ 
-	clear _qgclicked_ _S.08_ 
+	when not _S.03_ and not _S.04_ and _qgclicked_
+	clear _qgclicked_ _S.08_

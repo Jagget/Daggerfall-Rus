@@ -130,34 +130,34 @@ Clock _queston_ 00:00 0 flag 17 range 0 2
 Foe _priest_ is Monk
 
 --	Quest start-up:
-	start timer _queston_ 
-	reveal _mondung_ 
-	log 1010 step 0 
-	place foe _priest_ at _mondung_ 
+	start timer _queston_
+	reveal _mondung_
+	log 1010 step 0
+	place foe _priest_ at _mondung_
 
 variable _reward_
 _bonk_ task:
-	injured _priest_ 
-	say 1011 
-	add foe _priest_ face 
+	injured _priest_
+	say 1011
+	add foe _priest_ face
 	remove foe _priest_
 	--changed "place foe in fake dungeon" to remove foe action.
 
 _queston_ task:
-	end quest 
+	end quest
 
 _cick_ task:
-	when _bonk_ and _queston_ 
-	say 1012 
+	when _bonk_ and _queston_
+	say 1012
 
 _S.04_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _success_ task:
-	when _S.04_ and _bonk_ 
-	give pc nothing 
-	end quest 
+	when _S.04_ and _bonk_
+	give pc nothing
+	end quest
 
 _nope_ task:
-	when _S.04_ and not _bonk_ 
-	clear _S.04_ _nope_ 
+	when _S.04_ and not _bonk_
+	clear _S.04_ _nope_

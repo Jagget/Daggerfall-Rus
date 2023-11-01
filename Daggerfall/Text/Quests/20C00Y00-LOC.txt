@@ -146,44 +146,44 @@ Foe _monster_ is Mage
 Foe _monster1_ is Mage
 
 --	Quest start-up:
-	place item _map_ at _mondung_ 
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1020 step 0 
-	_map_ used do _readmap_ 
-	place foe _monster_ at _mondung_ 
-	place npc _contact_ at _tavern_ 
+	place item _map_ at _mondung_
+	start timer _1stparton_
+	reveal _mondung_
+	log 1020 step 0
+	_map_ used do _readmap_
+	place foe _monster_ at _mondung_
+	place npc _contact_ at _tavern_
 
 _pcgetsgold_ task:
-	when _qgclicked_ and _mondead_ 
-	give pc _artifact_ 
-	end quest 
+	when _qgclicked_ and _mondead_
+	give pc _artifact_
+	end quest
 --removed unnecessary delay
 
 variable _queston_
 --unused variable
 _mondead_ task:
 	killed 1 _monster_
-	killed 1 _monster1_ 
-	say 1030 
+	killed 1 _monster1_
+	say 1030
 	--added kill condition for monster1
 
 _qgclicked_ task:
-	clicked npc _contact_ 
+	clicked npc _contact_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 _clearclick_ task:
-	when _qgclicked_ and not _mondead_ 
+	when _qgclicked_ and not _mondead_
 	--this used the timer 2ndparton erroneously. properly changed to mondead.
 	say 1003
-	clear _qgclicked_ _clearclick_ 
+	clear _qgclicked_ _clearclick_
 
 variable _S.08_
 _S.09_ task:
-	injured _monster_ 
-	start timer _S.08_ 
+	injured _monster_
+	start timer _S.08_
 
 _S.10_ task:
 	when _S.08_ and not _mondead_

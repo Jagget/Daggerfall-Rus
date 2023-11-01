@@ -15,7 +15,7 @@ QuestorOffer:  [1000]
 <ce>
 <ce> У нас есть для вас одно небольшое поручение,
 <ce> которое поможет доказать, что вы по праву
-<ce> занимаете ваше место в семье %vam. Дело 
+<ce> занимаете ваше место в семье %vam. Дело
 <ce> заключается в том, что одна из наших семейных
 <ce> ценностей - _vamprelic_, лежит в пыли,
 <ce> как последний клочок мусора, в лаборатории
@@ -162,31 +162,31 @@ Foe _mages_ is Mage
 Foe _battlemage_ is Battle_mage
 
 --	Quest start-up:
-	place item _vamprelic_ at _itemdung_ 
-	_letter_ used do _readletter_ 
-	have _letter_ set _S.06_ 
-	give pc _letter_ notify 1030 
+	place item _vamprelic_ at _itemdung_
+	_letter_ used do _readletter_
+	have _letter_ set _S.06_
+	give pc _letter_ notify 1030
 
 variable _pcgetsgold_
 _vampclicked_ task:
-	toting _vamprelic_ and _vampire_ clicked 
-	give pc nothing 
-	change repute with _vampire_ by +5 
-	end quest 
+	toting _vamprelic_ and _vampire_ clicked
+	give pc nothing
+	change repute with _vampire_ by +5
+	end quest
 
 _pchasitem_ task:
-	clicked item _vamprelic_ 
-	create foe _mages_ every 2 minutes 2 times with 25% success 
-	create foe _battlemage_ every 1 minutes 4 times with 25% success 
+	clicked item _vamprelic_
+	create foe _mages_ every 2 minutes 2 times with 25% success
+	create foe _battlemage_ every 1 minutes 4 times with 25% success
 
 _1stparton_ task:
-	make _vamprelic_ permanent 
-	change repute with _vampire_ by -5 
-	end quest 
+	make _vamprelic_ permanent
+	change repute with _vampire_ by -5
+	end quest
 
 variable _clearclick_
 _readletter_ task:
-	log 1020 step 0 
+	log 1020 step 0
 
 _S.06_ task:
-	start timer _1stparton_ 
+	start timer _1stparton_

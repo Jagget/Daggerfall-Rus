@@ -197,81 +197,81 @@ Clock _S.05_ 08:20 3.11:20
 Foe _cousin_ is Knight
 
 --	Quest start-up:
-	place item _gem_ at _mondung2_ 
-	dialog link for location _mondung_ person _victim_ 
-	dialog link for person _tg_ 
-	start timer _queston1_ 
-	reveal _mondung2_ 
-	log 1010 step 0 
-	repute with _tg_ exceeds 10 do _S.03_ 
-	place foe _cousin_ at _mondung2_ 
-	place npc _victim_ at _mondung_ 
+	place item _gem_ at _mondung2_
+	dialog link for location _mondung_ person _victim_
+	dialog link for person _tg_
+	start timer _queston1_
+	reveal _mondung2_
+	log 1010 step 0
+	repute with _tg_ exceeds 10 do _S.03_
+	place foe _cousin_ at _mondung2_
+	place npc _victim_ at _mondung_
 
 _queston1_ task:
-	have _gem_ set _S.15_ 
-	end quest 
+	have _gem_ set _S.15_
+	end quest
 
 variable _queston2_
 variable _S.02_
 _S.03_ task:
-	start timer _S.05_ 
+	start timer _S.05_
 
 variable _S.04_
 _S.05_ task:
-	_letter15_ used do _S.06_ 
-	get item _letter15_ 
-	say 1015 
+	_letter15_ used do _S.06_
+	get item _letter15_
+	say 1015
 
 _S.06_ task:
 	reveal _mondung_ readmap
-	log 1017 step 2 
+	log 1017 step 2
 
 variable _S.07_
 _S.08_ task:
-	clicked npc _victim_ 
-	hide npc _victim_ 
-	say 1011 
+	clicked npc _victim_
+	hide npc _victim_
+	say 1011
 
 _S.09_ task:
-	injured _cousin_ 
-	say 1018 
+	injured _cousin_
+	say 1018
 
 _S.10_ task:
-	killed 1 _cousin_ 
-	say 1019 
+	killed 1 _cousin_
+	say 1019
 	start task _victory_
 
 variable _victory_
 _S.11_ task:
-	clicked item _gem_ 
-	say 1020 
+	clicked item _gem_
+	say 1020
 
 _qgclicked_ task:
 	clicked npc _qgiver_
 
 _pcgetsgold_ task:
-	when _qgclicked_ and _victory_ 
-	give pc _gold_ 
-	end quest 
+	when _qgclicked_ and _victory_
+	give pc _gold_
+	end quest
 
 _clearclick_ task:
 	when _qgclicked_ and not _victory_
 	clear _clearclick_ _qgclicked_
 
 _S.13_ task:
-	toting _gem_ and _qgiver_ clicked 
+	toting _gem_ and _qgiver_ clicked
 	give pc _gold_
-	end quest 
+	end quest
 --added victory condition here, per message block 1002
 
 _S.14_ task:
 	when _S.10_ or _S.08_
--or _S.13_ 
+-or _S.13_
 -
 -until _S.14_ performed:
--	clear _qgclicked_ 
+-	clear _qgclicked_
 
 _S.15_ task:
-	make _gem_ permanent 
+	make _gem_ permanent
 
 variable _S.16_

@@ -3,7 +3,7 @@ Author: Асгрим Колсгрег
 IsNaughty: False
 Price: 638
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

@@ -161,35 +161,35 @@ Clock _1stparton_ 00:00 0 flag 1 range 2 5
 Foe _monster_ is Vampire
 
 --	Quest start-up:
-	_letter_ used do _readletter_ 
-	have _letter_ set _S.06_ 
-	give pc _letter_ notify 1020 
-	place foe _monster_ at _mondung_ 
+	_letter_ used do _readletter_
+	have _letter_ set _S.06_
+	give pc _letter_ notify 1020
+	place foe _monster_ at _mondung_
 
 _pcgetsgold_ task:
-	when _qgclicked_ and _mondead_ 
-	give pc _reward_ 
-	end quest 
+	when _qgclicked_ and _mondead_
+	give pc _reward_
+	end quest
 
 _mondead_ task:
-	killed 1 _monster_ 
-	say 1030 
-	create npc _questgiver_ 
+	killed 1 _monster_
+	say 1030
+	create npc _questgiver_
 
 _qgclicked_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 _clearclick_ task:
-	when _qgclicked_ and not _mondead_ 
+	when _qgclicked_ and not _mondead_
 	say 1003
-	clear _qgclicked_ _clearclick_ 
+	clear _qgclicked_ _clearclick_
 
 _readletter_ task:
 	reveal _mondung_ readmap
-	log 1015 step 0 
+	log 1015 step 0
 
 _S.06_ task:
-	start timer _1stparton_ 
+	start timer _1stparton_

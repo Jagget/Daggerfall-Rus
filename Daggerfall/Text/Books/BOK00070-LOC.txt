@@ -3,7 +3,7 @@ Author: Бута Санхус
 IsNaughty: True
 Price: 667
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 

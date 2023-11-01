@@ -166,7 +166,7 @@ Message:  1054
 <ce> Надеюсь вы заставили Смайли пожалеть
 <ce> об этом, %pcn! Какое горестное
 <ce> известие.
- 
+
 
 -- Symbols used in the QRC file:
 --
@@ -207,122 +207,122 @@ Clock _delay_ 00:00
 Foe _F.00_ is 3 Barbarian
 
 --	Quest start-up:
-	dialog link for person _friend4_ 
-	dialog link for person _missingperson_ 
-	dialog link for location _hidingplace_ person _friend3_ 
-	start timer _S.16_ 
-	log 1010 step 0 
-	pick one of _S.00_ _S.02_ _S.03_ _S.01_ 
-	create npc _friend4_ 
-	create npc _friend2_ 
-	create npc _friend3_ 
-	create npc _friend1_ 
+	dialog link for person _friend4_
+	dialog link for person _missingperson_
+	dialog link for location _hidingplace_ person _friend3_
+	start timer _S.16_
+	log 1010 step 0
+	pick one of _S.00_ _S.02_ _S.03_ _S.01_
+	create npc _friend4_
+	create npc _friend2_
+	create npc _friend3_
+	create npc _friend1_
 	
 _S.00_ task:
-	place npc _missingperson_ at _hidingplace_ 
+	place npc _missingperson_ at _hidingplace_
 
 variable _S.01_
 variable _S.02_
 variable _S.03_
 _S.04_ task:
-	clicked npc _friend1_ 
+	clicked npc _friend1_
 
 _S.05_ task:
-	clicked npc _friend2_ 
+	clicked npc _friend2_
 
 _S.06_ task:
-	clicked npc _friend3_ 
+	clicked npc _friend3_
 
 _S.07_ task:
-	clicked npc _friend4_ 
+	clicked npc _friend4_
 
 _S.08_ task:
-	when _S.00_ and _S.04_ 
+	when _S.00_ and _S.04_
 	add dialog for location _hidingplace_
-	say 1021 
+	say 1021
 
 _S.09_ task:
-	when _S.02_ and _S.05_ 
-	say 1022 
+	when _S.02_ and _S.05_
+	say 1022
 
 _S.10_ task:
-	when _S.03_ and _S.06_ 
-	say 1023 
+	when _S.03_ and _S.06_
+	say 1023
 
 _S.11_ task:
-	when _S.01_ and _S.07_ 
-	create foe _F.00_ every 1 minutes 1 times with 100% success 
-	say 1024 
+	when _S.01_ and _S.07_
+	create foe _F.00_ every 1 minutes 1 times with 100% success
+	say 1024
 
 _S.12_ task:
-	when not _S.00_ and _S.04_ 
+	when not _S.00_ and _S.04_
 	add dialog for person _friend3_
-	say 1031 
+	say 1031
 
 _S.13_ task:
-	when not _S.02_ and _S.05_ 
+	when not _S.02_ and _S.05_
 	add dialog for person _friend4_
-	say 1032 
+	say 1032
 
 _S.14_ task:
-	when not _S.03_ and _S.06_ 
-	say 1033 
+	when not _S.03_ and _S.06_
+	say 1033
 
 _S.15_ task:
-	when not _S.01_ and _S.07_ 
-	say 1034 
+	when not _S.01_ and _S.07_
+	say 1034
 
 _S.16_ task:
-	end quest 
+	end quest
 
 _S.17_ task:
-	killed 1 _F.00_ 
-	hide npc _friend4_ 
+	killed 1 _F.00_
+	hide npc _friend4_
 
 _S.18_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _clearclick_ task:
-	when not _yes_ and _S.18_ 
+	when not _yes_ and _S.18_
 	clear _S.18_ _clearclick_
 
 _yes_ task:
 	when _S.08_ or _S.09_ or _S.10_ or _S.11_ or _S.22_
 
 _givereward_ task:
-	when _yes_ and _S.18_ 
+	when _yes_ and _S.18_
 	start timer _delay_
 
 _delay_ task:
-	give pc _gold_ 
-	end quest 
+	give pc _gold_
+	end quest
 
 _S.22_ task:
-	clicked npc _missingperson_ 
-	add _missingperson_ face saying 1040 
-	hide npc _missingperson_ 
+	clicked npc _missingperson_
+	add _missingperson_ face saying 1040
+	hide npc _missingperson_
 
 _S.23_ task:
-	when _S.22_ and _S.18_ 
-	drop _missingperson_ face 
+	when _S.22_ and _S.18_
+	drop _missingperson_ face
 
 _S.24_ task:
-	when _S.18_ and _S.08_ and not _S.22_ 
-	say 1051 
+	when _S.18_ and _S.08_ and not _S.22_
+	say 1051
 
 _S.25_ task:
-	when _S.18_ and _S.09_ 
-	say 1052 
+	when _S.18_ and _S.09_
+	say 1052
 
 _S.26_ task:
-	when _S.18_ and _S.10_ 
-	say 1053 
+	when _S.18_ and _S.10_
+	say 1053
 
 _S.27_ task:
-	when _S.18_ and _S.11_ 
-	say 1054 
+	when _S.18_ and _S.11_
+	say 1054
 
 _S.28_ task:
-	when _S.18_ and _S.22_ 
-	say 1050 
+	when _S.18_ and _S.22_
+	say 1050
 --removed unnecessary check. quest can remained "unsolved" after unexpectedly finding the quarry and returning to QG.

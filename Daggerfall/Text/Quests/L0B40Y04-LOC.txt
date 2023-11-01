@@ -121,42 +121,42 @@ Foe _F.02_ is Warrior
 Foe _F.03_ is Nightblade
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	log 1020 step 0 
-	pick one of _S.06_ _S.07_ _S.08_ _onehour_ 
+	start timer _1stparton_
+	log 1020 step 0
+	pick one of _S.06_ _S.07_ _S.08_ _onehour_
 
 _pcgetsgold_ task:
-	when _qgclicked_ and _S.02_ 
-	give pc _reward_ 
-	end quest 
+	when _qgclicked_ and _S.02_
+	give pc _reward_
+	end quest
 
 _qgclicked_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _S.02_ task:
-	killed 1 _F.01_ saying 1021 
-	killed 1 _F.02_ saying 1021 
-	killed 1 _F.03_ saying 1021 
-	killed 1 _F.00_ saying 1021 
+	killed 1 _F.01_ saying 1021
+	killed 1 _F.02_ saying 1021
+	killed 1 _F.03_ saying 1021
+	killed 1 _F.00_ saying 1021
 
 variable _queston_
 _1stparton_ task:
-	end quest 
+	end quest
 
 variable _2ndparton_
 _S.06_ task:
-	place foe _F.00_ at _mondung_ 
+	place foe _F.00_ at _mondung_
 
 _S.07_ task:
-	place foe _F.01_ at _mondung_ 
+	place foe _F.01_ at _mondung_
 
 _S.08_ task:
-	place foe _F.02_ at _mondung_ 
+	place foe _F.02_ at _mondung_
 
 _onehour_ task:
-	place foe _F.03_ at _mondung_ 
+	place foe _F.03_ at _mondung_
 
 _clearclick_ task:
-	when _qgclicked_ and not _S.02_ 
+	when _qgclicked_ and not _S.02_
 	say 1003
-	clear _qgclicked_ _clearclick_ 
+	clear _qgclicked_ _clearclick_

@@ -1,9 +1,9 @@
 Title: Айус, бог животных
-Author: Бульджурсома 
+Author: Бульджурсома
 IsNaughty: False
 Price: 385
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

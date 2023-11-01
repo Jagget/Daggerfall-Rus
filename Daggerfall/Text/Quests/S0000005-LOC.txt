@@ -80,7 +80,7 @@ Message:  1011
 <ce> Опасность таилась в таком великолепном
 <ce> развлечении. Пошедший за мной однажды
 <ce> теперь пребывает в невзгодах. А это
-<ce> равносильно руинам! Вечным, вечным и 
+<ce> равносильно руинам! Вечным, вечным и
 <ce> вечным руинам. Я заставила себя закрыть дверь
 <ce> своей души. Ох, дитя мое, ну почему ты
 <ce> не послушался меня. Твои уши, твое красивое
@@ -139,51 +139,51 @@ Clock _2shedungent_ 150.00:00 0 flag 1 range 0 1
 
 
 --	Quest start-up:
-	start timer _2shedungent_ 
-	log 1010 step 0 
-	prompt QuestorOffer yes yes no _no_ 
+	start timer _2shedungent_
+	log 1010 step 0
+	prompt QuestorOffer yes yes no _no_
 
 _2shedungent_ task:
-	drop _aubki_ as questor 
-	end quest 
+	drop _aubki_ as questor
+	end quest
 
 _S.01_ task:
-	clicked npc _nulfaga_ 
-	say 1011 
+	clicked npc _nulfaga_
+	say 1011
 
 _pcgetsgold_ task:
-	when _S.03_ and _S.01_ 
-	give pc _magicitem_ 
-	start quest 107 107 
-	stop timer _2shedungent_ 
-	repute with _aubki_ exceeds 15 do _S.11_ 
-	change repute with _aubki_ by +10 
-	mute npc _aubki_ 
-	drop _aubki_ as questor 
+	when _S.03_ and _S.01_
+	give pc _magicitem_
+	start quest 107 107
+	stop timer _2shedungent_
+	repute with _aubki_ exceeds 15 do _S.11_
+	change repute with _aubki_ by +10
+	mute npc _aubki_
+	drop _aubki_ as questor
 
 _S.03_ task:
-	clicked npc _aubki_ 
+	clicked npc _aubki_
 
 variable _2letter_
 variable _S.05_
 variable _S.06_
 variable _S.07_
 yes task:
-	reveal _huntstart_ in province 16 at 50966 
-	say AcceptQuest 
-	add _aubki_ as questor 
+	reveal _huntstart_ in province 16 at 50966
+	say AcceptQuest
+	add _aubki_ as questor
 
 _no_ task:
-	say RefuseQuest 
-	drop _aubki_ as questor 
-	end quest 
+	say RefuseQuest
+	drop _aubki_ as questor
+	end quest
 
 _clearclick_ task:
-	when _S.03_ and not _S.01_ 
-	clear _S.03_ _clearclick_ 
+	when _S.03_ and not _S.01_
+	clear _S.03_ _clearclick_
 
 variable _S.11_
 _S.12_ task:
-	when _S.11_ and _pcgetsgold_ 
-	start quest 13 13 
-	end quest 
+	when _S.11_ and _pcgetsgold_
+	start quest 13 13
+	end quest

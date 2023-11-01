@@ -177,116 +177,116 @@ Clock _oneday_ 1.00:00
 Foe _thief_ is Burglar
 
 --	Quest start-up:
-	start timer _oneday_ 
-	log 1010 step 0 
-	pick one of _S.01_ _S.10_ 
-	pick one of _S.14_ _S.15_ _S.15_ _S.15_ 
-	create npc _pickuplocal_ 
+	start timer _oneday_
+	log 1010 step 0
+	pick one of _S.01_ _S.10_
+	pick one of _S.14_ _S.15_ _S.15_ _S.15_
+	create npc _pickuplocal_
 
 _oneday_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	pick one of _S.02_ _snitch0_ _S.04_ _S.05_ 
+	pick one of _S.02_ _snitch0_ _S.04_ _S.05_
 --added underscores to snitch0
 
 _S.02_ task:
-	get item _book_ saying 1011 
+	get item _book_ saying 1011
 
 _snitch0_ task:
-	get item _ingredient_ saying 1012 
+	get item _ingredient_ saying 1012
 
 _S.04_ task:
-	get item _jewelry_ saying 1013 
+	get item _jewelry_ saying 1013
 
 _S.05_ task:
-	get item _mensclothing_ saying 1014 
+	get item _mensclothing_ saying 1014
 
 _S.06_ task:
-	get item _painting_ saying 1015 
+	get item _painting_ saying 1015
 
 _S.07_ task:
-	get item _potion_ saying 1016 
+	get item _potion_ saying 1016
 
 _S.08_ task:
-	get item _weapon_ saying 1017 
+	get item _weapon_ saying 1017
 
 _S.09_ task:
-	get item _womensclothing_ saying 1018 
+	get item _womensclothing_ saying 1018
 
 _S.10_ task:
-	pick one of _S.06_ _S.07_ _S.08_ _S.09_ 
+	pick one of _S.06_ _S.07_ _S.08_ _S.09_
 
 _S.11_ task:
-	toting _jewelry_ and _pickuplocal_ clicked 
-	toting _mensclothing_ and _pickuplocal_ clicked 
-	toting _painting_ and _pickuplocal_ clicked 
-	toting _potion_ and _pickuplocal_ clicked 
-	toting _weapon_ and _pickuplocal_ clicked 
-	toting _book_ and _pickuplocal_ clicked 
-	toting _ingredient_ and _pickuplocal_ clicked 
-	toting _womensclothing_ and _pickuplocal_ clicked 
-	give pc _gold_ 
-	end quest 
+	toting _jewelry_ and _pickuplocal_ clicked
+	toting _mensclothing_ and _pickuplocal_ clicked
+	toting _painting_ and _pickuplocal_ clicked
+	toting _potion_ and _pickuplocal_ clicked
+	toting _weapon_ and _pickuplocal_ clicked
+	toting _book_ and _pickuplocal_ clicked
+	toting _ingredient_ and _pickuplocal_ clicked
+	toting _womensclothing_ and _pickuplocal_ clicked
+	give pc _gold_
+	end quest
 --removed unnecessary delay
 
 _S.12_ task:
-	clicked npc _pickuplocal_ 
+	clicked npc _pickuplocal_
 
 _S.13_ task:
-	when _S.12_ and not _S.11_ 
-	say 1019 
-	clear _S.12_ _S.13_ 
+	when _S.12_ and not _S.11_
+	say 1019
+	clear _S.12_ _S.13_
 
 _S.14_ task:
-	create foe _thief_ every 20 minutes 3 times with 25% success 
+	create foe _thief_ every 20 minutes 3 times with 25% success
 
 variable _S.15_
 _S.16_ task:
-	injured _thief_ 
-	prompt 1020 yes _yes_ no _no_ 
+	injured _thief_
+	prompt 1020 yes _yes_ no _no_
 
 _yes_ task:
-	restrain foe _thief_ 
+	restrain foe _thief_
 
 variable _no_
 _yes1_ task:
-	when _yes_ and _S.02_ 
+	when _yes_ and _S.02_
 	take _book_ from pc
-	give item _book_ to _thief_ 
+	give item _book_ to _thief_
 --added "take X from pc" for all yes# tasks.
 
 _yes2_ task:
-	when _yes_ and _snitch0_ 
+	when _yes_ and _snitch0_
 	take _ingredient_ from pc
-	give item _ingredient_ to _thief_ 
+	give item _ingredient_ to _thief_
 
 _yes3_ task:
-	when _yes_ and _S.04_ 
+	when _yes_ and _S.04_
 	take _jewelry_ from pc
-	give item _jewelry_ to _thief_ 
+	give item _jewelry_ to _thief_
 
 _yes4_ task:
-	when _yes_ and _S.05_ 
+	when _yes_ and _S.05_
 	take _mensclothing_ from pc
-	give item _mensclothing_ to _thief_ 
+	give item _mensclothing_ to _thief_
 
 _ring_ task:
-	when _yes_ and _S.06_ 
+	when _yes_ and _S.06_
 	take _painting_ from pc
-	give item _painting_ to _thief_ 
+	give item _painting_ to _thief_
 
 _yes6_ task:
 	when _yes_ and _S.07_
-	take _potion_ from pc 
-	give item _potion_ to _thief_ 
+	take _potion_ from pc
+	give item _potion_ to _thief_
 
 _note_ task:
-	when _yes_ and _S.08_ 
+	when _yes_ and _S.08_
 	take _weapon_ from pc
-	give item _weapon_ to _thief_ 
+	give item _weapon_ to _thief_
 
 _poet_ task:
-	when _yes_ and _S.09_ 
+	when _yes_ and _S.09_
 	take _womensclothing_ from pc
-	give item _womensclothing_ to _thief_ 
+	give item _womensclothing_ to _thief_

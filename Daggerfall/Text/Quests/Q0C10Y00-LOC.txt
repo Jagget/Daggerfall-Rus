@@ -156,75 +156,75 @@ Foe _zombie_ is Zombie
 Foe _skeleton_ is Skeletal_warrior
 
 --	Quest start-up:
-	place item _item3_ at _dungeon3_ 
-	place item _item2_ at _dungeon2_ 
-	place item _item1_ at _dungeon1_ 
-	start timer _queston_ 
-	reveal _dungeon3_ 
-	reveal _dungeon2_ 
-	reveal _dungeon1_ 
-	log 1015 step 0 
-	pc at _dungeon1_ set _S.10_ 
-	pc at _dungeon2_ set _S.14_ 
+	place item _item3_ at _dungeon3_
+	place item _item2_ at _dungeon2_
+	place item _item1_ at _dungeon1_
+	start timer _queston_
+	reveal _dungeon3_
+	reveal _dungeon2_
+	reveal _dungeon1_
+	log 1015 step 0
+	pc at _dungeon1_ set _S.10_
+	pc at _dungeon2_ set _S.14_
 
 _pchasitem1_ task:
 	toting _item1_ and _qgiver_ clicked
 	say 1024
 
 _pchasitem2_ task:
-	toting _item2_ and _qgiver_ clicked 
+	toting _item2_ and _qgiver_ clicked
 	say 1025
 
 _pchasitem3_ task:
-	toting _item3_ and _qgiver_ clicked 
+	toting _item3_ and _qgiver_ clicked
 	say 1026
 
 _queston_ task:
-	end quest 
+	end quest
 
 _a1_ task:
-	create foe _zombie_ every 15 minutes 5 times with 5% success 
-	place foe _zombie_ at _dungeon1_ 
+	create foe _zombie_ every 15 minutes 5 times with 5% success
+	place foe _zombie_ at _dungeon1_
 
 _a2_ task:
-	create foe _mummy_ every 10 minutes 5 times with 5% success 
-	place foe _mummy_ at _dungeon1_ 
+	create foe _mummy_ every 10 minutes 5 times with 5% success
+	place foe _mummy_ at _dungeon1_
 
 _a3_ task:
-	create foe _skeleton_ every 12 minutes 5 times with 5% success 
-	place foe _skeleton_ at _dungeon1_ 
+	create foe _skeleton_ every 12 minutes 5 times with 5% success
+	place foe _skeleton_ at _dungeon1_
 
 _a4_ task:
-	create foe _F.00_ every 10 minutes 5 times with 5% success 
-	place foe _F.00_ at _dungeon2_ 
+	create foe _F.00_ every 10 minutes 5 times with 5% success
+	place foe _F.00_ at _dungeon2_
 
 _a5_ task:
-	create foe _spriggan_ every 15 minutes 5 times with 5% success 
-	place foe _spriggan_ at _dungeon2_ 
+	create foe _spriggan_ every 15 minutes 5 times with 5% success
+	place foe _spriggan_ at _dungeon2_
 
 _a6_ task:
-	create foe _wereboar_ every 12 minutes 5 times with 5% success 
-	place foe _wereboar_ at _dungeon2_ 
+	create foe _wereboar_ every 12 minutes 5 times with 5% success
+	place foe _wereboar_ at _dungeon2_
 
 _S.10_ task:
-	pick one of _a1_ _a2_ _a3_ _a1_ 
+	pick one of _a1_ _a2_ _a3_ _a1_
 
 _batty_ task:
-	clicked item _item1_ say 1021 
+	clicked item _item1_ say 1021
 
 _S.12_ task:
 	clicked item _item2_ say 1022
 
 _S.13_ task:
-	clicked item _item3_ say 1023 
+	clicked item _item3_ say 1023
 
 _S.14_ task:
-	pick one of _a4_ _a5_ _a6_ _a4_ 
+	pick one of _a4_ _a5_ _a6_ _a4_
 
 _S.15_ task:
-	when _pchasitem1_ and _pchasitem2_ and _pchasitem3_ 
+	when _pchasitem1_ and _pchasitem2_ and _pchasitem3_
 	give pc _reward1_
 	give pc _reward2_
-	give pc _reward3_ 
-	end quest 
+	give pc _reward3_
+	end quest
 --changed to multi-line give pc reward, as I know this implementation works fine. --JayH

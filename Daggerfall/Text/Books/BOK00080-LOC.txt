@@ -3,7 +3,7 @@ Author: Сигилла Парат
 IsNaughty: False
 Price: 452
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

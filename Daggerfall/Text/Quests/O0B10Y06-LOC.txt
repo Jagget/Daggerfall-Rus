@@ -14,7 +14,7 @@ QuestorOffer:  [1000]
 <ce> Вот то, что тебе подойдет.
 <ce> Надо украсть драгоценности
 <ce> у ювелира. Хочешь попробовать?
-<ce> Цена обычная - 
+<ce> Цена обычная -
 <ce> _gold_ золотых.
 
 RefuseQuest:  [1001]
@@ -98,38 +98,38 @@ Foe _F.02_ is Ranger
 Foe _F.03_ is Thief
 
 --	Quest start-up:
-	place item _jewelry_ at _mansion_ 
-	start timer _traveltime_ 
-	log 1010 step 0 
-	pc at _mansion_ set _S.01_ 
+	place item _jewelry_ at _mansion_
+	start timer _traveltime_
+	log 1010 step 0
+	pc at _mansion_ set _S.01_
 
 _traveltime_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	pick one of _guard1_ _guard2_ _guard3_ _guard4_ 
+	pick one of _guard1_ _guard2_ _guard3_ _guard4_
 
 _questdone_ task:
-	toting _jewelry_ and _qgiver_ clicked 
-	give pc _gold_ 
-	end quest 
+	toting _jewelry_ and _qgiver_ clicked
+	give pc _gold_
+	end quest
 
 _guard1_ task:
-	create foe _F.00_ every 4 minutes 1 times with 10% success 
+	create foe _F.00_ every 4 minutes 1 times with 10% success
 
 _guard2_ task:
-	create foe _F.01_ every 4 minutes 1 times with 10% success 
+	create foe _F.01_ every 4 minutes 1 times with 10% success
 
 _guard3_ task:
-	create foe _F.02_ every 4 minutes 1 times with 10% success 
+	create foe _F.02_ every 4 minutes 1 times with 10% success
 
 _guard4_ task:
-	create foe _F.03_ every 4 minutes 1 times with 10% success 
+	create foe _F.03_ every 4 minutes 1 times with 10% success
 
 wizard0 task:
-	clicked item _jewelry_ 
+	clicked item _jewelry_
 
 _S.08_ task:
-	when wizard0 and _traveltime_ 
-	make _jewelry_ permanent 
-	change repute with _qgiver_ by -20 
+	when wizard0 and _traveltime_
+	make _jewelry_ permanent
+	change repute with _qgiver_ by -20

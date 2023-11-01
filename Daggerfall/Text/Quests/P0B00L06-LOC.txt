@@ -56,8 +56,8 @@ Error: Questtext 1009 Called. My Bad
 QuestLogEntry:  [1010]
                       __vamp_
                        ___vamp_
- 
- 
+
+
 <ce> Да пребудет с вами Ночь, %pcn.
 <ce>
 <ce> Жалкие безмозглые варвары, которые
@@ -67,14 +67,14 @@ QuestLogEntry:  [1010]
 <ce> раз им, похоже что-то удалось. Конечно, само
 <ce> то, что Гильдия Магов что-нибудь доведет до
 <ce> конца, выглядит невозможным, но нам нужно
-<ce> принять меры предосторожности. 
+<ce> принять меры предосторожности.
 <ce>
 <ce> Жду вас так скоро, насколько это
 <ce> возможно. Место вы найдете в начале письма.
 <ce>
 <ce> Ваш вечный друг в Смерти,
- 
- 
+
+
                       _vamp_
 
 Message:  1011
@@ -128,8 +128,8 @@ Message:  1013
 <ce>
 <ce>
 <ce> Ваш верный друг не только в Смерти,
- 
- 
+
+
      _mg_
 
 Message:  1014
@@ -175,7 +175,7 @@ Message:  1016
 <ce> Прочь, кровосос! Изыди!
 
 Message:  1017
-<ce> Минуточку! Вы действительно 
+<ce> Минуточку! Вы действительно
 <ce> тот %ra, которого я жду, чтобы
 <ce> передать свой журнал?
 
@@ -202,7 +202,7 @@ Message:  1019
 Message:  1020
 <ce> Семья %vam действительно занимает
 <ce> главенствующее положение в провинции
-<ce> %reg, однако это никоим образом не 
+<ce> %reg, однако это никоим образом не
 <ce> означает, что такое же положение они имеют
 <ce> во всем Илиакском заливе. (подставьте сюда
 <ce> Монталион, Вразети, Галари, Селену, наконец,
@@ -239,7 +239,7 @@ Message:  1021
 <ce> к разгадке существования семьи %vam
 <ce> и _vamp_ отправляет меня в
 <ce> чтобы выкрасть эти записи. Скорее всего
-<ce> _mage_ хранит их при себе, как 
+<ce> _mage_ хранит их при себе, как
 <ce> будто это защитит их от меня...
 
 Message:  1022
@@ -312,76 +312,76 @@ Clock _2ndparton_ 00:10 00:30 flag 9 range 0 0
 Foe _sorceror_ is Sorceror
 
 --	Quest start-up:
-	dialog link for person _vamp_ 
-	dialog link for location _mondung_ person _mg_ 
-	repute with _mg_ exceeds 15 do _S.04_ 
-	give item research1 to _sorceror_ 
-	letter37 used do _S.14_ 
-	_letter_ used do _readletter_ 
-	have _letter_ set _S.15_ 
-	give pc _letter_ notify 1023 
-	place foe _sorceror_ at _mondung_ 
+	dialog link for person _vamp_
+	dialog link for location _mondung_ person _mg_
+	repute with _mg_ exceeds 15 do _S.04_
+	give item research1 to _sorceror_
+	letter37 used do _S.14_
+	_letter_ used do _readletter_
+	have _letter_ set _S.15_
+	give pc _letter_ notify 1023
+	place foe _sorceror_ at _mondung_
 
 _queston_ task:
-	change repute with _vamp_ by -10 
-	end quest 
+	change repute with _vamp_ by -10
+	end quest
 
 _vampclicked_ task:
-	clicked npc _vamp_ 
-	reveal _mondung_ 
-	log 1021 step 2 
-	say 1012 
+	clicked npc _vamp_
+	reveal _mondung_
+	log 1021 step 2
+	say 1012
 
 variable _S.02_
 _2ndparton_ task:
-	give pc letter37 notify 1014 
+	give pc letter37 notify 1014
 
 _S.04_ task:
-	start timer _2ndparton_ 
+	start timer _2ndparton_
 
 _S.05_ task:
-	clicked npc _mg_ 
-	reveal _mondung_ 
-	log 1019 step 3 
-	say 1015 
+	clicked npc _mg_
+	reveal _mondung_
+	log 1019 step 3
+	say 1015
 
 _contact_ task:
-	injured _sorceror_ 
+	injured _sorceror_
 
 variable _S.07_
 _S.08_ task:
-	when _contact_ and _S.05_ 
-	prompt 1017 yes _S.09_ no _S.10_ 
+	when _contact_ and _S.05_
+	prompt 1017 yes _S.09_ no _S.10_
 
 _S.09_ task:
-	get item research1 
-	say 1018 
-	restrain foe _sorceror_ 
+	get item research1
+	say 1018
+	restrain foe _sorceror_
 
 _S.10_ task:
-	when _contact_ and not _S.05_ 
-	say 1016 
+	when _contact_ and not _S.05_
+	say 1016
 
 _S.11_ task:
-	toting research1 and _mg_ clicked 
-	get item _mggold_ 
-	say 1022 
-	make _mggold_ permanent 
-	change repute with _vamp_ by -20 
-	change repute with _mg_ by +10 
-	end quest 
+	toting research1 and _mg_ clicked
+	get item _mggold_
+	say 1022
+	make _mggold_ permanent
+	change repute with _vamp_ by -20
+	change repute with _mg_ by +10
+	end quest
 
 _S.12_ task:
-	toting research1 and _vamp_ clicked 
-	give pc nothing 
-	end quest 
+	toting research1 and _vamp_ clicked
+	give pc nothing
+	end quest
 
 _readletter_ task:
-	add dialog for person _vamp_ 
-	log 1011 step 0 
+	add dialog for person _vamp_
+	log 1011 step 0
 
 _S.14_ task:
-	add dialog for person _mg_ 
+	add dialog for person _mg_
 
 _S.15_ task:
-	start timer _queston_ 
+	start timer _queston_

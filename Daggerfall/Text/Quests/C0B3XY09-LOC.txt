@@ -127,50 +127,50 @@ Foe _F.03_ is Harpy
 Foe _lesserdaedra_ is Daedroth
 
 --	Quest start-up:
-	place item _evilfocus_ at _dungeon_ 
-	start timer _traveltime_ 
-	reveal _dungeon_ 
-	log 1010 step 0 
+	place item _evilfocus_ at _dungeon_
+	start timer _traveltime_
+	reveal _dungeon_
+	log 1010 step 0
 
 _traveltime_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	clicked item _evilfocus_ 
-	place foe _guardian_ at _dungeon_ 
-	prompt 1011 yes _yes_ no _no_ 
+	clicked item _evilfocus_
+	place foe _guardian_ at _dungeon_
+	prompt 1011 yes _yes_ no _no_
 	take _evilfocus_ from pc
 
 _yes_ task:
 	remove foe _guardian_
 --better to just remove the daedra and avoid confusion
-	get item _magicitem_ 
-	make _magicitem_ permanent 
-	change repute with _qgiver_ by -10 
+	get item _magicitem_
+	make _magicitem_ permanent
+	change repute with _qgiver_ by -10
 	say 1014
-	end quest 
+	end quest
 
 _no_ task:
-	create foe _F.02_ every 5 minutes 1 times with 100% success 
-	create foe _spiders_ every 9 minutes 1 times with 100% success 
-	create foe _lesserdaedra_ every 7 minutes 1 times with 100% success 
-	create foe _F.03_ every 3 minutes 1 times with 100% success 
-	say 1012 
+	create foe _F.02_ every 5 minutes 1 times with 100% success
+	create foe _spiders_ every 9 minutes 1 times with 100% success
+	create foe _lesserdaedra_ every 7 minutes 1 times with 100% success
+	create foe _F.03_ every 3 minutes 1 times with 100% success
+	say 1012
 
 _S.04_ task:
-	killed 1 _guardian_ 
+	killed 1 _guardian_
 	say 1013
 --added a victory message. original quest was confusing up to this point.
 
 _questdone_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _success_ task:
 	when _questdone_ and _S.04_
-	give pc _gold_ 
-	end quest 
+	give pc _gold_
+	end quest
 
 _clearclick_ task:
-	when _questdone_ and not _S.04_ 
+	when _questdone_ and not _S.04_
 	clear _questdone_ _clearclick_
 --permits repeated clearclick

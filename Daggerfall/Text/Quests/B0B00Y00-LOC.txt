@@ -117,7 +117,7 @@ Message:  1014
 <ce> блевотины месячной давности.
 <ce> Действуйте смело. И если судьба будет к вам
 <ce> благосклонна, хорошо проведите время с _lady_.
- 
+
 <ce> Ваши дорогие друзья,
 <ce> Древнейшая сила в %reg
 
@@ -161,52 +161,52 @@ Foe _monster_ is Vampire
 Foe imp0 is Giant_rat
 
 --	Quest start-up:
-	dialog link for person _vamp_ 
-	start timer _2mondung_ 
-	reveal _mondung_ 
-	log 1010 step 0 
-	repute with _vamp_ exceeds 20 do _S.05_ 
-	pc at _mondung_ set _S.03_ 
-	place foe _monster_ at _mondung_ 
-	place npc _lady_ at _mondung_ 
+	dialog link for person _vamp_
+	start timer _2mondung_
+	reveal _mondung_
+	log 1010 step 0
+	repute with _vamp_ exceeds 20 do _S.05_
+	pc at _mondung_ set _S.03_
+	place foe _monster_ at _mondung_
+	place npc _lady_ at _mondung_
 
 _2mondung_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	when _qgclicked_ and _S.04_ 
-	give pc nothing 
-	end quest 
+	when _qgclicked_ and _S.04_
+	give pc nothing
+	end quest
 
 _S.02_ task:
-	killed 1 _monster_ 
-	say 1012 
+	killed 1 _monster_
+	say 1012
 
 _S.03_ task:
-	create foe imp0 every 40 minutes 100 times with 15% success 
+	create foe imp0 every 40 minutes 100 times with 15% success
 
 _S.04_ task:
-	clicked npc _lady_ 
-	hide npc _lady_ 
-	say 1015 
-	add _lady_ face 
+	clicked npc _lady_
+	hide npc _lady_
+	say 1015
+	add _lady_ face
 
 _S.05_ task:
-	start timer _S.07_ 
+	start timer _S.07_
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _S.07_ task:
-	get item letter31 
-	say 1011 
+	get item letter31
+	say 1011
 
 variable _S.08_
 _S.09_ task:
-	when _S.04_ and _2mondung_ 
-	say 1013 
+	when _S.04_ and _2mondung_
+	say 1013
 
 _clearclick_ task:
 	when _qgclicked_ and not _S.04_
-	say 1003 
-	clear _qgclicked_ _clearclick_ 
+	say 1003
+	clear _qgclicked_ _clearclick_

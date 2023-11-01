@@ -152,7 +152,7 @@ Message:  1025
 
 Message:  1030
 Номер предмета. 476-A-LCX-08
- 
+
 <ce> Тип: _item_
 <ce> Автор: _maker_, ___maker_
 <ce>
@@ -172,7 +172,7 @@ Message:  1030
 
 Message:  1031
 Item No. 476-A-LCX-08
- 
+
 <ce> Тип: _item_
 <ce> Автор: _maker_, ___maker_
 <ce>
@@ -203,7 +203,7 @@ Message:  1032
 <ce> Баночку глаз василиска.
 <ce>
 <ce> Запиши на мой счет.
- 
+
 <ce> -- _scholar_
 
 Message:  1040
@@ -221,7 +221,7 @@ Message:  1041
 <ce> У вас есть то, что было заказано?
 <ce> О, _questgiver_ говорит, что я
 <ce> могу знать, где найти изделие _item_
-<ce> мастера _maker_? Не знаю, кажется, 
+<ce> мастера _maker_? Не знаю, кажется,
 <ce> эта вещица исчезла после %g4 смерти,
 <ce> и до сих пор о ней ничего не слышно.
 <ce> Досадно. Однако, если уж вы здесь, не могли
@@ -347,100 +347,100 @@ Clock _time2_ 00:00 0 flag 17 range 1 2
 
 
 --	Quest start-up:
-	place item _item_ at _itemdung_ 
-	start timer _time1_ 
-	reveal _hintdung_ 
-	reveal _scholardung_ 
-	log 1020 step 0 
-	pick one of _S.02_ _cousin_ _cousin_ _S.03_ 
-	_map2_ used do _S.15_ 
+	place item _item_ at _itemdung_
+	start timer _time1_
+	reveal _hintdung_
+	reveal _scholardung_
+	log 1020 step 0
+	pick one of _S.02_ _cousin_ _cousin_ _S.03_
+	_map2_ used do _S.15_
 	--added underscores to map2
-	_I.03_ used do _S.16_ 
+	_I.03_ used do _S.16_
 	place npc _scholar_ at _scholardung_
 	
 
 _time1_ task:
-	end quest 
+	end quest
 
 _cousin_ task:
-	place item _map2_ at _hintdung_ 
+	place item _map2_ at _hintdung_
 
 _S.02_ task:
-	place item _I.03_ at _hintdung_ 
+	place item _I.03_ at _hintdung_
 
 _S.03_ task:
-	place item _I.03_ at _hintdung_ 
+	place item _I.03_ at _hintdung_
 
 _success_ task:
-	toting _item_ and _questgiver_ clicked 
-	give pc _item_ 
-	end quest 
+	toting _item_ and _questgiver_ clicked
+	give pc _item_
+	end quest
 
 _S.05_ task:
-	clicked npc _scholar_ 
+	clicked npc _scholar_
 
 _S.06_ task:
-	toting _I.04_ and _contact_ clicked 
-	get item _ingredient_ 
-	say 1044 
+	toting _I.04_ and _contact_ clicked
+	get item _ingredient_
+	say 1044
 
 _S.07_ task:
-	toting _ingredient_ and _scholar_ clicked 
-	get item _scholarreward_ 
-	prompt 1045 yes _S.08_ no _S.09_ 
-	make _scholarreward_ permanent 
+	toting _ingredient_ and _scholar_ clicked
+	get item _scholarreward_
+	prompt 1045 yes _S.08_ no _S.09_
+	make _scholarreward_ permanent
 
 _S.08_ task:
-	say 1046 
-	teleport pc to _hintdung_ 
+	say 1046
+	teleport pc to _hintdung_
 
 _S.09_ task:
-	say 1047 
+	say 1047
 
 _S.10_ task:
-	start timer _time2_ 
-	log 1025 step 1 
-	get item _I.04_ 
-	say 1042 
+	start timer _time2_
+	log 1025 step 1
+	get item _I.04_
+	say 1042
 
 _S.11_ task:
-	log 1021 step 1 
-	say 1043 
+	log 1021 step 1
+	say 1043
 
 _S.12_ task:
-	when _S.05_ and _S.02_ 
-	reveal _itemdung_ 
-	log 1022 step 1 
-	say 1040 
+	when _S.05_ and _S.02_
+	reveal _itemdung_
+	log 1022 step 1
+	say 1040
 
 _S.13_ task:
-	when _S.03_ or _cousin_ 
+	when _S.03_ or _cousin_
 
 _S.14_ task:
-	when _S.13_ and _S.05_ 
-	prompt 1041 yes _S.10_ no _S.11_ 
+	when _S.13_ and _S.05_
+	prompt 1041 yes _S.10_ no _S.11_
 
 _S.15_ task:
 	reveal _itemdung_ readmap
-	log 1023 step 2 
+	log 1023 step 2
 
 _S.16_ task:
-	log 1024 step 2 
+	log 1024 step 2
 
 _dummymage_ task:
-	clicked item _item_ say 1050 
+	clicked item _item_ say 1050
 
 _clickqgiver_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _S.19_ task:
-	when _S.03_ and _S.05_ and _S.16_ and _clickqgiver_ 
-	get item _gold_ 
-	say 1060 
-	make _gold_ permanent 
-	change repute with _questgiver_ by +5 
-	unset _clickqgiver_ 
-	end quest 
+	when _S.03_ and _S.05_ and _S.16_ and _clickqgiver_
+	get item _gold_
+	say 1060
+	make _gold_ permanent
+	change repute with _questgiver_ by +5
+	unset _clickqgiver_
+	end quest
 
 _clearclick_ task:
 	when _clickqgiver_ and not _S.19_ and not _S.07_
@@ -448,4 +448,4 @@ _clearclick_ task:
 	clear _clearclick_ _clickqgiver_
 
 _time2_ task:
-	hide npc _scholar_ 
+	hide npc _scholar_

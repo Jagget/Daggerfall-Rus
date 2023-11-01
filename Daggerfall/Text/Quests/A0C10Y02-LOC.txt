@@ -130,37 +130,37 @@ Clock _timeforq_ 00:00 0 flag 17 range 1 4
 Foe _darkb_ is Assassin
 
 --	Quest start-up:
-	dialog link for person _child_ 
-	start timer _timeforq_ 
-	log 1012 step 0 
-	pc at _dbguild_ set _S.01_ saying 1011 
-	place npc _child_ at _dbguild_ 
+	dialog link for person _child_
+	start timer _timeforq_
+	log 1012 step 0
+	pc at _dbguild_ set _S.01_ saying 1011
+	place npc _child_ at _dbguild_
 
 _timeforq_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	create foe _darkb_ every 2 minutes 4 times with 30% success 
+	create foe _darkb_ every 2 minutes 4 times with 30% success
 
 _S.02_ task:
-	clicked npc _child_ say 1010 
-	hide npc _child_ 
-	add _child_ face 
+	clicked npc _child_ say 1010
+	hide npc _child_
+	add _child_ face
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _vamp1_ task:
-	when _qgclicked_ and _S.02_ 
-	give pc _money_ 
-	change repute with _dummydarkb_ by -15 
-	end quest 
+	when _qgclicked_ and _S.02_
+	give pc _money_
+	change repute with _dummydarkb_ by -15
+	end quest
 
 _clearclick_ task:
-	when _qgclicked_ and not _S.02_ 
+	when _qgclicked_ and not _S.02_
 	say 1003
-	clear _qgclicked_ _clearclick_ 
+	clear _qgclicked_ _clearclick_
 
 _S.06_ task:
-	injured _darkb_ 
-	say 1020 
+	injured _darkb_
+	say 1020

@@ -52,7 +52,7 @@ QuestFail:  [1003]
 
 QuestComplete:  [1004]
 <ce> Приветствую, %pcf. Ты сделал это.
-<ce> Хирцин восхищен тобой, 
+<ce> Хирцин восхищен тобой,
 <ce> и это не просто комплимент, а
 <ce> отличное достижение. Вот тебе
 <ce> обещанный артефакт _artifact_.
@@ -139,7 +139,7 @@ Foe _monster_ is Wereboar
 _pcgetsgold_ task:
 	when _mondead_ and _qgclicked_
 	give pc _artifact_
-	end quest 
+	end quest
 --removed unnecessary delay
 
 _mondead_ task:

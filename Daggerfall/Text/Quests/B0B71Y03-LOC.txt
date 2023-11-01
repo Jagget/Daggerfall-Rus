@@ -329,127 +329,127 @@ Foe _battlemage_ is Battle_mage
 Foe _warrior_ is Warrior
 
 --	Quest start-up:
-	start timer _finddaughter_ 
-	reveal _dungeon1_ 
-	log 1010 step 0 
-	pick one of _artifact1_ _artifact2_ _artifact3_ 
-	pc at _palace_ set _S.10_ 
-	place npc _child_ at _palace_ 
-	place npc _witch_ at _dungeon1_ 
+	start timer _finddaughter_
+	reveal _dungeon1_
+	log 1010 step 0
+	pick one of _artifact1_ _artifact2_ _artifact3_
+	pc at _palace_ set _S.10_
+	place npc _child_ at _palace_
+	place npc _witch_ at _dungeon1_
 
 _S.00_ task:
-	clicked npc _witch_ 
+	clicked npc _witch_
 
 _S.01_ task:
-	clicked npc _child_ say 1025 
-	create foe _F.00_ every 3 minutes 5 times with 30% success 
-	create foe _battlemage_ every 4 minutes 5 times with 25% success 
-	hide npc _child_ 
-	add _child_ face 
+	clicked npc _child_ say 1025
+	create foe _F.00_ every 3 minutes 5 times with 30% success
+	create foe _battlemage_ every 4 minutes 5 times with 25% success
+	hide npc _child_
+	add _child_ face
 	clear _S.00_
 --added this clear task. otherwise witch would talk in palace re success
 
 -_clearclick_ task:
--	when _S.00_ and not _S.01_ 
--	clear _S.00_ _clearclick_ 
+-	when _S.00_ and not _S.01_
+-	clear _S.00_ _clearclick_
 --removed this clearclick. prevented quest from working
 variable _finddaughter_
 variable _artifact1_
 variable _artifact2_
 variable _artifact3_
 _how1_ task:
-	when _S.16_ and _artifact1_ 
-	log 1011 step 1 
+	when _S.16_ and _artifact1_
+	log 1011 step 1
 
 _how2_ task:
-	when _S.16_ and _artifact2_ 
-	log 1012 step 1 
+	when _S.16_ and _artifact2_
+	log 1012 step 1
 
 _fire_ task:
-	when _S.16_ and _artifact3_ 
-	log 1013 step 1 
+	when _S.16_ and _artifact3_
+	log 1013 step 1
 
 _S.10_ task:
-	create foe _warrior_ every 5 minutes 5 times with 50% success 
+	create foe _warrior_ every 5 minutes 5 times with 50% success
 
 _greklith_ task:
-	injured _warrior_ saying 1026 
+	injured _warrior_ saying 1026
 
 _S.12_ task:
-	injured _battlemage_ 
-	injured _F.00_ 
-	prompt 1027 yes _S.13_ no _S.14_ 
+	injured _battlemage_
+	injured _F.00_
+	prompt 1027 yes _S.13_ no _S.14_
 
 _S.13_ task:
-	drop _child_ face 
-	change repute with _local_ by +6 
-	change repute with _witch_ by -10 
-	end quest 
+	drop _child_ face
+	change repute with _local_ by +6
+	change repute with _witch_ by -10
+	end quest
 --reputation drop should be with witch, not child. changed to _witch_
 
 _S.14_ task:
-	change repute with _ruler_ by -50 
+	change repute with _ruler_ by -50
 
 _S.15_ task:
-	when _S.01_ and not _S.13_ and _S.00_ 
+	when _S.01_ and not _S.13_ and _S.00_
 	reveal _dungeon2_
 
 _S.16_ task:
-	when _S.00_ and not _S.01_ 
+	when _S.00_ and not _S.01_
 
 _S.17_ task:
-	when _artifact1_ and _S.15_ 
-	place item _aurielsbow_ at _dungeon2_ 
-	log 1050 step 2 
-	say 1031 
+	when _artifact1_ and _S.15_
+	place item _aurielsbow_ at _dungeon2_
+	log 1050 step 2
+	say 1031
 	drop _child_ face
 --moved "drop face" here, was not cooperating in S.15
 
 _S.18_ task:
-	when _artifact2_ and _S.15_ 
-	place item _aurielshield_ at _dungeon2_ 
-	log 1051 step 2 
-	say 1032 
+	when _artifact2_ and _S.15_
+	place item _aurielshield_ at _dungeon2_
+	log 1051 step 2
+	say 1032
 	drop _child_ face
 --moved "drop face" here, was not cooperating in S.15
 
 _S.19_ task:
-	when _artifact3_ and _S.15_ 
-	place item _lordsmail_ at _dungeon2_ 
-	log 1052 step 2 
-	say 1033 
+	when _artifact3_ and _S.15_
+	place item _lordsmail_ at _dungeon2_
+	log 1052 step 2
+	say 1033
 	drop _child_ face
 --moved "drop face" here, was not cooperating in S.15
 
 _S.20_ task:
-	clicked item _aurielsbow_ 
-	make _aurielsbow_ permanent 
+	clicked item _aurielsbow_
+	make _aurielsbow_ permanent
 --	Discovered a new op-code:
 	_0x3c_ 19
 
 _S.21_ task:
-	clicked item _aurielshield_ 
-	make _aurielshield_ permanent 
+	clicked item _aurielshield_
+	make _aurielshield_ permanent
 
 _S.22_ task:
-	clicked item _lordsmail_ 
-	make _lordsmail_ permanent 
+	clicked item _lordsmail_
+	make _lordsmail_ permanent
 
 _S.23_ task:
-	when _S.20_ or _S.22_ or _S.21_ 
-	give pc nothing 
-	end quest 
+	when _S.20_ or _S.22_ or _S.21_
+	give pc nothing
+	end quest
 
 _S.24_ task:
 	when _S.00_ and _artifact1_
-	say 1020 
+	say 1020
 
 _S.25_ task:
 	when _S.00_ and _artifact2_
-	say 1021 
+	say 1021
 
 _S.26_ task:
 	when _S.00_ and _artifact3_
-	say 1022 
+	say 1022
 
 variable _love_

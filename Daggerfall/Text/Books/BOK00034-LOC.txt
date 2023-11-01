@@ -3,7 +3,7 @@ Author: Ристон Бэйлор
 IsNaughty: False
 Price: 340
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]
@@ -42,4 +42,4 @@ Content:
 [/center]Мы не будем бороться и будем терзаться.
 [/center]И подобно щепке, подхваченной водоворотом прилива,
 [/center]Мы будем вечно пособниками несправедливости,
-[/center]Но будем вечно скорбеть о том.» 
+[/center]Но будем вечно скорбеть о том.»

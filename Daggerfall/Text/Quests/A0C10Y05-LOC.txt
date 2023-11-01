@@ -170,55 +170,55 @@ Foe _F.00_ is 3 Burglar
 Foe _F.01_ is 2 Warrior
 
 --	Quest start-up:
-	start timer _traveltime_ 
+	start timer _traveltime_
 	--this odd location marker has no use
-	log 1010 step 0 
-	pc at _temple_ set _S.03_ saying 1015 
-	pc at _betrothedhome_ set _S.02_ saying 1014 
-	hide npc _qgiver_ 
-	add _qgiver_ face 
-	place npc _betrothed_ at _betrothedhome_ 
-	place npc _priest_ at _temple_ 
+	log 1010 step 0
+	pc at _temple_ set _S.03_ saying 1015
+	pc at _betrothedhome_ set _S.02_ saying 1014
+	hide npc _qgiver_
+	add _qgiver_ face
+	place npc _betrothed_ at _betrothedhome_
+	place npc _priest_ at _temple_
 
 _traveltime_ task:
-	restore _qgiver_ 
-	say 1020 
-	drop _betrothed_ face 
-	drop _qgiver_ face 
-	end quest 
+	restore _qgiver_
+	say 1020
+	drop _betrothed_ face
+	drop _qgiver_ face
+	end quest
 
 _S.01_ task:
-	clicked npc _betrothed_ say 1011 
-	hide npc _betrothed_ 
-	add _betrothed_ face 
+	clicked npc _betrothed_ say 1011
+	hide npc _betrothed_
+	add _betrothed_ face
 
 _S.02_ task:
-	create foe _F.00_ every 1 minutes 1 times with 15% success 
+	create foe _F.00_ every 1 minutes 1 times with 15% success
 
 _S.03_ task:
-	create foe _F.01_ every 2 minutes 1 times with 50% success 
+	create foe _F.01_ every 2 minutes 1 times with 50% success
 
 _dummy_ task:
-	injured _F.01_ saying 1012 
-	injured _F.00_ saying 1013 
+	injured _F.01_ saying 1012
+	injured _F.00_ saying 1013
 
 _S.05_ task:
 	clicked npc _priest_
 
 _success_ task:
     when _S.01_ and _S.05_
-	give pc _gold_ 
-	drop _qgiver_ face 
-	drop _betrothed_ face 
-	change repute with _ruler_ by -20 
-	place npc _qgiver_ at _temple_ 
-	place npc _betrothed_ at _temple_ 
+	give pc _gold_
+	drop _qgiver_ face
+	drop _betrothed_ face
+	change repute with _ruler_ by -20
+	place npc _qgiver_ at _temple_
+	place npc _betrothed_ at _temple_
 
 _clearclick_ task:
-	when not _S.01_ and _S.05_ 
-	clear _S.05_ _clearclick_ 
+	when not _S.01_ and _S.05_
+	clear _S.05_ _clearclick_
 
 _questdone_ task:
 	when _success_ and not _S.03_
-	restore _qgiver_ 
-	end quest 
+	restore _qgiver_
+	end quest

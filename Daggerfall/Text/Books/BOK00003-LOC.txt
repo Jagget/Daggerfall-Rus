@@ -3,7 +3,7 @@ Author: Кайерго Чорвак
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 

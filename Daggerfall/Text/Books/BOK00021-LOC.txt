@@ -3,7 +3,7 @@ Author: Вондхэм Баррес
 IsNaughty: False
 Price: 770
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

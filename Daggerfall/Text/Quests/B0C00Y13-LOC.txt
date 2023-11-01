@@ -77,9 +77,9 @@ Message:  1011
 <ce> Вы вычистили дом _qgiver_.
 
 Message:  1012
-<ce> От стен доносится скребущий звук. 
-<ce> Живущие здесь существа наверняка плохо 
-<ce> отреагируют на ваше вторжение на их 
+<ce> От стен доносится скребущий звук.
+<ce> Живущие здесь существа наверняка плохо
+<ce> отреагируют на ваше вторжение на их
 <ce> территорию.
 
 -- Symbols used in the QRC file:
@@ -105,46 +105,46 @@ Foe _scorpions_ is Giant_scorpion
 Foe _bats_ is Giant_bat
 
 --	Quest start-up:
-	start timer _oneday_ 
-	log 1010 step 0 
+	start timer _oneday_
+	log 1010 step 0
 	--location action removed. not defined and not needed.
-	pc at _house_ set _S.01_ 
+	pc at _house_ set _S.01_
 
 _oneday_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
 	say 1012
-	pick one of _S.04_ _S.05_ _S.06_ _S.07_ 
+	pick one of _S.04_ _S.05_ _S.06_ _S.07_
 
 _questdone_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _success_ task:
-	when _S.03_ and _questdone_ 
-	give pc nothing 
-	end quest 
+	when _S.03_ and _questdone_
+	give pc nothing
+	end quest
 
 _S.03_ task:
-	killed 6 _bats_ 
-	killed 7 _rats_ 
-	killed 3 _scorpions_ 
-	killed 3 _spiders_ 
-	say 1011 
+	killed 6 _bats_
+	killed 7 _rats_
+	killed 3 _scorpions_
+	killed 3 _spiders_
+	say 1011
 
 _S.04_ task:
-	create foe _bats_ every 2 minutes 8 times with 100% success 
+	create foe _bats_ every 2 minutes 8 times with 100% success
 
 _S.05_ task:
-	create foe _rats_ every 2 minutes 10 times with 100% success 
+	create foe _rats_ every 2 minutes 10 times with 100% success
 
 _S.06_ task:
-	create foe _scorpions_ every 3 minutes 4 times with 100% success 
+	create foe _scorpions_ every 3 minutes 4 times with 100% success
 
 _S.07_ task:
 	create foe _spiders_ every 3 minutes 4 times with 100% success
---slowed enemy spawn due to feedback 
+--slowed enemy spawn due to feedback
 
 _clearclick_ task:
-	when not _S.03_ and _questdone_ 
-	clear _questdone_ _clearclick_ 
+	when not _S.03_ and _questdone_
+	clear _questdone_ _clearclick_

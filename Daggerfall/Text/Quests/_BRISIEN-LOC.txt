@@ -35,7 +35,7 @@ RumorsPostsuccess:  [1007]
 
 QuestorPostsuccess:  [1008]
 <ce> Надеюсь ваше расследование не стоит на месте, %pcf.
-<ce> 
+<ce>
 <ce> -- леди Б.
 
 QuestLogEntry:  [1010]
@@ -106,7 +106,7 @@ Message:  1016
 <ce> Как вы поступите, полностью зависит от вас. Я
 <ce> свяжусь с вами, если появится какая-либо новая
 <ce> информация.
-<ce> 
+<ce>
 <ce> Скоро я уезжаю из Даггерфолла. Мое положение
 <ce> здесь стало неблагоприятно, а жизнь моя в
 <ce> опасности. Не упоминайте мое имя при дворе.
@@ -115,13 +115,13 @@ Message:  1016
 
 Message:  1020
 Уважаемый друг %pcn,
- 
+
      Я слышала о ваших неприятностях на море, и боялась
  самого наихудшего. А сейчас мне стало известно, что вы
  живы и с вами все в порядке. Я хотела бы встретиться с
  вами и пообщаться насчет задания в Илиакском заливе,
  выданного вам нашим дражайшим императором.
- 
+
      Позвольте мне представиться. Я леди Магнессен, агент
  императора при дворе Даггерфолла. Мое положение при нем
  менее официальное, по сравнению посольским. Никто из других
@@ -129,18 +129,18 @@ Message:  1020
  целях. В Илиакском заливе процветает дух бунтарства против
  правления императорского трона, так что советую вам быть
  осмотрительными.
- 
+
      Для нашей встречи я найму на месяц комнату в таверне
  _dirtypit_ в __dirtypit_, что в Даггерфолле.
  По прошествии этого срока я уеду. Рассчитываю на ваше
  скорейшее прибытие.
- 
+
  Искренне ваша,
  Бризиенна, леди Магнессен
 
 Message:  1021
 %pcn,
- 
+
      Я посылала вам письмо несколько недель назад.
  Это моя единственная надежда застать вас. Если один
  из ваших путей приведет вас в __dirtypit_, то
@@ -149,25 +149,25 @@ Message:  1021
  я представитель императора в Даггерфолле и очень важно,
  чтобы мы встретились и поговорили. Я продлю свое пребывание
  в _dirtypit_ в __dirtypit_ еще на две недели.
- 
+
  Конечно же велика возможность того, что вы намеренно
  избегаете встречи со мной и пытаетесь улизнуть от
  исполнения долга перед императором. Надеюсь я
  ошибаюсь. Если вы не прибудете, я буду вынуждена
  объявить вас предателем его Императорского Высочества,
  Уриэля Септима Седьмого.
- 
+
  Искренне ваша,
- 
+
  Бризиенна, леди Магнессен
 
 Message:  1022
 %pcn,
- 
+
  Я вас ждала, а вы так и не приехали. Я доложу
  об этом императору. Если это будет в моих силах,
  я отстраню вас от службы.
- 
+
  леди Магнессен
 
 Message:  1026
@@ -236,45 +236,45 @@ Clock _oneday_ 1.00:00 0 flag 1 range 0 1
 
 
 --	Quest start-up:
-	dialog link for person ladyBrisienna 
-	log 1010 step 0 
-	pc at PiratesHold set _exitstarter_ 
-	say 1025 
+	dialog link for person ladyBrisienna
+	log 1010 step 0
+	pc at PiratesHold set _exitstarter_
+	say 1025
 
 _invitepc_ task:
-	add dialog for person ladyBrisienna 
-	start timer _remindpc_ 
-	give pc _letter1_ notify 1026 
-	create npc at _dirtypit_ 
-	place npc ladyBrisienna at _dirtypit_ 
+	add dialog for person ladyBrisienna
+	start timer _remindpc_
+	give pc _letter1_ notify 1026
+	create npc at _dirtypit_
+	place npc ladyBrisienna at _dirtypit_
 
 _remindpc_ task:
-	start timer _pcfailed_ 
-	give pc _letter2_ notify 1026 
+	start timer _pcfailed_
+	give pc _letter2_ notify 1026
 
 _pcfailed_ task:
-	start timer _oneday_ 
-	change repute with ladyBrisienna by -15 
-	give pc stopMainQuest notify 1026 
+	start timer _oneday_
+	change repute with ladyBrisienna by -15
+	give pc stopMainQuest notify 1026
 
 _meetladyb_ task:
-	clicked npc ladyBrisienna 
-	start timer _oneday_ 
-	stop timer _invitepc_ 
-	stop timer _pcfailed_ 
-	stop timer _remindpc_ 
-	log 1011 step 1 
-	start task _S.06_ 
-	say 1015 
-	say 1016 
+	clicked npc ladyBrisienna
+	start timer _oneday_
+	stop timer _invitepc_
+	stop timer _pcfailed_
+	stop timer _remindpc_
+	log 1011 step 1
+	start task _S.06_
+	say 1015
+	say 1016
 
 _oneday_ task:
-	end quest 
+	end quest
 
 variable _exitstarter_
 until _exitstarter_ performed:
-	start quest 999 999 
-	start timer _invitepc_ 
-	remove log step 0 
+	start quest 999 999
+	start timer _invitepc_
+	remove log step 0
 
 MetLadyBrisienna _S.06_

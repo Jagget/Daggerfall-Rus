@@ -109,7 +109,7 @@ Message:  1016
 <ce> агент Обливиона настиг нас! Я перенес
 <ce> самые ценные реагенты в ___fakedung_.
 <ce> Приходи, когда назойливый %ra будет мертв.
-<ce> 
+<ce>
 <ce> Н.
 
 
@@ -348,40 +348,40 @@ Foe _monster1_ is Mage
 Foe _daedra_ is Frost_daedra
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1020 step 0 
-	pick one of _S.08_ _S.09_ _S.33_ 
-	pc at _mondung_ set _S.00_ 
-	_letter_ used do _S.02_ 
-	place foe _monster_ at _mondung_ 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1020 step 0
+	pick one of _S.08_ _S.09_ _S.33_
+	pc at _mondung_ set _S.00_
+	_letter_ used do _S.02_
+	place foe _monster_ at _mondung_
 
 variable _S.00_
 _S.01_ task:
-	when _S.00_ and not _S.05_ and not _S.17_ 
-	log 1018 step 1 
-	say 1017 
+	when _S.00_ and not _S.05_ and not _S.17_
+	log 1018 step 1
+	say 1017
 
 _S.02_ task:
-	reveal _fakedung_ 
-	log 1019 step 1 
+	reveal _fakedung_
+	log 1019 step 1
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 _S.04_ task:
-	clicked npc _qgfriend_ 
+	clicked npc _qgfriend_
 
 _S.05_ task:
-	killed 1 _monster_ 
+	killed 1 _monster_
 	killed 1 _monster1_
-	say 1035 
+	say 1035
 
 _S.06_ task:
-	when _S.04_ and _S.05_ 
-	give pc _artifact_ 
-	start timer _bonk_ 
-	unset _S.04_ 
+	when _S.04_ and _S.05_
+	give pc _artifact_
+	start timer _bonk_
+	unset _S.04_
 
 _clearclick_ task:
 	when _S.04_ and not _S.05_
@@ -389,51 +389,51 @@ _clearclick_ task:
 	clear _S.04_ _clearclick_
 
 _S.07_ task:
-	injured _monster_ 
-	place item _letter_ at _mondung_ 
+	injured _monster_
+	place item _letter_ at _mondung_
 
 variable _S.08_
 variable _S.09_
 variable _betrayQuestor_
 _S.11_ task:
-	clicked item _bow_ 
-	clear _S.08_ 
+	clicked item _bow_
+	clear _S.08_
 
 _S.12_ task:
-	clicked item _ring_ 
-	clear _S.09_ 
+	clicked item _ring_
+	clear _S.09_
 
 _S.13_ task:
-	clicked item _staff_ 
-	clear _S.33_ 
+	clicked item _staff_
+	clear _S.33_
 
 _S.14_ task:
-	when _S.17_ and _S.19_ 
-	place item _bow_ at _bowdung_ 
-	reveal _bowdung_ 
-	log 1021 step 2 
-	say 1040 
+	when _S.17_ and _S.19_
+	place item _bow_ at _bowdung_
+	reveal _bowdung_
+	log 1021 step 2
+	say 1040
 
 _S.15_ task:
-	when _S.17_ and _S.20_ 
-	place item _ring_ at _ringdung_ 
-	reveal _ringdung_ 
-	log 1022 step 2 
-	say 1041 
+	when _S.17_ and _S.20_
+	place item _ring_ at _ringdung_
+	reveal _ringdung_
+	log 1022 step 2
+	say 1041
 
 _S.16_ task:
-	when _S.17_ and _S.21_ 
-	place item _staff_ at _staffdung_ 
-	reveal _staffdung_ 
-	log 1023 step 2 
-	say 1042 
+	when _S.17_ and _S.21_
+	place item _staff_ at _staffdung_
+	reveal _staffdung_
+	log 1023 step 2
+	say 1042
 
 _S.17_ task:
-	place item _letter_ at _mondung_ 
-	dialog link for location _fakedung_ 
-	start timer _S.22_ 
-	rumor mill 1015 
-	change repute with _questgiver_ by -20 
+	place item _letter_ at _mondung_
+	dialog link for location _fakedung_
+	start timer _S.22_
+	rumor mill 1015
+	change repute with _questgiver_ by -20
 	remove foe _monster_
 	place foe _monster1_ at _fakedung_
 --replaced faulty action "place foe _monster_ at _fakedung_" with remove foe, otherwise foe would not disappear. added new monster1 variable
@@ -441,63 +441,63 @@ _S.17_ task:
 
 variable _S.18_
 _S.19_ task:
-	when _S.07_ and _S.08_ 
-	prompt 1030 yes _S.17_ no _S.18_ 
+	when _S.07_ and _S.08_
+	prompt 1030 yes _S.17_ no _S.18_
 
 _S.20_ task:
-	when _S.07_ and _S.09_ 
-	prompt 1031 yes _S.17_ no _S.18_ 
+	when _S.07_ and _S.09_
+	prompt 1031 yes _S.17_ no _S.18_
 
 _S.21_ task:
-	when _S.07_ and _S.33_ 
-	prompt 1032 yes _S.17_ no _S.18_ 
+	when _S.07_ and _S.33_
+	prompt 1032 yes _S.17_ no _S.18_
 
 _S.22_ task:
-	create foe _daedra_ every 3 minutes 4 times with 100% success 
+	create foe _daedra_ every 3 minutes 4 times with 100% success
 
 _S.23_ task:
-	injured _daedra_ 
-	say 1050 
+	injured _daedra_
+	say 1050
 
 _S.24_ task:
-	when _betrayQuestor_ and _S.14_ 
-	place item _bow_ at _fakedung_ 
-	say 1045 
+	when _betrayQuestor_ and _S.14_
+	place item _bow_ at _fakedung_
+	say 1045
 
 _S.25_ task:
-	when _betrayQuestor_ and _S.15_ 
-	place item _ring_ at _fakedung_ 
-	say 1046 
+	when _betrayQuestor_ and _S.15_
+	place item _ring_ at _fakedung_
+	say 1046
 
 _S.26_ task:
-	when _betrayQuestor_ and _S.16_ 
-	place item _staff_ at _fakedung_ 
-	say 1047 
+	when _betrayQuestor_ and _S.16_
+	place item _staff_ at _fakedung_
+	say 1047
 
 _S.27_ task:
-	when _S.11_ and not _S.05_ 
-	start timer _betrayQuestor_ 
+	when _S.11_ and not _S.05_
+	start timer _betrayQuestor_
 
 _S.28_ task:
-	when _S.12_ and not _S.05_ 
-	start timer _betrayQuestor_ 
+	when _S.12_ and not _S.05_
+	start timer _betrayQuestor_
 
 _S.29_ task:
-	when _S.13_ and not _S.05_ 
-	start timer _betrayQuestor_ 
+	when _S.13_ and not _S.05_
+	start timer _betrayQuestor_
 
 _S.30_ task:
-	when _S.11_ and _S.05_ 
-	make _bow_ permanent 
+	when _S.11_ and _S.05_
+	make _bow_ permanent
 
 _S.31_ task:
-	when _S.12_ and _S.05_ 
-	make _ring_ permanent 
+	when _S.12_ and _S.05_
+	make _ring_ permanent
 
 _S.32_ task:
-	when _S.13_ and _S.05_ 
-	make _staff_ permanent 
+	when _S.13_ and _S.05_
+	make _staff_ permanent
 
 variable _S.33_
 _bonk_ task:
-	end quest 
+	end quest

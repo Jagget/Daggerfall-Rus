@@ -132,33 +132,33 @@ Clock _queston_ 00:00 0 flag 17 range 0 2
 Foe _target_ is Assassin
 
 --	Quest start-up:
-	dialog link for location _mondung_ 
-	start timer _queston_ 
-	log 1010 step 0 
-	place foe _target_ at _mondung_ 
+	dialog link for location _mondung_
+	start timer _queston_
+	log 1010 step 0
+	place foe _target_ at _mondung_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _reward_ task:
-	when _qgclicked_ and _S.02_ 
-	give pc nothing 
-	end quest 
+	when _qgclicked_ and _S.02_
+	give pc nothing
+	end quest
 
 _S.02_ task:
-	killed 1 _target_ 
-	say 1013 
+	killed 1 _target_
+	say 1013
 
 _S.03_ task:
-	clicked npc _snitch_ 
-	add dialog for location _mondung_ 
-	reveal _mondung_ 
-	log 1012 step 1 
-	say 1011 
+	clicked npc _snitch_
+	add dialog for location _mondung_
+	reveal _mondung_
+	log 1012 step 1
+	say 1011
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _S.05_ task:
-	when _qgclicked_ and not _S.02_ 
-	clear _qgclicked_ _S.05_ 
+	when _qgclicked_ and not _S.02_
+	clear _qgclicked_ _S.05_

@@ -3,7 +3,7 @@ Author: Тетрониус Лор
 IsNaughty: False
 Price: 661
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

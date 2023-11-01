@@ -135,29 +135,29 @@ Clock _1stparton_ 00:00 0 flag 1 range 2 5
 Foe _monster_ is Monk
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1020 step 0 
-	place foe _monster_ at _mondung_ 
-	create npc _contact_ 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1020 step 0
+	place foe _monster_ at _mondung_
+	create npc _contact_
 
 _pcgetsgold_ task:
-	when _qgclicked_ and _mondead_ 
-	give pc _artifact_ 
-	end quest 
+	when _qgclicked_ and _mondead_
+	give pc _artifact_
+	end quest
 --removed unnecessary delay
 
 _mondead_ task:
-	killed 1 _monster_ 
-	say 1015 
+	killed 1 _monster_
+	say 1015
 
 _qgclicked_ task:
-	clicked npc _contact_ 
+	clicked npc _contact_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 _clearclick_ task:
-	when _qgclicked_ and not _mondead_ 
+	when _qgclicked_ and not _mondead_
 	say 1003
-	clear _qgclicked_ 
+	clear _qgclicked_

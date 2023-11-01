@@ -66,9 +66,9 @@ Message:  1012
 
 Message:  1020
                        %qdt
- 
+
  Уважаемый друг %pcn из клана %vam,
- 
+
     Позвольте представиться. Меня зовут _hunter_.
  Быть может вы уже слышали обо мне -- известном
  охотнике на вампиров? Не спешите плохо судить обо
@@ -87,9 +87,9 @@ Message:  1020
  вампиров и управляющее вами. Сделав это, вы не
  только освободите себя, но и излечите %reg
  от этой зловонной накипи в сердце.
- 
+
 <ce> (продолжается дальше)
- 
+
     Лично я не знаю, где можно найти вашего "кровника",
  но мои источники узнали имя одного из высших вампиров,
  который обладает этой информацией, _vamp1_ из
@@ -99,7 +99,7 @@ Message:  1020
     Примите мое предложение, %pcn. У вас
  ровно =huntstart_ дней, а потом вы и ваш род из
  %vam будут уничтожены как паразиты.
- 
+
 <ce> _hunter_
 
 Message:  1021
@@ -257,93 +257,93 @@ Foe _F.02_ is Knight
 Foe _elder_ is Ancient_vampire
 
 --	Quest start-up:
-	dialog link for person _vamp2_ 
-	dialog link for location _fatherdung_ person _vamp1_ 
-	dialog link for person _hunter_ 
-	_letter_ used do _readletter_ 
-	have _letter_ set _S.19_ 
-	give pc _letter_ notify 1045 
-	place foe _bloodfather_ at _fatherdung_ 
-	create npc _vamp1_ 
-	place foe _elder_ at _wrongdung_ 
+	dialog link for person _vamp2_
+	dialog link for location _fatherdung_ person _vamp1_
+	dialog link for person _hunter_
+	_letter_ used do _readletter_
+	have _letter_ set _S.19_
+	give pc _letter_ notify 1045
+	place foe _bloodfather_ at _fatherdung_
+	create npc _vamp1_
+	place foe _elder_ at _wrongdung_
 
 _S.00_ task:
-	killed 1 _bloodfather_ 
-	give pc nothing 
-	cure vampirism 
-	change repute with _vamp1_ by -20 
-	end quest 
+	killed 1 _bloodfather_
+	give pc nothing
+	cure vampirism
+	change repute with _vamp1_ by -20
+	end quest
 
 _S.01_ task:
-	clicked npc _vamp1_ 
-	have _letter_ set _S.06_ 
+	clicked npc _vamp1_
+	have _letter_ set _S.06_
 
 variable _S.02_
 _readletter_ task:
-	add dialog for person _hunter_ 
-	add dialog for person _vamp1_ 
-	log 1050 step 0 
+	add dialog for person _hunter_
+	add dialog for person _vamp1_
+	log 1050 step 0
 
 _S.04_ task:
-	daily from 06:00 to 18:00 
-	clear _S.17_ 
+	daily from 06:00 to 18:00
+	clear _S.17_
 
 variable _S.05_
 variable _S.06_
 _S.07_ task:
-	when _S.06_ and _S.01_ 
-	prompt 1021 yes _S.08_ no _S.09_ 
+	when _S.06_ and _S.01_
+	prompt 1021 yes _S.08_ no _S.09_
 
 _S.08_ task:
-	hide npc _vamp2_ 
-	hide npc _vamp1_ 
-	say 1022 
+	hide npc _vamp2_
+	hide npc _vamp1_
+	say 1022
 
 _S.09_ task:
-	add dialog for person _vamp2_ 
-	start timer _S.10_ 
-	reveal _fatherdung_ 
-	reveal _wrongdung_ 
-	log 1051 step 1 
-	get item _token_ 
-	say 1023 
+	add dialog for person _vamp2_
+	start timer _S.10_
+	reveal _fatherdung_
+	reveal _wrongdung_
+	log 1051 step 1
+	get item _token_
+	say 1023
 
 _S.10_ task:
-	hide npc _vamp1_ 
-	hide npc _vamp2_ 
-	change repute with _vamp1_ by -15 
+	hide npc _vamp1_
+	hide npc _vamp2_
+	change repute with _vamp1_ by -15
 
 _S.11_ task:
-	injured _bloodfather_ saying 1032 
-	injured _elder_ saying 1030 
+	injured _bloodfather_ saying 1032
+	injured _elder_ saying 1030
 
 _S.12_ task:
-	killed 1 _elder_ saying 1031 
-	change repute with _vamp1_ by -20 
+	killed 1 _elder_ saying 1031
+	change repute with _vamp1_ by -20
 
 _S.13_ task:
-	end quest 
+	end quest
 
 _huntstart_ task:
-	create foe _F.02_ every 60 minutes 30 times with 20% success 
-	start timer _S.13_ 
-	hide npc _vamp2_ 
-	hide npc _vamp1_ 
+	create foe _F.02_ every 60 minutes 30 times with 20% success
+	start timer _S.13_
+	hide npc _vamp2_
+	hide npc _vamp1_
 
 _S.15_ task:
-	injured _F.02_ saying 1040 
+	injured _F.02_ saying 1040
 
 _givetoken_ task:
-	toting _token_ and _vamp2_ clicked 
-	log 1052 step 2 
-	say 1024 
+	toting _token_ and _vamp2_ clicked
+	log 1052 step 2
+	say 1024
 
 _S.17_ task:
-	when _S.10_ and not _S.04_ and not _givetoken_ 
-	create foe _vampire_ every 60 minutes 10 times with 25% success 
+	when _S.10_ and not _S.04_ and not _givetoken_
+	create foe _vampire_ every 60 minutes 10 times with 25% success
 
 _S.18_ task:
-	injured _vampire_ saying 1025 
+	injured _vampire_ saying 1025
 
 _S.19_ task:
-	start timer _huntstart_ 
+	start timer _huntstart_

@@ -114,51 +114,51 @@ Foe _iron_ is Iron_atronach
 Foe _ice_ is Ice_atronach
 
 --	Quest start-up:
-	start timer _2dung_ 
-	reveal _dungeon_ 
-	log 1010 step 0 
-	pick one of _map_ _nomap_ _nomap_ _nomap_ 
-	pick one of _S.04_ _S.05_ _S.06_ _S.07_ 
+	start timer _2dung_
+	reveal _dungeon_
+	log 1010 step 0
+	pick one of _map_ _nomap_ _nomap_ _nomap_
+	pick one of _S.04_ _S.05_ _S.06_ _S.07_
 
 _2dung_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	killed 1 _ice_ saying 1011 
-	killed 1 _fire_ saying 1011 
-	killed 1 _flesh_ saying 1011 
-	killed 1 _iron_ saying 1011 
+	killed 1 _ice_ saying 1011
+	killed 1 _fire_ saying 1011
+	killed 1 _flesh_ saying 1011
+	killed 1 _iron_ saying 1011
 
 _S.02_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _clearclick_ task:
-	when _S.02_ and not _S.01_ 
-	clear _S.02_ _clearclick_ 
+	when _S.02_ and not _S.01_
+	clear _S.02_ _clearclick_
 
 _S.04_ task:
-	place foe _iron_ at _dungeon_ 
+	place foe _iron_ at _dungeon_
 
 _S.05_ task:
-	place foe _ice_ at _dungeon_ 
+	place foe _ice_ at _dungeon_
 
 _S.06_ task:
-	place foe _flesh_ at _dungeon_ 
+	place foe _flesh_ at _dungeon_
 
 _S.07_ task:
-	place foe _fire_ at _dungeon_ 
+	place foe _fire_ at _dungeon_
 
 variable _map_
 variable _nomap_
 _S.10_ task:
-	when _map_ and _S.02_ 
+	when _map_ and _S.02_
 	reveal _newdung_ readmap
-    say 1080 
+    say 1080
 
 _S.11_ task:
-	when _nomap_ and _S.02_ 
+	when _nomap_ and _S.02_
 
 _S.12_ task:
-	when _S.10_ or _S.11_ 
+	when _S.10_ or _S.11_
 	give pc _gold_
-	end quest 
+	end quest

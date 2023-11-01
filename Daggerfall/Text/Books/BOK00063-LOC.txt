@@ -3,7 +3,7 @@ Author: Брат Хечфелд
 IsNaughty: False
 Price: 711
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

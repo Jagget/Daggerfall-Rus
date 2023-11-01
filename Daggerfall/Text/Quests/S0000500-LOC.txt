@@ -158,68 +158,68 @@ Foe _guards_ is Spellsword
 Foe _F.01_ is Spellsword
 
 --	Quest start-up:
-	start timer _S.00_ 
+	start timer _S.00_
 	have _letter_ set _goclock_
 
 _goclock_ task:
 	start timer _firsttimer_
 
 _S.00_ task:
-	_letter_ used do _readletter_ 
-	give pc _letter_ notify 1070 
-	place foe _guards_ at _sentinel_ 
-	place npc _contact1_ at _tavern_ 
-	place npc _traitor_ at _sentinel_ 
+	_letter_ used do _readletter_
+	give pc _letter_ notify 1070
+	place foe _guards_ at _sentinel_
+	place npc _contact1_ at _tavern_
+	place npc _traitor_ at _sentinel_
 
 variable _executiondelay_
 variable _firsttimer_
 _S.02_ task:
-	clicked npc _contact1_ 
-	log 1021 step 1 
-	say 1040 
-	start timer _executiondelay_ 
+	clicked npc _contact1_
+	log 1021 step 1
+	say 1040
+	start timer _executiondelay_
 	stop timer _firsttimer_
 
 _S.03_ task:
-	clicked npc _traitor_ 
-	start timer _escapetime_ 
-	log 1022 step 2 
-	hide npc _traitor_ 
-	hide npc _contact1_ 
-	say 1041 
-	add _traitor_ face 
+	clicked npc _traitor_
+	start timer _escapetime_
+	log 1022 step 2
+	hide npc _traitor_
+	hide npc _contact1_
+	say 1041
+	add _traitor_ face
 	change repute with _queen_ by -20
-	place npc _contact2_ at _safehouse_ 
+	place npc _contact2_ at _safehouse_
 	stop timer _executiondelay_
 
 _greklith_ task:
-	injured _guards_ 
-	create foe _F.01_ every 2 minutes 5 times with 50% success 
-	say 1050 
+	injured _guards_
+	create foe _F.01_ every 2 minutes 5 times with 50% success
+	say 1050
 
 _S.05_ task:
-	clicked npc _contact2_ 
+	clicked npc _contact2_
 
 _S.06_ task:
-	when _S.03_ and _S.05_ 
-	give pc _gold_ 
-	drop _traitor_ face 
-	end quest 
+	when _S.03_ and _S.05_
+	give pc _gold_
+	drop _traitor_ face
+	end quest
 --removed unnecessary delay
 
 _S.08_ task:
-	when _executiondelay_ and not _S.03_ 
-	rumor mill 1060 
-	end quest 
+	when _executiondelay_ and not _S.03_
+	rumor mill 1060
+	end quest
 
 _S.08a_ task:
-	when _firsttimer_ and not _S.03_ 
-	rumor mill 1060 
-	end quest 
+	when _firsttimer_ and not _S.03_
+	rumor mill 1060
+	end quest
 
 _escapetime_ task:
-	say 1051 
-	end quest 
+	say 1051
+	end quest
 
 _readletter_ task:
-	log 1020 step 0 
+	log 1020 step 0

@@ -130,51 +130,51 @@ Foe _F.02_ is Orc_shaman
 Foe _mage_ is Mage
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1015 step 0 
-	pick one of _week_ _plot_ _time_ _vend_ 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1015 step 0
+	pick one of _week_ _plot_ _time_ _vend_
 
 _pcgetsgold_ task:
-	when _qgclicked_ and _S.02_ 
-	give pc _reward_ 
-	end quest 
+	when _qgclicked_ and _S.02_
+	give pc _reward_
+	end quest
 
 _qgclicked_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _S.02_ task:
-	killed 1 _battlemage_ 
-	killed 1 _F.02_ 
-	killed 1 _F.00_ 
-	killed 1 _mage_ 
-	say 1012 
-	change repute with _fakename_ by -20 
+	killed 1 _battlemage_
+	killed 1 _F.02_
+	killed 1 _F.00_
+	killed 1 _mage_
+	say 1012
+	change repute with _fakename_ by -20
 
 variable _queston_
 _1stparton_ task:
-	change repute with _questgiver_ by -15 
-	end quest 
+	change repute with _questgiver_ by -15
+	end quest
 
 _clearclick_ task:
-	when _qgclicked_ and not _S.02_ 
-	clear _qgclicked_ _clearclick_ 
+	when _qgclicked_ and not _S.02_
+	clear _qgclicked_ _clearclick_
 
 _week_ task:
-	place foe _battlemage_ at _mondung_ 
+	place foe _battlemage_ at _mondung_
 
 _plot_ task:
-	place foe _mage_ at _mondung_ 
+	place foe _mage_ at _mondung_
 
 _time_ task:
-	place foe _F.02_ at _mondung_ 
+	place foe _F.02_ at _mondung_
 
 _vend_ task:
-	place foe _F.00_ at _mondung_ 
+	place foe _F.00_ at _mondung_
 
 _dummy_ task:
-	injured _mage_ 
-	injured _battlemage_ 
-	injured _F.00_ 
-	injured _F.02_ 
-	say 1020 
+	injured _mage_
+	injured _battlemage_
+	injured _F.00_
+	injured _F.02_
+	say 1020

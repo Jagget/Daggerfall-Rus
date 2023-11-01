@@ -77,7 +77,7 @@ QuestLogEntry:  [1010]
 <ce> в ___qgiver_ хочет остановить
 <ce> _soldier_, настроенного уничтожить
 <ce> %reg. Орк обитает в какой-то дыре,
-<ce> называемой ___mondung_, со 
+<ce> называемой ___mondung_, со
 <ce> своими войсками. У меня =2mondung_ дня, чтобы
 <ce> разобраться с этой угрозой и вернуться
 <ce> к __qgiver_.
@@ -147,46 +147,46 @@ Foe _F.02_ is Orc_sergeant
 Foe _hunter_ is Orc_shaman
 
 --	Quest start-up:
-	start timer _2mondung_ 
-	reveal _mondung_ 
-	log 1010 step 0 
+	start timer _2mondung_
+	reveal _mondung_
+	log 1010 step 0
 
 _2mondung_ task:
-	end quest 
+	end quest
 
 variable _2letter_
 _S.02_ task:
-	when _qgclicked_ and _questdone_ 
-	give pc nothing 
-	change repute with _qgiver_ by +10 
-	end quest 
+	when _qgclicked_ and _questdone_
+	give pc nothing
+	change repute with _qgiver_ by +10
+	end quest
 
 variable _S.03_
 variable _S.04_
 until _S.04_ performed:
-	pc at _mondung_ set _S.07_ 
+	pc at _mondung_ set _S.07_
 
 _S.05_ task:
-	killed 1 _soldier_ 
-	say 1014 
+	killed 1 _soldier_
+	say 1014
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _S.07_ task:
-	create foe _note_ every 100 minutes 100 times with 12% success 
-	create foe _F.02_ every 107 minutes 50 times with 10% success 
-	create foe _hunter_ every 113 minutes 20 times with 8% success 
-	place foe _soldier_ at _mondung_ 
+	create foe _note_ every 100 minutes 100 times with 12% success
+	create foe _F.02_ every 107 minutes 50 times with 10% success
+	create foe _hunter_ every 113 minutes 20 times with 8% success
+	place foe _soldier_ at _mondung_
 
 _questdone_ task:
-	when _S.05_ or _S.04_ 
+	when _S.05_ or _S.04_
 
 _S.09_ task:
-	when _2mondung_ and not _questdone_ 
+	when _2mondung_ and not _questdone_
 
 variable _S.10_
 _clearclick_ task:
 	when _qgclicked_ and not _questdone_
-	say 1003 
-	clear _qgclicked_ _clearclick_ 
+	say 1003
+	clear _qgclicked_ _clearclick_

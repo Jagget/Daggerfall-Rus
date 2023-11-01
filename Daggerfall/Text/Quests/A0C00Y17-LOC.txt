@@ -169,94 +169,94 @@ Foe _guards_ is 2 Warrior
 Foe _F.03_ is 2 Assassin
 
 --	Quest start-up:
-	start timer _traveltime_ 
-	log 1010 step 0 
-	pick one of _S.01_ _S.02_ _S.14_ _S.03_ 
-	hide npc _questgiver_ 
-	add _questgiver_ face 
-	create npc at _destination_ 
+	start timer _traveltime_
+	log 1010 step 0
+	pick one of _S.01_ _S.02_ _S.14_ _S.03_
+	hide npc _questgiver_
+	add _questgiver_ face
+	create npc at _destination_
 
 variable _traveltime_
 _S.01_ task:
-	create foe _guards_ every 5 minutes 5 times with 20% success 
+	create foe _guards_ every 5 minutes 5 times with 20% success
 
 _S.02_ task:
-	create foe _mages_ every 5 minutes 3 times with 25% success 
+	create foe _mages_ every 5 minutes 3 times with 25% success
 
 _S.03_ task:
-	create foe _F.01_ every 5 minutes 3 times with 25% success 
+	create foe _F.01_ every 5 minutes 3 times with 25% success
 
 variable _S.04_
 _S.05_ task:
-	injured _mages_ saying 1021 
-	injured _guards_ saying 1020 
-	injured _F.03_ saying 1023 
-	injured _F.01_ saying 1022 
-	prompt 1019 yes _yes_ no _no_ 
+	injured _mages_ saying 1021
+	injured _guards_ saying 1020
+	injured _F.03_ saying 1023
+	injured _F.01_ saying 1022
+	prompt 1019 yes _yes_ no _no_
 --added underscores to yes
 
 _S.06_ task:
-	give pc _gold_ 
-	drop _questgiver_ face 
-	place npc _questgiver_ at _destination_ 
-	end quest 
+	give pc _gold_
+	drop _questgiver_ face
+	place npc _questgiver_ at _destination_
+	end quest
 
 _extratime_ task:
-	end quest 
+	end quest
 
 _yes_ task:
-	start timer _extratime_ 
-	say 1030 
-	drop _questgiver_ face 
+	start timer _extratime_
+	say 1030
+	drop _questgiver_ face
 
 until _yes_ performed:
-	pc at _destination_ set _S.06_ 
+	pc at _destination_ set _S.06_
 
 _no_ task:
-	say 1040 
+	say 1040
 
 variable _S.10_
 _S.11_ task:
-	when _yes_ and _S.01_ 
-	legal repute +10 
-	restrain foe _guards_ 
+	when _yes_ and _S.01_
+	legal repute +10
+	restrain foe _guards_
 
 _S.12_ task:
-	when _yes_ and _S.02_ 
-	change repute with _mage_ by +10 
-	restrain foe _mages_ 
+	when _yes_ and _S.02_
+	change repute with _mage_ by +10
+	restrain foe _mages_
 
 _S.13_ task:
-	when _yes_ and _S.03_ 
-	change repute with _thief_ by +10 
-	restrain foe _F.01_ 
+	when _yes_ and _S.03_
+	change repute with _thief_ by +10
+	restrain foe _F.01_
 
 _S.14_ task:
-	create foe _F.03_ every 5 minutes 3 times with 25% success 
+	create foe _F.03_ every 5 minutes 3 times with 25% success
 
 _S.15_ task:
-	when _yes_ and _S.14_ 
-	change repute with _darkb_ by +10 
-	restrain foe _F.03_ 
+	when _yes_ and _S.14_
+	change repute with _darkb_ by +10
+	restrain foe _F.03_
 
 _S.16_ task:
-	when _no_ and _S.03_ 
-	change repute with _thief_ by -20 
+	when _no_ and _S.03_
+	change repute with _thief_ by -20
 
 _S.17_ task:
-	when _no_ and _S.01_ 
-	legal repute -20 
+	when _no_ and _S.01_
+	legal repute -20
 
 _S.18_ task:
-	when _no_ and _S.02_ 
-	change repute with _mage_ by -20 
+	when _no_ and _S.02_
+	change repute with _mage_ by -20
 
 _S.19_ task:
-	when _no_ and _S.14_ 
-	change repute with _darkb_ by -20 
+	when _no_ and _S.14_
+	change repute with _darkb_ by -20
 
 _S.20_ task:
-	when _traveltime_ and not _S.06_ 
-	say 1050 
-	drop _questgiver_ face 
-	end quest 
+	when _traveltime_ and not _S.06_
+	say 1050
+	drop _questgiver_ face
+	end quest

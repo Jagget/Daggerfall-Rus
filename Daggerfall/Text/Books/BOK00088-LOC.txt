@@ -3,7 +3,7 @@ Author: Фринчепс
 IsNaughty: False
 Price: 317
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

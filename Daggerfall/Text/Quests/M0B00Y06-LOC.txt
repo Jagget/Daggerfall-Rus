@@ -125,53 +125,53 @@ Foe _harpy_ is Harpy
 Foe _spider_ is Spider
 
 --	Quest start-up:
-	start timer _2dung_ 
-	reveal _house_ 
-	log 1010 step 0 
-	pick one of _map_ _nomap_ _nomap_ _nomap_ 
-	pick one of _monster1_ _monster2_ _monster3_ _monster4_ 
-	create npc at _house_ 
+	start timer _2dung_
+	reveal _house_
+	log 1010 step 0
+	pick one of _map_ _nomap_ _nomap_ _nomap_
+	pick one of _monster1_ _monster2_ _monster3_ _monster4_
+	create npc at _house_
 
 _2dung_ task:
-	end quest 
+	end quest
 
 _mondead_ task:
-	killed 1 _spider_ saying 1013 
-	killed 1 _tiger_ saying 1014 
-	killed 1 _harpy_ saying 1012 
-	killed 1 _bear_ saying 1011 
+	killed 1 _spider_ saying 1013
+	killed 1 _tiger_ saying 1014
+	killed 1 _harpy_ saying 1012
+	killed 1 _bear_ saying 1011
 
 _S.02_ task:
-	when _qgclicked_ and _mondead_ 
-	give pc _gold_ 
-	end quest 
+	when _qgclicked_ and _mondead_
+	give pc _gold_
+	end quest
 
 _clearclick_ task:
-	when _qgclicked_ and not _mondead_ 
-	clear _qgclicked_ _clearclick_ 
+	when _qgclicked_ and not _mondead_
+	clear _qgclicked_ _clearclick_
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 variable _map_
 variable _nomap_
 _S.06_ task:
-	when _map_ and _S.02_ 
+	when _map_ and _S.02_
 	reveal _newdung_ readmap
-    say 1080 
+    say 1080
 
 _monster1_ task:
-	say 1021 
-	place foe _bear_ at _house_ 
+	say 1021
+	place foe _bear_ at _house_
 
 _monster2_ task:
-	say 1022 
-	place foe _harpy_ at _house_ 
+	say 1022
+	place foe _harpy_ at _house_
 
 _monster3_ task:
-	say 1023 
-	place foe _spider_ at _house_ 
+	say 1023
+	place foe _spider_ at _house_
 
 _monster4_ task:
-	say 1024 
-	place foe _tiger_ at _house_ 
+	say 1024
+	place foe _tiger_ at _house_

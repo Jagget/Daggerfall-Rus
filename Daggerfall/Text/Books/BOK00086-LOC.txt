@@ -3,7 +3,7 @@ Author: Дестри Меларг
 IsNaughty: False
 Price: 684
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

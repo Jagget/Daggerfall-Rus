@@ -202,49 +202,49 @@ Person _healer_ face 64 group Chemist remote anyInfo 1040 rumors 1041
 Clock _questtime_ 00:00 0 flag 1 range 3 5
 
 --	Quest start-up:
-	dialog link for person _healer_ item talisman 
-	start timer _questtime_ 
-	log 1010 step 0 
-	get item _gold1_ 
-	pick one of _S.04_ _S.05_ 
-	make _gold1_ permanent 
-	talisman used do _S.06_ 
-	create npc _healer_ 
-	create npc _cousin_ 
+	dialog link for person _healer_ item talisman
+	start timer _questtime_
+	log 1010 step 0
+	get item _gold1_
+	pick one of _S.04_ _S.05_
+	make _gold1_ permanent
+	talisman used do _S.06_
+	create npc _healer_
+	create npc _cousin_
 
 _questtime_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	clicked npc _cousin_ say 1030 
-	log 1011 step 1 
+	clicked npc _cousin_ say 1030
+	log 1011 step 1
 
 _S.02_ task:
-	when _S.01_ and _S.04_ 
-	make pc ill with Wizard_Fever 
+	when _S.01_ and _S.04_
+	make pc ill with Wizard_Fever
 
 variable _S.03_
 variable _S.04_
 variable _S.05_
 _S.06_ task:
-	take talisman from pc saying 1019 
-	cure Wizard_Fever 
+	take talisman from pc saying 1019
+	cure Wizard_Fever
 
 _S.07_ task:
-	toting talisman and _cousin_ clicked 
+	toting talisman and _cousin_ clicked
 	give pc _gold2_
-	end quest 
+	end quest
 --removed unnecessary delay
 
 _S.08_ task:
-	clicked npc _healer_ 
+	clicked npc _healer_
 
 _S.09_ task:
-	clicked _healer_ and at least 20 gold otherwise do _S.10_ 
-	log 1017 step 2 
-	get item talisman 
-	say 1013 
+	clicked _healer_ and at least 20 gold otherwise do _S.10_
+	log 1017 step 2
+	get item talisman
+	say 1013
 
 _S.10_ task:
-	say 1015 
+	say 1015
 	clear _S.08_ _S.09_ _S.10_

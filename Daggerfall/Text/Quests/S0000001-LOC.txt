@@ -330,78 +330,78 @@ Place _agentplace_ remote tavern
 Clock _S.13_ 3.00:00 7.00:00
 
 --	Quest start-up:
-	dialog link for location _ukcrypt_ 
-	dialog link for location _dirennitower_ 
-	prompt QuestorOffer yes yes no _no_ 
-	place npc _agentuk_ at _agentplace_ 
+	dialog link for location _ukcrypt_
+	dialog link for location _dirennitower_
+	prompt QuestorOffer yes yes no _no_
+	place npc _agentuk_ at _agentplace_
 
 _S.00_ task:
-	toting deathCertificate and _lhotun_ clicked 
-	give pc _magicitem_ 
-	add dialog for location _dirennitower_ 
-	remove log step 0 
+	toting deathCertificate and _lhotun_ clicked
+	give pc _magicitem_
+	add dialog for location _dirennitower_
+	remove log step 0
 	remove log step 1
 --added additional remove log. directions would linger in journal.
-	reveal _dirennitower_ in province 9 at 204718 
-	repute with _akorithi_ exceeds 0 do _S.16_ 
-	change repute with _lhotun_ by +15 
-	change repute with _agentuk_ by +25 
-	mute npc _lhotun_ 
-	mute npc _greklith_ 
-	mute npc _akorithi_ 
-	mute npc Vhosek 
-	drop _lhotun_ as questor 
+	reveal _dirennitower_ in province 9 at 204718
+	repute with _akorithi_ exceeds 0 do _S.16_
+	change repute with _lhotun_ by +15
+	change repute with _agentuk_ by +25
+	mute npc _lhotun_
+	mute npc _greklith_
+	mute npc _akorithi_
+	mute npc Vhosek
+	drop _lhotun_ as questor
 
 variable _S.01_
 variable _S.02_
 variable _queston_
 variable _S.04_
 _S.05_ task:
-	toting deathCertificate and _akorithi_ clicked 
-	toting deathCertificate and Vhosek clicked 
-	toting deathCertificate and _greklith_ clicked 
-	say 1018 
-	change repute with _akorithi_ by -20 
-	legal repute -20 
-	end quest 
+	toting deathCertificate and _akorithi_ clicked
+	toting deathCertificate and Vhosek clicked
+	toting deathCertificate and _greklith_ clicked
+	say 1018
+	change repute with _akorithi_ by -20
+	legal repute -20
+	end quest
 
 variable _S.06_
 variable _S.07_
 variable _S.08_
 variable _S.09_
 _S.10_ task:
-	clicked item deathCertificate say 1020 
+	clicked item deathCertificate say 1020
 
 yes task:
-	place item deathCertificate at _ukcrypt_ 
-	start timer _S.13_ 
-	log 1019 step 0 
-	say AcceptQuest 
-	add _lhotun_ as questor 
+	place item deathCertificate at _ukcrypt_
+	start timer _S.13_
+	log 1019 step 0
+	say AcceptQuest
+	add _lhotun_ as questor
 
 _no_ task:
-	say RefuseQuest 
-	drop _lhotun_ as questor 
-	end quest 
+	say RefuseQuest
+	drop _lhotun_ as questor
+	end quest
 
 _S.13_ task:
-	give pc letter38 notify 1011 
+	give pc letter38 notify 1011
 
 _S.14_ task:
-	clicked npc _agentuk_ 
-	add dialog for location _ukcrypt_ 
-	reveal _ukcrypt_ 
-	log 1040 step 1 
-	say 1035 
+	clicked npc _agentuk_
+	add dialog for location _ukcrypt_
+	reveal _ukcrypt_
+	log 1040 step 1
+	say 1035
 
 _S.15_ task:
-	level 7 completed 
+	level 7 completed
 
 variable _S.16_
 _S.17_ task:
-	when _S.16_ and _S.15_ 
-	start quest 17 17 
-	end quest 
+	when _S.16_ and _S.15_
+	start quest 17 17
+	end quest
 
 variable _S.18_
 variable Castellian

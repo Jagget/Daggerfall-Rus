@@ -43,7 +43,7 @@ AcceptQuest:  [1002]
 <ce> =contact_ по имени
 <ce> _contact_. Поищите в
 <ce> месте, называемом __contact_.
-<ce> Поговорите... пожестче... 
+<ce> Поговорите... пожестче...
 <ce> и узнайте, где находится %g4 кузен.
 <ce> Я даю вам =queston_ дней на завершение
 <ce> этого... ммм... дела и возврат.
@@ -153,35 +153,35 @@ Clock _queston_ 00:00 0 flag 17 range 0 2
 Foe _target_ is Vampire
 
 --	Quest start-up:
-	start timer _queston_ 
-	log 1010 step 0 
-	place foe _target_ at _mondung_ 
+	start timer _queston_
+	log 1010 step 0
+	place foe _target_ at _mondung_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _reward_ task:
     when _qgclicked_ and _S.04_
-    give pc nothing 
-	end quest 
+    give pc nothing
+	end quest
 
 _S.02_ task:
-	clicked npc _contact_ 
-	reveal _mondung_ 
-	log 1012 step 1 
-	say 1011 
+	clicked npc _contact_
+	reveal _mondung_
+	log 1012 step 1
+	say 1011
 
 _S.03_ task:
-	injured _target_ saying 1013 
+	injured _target_ saying 1013
 
 _S.04_ task:
-	killed 1 _target_ saying 1014 
+	killed 1 _target_ saying 1014
 
 variable _S.06_
 --unused variables
 _clearclick_ task:
-	when _qgclicked_ and not _S.04_ 
-	clear _qgclicked_ _clearclick_ 
+	when _qgclicked_ and not _S.04_
+	clear _qgclicked_ _clearclick_

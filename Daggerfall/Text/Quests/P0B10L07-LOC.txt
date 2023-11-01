@@ -51,8 +51,8 @@ Error: Questtext 1009 Called.
 QuestLogEntry:  [1010]
               __vamp_
                ___vamp_
- 
- 
+
+
 <ce> Дорогой друг, %pcn.
 <ce>
 <ce> %vam нуждается в вашей помощи
@@ -60,8 +60,8 @@ QuestLogEntry:  [1010]
 <ce>
 <ce>
 <ce> Всегда ваш друг в Смерти,
- 
- 
+
+
                _vamp_
 
 Message:  1011
@@ -181,53 +181,53 @@ Clock _queston_ 00:00 0 flag 17 range 0 2
 Foe _F.00_ is Knight
 
 --	Quest start-up:
-	dialog link for person _vamp_ 
-	_letter_ used do _readletter_ 
-	have _letter_ set _S.09_ 
-	give pc _letter_ notify 1017 
-	place foe _F.00_ at _mondung_ 
+	dialog link for person _vamp_
+	_letter_ used do _readletter_
+	have _letter_ set _S.09_
+	give pc _letter_ notify 1017
+	place foe _F.00_ at _mondung_
 
 variable _S.00_
 _queston_ task:
-	change repute with _vamp_ by -5 
-	end quest 
+	change repute with _vamp_ by -5
+	end quest
 
 _vampclicked_ task:
-	clicked npc _vamp_ 
-	reveal _mondung_ 
-	log 1013 step 1 
-	say 1011 
+	clicked npc _vamp_
+	reveal _mondung_
+	log 1013 step 1
+	say 1011
 
 _S.03_ task:
-	when _vampclicked_ and not _S.05_ and not _S.04_ 
-	clear _vampclicked_ _S.03_ 
+	when _vampclicked_ and not _S.05_ and not _S.04_
+	clear _vampclicked_ _S.03_
 
 _S.04_ task:
-	injured _F.00_ 
-	say 1014 
+	injured _F.00_
+	say 1014
 	restrain foe _F.00_
---task _S.04_ 
+--task _S.04_
 --This was appended to the restrain foe action, not sure why
 
 _S.05_ task:
-	killed 1 _F.00_ 
-	say 1015 
+	killed 1 _F.00_
+	say 1015
 
 _reward_ task:
-	when _vampclicked_ and _S.04_ and not _S.05_ 
-	give pc _jewelry_ 
-	end quest 
+	when _vampclicked_ and _S.04_ and not _S.05_
+	give pc _jewelry_
+	end quest
 
 _S.07_ task:
-	when _vampclicked_ and _S.05_ 
-	say 1016 
-	change repute with _vamp_ by -5 
-	end quest 
+	when _vampclicked_ and _S.05_
+	say 1016
+	change repute with _vamp_ by -5
+	end quest
 
 _readletter_ task:
-	add dialog for location _mondung_ person _vamp_ 
-	log 1012 step 0 
-	create npc _vamp_ 
+	add dialog for location _mondung_ person _vamp_
+	log 1012 step 0
+	create npc _vamp_
 
 _S.09_ task:
-	start timer _queston_ 
+	start timer _queston_

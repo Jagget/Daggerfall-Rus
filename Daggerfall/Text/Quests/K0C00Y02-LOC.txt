@@ -149,44 +149,44 @@ Foe _F.01_ is 2 Battle_mage
 Foe _F.02_ is 2 Spellsword
 
 --	Quest start-up:
-	place item _goldBrick1_ at _depository_ 
-	place item _goldBrick2_ at _mansion_ 
-	place item _goldBrick3_ at _mondung_ 
-	place item _goldBrick4_ at _palace_ 
-	start timer _2mondung_ 
-	reveal _mondung_ 
-	log 1010 step 0 
-	pc at _depository_ set _letter2_ 
-	pc at _mansion_ set _S.10_ 
-	pc at _palace_ set _S.08_ 
+	place item _goldBrick1_ at _depository_
+	place item _goldBrick2_ at _mansion_
+	place item _goldBrick3_ at _mondung_
+	place item _goldBrick4_ at _palace_
+	start timer _2mondung_
+	reveal _mondung_
+	log 1010 step 0
+	pc at _depository_ set _letter2_
+	pc at _mansion_ set _S.10_
+	pc at _palace_ set _S.08_
 
 variable _S.00_
 variable _S.01_
 variable _2mondung_
 variable _2palace_
 _S.04_ task:
-	toting _goldBrick1_ and _qgiver_ clicked 
-	get item _reward1_ 
-	say 1015 
-	make _reward1_ permanent 
+	toting _goldBrick1_ and _qgiver_ clicked
+	get item _reward1_
+	say 1015
+	make _reward1_ permanent
 
 _S.05_ task:
-	toting _goldBrick2_ and _qgiver_ clicked 
-	get item _reward2_ 
-	say 1015 
-	make _reward2_ permanent 
+	toting _goldBrick2_ and _qgiver_ clicked
+	get item _reward2_
+	say 1015
+	make _reward2_ permanent
 
 _S.06_ task:
-	toting _goldBrick3_ and _qgiver_ clicked 
-	get item _reward3_ 
-	say 1015 
-	make _reward3_ permanent 
+	toting _goldBrick3_ and _qgiver_ clicked
+	get item _reward3_
+	say 1015
+	make _reward3_ permanent
 
 _S.07_ task:
-	toting _goldBrick4_ and _qgiver_ clicked 
-	get item _I.07_ 
-	say 1015 
-	make _I.07_ permanent 
+	toting _goldBrick4_ and _qgiver_ clicked
+	get item _I.07_
+	say 1015
+	make _I.07_ permanent
 
 _qgclick2_ task:
 	clicked npc _qgiver_
@@ -197,39 +197,39 @@ _clearclick_ task:
 	clear _clearclick_ _qgclick2_
 
 _S.08_ task:
-	create foe _F.00_ every 10 minutes 10 times with 20% success 
+	create foe _F.00_ every 10 minutes 10 times with 20% success
 
 _letter2_ task:
-	create foe _F.01_ every 10 minutes 10 times with 20% success 
+	create foe _F.01_ every 10 minutes 10 times with 20% success
 
 _S.10_ task:
-	create foe _F.02_ every 10 minutes 10 times with 20% success 
+	create foe _F.02_ every 10 minutes 10 times with 20% success
 
 variable _S.11_
 _mggold_ task:
-	when _S.04_ or _S.05_ or _S.06_ or _S.07_ 
+	when _S.04_ or _S.05_ or _S.06_ or _S.07_
 
 _lesser_ task:
-	when _S.04_ and _S.05_ and _S.06_ and _S.07_ 
+	when _S.04_ and _S.05_ and _S.06_ and _S.07_
 
 _S.14_ task:
-	when _lesser_ 
-	give pc nothing 
-	end quest 
+	when _lesser_
+	give pc nothing
+	end quest
 
 _success_ task:
-	when _2mondung_ and _mggold_ 
-	give pc nothing 
-	make _goldBrick1_ permanent 
-	make _goldBrick2_ permanent 
-	make _goldBrick3_ permanent 
-	make _goldBrick4_ permanent 
-	end quest 
+	when _2mondung_ and _mggold_
+	give pc nothing
+	make _goldBrick1_ permanent
+	make _goldBrick2_ permanent
+	make _goldBrick3_ permanent
+	make _goldBrick4_ permanent
+	end quest
 
 _S.16_ task:
-	when _2mondung_ and not _mggold_ 
-	make _goldBrick1_ permanent 
-	make _goldBrick2_ permanent 
-	make _goldBrick3_ permanent 
-	make _goldBrick4_ permanent 
-	end quest 
+	when _2mondung_ and not _mggold_
+	make _goldBrick1_ permanent
+	make _goldBrick2_ permanent
+	make _goldBrick3_ permanent
+	make _goldBrick4_ permanent
+	end quest

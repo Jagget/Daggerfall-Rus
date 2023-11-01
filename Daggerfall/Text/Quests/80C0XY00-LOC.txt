@@ -107,7 +107,7 @@ Message:  1020
 
 Message:  1030
 =monster_,
- 
+
 <ce> Малакат желает смерти _murder_.
 <ce> %g4 агенты раскрыли почти все наши планы.
 <ce> %g4 надо остановить, пока не рухнули все наши
@@ -117,7 +117,7 @@ Message:  1030
 <ce> Когда выполнишь задание, жди меня в
 <ce> ___mondung_. Я принесу тебе
 <ce> вознаграждение и новое задание от Малаката.
- 
+
 <ce> _qgfriend_
 
 Message:  1040
@@ -201,32 +201,32 @@ Clock _1stparton_ 00:00 0 flag 18 range 2 5
 Foe _monster_ is Daedra_seducer
 
 --	Quest start-up:
-	dialog link for person _ruler_ 
-	dialog link for person _murder_ 
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1020 step 0 
-	give item _note_ to _monster_ 
-	_note_ used do _readnote_ 
-	place foe _monster_ at _mondung_ 
+	dialog link for person _ruler_
+	dialog link for person _murder_
+	start timer _1stparton_
+	reveal _mondung_
+	log 1020 step 0
+	give item _note_ to _monster_
+	_note_ used do _readnote_
+	place foe _monster_ at _mondung_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 variable _2ndparton_
 _pcgetsgold_ task:
-	when _npcclicked_ and _mondead_ 
-	give pc _artifact_ 
-	end quest 
+	when _npcclicked_ and _mondead_
+	give pc _artifact_
+	end quest
 --removed unnecessary delay
 
 _mondead_ task:
-	killed 1 _monster_ 
-	say 1015 
-	create npc _qgfriend_ 
+	killed 1 _monster_
+	say 1015
+	create npc _qgfriend_
 
 _npcclicked_ task:
-	clicked npc _qgfriend_ 
+	clicked npc _qgfriend_
 
 --defining clearclick to prevent out-of-place victory condition
 _clearclick_ task:
@@ -235,15 +235,15 @@ _clearclick_ task:
 	clear _npcclicked_ _clearclick_
 
 _readnote_ task:
-	add dialog for person _murder_ 
+	add dialog for person _murder_
 
 _rulerclicked_ task:
-	toting _note_ and _ruler_ clicked 
-	prompt 1041 yes _S.09_ no _school_ 
+	toting _note_ and _ruler_ clicked
+	prompt 1041 yes _S.09_ no _school_
 
 _S.09_ task:
-	say 1040 
-	change repute with _murder_ by +15 
+	say 1040
+	change repute with _murder_ by +15
 
 _school_ task:
-	get item _note_ 
+	get item _note_

@@ -149,18 +149,18 @@ Clock _shortdelay_ 00:02 0 flag 1 range 0 1
 Foe _lich_ is Lich
 
 --	Quest start-up:
-	place item _item_ at _mondung_ 
-	start timer _qtime_ 
-	reveal _mondung_ 
-	log 1020 step 0 
-	place foe _lich_ at _mondung_ 
+	place item _item_ at _mondung_
+	start timer _qtime_
+	reveal _mondung_
+	log 1020 step 0
+	place foe _lich_ at _mondung_
 
 _qtime_ task:
-	have _item_ set _S.07_ 
+	have _item_ set _S.07_
 
 _S.01_ task:
-	toting _item_ and _questgiver_ clicked 
-	give pc _reward_ 
+	toting _item_ and _questgiver_ clicked
+	give pc _reward_
 
 _qgclicked_ task:
 	clicked npc _questgiver_
@@ -171,25 +171,25 @@ _clearclick_ task:
 	clear _qgclicked_ _clearclick_
 
 _S.02_ task:
-	killed 1 _lich_ 
+	killed 1 _lich_
 
 _S.03_ task:
-	when _S.01_ and _S.02_ 
-	say 1035 
-	change repute with _questgiver_ by +7 
+	when _S.01_ and _S.02_
+	say 1035
+	change repute with _questgiver_ by +7
 
 _pickupitem_ task:
-	clicked item _item_ 
-	start timer _shortdelay_ 
-	say 1030 
+	clicked item _item_
+	start timer _shortdelay_
+	say 1030
 
 variable _shortdelay_
 _S.06_ task:
-	when _shortdelay_ and not _S.02_ 
-	say 1040 
+	when _shortdelay_ and not _S.02_
+	say 1040
 
 _S.07_ task:
-	say 1015 
+	say 1015
 
 _S.08_ task:
     when _S.01_ or _qtime_

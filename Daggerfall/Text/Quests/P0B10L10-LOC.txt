@@ -54,7 +54,7 @@ Error: Questtext 1009 Called.
 QuestLogEntry:  [1010]
                     __vamp_
                      ___vamp_
- 
+
 <ce> %pcn,
 <ce>
 <ce> %vam нуждается в вас.
@@ -62,7 +62,7 @@ QuestLogEntry:  [1010]
 <ce>
 <ce>
 <ce> Всегда ваш друг в смерти,
- 
+
                     _vamp_
 
 Message:  1011
@@ -158,52 +158,52 @@ Clock _queston_ 00:00 0 flag 1 range 1 2
 Foe _mage_ is Mage
 
 --	Quest start-up:
-	dialog link for person _vamp2_ 
-	dialog link for person _vamp_ 
-	_letter_ used do _readletter_ 
-	have _letter_ set _S.10_ 
-	give pc _letter_ notify 1017 
+	dialog link for person _vamp2_
+	dialog link for person _vamp_
+	_letter_ used do _readletter_
+	have _letter_ set _S.10_
+	give pc _letter_ notify 1017
 
 _queston_ task:
-	end quest 
+	end quest
 
 _vampclicked_ task:
-	clicked npc _vamp_ 
-	log 1014 step 1 
-	hide npc _vamp_ 
-	say 1012 
-	add _vamp_ face 
-	create npc _vamp2_ 
+	clicked npc _vamp_
+	log 1014 step 1
+	hide npc _vamp_
+	say 1012
+	add _vamp_ face
+	create npc _vamp2_
 
 variable _S.02_
 _S.03_ task:
-	when _vampclicked_ and not _S.04_ 
-	create foe _mage_ every 15 minutes 5 times with 50% success 
+	when _vampclicked_ and not _S.04_
+	create foe _mage_ every 15 minutes 5 times with 50% success
 
 _S.04_ task:
-	injured _mage_ 
-	say 1013 
+	injured _mage_
+	say 1013
 
 variable _reward_
 _S.06_ task:
-	killed 1 _mage_ 
-	say 1015 
+	killed 1 _mage_
+	say 1015
 
 _S.07_ task:
-	clicked npc _vamp2_ 
-	give pc nothing 
-	change repute with _vamp_ by +5 
-	end quest 
+	clicked npc _vamp2_
+	give pc nothing
+	change repute with _vamp_ by +5
+	end quest
 
 _S.08_ task:
-	when _queston_ and not _S.07_ 
-	say 1016 
-	change repute with _vamp_ by -10 
+	when _queston_ and not _S.07_
+	say 1016
+	change repute with _vamp_ by -10
 
 _readletter_ task:
-	add dialog for person _vamp_ 
-	log 1011 step 0 
-	create npc _vamp_ 
+	add dialog for person _vamp_
+	log 1011 step 0
+	create npc _vamp_
 
 _S.10_ task:
-	start timer _queston_ 
+	start timer _queston_

@@ -77,7 +77,7 @@ Message:  1030
 <ce> ___questgiver_ дала заказ
 <ce> на убийство омерзительного ликантропа
 <ce> или чего-то в этом роде, в его логовище,
-<ce> в ___mondung_. Эта зверюга должна 
+<ce> в ___mondung_. Эта зверюга должна
 <ce> Быть мертва через =1stparton_ суток
 <ce> Время заработать деньжат!
 
@@ -114,46 +114,46 @@ Foe _wereboar_ is Wereboar
 Foe _bear_ is Grizzley_bear
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1030 step 0 
-	pick one of _map_ _nomap_ _nomap_ _nomap_ 
-	pick one of _S.06_ _S.07_ _S.08_ 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1030 step 0
+	pick one of _map_ _nomap_ _nomap_ _nomap_
+	pick one of _S.06_ _S.07_ _S.08_
 
 _pcgetsgold_ task:
-	when _qgclicked_ and _mondead_ 
-	give pc _reward_ 
-	end quest 
+	when _qgclicked_ and _mondead_
+	give pc _reward_
+	end quest
 
 _mondead_ task:
-	killed 1 _werewolf_ saying 1020 
-	killed 1 _wereboar_ saying 1020 
-	killed 1 _bear_ saying 1021 
+	killed 1 _werewolf_ saying 1020
+	killed 1 _wereboar_ saying 1020
+	killed 1 _bear_ saying 1021
 
 _qgclicked_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 variable _2ndparton_
 _clearclick_ task:
-	when _qgclicked_ and not _mondead_ 
+	when _qgclicked_ and not _mondead_
 	say 1003
-	clear _qgclicked_ _clearclick_ 
+	clear _qgclicked_ _clearclick_
 
 _S.06_ task:
-	place foe _bear_ at _mondung_ 
+	place foe _bear_ at _mondung_
 
 _S.07_ task:
-	place foe _wereboar_ at _mondung_ 
+	place foe _wereboar_ at _mondung_
 
 _S.08_ task:
-	place foe _werewolf_ at _mondung_ 
+	place foe _werewolf_ at _mondung_
 
 variable _map_
 variable _nomap_
 _S.11_ task:
-	when _map_ and _pcgetsgold_ 
+	when _map_ and _pcgetsgold_
 	reveal _newdung_ readmap
-    say 1080 
+    say 1080

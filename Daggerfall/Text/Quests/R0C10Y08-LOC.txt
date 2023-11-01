@@ -43,7 +43,7 @@ AcceptQuest:  [1002]
 <ce> %pcf. Удачи. Прощайте.
 
 QuestFail:  [1003]
-<ce> Да? Вы же не ожидаете награды, 
+<ce> Да? Вы же не ожидаете награды,
 <ce> пока вы еще ничего не сделали, %pcf?
 
 QuestComplete:  [1004]
@@ -98,7 +98,7 @@ Message:  1012
 
 Message:  1015
 %qdt:
-<ce> _questgiver_ 
+<ce> _questgiver_
 <ce> послал меня в _itemplace_
 <ce> в __itemplace_, чтобы украсть
 <ce> некий _item_ и затем доставить его
@@ -156,46 +156,46 @@ Clock _2ndparton_ 00:00 0 flag 1 range 2 3
 Foe _F.00_ is Monk
 
 --	Quest start-up:
-	place item _item_ at _itemplace_ 
-	start timer _1stparton_ 
-	reveal _inn_ 
-	log 1015 step 0 
-	place npc _transporter_ at _inn_ 
+	place item _item_ at _itemplace_
+	start timer _1stparton_
+	reveal _inn_
+	log 1015 step 0
+	place npc _transporter_ at _inn_
 
 _pcgetsgold_ task:
-	when _S.05_ and _qgclicked_ 
-	give pc _reward_ 
-	end quest 
+	when _S.05_ and _qgclicked_
+	give pc _reward_
+	end quest
 
 _pchasitem_ task:
-	clicked item _item_ 
-	pc at _itemplace_ set _S.09_ 
-	say 1012 
-	change repute with _dummypriest_ by -10 
+	clicked item _item_
+	pc at _itemplace_ set _S.09_
+	say 1012
+	change repute with _dummypriest_ by -10
 
 _queston_ task:
-	when _2ndparton_ 
-	when _1stparton_ and not _S.05_ 
-	make _item_ permanent 
-	end quest 
+	when _2ndparton_
+	when _1stparton_ and not _S.05_
+	make _item_ permanent
+	end quest
 
 variable _npcclicked_
 _qgclicked_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _S.05_ task:
-	toting _item_ and _transporter_ clicked 
-	start timer _2ndparton_ 
-	say 1010 
+	toting _item_ and _transporter_ clicked
+	start timer _2ndparton_
+	say 1010
 
 variable _1stparton_
 variable _2ndparton_
 _clearclick_ task:
-	when _qgclicked_ and not _S.05_ 
-	clear _qgclicked_ _clearclick_ 
+	when _qgclicked_ and not _S.05_
+	clear _qgclicked_ _clearclick_
 
 _S.09_ task:
-	create foe _F.00_ every 3 minutes 4 times with 50% success 
+	create foe _F.00_ every 3 minutes 4 times with 50% success
 
 totemLetter5 task:
-	injured _F.00_ saying 1020 
+	injured _F.00_ saying 1020

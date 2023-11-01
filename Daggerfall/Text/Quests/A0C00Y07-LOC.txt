@@ -87,9 +87,9 @@ Message:  1011
 <ce> Достаточно.
 
 Message:  1012
-<ce> От стен доносится скребущий звук. 
-<ce> Живущие здесь существа наверняка плохо 
-<ce> отреагируют на ваше вторжение на их 
+<ce> От стен доносится скребущий звук.
+<ce> Живущие здесь существа наверняка плохо
+<ce> отреагируют на ваше вторжение на их
 <ce> территорию.
 
 -- Symbols used in the QRC file:
@@ -122,13 +122,13 @@ Foe _scorpions_ is Giant_scorpion
 Foe _bats_ is Giant_bat
 
 --	Quest start-up:
-	start timer _oneday_ 
-	log 1010 step 0 
-	pc at _house_ set _S.01_ 
-	create npc at _house_ 
+	start timer _oneday_
+	log 1010 step 0
+	pc at _house_ set _S.01_
+	create npc at _house_
 
 _oneday_ task:
-	end quest 
+	end quest
 
 --instant reward glitch fixed.
 _questdone_ task:
@@ -140,42 +140,42 @@ _S.01_ task:
 --preventing multiple spawns by using static pick
 
 _pickspawn_ task:
-	pick one of _S.04_ _S.05_ _S.06_ _S.07_ 
+	pick one of _S.04_ _S.05_ _S.06_ _S.07_
 
 --this quest had a rare case of no victory message
 _S.03_ task:
-	killed 6 _bats_ 
-	killed 3 _spiders_ 
-	killed 7 _rats_ 
+	killed 6 _bats_
+	killed 3 _spiders_
+	killed 7 _rats_
 	killed 3 _scorpions_
 	say 1011
 
 variable _S.04_
 _spawn1_ task:
 	when _S.01_ and _S.04_ and not _S.03_
-	create foe _bats_ every 2 minutes indefinitely with 100% success 
+	create foe _bats_ every 2 minutes indefinitely with 100% success
 
 variable _S.05_
 _spawn2_ task:
 	when _S.01_ and _S.05_ and not _S.03_
-	create foe _rats_ every 2 minutes indefinitely with 100% success 
+	create foe _rats_ every 2 minutes indefinitely with 100% success
 
 variable _S.06_
 _spawn3_ task:
 	when _S.01_ and _S.06_ and not _S.03_
-	create foe _scorpions_ every 3 minutes indefinitely with 100% success 
+	create foe _scorpions_ every 3 minutes indefinitely with 100% success
 
 variable _S.07_
 _spawn4_ task:
 	when _S.01_ and _S.07_ and not _S.03_
-	create foe _spiders_ every 3 minutes indefinitely with 100% success 
+	create foe _spiders_ every 3 minutes indefinitely with 100% success
 
 _clearclick_ task:
-	when not _S.03_ and _questdone_ 
-	clear _questdone_ _clearclick_ 
+	when not _S.03_ and _questdone_
+	clear _questdone_ _clearclick_
 
 
 _pcgetsgold_ task:
 	when _questdone_ and _S.03_
-	give pc _gold_ 
+	give pc _gold_
 	end quest

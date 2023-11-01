@@ -151,26 +151,26 @@ Clock _queston_ 00:00 0 flag 17 range 0 2
 Foe _mummy_ is Mummy
 
 --	Quest start-up:
-	start timer _queston_ 
-	reveal _mondung_ 
-	log 1010 step 0 
-	place foe _mummy_ at _mondung_ 
+	start timer _queston_
+	reveal _mondung_
+	log 1010 step 0
+	place foe _mummy_ at _mondung_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _reward_ task:
-	toting _wrappings_ and _qgiver_ clicked 
-	give pc _gold_ 
+	toting _wrappings_ and _qgiver_ clicked
+	give pc _gold_
 	take _wrappings_ from pc
-	end quest 
+	end quest
 --forums discussion, failsafe to ensure removal of wrappings
 
 variable _qgclicked_
 _S.03_ task:
-	clicked item _wrappings_ 
-	say 1011 
+	clicked item _wrappings_
+	say 1011
 
 _S.04_ task:
-	injured _mummy_ 
-	give item _wrappings_ to _mummy_ 
+	injured _mummy_
+	give item _wrappings_ to _mummy_

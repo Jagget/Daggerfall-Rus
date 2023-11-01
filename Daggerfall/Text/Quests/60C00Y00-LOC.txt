@@ -154,29 +154,29 @@ Clock _1stparton_ 00:00 0 flag 1 range 2 5
 Foe _monster_ is Battle_mage
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _contactdung_ 
-	reveal _mondung_ 
-	log 1020 step 0 
-	place foe _monster_ at _mondung_ 
-	place npc _qgfriend_ at _contactdung_ 
+	start timer _1stparton_
+	reveal _contactdung_
+	reveal _mondung_
+	log 1020 step 0
+	place foe _monster_ at _mondung_
+	place npc _qgfriend_ at _contactdung_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 variable _2ndparton_
 _pcgetsgold_ task:
-	when _npcclicked_ and _mondead_ 
-	give pc _artifact_ 
-	end quest 
+	when _npcclicked_ and _mondead_
+	give pc _artifact_
+	end quest
 --removed unnecessary delay
 
 _mondead_ task:
-	killed 1 _monster_ 
-	say 1030 
+	killed 1 _monster_
+	say 1030
 
 _npcclicked_ task:
-	clicked npc _qgfriend_ 
+	clicked npc _qgfriend_
 
 --defining clearclick to prevent out-of-place victory condition
 _clearclick_ task:

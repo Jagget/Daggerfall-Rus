@@ -49,5 +49,5 @@ Person _aubki_ named Queen_Aubk-i atHome
 
 
 --	Quest start-up:
-	change repute with _aubki_ by +8 
-	end quest 
+	change repute with _aubki_ by +8
+	end quest

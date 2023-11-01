@@ -188,68 +188,68 @@ Foe _F.01_ is Spellsword
 
 --	Quest start-up:
 	place item WoodborneDiary at WoodbourneHall2 marker 1
-	log 1019 step 2 
-	reveal WoodbourneHall1 in province 23 at 194859 
-	WoodborneDiary used do _S.01_ 
+	log 1019 step 2
+	reveal WoodbourneHall1 in province 23 at 194859
+	WoodborneDiary used do _S.01_
 	place foe Woodborne at WoodbourneHall1 marker 2
 
 _S.00_ task:
-	killed 1 Woodborne 
-	say 1045 
+	killed 1 Woodborne
+	say 1045
 
 _S.01_ task:
-	log 1018 step 3 
+	log 1018 step 3
 
 _S.02_ task:
-	injured Woodborne 
-	say 1040 
-	cast Spell_Reflection spell on Woodborne 
-	cast Heal spell on Woodborne 
-	cast Shield spell on Woodborne 
+	injured Woodborne
+	say 1040
+	cast Spell_Reflection spell on Woodborne
+	cast Heal spell on Woodborne
+	cast Shield spell on Woodborne
 
 _S.03_ task:
-	toting WoodborneDiary and Eadwyre clicked 
-	toting WoodborneDiary and _helseth_ clicked 
-	toting WoodborneDiary and Barenziah clicked 
-	get item _reward_ 
-	rumor mill 1021 
-	say 1031 
-	make _reward_ permanent 
-	change repute with Eadwyre by +50 
+	toting WoodborneDiary and Eadwyre clicked
+	toting WoodborneDiary and _helseth_ clicked
+	toting WoodborneDiary and Barenziah clicked
+	get item _reward_
+	rumor mill 1021
+	say 1031
+	make _reward_ permanent
+	change repute with Eadwyre by +50
 
 _S.04_ task:
-	toting WoodborneDiary and _nulfaga_ clicked 
-	toting WoodborneDiary and _medora_ clicked 
-	toting WoodborneDiary and _mynisera_ clicked 
-	rumor mill 1022 
-	say 1032 
-	change repute with _nulfaga_ by +25 
-	change repute with _medora_ by +25 
+	toting WoodborneDiary and _nulfaga_ clicked
+	toting WoodborneDiary and _medora_ clicked
+	toting WoodborneDiary and _mynisera_ clicked
+	rumor mill 1022
+	say 1032
+	change repute with _nulfaga_ by +25
+	change repute with _medora_ by +25
 
 _S.05_ task:
-	toting WoodborneDiary and _akorithi_ clicked 
-	say 1030 
+	toting WoodborneDiary and _akorithi_ clicked
+	say 1030
 
 _S.06_ task:
-	toting WoodborneDiary and _aubki_ clicked 
-	toting WoodborneDiary and Gothryd clicked 
-	create foe _F.01_ every 1 minutes 5 times with 100% success 
-	say 1034 
-	change repute with Gothryd by -40 
-	change repute with Eadwyre by -40 
-	legal repute -50 
+	toting WoodborneDiary and _aubki_ clicked
+	toting WoodborneDiary and Gothryd clicked
+	create foe _F.01_ every 1 minutes 5 times with 100% success
+	say 1034
+	change repute with Gothryd by -40
+	change repute with Eadwyre by -40
+	legal repute -50
 
 _S.07_ task:
-	toting WoodborneDiary and _gortwog_ clicked 
-	toting WoodborneDiary and KingOfWorms0 clicked 
-	get item _gold_ 
-	say 1033 
-	make _gold_ permanent 
-	change repute with _gortwog_ by +20 
+	toting WoodborneDiary and _gortwog_ clicked
+	toting WoodborneDiary and KingOfWorms0 clicked
+	get item _gold_
+	say 1033
+	make _gold_ permanent
+	change repute with _gortwog_ by +20
 	change repute with KingOfWorms0 by +20
 
 LiftedCurse _S.08_
-	when _S.03_ or _S.04_ or _S.00_ 
+	when _S.03_ or _S.04_ or _S.00_
 	play video 13
 	remove log step 2
 	remove log step 3
@@ -257,15 +257,15 @@ LiftedCurse _S.08_
 --these logs would stay in the journal after catching Woodborne, which is confusing.
 
 _S.09_ task:
-	when _S.05_ or _S.07_ or _S.06_ 
-	end quest 
+	when _S.05_ or _S.07_ or _S.06_
+	end quest
 
 MyniseraSatisfied _S.10_
 GothrydGotTotem _S.11_
 
 _S.13_ task:
-	when _S.08_ and _S.10_ and _S.12_ 
-	start quest 8 8 
-	end quest 
+	when _S.08_ and _S.10_ and _S.12_
+	start quest 8 8
+	end quest
 
 KingOfWormsSatisfied _S.12_

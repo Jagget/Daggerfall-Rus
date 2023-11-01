@@ -160,43 +160,43 @@ Clock _S.04_ 10.00:00 20.00:00
 
 
 --	Quest start-up:
-	start timer _S.04_ 
-	add _aubki_ as questor 
+	start timer _S.04_
+	add _aubki_ as questor
 
 _2myndung_ task:
-	drop _aubki_ as questor 
-	end quest 
+	drop _aubki_ as questor
+	end quest
 
 _pcgetsgold_ task:
-	toting _treasure_ and _aubki_ clicked 
-	give pc _gold_ 
-	drop _aubki_ as questor 
-	end quest 
+	toting _treasure_ and _aubki_ clicked
+	give pc _gold_
+	drop _aubki_ as questor
+	end quest
 
 _S.02_ task:
-	clicked npc _aubki_ 
-	prompt QuestorOffer yes yes no _no_ 
+	clicked npc _aubki_
+	prompt QuestorOffer yes yes no _no_
 
 variable _S.03_
 _S.04_ task:
-	hide npc _mynisera_ 
-	give pc letter48 notify 1015 
+	hide npc _mynisera_
+	give pc letter48 notify 1015
 
 until _S.04_ performed:
-	clear _S.02_ 
+	clear _S.02_
 
 yes task:
 	place item _treasure_ at _myndung_ anymarker
-	start timer _2myndung_ 
-	reveal _myndung_ 
-	log 1011 step 0 
-	say AcceptQuest 
+	start timer _2myndung_
+	reveal _myndung_
+	log 1011 step 0
+	say AcceptQuest
 
 _no_ task:
-	say RefuseQuest 
-	drop _aubki_ as questor 
-	end quest 
+	say RefuseQuest
+	drop _aubki_ as questor
+	end quest
 
 _dummy_ task:
-	clicked item _treasure_ say QuestorPostfailure 
-	_treasure_ used do _S.03_ 
+	clicked item _treasure_ say QuestorPostfailure
+	_treasure_ used do _S.03_

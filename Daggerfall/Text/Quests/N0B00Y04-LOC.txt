@@ -164,21 +164,21 @@ Clock _traveltime_ 00:00 0 flag 17 range 0 2
 
 
 --	Quest start-up:
-	place item _ingredient_ at _dungeon_ 
-	start timer _traveltime_ 
-	reveal _dungeon_ 
-	log 1010 step 0 
+	place item _ingredient_ at _dungeon_
+	start timer _traveltime_
+	reveal _dungeon_
+	log 1010 step 0
 
 _traveltime_ task:
 	make _ingredient_ permanent
-                say 1045 
-	end quest 
+                say 1045
+	end quest
 
 _S.01_ task:
-	clicked item _ingredient_ 
-	say 1040 
+	clicked item _ingredient_
+	say 1040
 
 _questdone_ task:
-	toting _ingredient_ and _qgiver_ clicked 
-	give pc _gold_ 
-	end quest 
+	toting _ingredient_ and _qgiver_ clicked
+	give pc _gold_
+	end quest

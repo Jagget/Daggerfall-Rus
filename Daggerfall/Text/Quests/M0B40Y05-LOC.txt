@@ -168,22 +168,22 @@ Clock _end_ 00:00
 Foe _monster_ is Spriggan
 
 --	Quest start-up:
-	start timer _2dung_ 
-	reveal _dungeon_ 
-	log 1010 step 0 
+	start timer _2dung_
+	reveal _dungeon_
+	log 1010 step 0
 	pick one of _map_ _nomap_
-	place foe _monster_ at _dungeon_ 
+	place foe _monster_ at _dungeon_
 
 _2dung_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	killed 1 _monster_ saying 1011 
+	killed 1 _monster_ saying 1011
 	hide npc _woodsman_
 	remove log step 1
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _normalvict_ task:
     when _qgclicked_ and _S.01_
@@ -192,50 +192,50 @@ _normalvict_ task:
 --1003 appears to be a victory statement for kill path
 
 _victory_ task:
-	give pc _gold_ 
+	give pc _gold_
     start timer _end_
---	end quest 
+--	end quest
 --this would cause double quest ending, for double reputation gain
 
 _clearclick_ task:
-	when _qgclicked_ and not _S.01_ and not _S.07_ 
-	clear _qgclicked_ _clearclick_ 
+	when _qgclicked_ and not _S.01_ and not _S.07_
+	clear _qgclicked_ _clearclick_
 
 _S.04_ task:
 	injured _monster_
 
 _injtalk_ task:
     when _S.04_ and not _S.01_
-	prompt 1020 yes _yes_ no _no_ 
+	prompt 1020 yes _yes_ no _no_
 
 _yes_ task:
-	add dialog for person _woodsman_ 
-	log 1030 step 1 
-	say 1021 
+	add dialog for person _woodsman_
+	log 1030 step 1
+	say 1021
 	restrain foe _monster_
 
 _no_ task:
-	say 1022 
+	say 1022
 
 _S.07_ task:
 	clicked npc _woodsman_
 
 _notkill_ task:
 	when _S.07_ and _injtalk_ and not _S.01_
-    say 1023 
-	change repute with _woodsman_ by +10 
+    say 1023
+	change repute with _woodsman_ by +10
 
 _S.08_ task:
-	when _qgclicked_ and _notkill_ 
-	say 1025 
+	when _qgclicked_ and _notkill_
+	say 1025
 	start task _victory_
 
 variable _map_
 variable _nomap_
 _S.11_ task:
-	when _map_ and _victory_ 
+	when _map_ and _victory_
 	reveal _newdung_ readmap
-    say 1080 
+    say 1080
 
 _end_ task:
     end quest

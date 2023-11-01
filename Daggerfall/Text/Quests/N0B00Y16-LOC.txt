@@ -126,7 +126,7 @@ Message:  1042
 <ce> чем заселишься.
 <ce>
 <ce> Твой друг,
- 
+
  _mage_
 
 Message:  1043
@@ -186,61 +186,61 @@ Foe _mage4_ is Mage
 Foe _skeleton_ is Skeletal_warrior
 
 --	Quest start-up:
-	start timer _qtime_ 
-	log 1020 step 0 
-	place npc _merchant_ at _shop_ 
+	start timer _qtime_
+	log 1020 step 0
+	place npc _merchant_ at _shop_
 
 _qtime_ task:
-	end quest 
+	end quest
 
 _clickqgiver_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _S.10_ task:
-	toting _crn_ and _merchant_ clicked 
+	toting _crn_ and _merchant_ clicked
 
 _S.02_ task:
-	clicked npc _merchant_ 
-	cast Open spell do _S.07_ 
-	get item _crn_ 
-	say 1030 
+	clicked npc _merchant_
+	cast Open spell do _S.07_
+	get item _crn_
+	say 1030
 
 _a3_ task:
-	create foe _imp_ every 1 minutes 1 times with 100% success 
-	say 1040 
+	create foe _imp_ every 1 minutes 1 times with 100% success
+	say 1040
 
 _a4_ task:
-	_I.01_ used do _S.09_ 
-	get item _I.01_ 
-	say 1041 
+	_I.01_ used do _S.09_
+	get item _I.01_
+	say 1041
 
 _a5_ task:
-	create foe _rats_ every 3 minutes 3 times with 100% success 
-	create foe _bats_ every 2 minutes 2 times with 100% success 
-	say 1042 
+	create foe _rats_ every 3 minutes 3 times with 100% success
+	create foe _bats_ every 2 minutes 2 times with 100% success
+	say 1042
 
 _a6_ task:
-	say 1043 
+	say 1043
 
 _S.07_ task:
 	have _crn_ set _S.08_
 
 _S.08_ task:
-	pick one of _a3_ _a4_ _a5_ _a6_ 
+	pick one of _a3_ _a4_ _a5_ _a6_
 
 _S.09_ task:
-	create foe _skeleton_ every 1 minutes 1 times with 100% success 
-	make _I.01_ permanent 
+	create foe _skeleton_ every 1 minutes 1 times with 100% success
+	make _I.01_ permanent
 
 _S.11_ task:
-	when _S.08_ and _S.10_ 
-	say 1050 
+	when _S.08_ and _S.10_
+	say 1050
 
 _success_ task:
-	when _S.11_ and _clickqgiver_ 
-	give pc nothing 
-	unset _clickqgiver_ 
-	end quest 
+	when _S.11_ and _clickqgiver_
+	give pc nothing
+	unset _clickqgiver_
+	end quest
 
 _clearclick_ task:
 	when _clickqgiver_ and not _S.11_
@@ -248,8 +248,8 @@ _clearclick_ task:
 	clear _clearclick_ _clickqgiver_
 
 _S.13_ task:
-	when _S.10_ and not _S.08_ 
-	get item _crn_ 
-	say 1051 
+	when _S.10_ and not _S.08_
+	get item _crn_
+	say 1051
 	clear _S.10_
-	clear _S.13_ 
+	clear _S.13_

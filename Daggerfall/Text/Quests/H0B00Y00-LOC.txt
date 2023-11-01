@@ -107,41 +107,41 @@ Foe _zombie_ is Zombie
 Foe _mummy_ is Mummy
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1010 step 0 
-	pick one of _S.05_ _S.06_ _S.07_ _S.08_ 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1010 step 0
+	pick one of _S.05_ _S.06_ _S.07_ _S.08_
 
 _pcgetsgold_ task:
-	when _qgclicked_ and _mondead_ 
-	give pc _reward_ 
-	end quest 
+	when _qgclicked_ and _mondead_
+	give pc _reward_
+	end quest
 
 _mondead_ task:
-	killed 1 _mummy_ saying 1020 
-	killed 1 _ghost_ saying 1020 
-	killed 1 _wraith_ saying 1020 
-	killed 1 _zombie_ saying 1020 
+	killed 1 _mummy_ saying 1020
+	killed 1 _ghost_ saying 1020
+	killed 1 _wraith_ saying 1020
+	killed 1 _zombie_ saying 1020
 
 _qgclicked_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 _clearclick_ task:
-	when _qgclicked_ and not _mondead_ 
+	when _qgclicked_ and not _mondead_
 	say 1003
-	clear _qgclicked_ _clearclick_ 
+	clear _qgclicked_ _clearclick_
 
 _S.05_ task:
-	place foe _ghost_ at _mondung_ 
+	place foe _ghost_ at _mondung_
 
 _S.06_ task:
-	place foe _mummy_ at _mondung_ 
+	place foe _mummy_ at _mondung_
 
 _S.07_ task:
-	place foe _zombie_ at _mondung_ 
+	place foe _zombie_ at _mondung_
 
 _S.08_ task:
-	place foe _wraith_ at _mondung_ 
+	place foe _wraith_ at _mondung_

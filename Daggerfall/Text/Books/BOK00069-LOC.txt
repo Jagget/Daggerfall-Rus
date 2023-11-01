@@ -3,7 +3,7 @@ Author: Жен
 IsNaughty: False
 Price: 484
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

@@ -1,9 +1,9 @@
 Title: Основы юридических знаний
-Author: Анчивиус, M.Z.F. 
+Author: Анчивиус, M.Z.F.
 IsNaughty: False
 Price: 636
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 [/font=1]

@@ -37,21 +37,21 @@ Foe _F.00_ is 3 Orc_warlord
 Foe _F.01_ is 3 Orc_shaman
 
 --	Quest start-up:
-	create foe _F.01_ every 100 minutes 15 times with 3% success 
-	create foe _F.00_ every 100 minutes 15 times with 3% success 
-	start timer _S.02_ 
+	create foe _F.01_ every 100 minutes 15 times with 3% success
+	create foe _F.00_ every 100 minutes 15 times with 3% success
+	start timer _S.02_
 
 _S.00_ task:
-	injured _F.01_ 
-	injured _F.00_ 
-	start timer _S.01_ 
-	say 1015 
+	injured _F.01_
+	injured _F.00_
+	start timer _S.01_
+	say 1015
 
 _S.01_ task:
-	clear _S.01_ _S.00_ 
+	clear _S.01_ _S.00_
 
 _S.02_ task:
-	end quest 
+	end quest
 
 GothrydGotTotem _S.03_
 KingOfWormsGotTotem _S.04_
@@ -61,11 +61,11 @@ UnderkingGotTotem _S.07_
 EadwyreGotTotem _S.08_
 BrisiennaGotTotem _S.09_
 _S.10_ task:
-	when _S.03_ or _S.04_ or _S.05_ or _S.06_ 
+	when _S.03_ or _S.04_ or _S.05_ or _S.06_
 
 _S.11_ task:
-	when _S.07_ or _S.08_ or _S.09_ 
+	when _S.07_ or _S.08_ or _S.09_
 
 _S.12_ task:
-	when _S.10_ or _S.11_ 
-	start task _S.02_ 
+	when _S.10_ or _S.11_
+	start task _S.02_

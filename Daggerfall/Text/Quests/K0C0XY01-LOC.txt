@@ -139,7 +139,7 @@ Message:  1014
 
 Message:  1020
 %qdt:
-<ce> _qgiver_, 
+<ce> _qgiver_,
 <ce> торговец из ___qgiver_ нанял меня
 <ce> зачистить свою заброшенную собственность,
 <ce> ___mondung_, которую заселили гарпии.
@@ -212,62 +212,62 @@ Foe _F.00_ is Harpy
 Foe _F.01_ is Harpy
 
 --	Quest start-up:
-	start timer _2mondung_ 
-	start timer _S.05_ 
-	reveal _mondung_ 
-	log 1020 step 0 
-	give item _clanfeather1_ to _F.01_ 
-	pc at _mondung_ set _S.08_ 
-	_letter26_ used do _S.15_ 
+	start timer _2mondung_
+	start timer _S.05_
+	reveal _mondung_
+	log 1020 step 0
+	give item _clanfeather1_ to _F.01_
+	pc at _mondung_ set _S.08_
+	_letter26_ used do _S.15_
 	place foe _F.01_ at _mondung_
 	have _clanfeather1_ set _S.14_
 
 _2mondung_ task:
-	end quest 
+	end quest
 
 variable _pcgetsgold_
 _S.02_ task:
-	toting _clanfeather1_ and _qgiver_ clicked 
-	give pc _reward_ 
-	end quest 
+	toting _clanfeather1_ and _qgiver_ clicked
+	give pc _reward_
+	end quest
 
 _S.03_ task:
-	clicked npc _contact_ 
-	start timer _S.06_ 
-	get item _jewelry_ 
-	hide npc _contact_ 
-	say 1013 
-	make _jewelry_ permanent 
-	add _contact_ face 
-	change repute with _contact_ by +10 
+	clicked npc _contact_
+	start timer _S.06_
+	get item _jewelry_
+	hide npc _contact_
+	say 1013
+	make _jewelry_ permanent
+	add _contact_ face
+	change repute with _contact_ by +10
 
 _S.04_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 _S.05_ task:
-	give pc _letter26_ notify 1014 
+	give pc _letter26_ notify 1014
 
 _S.06_ task:
-	say 1011 
-	drop _contact_ face 
+	say 1011
+	drop _contact_ face
 
 variable _S.07_
 _S.08_ task:
-	create foe _F.00_ every 21 minutes 15 times with 25% success 
+	create foe _F.00_ every 21 minutes 15 times with 25% success
 
 _clearclick_ task:
-	when _S.04_ and not _S.02_ 
+	when _S.04_ and not _S.02_
 	clear _S.04_ _clearclick_
 	say 1003
-	say 1040 
+	say 1040
 
 variable _S.10_
 variable _S.11_
 variable _S.12_
 variable _S.13_
 _S.14_ task:
-	say 1099 
+	say 1099
 --changed "clicked item clanfeather1 say 1099" to "have item do this" since feather is on enemy body
 
 _S.15_ task:
-	place npc _contact_ at _mondung_ 
+	place npc _contact_ at _mondung_

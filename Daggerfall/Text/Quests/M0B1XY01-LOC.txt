@@ -115,37 +115,37 @@ Clock _1stparton_ 00:00 0 flag 17 range 0 2
 Foe _monster_ is Harpy
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1030 step 0 
-	pick one of _map_ _nomap_ _nomap_ 
-	pc at _mondung_ set _S.04_ 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1030 step 0
+	pick one of _map_ _nomap_ _nomap_
+	pc at _mondung_ set _S.04_
 
 _pcgetsgold_ task:
-	when _qgclicked_ and _mondead_ 
-	give pc _reward_ 
-	end quest 
+	when _qgclicked_ and _mondead_
+	give pc _reward_
+	end quest
 
 _mondead_ task:
-	killed 5 _monster_ saying 1020 
+	killed 5 _monster_ saying 1020
 
 _qgclicked_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _1stparton_ task:
-	end quest 
+	end quest
 
 _S.04_ task:
-	create foe _monster_ every 15 minutes 20 times with 50% success 
+	create foe _monster_ every 15 minutes 20 times with 50% success
 
 _clearclick_ task:
 	when _qgclicked_ and not _mondead_
-	say 1003 
-	clear _qgclicked_ _clearclick_ 
+	say 1003
+	clear _qgclicked_ _clearclick_
 
 variable _map_
 variable _nomap_
 _S.08_ task:
-	when _map_ and _pcgetsgold_ 
+	when _map_ and _pcgetsgold_
 	reveal _newdung_ readmap
-    say 1080 
+    say 1080

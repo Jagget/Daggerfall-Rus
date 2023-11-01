@@ -29,7 +29,7 @@ QuestLogEntry:  [1010]
 <ce> потерял свое сердце - Мантеллу - в финальной схватке
 <ce> с боевым магом Тайбера Септима. Пока его сердце
 <ce> не будет найдено, Тотем бесполезен.
-<ce> 
+<ce>
 <ce> Друг
 
 Message:  1011
@@ -137,42 +137,42 @@ Clock _delay_ 1.00:00 0 flag 1 range 0 1
 
 
 --	Quest start-up:
-	dialog link for person _darkb_ 
-	dialog link for person _gortwog_ 
-	dialog link for person _kingofworms_ 
-	dialog link for person _magesguild_ 
-	dialog link for person _thievesguild_ 
-	dialog link for person _vampires_ 
-	dialog link for person _witches_ 
-	dialog link for person _underking_ 
-	repute with _darkb_ exceeds 50 do _S.00_ 
+	dialog link for person _darkb_
+	dialog link for person _gortwog_
+	dialog link for person _kingofworms_
+	dialog link for person _magesguild_
+	dialog link for person _thievesguild_
+	dialog link for person _vampires_
+	dialog link for person _witches_
+	dialog link for person _underking_
+	repute with _darkb_ exceeds 50 do _S.00_
 	repute with _lhotun_ exceeds 25 do _S.00_
 	repute with _vampires_ exceeds 10 do _S.00_
-	repute with _gortwog_ exceeds 25 do _S.00_ 
-	repute with _underking_ exceeds 5 do _S.01_ 
+	repute with _gortwog_ exceeds 25 do _S.00_
+	repute with _underking_ exceeds 5 do _S.01_
 	repute with _aubki_ exceeds 25 do _S.01_
-	repute with _thievesguild_ exceeds 50 do _S.01_ 
-	repute with _kingofworms_ exceeds 15 do _S.02_ 
-	repute with _elysana_ exceeds 25 do _S.02_ 
-	repute with _witches_ exceeds 25 do _S.02_ 
-	repute with _magesguild_ exceeds 50 do _S.02_ 
+	repute with _thievesguild_ exceeds 50 do _S.01_
+	repute with _kingofworms_ exceeds 15 do _S.02_
+	repute with _elysana_ exceeds 25 do _S.02_
+	repute with _witches_ exceeds 25 do _S.02_
+	repute with _magesguild_ exceeds 50 do _S.02_
 
 _S.00_ task:
-	give pc _letter1_ notify 1020 
+	give pc _letter1_ notify 1020
 
 _S.01_ task:
-	give pc _letter2_ notify 1020 
+	give pc _letter2_ notify 1020
 
 _S.02_ task:
-	give pc _letter3_ notify 1020 
+	give pc _letter3_ notify 1020
 
 _S.03_ task:
-	when _S.00_ or _S.01_ or _S.02_ 
-	start quest 9 9 
-	start timer _delay_ 
+	when _S.00_ or _S.01_ or _S.02_
+	start quest 9 9
+	start timer _delay_
 
 _delay_ task:
-	end quest 
+	end quest
 
 FinishedMantellanCrux _S.05_
-	end quest 
+	end quest

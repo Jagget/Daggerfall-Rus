@@ -209,32 +209,32 @@ Clock _traveltime_ 90.00:01 0 flag 1 range 0 1
 Foe _F.00_ is Mage
 
 --	Quest start-up:
-	place item _clothing_ at _mansion_ 
-	_letter_ used do _readletter_ 
-	give pc _letter_ notify 1020 
+	place item _clothing_ at _mansion_
+	_letter_ used do _readletter_
+	give pc _letter_ notify 1020
                 place npc _thiefmember_ at _endbuilding_
 
 _traveltime_ task:
-	end quest 
+	end quest
 
 _questdone_ task:
-	toting _clothing_ and _thiefmember_ clicked 
-	give pc _gold_ 
+	toting _clothing_ and _thiefmember_ clicked
+	give pc _gold_
 	reveal _dungeon_ readmap
-	end quest 
+	end quest
 
 _S.02_ task:
-	create foe _F.00_ every 3 minutes 3 times with 25% success 
+	create foe _F.00_ every 3 minutes 3 times with 25% success
 
 _S.03_ task:
-	clicked item _clothing_ say 1018 
-	get item _note_ 
+	clicked item _clothing_ say 1018
+	get item _note_
 
 _readletter_ task:
-	pc at _mansion_ set _S.02_ 
-	start timer _traveltime_ 
-	log 1010 step 0 
+	pc at _mansion_ set _S.02_
+	start timer _traveltime_
+	log 1010 step 0
 
 _S.05_ task:
-	injured _F.00_ 
-	say 1030 
+	injured _F.00_
+	say 1030

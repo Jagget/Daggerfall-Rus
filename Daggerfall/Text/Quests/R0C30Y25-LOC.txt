@@ -108,13 +108,13 @@ Message:  1020
 
 Message:  1021
 =thief_,
- 
+
 <ce> Цель - %ra по имени %pcn,
 <ce> который несет _item2_ от
 <ce> __contact_.  Принеси _item2_
 <ce> ко мне.  Жить или умереть курьеру,
 <ce> на твоей совести.
- 
+
 <ce> _qgenemy_
 
 Message:  1030
@@ -183,66 +183,66 @@ Foe _F.01_ is Thief
 Foe _guards_ is Rogue
 
 --	Quest start-up:
-	dialog link for location _thievesguild_ person _qgenemy_ 
-	start timer _1stparton_ 
-	log 1010 step 0 
-	get item _item1_ 
-	pick one of _yesmap_ _nomap_ _nomap_ _nomap_ 
-	_map_ used do _readmap_ 
-	create npc _contact_ 
+	dialog link for location _thievesguild_ person _qgenemy_
+	start timer _1stparton_
+	log 1010 step 0
+	get item _item1_
+	pick one of _yesmap_ _nomap_ _nomap_ _nomap_
+	_map_ used do _readmap_
+	create npc _contact_
 
 _pcgetsgold_ task:
-	toting _item2_ and _questgiver_ clicked 
+	toting _item2_ and _questgiver_ clicked
 	give pc _reward_
-	give pc _item3_ 
-	end quest 
+	give pc _item3_
+	end quest
 
 _queston_ task:
-	when _2ndparton_ 
-	when _1stparton_ and not _pchasitem2_ 
-	make _item1_ permanent 
-	make _item2_ permanent 
-	change repute with _questgiver_ by -20 
-	end quest 
+	when _2ndparton_
+	when _1stparton_ and not _pchasitem2_
+	make _item1_ permanent
+	make _item2_ permanent
+	change repute with _questgiver_ by -20
+	end quest
 
 variable _qgclicked_
 _npcclicked_ task:
-	toting _item1_ and _contact_ clicked 
-	create foe _thief_ every 10 minutes 3 times with 100% success 
-	get item _item2_ 
-	say 1011 
+	toting _item1_ and _contact_ clicked
+	create foe _thief_ every 10 minutes 3 times with 100% success
+	get item _item2_
+	say 1011
 
 variable _1stparton_
 variable _pchasitem1_
 _pchasitem2_ task:
-	pc at _thievesguild_ set _S.10_ 
--	place item _item2_ at _thievesguild_ 
+	pc at _thievesguild_ set _S.10_
+-	place item _item2_ at _thievesguild_
 - this duplicate was placed on the floor for some reason, should not be
-	start timer _2ndparton_ 
+	start timer _2ndparton_
 
 variable yes
 _S.08_ task:
-	injured _thief_ 
-	give item _letter_ to _thief_ 
-	say 1020 
-	have _item2_ set _pchasitem2_ 
+	injured _thief_
+	give item _letter_ to _thief_
+	say 1020
+	have _item2_ set _pchasitem2_
 
 variable _no_
 _S.10_ task:
-	give item _item2_ to _F.01_ 
-	restrain foe _F.01_ 
-	place foe _F.01_ at _thievesguild_ 
+	give item _item2_ to _F.01_
+	restrain foe _F.01_
+	place foe _F.01_ at _thievesguild_
 
 _S.11_ task:
-	injured _F.01_ 
-	create foe _guards_ every 2 minutes 6 times with 50% success 
-	say 1030 
-	change repute with _qgenemy_ by -20 
+	injured _F.01_
+	create foe _guards_ every 2 minutes 6 times with 50% success
+	say 1030
+	change repute with _qgenemy_ by -20
 
 variable _2ndparton_
 _yesmap_ task:
-	give item _map_ to _F.01_ 
+	give item _map_ to _F.01_
 
 variable _nomap_
 _readmap_ task:
-	reveal totambuCoven in province 46 at 423290 
+	reveal totambuCoven in province 46 at 423290

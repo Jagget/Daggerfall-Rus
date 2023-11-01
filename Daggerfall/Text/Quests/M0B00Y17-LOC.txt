@@ -218,15 +218,15 @@ Clock _qtime_ 00:00 0 flag 17 range 0 2
 Foe _tiger_ is Sabretooth_tiger
 
 --	Quest start-up:
-	place item _I.01_ at _mondung_ 
-	dialog link for location _lovehouse_ person _love_ 
-	start timer _qtime_ 
-	reveal _mondung_ 
-	log 1020 step 0 
-	get item _I.00_ 
-	pick one of _S.10_ _S.10_ _S.11_ _S.11_ 
-	place foe _tiger_ at _mondung_ 
-	create npc _dummy_ 
+	place item _I.01_ at _mondung_
+	dialog link for location _lovehouse_ person _love_
+	start timer _qtime_
+	reveal _mondung_
+	log 1020 step 0
+	get item _I.00_
+	pick one of _S.10_ _S.10_ _S.11_ _S.11_
+	place foe _tiger_ at _mondung_
+	create npc _dummy_
 	have _I.01_ set _deadbody_
 
 _deadbody_ task:
@@ -234,65 +234,65 @@ _deadbody_ task:
 --added deadbody task. otherwise body would clog inventory
 
 _qtime_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	say 1040 
+	say 1040
 
 _S.02_ task:
-	injured _tiger_ 
-	_I.00_ used do _S.04_ 
+	injured _tiger_
+	_I.00_ used do _S.04_
 
 until _S.02_ performed:
-	_I.00_ used do _S.01_ 
+	_I.00_ used do _S.01_
 
 _S.03_ task:
-	killed 1 _tiger_ 
-	say 1030 
+	killed 1 _tiger_
+	say 1030
 	log 1022 step 1
 --adds log in case user missed kill message
 
 variable _S.04_
 _S.05_ task:
-	when _S.04_ and not _S.03_ 
-	log 1021 step 1 
-	say 1041 
+	when _S.04_ and not _S.03_
+	log 1021 step 1
+	say 1041
 	--remove foe action used here instead of attempting to transfer it to another dungeon
 	remove foe _tiger_
--	unset _S.01_ _S.04_ 
+-	unset _S.01_ _S.04_
 --prevented quest from giving reward. don't know the purpose of this unset.
 
 _S.06_ task:
-	clicked npc _dummy_ 
+	clicked npc _dummy_
 
 _pcgetsgold_ task:
-	when _S.06_ and _S.05_ 
-	give pc _gold_  
+	when _S.06_ and _S.05_
+	give pc _gold_
 	take _I.00_ from pc
-	end quest 
+	end quest
 --removed unnecessary delay
 
 _S.08_ task:
-	when _S.06_ and _S.03_ 
-	say 1050 
-	unset _S.06_ 
+	when _S.06_ and _S.03_
+	say 1050
+	unset _S.06_
 
 variable _duelist_
 -unused variable
 _S.10_ task:
-	_letter_ used do _readletter_ 
-	place item _letter_ at _mondung_ 
-	place npc _love_ at _lovehouse_ 
+	_letter_ used do _readletter_
+	place item _letter_ at _mondung_
+	place npc _love_ at _lovehouse_
 
 variable _S.11_
 _S.12_ task:
-	toting _letter_ and _love_ clicked 
-	get item _magic_ 
-	say 1061 
-	make _magic_ permanent 
+	toting _letter_ and _love_ clicked
+	get item _magic_
+	say 1061
+	make _magic_ permanent
 
 _readletter_ task:
-	add dialog for location _lovehouse_ person _love_ 
+	add dialog for location _lovehouse_ person _love_
 
 _qgclicked_ task:
 	clicked npc _questgiver_

@@ -167,17 +167,17 @@ Person _healer_ face 64 group Chemist remote
 Clock _questtime_ 00:00 0 flag 1 range 3 5
 
 --	Quest start-up:
-	start timer _questtime_ 
-	prompt 1011 yes _S.01_ no _S.02_ 
-	pick one of _S.06_ _S.07_ 
-	_talisman_ used do _S.08_ 
+	start timer _questtime_
+	prompt 1011 yes _S.01_ no _S.02_
+	pick one of _S.06_ _S.07_
+	_talisman_ used do _S.08_
 
 _questtime_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	log 1003 step 0 
-	say 1025 
+	log 1003 step 0
+	say 1025
 
 _S.02_ task:
 	say 1005
@@ -185,40 +185,40 @@ _S.02_ task:
 -removed illogical "saying RumorsPostfailure" from this task. replaced with 1005.
 
 _S.03_ task:
-	clicked npc _cousin_ 
-	say 1010 
+	clicked npc _cousin_
+	say 1010
 
 _S.04_ task:
-	when _S.03_ and _S.06_ 
-	make pc ill with Swamp_Rot 
+	when _S.03_ and _S.06_
+	make pc ill with Swamp_Rot
 
 variable _S.05_
 variable _S.06_
 variable _S.07_
 _S.08_ task:
-	take _talisman_ from pc saying 1019 
-	cure Swamp_Rot 
+	take _talisman_ from pc saying 1019
+	cure Swamp_Rot
 
 _S.09_ task:
-	toting _talisman_ and _cousin_ clicked 
-	log 1018 step 2 
-	say 1016 
-	give pc nothing 
-	end quest 
+	toting _talisman_ and _cousin_ clicked
+	log 1018 step 2
+	say 1016
+	give pc nothing
+	end quest
 --removed unnecessary delay
 --moved "give pc nothing" to end of task, more sensible for dialogue
 
 _S.10_ task:
-	clicked npc _healer_ say 1013 
-	prompt 1014 yes _S.11_ no _no_ 
+	clicked npc _healer_ say 1013
+	prompt 1014 yes _S.11_ no _no_
 
 _no_ task:
-	clear _S.10_ 
+	clear _S.10_
 
 _S.11_ task:
-	clicked _healer_ and at least 20 gold otherwise do _S.12_ 
-	log 1017 step 1 
-	get item _talisman_ 
+	clicked _healer_ and at least 20 gold otherwise do _S.12_
+	log 1017 step 1
+	get item _talisman_
 
 _S.12_ task:
-	say 1015 
+	say 1015

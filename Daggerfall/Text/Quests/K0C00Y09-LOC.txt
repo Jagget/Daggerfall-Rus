@@ -42,7 +42,7 @@ QuestorOffer:  [1000]
 <ce> ублюдка?
 
 RefuseQuest:  [1001]
-<ce> Нет? Что ж, пойду обращусь в Гильдю 
+<ce> Нет? Что ж, пойду обращусь в Гильдю
 <ce> Бойцов и найму еще кого-нибудь.
    <--->
 <ce> Очень плохо. Дайте знать, если
@@ -119,7 +119,7 @@ Message:  1011
 <ce> похоже убили его.
 
 Message:  1012
-<ce> Ай! %oth, 
+<ce> Ай! %oth,
 <ce> Я сдаюсь!
    <--->
 <ce> Сдаюсь! Сдаюсь!
@@ -140,7 +140,7 @@ Message:  1014
 <ce> не так много, как вы могли бы получить, но
 <ce> все же я вам признателен.
 
---removed erroneous blank msg inside 1014 
+--removed erroneous blank msg inside 1014
 
 -- Symbols used in the QRC file:
 --
@@ -173,48 +173,48 @@ Clock _queston_ 00:00 0 flag 17 range 0 2
 Foe _enemy_ is Ranger
 
 --	Quest start-up:
-	start timer _queston_ 
-	reveal _mondung_ 
-	log 1010 step 0 
-	place foe _enemy_ at _mondung_ 
+	start timer _queston_
+	reveal _mondung_
+	log 1010 step 0
+	place foe _enemy_ at _mondung_
 
 _queston_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	injured _enemy_ 
-	say 1012 
+	injured _enemy_
+	say 1012
 
 _killmon_ task:
-	killed 1 _enemy_ 
-	say 1011 
+	killed 1 _enemy_
+	say 1011
 
 _S.03_ task:
-	when _S.01_ and not _killmon_ 
-	add foe _enemy_ face 
+	when _S.01_ and not _killmon_
+	add foe _enemy_ face
 	remove foe _enemy_
 
 _qgclicked_ task:
-	clicked npc _qgiver_ 
+	clicked npc _qgiver_
 
 variable _S.05_
 _S.06_ task:
-	when _qgclicked_ and _killmon_ 
-	get item _lessgold_ 
-	say 1014 
-	make _lessgold_ permanent 
-	end quest 
+	when _qgclicked_ and _killmon_
+	get item _lessgold_
+	say 1014
+	make _lessgold_ permanent
+	end quest
 
 _reward_ task:
-	when _S.03_ and _qgclicked_ 
-	give pc _gold_ 
-	end quest 
+	when _S.03_ and _qgclicked_
+	give pc _gold_
+	end quest
 
 _S.08_ task:
-	when _queston_ and _S.03_ 
-	say 1013 
-	drop foe _enemy_ face 
+	when _queston_ and _S.03_
+	say 1013
+	drop foe _enemy_ face
 
 _clearclick_ task:
-	when _qgclicked_ and not _S.01_ 
-	clear _qgclicked_ _clearclick_ 
+	when _qgclicked_ and not _S.01_
+	clear _qgclicked_ _clearclick_

@@ -147,60 +147,60 @@ Foe _archer_ is Archer
 Foe _spellsword_ is Spellsword
 
 --	Quest start-up:
-	start timer _S.00_ 
-	log 1010 step 0 
-	pc at _place_ set _S.11_ 
-	place npc _darkb_ at _place_ 
+	start timer _S.00_
+	log 1010 step 0
+	pc at _place_ set _S.11_
+	place npc _darkb_ at _place_
 
 _S.00_ task:
-	end quest 
+	end quest
 
 _S.01_ task:
-	restrain foe _archer_ 
-	place foe _archer_ at _place_ 
+	restrain foe _archer_
+	place foe _archer_ at _place_
 
 _S.02_ task:
-	restrain foe _bard_ 
-	place foe _bard_ at _place_ 
+	restrain foe _bard_
+	place foe _bard_ at _place_
 
 _S.03_ task:
-	restrain foe _rogue_ 
-	place foe _rogue_ at _place_ 
+	restrain foe _rogue_
+	place foe _rogue_ at _place_
 
 _S.04_ task:
-	restrain foe _spellsword_ 
-	place foe _spellsword_ at _place_ 
+	restrain foe _spellsword_
+	place foe _spellsword_ at _place_
 
 variable _S.05_
 _S.06_ task:
-	injured _rogue_ saying 1023 
-	injured _archer_ saying 1021 
-	injured _bard_ saying 1022 
-	injured _spellsword_ saying 1024 
+	injured _rogue_ saying 1023
+	injured _archer_ saying 1021
+	injured _bard_ saying 1022
+	injured _spellsword_ saying 1024
 
 _S.07_ task:
-	killed 1 _archer_ 
-	killed 1 _bard_ 
-	killed 1 _rogue_ 
-	killed 1 _spellsword_ 
-	change repute with _darkb_ by -20 
+	killed 1 _archer_
+	killed 1 _bard_
+	killed 1 _rogue_
+	killed 1 _spellsword_
+	change repute with _darkb_ by -20
 	legal repute -20
 --nerfed legal repute, not fair for normal gameplay
 
 _S.08_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _clearclick_ task:
-	when _S.08_ and not _S.07_ 
-	say 1015 
+	when _S.08_ and not _S.07_
+	say 1015
 	clear _S.08_ _clearclick_
 --added an additional clear clearclick here. Otherwise this clearing function would stop working after the first click.
 
 _S.10_ task:
-	when _S.08_ and _S.07_ 
-	give pc _gold_ 
-	end quest 
+	when _S.08_ and _S.07_
+	give pc _gold_
+	end quest
 
 _S.11_ task:
-	pick one of _S.01_ _S.02_ _S.03_ _S.04_ 
-	hide npc _darkb_ 
+	pick one of _S.01_ _S.02_ _S.03_ _S.04_
+	hide npc _darkb_

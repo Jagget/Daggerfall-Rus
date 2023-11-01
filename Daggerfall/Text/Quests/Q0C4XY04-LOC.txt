@@ -130,50 +130,50 @@ Foe _firedaedra_ is Fire_daedra
 Foe _F.03_ is Frost_daedra
 
 --	Quest start-up:
-	start timer _1stparton_ 
-	reveal _mondung_ 
-	log 1015 step 0 
-	pc at _mondung_ set _exitstarter_ 
+	start timer _1stparton_
+	reveal _mondung_
+	log 1015 step 0
+	pc at _mondung_ set _exitstarter_
 
 _pcgetsgold_ task:
-	toting _heart_ and _questgiver_ clicked 
-	give pc _reward_ 
-	end quest 
+	toting _heart_ and _questgiver_ clicked
+	give pc _reward_
+	end quest
 
 _S.01_ task:
-	clicked item _heart_ say 1040 
+	clicked item _heart_ say 1040
 
 variable _S.02_
 variable _qgclicked_
 variable _queston_
 _1stparton_ task:
-	end quest 
+	end quest
 
 _S.06_ task:
-	injured _firedaedra_ 
-	give item _heart_ to _firedaedra_ 
+	injured _firedaedra_
+	give item _heart_ to _firedaedra_
 
 _S.07_ task:
-	injured _F.03_ 
-	give item _heart_ to _F.03_ 
+	injured _F.03_
+	give item _heart_ to _F.03_
 
 _S.08_ task:
-	injured _seducer_ 
-	give item _heart_ to _seducer_ 
+	injured _seducer_
+	give item _heart_ to _seducer_
 
 _S.09_ task:
-	injured _daedroth_ 
-	give item _heart_ to _daedroth_ 
+	injured _daedroth_
+	give item _heart_ to _daedroth_
 
 _S.10_ task:
-	when not _S.11_ and _exitstarter_ 
-	create foe _seducer_ every 15 minutes 7 times with 10% success 
-	create foe _F.03_ every 20 minutes 6 times with 30% success 
-	create foe _firedaedra_ every 18 minutes 5 times with 25% success 
-	create foe _daedroth_ every 12 minutes 5 times with 20% success 
+	when not _S.11_ and _exitstarter_
+	create foe _seducer_ every 15 minutes 7 times with 10% success
+	create foe _F.03_ every 20 minutes 6 times with 30% success
+	create foe _firedaedra_ every 18 minutes 5 times with 25% success
+	create foe _daedroth_ every 12 minutes 5 times with 20% success
 
 _S.11_ task:
-	when _S.06_ or _S.07_ or _S.09_ or _S.08_ 
-	clear _S.10_ 
+	when _S.06_ or _S.07_ or _S.09_ or _S.08_
+	clear _S.10_
 
 variable _exitstarter_
