@@ -1,19 +1,19 @@
 Quest: JHMG101
-DisplayName: An Illusory Hunt
+DisplayName: Иллюзорная охота
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> My dear %pcf, we often tell our newest
-<ce> inductees to the guild, "Too much power in too
-<ce> little time has destroyed many." Sadly,
-<ce> not all our students take heed of that
-<ce> warning, and we currently have a bit of
-<ce> a situation on our hands because of it.
-<ce> For a copy of a book, we request
-<ce> your help in culling a student too
-<ce> well-versed in Illusion magic for
-<ce> one's own good.
+<ce> Мой дорогой %pcf, мы часто говорим нашим
+<ce> новым членам гильдии: "Слишком много власти
+<ce> за слишком короткое время уничтожило
+<ce> многих". К сожалению, не все наши студенты
+<ce> прислушиваются к этому предупреждению, и в
+<ce> настоящее время из-за этого у нас возникла
+<ce> небольшая ситуация. В обмен на копию книги
+<ce> мы просим вашей помощи в отбраковке
+<ce> студента, слишком хорошо разбирающегося в
+<ce> магии иллюзий, для их же блага.
    <--->
 <ce> I regret to speak of this matter, but it
 <ce> is a necessary task. The Mages Guild,

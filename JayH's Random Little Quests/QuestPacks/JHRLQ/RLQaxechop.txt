@@ -11,7 +11,7 @@ QuestComplete:   [1004]
 <ce> It takes a few hours, but you manage to
 <ce> fill an entire wagon with chopped wood,
 <ce> enough to last several weeks.
-<ce> 
+<ce>
 <ce> "You're awfully kind to do this for me.
 <ce> I'm sure this gold won't compensate you.
 <ce> Maybe %god will in my place.
@@ -49,7 +49,7 @@ Message:  1010
 
 Message:  1011
 <ce> The peasant's voice trembles.
-<ce> 
+<ce>
 <ce> "Oh... Oh, I'm sure I'll find someone,
 <ce> don't you worry. %god bless your travels."
 

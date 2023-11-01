@@ -11,17 +11,17 @@ Message:  1010
 
 Message:  1011
 <ce> A beggar pleads with nearby folk for some money.
-<ce> 
+<ce>
 <ce> "Alms? Alms for the poor? 20 gold, anyone?"
-<ce> 
+<ce>
 <ce> Will you offer him the money?
 <--->
 <ce> You see a beggar nearby, entreating passers by
 <ce> for their money.
-<ce> 
+<ce>
 <ce> "Can you spare 20 gold for the poorest of folk?
 <ce> Please, I need to eat today."
-<ce> 
+<ce>
 <ce> Will you offer him the money?
 
 Message:  1012

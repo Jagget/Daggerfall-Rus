@@ -13,7 +13,7 @@ Message:  1010
 <ce> to be guarding it. It's too conspicuous to be
 <ce> abandoned; surely it belongs to someone nearby, but
 <ce> they have been momentarily careless.
-<ce> 
+<ce>
 <ce> Do you attempt to take it for yourself?
 
 Message:  1011

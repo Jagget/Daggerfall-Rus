@@ -10,7 +10,7 @@ Message:  1010
 <ce> A robed alchemist bandies about, showing some
 <ce> excess wares to any townspeople in sight.
 <ce> You are identified as a potential customer.
-<ce> 
+<ce>
 <ce> "Hail %ra! I need to lighten my burden
 <ce> and wish to make a deal. Have you any need of
 <ce> a Potion of Cure Poison? Yours for a mere

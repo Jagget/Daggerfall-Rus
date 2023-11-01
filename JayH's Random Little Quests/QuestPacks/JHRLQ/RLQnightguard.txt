@@ -5,16 +5,16 @@ QRC:
 
 Message:  1010
 <ce> "Hey there! Hello!"
-<ce> 
+<ce>
 <ce> An archer waves to you from a safe distance.
-<ce> 
+<ce>
 <ce> "I'm a volunteer to help guard the town at night.
 <ce> If you run into any trouble, come find me!"
 <--->
 <ce> "Hi there! Excuse me!"
-<ce> 
+<ce>
 <ce> An archer waves to you from a safe distance.
-<ce> 
+<ce>
 <ce> "I'm a volunteer to help guard the town at night.
 <ce> If you find any evil-doers, bring them to me!"
 

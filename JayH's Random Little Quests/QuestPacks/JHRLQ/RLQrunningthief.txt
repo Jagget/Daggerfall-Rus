@@ -13,20 +13,20 @@ Message:  1010
 <ce> You hear an uproar nearby. Among the shouts for
 <ce> someone to halt, you hear the town guard
 <ce> talk among themselves.
-<ce> 
+<ce>
 <ce> "No! How'd we lose the trail?
 <ce> We can't lose that thief!"
-<ce> 
+<ce>
 <ce> Though they lost the trail, you see a hooded figure
 <ce> sneaking away nearby. Do you alert the guards?
 <--->
 <ce> You hear an uproar nearby. Among the shouts for
 <ce> someone to halt, you hear the town guard
 <ce> talk among themselves.
-<ce> 
+<ce>
 <ce> "No! Where's the thief?
 <ce> Split up, look around quickly!"
-<ce> 
+<ce>
 <ce> Though they lost the trail, you see a hooded figure
 <ce> sneaking away nearby. Do you alert the guards?
 
@@ -39,7 +39,7 @@ Message:  1011
 Message:  1012
 <ce> The town guard manage to catch up to you.
 <ce> They thank you for resolving the problem.
-<ce> 
+<ce>
 <ce> "Self-defense, no doubt about it. We'll be telling
 <ce> the %rt of %crn about this, we will!"
 

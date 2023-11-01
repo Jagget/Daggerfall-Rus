@@ -8,31 +8,31 @@ QuestComplete:   [1004]
 <ce> Your kind do incalculable good here in
 <ce> %crn. You would fare better with it than I.
 <ce> Farewell."
-<ce> 
+<ce>
 <ce> The hooded figure bows and departs.
 
 Message:  1010
 <ce> "Hold it!"
-<ce> 
+<ce>
 <ce> A shrill voice calls out to you. You turn around and see
 <ce> an hooded figure staring at you.
-<ce> 
+<ce>
 <ce> "You, %ra! Are you one of those Fighters Guild people?"
 
 Message:  1011
 <ce> "Worthless pieces of garbage! I was evicted from my
 <ce> home because you couldn't even clean out the bats!
 <ce> Take this!"
-<ce> 
+<ce>
 <ce> Whatever happened, you are now the target of
 <ce> this person's rage.
 <--->
 <ce> "Ha, great! Another one down on the way home, what luck!"
-<ce> 
+<ce>
 <ce> The assassin pulls out a knife and prepares for battle.
 <--->
 <ce> "Filthy money-lovers! Prepare to die!"
-<ce> 
+<ce>
 <ce> The hooded figure unsheathes a blade.
 
 Message:  1012
@@ -40,7 +40,7 @@ Message:  1012
 <ce> out of _place_. Terrifying event, that was.
 <ce> You people are admirable. Safe journeys,
 <ce> may %god be with you."
-<ce> 
+<ce>
 <ce> She leaves you alone. Whoever killed that harpy
 <ce> is earning quite a reputation.
 <--->
@@ -48,19 +48,19 @@ Message:  1012
 <ce> rats in _place_. I can't believe the town guard
 <ce> leaves us to fend them off. You people are
 <ce> a wonderful alternative."
-<ce> 
+<ce>
 <ce> You're not sure this has anything to do with you,
 <ce> but you accept the thanks on the Fighters Guild's
 <ce> behalf and continue on.
 
 Message:  1013
 <ce> "Ah, appearances deceive. Very well, off I go."
-<ce> 
+<ce>
 <ce> The hooded figure then departs.
 <--->
 <ce> "Are you sure? Could've sworn I heard about you
 <ce> in the guild hall recently."
-<ce> 
+<ce>
 <ce> Though perplexed, the figure heads off.
 
 QBN:

@@ -25,11 +25,11 @@ Message:  1013
 Message:  1014
 <ce> You notice a slight movement in your pack.
 <ce> You turn around but see no one, only hearing a whisper.
-<ce> 
+<ce>
 <ce> "%oth mate, I'm sorry! Can't be
 <ce> stealing from one of the Thieves Guild,
 <ce> I can't! A right mistake! I'm sorry!"
-<ce> 
+<ce>
 <ce> You then hear the figure run away.
 
 QBN:

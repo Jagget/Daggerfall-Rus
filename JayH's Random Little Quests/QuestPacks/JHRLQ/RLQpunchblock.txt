@@ -5,7 +5,7 @@ QRC:
 
 QuestComplete:   [1004]
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА!)
-<ce> 
+<ce>
 <ce> When your turn comes, you stand before the peddler
 <ce> and ready your stance. You summon up all your confidence
 <ce> and throw your hand forward, shattering the steel block
@@ -16,17 +16,17 @@ Message:  1010
 <ce> A sly-looking huckster displays a brick
 <ce> and calls out at passers by, apparently
 <ce> in the middle of a multi-stage attraction.
-<ce> 
+<ce>
 <ce> "Ho there! I have here a slab
 <ce> of solid steel, impervious to weaponry!
 <ce> But I'm convinced that someone here
 <ce> is capable of punching right through it!
 <ce> You there! Or you! Which of you wants
 <ce> to give it a try?"
-<ce> 
+<ce>
 <ce> He proffers a small bag of gold for the
 <ce> one who can break the block. Will you try?
-<ce> 
+<ce>
 <ce> (SKILL CHECK: Hand-to-Hand, medium difficulty)
 
 Message:  1011
@@ -37,7 +37,7 @@ Message:  1011
 
 Message:  1012
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА!)
-<ce> 
+<ce>
 <ce> When your turn comes, you stand before the peddler
 <ce> and ready your stance. You summon up all your confidence
 <ce> and throw your hand forward, earning a loud cracking sound

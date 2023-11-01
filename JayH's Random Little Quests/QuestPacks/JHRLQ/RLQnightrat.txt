@@ -5,22 +5,22 @@ QRC:
 
 Message:  1010
 <ce> "Watch out! There's a rat there!"
-<ce> 
+<ce>
 <ce> Someone calls out in your direction. Sure enough,
 <ce> a large rat skitters about in the darkness.
-<ce> 
+<ce>
 <ce> "That one's mine! I'll take care of it!"
 <--->
 <ce> "Watch out! There's a rat there!"
-<ce> 
+<ce>
 <ce> Someone calls out in your direction. Sure enough,
 <ce> a large rat is scurrying toward you in the night.
-<ce> 
+<ce>
 <ce> "Don't worry! I'll fight it off!"
 
 Message:  1011
 <ce> The knight rejoices at the rodent's death.
-<ce> 
+<ce>
 <ce> "Glad we're both doing okay, friend!"
 
 QBN:

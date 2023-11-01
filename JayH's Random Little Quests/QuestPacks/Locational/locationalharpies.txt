@@ -23,21 +23,21 @@ The %rt had to pay a fortune to get those harpies out of ___city_.
 
 Message:  1010
 <ce> You see a warning sign on a post as you approach ___city_.
-<ce> 
+<ce>
 <ce> "WARNING! City infested with harpies. Stay indoors
 <ce> when possible! Limit travel! Carry weapons!
 <ce> The %rt does NOT need help from adventurers
 <ce> to kill them!"
 <--->
 <ce> Someone has posted a warning outside ___city_.
-<ce> 
+<ce>
 <ce> "Beware of harpies! City infested! Stay indoors and
 <ce> allow them no food! The %rt will
 <ce> soon send experts to dispose of them,
 <ce> your tax coins at work! Adventurers need not apply!"
 <--->
 <ce> You see someone has posted a warning outside ___city_.
-<ce> 
+<ce>
 <ce> "Message from %rn, the %rt:
 <ce> Some idiot citizen allowed harpy eggs to lay and hatch in
 <ce> their abandoned house, and now the city suffers from their

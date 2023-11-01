@@ -5,9 +5,9 @@ QRC:
 
 QuestComplete:   [1004]
 <ce> "Yoo-hoo! %pcf! Wait for me!"
-<ce> 
+<ce>
 <ce> A spry messenger comes racing toward you.
-<ce> 
+<ce>
 <ce> "_merchant_ sends %g3 regards and thanks
 <ce> you infinitely for your kindness.
 <ce> Have the money %g1 promised."
@@ -21,7 +21,7 @@ QuestLogEntry:  [1010]
 
 Message:  1011
 <ce> You are accosted by a very nervous merchant.
-<ce> 
+<ce>
 <ce> "Excuse me, hello, yes, %ra? My name
 <ce> is _merchant_, of _store_.
 <ce> A pleasure. Forgive my intrusion on
@@ -31,12 +31,12 @@ Message:  1011
 <ce> to the ground and an important payment is due
 <ce> today. I'll have you paid back double your
 <ce> money within twelve hours' time, I swear it!"
-<ce> 
+<ce>
 <ce> Do you loan 164 gold pieces to the merchant?
 
 Message:  1012
 <ce> _merchant_ turns away, crestfallen.
-<ce> 
+<ce>
 <ce> "I do not blame you, %ra, for these
 <ce> are hard times. I will sort this matter
 <ce> out myself, have no fear."

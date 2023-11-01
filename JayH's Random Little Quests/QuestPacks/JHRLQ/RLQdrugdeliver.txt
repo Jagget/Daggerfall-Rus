@@ -10,7 +10,7 @@ QuestComplete:   [1004]
 Message:  1010
 <ce> A hooded figure interrupts you and speaks
 <ce> in a low voice.
-<ce> 
+<ce>
 <ce> "'Scuse me stranger, I've got a little bit
 <ce> of something that needs to get to a
 <ce> house here in town. Pays =reward_

@@ -23,14 +23,14 @@ The %rt had to get an army of clerics to get those ghosts out of ___city_.
 
 Message:  1010
 <ce> You see a warning sign on a post as you approach ___city_.
-<ce> 
+<ce>
 <ce> "WARNING! City haunted by ghosts. Stay indoors!
 <ce> Consult the priests for protection!
 <ce> The %rt does NOT need help from adventurers
 <ce> to destroy them!"
 <--->
 <ce> Someone has posted a warning outside ___city_.
-<ce> 
+<ce>
 <ce> "Beware of ghosts! City haunted! Stay indoors!
 <ce> The %rt now consults with priests to rid
 <ce> the evil spirits from the city.
@@ -38,7 +38,7 @@ Message:  1010
 <ce> unattended in the streets!"
 <--->
 <ce> You see someone has posted a warning outside ___city_.
-<ce> 
+<ce>
 <ce> "___city_ has been targeted by necromancers who
 <ce> plague it with evil spirits. The %rt, %rn,
 <ce> is informed and will soon send relief.

@@ -17,7 +17,7 @@ QuestLogEntry:  [1010]
 Message:  1011
 <ce> A city official wearing formal clothing approaches
 <ce> you with a coin bag and a jar of multicolored beads.
-<ce> 
+<ce>
 <ce> "Good day %ra, I have an offer and
 <ce> an opportunity for you. I'm here to collect donations
 <ce> to keep %crn's libraries open. 35 gold to relieve your
@@ -26,31 +26,31 @@ Message:  1011
 <ce> this jar. If your bead is green, you get a book as
 <ce> a free gift the next time you visit a library.
 <ce> Swell, isn't it?"
-<ce> 
+<ce>
 <ce> Do you donate 35 gold pieces?
 
 Message:  1012
 <ce> "No, I understand. Poverty strikes us all
 <ce> sooner or later."
-<ce> 
+<ce>
 <ce> The official departs in search of donors.
 <--->
 <ce> "Are you sure? We all need a library at some point."
-<ce> 
+<ce>
 <ce> The official departs in search of donors.
 <--->
 <ce> "Well, I suppose not all of us have an aptitude
 <ce> for reading and libraries, I suppose."
-<ce> 
+<ce>
 <ce> The official departs in search of donors.
 
 Message:  1013
 <ce> You offer up 35 gold pieces and the official
 <ce> receives them with glee.
-<ce> 
+<ce>
 <ce> "Now then, go ahead and pick out a bead!
 <ce> I wish you the best of luck!"
-<ce> 
+<ce>
 <ce> You reach in and pull out a shiny red
 <ce> bead. He lets out a disappointed groan,
 <ce> but thanks you for the donation
@@ -58,10 +58,10 @@ Message:  1013
 <--->
 <ce> You offer up 35 gold pieces and the official
 <ce> receives them with glee.
-<ce> 
+<ce>
 <ce> "Now then, go ahead and pick out a bead!
 <ce> I wish you the best of luck!"
-<ce> 
+<ce>
 <ce> You reach in and pull out a shiny black
 <ce> bead. He lets out a disappointed groan,
 <ce> but thanks you for the donation
@@ -69,10 +69,10 @@ Message:  1013
 <--->
 <ce> You offer up 35 gold pieces and the official
 <ce> receives them with glee.
-<ce> 
+<ce>
 <ce> "Now then, go ahead and pick out a bead!
 <ce> I wish you the best of luck!"
-<ce> 
+<ce>
 <ce> You reach in and pull out a shiny orange
 <ce> bead. She lets out a disappointed groan,
 <ce> but thanks you for the donation
@@ -80,10 +80,10 @@ Message:  1013
 <--->
 <ce> You offer up 35 gold pieces and the official
 <ce> receives them with glee.
-<ce> 
+<ce>
 <ce> "Now then, go ahead and pick out a bead!
 <ce> I wish you the best of luck!"
-<ce> 
+<ce>
 <ce> You reach in and pull out a shiny white
 <ce> bead. She lets out a disappointed groan,
 <ce> but thanks you for the donation
@@ -91,10 +91,10 @@ Message:  1013
 <--->
 <ce> You offer up 35 gold pieces and the official
 <ce> receives them with glee.
-<ce> 
+<ce>
 <ce> "Now then, go ahead and pick out a bead!
 <ce> I wish you the best of luck!"
-<ce> 
+<ce>
 <ce> You reach in and pull out a shiny blue
 <ce> bead. She lets out a disappointed groan,
 <ce> but thanks you for the donation
@@ -109,40 +109,40 @@ Message:  1014
 Message:  1015
 <ce> You offer up 35 gold pieces and the official
 <ce> receives them with glee.
-<ce> 
+<ce>
 <ce> "Now then, go ahead and pick out a bead!
 <ce> I wish you the best of luck!"
-<ce> 
+<ce>
 <ce> You reach in and pull out a shiny green
 <ce> bead. She emits a joyful yell.
-<ce> 
+<ce>
 <ce> "A winner! We have a winner!
 <ce> Congratulations my friend!
 <ce> Here's a voucher for a free book
 <ce> the next time you visit any library
 <ce> in ____store_.
 <ce> Thank you very much, and a fine day to you!"
-<ce> 
+<ce>
 <ce> She then moves on to other townspeople.
 <ce> The voucher is so small, you need not
 <ce> make place for it among your things.
 <--->
 <ce> You offer up 35 gold pieces and the official
 <ce> receives them with glee.
-<ce> 
+<ce>
 <ce> "Now then, go ahead and pick out a bead!
 <ce> I wish you the best of luck!"
-<ce> 
+<ce>
 <ce> You reach in and pull out a shiny green
 <ce> bead. He emits a joyful yell.
-<ce> 
+<ce>
 <ce> "A winner! We have a winner!
 <ce> Congratulations my friend!
 <ce> Here's a voucher for a free book
 <ce> the next time you visit any library
 <ce> in ____store_.
 <ce> Thank you very much, and a fine day to you!"
-<ce> 
+<ce>
 <ce> He then moves on to other townspeople.
 <ce> The voucher is so small, you need not
 <ce> make place for it among your things.

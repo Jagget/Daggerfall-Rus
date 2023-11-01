@@ -19,7 +19,7 @@ The %rt had to hire an army to get those daedra out of ___city_.
 
 Message:  1010
 <ce> You see a warning sign on a post as you approach ___city_.
-<ce> 
+<ce>
 <ce> "Travelers to ___city_,
 <ce> An amateur daedra summoner opened a portal to Oblivion,
 <ce> and demons have been spotted in the city ever since.
@@ -30,7 +30,7 @@ Message:  1010
 <ce> The %rt, %rn."
 <--->
 <ce> Someone has posted a warning outside ___city_.
-<ce> 
+<ce>
 <ce> "Rogue mage has summoned daedra against this city.
 <ce> They will attack anyone in sight. Flee or defend yourself
 <ce> as best suits you. The %rt will soon send aid.

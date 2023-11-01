@@ -15,11 +15,11 @@ Message:  1010
 <ce> You notice a book chained to a nearby wall,
 <ce> replete with magical seals. Next to it hangs
 <ce> a pouch with a note.
-<ce> 
+<ce>
 <ce> "300 gold to read book for three hours.
 <ce> Learn the fine art of mysticism.
 <ce> Book will be relocated at owner's pleasure."
-<ce> 
+<ce>
 <ce> The pouch is just barely open enough to fit
 <ce> coins into its mouth. Do you take advantage
 <ce> of the opportunity?

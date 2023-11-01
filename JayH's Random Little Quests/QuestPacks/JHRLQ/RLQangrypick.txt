@@ -5,13 +5,13 @@ QRC:
 
 Message:  1011
 <ce> "You! Stop right there, thief! I've got you now!"
-<ce> 
+<ce>
 <ce> Someone in town is angry with you, and you're
 <ce> not sure why. Apparently your thieving ways
 <ce> are coming back to haunt you.
 <--->
 <ce> "You! You're the thief! I know you are!"
-<ce> 
+<ce>
 <ce> Someone in town is angry with you, and you're
 <ce> not sure why. Apparently your thieving ways
 <ce> are coming back to haunt you.

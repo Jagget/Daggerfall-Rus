@@ -7,12 +7,12 @@ QuestComplete:  [1004]
 <ce> The elderly man sighs with relief upon entering the temple.
 <ce> "Blessings upon you, %ra. I cannot pay you, but
 <ce> I pray %god will."
-<ce> 
+<ce>
 <ce> He then hobbles in.
 
 Message:  1010
 <ce> An elderly man accosts you.
-<ce> 
+<ce>
 <ce> "Excuse me, I need to get to _temple_
 <ce> to ask some alms, and my leg acts up on days like this.
 <ce> Could you lead me there? I don't have any money,
@@ -27,12 +27,12 @@ Message:  1011
 
 Message:  1012
 <ce> The old man moves on without you.
-<ce> 
+<ce>
 <ce> "Sorry, but I really must get to the temple."
 
 Message:  1013
 <ce> "Oh. O-okay, sorry to bother you."
-<ce> 
+<ce>
 <ce> He hobbles off alone.
 
 Message:  1014

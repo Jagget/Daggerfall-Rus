@@ -10,7 +10,7 @@ Message:  1010
 <ce> A rather smug figure ambles around the area, showing off
 <ce> some piece of paper to passers-by. Eventually
 <ce> he comes into contact with you.
-<ce> 
+<ce>
 <ce> "Hail %ra! Got a bit of a trick for you.
 <ce> I've designed a truly perplexing maze that only
 <ce> the smartest of people will decipher in time.
@@ -59,9 +59,9 @@ Message:  1015
 Message:  1016
 <ce> You fail to produce the 100 gold needed to try the maze.
 <ce> The man scowls at you.
-<ce> 
+<ce>
 <ce> "Thought to cheat me, eh? Not today."
-<ce> 
+<ce>
 <ce> In a huff he marches off.
 
 QBN:

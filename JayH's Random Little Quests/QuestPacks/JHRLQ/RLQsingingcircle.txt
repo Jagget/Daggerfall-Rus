@@ -29,7 +29,7 @@ Message:  1011
 
 Message:  1012
 <ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Привлекательность)
-<ce> 
+<ce>
 <ce> You take your place on the edge of the crowd
 <ce> and prepare to sing. You try your best, but
 <ce> the crowd is not impressed. Some fair-minded

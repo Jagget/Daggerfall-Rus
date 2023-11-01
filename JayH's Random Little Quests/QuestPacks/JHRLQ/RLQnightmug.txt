@@ -5,20 +5,20 @@ QRC:
 
 QuestComplete:   [1004]
 <ce> The robber's target bows before you.
-<ce> 
+<ce>
 <ce> "Thank you, kind soul. Even Mara's grace
 <ce> does not protect the unwary these days.
 <ce> The thief dropped this in the altercation.
 <ce> Perhaps it would be of use to a just
 <ce> warrior such as yourself?"
-<ce> 
+<ce>
 <ce> You are given a weapon, and the peasant departs.
 
 Message:  1010
 <ce> In these dark hours of the night, even the slightest noise
 <ce> seems to echo out. You can barely perceive someone being
 <ce> accosted by a thug in the dark.
-<ce> 
+<ce>
 <ce> "Come on, don't mug me off.
 <ce> You can't do this. %oth..."
 <ce>
@@ -32,20 +32,20 @@ Message:  1011
 Message:  1012
 <ce> You shout to stop the altercation, and
 <ce> get a hostile sneer in response.
-<ce> 
+<ce>
 <ce> "You'd better well know what you're doing to
 <ce> stop a member of the Thieves Guild,"
 <ce> you hear as the robber's attention turns to you.
 
 Message:  1013
 <ce> The robber's target bows before you.
-<ce> 
+<ce>
 <ce> "Thank you, kind soul. Even Mara's grace
 <ce> does not protect the unwary these days.
 <ce> I carry nothing with me, but will tell my
 <ce> family what you have done for me.
 <ce> I pray that be reward enough for your deed."
-<ce> 
+<ce>
 <ce> The peasant departs.
 
 QBN:

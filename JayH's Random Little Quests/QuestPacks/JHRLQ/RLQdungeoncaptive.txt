@@ -10,12 +10,12 @@ QuestFail:   [1003]
 
 QuestComplete:  [1004]
 <ce> _captive_ is thoroughly relieved to breathe fresh air.
-<ce> 
+<ce>
 <ce> "Thank you, thank you, thank you! These labyrinths
 <ce> are awful! I don't know how anyone gets out of them!
 <ce> I'll make sure everyone knows what you did for me,
 <ce> from the tavern owner to the %rt! %god bless you!"
-<ce> 
+<ce>
 <ce> Capable of making %g3 way from here, %g1 departs.
 
 Message:  1010
@@ -26,19 +26,19 @@ Message:  1010
 
 Message:  1011
 <ce> You grab the posting and read it carefully.
-<ce> 
+<ce>
 <ce> "Name: _captive_
 <ce> Description: =captive_
 <ce> Last known whereabouts: ___dung_
 <ce> Fame and good name to the one who finds %g2 and
 <ce> rescues %g2 from the pit."
-<ce> 
+<ce>
 <ce> It looks like the posting is good for the next =timer_ days.
 
 Message:  1012
 <ce> This person matches the description of _captive_.
 <ce> Upon seeing you, %g1 cries for joy.
-<ce> 
+<ce>
 <ce> "Finally, someone came to find me!
 <ce> Please get me out of here!"
 

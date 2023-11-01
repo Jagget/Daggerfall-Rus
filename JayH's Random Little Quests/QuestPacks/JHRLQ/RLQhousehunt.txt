@@ -8,7 +8,7 @@ QuestFail:   [1003]
 
 QuestComplete:  [1004]
 <ce> You find the jester waiting for you outside.
-<ce> 
+<ce>
 <ce> "Oh, joy! Wasn't that golly good fun?
 <ce> Here, take your money! It was worth my while!"
 
@@ -19,7 +19,7 @@ Yeah, some rat got into _house_. I live near it.
 
 Message:  1011
 <ce> A jester ambles up to you, bearing a jolly grin.
-<ce> 
+<ce>
 <ce> "Hello there! Looking for some fun? I hid a filthy, vicious
 <ce> rat in a building here in town. I won't tell you where,
 <ce> but if you can kill it in 30 minutes, you'll earn
@@ -27,13 +27,13 @@ Message:  1011
 
 Message:  1012
 <ce> The entertainer's countenance falls.
-<ce> 
+<ce>
 <ce> "Oh, phooey. You're raining on my parade!
 <ce> Go about your business, then!"
 
 Message:  1013
 <ce> He cheers, raising both hands in the air.
-<ce> 
+<ce>
 <ce> "Good! Well, go, get going then! 30 minutes
 <ce> is all you get, starting now! Maybe ask around
 <ce> and see if any of the local peasants have heard

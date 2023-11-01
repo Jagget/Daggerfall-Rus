@@ -7,17 +7,17 @@ Message:  1010
 <ce> A small troop of the city watch trudges around
 <ce> miserably in the rain, confronting the peasants
 <ce> that pass by. They make their way to you.
-<ce> 
+<ce>
 <ce> "Hail, %ra. We come to collect taxes to fund
 <ce> the city watch from all who benefit from
-<ce> our protection. The decreed amount is 
+<ce> our protection. The decreed amount is
 <ce> 40 gold pieces. Are you able to pay now?"
 
 Message:  1011
 <ce> You take out 40 gold pieces and pay the
 <ce> watchman. He smiles and takes
 <ce> down your name and description.
-<ce> 
+<ce>
 <ce> "Thank you. %cn depends on this money
 <ce> for its safety, and you are doing your
 <ce> part. %god watch over us all."
@@ -29,7 +29,7 @@ Message:  1012
 Message:  1013
 <ce> The guard frowns and takes down a rough
 <ce> description of you.
-<ce> 
+<ce>
 <ce> "Well, you can still turn in the money to
 <ce> _person_ at _palace_ here in town within
 <ce> the next 24 hours. Otherwise we'll remember

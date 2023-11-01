@@ -13,7 +13,7 @@ Message:  1010
 <ce> Under the overcast sky, a woman in fairly
 <ce> formal clothing accosts you,
 <ce> shouting far too loudly for the purpose.
-<ce> 
+<ce>
 <ce> "EXCUSE ME! I need a delivery! _person_
 <ce> at _tavern_ is expecting this _ingred_ and
 <ce> will pay if you deliver it to %g2!
@@ -24,7 +24,7 @@ Message:  1011
 <ce> "THAT'S RIGHT! Some gold for your trouble,
 <ce> go get it at _tavern_ over to the %di!
 <ce> Take the _ingred_, go find %g2!"
-<ce> 
+<ce>
 <ce> A tag on the _ingred_ says it needs to be
 <ce> delivered within 24 hours.
 

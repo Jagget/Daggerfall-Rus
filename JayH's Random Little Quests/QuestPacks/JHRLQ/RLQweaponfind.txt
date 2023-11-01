@@ -17,7 +17,7 @@ Message:  1011
 <ce> You start to unearth the weapon when you
 <ce> hear a voice shout nearby. "Hey!
 <ce> Filthy git, that's mine! Don't touch it!"
-<ce> 
+<ce>
 <ce> If you leave it now, you might be able
 <ce> to avoid a misunderstanding. Of course,
 <ce> you could still take the _weapon_
@@ -26,13 +26,13 @@ Message:  1011
 
 Message:  1012
 <ce> "Hey! No, that's mine! Guards! Someone help!"
-<ce> 
+<ce>
 <ce> Commotion stirs nearby as the peasant
 <ce> calls for the city watch.
 
 Message:  1013
 <ce> "That's right, you get back now!"
-<ce> 
+<ce>
 <ce> You back off and let the situation
 <ce> alone. You could get into a lot of
 <ce> trouble for persisting.

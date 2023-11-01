@@ -70,7 +70,7 @@ Message:  1013
 <ce> A few wide-eyed villagers watch in awe as his sores heal.
 <ce>
 <ce> "This %ra healed me! My life is saved! By %god!"
-<ce> 
+<ce>
 <ce> He then runs through the streets, shouting for joy.
 <ce> It appears your reputation in %crn
 <ce> is about to improve a little.

@@ -10,7 +10,7 @@ QuestComplete:   [1004]
 
 Message:  1010
 <ce> A worried-looking youth approaches you.
-<ce> 
+<ce>
 <ce> "Excuse me, we have a bit of a problem in our tavern.
 <ce> Some barbarian is making a mess of things and refuses
 <ce> to leave. Could you go and pitch this fellow out?"
@@ -29,19 +29,19 @@ Message:  1012
 
 Message:  1013
 <ce> His face washes over with relief.
-<ce> 
+<ce>
 <ce> "Oh, my! I was worried no one would help us.
 <ce> If you'll kindly head to _tavern_,
 <ce> off that way, %di, you'll find
 <ce> the bipedal monster inside.
 <ce> Do whatever you need to for the sake of
 <ce> peace, will you? Thanks!"
-<ce> 
+<ce>
 <ce> He then departs on another errand.
 
 Message:  1014
 <ce> "OW! Fine! I'll get going! You're not worth it anyway!"
-<ce> 
+<ce>
 <ce> The barbarian storms out, and soon the youth enters.
 <ce> He bows before you, payment in hand.
 
