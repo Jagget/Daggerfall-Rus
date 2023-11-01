@@ -13,7 +13,7 @@ Message:  1010
 
 Message:  1011
 %ra
- 
+
   It's kinda funny. We were watching a
 supposedly "very skilled assassin" down in
 some hole who we were hoping
@@ -21,7 +21,7 @@ to hire for a job. Then you come along and
 kill the wretch. We accept your qualifications.
 Meet me in =firsttimer_ days if you want to make
 some money.
- 
+
                     _res_
                     ____res_
 

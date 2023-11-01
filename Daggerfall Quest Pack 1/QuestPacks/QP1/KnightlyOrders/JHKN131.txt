@@ -153,15 +153,15 @@ _arrival_ task:
 
 variable _victory_
 _qgclicked_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _timer_ task:
-	end quest 
+	end quest
 
 _clearclick_ task:
-	when _qgclicked_ and not _victory_ 
+	when _qgclicked_ and not _victory_
   say 1003
-	clear _qgclicked_ _clearclick_ 
+	clear _qgclicked_ _clearclick_
 
 _pcgetsnothing_ task:
     when _qgclicked_ and _victory_

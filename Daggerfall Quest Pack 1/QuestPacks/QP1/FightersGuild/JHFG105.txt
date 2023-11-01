@@ -8,7 +8,7 @@ QuestorOffer:  [1000]
 <ce> They hit hard, but as long as you can hurt one,
 <ce> they fall pretty fast. I'm hoping you can make that happen
 <ce> in this case. Would you be willing to take a journey out
-<ce> of town to clean up a failed summoning? 
+<ce> of town to clean up a failed summoning?
 
 RefuseQuest:  [1001]
 <ce> That's kinda disappointing.

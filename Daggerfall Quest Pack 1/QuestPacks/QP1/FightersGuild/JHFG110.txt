@@ -47,7 +47,7 @@ Message:  1010
 
 Message:  1025
 %qdt:
- __qg_ of ___qg_ has sent me to 
+ __qg_ of ___qg_ has sent me to
  a cave called ___dung_ to retrieve an
  heirloom belonging to a knight who
  tried adventuring inside.

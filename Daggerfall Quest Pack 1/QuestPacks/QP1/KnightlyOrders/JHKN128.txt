@@ -23,7 +23,7 @@ AcceptQuest:  [1002]
 <ce> A safe journey to you, %pct.
 
 QuestComplete:  [1004]
-<ce> You arrive in ___captive_. Hailing a 
+<ce> You arrive in ___captive_. Hailing a
 <ce> member of the guard, you ask for a report
 <ce> on the matter of the necromancer.
 

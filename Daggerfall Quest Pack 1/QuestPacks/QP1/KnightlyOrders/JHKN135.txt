@@ -46,7 +46,7 @@ Message:  1011
 Message:  1030
 %qdt:
  _questgiver_ has sent me to
- ___dung_ to look for 
+ ___dung_ to look for
  _dummy_, whose family hopes
  he is still alive. I must find him
  or any sign of him and return to

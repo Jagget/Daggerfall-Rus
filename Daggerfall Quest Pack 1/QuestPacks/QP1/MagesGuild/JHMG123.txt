@@ -37,7 +37,7 @@ QuestComplete:  [1004]
 <ce> Wonderful! The _gem_ is here ahead of schedule, even!
 <ce> Have no concern for the city watch. If they show up here,
 <ce> we will turn them away or incinerate them, whichever
-<ce> suits us better. Take your reward, %pct. 
+<ce> suits us better. Take your reward, %pct.
 
 Message:  1010
 <ce> So soon as you touch the _gem_, an alarm sounds.

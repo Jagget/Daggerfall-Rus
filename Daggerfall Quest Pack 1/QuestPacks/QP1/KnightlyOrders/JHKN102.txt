@@ -116,7 +116,7 @@ Message:  1030
  ___questgiver_ to a farm,
  ___home_, which has
  been taken captive by a band
- of criminals. I must free the 
+ of criminals. I must free the
  captives and return to
  _questgiver_ within =timer_ days.
 

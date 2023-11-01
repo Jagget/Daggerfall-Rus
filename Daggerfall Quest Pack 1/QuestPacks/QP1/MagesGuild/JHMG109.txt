@@ -90,7 +90,7 @@ you. I say they're fools and I have a better solution.
 400 gold. I'll get the Thieves Guild to think you're
 carrying some other papers. Otherwise you're gonna
 have some trouble on the way to ___res_.
- 
+
                 _dummytg_
 
 Message:  1022

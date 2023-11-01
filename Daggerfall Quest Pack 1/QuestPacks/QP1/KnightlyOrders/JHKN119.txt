@@ -22,7 +22,7 @@ AcceptQuest:  [1002]
 <ce> effect upon the hemophiles. Keep _priest_ safe,
 <ce> and whatever spoils you gain from the vampires are yours.
 <ce> Do not delay more than =timer_ days in arriving.
-<ce> %god keep you safe from their grasp. 
+<ce> %god keep you safe from their grasp.
 
 QuestFail:  [1003]
 <ce> _priest_ looks thoroughly disappointed.

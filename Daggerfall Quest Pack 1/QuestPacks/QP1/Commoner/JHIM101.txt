@@ -32,7 +32,7 @@ QuestorPostSuccess:   [1008]
 Message:  1035
 <ce> Тогда давайте начнем.
 <ce>
-<ce> Первое: Нульфага - теща Готфрида.        
+<ce> Первое: Нульфага - теща Готфрида.
 
 Message:  1036
 <ce> Очень хорошо, %ra!
@@ -42,7 +42,7 @@ Message:  1036
 Message:  1037
 <ce> Впечатляет!
 <ce>
-<ce> Третье: Королева Аубк-и была замужем за Готфридом 
+<ce> Третье: Королева Аубк-и была замужем за Готфридом
 <ce> в результате Бетонской войны.
 
 Message:  1038
@@ -71,7 +71,7 @@ Clock _failsafe_ 1.00:00
 
 --	Quest start-up:
 	start timer _failsafe_
-	log 1030 step 0 
+	log 1030 step 0
 	prompt 1035 yes _fail_ no _S.04_
 
 _S.04_ task:
@@ -92,7 +92,7 @@ _fail_ task:
 
 _pcgetsgold_ task:
 	give pc _reward_
-	end quest 
+	end quest
 
 _failsafe_ task:
 	end quest

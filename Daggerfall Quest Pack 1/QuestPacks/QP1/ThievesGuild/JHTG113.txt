@@ -35,7 +35,7 @@ QuestComplete:  [1004]
 <ce> через браслет. Теперь мы можем
 <ce> сказать, что ты на самом деле %pct.
 <ce> Такое право хвастаться сложно
-<ce> получить, но мы хотели дать тебе более 
+<ce> получить, но мы хотели дать тебе более
 <ce> осязаемую награду, чтобы
 <ce> сказать спасибо за то, что ты нам помог.
 
@@ -90,8 +90,8 @@ Foe _vamp_ is Ancient_vampire
 
 --	Quest start-up:
 	start timer _timer_
-    start timer _delay_ 
-	log 1030 step 0 
+    start timer _delay_
+	log 1030 step 0
     teleport pc to _mondung_
     start task _spawn_
     get item _brac_
@@ -131,15 +131,15 @@ _delay_ task:
 	remove foe _vamp_
 
 _qgclicked_ task:
-	clicked npc _questgiver_ 
+	clicked npc _questgiver_
 
 _finish_ task:
 	when _delay_ and _qgclicked_
 	give pc _reward_
-	end quest 
+	end quest
 
 _timer_ task:
-	end quest 
+	end quest
 
 _clearclick_ task:
 	when _qgclicked_ and not _delay_

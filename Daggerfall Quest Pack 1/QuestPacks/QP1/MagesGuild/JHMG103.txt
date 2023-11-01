@@ -67,7 +67,7 @@ Message:  1012
 <ce> but so do you. You take hold of the portal and begin
 <ce> reducing its power. A clawed hand tries to reach through,
 <ce> but too late -- the connection to Oblivion has been severed.
-<ce> Whatever danger you could have faced is now past. 
+<ce> Whatever danger you could have faced is now past.
 
 Message:  1013
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)

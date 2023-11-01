@@ -182,7 +182,7 @@ Message:  1031
  ___dung_ by %g3 own trickery.
 
 Message:  1032
-%qdt: 
+%qdt:
  _mage_ is suffering from a
  severe arcane disease, the likes of which
  a temple cannot cure. I should be able

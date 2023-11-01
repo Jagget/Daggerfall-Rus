@@ -9,7 +9,7 @@ QuestorOffer:  [1000]
 <ce> вспоминаю старые добрые времена. Как насчет того, чтобы
 <ce> проверить ваши знания, посмотреть, знаете ли вы
 <ce> столько же, сколько и я, о выживании в заливе Илиак?
-<ce> За пять вопросов вы можете получить =reward_ золота. 
+<ce> За пять вопросов вы можете получить =reward_ золота.
 
 RefuseQuest:  [1001]
 <ce> Я ничего не теряю.
@@ -96,7 +96,7 @@ Clock _failsafe_ 1.00:00
 
 --	Quest start-up:
 	start timer _failsafe_
-	log 1030 step 0 
+	log 1030 step 0
 	pick one of _S.01_ _S.02_
 
 _S.01_ task:
@@ -147,7 +147,7 @@ _fail_ task:
 
 _pcgetsgold_ task:
 	give pc _reward_
-	end quest 
+	end quest
 
 _failsafe_ task:
 	end quest

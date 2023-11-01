@@ -31,7 +31,7 @@ AcceptQuest:  [1002]
 <ce> he got and it ain't pretty. Anyway, let me
 <ce> call him. He didn't even want to leave the guild
 <ce> hall without someone watching his back.
- 
+
 <ce> Hey! We got someone for ya, come down now!
 <ce> This %ra's gonna get you home! Name's
 <ce> %pcn. You can trust %g2.

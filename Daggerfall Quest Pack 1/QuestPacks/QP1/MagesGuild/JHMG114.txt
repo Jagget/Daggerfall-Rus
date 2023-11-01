@@ -144,14 +144,14 @@ Message:  1050
 
 Message:  1051
 %pcn,
- 
+
   I have good news to report. My probings have indicated
 a vampire resort in ___vampres_ by the name of
 _vampres_. I myself am detained in other
 matters but I do know _qgiver_ entrusted
 to you the safekeeping of _hunt_'s report.
 Let us hope that the document is being stored there.
- 
+
              _schol_
              ___res_
 

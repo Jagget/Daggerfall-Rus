@@ -12,7 +12,7 @@ Message:  1010
 
 Message:  1011
 %pcn
- 
+
  We've got a problem. You did a contract for the Fighters
 Guild to off some outlaw in ___dung_ a while ago.
 After the %t sent the order and before you arrived,
@@ -22,7 +22,7 @@ and keeps assaulting ___farm_. The %t's
 holding you responsible. Get on over there
 within 30 days and slay it or your good name
 in ____farm_'s going to lose its shine.
- 
+
                     _fg_
                     The Fighters Guild
                     ____farm_

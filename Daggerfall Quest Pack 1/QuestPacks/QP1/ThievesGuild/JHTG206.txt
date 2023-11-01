@@ -41,7 +41,7 @@ Message:  1030
 %qdt:
  Если я принесу заметки какого-нибудь исследователя
  из ___res_ обратно в ___questgiver_.
- в течение =timer_ дней, то _questgiver_ 
+ в течение =timer_ дней, то _questgiver_
  готов заплатить за них. %g1 сказал мне,
  что они находятся в _res_.
 
@@ -72,7 +72,7 @@ _victory_ task:
   toting _notes_ and _questgiver_ clicked
   give pc _reward_
   end quest
- 
+
 _timer_ task:
   say 1003
   end quest
