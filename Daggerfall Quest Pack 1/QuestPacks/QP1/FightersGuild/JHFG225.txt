@@ -69,7 +69,7 @@ Message:  1010
 <ce> find a way out of this place.
 
 Message:  1011
-<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: LUCK)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Удача)
 <ce>
 <ce> As luck would have it, the scholar is near the
 <ce> entrance to ___dung_. _scholar_ says,

@@ -68,7 +68,7 @@ Message:  1010
 <ce> Do you attempt it (yes) or fight off
 <ce> the mercenaries instead (no)?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: YES: Illusion, difficulty low)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Иллюзии, низкая сложность)
 
 Message:  1011
 <ce> You hear no more shouting. Hopefully these are the last

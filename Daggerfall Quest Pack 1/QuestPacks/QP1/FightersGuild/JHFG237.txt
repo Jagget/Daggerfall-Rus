@@ -44,7 +44,7 @@ Message:  1010
  The contract is void after =timer_ days.
 
 Message:  1011
-<ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: AGILITY)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Ловкость)
 <ce>
 <ce> Paranoia and precaution go hand in hand with the Brotherhood.
 <ce> There's a trap guarding the entrance to this house,
@@ -56,7 +56,7 @@ Message:  1012
 <ce> The widow has been avenged.
 
 Message:  1013
-<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: AGILITY)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Ловкость)
 <ce>
 <ce> Paranoia and precaution go hand in hand with the Brotherhood.
 <ce> There's a trap guarding the entrance to this house,

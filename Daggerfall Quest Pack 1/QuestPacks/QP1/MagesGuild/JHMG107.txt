@@ -65,7 +65,7 @@ Message:  1010
 <ce> your foe to come to you. Do you try to set a trap (yes)
 <ce> or search on your own (no)?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: YES: Stealth, difficulty medium)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Скрытность, средняя сложность)
 
 Message:  1011
 <ce> You're back, and you have no proof of a slain criminal.

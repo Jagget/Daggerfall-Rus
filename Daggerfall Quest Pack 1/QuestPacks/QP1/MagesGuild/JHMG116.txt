@@ -132,7 +132,7 @@ Message:  1023
 <ce> some control words to make it stop.
 <ce> Do you try to gain control of it?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: YES: Impish, difficulty medium)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Язык бесов, средняя сложность)
 
 Message:  1024
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)

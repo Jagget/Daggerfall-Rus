@@ -49,7 +49,7 @@ QuestComplete:  [1004]
 <ce> the trial. Superb work on all counts.
 
 Message:  1010
-<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: STRENGTH)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Сила)
 <ce>
 <ce> Your foes' courage begins to falter.
 <ce> One shouts to the other, "Hey, this one's a freak!

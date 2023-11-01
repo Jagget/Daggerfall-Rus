@@ -1,5 +1,5 @@
 Quest: JHMG102
-DisplayName: Stubborn Scholar
+DisplayName: Упрямый ученый
 -- Message panels
 QRC:
 
@@ -57,7 +57,7 @@ Message:  1010
 <ce> test to save yourself time and prove your intellect.
 <ce> Do you make the suggestion (yes) or submit to the quiz (no)?
 <ce>
-<ce> (ПРОВЕРКА АТРИБУТА: YES: Intelligence, very high)
+<ce> (ПРОВЕРКА АТРИБУТА: ДА: Интеллект, очень высокая сложность)
    <--->
 <ce> "Hmph. As if I would listen to a cave creature
 <ce> with your appearance. Yes, yes, I hear you, that
@@ -75,7 +75,7 @@ Message:  1010
 <ce> test to save yourself time and prove your intellect.
 <ce> Do you make the suggestion (yes) or submit to the quiz (no)?
 <ce>
-<ce> (ПРОВЕРКА АТРИБУТА: YES: Intelligence, difficulty very high)
+<ce> (ПРОВЕРКА АТРИБУТА: ДА: Интеллект, очень высокая сложность)
 
 Message:  1011
 <ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА)

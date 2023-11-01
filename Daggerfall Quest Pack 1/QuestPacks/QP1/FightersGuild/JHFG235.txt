@@ -51,7 +51,7 @@ Message:  1011
 <ce> necromancy any more after this incident.
 
 Message:  1012
-<ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: AGILITY)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Ловкость)
 <ce>
 <ce> One of the dangers of fighting multiple foes is that
 <ce> you risk being stabbed in the back. With unique intelligence,

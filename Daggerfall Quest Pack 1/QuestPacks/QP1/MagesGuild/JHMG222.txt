@@ -70,7 +70,7 @@ Message:  1012
 <ce> and then goes inert. The _tri_ is yours for the taking.
 
 Message:  1013
-<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: MYSTICISM)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Мистицизм)
 <ce>
 <ce> Standing on the edge of the trap's range, you begin
 <ce> a spell to counter its effects. You misjudge the power required,
@@ -78,7 +78,7 @@ Message:  1013
 <ce> It hurts terribly, and your innards have a strange feel to them.
 
 Message:  1014
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: MYSTICISM)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Мистицизм)
 <ce>
 <ce> Setting a counter-enchantment to the trap is trivial.
 <ce> Whoever this thief was, their magical power could not

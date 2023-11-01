@@ -31,7 +31,7 @@ QuestComplete:  [1004]
 <ce> stepped up. Here's your money.
 
 Message:  1010
-<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: LUCK)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Удача)
 <ce>
 <ce> As you arrive at ___captive_, you're surprised to see
 <ce> small remains of arthropods all over. You ask

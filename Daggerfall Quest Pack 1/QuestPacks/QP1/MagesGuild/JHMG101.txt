@@ -15,71 +15,71 @@ QuestorOffer:  [1000]
 <ce> студента, слишком хорошо разбирающегося в
 <ce> магии иллюзий, для их же блага.
    <--->
-<ce> I regret to speak of this matter, but it
-<ce> is a necessary task. The Mages Guild,
-<ce> wielding all the power that it does,
-<ce> assumes responsibility for any misuse that
-<ce> arises out of its teachings. On occasion
-<ce> there is no solution to a problematic
-<ce> pupil except a mercy killing. The %t
-<ce> insists that we do away with this
-<ce> shapeshifting villain. Will you help us?
+<ce> Мне жаль говорить об этом, но это необходимая
+<ce> задача. Гильдия Магов, обладающая всей
+<ce> имеющейся у нее властью, берет на себя
+<ce> ответственность за любое неправильное
+<ce> использование ее учений. Иногда для проблемного
+<ce> ученика нет другого решения, кроме убийства из
+<ce> милосердия. %t настаивает на том, чтобы мы
+<ce> покончили с этим злодеем слишком увлёкшимся
+<ce> изменением облика. Вы поможете нам?
 
 RefuseQuest:  [1001]
-<ce> Very well, but what if
-<ce> you are the next target?
+<ce> Очень хорошо, но что,
+<ce> если вы станете следующей мишенью?
    <--->
-<ce> Loyalty, %pct. Prove your loyalty.
+<ce> Преданность, %pct. Докажите свою преданность.
 
 AcceptQuest:  [1002]
-<ce> An admirable response, my child.
-<ce> It seems this student became
-<ce> hopped up on power after using
-<ce> a chameleon spell for the first time
-<ce> and found it just addictive. Then
-<ce> came experimentation with the
-<ce> shapeshifting spells, and suddenly
-<ce> we have reports pouring in of a
-<ce> tiger wearing robes that kills people.
-<ce> One of our student's friends knew
-<ce> that there was this hiding spot of resort,
-<ce> ___dung_ in this same province.
-<ce> Go there and find our pupil, in whatever
-<ce> state as may be the case, and end this
-<ce> menace for us. You have =timer_ days.
+<ce> Достойный восхищения ответ, дитя мое.
+<ce> Похоже, этот студент подсел на магию после
+<ce> того, как впервые использовал заклинание
+<ce> хамелеона, и обнаружил, что оно просто
+<ce> вызывает привыкание. Затем начались
+<ce> эксперименты с заклинаниями изменения
+<ce> облика, и внезапно к нам посыпались
+<ce> сообщения о тигре в мантии, который
+<ce> убивает людей. Один из друзей нашего
+<ce> студента знал, что в этой же провинции
+<ce> есть укромное местечко под названием
+<ce> ___dung_. Отправляйтесь туда и найдите
+<ce> нашего ученика, в каком бы состоянии он ни
+<ce> находился, и сотрите это пятно с нашей
+<ce> репутации. У вас есть =timer_ дней.
 
 QuestFail:  [1003]
-<ce> The Mages Guild expected you to slay the illusionist by now.
+<ce> Гильдия Магов ожидала, что к этому времени вы уже убьете иллюзиониста.
 
 QuestComplete:  [1004]
-<ce> A thousand thanks for saving our
-<ce> poor pupil from a worse fate. Those
-<ce> who fail to control power become
-<ce> slaves to it in time. Have your book.
+<ce> Тысяча благодарностей за то, что спасли нашего
+<ce> бедного ученика от худшей участи. Те, кто не в
+<ce> состоянии контролировать власть, со временем
+<ce> становятся ее рабами. Возьмите вашу книгу.
 
 Message:  1010
-<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: LUCK)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Удача)
 <ce>
-<ce> Luck is on your side. The renegade student is both
-<ce> nearby and in normal form. You both arm yourselves for
-<ce> the battle as you hear, "You won't take me alive!"
+<ce> Удача на вашей стороне. Студент-отступник находится
+<ce> поблизости и в нормальной форме. Вы оба готовитесь
+<ce> к битве, когда слышите: "Вы не возьмете меня живым!"
 
 Message:  1020
-<ce> As the creature's corpse falls, you hear a
-<ce> groan. This must have been the shapeshifter.
+<ce> Когда труп существа падает, вы слышите стон.
+<ce> Должно быть, это и был оборотень.
 
 Message:  1021
-<ce> This rogue student is no more.
+<ce> Этого студента-отступника больше нет.
 
 Message:  1030
 %qdt:
- The Mages Guild of
- ___qgiver_ has asked
- me to find a rogue student
- skilled with illusion magic in
- ___dung_. I have
- =timer_ days to end this threat
- and return.
+ Гильдия Магов
+ ___qgiver_ попросила
+ меня найти студента-отступника,
+ владеющего магией иллюзий в
+ ___dung_. У меня есть
+ =timer_ дней, чтобы покончить
+ с этой угрозой и вернуться.
 
 QBN:
 Item _reward_ book

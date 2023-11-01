@@ -70,7 +70,7 @@ Message:  1010
 <ce> benefit, to attract it to you. Do you try (yes)
 <ce> or wait for it to come to you (no)?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: YES: Mysticism, difficulty low)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Мистицизм, низкая сложность)
 
 Message:  1011
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)

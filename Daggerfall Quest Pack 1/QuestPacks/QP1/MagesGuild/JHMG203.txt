@@ -61,7 +61,7 @@ QuestComplete:  [1004]
 <ce> I pray you put it to good use.
 
 Message:  1010
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: DESTRUCTION)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Разрушение)
 <ce>
 <ce> The necromancer activates a trap,
 <ce> sending a bolt of magic flying at you.
@@ -70,7 +70,7 @@ Message:  1010
 <ce> it to its caster. "OW!" your foe winces.
 
 Message:  1011
-<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: DESTRUCTION)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Разрушение)
 <ce>
 <ce> The necromancer activates a trap,
 <ce> sending a bolt of magic flying at you.
