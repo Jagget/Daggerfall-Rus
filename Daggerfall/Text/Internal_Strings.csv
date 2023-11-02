@@ -1234,8 +1234,8 @@ TavernsA,"Королева И
 TavernsB,"Утес
 Кувшин
 Грот
-Кошка
-Собака
+Кот
+Пёс
 Гоблин
 Грифон
 Дракон
@@ -1374,8 +1374,8 @@ seasonNames,"Осень
 Весна
 Лето
 Зима"
-longDateTimeFormatString,"{0:00}:{1:00}:{2:00}, {3}, {4}е {6:00}, 3E{7}"
-dateTimeFormatString,"{0:00}:{1:00}:{2:00}, {3}е {5:00}, 3E{6}"
+longDateTimeFormatString,"{0:00}:{1:00}:{2:00}, {3}, {4}е {6:00}, 3Э {7}"
+dateTimeFormatString,"{0:00}:{1:00}:{2:00}, {3}е {5:00}, 3Э {6}"
 dateFormatString,"{0}, {1}е {3:00}"
 ingredientFormatString,{0} {1}
 longWeaponNameFormatString,{1} ({0})
@@ -1546,7 +1546,7 @@ matriarch,Матриарх
 sister,Сестра
 daedricSkill,Язык даэдра
 orcishSkill,Язык орков
-midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5}
+midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3Э {5}
 hthDamageFormatString,{0} урон: {1}-{2}
 affiliationFormatString,{0} (реп:{1})
 answers_5404,"лук
@@ -1580,3 +1580,4 @@ answers_5464,"да
 random,Случайно
 nordSurnameImmutableSuffix,сен
 confirmDefaultControls,Сбросить управление на значения по-умолчанию?
+saveLoadPromptFormat,{0}. Персонаж '{1}'
