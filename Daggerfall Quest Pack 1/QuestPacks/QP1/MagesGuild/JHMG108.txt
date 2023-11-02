@@ -1,91 +1,91 @@
 Quest: JHMG108
-DisplayName: Returning the Research
+DisplayName: Возвращение исследования
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Oh, %oth. I had put this one
-<ce> in the back of my mind, and here it
-<ce> is again. Rid me of this unpleasant
-<ce> thought, will you %pcf? One
-<ce> of our guild members was assaulted while
-<ce> bringing notes from one of the more
-<ce> brilliant scholars of %crn.
-<ce> A kindly informant has told us where
-<ce> the Dark Brotherhood knave absconded
-<ce> to. In the face of danger, will you
-<ce> stand firm to retrieve the research?
+<ce> О, %oth. Я убирал эту мысль в дальний уголок
+<ce> разума, но вот она вновь возникла передо
+<ce> мной. Освободи меня, прошу, от её
+<ce> мучительного присутствия, хорошо, %pcf? На
+<ce> одного из наших братьев по гильдии было
+<ce> совершено нападение в тот момент, когда он
+<ce> нес плоды трудов одного из величайших умов
+<ce> %crn. Наш надежный информатор открыл нам,
+<ce> куда подался тот злодей из Темного Братства.
+<ce> Сумеете ли вы остаться непоколебимыми перед
+<ce> лицом угрозы, чтобы вернуть утраченные знания?
    <--->
-<ce> Oh! How I hate to think upon this.
-<ce> Please, %pct, help me find an answer
-<ce> to this. Some filthy scoundrel from
-<ce> the Dark Brotherhood slew one of
-<ce> our couriers and took some research
-<ce> papers off for %god knows why.
-<ce> We need those notes, and we need
-<ce> someone capable of getting them back
-<ce> by any means necessary. Help us, please.
+<ce> Ах, сама мысль о произошедшем наполняет меня
+<ce> отвращением. Откликнись, %pct, и окажи мне содействие в
+<ce> поиске решения этого затруднения. Некий отвратительный
+<ce> злодей из лукавого Темного Братства лишил жизни одного
+<ce> из наших доверенных гонцов и похитил научные труды, цель
+<ce> его поступка окутана тайной. Эти записи жизненно важны
+<ce> для нас, и мы в поисках доблестного сердца, готового
+<ce> восстановить справедливость и вернуть их нам любой
+<ce> ценой. Прошу, вступи на этот путь вместе с нами.
 
 RefuseQuest:  [1001]
-<ce> Ah, one of those brave ones when
-<ce> no danger is present. Of course.
+<ce> Ах, вот вы какой, рыцарь без страха и упрека,
+<ce> пока опасности не видно. Ясно-понятно.
 
 AcceptQuest:  [1002]
-<ce> Then make haste to slay this subhuman filth
-<ce> and bring the papers back. I will need
-<ce> them in =timer_ days time, lest we lose
-<ce> face with the scholarly community.
-<ce> No one should know this ever happened,
-<ce> other than the despicable Dark Brotherhood.
-<ce> Oh, how my blood boils! Off with you now!
-<ce> _res_, ___res_! Now!
+<ce> Тогда без промедления отправляйтесь искоренить
+<ce> это нелюдимое отродье и верните документы. Мне
+<ce> они понадобятся через =timer_ дней, чтобы мы
+<ce> сохранили наш авторитет в академических
+<ce> кругах. Пусть никто, кроме презренного Темного
+<ce> Братства, не узнает о происшествии. О, как
+<ce> гнев наполняет мои жилы! И теперь, идите,
+<ce> _res_, ___res_! Немедленно!
 
 QuestFail:  [1003]
-<ce> _qgiver_ demanded the lost
-<ce> research notes by today.
+<ce> _qgiver_ потребовал потерянные
+<ce> исследовательские заметки к сегодняшнему дню.
 
 QuestComplete:  [1004]
-<ce> Oh, what a joy! I've managed to keep it
-<ce> a secret in the meantime. How wonderful!
-<ce> These =reward_ gold pieces will go unnoticed.
-<ce> Have them, and remember, tell no soul of this.
+<ce> О, какая радость! Мне посчастливилось сохранить эти события в
+<ce> глубокой скрытности. Вот это да, как превосходно! Эти
+<ce> =reward_ золотых останутся вне внимания. Примите их, и пусть
+<ce> это станет нашим маленьким секретом — ни слова о происшедшем никому.
 
 Message:  1015
-The manner by which the diastolic pressure
- of any two scarce commodities (creating a
- type of propulsion with no moving parts
- and virtual silence) has been postulated
- by thyrionic mathematicians for many years.
- In conventional thinking, the default
- parameters of any formula (objectively
- speaking, it is essential to remember that
- objectivity is indeed subjective) will
- always return to what Mornthaur called the
- "back medium." However, starting with a
- grid of complex numbers that more than covers
- the unit circle and three cube roots of one,
- we can backtrace, by uptracking the negative
- "half numbers," and create an infinite basin
- with dual natures of blackness and whiteness.
- The rate of adiabatic cooling or warming in
- unsaturated air can thus be made directly
- proportional to the fourth power of its
- absolute temperature.
+ Метод, с помощью которого можно измерить диастолическое
+ напряжение между двумя редкостными товарами, воплощая в
+ жизнь двигатель без подвижных элементов в самой тишине
+ эфира, был предметом размышлений тирионских математиков
+ на протяжении многих лет. По утверждениям, признанным в
+ академических кругах, любая формула, казалось бы,
+ непреложна в своей объективности, хотя и объективность
+ зачастую окутана субъективными тенями, неизменно сводится
+ к понятию, которое Морнтаур окрестил "зеркальной средой".
+ Однако, отправляясь в путешествие от решета комплексных
+ чисел, охватывающего диапазон за пределами единичного
+ круга и включая тройственность кубических корней единицы,
+ можно перейти к изысканию маршрута обратно, восходя по
+ лестнице отрицательных "полузначений", и таким образом
+ зачерпнуть из бездонного колодца, где сосуществуют
+ темнота и светлость. И в этой аллегории находим мы
+ принцип, согласно которому скорость адиабатического
+ охлаждения или нагрева несыщенного воздуха может быть
+ приведена в прямую зависимость от четвертой степени его
+ абсолютной температуры.
 
 Message:  1020
-<ce> "The Dark Brotherhood... knows all..."
+<ce> "Темное Братство... знает все..."
 
 Message:  1021
-<ce> These must be the research notes to return.
+<ce> Это должны быть исследовательские заметки, которые нужно вернуть.
 
 Message:  1030
 %qdt:
- _qgiver_ of ___qgiver_ has
- given me a secret mission to retrieve
- some stolen research notes, held
- in _res_ of ___res_.
- I must return with them in
- =timer_ days' time.
+ _qgiver_ из ___qgiver_ дал мне
+ секретное задание вернуть некоторые
+ украденные исследовательские
+ записи, хранящиеся в _res_,
+ ___res_. Я должен вернуться с ними
+ через =timer_ дней.
 
 QBN:
 Person _qgiver_ group Questor male
