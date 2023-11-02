@@ -85,7 +85,7 @@ Message:  1014
 <ce> back to _qgiver_ on your proceedings.
 
 Message:  1020
-<ce> (THAUMATURGY CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Тауматургия)
 <ce>
 <ce> Your knowledge of Thaumaturgy is enough to give you the edge.
 <ce> You cast a quick cantrip which causes the vampire temporary immobility.

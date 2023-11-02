@@ -1,155 +1,155 @@
 Quest: JHMG106
-DisplayName: An Obscure Trinket
+DisplayName: Непонятная безделушка
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pcf, we believe we have a simple task for you.
-<ce> One of our members brought back this _tri_ that
-<ce> we consider to have magical properties. However, ordinary
-<ce> identification spells fail us, and testing it directly seems
-<ce> like a dangerously absurd proposition, knowing it could
-<ce> hold any effect in Tamriel. What the Odylic Mages
-<ce> cannot identify, one of our greater experts can.
-<ce> Please deliver it for identification.
+<ce> %pcf, мы считаем, что у нас есть для вас простое задание. Один
+<ce> из наших членов принес вот этот _tri_, который, как мы полагаем,
+<ce> обладает магическими свойствами. Однако обычные заклинания
+<ce> идентификации не помогли нам, а прямое тестирование кажется
+<ce> опасно абсурдным предложением, зная, что оно может оказать
+<ce> абсолютно любой обратный эффект. То, что не могут определить
+<ce> Одилические Маги, может определить один из наших великих
+<ce> экспертов. Пожалуйста, доставьте это для идентификации.
    <--->
-<ce> One of the grandiose mysteries of Tamriel is
-<ce> that there are simply forms of magic and power
-<ce> we do not yet understand. My sincerest desire
-<ce> is that the empire will last another 1500 years
-<ce> so we may have time to unravel every enigma
-<ce> across the world itself in peace. But to
-<ce> get to the point, a very strange _tri_ was
-<ce> delivered to us recently with a latent enchantment
-<ce> we cannot draw out. The regular identification
-<ce> spells avail us nothing. This requires the help of
-<ce> a true expert. Will you take it into the ruins
-<ce> to obtain that manner of aid?
+<ce> Одна из грандиозных загадок Тамриэля
+<ce> заключается в том, что существуют просто
+<ce> непостижимые для нас формы магии и силы. Мое
+<ce> самое искреннее желание - чтобы Империя
+<ce> просуществовала еще 1500 лет, чтобы у нас было
+<ce> время спокойно разгадать все загадки в мире. Но
+<ce> ближе к делу: недавно нам доставили очень
+<ce> странный _tri_ со скрытыми чарами, которые мы
+<ce> не можем разгадать. Обычные заклинания для
+<ce> идентификации ничего не дают. Здесь требуется
+<ce> помощь настоящего эксперта. Возьмете ли вы его
+<ce> в руины, чтобы получить такую помощь?
 
 RefuseQuest:  [1001]
-<ce> Even so, we refuse to test it in this guild hall.
-<ce> The risks are too great.
+<ce> Несмотря на это, мы отказываемся испытывать его в гильдейском зале.
+<ce> Риски слишком велики.
 
 AcceptQuest:  [1002]
-<ce> Very well, here it is. I would ask you not to tamper with
-<ce> it, but I doubt you could in any case. If our specialists
-<ce> could not unleash its power, so much less will you. You
-<ce> will most likely find _npc_ in a hole
-<ce> called ___dung_. Please treat %g2 with respect,
-<ce> for %g1 is a former member of the Guild. We do not want some
-<ce> controversy to arise merely because someone cannot control %pg3
-<ce> tongue. I will see you here within =timer_ days to hear
-<ce> _npc_'s report. %god watch over you.
+<ce> Очень хорошо, вот он. Я бы попросил вас не пытаться использовать
+<ce> это, но я сомневаюсь, что вы сможете это сделать в любом случае.
+<ce> Если наши специалисты не смогли высвободить его силу, то вы тем
+<ce> более не сможете. Скорее всего, вы найдете _npc_ в норе под
+<ce> названием ___dung_. Пожалуйста, отнеситесь к н%g2 с уважением,
+<ce> поскольку %g1 - бывший член Гильдии. Мы не хотим, чтобы возникли
+<ce> разногласия только потому, что кто-то не может контролировать
+<ce> свой язык. Я увижу вас здесь через =timer_ дней, чтобы выслушать
+<ce> отчет _npc_. Пусть %god присматривает за вами.
 
 QuestFail:  [1003]
-<ce> _qgiver_ scowls at you.
+<ce> _qgiver_ хмуро смотрит на вас.
 <ce>
-<ce> "One of our members used your position as
-<ce> a reference to scry into ___dung_
-<ce> and see how _npc_ was doing with the _tri_.
-<ce> No one expected to see %g4 dead corpse instead.
-<ce> I'd have you thrown in prison had I time
-<ce> to prove my case. Begone, churl."
+<ce> "Один из наших членов использовал ваше местоположение
+<ce> в качестве якоря, чтобы просканировать ___dung_ и
+<ce> посмотреть, как _npc_ справляется с _tri_. Никто не
+<ce> ожидал увидеть вместо этого %g4 труп. Я бы
+<ce> бросил вас в тюрьму, если бы у меня было время
+<ce> доказать свою правоту. Проваливай, чурбан".
 
 QuestComplete:  [1004]
-<ce> Oh my, our poor _npc_! What an awful trap!
-<ce> We owe you much this day, %pct. Had you slain %g2,
-<ce> we would have lost one of our foremost experts on arcane
-<ce> artifacts. Well done, my child! Please take this reward
-<ce> for uncovering the secret within the _tri_. What we
-<ce> do with it is now in the council's hands.
+<ce> О, наш бедный _npc_! Какая ужасная ловушка! Мы многим
+<ce> обязаны вам в этот день, %pct. Если бы вы убили %g4, мы бы
+<ce> потеряли одного из наших лучших экспертов по арканным
+<ce> артефактам. Отличная работа, дитя мое! Пожалуйста, примите
+<ce> эту награду за раскрытие тайны, заключенной в _tri_. Что
+<ce> мы будем с ним делать дальше, решит Совет.
 
 Message:  1010
-<ce> "Ah, good day. Yes, I am _npc_. What do you need
-<ce> of me? Hmm. Well, I suppose I can take a look at it. It's just
-<ce> this _tri_? Very well. Allow me to work on it for a moment."
+<ce> "А, добрый день. Да, я _npc_. Что Вам от меня нужно? Хм.
+<ce> Ну, полагаю, я могу взглянуть на это. Это всего лишь _tri_?
+<ce> Очень хорошо. Позвольте мне немного поработать с ним".
 <ce>
-<ce> You hold the trinket in front of %g2, which %g1 touches while
-<ce> chanting an incantation. A burst of light follows which leaves
-<ce> you unsettled. Once your eyes adjust, you see a very different
-<ce> demeanor on _npc_'s face.
+<ce> Вы держите безделушку, к которой %g1 прикасается, произнося
+<ce> заклинание. За этим следует вспышка света, которая оставляет
+<ce> вас в замешательстве. Когда ваши глаза адаптируются, Вы
+<ce> видите, что лицо _npc_ изменилось.
 <ce>
-<ce> "Filthy, disgusting %ra! This is my home! What are you
-<ce> doing in my home?! Murder! Murder! This day to Oblivion!"
+<ce> "Мерзкий, отвратительный %ra! Это мой дом! Что вы делаете
+<ce> в моем доме?! Убивать! Убивать! Во имя Обливиона!"
    <--->
-<ce> "Ah, good day. Yes, I am _npc_. What do you need
-<ce> of me? Hmm. Well, I suppose I can take a look at it. It's just
-<ce> this _tri_? Very well. Allow me to work on it for a moment."
+<ce> "А, добрый день. Да, я _npc_. Что Вам от меня нужно? Хм.
+<ce> Ну, полагаю, я могу взглянуть на это. Это всего лишь _tri_?
+<ce> Очень хорошо. Позвольте мне немного поработать с ним".
 <ce>
-<ce> You hold the trinket in front of %g2, which %g1 touches while
-<ce> chanting an incantation. A burst of light follows which leaves
-<ce> you unsettled. Once your eyes adjust, you see a very different
-<ce> demeanor on _npc_'s face.
+<ce> Вы держите безделушку, к которой %g1 прикасается, произнося
+<ce> заклинание. За этим следует вспышка света, которая оставляет
+<ce> вас в замешательстве. Когда ваши глаза адаптируются, Вы
+<ce> видите, что лицо _npc_ изменилось.
 <ce>
-<ce> "%oth! Filthy cur, this day you meet your end!
-<ce> For Oblivion and its ten thousand chanting godly servants! Die!"
+<ce> "%oth! Мерзкий проклятый, сегодня ты встретишь свой конец!
+<ce> Во имя Обливиона и его десяти тысяч благочестивых слуг! Умри!"
 
 Message:  1011
-<ce> _npc_ lies dead. You put the _tri_ in your pack.
+<ce> _npc_ лежит мертвым. Вы кладете _tri_ в свою сумку.
 
 Message:  1012
-<ce> _npc_ halts midstep. Lucidity appears
-<ce> to return to %g4 eyes, and %g1 trembles.
+<ce> _npc_ останавливается на середине шага. В %g4 глаза
+<ce> возвращается ясность, и %g1 дрожит.
 <ce>
-<ce> "Oh, my. Oh, dear. I didn't hurt you, did I? What
-<ce> an awful, awful trap was put on this simple little thing!
-<ce> One of us could have been killed! Oh, I feel faint.
-<ce> Tell _qgiver_ we now know everything we
-<ce> need to about that device. And tell %g2 to burn it.
-<ce> I would do so myself if I weren't convinced it would
-<ce> rouse the Archmagister's wrath. Go in peace,
-<ce> %ra, and thank you for sparing my life."
+<ce> "Да как же так. Что же это такое? Я ведь не причинил вам
+<ce> вреда, правда? Какая ужасная, ужасная ловушка была поставлена
+<ce> на эту простую маленькую штучку! Один из нас мог быть убит! О,
+<ce> я чувствую, что теряю сознание. Скажите _qgiver_, что теперь
+<ce> мы знаем об этом устройстве все, что нужно. И скажите %g2,
+<ce> чтобы %g1 сжег это. Я бы и сам так поступил, если бы не был
+<ce> уверен, что это вызовет гнев архимагистра. Иди с миром, %ra, и
+<ce> спасибо, что пощадили мою жизнь".
 
 Message:  1013
-<ce> Magical power continues to shoot from the _tri_.
-<ce> You can't tell exactly what it's
-<ce> doing, but it can't be beneficial.
-<ce> If you were confident in your ability,
-<ce> you could attempt to dampen the magic
-<ce> at its source. Do you try?
+<ce> Магическая сила продолжает исходить из
+<ce> _tri_. Вы не можете точно сказать, что
+<ce> она делает, но она не может быть
+<ce> полезной. Если вы уверены в своих
+<ce> силах, вы можете попытаться ослабить
+<ce> магию в ее источнике. Вы попробуете?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: YES: Thaumaturgy, difficulty high)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Тауматургия, высокая сложность)
 
 Message:  1014
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> You turn the _tri_'s power against itself.
-<ce> It goes inert.
+<ce> Вы обращаете силу _tri_ обратно на себя.
+<ce> Магия становится неактивной.
 
 Message:  1015
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> You try to turn the _tri_'s power against it,
-<ce> but it glows all the more, and starts to bounce
-<ce> of its own power. _npc_ shrieks in an inhumane tone,
+<ce> Вы пытаетесь обратить эту силу обратно на _tri_, но она
+<ce> страновится все сильнее и _tri_ начинает дрожать от избытка силы.
+<ce> _npc_ вскрикивает нечеловеческим голосом,
 <ce>
-<ce> "Imbecile! Stop it!
-<ce> Stop hurting my home!"
+<ce> "Имбецил! Прекрати это!
+<ce> Прекрати причинять вред моему дому!"
 <ce>
-<ce> Light bursts out of the trinket again, and you
-<ce> sense other beings have appeared nearby.
+<ce> Из безделушки снова вырывается свет, и вы чувствуете,
+<ce> что поблизости появились другие существа.
 
 Message:  1030
 %qdt:
- The Mages Guild of ___qgiver_
- has tasked me with taking some
- _tri_ to _npc_, who is
- in __dung_, for inspection.
- I should return in =timer_ days
- with the report.
+ Гильдия Магов ___qgiver_
+ поручила мне взять некий
+ _tri_ к _npc_, который находится
+ в __dung_, для проверки.
+ Я должен вернуться через =timer_ дней
+ с отчетом.
 
 Message:  1031
 %qdt:
- _npc_ went berserk after
- activating the _tri_, and
- I slew %g2.
+ _npc_ взбесился после
+ активации _tri_, и
+ я убил %g4.
 
 Message:  1032
 %qdt:
- _npc_ suffered the
- charming effect of the _tri_
- and survived. Now I can take the
- report back to the Mages Guild.
+ _npc_ был
+ зачарован воздействием _tri_,
+ но выжил. Теперь я могу доставить
+ отчет обратно в Гильдию Магов.
 
 QBN:
 Item _reward_ gold

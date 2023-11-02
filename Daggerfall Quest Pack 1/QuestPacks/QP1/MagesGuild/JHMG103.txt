@@ -1,98 +1,98 @@
 Quest: JHMG103
-DisplayName: Psijic Intruder
+DisplayName: Вторжение Псиджиков
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Have you ever heard of the Psijic Order, %pct?
-<ce> Few of our members would have. They tend to stay
-<ce> in the shadows, letting things transpire naturally...
-<ce> until they don't. One of their kind has stolen from us
-<ce> and taken refuge in a cave, for Oblivion knows
-<ce> what reason. Go and bring back our book.
-<ce> You are authorized to kill.
+<ce> Вы когда-нибудь слышали об Ордене Псиджиков,
+<ce> %pct? Мало кто слышал. Они склонны оставаться в
+<ce> тени, позволяя событиям происходить естественным
+<ce> образом... но иногда это далеко не так. Один из
+<ce> их вида обокрал нас и укрылся в пещере, Обливион
+<ce> его знает зачем. Пойдите и принесите обратно
+<ce> нашу книгу. Вам разрешено убивать.
 
 RefuseQuest:  [1001]
-<ce> Well, I suppose a coward wouldn't want
-<ce> to face a rival order's wrath.
+<ce> Что ж, я полагаю, трус не захотел бы
+<ce> столкнуться с гневом конкурирующего ордена.
 
 AcceptQuest:  [1002]
-<ce> Good. If we allow this to happen, we open the door
-<ce> to more theft and loss. Whatever you decide to do
-<ce> to this Psijic thief is your own choice.
-<ce> The book will be needed in around =timer_ days' time,
-<ce> so be certain to not dally. ___dung_ is
-<ce> off %di from here. I'll mark it on your map
-<ce> and wish you safe travels.
+<ce> Хорошо. Если мы сейчас это не пресечем, мы откроем
+<ce> дверь для новых краж. Что бы вы ни решили сделать с
+<ce> этим вором-Псиджиком, это ваш собственный выбор.
+<ce> Книга понадобится примерно через =timer_ дней, так
+<ce> что будьте уверены, что не будете медлить.
+<ce> ___dung_ находится на %di. Я отмечу это
+<ce> на вашей карте и пожелаю вам счастливого пути.
 
 QuestFail:  [1003]
-<ce> You needed to take the book back from
-<ce> the Psijic Order by now.
+<ce> Тебе уже нужно было забрать
+<ce> книгу у Ордена Псиджиков.
 
 QuestComplete:  [1004]
-<ce> Very fine work. I trust you encountered no
-<ce> great danger in ___dung_? Not for
-<ce> one of your prowess, in any case.
+<ce> Очень хорошая работа. Надеюсь, вы не столкнулись
+<ce> с большой опасностью в ___dung_? Во всяком
+<ce> случае, не для человека вашей квалификации.
 <ce>
-<ce> I was trying to scrounge up an acceptable
-<ce> reward while you were out. Perhaps this
-<ce> _reward_ will be of use to you?
-<ce> Very fruitful for enchantments,
-<ce> they are. Give it a try, why don't you?
+<ce> Я пытался найти приемлемое
+<ce> вознаграждение, пока вас не было.
+<ce> Возможно, этот _reward_ будет вам
+<ce> полезен? Пригодится для зачарований.
+<ce> Попробуйте, почему бы и нет?
 
 QuestorPostSuccess:   [1008]
-The Psijic Order must be allowed to gain no ground here.
+Ордену Псиджиков здесь не место.
 
 Message:  1010
-<ce> "The book is mine! Begone!"
+<ce> "Книга моя! Сгинь!"
 <ce>
-<ce> The Psijic begins casting a spell.
+<ce> Псиджик начинает произносить заклинание.
 
 Message:  1011
-<ce> Your foe is dead, but the spell is finishing now.
-<ce> With a loud roar, a portal begins to open nearby.
+<ce> Ваш противник мертв, но заклинание уже заканчивается.
+<ce> С громким ревом рядом начинает открываться портал.
 <ce>
-<ce> If you were confident in your Mysticism ability,
-<ce> you could attempt to close the portal before
-<ce> anything comes through. Meddling with it
-<ce> without the proper knowledge could make
-<ce> the situation even more dangerous, though.
+<ce> Если бы вы были уверены в своих способностях к
+<ce> Мистицизму, вы могли бы попытаться закрыть портал
+<ce> до того, как через него что-нибудь появится.
+<ce> Однако вмешательство в него без соответствующих
+<ce> знаний может сделать ситуацию еще более опасной.
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: Mysticism: difficulty very high)
+<ce> (ПРОВЕРКА НАВЫКА: Мистицизм: очень высокая сложность)
 
 Message:  1012
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА!)
 <ce>
-<ce> The Psijics may know something about Mysticism,
-<ce> but so do you. You take hold of the portal and begin
-<ce> reducing its power. A clawed hand tries to reach through,
-<ce> but too late -- the connection to Oblivion has been severed.
-<ce> Whatever danger you could have faced is now past.
+<ce> Псиджики может и знают что-то о Мистицизме, но и вы
+<ce> тоже. Вы беретесь за портал и начинаете уменьшать его
+<ce> силу. Когтистая рука пытается пролезть внутрь, но
+<ce> слишком поздно - связь с Обливионом прервана. Какая
+<ce> бы опасность вам ни грозила, она уже миновала.
 
 Message:  1013
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> You begin focusing on the portal to close it.
-<ce> Whether it's power or knowledge you lack, you don't know;
-<ce> but your attempts to close it give it a little
-<ce> more energy, enough to help a couple more
-<ce> demons pass through than was originally intended.
-<ce> With a loud bang, the portal finally pops out
-<ce> of existence, leaving you with some new guests.
+<ce> Вы начинаете концентрироваться на портале, чтобы
+<ce> закрыть его. Чего вам не хватает - силы или знаний,
+<ce> вы не знаете; но ваши попытки закрыть портал придают
+<ce> ему немного больше энергии, достаточной для того,
+<ce> чтобы через него прошло больше демонов, чем могло бы.
+<ce> С громким грохотом портал наконец-то исчезает,
+<ce> оставляя вас один на один с новыми гостями.
 
 Message:  1014
-<ce> Rather than mess with a Psijic's portal,
-<ce> you brace yourself for whatever's about to come through.
-<ce> A fire daedra confidently steps through as
-<ce> the portal runs out of power.
+<ce> Вместо того, чтобы возиться с порталом Псиджика, вы
+<ce> готовитесь к тому, что через него вот-вот появится.
+<ce> Огненная даэдра уверенно шагает через портал, когда
+<ce> его энергия иссякает.
 
 Message:  1030
 %qdt:
- I must descend into
- ___dung_ to take back a book
- that the Psijic Order has stolen
- from the Mages Guild in ___qgiver_.
- _qgiver_ needs it returned in =timer_ days.
+ Я должен спуститься в ___dung_,
+ чтобы вернуть книгу, которую Орден
+ Псиджиков украл из Гильдии Магов в
+ ___qgiver_. _qgiver_ хочет, чтобы я
+ вернул ее через =timer_ дней.
 
 QBN:
 Item _item_ book
