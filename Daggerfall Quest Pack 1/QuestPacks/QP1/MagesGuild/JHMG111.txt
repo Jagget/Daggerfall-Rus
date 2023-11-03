@@ -1,116 +1,116 @@
 Quest: JHMG111
-DisplayName: Travel Guide
+DisplayName: Путеводитель
 
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Oh, %pcf, perhaps this may interest
-<ce> you. One of our instructors needs
-<ce> a guide to a few exotic locations
-<ce> in the area. If you can merely keep
-<ce> _guide_ and a group
-<ce> of students safe during the =goal_
-<ce> days the trip will take, you will be
-<ce> paid =reward_ gold. Feeling up to it?
+<ce> О, %pcf, предлагаю вашему вниманию возможность, которая, вероятно,
+<ce> окажется для вас интересной. Один из наших уважаемых
+<ce> преподавателей нуждается в проводнике для путешествия по ряду
+<ce> живописных локаций в окрестностях. Вам будет необходимо лишь
+<ce> гарантировать безопасность _guide_ и сопровождаемой им
+<ce> студенческой группы на протяжении =goal_ дней, в течение которых
+<ce> продлится экспедиция. В качестве вознаграждения за ваши услуги
+<ce> предусмотрено =reward_ золотых. Готовы ли Вы принять это задание?
    <--->
-<ce> %pcf, how was your walk here? And
-<ce> more to the point, do you like the outdoors?
-<ce> Occasionally we send out our more feeble
-<ce> members to gain some real world experience,
-<ce> requiring some danger and some dust between
-<ce> the toes. All in the name of building character,
-<ce> of course. But while one instructor teaches them
-<ce> the way, another keeps the group safe. Will you
-<ce> do the protecting this time?
+<ce> %pcf, каково было ваше путешествие сюда? И, что куда
+<ce> более значимо, насколько вы цените прелести длительных
+<ce> прогулок под открытым небом? Бывает, мы отправляем наших
+<ce> менее опытных соратников в походы, где они сталкиваются с
+<ce> риском и пылью под пальцами ног — все ради закаливания
+<ce> духа и тела. Обычно один из наших преподавателей берет на
+<ce> себя обучение, тогда как другой заботится о безопасности
+<ce> отряда. Не желаете ли вы взять на себя эту ответственную
+<ce> роль защитника в ближайшем походе?
 
 RefuseQuest:  [1001]
-<ce> Oh, drat. Why is this so difficult?
+<ce> О, черт. Почему это так сложно?
 
 AcceptQuest:  [1002]
-<ce> "Splendid! _guide_ is around here.
-<ce> I'm sure the group will be ready to
-<ce> go immediately. Wait here."
+<ce> "Отлично! _guide_ где-то здесь поблизости.
+<ce> Я уверен, что группа уже готова к
+<ce> отправлению. Прошу, ожидайте здесь."
 <ce>
-<ce> _qgiver_ calls out, and
-<ce> from the adjoining rooms come several
-<ce> inexperienced-looking guild members,
-<ce> along with someone a bit older who
-<ce> approaches you directly.
+<ce> _qgiver_ подает сигнал, и из соседних
+<ce> помещений выбегают несколько молодых и,
+<ce> видимо, неопытных членов гильдии, а за
+<ce> ними следует более взрослый индивид,
+<ce> направляющийся непосредственно к вам.
 <ce>
-<ce> "Hello %pcf. Thank you for
-<ce> taking this up for us. I'm not so much
-<ce> for the wilderness so help like this
-<ce> is truly invaluable. We need to
-<ce> see a graveyard, a rural shrine,
-<ce> and a farmstead. If we can have this
-<ce> done within =goal_ days we will be
-<ce> happy to pay you. All right students,
-<ce> grab your gear! This time is for real!"
+<ce> "Приветствую вас, %pcf. Благодарю за согласие
+<ce> помочь нам. Лично я не испытываю особой любви к
+<ce> дикой природе, так что поддержка в деле как это
+<ce> действительно неоценима. Мы должны осмотреть
+<ce> кладбище, загородный храм и ферму. Если мы
+<ce> успеем осуществить это в течение =goal_ дней, мы
+<ce> будем более чем рады вознаградить вас за труды.
+<ce> Итак, студенты, собирайте свои принадлежности!
+<ce> На этот раз мы идем в настоящее приключение!"
 <ce>
-<ce> The various guild members wrap their
-<ce> belongings into bags and mats and begin
-<ce> to follow you as a cluttered mass.
+<ce> Разные члены гильдии начинают суетливо
+<ce> упаковывать свои вещи в рюкзаки и свертки,
+<ce> готовясь следовать за вами в беспорядочном строю.
 
 QuestFail:  [1003]
-<ce> _guide_ looks disconcerted.
+<ce> _guide_ выглядит обескураженным.
 <ce>
-<ce> "You know, we are grateful for what you've
-<ce> shown us, but we had a deadline to meet.
-<ce> We wish you luck on the return trip.
-<ce> Come now students, it's time to go!"
+<ce> "Вы знаете, мы благодарны вам за то, что вы нам
+<ce> показали, но у нас были сроки, в которые мы
+<ce> должны были уложиться. Мы желаем вам удачи на
+<ce> обратном пути. А теперь, студенты, пора идти!"
 <ce>
-<ce> You watch %g2 and the students trail off.
+<ce> Вы смотрите, как %g1 уводит студентов.
 
 QuestComplete:  [1004]
-<ce> "Oh, this has been splendid. Kudos
-<ce> to you, %pcf. We thank you for your
-<ce> good attitude while putting up with
-<ce> our best efforts to keep up. I believe
-<ce> this payment has never been better earned.
-<ce> Perhaps we will ask for you in the future."
+<ce> "О, это было просто восхитительно. Вы заслуживаете всех
+<ce> похвал, %pcf. Мы глубоко признательны за ваш
+<ce> профессионализм, когда вы сопровождали нас, и ваше
+<ce> терпение, когда мы пытались не отставать. Я убежден, что
+<ce> вам положена эта награда как никому другому. Не исключено,
+<ce> что в дальнейшем мы снова обратимся к вам за помощью".
 <ce>
-<ce> With a bit more confidence in themselves,
-<ce> _guide_ and the travel-worn group
-<ce> of students meander off toward ___qgiver_.
+<ce> С новой уверенностью в себе _guide_ вместе
+<ce> с усталой от дороги группой студентов
+<ce> двинулись в сторону ___qgiver_.
 
 Message:  1020
-<ce> _guide_ speaks to the
-<ce> students, pointing out several interesting
-<ce> details about the graveyard, including
-<ce> traces of ectoplasm and other valuable
-<ce> alchemical ingredients. You wait for
-<ce> several minutes while the students
-<ce> take their time collecting samples and
-<ce> attempting rudimentary experiments.
-<ce> Before long everyone looks satisfied,
-<ce> and you get ready to move on.
+<ce> _guide_ внимательно руководит
+<ce> студентами, обращая их внимание на
+<ce> мельчайшие подробности кладбища,
+<ce> включая следы эктоплазмы и другие
+<ce> алхимические ценности. Вы наблюдаете,
+<ce> как они не торопясь занимаются сбором
+<ce> образцов и осуществляют простые
+<ce> эксперименты. Когда каждый из них
+<ce> удовлетворен результатами, вы вместе
+<ce> готовы продолжить путь.
 
 Message:  1021
-<ce> _guide_ steps forward and
-<ce> explains the existence of shrines such
-<ce> as this one. The students line up to speak
-<ce> to the attendant and make rough sketches
-<ce> of the area. Before long everyone forms
-<ce> up into a group again, ready to follow.
+<ce> _guide_ берет на себя роль наставника, детально
+<ce> рассказывая о значении и предназначении святынь.
+<ce> Студенты, один за другим, общаются с хранителем и
+<ce> делают быстрые наброски окружающего ландшафта.
+<ce> После короткого времени, они снова собираются
+<ce> вместе, полные энтузиазма следовать дальше.
 
 Message:  1022
-<ce> _guide_ takes the students
-<ce> for a walk around the property, talking
-<ce> about the soil's conditions, the nature of
-<ce> the plants being grown, and various
-<ce> miscellaneous facts concerning alchemy
-<ce> and quality ingredients. The students rapidly
-<ce> take down notes before gathering together.
+<ce> На ферме _guide_ превращается в проводника по
+<ce> местной флоре, объясняя свойства земли,
+<ce> характеристики выращиваемых культур и делясь
+<ce> фактами об алхимии и высококачественных
+<ce> ингредиентах. Студенты тщательно ведут записи,
+<ce> и после завершения обучения снова собираются,
+<ce> чтобы продолжить обучение.
 
 Message:  1030
 %qdt:
- _guide_ of the Mages
- Guild of ___qgiver_ has
- hired me to guide a group
- of novices to various remote
- locations. They wish to see a
- graveyard, a shrine, and
- a farmstead within =goal_ days.
+ _guide_ из Гильдии Магов
+ ___qgiver_ нанял меня
+ повести группу новичков в
+ различные отдаленные места.
+ Они хотят увидеть кладбище,
+ святилище и фермерскую
+ усадьбу в течение =goal_ дней.
 
 QBN:
 Item _reward_ gold
