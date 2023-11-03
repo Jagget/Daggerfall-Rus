@@ -1,129 +1,129 @@
 Quest: JHMG113
-DisplayName: Wandering Atronach
+DisplayName: Блуждающий атронах
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> One of our experiments is off wandering around
-<ce> another city, apparently not doing any harm,
-<ce> but still in need of someone to lead it back
-<ce> here. If it's not too much of a bother, would
-<ce> you be willing to go find it?
+<ce> Один из наших экспериментов, кажется,
+<ce> прогуливается по другому городу. Он
+<ce> не причиняет вреда, но нам бы
+<ce> хотелось его вернуть. Не могли бы вы
+<ce> помочь нам и отыскать его?
    <--->
-<ce> A dolt of a student led an atronach off on
-<ce> a sight-seeing trip and forgot to cast the
-<ce> proper binding spell. This is made worse
-<ce> by the fact that he forgot about its
-<ce> existence until returning here. If you'll
-<ce> be heading out, perhaps you can go fetch
-<ce> it for us and save us some embarrassment.
+<ce> Вот в чем дело: недоучившийся студент
+<ce> отправил атронаха в прогулку без
+<ce> заклинания привязки и умудрился забыть о
+<ce> его существовании до самого возвращения в
+<ce> учебное заведение. Если вы в ближайшее
+<ce> время планируете отправиться в путь, вы
+<ce> бы не могли заодно забрать нашего беглеца?
 
 RefuseQuest:  [1001]
-<ce> This was a simple task, you know.
+<ce> Работа не из сложных, поверьте.
 
 AcceptQuest:  [1002]
-<ce> Lovely. The atronach is in ___city_.
-<ce> It actually flees from most living beings, so it
-<ce> will need some degree of attraction to come close.
-<ce> Take this bit of _elem_. That should provide
-<ce> a familiar sensation to lead it towards you. From
-<ce> there just give it a good, hard blow across the body,
-<ce> and it should be stunned back into submission. It may
-<ce> freeze up in place, but trust me, it is created to obey.
-<ce> It will follow after some time. Bring it here in =timer_
-<ce> days so we can recycle its material. You will
-<ce> be paid =reward_ gold. Good day.
+<ce> Отлично. Атронах замечен в ___city_. Он, к счастью,
+<ce> избегает живых существ, так что чтобы привлечь его
+<ce> внимание, вам потребуется что-то знакомое. Вот этот
+<ce> фрагмент _elem_, он должен пробудить в нем
+<ce> узнавание. Достаточно будет одного крепкого удара,
+<ce> и атронах оглушится настолько, что последует за
+<ce> вами. Может показаться, что он замер, но не
+<ce> волнуйтесь, он программирован подчиняться. Со
+<ce> временем он поддастся. Верните его сюда за =timer_
+<ce> дней, и мы сможем его переработать. За ваш труд мы
+<ce> выплатим вам =reward_ золотых. Всего доброго.
 
 QuestFail:  [1003]
-<ce> Your task to take the atronach back to
-<ce> ___qgiver_ has run out of time.
+<ce> Ваше задание доставить атронаха обратно к
+<ce> ___qgiver_ исчерпало себя.
 
 QuestComplete:  [1004]
-<ce> The atronach, still a little addled,
-<ce> trundles in after you.
+<ce> Атронах, все еще слегка ошеломленный,
+<ce> следует за вами.
 <ce>
-<ce> "Well, the proof is right here with you. Thank you,
-<ce> %pcf. It looks like it isn't seriously
-<ce> damaged. We know precisely what to do from
-<ce> here. _stud_, if you please?"
+<ce> "Ну вот, весьма убедительно. Спасибо вам,
+<ce> %pcf. Кажется, ничего серьезного с ним не
+<ce> случилось. Мы уже знаем, что будем делать
+<ce> дальше. _stud_, прошу."
 <ce>
-<ce> A student uses a magic tool of some kind to lead
-<ce> the atronach into a separate room, slight
-<ce> agonized wailing notwithstanding. Then
-<ce> follows a flash of light and the sound
-<ce> of something sizzling. _qgiver_
-<ce> hands you your reward with a kindly smile
-<ce> and turns to other business.
+<ce> Студент подходит с каким-то волшебным
+<ce> устройством и уводит атронаха в другое
+<ce> помещение, игнорируя его слабые жалобы.
+<ce> После короткого светового всплеска и
+<ce> шипения _qgiver_ с благодарностью вручает
+<ce> вам заслуженное вознаграждение и
+<ce> возвращается к своим обычным делам.
 
 RumorsDuringQuest:  [1005]
-Some atronach's been wandering the streets of ___city_.
+Какой-то атронах бродил по улицам ___city_.
    <--->
-You hear about that atronach the Mages Guild lost?
+Ты слышал об атронахе, которого потеряла Гильдия Магов?
 
 Message:  1010
-<ce> Somewhere in these streets, an atronach wanders.
-<ce> You'll have to find it somehow.
+<ce> Где-то по этим улицам бродит атронах.
+<ce> Тебе придется как-то его найти.
 <ce>
-<ce> A very subtle enchantment lingers in the environment,
-<ce> likely due to the atronach's wandering.
-<ce> Perhaps you could use that magic to your
-<ce> benefit, to attract it to you. Do you try (yes)
-<ce> or wait for it to come to you (no)?
+<ce> В окружающем воздухе ощущаются очень тонкие чары,
+<ce> вероятно, из-за блужданий атронаха. Возможно, вы
+<ce> могли бы использовать эту магию себе на пользу, чтобы
+<ce> чтобы привлечь его к себе. Вы пытаетесь (да) или ждете,
+<ce> пока он придет к вам сам (нет)?
 <ce>
 <ce> (ПРОВЕРКА НАВЫКА: ДА: Мистицизм, низкая сложность)
 
 Message:  1011
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> You start to work, and manage to pull
-<ce> the flow of magicka toward yourself.
+<ce> Вы начинаете работать, и вам удается
+<ce> притянуть поток магии к себе.
 
 Message:  1012
-<ce> Inhuman wailing hails the presence of the
-<ce> missing atronach. It stumbles toward you,
-<ce> recognizing the familiar _elem_.
+<ce> Нечеловеческий вой возвещает о присутствии
+<ce> пропавшего атронаха. Он, спотыкаясь, направляется
+<ce> к вам, узнавая знакомый _elem_.
 <ce>
-<ce> "Leave me," it moans.
+<ce> "Оставь меня", - стонет он.
    <--->
-<ce> Inhuman wailing hails the presence of the
-<ce> missing atronach. It stumbles toward you,
-<ce> recognizing the familiar _elem_.
+<ce> Нечеловеческий вой возвещает о присутствии
+<ce> пропавшего атронаха. Он, спотыкаясь, направляется
+<ce> к вам, узнавая знакомый _elem_.
 <ce>
-<ce> "Don't take me back," it moans.
+<ce> "Не забирай меня обратно", - стонет он.
 
 Message:  1013
-<ce> With a single strike the atronach
-<ce> seems to have its mind wiped.
-<ce> If what _qgiver_ told
-<ce> you is true, it should follow the
-<ce> _elem_ you were given once it recovers.
-<ce> Now is the time to return to ___qgiver_.
+<ce> Одним ударом атронаху, кажется,
+<ce> стирают разум. Если то, что сказал вам
+<ce> _qgiver_, правда, он должно следовать
+<ce> за _elem_, который вам дали, как
+<ce> только он придёт в себя. Сейчас самое
+<ce> время вернуться к ___qgiver_.
 
 Message:  1014
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> You attempt to manipulate the magic for your benefit.
-<ce> Whatever you end up doing gets the atronach's attention,
-<ce> but it is angry.
+<ce> Вы пытаетесь манипулировать магией в своих интересах.
+<ce> Что бы вы в конечном итоге ни делали, это привлекает
+<ce> внимание атронаха, но он сердится.
 
 Message:  1015
-<ce> This is a simple task. So long as you remain in the
-<ce> streets, you'll find it. No need to muck things up further.
+<ce> Это простая задача. Пока вы остаетесь на улицах,
+<ce> вы найдете его. Нет необходимости все усугублять.
 
 Message:  1020
-<ce> The atronach is dead, and you have failed.
+<ce> Атронах мертв, и вы потерпели неудачу.
 
 Message:  1030
 %qdt:
- _qgiver_ of The Mages Guild
- has assigned me to lead an
- atronach wandering around
- ___city_ back to
- ___qgiver_. I will be
- paid =reward_ gold if I
- do so within =timer_ days.
- It requires a strike of some kind
- to reprogram, but I must not destroy it.
+ _qgiver_ из Гильдии Магов
+ поручил мне привести атронаха,
+ блуждающего по ___city_,
+ обратно в ___qgiver_. Мне
+ заплатят =reward_ золотых,
+ если я сделаю это в течение
+ =timer_ дней. Для этого мне
+ нужно ударить его, но я не
+ должен его уничтожать.
 
 QBN:
 Item _elem_ element

@@ -1,5 +1,5 @@
 Quest: JHMG112
-DisplayName: Turnabout Wizardry
+DisplayName: Оборотное волшебство
 -- Message panels
 QRC:
 
