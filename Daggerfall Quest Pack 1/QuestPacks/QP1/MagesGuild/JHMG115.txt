@@ -1,124 +1,124 @@
 Quest: JHMG115
-DisplayName: A Victim of Shapeshifting
+DisplayName: Жертва превращения
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Actually, we have a matter of immediate import.
-<ce> I do hope you'll accept this. It's a bit of a long
-<ce> story, but the short version is that one of our
-<ce> local members, _dummy_, has been
-<ce> cursed by some band of shapeshifters to assume
-<ce> the form of a beast. Mercenaries from the
-<ce> Fighters Guild are now poised to kill %g2,
-<ce> unaware that %g1 is innocent. Will you
-<ce> defend our poor friend?
+<ce> Мы столкнулись с ситуацией, требующей
+<ce> незамедлительного вмешательства, и я
+<ce> надеюсь на вашу помощь. Вот суть дела
+<ce> вкратце: один из наших, _dummy_, пал
+<ce> жертвой проклятия оборотней, заставивших
+<ce> его принять звериный облик. Гильдия
+<ce> Бойцов уже готова устранить %g4, ошибочно
+<ce> полагая, что %g1 — это зверь. Будете ли
+<ce> вы защищать нашего несчастного друга?
    <--->
-<ce> We have something of a rescue mission that needs
-<ce> an immediate counterpart. A good friend and
-<ce> member of the Mages Guild, someone named
-<ce> _dummy_, has been cursed to take
-<ce> the form of an animal by shapeshifters and
-<ce> no one has been able to cast off the spell.
-<ce> Long story short, the Fighters Guild is now
-<ce> on its way to slay our poor friend, believing
-<ce> %g2 to be a legitimate animal in a house.
-<ce> Someone must go defend %g2. Is it you?
+<ce> Срочно требуется ваша помощь в
+<ce> спасательной операции. Друг и
+<ce> коллега из Гильдии Магов, _dummy_,
+<ce> стал жертвой проклятья оборотней,
+<ce> изменившего его форму, и никому
+<ce> пока не удалось нейтрализовать
+<ce> заклятие. Гильдия Бойцов уже в
+<ce> пути, чтобы убить %g4, думая, что
+<ce> это просто зверь. Не могли бы вы
+<ce> защитить нашего друга?
 
 RefuseQuest:  [1001]
-<ce> Then %g4 life will be on your conscience
-<ce> should %g1 not survive the attempt!
+<ce> Если вы откажетесь, то %g4 судьба окажется на вашей совести,
+<ce> если %g1 не выживет в предстоящем столкновении!
 
 AcceptQuest:  [1002]
-<ce> Well, I gave you the short version, and now the long
-<ce> one. The shapeshifting spell is advanced, to the point
-<ce> that _dummy_ actually thinks %g1 is an animal.
-<ce> I feel certain %g1 will attack you on sight. No matter
-<ce> what else happens in _res_, you must not
-<ce> slay %g2. That is an inviolable directive. Fight off
-<ce> the mercenaries who arrive and report to me when you
-<ce> are finished. I have here a book I think you
-<ce> will relish as a reward. And did I forget to mention
-<ce> you must get there immediately? The Fighters Guild
-<ce> will already be on the move by now.
+<ce> Теперь, когда вы знаете краткую версию, давайте
+<ce> перейдем к деталям. Проклятье так сильно изменило
+<ce> _dummy_, что %g1 теперь считает себя животным. Будьте
+<ce> готовы: %g1 может напасть на вас как только увидит. Но
+<ce> помните — какие бы события ни произошли в _res_, вы не
+<ce> должны причинять %g2 вреда. Это непреложный приказ.
+<ce> Остановите наемников, которые уже в пути, и доложите о
+<ce> результатах. В качестве вознаграждения вас ждет книга,
+<ce> которая, я уверен, окажется весьма полезной. И
+<ce> помните, время идет: Гильдия Бойцов уже в пути, так
+<ce> что вам нужно действовать без промедления.
 
 QuestFail:  [1003]
-<ce> There is no doubt by now the Fighters Guild
-<ce> will have slain _dummy_.
+<ce> Нет сомнений, что к этому времени
+<ce> Гильдия Бойцов уничтожит _dummy_.
 
 QuestComplete:  [1004]
-<ce> Oh, what a hero! _dummy_ will know
-<ce> about your work and praise your name,
-<ce> once she's able to think straight.
-<ce> You have truly saved a life this day.
-<ce> Take this magnificent book, =reward_,
-<ce> as my heartfelt thanks for protecting the innocent.
+<ce> О, какой герой! _dummy_ узнает о вашей работе
+<ce> и будет прославлять ваше имя, как только
+<ce> сможет здраво мыслить. В этот день вы
+<ce> действительно спасли жизнь. Примите эту
+<ce> великолепную книгу, =reward_, как мою
+<ce> сердечную благодарность за защиту невинных.
 
 RumorsDuringQuest:  [1005]
-Them Shapeshifters are awful people, I says.
+Оборотни - ужасные люди, - говорю я.
    <--->
-You heard about that fellow cursed by the Shapeshifters? Wonder if he deserved it.
+Вы слышали о том парне, которого прокляли Оборотни? Интересно, заслужил ли он это?
 
 Message:  1010
-<ce> You made it here before the Fighters Guild.
-<ce> The shapeshifted mage, in bestial form, cowers nearby.
-<ce> With some skill in Illusion magic, you could
-<ce> try to dispel the enchantment yourself
-<ce> and save everyone some trouble.
-<ce> Do you attempt it (yes) or fight off
-<ce> the mercenaries instead (no)?
+<ce> Вы добрались сюда раньше Гильдии Бойцов.
+<ce> Перевоплотившийся маг в звериной форме находится
+<ce> неподалеку. Обладая некоторыми навыками в магии
+<ce> иллюзий, вы могли бы попытаться развеять чары
+<ce> самостоятельно и избавить всех от неприятностей.
+<ce> Попытаетесь ли вы сделать это (да) или вместо
+<ce> этого будете отбиваться от наемников (нет)?
 <ce>
 <ce> (ПРОВЕРКА НАВЫКА: ДА: Иллюзии, низкая сложность)
 
 Message:  1011
-<ce> You hear no more shouting. Hopefully these are the last
-<ce> mercenaries sent to slay _dummy_.
+<ce> Вы больше не слышите криков. Надеюсь, это последние
+<ce> наемники, посланные уничтожить _dummy_.
 
 Message:  1012
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> Just as you hear footsteps approach the door,
-<ce> you grasp the spell's concept and try to
-<ce> undo it. _dummy_ takes the form of
-<ce> a person once more and falls to the floor.
+<ce> Вы уже слышите шаги, приближающиеся к двери,
+<ce> но вы наконец поняли концепцию заклинания
+<ce> и попытались отменить его. _dummy_ снова
+<ce> принимает форму человека и падает на пол.
 <ce>
-<ce> "Thank you, thank you, thank you!
-<ce> What a horrifying experience that was!"
+<ce> "Спасибо, спасибо, спасибо! Какой это
+<ce> был ужасный опыт!"
 <ce>
-<ce> Mercenaries from the Fighters Guild burst in
-<ce> seconds after, demanding to know where
-<ce> the creature is. You both tell them that
-<ce> the house is clean, and they depart, disappointed.
+<ce> Через несколько секунд после этого в дом врываются
+<ce> наемники из Гильдии Бойцов, требуя сообщить, где
+<ce> находится это существо. Вы оба отвечаете им, что в
+<ce> доме все чисто, и они уходят, разочарованные.
 <ce>
-<ce> _dummy_ retreats to collect %g2self.
-<ce> Your role here is finished.
+<ce> _dummy_ уходит, чтобы спокойно придти в себя.
+<ce> Ваша роль здесь закончена.
 
 Message:  1013
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> Just as you hear footsteps approach the door,
-<ce> you grasp the spell's concept and try to
-<ce> undo it. Your skills fail you,
-<ce> and the enchanted creature misinterprets your
-<ce> attempt as an offensive spell. It prepares for the attack
-<ce> just as the Fighters Guild mercenaries burst through the door.
+<ce> Вы уже слышите шаги, приближающиеся к двери, когда вы
+<ce> улавливаете концепцию заклинания и пытаетесь отменить
+<ce> его. Ваши навыки подводят вас, и зачарованное существо
+<ce> неверно истолковывает вашу попытку как атакующее
+<ce> заклинание. Оно готовится к атаке как раз в тот момент,
+<ce> когда наемники Гильдии Бойцов врываются в дверь.
 
 Message:  1014
-<ce> You hear two people approaching the door.
-<ce> You hope you're ready for this.
+<ce> Вы слышите, как два человека приближаются к двери.
+<ce> Вы надеетесь, что готовы к этому.
 
 Message:  1020
-<ce> _dummy_ has been slain by your hand,
-<ce> and the Mages Guild will not forget it.
+<ce> Вы собственноручно убили _dummy_,
+<ce> и Гильдия Магов этого не забудет.
 
 Message:  1030
 %qdt:
- _qgiver_ has sent me
- to _res_ immediately
- to defend a local member named
- _dummy_ from a band of
- mercenaries. I should go as quickly
- as humanly possible.
+ _qgiver_ немедленно отправил
+ меня в _res_, чтобы защитить
+ местного члена по имени
+ _dummy_ от банды наемников.
+ Мне нужно прибыть туда как
+ можно скорее.
 
 QBN:
 Item _reward_ book

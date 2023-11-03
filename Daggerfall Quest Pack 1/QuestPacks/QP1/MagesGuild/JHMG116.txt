@@ -1,193 +1,193 @@
 Quest: JHMG116
-DisplayName: Stop the Experiment
+DisplayName: Остановить эксперимент
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> My good %pcf, may I tell you concerning _mage_?
-<ce> I love _mage_, and I hate %g2. %g1 has done
-<ce> great work for the Mages Guild in the past,
-<ce> and therefore should not be abandoned in %g4 hour
-<ce> of need. Nevertheless, some experiments simply
-<ce> cannot be allowed to proceed, regardless of the pretended
-<ce> societal benefit. Will you travel to ___res_
-<ce> to shake some sense into %g2?
+<ce> Дозвольте, %pcf, поделиться с вами историей о
+<ce> _mage_. Мои чувства к н%g2 противоречивы: любовь
+<ce> смешивается с отвращением. В прошлом %g1 оказал
+<ce> значительные услуги Гильдии Магов, и мы не можем
+<ce> бросить %g4 в беде. Однако есть эксперименты,
+<ce> которые не следует продолжать, независимо от их
+<ce> потенциальной пользы. Готовы ли вы отправиться в
+<ce> ___res_, чтобы убедить %g4 остановиться?
 
 RefuseQuest:  [1001]
-<ce> What a bother. Are you interested in work, truly?
+<ce> Какая неприятность! Но скажите, волнует ли вас эта работа?
 
 AcceptQuest:  [1002]
-<ce> Our beloved colleague spends %g4 time in
-<ce> _res_ of ___res_. I know of the
-<ce> subject matter, but I do not speak it aloud, for I know
-<ce> some will not recover from the shame of having their
-<ce> acts voiced abroad. I merely say %g1 needs to stop, now.
-<ce> Please make haste. You will be held responsible for
-<ce> _mage_'s life, and I request you do not return
-<ce> without %g2. Safe travels, %pct.
+<ce> Наш уважаемый _mage_ постоянно проводит время в _res_,
+<ce> ___res_. Я осведомлен о %g4 занятиях, но предпочитаю не
+<ce> обсуждать их вслух, чтобы избежать публичного позора.
+<ce> Некоторые не перенесут стыда, если их действия станут
+<ce> достоянием общественности. Но я уверен: это должно
+<ce> прекратиться, и прекратиться немедленно. Спешите, ведь от вас
+<ce> зависит %g4 жизнь. Я настоятельно прошу вас не возвращаться
+<ce> без н%g4. Пожелаю вам благополучного пути, %pct.
 
 QuestFail:  [1003]
-<ce> _mage_ falls dead. What will
-<ce> you tell _qgiver_ now?
+<ce> _mage_ погибает. Какие слова
+<ce> найдете вы для _qgiver_?
 
 QuestComplete:  [1004]
-<ce> _mage_! Oh, how I wish to censure
-<ce> you right here and now! But I well see you
-<ce> need to recover, and then I will give you
-<ce> the finest tongue-lashing of the month.
-<ce> My joy and my fury fight for control of my
-<ce> words. I will see you in a few hours,
-<ce> when you have had some rest.
+<ce> О, _mage_! Как я хочу выразить вам свое неодобрение
+<ce> здесь и сейчас! Но я вижу, что вам необходимо
+<ce> собраться с силами. И когда вы восстановитесь, я
+<ce> выскажу вам самую гневную тираду, что вы слышали.
+<ce> Чувства радости и гнева сражаются за право
+<ce> господства в моих словах. До встречи через
+<ce> несколько часов, после вашего отдыха.
 <ce>
-<ce> As for you, %pcf, I bestow on you
-<ce> this enchanted _reward_. Finest work
-<ce> across the board.
+<ce> А вам, %pcf, я вручаю этот волшебный
+<ce> _reward_. Великолепная работа во всех
+<ce> отношениях.
 
 QuestorPostFailure:  [1009]
-I remember _mage_. No thanks to you.
+Я помню _mage_. Не благодаря тебе.
    <--->
-Ah, if only we had _mage_'s help right now. What a shame.
+Ах, если бы только у нас была помощь _mage_ прямо сейчас. Какой позор.
 
 Message:  1010
-<ce> _mage_ appears to be in a sort
-<ce> of torpor. It's hard to tell whether
-<ce> %g1 controls the imp or the imp
-<ce> controls %g2.
+<ce> _mage_, кажется, находится в
+<ce> каком-то оцепенении. Трудно
+<ce> сказать, контролирует ли %g1
+<ce> беса или бес контролирует %g4.
 
 Message:  1011
-<ce> Once the imp falls, _mage_'s eyes open,
-<ce> and %g1 looks at you with consternation.
-<ce> You begin to explain your task, but before
-<ce> you can say much, you hear a noise nearby.
-<ce> In its final moments, the imp points a trinket
-<ce> at _mage_, which crumbles under
-<ce> strain of power.
+<ce> Как только бес падает, _mage_ открывает
+<ce> глаза смотрит на вас с ужасом. Вы начинаете
+<ce> объяснять свою задачу, но прежде чем
+<ce> успеваете что-либо сказать, слышите
+<ce> поблизости шум. В свои последние мгновения
+<ce> бес направляет на мага какую-то вешь,
+<ce> которая рассыпается под напором силы.
 
 Message:  1015
-<ce> _mage_'s face turns pale.
+<ce> _mage_ бледнеет в лице.
 <ce>
-<ce> "That... carried an infectious enchantment.
-<ce> I've been diseased and my magicka has departed
-<ce> from me. Please, I need to be cured. Help me!
-<ce> Cast a spell! A temple will do me no good!"
+<ce> "Это... были заражающие чары. Я заболел, и моя
+<ce> магическая сила покинула меня. Пожалуйста, мне
+<ce> нужно вылечиться. Помогите мне! Произнесите
+<ce> заклинание! Храм мне не поможет!"
 <ce>
-<ce> Then %g1 begins sweating and breathing heavily.
+<ce> Затем %g1 начинает потеть и тяжело дышать.
 
 Message:  1016
-<ce> _mage_ moans, %g4 footsteps faltering.
+<ce> _mage_ стонет, %g4 шаги замедляются.
    <--->
-<ce> _mage_ nearly stumbles. You help %g2
-<ce> regain %g4 footing before continuing.
+<ce> _mage_ чуть не споткнулся. Вы помогаете %g2
+<ce> восстановить равновесие, прежде чем идти дальше.
    <--->
-<ce> _mage_ spends several seconds in a coughing
-<ce> fit before wearily beginning to move again.
+<ce> _mage_ проводит несколько секунд в приступе кашля,
+<ce> прежде чем снова начинает устало двигаться.
 
 Message:  1017
-<ce> _mage_ speaks with %g4 eyes closed.
-<ce> You understand very little of it.
+<ce> _mage_ говорит с закрытыми глазами.
+<ce> Вы понимаете очень мало.
    <--->
 <ce> _mage_ speaks with %g4 eyes closed.
-<ce> The words are merely whispers.
+<ce> Эти слова - всего лишь шепот.
 
 Message:  1018
-<ce> _mage_'s breathing is shallow.
-<ce> You help prop %g2 up as you keep moving.
+<ce> Дыхание _mage_ становится поверхностным.
+<ce> Вы помогаете %g2 держаться и продолжать двигаться.
    <--->
-<ce> _mage_ begins shaking uncontrollably.
+<ce> _mage_ начинает неконтролируемо трястись.
    <--->
-<ce> _mage_ falls to %g4 feet and vomits profusely.
-<ce> You help %g2 back up and continue on.
+<ce> _mage_ падает на колени, и его обильно рвет.
+<ce> Вы помогаете %g2 подняться и продолжаете путь.
 
 Message:  1020
-<ce> A flash of light begins to consume _mage_'s body.
+<ce> Вспышка света начинает поглощать тело _mage_.
 <ce>
-<ce> "It's a trap! I'm being sent to
-<ce> ___dung_! Please help!"
+<ce> "Это ловушка! Меня отправляютв ___dung_!
+<ce> Пожалуйста, помогите!"
 <ce>
-<ce> A moment later, %g1 is gone. Some nearby
-<ce> scribbles show ___dung_'s location.
+<ce> Мгновение спустя %g1 исчезает. Некоторые близлежащие
+<ce> каракули показывают местоположение ___dung_.
 
 Message:  1021
-<ce> _mage_ comes into view, apparently
-<ce> searching for the exit. With great
-<ce> relief %g1 waves to you.
+<ce> В поле зрения появляется _mage_,
+<ce> очевидно, в поисках выхода. С огромным
+<ce> облегчением %g1 машет вам рукой.
 <ce>
-<ce> "Oh, my, thank you for coming here to find me.
-<ce> The daft artifact left me without magicka, leaving
-<ce> flight as my only option in this cave. Please take
-<ce> me to ___qgiver_. I suppose a word with
-<ce> _qgiver_ would do me well at this point."
+<ce> "О, спасибо вам за то, что пришели сюда и нашли меня. Дурацкий
+<ce> артефакт оставил меня без магии, оставив бегство моим
+<ce> единственным выходом в этой пещере. Пожалуйста, отведите меня
+<ce> в ___qgiver_. Я полагаю, что в данный момент мне не помешало
+<ce> бы перекинуться парой слов с _qgiver_."
 
 Message:  1022
-<ce> Color returns to _mage_'s face, and
-<ce> %g1 walks with ordinary vigor.
+<ce> Цвет возвращается к лицу _mage_,
+<ce> и %g1 выглядит достаточно бодро.
 <ce>
-<ce> "%oth! Never could I have imagined my research
-<ce> ending so! Take me to ___qgiver_. I have
-<ce> much to say to _qgiver_. Thank you."
+<ce> "%oth! Никогда бы я не подумал, что мои исследования
+<ce> так закончатся! Отведи меня в ___qgiver_. Мне есть
+<ce> что сказать _qgiver_. Спасибо тебе."
 
 Message:  1023
-<ce> Injuring the imp seems to stun it momentarily.
-<ce> Assuming this creature was summoned, it surely must have
-<ce> some control words to make it stop.
-<ce> Do you try to gain control of it?
+<ce> Ранение беса, кажется, на мгновение оглушает его. Предполагая,
+<ce> что это существо было вызвано, у него наверняка должны быть
+<ce> какие-то управляющие слова, чтобы заставить его остановиться.
+<ce> Пытаетесь ли вы получить контроль над бесом?
 <ce>
 <ce> (ПРОВЕРКА НАВЫКА: ДА: Язык бесов, средняя сложность)
 
 Message:  1024
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> You shout out some commands, part guesswork,
-<ce> part past knowledge flowing through your mind.
-<ce> The imp's face freezes over, and it stops attacking.
-<ce> You then dismiss it to another part of the residence.
+<ce> Вы выкрикиваете какие-то команды, частично на основе
+<ce> догадок, частично прошлых знаний, приходящих вам на ум.
+<ce> Лицо беса застывает, и он перестает атаковать. Затем вы
+<ce> отправляете его в другую часть резиденции.
 <ce>
-<ce> _mage_ soon returns to reality, and
-<ce> kneels before you. "Thank you, thank you, thank you!
-<ce> The creature rebelled against me and had me here
-<ce> for hours. What a disaster you have averted!
-<ce> Yes, I'm certain _qgiver_ has some words
-<ce> for me. Lead on, and I will go."
+<ce> _mage_ вскоре возвращается к реальности и опускается
+<ce> перед тобой на колени. "Спасибо вам, спасибо, спасибо!
+<ce> Это существо взбунтовалось против меня и продержало
+<ce> меня здесь несколько часов. Какую катастрофу вы
+<ce> предотвратили! Да, я уверен, что у _qgiver_ найдется
+<ce> для меня несколько слов. Веди, и я пойду".
 
 Message:  1025
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> Whatever you said, it had the opposite effect.
-<ce> The imp foams with rage, and then turns to _mage_
-<ce> and slashes %g2 severely. In %g4 weakened state,
-<ce> %g1 can't withstand the blow, and tumbles to the floor.
+<ce> Что бы вы ни сказали, это возымело обратный
+<ce> эффект. Бес пенится от ярости, а затем атакует
+<ce> _mage_ и сильно бъет %g4. В ослабленном состоянии
+<ce> %g1 не выдерживает удара и падает на пол.
 
 Message:  1026
-<ce> Do you wish to give up this quest?
+<ce> Вы хотите отказаться от этого задания?
 
 Message:  1027
-<ce> _qgiver_ is not pleased,
-<ce> but you are permitted to abdicate all the same.
+<ce> _qgiver_ недоволен, но вам все равно
+<ce> разрешается отказаться от задания.
 
 Message:  1028
-<ce> Within this residence you hear weak groaning and
-<ce> the telltale growl of an imp.
-<ce> Whatever is afoot here can't be good.
+<ce> Внутри этой резиденции вы слышите слабые стоны
+<ce> и характерное рычание беса. Что бы здесь ни
+<ce> происходило, к добру это не приведет.
 
 Message:  1030
 %qdt:
- I have been assigned to bring _mage_
- of ___res_ back to the Mages Guild
- of ___qgiver_. Whatever happens, I will
- be responsible for my colleague's safety.
+ Мне поручено вернуть _mage_ из
+ ___res_ в Гильдию Магов ___qgiver_.
+ Что бы ни случилось, я буду отвечать
+ за безопасность своего коллеги.
 
 Message:  1031
 %qdt:
- _mage_ has been transported to
- ___dung_ by %g4 own trickery.
+ _mage_ был перенесен в ___dung_
+ с помощью %g4 собственной хитрости.
 
 Message:  1032
 %qdt:
- _mage_ is suffering from a
- severe arcane disease, the likes of which
- a temple cannot cure. I should be able
- to dispel it with a Cure Disease spell
- of my own.
+ _mage_ страдает от тяжелой арканной
+ болезни, подобной той, которую не
+ может вылечить храм. Неободимо
+ попытаться самостоятельно рассеять ее
+ с помощью заклинания "Лечить болезнь".
 
 QBN:
 Person _qgiver_ group Questor male

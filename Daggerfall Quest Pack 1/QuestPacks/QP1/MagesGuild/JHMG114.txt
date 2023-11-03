@@ -1,181 +1,181 @@
 Quest: JHMG114
-DisplayName: Darkness Falls
+DisplayName: Падение тьмы
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> One of our local scholars, _schol_,
-<ce> has been involved in work to counteract the
-<ce> effects of vampirism. Later tonight %g1
-<ce> will travel to _res_ to
-<ce> collaborate with one of %crn's
-<ce> better-known vampire hunters. There must
-<ce> be a combat-ready escort for this encounter,
-<ce> and for some reason I thought of you.
-<ce> Will you accept this task?
+<ce> Один из наших местных ученых, _schol_,
+<ce> вносит вклад в работу по борьбе с
+<ce> последствиями вампиризма. Позже вечером
+<ce> %g1 отправится в _res_, чтобы
+<ce> сотрудничать с одним из наиболее
+<ce> уважаемых охотников на вампиров в %crn.
+<ce> Для этой встречи необходим надежный
+<ce> эскорт, и мне почему-то пришли в голову
+<ce> мысли о вас. Будете ли вы сопровождать его?
 
 RefuseQuest:  [1001]
-<ce> Oh, bother. Back into the pile it goes.
+<ce> Похоже, задание вновь оказалось в стопке нерешенных проблем.
    <--->
-<ce> We'll see what you say when you contract hemophilia.
+<ce> Посмотрим на вашу реакцию, когда вы заболеете гемофилией.
 
 AcceptQuest:  [1002]
-<ce> Ah, a champion worthy of the rank of %pct.
-<ce> Very good. I fear you'll need to first track
-<ce> down _schol_, as %g1 has wandered
-<ce> off somewhere, I believe. The dangers
-<ce> of working with the eccentric mind.
-<ce> The two of you should arrive at _res_
-<ce> by 11:00 tonight. _hunt_ will conduct
-<ce> their meeting, and you will bring %g4 report to me.
-<ce> Do not return without it, and do not arrive late
-<ce> to the residence. Farewell, and good luck.
+<ce> Ага, вот и чемпион, достойный звания %pct.
+<ce> Превосходно. Но боюсь, что сначала вам
+<ce> предстоит найти _schol_, поскольку %g1, по
+<ce> всем признакам, исчез. Такие риски работы
+<ce> с эксцентричным интеллектом. Вы должны
+<ce> быть в _res_ сегодня к 11:00. _hunt_ будет
+<ce> координировать вашу встречу, а вы должны
+<ce> доставить %g4 отчет мне. Не возвращайтесь
+<ce> без документа и не опаздывайте в
+<ce> резиденцию. Прощайте и удачи.
 
 QuestFail:  [1003]
-<ce> You were to arrive at _res_
-<ce> by 11:00 tonight. You have missed the meeting.
+<ce> Вы должны были быть в _res_ сегодня к
+<ce> 11:00. Вы пропустили важную встречу.
 
 QuestComplete:  [1004]
-<ce> In spite of the sacrifices made, this research will
-<ce> surely draw us closer to ending vampirism once and for all.
-<ce> Take pride in the work we are doing. This piddling reward
-<ce> does not properly reflect your work, but we insist on
-<ce> granting you something out of our stores.
+<ce> Невзирая на все трудности, наше исследование несомненно приблизит нас
+<ce> к искоренению вампиризма раз и навсегда. Гордитесь вкладом в нашу
+<ce> общую работу. Пусть это небольшое вознаграждение не полностью отражает
+<ce> глубину вашей заслуги, но мы настаиваем, чтобы вы приняли это как
+<ce> выражение нашей благодарности из наших скромных запасов.
 
 RumorsDuringQuest:  [1005]
-___vampres_ has a problem with vampires apparently, in _vampres_.
+В ___vampres_, по-видимому, проблема с вампирами в _vampres_.
    <--->
-A bunch of vampires are consorting about _vampres_ in ___vampres_.
+Кучка вампиров ошивается в _vampres_ в ___vampres_.
 
 Message:  1010
-<ce> Ah! You, %ra? Looking for me? What for?
-<ce> Oh, that business! Yes, I agree it's certainly
-<ce> time we went off now. Forgive me for appearing
-<ce> a tad disoriented. It is not my intention,
-<ce> I swear it. Now then! Let us be going.
+<ce> А, это вы, %ra? Вы ищете меня? Какова причина?
+<ce> О, все эти суматохи! Да, я признаю, пришло время
+<ce> нам отправляться. Прошу прощения за мою кажущуюся
+<ce> растерянность. Уверяю вас, это не намеренно.
+<ce> Что ж, без промедления, давайте поторопимся.
 
 Message:  1011
-<ce> It appears you were tasked with good cause.
-<ce> Sounds of howling and hissing bounce off the
-<ce> walls of the residence.
+<ce> По всему видно, что ваше назначение было
+<ce> не случайным. Звуки воя и шипения усиливаются,
+<ce> отразившись от стен резиденции.
 <ce>
-<ce> _schol_, apparently quite addled,
-<ce> separates from you to assume a sort of
-<ce> battle stance. %g1 disappears from view.
+<ce> _schol_, явно ошеломленный, отходит от вас,
+<ce> принимая что-то вроде боевой позиции.
+<ce> Внезапно %g1 исчезает.
 
 Message:  1012
-<ce> From within the residence you hear
-<ce> _schol_ groan, and then
-<ce> the sound of something heavy hitting the ground.
+<ce> Из глубины резиденции доносится стон _schol_,
+<ce> за которым следует звук падения чего-то
+<ce> тяжелого на землю.
 
 Message:  1013
-<ce> _schol_ appears from around a corner.
+<ce> _schol_ появляется из-за угла:
 <ce>
-<ce> "Well, wasn't that an adrenaline rush?
-<ce> No wonder they sent you! I feel awful
-<ce> for the last few who attempted to help
-<ce> in matters of vampirism."
+<ce> "Эх, это был настоящий выброс адреналина! Не
+<ce> удивительно, что они отправили именно вас! Мне
+<ce> искренне жаль тех немногих, кто ранее пытался
+<ce> противостоять вампиризму".
 <ce>
-<ce> You hear %g4 voice shakes. Apparently %g4 troubled
-<ce> demeanor is the result of experience rather
-<ce> than temperament.
+<ce> Вы замечаете, как голос %g4 дрожит. Очевидно, что %g4
+<ce> беспокойное поведение скорее результат недавних
+<ce> переживаний, чем %g4 естественного характера.
 
 Message:  1014
-<ce> You search _hunt_'s body
-<ce> and find an empty envelope, torn wide open.
-<ce> The report has been stolen.
+<ce> Осматривая тело _hunt_, вы
+<ce> обнаруживаете пустой, грубо
+<ce> разорванный конверт. Отчет исчез.
 
 Message:  1015
-<ce> _schol_ titters nervously.
+<ce> _schol_ выглядит крайне взволнованным.
 <ce>
-<ce> "It's gone? Oh, drat. All I can
-<ce> think of is to ask around to see
-<ce> if any rumors abound concerning
-<ce> vampires in the region. I lack any more
-<ce> efficacious idea than that. I will
-<ce> get to it right away and inform you
-<ce> if I learn more. %god will that
-<ce> they have greater purpose for that
-<ce> report than to destroy it."
+<ce> "Исчез? Черт побери. Все, что у меня
+<ce> есть — это предположение расспросить
+<ce> местных о каких-либо слухах о вампирах.
+<ce> Я не могу придумать более разумного пути
+<ce> действий. Буду действовать без
+<ce> промедления и обязательно сообщу вам,
+<ce> если что-то выясню. О, %god, будем
+<ce> надеяться, что у них были более веские
+<ce> причины для кражи отчета, чем просто его уничтожение."
 <ce>
-<ce> Taking a deep breath, %g1 stumbles away.
+<ce> Вздохнув глубоко, %g1, спотыкаясь, устремляется прочь.
 
 Message:  1020
-<ce> You need only step inside this house for
-<ce> the entire structure to erupt in angry shouts.
-<ce> It appears the rumors were true.
+<ce> Переступив порог этого дома, вы становитесь
+<ce> свидетелем того, как строение взрывается волнами
+<ce> гневных воплей. Слухи, похоже, не обманули.
 
 Message:  1021
-<ce> You take the report back.
-<ce> _qgiver_ will want it as soon as possible.
+<ce> Вы возвращаете себе отчет. _qgiver_ несомненно
+<ce> захочет получить его в кратчайшие сроки.
 
 Message:  1030
 %qdt:
- _qgiver_ of The Mages Guild
- has tasked me with accompanying a
- scholar on vampirism, _schol_,
- to _res_ of ___res_
- at 11:00 tonight. I must obtain
- the hunter _hunt_'s report
- and deliver it to _qgiver_.
+ _qgiver_ из Гильдии Магов
+ поручил мне сопровождать
+ ученого по вампиризму, _schol_,
+ в _res_, ___res_
+ сегодня в 11:00. Мне нужно
+ получить отчет охотника _hunt_
+ и доставить его _qgiver_.
 
 Message:  1031
 %qdt:
- We were waylaid by vampires
- in _res_. _schol_
- is dead and the report has
- gone missing. I will need to
- find this band of vampires
- and take the document back.
+ В _res_ нам помешали
+ вампиры. Они убили
+ _schol_, и украли отчет.
+ Мне нужно будет найти
+ эту группу вампиров и
+ забрать документ.
 
 Message:  1032
 %qdt:
- We were waylaid by vampires
- in _res_, and the
- report has gone missing.
- _schol_ suggested we ask
- among the townspeople to
- know where vampires congregate
- in ____res_.
+ В _res_ нам помешали
+ вампиры. Они украли
+ отчет. Необходимо
+ поспрашивать у
+ горожан, чтобы узнать,
+ где в ____res_ могут
+ собираться вампиры.
 
 Message:  1050
-<ce> A scraggly-looking page with flowing robes
-<ce> hands you a letter before disappearing.
+<ce> Небрежно выглядящий паж в ниспадающей мантии
+<ce> вручает вам письмо, после чего исчезает.
 
 Message:  1051
 %pcn,
-
-  I have good news to report. My probings have indicated
-a vampire resort in ___vampres_ by the name of
-_vampres_. I myself am detained in other
-matters but I do know _qgiver_ entrusted
-to you the safekeeping of _hunt_'s report.
-Let us hope that the document is being stored there.
-
+<ce>
+  У меня есть хорошие новости. Мои наблюдения
+показали, что в ___vampres_ есть вампирский
+курорт под названием _vampres_. Мой путь привел
+меня туда по другой причине, но мне известно,
+что вам доверено хранение отчета _hunt_. Будем
+надеяться, что документ хранится там.
+<ce>
              _schol_
              ___res_
 
 Message:  1060
-<ce> Welcome back, %pct. I have already heard
-<ce> concerning the passing of both _schol_
-<ce> and _hunt_. My soul mourns for
-<ce> them, for they did great service to %crn.
-<ce> Yet I know you failed in nothing.
-<ce> You have brought the report, which brings me joy.
+<ce> С возвращением, %pct. Скорбные известия о
+<ce> кончине _schol_ и _hunt_ дошли до меня. Их
+<ce> вклад в благо %crn невозможно переоценить, и их
+<ce> уход глубоко опечалил мою душу. Но я уверен,
+<ce> что вы сделали все возможное. Тот факт, что вы
+<ce> смогли принести отчет, несомненно радует.
 
 Message:  1061
-<ce> Welcome back, %pct! I was filled with
-<ce> sorrow for the passing of _hunt_,
-<ce> but we still have you and _schol_
-<ce> among us. Some tragedies simply cannot be prevented.
-<ce> Carry yourself with pride for the work you have done.
-<ce> I also wish to mention that _schol_
-<ce> contributed to your reward.
+<ce> С возвращением, %pct! Глубокая печаль охватила
+<ce> меня после вести о кончине _hunt_, но я ободрен,
+<ce> что вы и _schol_ до сих пор с нами. Некоторых
+<ce> трагедий, к сожалению, невозможно избежать. Вы
+<ce> должны нести гордость за выполненную вами работу.
+<ce> Я также хочу подчеркнуть, что _schol_ внес личный
+<ce> вклад в ваше вознаграждение.
 
 Message:  1080
-<ce> This report is filled with jargon concerning
-<ce> very specialized restoration magic and alchemy.
-<ce> You understand parts of it.
+<ce> Этот отчет насыщен специфической терминологией, связанной
+<ce> с весьма узкоспециализированными аспектами восстановительной
+<ce> магии и алхимии. Вы понимаете его только отчасти.
 
 QBN:
 Item _reward_ gold range 1000 to 1200

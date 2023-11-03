@@ -4,119 +4,117 @@ DisplayName: The Novice Odylic
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pct, have you any ability to
-<ce> identify objects? Your spellcasting
-<ce> ability would really help us out here.
+<ce> %pct, ваше мастерство в распознавании магических
+<ce> артефактов может оказаться неоценимым для нашего
+<ce> следующего предприятия.
    <--->
-<ce> We have someone in another city possessing
-<ce> an object that needs identification.
-<ce> Are you able and willing to cast the spell?
+<ce> В далёком городе есть предмет, окутанный тайной,
+<ce> требующий вашего внимания. Готовы ли вы
+<ce> использовать ваши заклинания для его исследования?
 
 RefuseQuest:  [1001]
-<ce> Well, it's certainly not a matter of life and death.
+<ce> Эта миссия, хоть и не несёт за собой риска жизни
+<ce> и смерти, всё же имеет своё значение.
 
 AcceptQuest:  [1002]
-<ce> Delightful, %pcf. Poor _client_ has
-<ce> been patient with us but business must be transacted
-<ce> sooner or later. Find %g2 in ___res_.
-<ce> The object to be identified is said to be of minimal
-<ce> difficulty, which is why we have not asked it to
-<ce> be taken to a guild hall. Apparently our client
-<ce> is so busy that merely stepping outside %g4 residence
-<ce> supposes a ponderous burden. The agreed sum is
-<ce> =reward_ gold, which you are free to pocket as compensation.
-<ce> I do merely ask that you arrive within =2res_ days.
-<ce> That is what we promised, you see, and the guild's reputation
-<ce> must not be tarnished. Safe travels, my good %pct.
+<ce> Мы долгое время держали в подвешенном состоянии
+<ce> _client_, который ожидает нас, и пора наконец
+<ce> выполнить наши обязательства. Отыщите %g4 в ___res_.
+<ce> Данный предмет, судя по всему, не требует особых
+<ce> усилий для идентификации, ведь иначе его уже давно бы
+<ce> привезли в нашу гильдию. Клиент, похоже, настолько
+<ce> поглощёны своими делами, что %g2 не по силам даже выйти
+<ce> за порог своего жилища. Ваша ставка за задание —
+<ce> =reward_ золотых, которые вы можете получить за свои
+<ce> услуги. Я прошу вас не затягивать и прибыть в течение
+<ce> =2res_ дней. Мы дали обещание, и репутация гильдии
+<ce> должна быть безупречна. В добрый путь, %pct.
 
 QuestFail:  [1003]
-<ce> _questgiver_ needed you to identify
-<ce> _client_'s document by now.
+<ce> _questgiver_ ожидал, что вы уже
+<ce> выполните расшифровку для _client_.
 
 QuestComplete:  [1004]
-<ce> Once you have cast the spell, the surface of the page
-<ce> begins to blur. Previously undecipherable letters
-<ce> take their proper place, and the meaning soon becomes apparent.
+<ce> Ваше заклинание мягко скользнуло по страницам, и буквы, прежде
+<ce> скрывавшие свои тайны, теперь стали чёткими и понятными. Текст
+<ce> оживает под вашим взглядом, раскрывая свои секреты.
 <ce>
-<ce> "%oth, must this be so? It is my mother's recipe for
-<ce> gorgon snake soup. What a shame. Nevertheless, lest
-<ce> I be treated as a pariah by you and yours, I will grant
-<ce> you your money. Take it. Thank you in any case."
+<ce> "%oth, действительно ли такое возможно? Это рецепт супа из
+<ce> змеи горгоны от моей матери. Какой сюрприз. Но чтобы не
+<ce> казаться неблагодарным, я выплачу вам обговоренное
+<ce> вознаграждение. Примите его, и благодарю вас за услуги".
    <--->
-<ce> Once you have cast the spell, the surface of the page
-<ce> begins to blur. Previously undecipherable letters
-<ce> take their proper place, and the meaning soon
-<ce> becomes apparent. _client_'s eyes quickly scan the page.
-<ce> Suddenly %g1 turns pale and races to pull it from your sight.
+<ce> Как только вы прочитали заклинание, текст на
+<ce> странице ожил, а невнятные символы нашли своё
+<ce> место. Взгляд _client_ быстро мелькнул по
+<ce> страницам, а %g4 лицо потеряло цвет.
 <ce>
-<ce> "That's quite enough! Not all things are meant for all
-<ce> eyes, you see. That is private property. Take your money
-<ce> and go. Leave me to my musings."
+<ce> "Этого более чем достаточно! Некоторые вещи не предназначены
+<ce> для чужих глаз. Это личная собственность. Прошу вас, заберите
+<ce> своё вознаграждение и оставьте меня с моими мыслями".
    <--->
-<ce> Once you have cast the spell, the surface of the page
-<ce> begins to blur. Previously undecipherable letters
-<ce> take their proper place, and the meaning soon becomes apparent.
+<ce> Ваше заклинание мягко скользнуло по страницам, и буквы, прежде
+<ce> скрывавшие свои тайны, теперь стали чёткими и понятными. Текст
+<ce> оживает под вашим взглядом, раскрывая свои секреты.
 <ce>
-<ce> "My word, this is the first love letter my parents ever
-<ce> shared. Can you see this? They wrote one paragraph at a time,
-<ce> sending it back and forth by a courier. What a treasure!
-<ce> This is well worth the payment. Thank you, good mage."
+<ce> "Боже мой, это первое любовное послание моих родителей. Видите
+<ce> ли вы это? Они обменивались абзацами, передавая их друг другу
+<ce> через курьера. Настоящая реликвия! Это бесценно. Ваша плата
+<ce> заслужена. Благодарю вас, щедрый маг".
    <--->
-<ce> Once you have cast the spell, the surface of the page
-<ce> begins to blur. Previously undecipherable letters
-<ce> take their proper place, and the meaning soon becomes apparent.
+<ce> Ваше заклинание мягко скользнуло по страницам, и буквы, прежде
+<ce> скрывавшие свои тайны, теперь стали чёткими и понятными. Текст
+<ce> оживает под вашим взглядом, раскрывая свои секреты.
 <ce>
-<ce> "A recipe for a potion of Free Action. Well, this is a disappointment.
-<ce> I bet you have one of these waiting in your wagon, now don't you?
-<ce> But we agreed on a payment, and that you shall have. Take it."
+<ce> "Рецепт зелья 'Свобода действий'. О, какое разочарование.
+<ce> Думаю, у вас и так уже есть одно в запасе, верно? Но договор
+<ce> есть договор. Вознаграждение ваше, возьмите его".
    <--->
-<ce> Once you have cast the spell, the surface of the page
-<ce> begins to blur. Previously undecipherable letters
-<ce> take their proper place, and the meaning soon
-<ce> becomes apparent. _client_'s brow furrows.
+<ce> Ваше заклинание мягко скользнуло по страницам, и буквы, прежде
+<ce> скрывавшие свои тайны, теперь стали чёткими и понятными. Текст
+<ce> оживает под вашим взглядом, раскрывая свои секреты.
 <ce>
-<ce>"A very primitive incantation to dispel a daedra. Some of these words
-<ce> are actually made up. This looks entirely useless, I believe.
-<ce> Nevertheless, I will pay you as we agreed. Fare thee well."
+<ce> "Простецкое заклинание для изгнания даэдры. Некоторые слова
+<ce> даже не имеют смысла. Полагаю, это совершенно бесполезно.
+<ce> Однако я выплачу вам обещанное. Прощайте".
    <--->
-<ce> Once you have cast the spell, the surface of the page
-<ce> begins to blur. Previously undecipherable letters
-<ce> take their proper place, and the meaning soon
-<ce> becomes apparent. _client_ begins to read aloud.
+<ce> Ваше заклинание мягко скользнуло по страницам, и буквы, прежде
+<ce> скрывавшие свои тайны, теперь стали чёткими и понятными. Текст
+<ce> оживает под вашим взглядом, раскрывая свои секреты.
 <ce>
-<ce> "'The Dark Brotherhood has been watching you. You have slain
-<ce> without sanction several times. You must now join us, or be
-<ce> counted as our foe.' Well, this answers some of my long-standing
-<ce> questions about my father. What a sorry state of things.
-<ce> But I do thank you for coming out here. Take your payment."
+<ce> "Темное Братство следило за вами. Вы совершили убийство без
+<ce> разрешения. Теперь вы либо присоединитесь к нам, либо будете
+<ce> считаться врагом". Это объясняет многие вопросы о моём отце.
+<ce> Какая трагедия. Но я благодарен вам за прибытие. Ваше
+<ce> вознаграждение ожидает".
 
 Message:  1010
-<ce> _client_ ignores you for several moments, clearly
-<ce> caught up in other work. You wait until %g4 attention shifts.
+<ce> _client_ на мгновение пренебрегает вами, сосредоточенный на
+<ce> других делах. Вы терпеливо ждёте, когда %g1 уделит вам внимание.
 <ce>
-<ce> "Yes? Oh, from the Mages Guild, I see. Well, here it is.
-<ce> This is a document I've held in storage for quite some time.
-<ce> It carries an enchantment that mixes its letters, rendering it
-<ce> unreadable. I need to have it legible and at my disposition.
-<ce> When you are ready, cast the spell and I will read it."
+<ce> "Ах да? Из Гильдии Магов, вижу. Что ж, пожалуйста,
+<ce> вот он. Я хранил этот документ долгое время, и на
+<ce> него наложены чары смешения слов. Необходимо,
+<ce> чтобы он стал читаемым. Когда будете готовы,
+<ce> произнесите заклинание, и я смогу прочесть его".
    <--->
-<ce> _client_ is slightly startled by your approach,
-<ce> but soon gives you the attention your visit merits.
+<ce> _client_ сначала удивляется вашему появлению, но затем осознаёт
+<ce> важность вашего визита и уделяет вам заслуженное внимание.
 <ce>
-<ce> "Yes? Oh, from the Mages Guild, I see. Well, here it is.
-<ce> This is a document I've held in storage for quite some time.
-<ce> It carries an enchantment that mixes its letters, rendering it
-<ce> unreadable. I need to have it legible and at my disposition.
-<ce> When you are ready, cast the spell and I will read it."
+<ce> "Да? Из Гильдии Магов, понятно. Вот он, документ.
+<ce> Я хранил его в тайне долгие годы, и на него
+<ce> наложено заклятие, перепутывающее слова. Мне
+<ce> нужно, чтобы он стал разборчивым. Когда будете
+<ce> готовы, произнесите заклинание, и я прочту его".
 
 Message:  1030
 %qdt:
- _questgiver_ of the
- Mages Guild has sent me to ___res_
- to find _client_, who possesses
- an object that needs to be identified
- via magical means. I am granted
- =2res_ days to get there and cast the spell.
+ _questgiver_ из Гильдии Магов отправил меня
+ в ___res_, чтобы найти _client_, который
+ владеет предметом, который необходимо
+ идентифицировать с помощью магических
+ средств. Мне дается =2res_ дней, чтобы
+ добраться туда и произнести заклинание.
 
 QBN:
 Item _reward_ gold
