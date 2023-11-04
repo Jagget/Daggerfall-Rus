@@ -1,203 +1,206 @@
+--  Для перевода:
+--  _qgiver_ - муж.
+--  _nec_ - муж.
 Quest: JHMG119
-DisplayName: Interview with a Necromancer
+DisplayName: Интервью с некромантом
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pcf, you have earned the Archmage's trust,
-<ce> and therefore are privvy to some rather
-<ce> sensitive matters. By regiment of the law,
-<ce> the Mages Guild bears the duty of seeking
-<ce> out and purging any influence of the
-<ce> Necromancers in the Iliac Bay, especially
-<ce> among our own members. Nevertheless the
-<ce> task is not always so simple, and we require
-<ce> sometimes subtle and clever practitioners
-<ce> of the arts of speech to ferret out the
-<ce> truth as necessary. Are you so skilled
-<ce> and willing to uncover a possible Necromancer?
+<ce> %pcf, Вы заслужили доверие Архимага и
+<ce> поэтому посвящены в некоторые деликатные
+<ce> вопросы. В соответствии с законом, Гильдия
+<ce> Магов обязана искать и устранять любое
+<ce> влияние некромантов в Илиакском заливе,
+<ce> особенно среди наших собственных членов.
+<ce> Тем не менее, эта задача не всегда так
+<ce> проста, и иногда нам требуются тонкие и
+<ce> умные специалисты по искусству слова,
+<ce> чтобы выведать правду, если это
+<ce> необходимо. Настолько ли вы искусны и
+<ce> готовы раскрыть возможного некроманта?
 
 RefuseQuest:  [1001]
-<ce> Hmph. Does trust mean nothing to you?
+<ce> Хмф. Неужели доверие для вас ничего не значит?
 
 AcceptQuest:  [1002]
-<ce> Well then, your task will take you to _nhome_.
-<ce> Speak to _nec_ and say whatever you
-<ce> need to uncover the truth. I assume %g1 retires
-<ce> there at night, so go in the late hours. Surely
-<ce> your knowledge of magic thus far may aid you
-<ce> in providing a proper context. Return here with
-<ce> the knowledge you glean and leave the rest
-<ce> to us. You have one day to do this.
+<ce> Что ж, тогда ваше задание приведет вас в _nhome_.
+<ce> Поговорите с _nec_ и говорите все, что угодно, чтобы
+<ce> раскрыть правду. Я предполагаю, что %g1 уходит туда на
+<ce> ночь, так что отправляйтесь в позднее время. Уверен,
+<ce> что ваши знания о магии, полученные к этому времени,
+<ce> помогут вам создать надлежащий контекст. Вернитесь
+<ce> сюда с полученными знаниями, а остальное предоставьте
+<ce> нам. На это у вас есть один день.
 
 QuestFail:  [1003]
-<ce> The Mages Guild asked you to report on
-<ce> _nec_'s supposed necromancy by now.
+<ce> К настоящему времени Гильдия Магов попросила вас
+<ce> сообщить, занимается ли _nec_ некромантией.
 
 QuestComplete:  [1004]
-<ce> _qgiver_ hands you your reward with a kindly smile.
+<ce> _qgiver_ вручает вам вознаграждение с любезной улыбкой.
 
 RumorsPostSuccess:  [1007]
-I couldn't be happier about that dead Necromancer. ____nhome_'s doing its work.
+Я очень счастлив, что этот некромант мёртв. ____nhome_ делает свою работу.
    <--->
-The Necromancer of ___nhome_ was slain!
+Некромант из ___nhome_ был убит!
 
 Message:  1028
-<ce> Yes? I'm quite busy. I hope this is important.
+<ce> Да? Я очень занят. Надеюсь, это важно.
 
 Message:  1029
-<ce> So you say you have an interest in power beyond what
-<ce> the Mages Guild can offer. Those are inspiring, and
-<ce> yet dangerous, lines of thinking. Do you truly believe
-<ce> there is power to rival or even exceed that held
-<ce> by the Council of the Archmages?
+<ce> Итак, вы говорите, что заинтересованы во власти, выходящей за
+<ce> рамки того, что может предложить Гильдия Магов. Это вдохновляющие
+<ce> и в то же время опасные направления мысли. Вы действительно
+<ce> верите, что существует власть, способная соперничать или даже
+<ce> превосходить ту, которой обладает Совет Архимагов?
 
 Message:  1030
 %qdt:
- _qgiver_ of the Mages Guild
- has sent me to meet with _nec_ to
- determine whether %g1 has ties
- to the Necromancers. I should go
- at night to _nhome_
- and take less than a single day.
+ _qgiver_ из Гильдии Магов
+ направил меня на встречу с _nec_, чтобы
+ определить, имеет ли %g1 связи
+ с Некромантами. Я должен отправиться
+ ночью в _nhome_
+ и вернуться за 24 часа.
 
 Message:  1031
-<ce> I will admit I have considered these things in the
-<ce> past. Surely there is more magicka in the world than
-<ce> that found in the six schools taught
-<ce> by the Guild, wouldn't you agree?
+<ce> Признаюсь, что в прошлом я задумывался о подобных
+<ce> вещах. Несомненно, в мире существует больше
+<ce> магии, чем та, которую можно найти в шести
+<ce> школах, преподаваемых Гильдией, вы не согласны?
    <--->
-<ce> I believe so myself. I myself have come to
-<ce> think that there is more magicka out there than
-<ce> in merely six schools alone, those regulated
-<ce> by imperial rule. At least, it makes sense
-<ce> to me. Wouldn't you agree that there is more
-<ce> to learn than what is being formally taught?
+<ce> Я и сам так считаю. Я сам пришел к мысли, что в
+<ce> мире существует больше магии, чем в одних только
+<ce> шести школах, регулируемых имперским
+<ce> правительством. По крайней мере, мне это кажется
+<ce> логичным. Не согласитесь ли вы, что можно
+<ce> научиться большему, чем то, чему формально учат?
 
 Message:  1032
-<ce> Indeed, censorship of the magicka is something
-<ce> that has concerned myself and others for quite some
-<ce> time. I myself believe people should be free to
-<ce> use whatever magicks they choose and allow the
-<ce> criminal justice system to punish actual offenses
-<ce> against society, not merely crimes of mentality
-<ce> determined by a council of elder wizards.
-<ce> Does that sound so unreasonable?
+<ce> Действительно, цензура магии - это то, что беспокоит меня
+<ce> и других уже довольно долгое время. Я сам считаю, что
+<ce> люди должны быть свободны в использовании любых
+<ce> магических средств по своему усмотрению, и что система
+<ce> уголовного правосудия должна наказывать за реальные
+<ce> преступления против общества, а не только за преступления
+<ce> ментального характера, определяемые советом старших
+<ce> волшебников. Разве это звучит так уж неразумно?
    <--->
-<ce> To be sure, there is a reason for such order as it stands,
-<ce> and it should not be flaunted at every user's whim. But
-<ce> we must agree that some orders are based not on
-<ce> practicality or experience, but the outdated and flawed
-<ce> perceptions of certain elder wizards on a council.
-<ce> Is that such a disagreeable thought?
+<ce> Безусловно, для такого порядка в его нынешнем виде есть своя
+<ce> причина, и он не должен выставляться напоказ по прихоти
+<ce> каждого пользователя. Но мы должны согласиться с тем, что
+<ce> некоторые приказы основаны не на практичности или опыте, а на
+<ce> устаревших и ошибочных представлениях некоторых старших
+<ce> волшебников в Совете. Разве это такая неприятная мысль?
 
 Message:  1033
-<ce> I see that you are serious. Will you keep our
-<ce> conversation here private, taking it down
-<ce> with you to the grave?
+<ce> Я вижу, что вы настроены серьезно. Вы
+<ce> сохраните наш разговор в тайне, унесете
+<ce> его с собой в могилу?
    <--->
-<ce> Hmm. I wish to trust you, but I cannot do so without
-<ce> an oath. Do you swear to keep our conversation here
-<ce> private, taking it down with you to the grave?
+<ce> Хмм. Я хочу доверять вам, но я не могу сделать
+<ce> этого без клятвы. Клянетесь ли вы сохранить наш
+<ce> разговор в тайне, унеся его с собой в могилу?
 
 Message:  1034
-<ce> I accept your word of honor. Now, to speak plainly.
-<ce> Would you have qualms discussing a particular branch of
-<ce> Restoration magic involving the resurrection of the dead?
+<ce> Я принимаю ваше слово чести. А теперь поговорим начистоту.
+<ce> Будете ли вы испытывать затруднения при обсуждении определенной
+<ce> ветви магии Восстановления, связанной с воскрешением мертвых?
    <--->
-<ce> I accept your oath. Now then, to the point. Do you find offense
-<ce> in a branch of restorative magic that is capable of returning
-<ce> life to the dead?
+<ce> Я принимаю вашу клятву. А теперь к делу. Находите
+<ce> ли вы оскорбление в той ветви магии Восстановления,
+<ce> которая способна возвращать жизнь мертвым?
 
 Message:  1035
-<ce> Well, that is precisely the kind of magic that is outlawed
-<ce> by the Mages Guild. What a miserable waste! Imagine that,
-<ce> if we could merely return Lysandus to corporeal form instead
-<ce> of attempting to whisper to his ghost! Can you see what
-<ce> value there is in occasionally straying from the
-<ce> constricting bounds determined by the Council?
+<ce> Что ж, это именно тот вид магии, который запрещен Гильдией
+<ce> Магов. Какое жалкое расточительство! Представьте себе, если
+<ce> бы мы могли просто вернуть Лизандусу телесную форму вместо
+<ce> того, чтобы пытаться говорить с его призраком! Можете ли вы
+<ce> понять, какая польза от того, что вы время от времени
+<ce> отступаете от ограничивающих рамок, установленных Советом?
    <--->
-<ce> And that is precisely the problem with the imperial Mages Guild.
-<ce> Take the Lysandus crisis. Why should we go waste time questioning
-<ce> who slew whom on what day, if we could merely return his spirit to
-<ce> his body? Is that not an obviously legitimate use of magicka?
+<ce> И именно в этом заключается проблема имперской Гильдии Магов. Возьмем,
+<ce> к примеру, кризис Лизандуса. Зачем нам тратить время на выяснение
+<ce> того, кто кого убил в какой день, если мы можем просто вернуть его дух
+<ce> в тело? Разве это не очевидно законное использование магической силы?
 
 Message:  1036
-<ce> Then perhaps we have more in common than I previously detected.
-<ce> I demand that you tell me how you found me and why you ask.
+<ce> Тогда, возможно, у нас больше общего, чем я предполагал ранее.
+<ce> Я требую, чтобы вы рассказали мне, как вы нашли меня и почему спрашиваете.
 <ce>
-<ce> I see. Your attempts to speak to other guild members about
-<ce> this will arouse great ire, and doubtless oblige the town guard
-<ce> to carry you to the gallows. Powerful restoration, as we may
-<ce> term it, is a serious offense requiring the life of the practitioner
-<ce> in %crn. Say no more to any other person concerning it.
-<ce> Ensure that no one knows what we have spoken this night.
-<ce> I will look for you in a few weeks' time, when I am certain of my
-<ce> decision in this matter. Maintain silence. Good night, %pcf.
+<ce> Понятно. Ваши попытки поговорить об этом с другими членами гильдии
+<ce> вызовут сильный гнев и, несомненно, заставят городскую стражу отвести
+<ce> вас на виселицу. Восстановление силы, как мы можем это назвать,
+<ce> является серьезным преступлением, карающимся лишением жизни
+<ce> практикующего в %crn. Никому больше не говорите об этом. Позаботьтесь
+<ce> о том, чтобы никто не знал о том, что мы говорили этой ночью. Я найду
+<ce> вас через несколько недель, когда буду уверен в своем решении по этому
+<ce> вопросу. Храните молчание. Спокойной ночи, %pcf.
 
 Message:  1037
-<ce> This conversation has provided you with ample evidence that
-<ce> _nec_ is indeed a Necromancer. _qgiver_
-<ce> instructed you to report the matter to %g2, but surely
-<ce> an immediate solution is of greater value. Will you
-<ce> attempt to carry out the execution?
+<ce> Этот разговор предоставил вам достаточно доказательств
+<ce> того, что _nec_ действительно является некромантом.
+<ce> _qgiver_ проинструктировал вас сообщить %g2 об этом,
+<ce> но, несомненно, немедленное решение имеет большую
+<ce> ценность. Попытаетесь ли вы казнить некроманта?
 
 Message:  1038
-<ce> _nec_'s eyes smolder.
+<ce> У _nec_ загорелись глаза.
 <ce>
-<ce> "Fool! You know nothing of the power I wield!"
+<ce> "Глупец! Ты ничего не знаешь о той силе, которой я обладаю!"
 <ce>
-<ce> Casting a spell, %g4 appearance changes radically.
+<ce> После произнесения заклинания %g4 внешность радикально меняется.
 
 Message:  1039
-<ce> By slaying _nec_ you have done a great service to
-<ce> ___nhome_. _qgiver_ will want to know about this.
+<ce> Убив _nec_, Вы оказали большую услугу ___nhome_.
+<ce> _qgiver_ захочет узнать об этом.
 
 Message:  1040
-<ce> Surely discretion is merited in such cases as these.
-<ce> You decide to return to _qgiver_
-<ce> and report the matter through the official channels.
+<ce> Несомненно, в подобных случаях следует проявлять
+<ce> благоразумие. Вы решаете вернуться в _qgiver_
+<ce> и сообщить об этом по официальным каналам.
 
 Message:  1041
-<ce> What's this? Not only did _nec_ confess
-<ce> to the crime of necromancy, you slew him in combat?
-<ce> Oh my word! And such power he wielded! %pct,
-<ce> your service this day will not be forgotten!
-<ce> How many others could have died attempting to
-<ce> apprehend him! Apprentice! Excuse me, could
-<ce> you go back into storage and get that
-<ce> trinket we were discussing this morning?
-<ce> %pcf needs it, for such an act does not merit
-<ce> gold alone. Oh, thank you my friend! You
-<ce> have confirmed the integrity of the Mages Guild
-<ce> and saved us all a monumental trouble!
-<ce> Have your gold and this reward.
+<ce> Что это? Мало того, что _nec_ признался в
+<ce> некромантии, вы убили его в бою? О, честное
+<ce> слово! И какой силой он обладал! %pct, ваша
+<ce> служба в этот день не будет забыта! Сколько
+<ce> других могло бы погибнуть при попытке
+<ce> задержать его! Ученик! Извините, не могли бы
+<ce> вы вернуться в хранилище и взять ту вещь,
+<ce> которую мы обсуждали сегодня утром? Передайте
+<ce> это %pcf, ибо такой поступок не заслуживает
+<ce> одного лишь золота. О, благодарю вас, мой
+<ce> друг! Вы подтвердили целостность Гильдии Магов
+<ce> и избавили всех нас от огромных неприятностей!
+<ce> Возьмите свое золото и эту награду.
 
 Message:  1042
-<ce> So _nec_ confessed to the crime of
-<ce> necromancy? So be it. I will inform the town guard
-<ce> immediately before he can start to doubt you.
-<ce> Splendid work, %pct.
+<ce> Значит, _nec_ признался в преступлении, связанном
+<ce> с некромантией? Да будет так. Я немедленно сообщу
+<ce> городской страже, прежде чем он начнет сомневаться
+<ce> в вас. Великолепная работа, %pct.
 
 Message:  1043
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Мистицизм)
 <ce>
-<ce> Your knowledge of Mysticism magic surprises your foe.
-<ce> You quickly utter a cantrip, and the hostile spirits he
-<ce> intended to invoke against you dissipate.
-<ce> _nec_, due to his transformation,
-<ce> is held in a momentary stupor by your spell.
+<ce> Ваше знание магии Мистицизма удивляет вашего противника. Вы
+<ce> быстро произносите заклинание, и враждебные духи, которых он
+<ce> собирался вызвать против вас, рассеиваются. _nec_,
+<ce> благодаря своему превращению, находится в кратковременном
+<ce> оцепенении под действием вашего заклинания.
 
 Message:  1099
-<ce> "I see. Well, I hope you find what you're looking for.
-<ce> Good evening."
+<ce> "Понятно. Что ж, надеюсь, вы найдете то,
+<ce> что ищете. Добрый вечер."
 <ce>
-<ce> _nec_ clearly distrusts you. You can do nothing more.
+<ce> _nec_ явно не доверяет вам. Больше вы ничего не можете сделать.
 
 QBN:
 Person _qgiver_ group Questor male
 Person _nec_ faction The_Mages_Guild male
-Person _dummyn_ faction The_Necromancers
+- Person _dummyn_ faction The_Necromancers
 
 Place _nhome_ local house
 
