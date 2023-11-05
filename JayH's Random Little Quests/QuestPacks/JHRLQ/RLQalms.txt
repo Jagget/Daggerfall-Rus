@@ -10,55 +10,55 @@ Message:  1010
  Mages Guild tonight.
 
 Message:  1011
-<ce> A beggar pleads with nearby folk for some money.
+<ce> Нищий умоляет прохожих дать ему немного денег.
 <ce>
-<ce> "Alms? Alms for the poor? 20 gold, anyone?"
+<ce> "Милостыню? Милостыня для бедных? 20 золотых, кто-нибудь?"
 <ce>
-<ce> Will you offer him the money?
+<ce> Вы предложите ему деньги?
 <--->
-<ce> You see a beggar nearby, entreating passers by
-<ce> for their money.
+<ce> Вы видите поблизости нищего,
+<ce> выпрашивающего у прохожих деньги.
 <ce>
-<ce> "Can you spare 20 gold for the poorest of folk?
-<ce> Please, I need to eat today."
+<ce> "Можете ли вы выделить 20 золотых для беднейшего из людей?
+<ce> Пожалуйста, мне нужно сегодня поесть."
 <ce>
-<ce> Will you offer him the money?
+<ce> Вы предложите ему деньги?
 
 Message:  1012
-<ce> You avoid the mendicant.
+<ce> Вы избегаете нищенствующих.
 
 Message:  1013
-<ce> You approach and deliver 20 gold pieces into
-<ce> the beggar's hands. He cries out for joy and bows
-<ce> many times before you, and then departs for
-<ce> the nearest tavern.
+<ce> Вы подходите и кладёте в руки нищего 20 золотых
+<ce> монет. Он восклицает от радости и многократно
+<ce> кланяется вам, а затем уходит в
+<ce> ближайшую таверну.
 <--->
-<ce> You approach and deliver 20 gold pieces into
-<ce> the beggar's hands. He cries out for joy and bows
-<ce> many times before you, and then departs toward
-<ce> a nearby residence.
+<ce> Вы подходите и кладёте в руки нищего 20 золотых
+<ce> монет. Он восклицает от радости и многократно
+<ce> кланяется вам, а затем уходит в сторону
+<ce> близлежащего жилища.
 <--->
-<ce> You approach and deliver 20 gold pieces into
-<ce> the beggar's hands. He cries out for joy and bows
-<ce> many times before you, and then continues begging
-<ce> other people in the area.
+<ce> Вы подходите и кладёте в руки нищего 20 золотых
+<ce> монет. Он восклицает от радости и многократно
+<ce> кланяется вам, а затем продолжает
+<ce> просить милостыню у других людей в округе.
 
 Message:  1014
-<ce> In spite of your best intentions, you do not find
-<ce> 20 gold pieces among your belongings. You'll have
-<ce> to forego the alms this time.
+<ce> Несмотря на ваши лучшие намерения, вы не находите
+<ce> 20 золотых монет среди своих вещей. На этот раз
+<ce> тебе придется отказаться от подачи милостыни.
 
 Message:  1015
-<ce> The beggar rejoices, and then leans in and speaks
-<ce> with a wispy voice.
+<ce> Нищий радуется, а затем наклоняется и шепчет:
 <ce>
-<ce> "Someone nice like you deserves to have some more money.
-<ce> Them Mages Guild people are hiding some enchanted _item_
-<ce> in their guild hall tonight after they close.
-<ce> Go grab it for yourself, why don't ya?
-<ce> Not like they need it any more than you do."
+<ce> "Такому доброму, как вы, следует иметь побольше
+<ce> денег. Люди из Гильдии Магов сегодня вечером
+<ce> после закрытия спрячут в своём зале какой-то
+<ce> зачарованный _item_. Заберите его себе. Не
+<ce> думаю, что им он нужен больше, чем вам."
 <ce>
-<ce> The beggar then sits back and accosts other people for money.
+<ce> После этого нищий отодвигается и начинает
+<ce> просить деньги у других прохожих.
 
 QBN:
 

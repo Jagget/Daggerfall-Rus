@@ -1,22 +1,22 @@
 Quest: JHKN101
-DisplayName: Dragonling Nest
+DisplayName: Гнездо дракончика
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> My name is _qgiver_. This morning
-<ce> we received a courier on behalf of the %t
-<ce> requesting aid in ___dungeon_.
-<ce> Apparently there's a nest of dragonlings
-<ce> somewhere inside of a rare breed
-<ce> worth protecting. Poachers have
-<ce> already begun entering, and it's
-<ce> only a matter of time before
-<ce> there are no dragonlings left at all.
-<ce> Will you offer your hand in this?
+<ce> Меня зовут _qgiver_. Сегодня утром
+<ce> мы получили курьера от имени %t с
+<ce> просьбой о помощи в ___dungeon_.
+<ce> По-видимому, где-то внутри находится
+<ce> гнездо дракончиков редкой породы,
+<ce> которую стоит охранять. Браконьеры
+<ce> уже начали лазить туда, и это лишь
+<ce> вопрос времени, когда дракончиков
+<ce> совсем не останется. Предложите ли
+<ce> вы свою помощь в этом деле?
 
 RefuseQuest:  [1001]
-<ce> A poor answer.
+<ce> Неудачный ответ.
 
 AcceptQuest:  [1002]
 <ce> The %t has made abundantly
