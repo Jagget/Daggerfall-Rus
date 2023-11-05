@@ -1,5 +1,5 @@
 Quest: RLQdrugdeliver
-DisplayName: Random Little Quest A Drug Delivery
+DisplayName: СМК A Drug Delivery
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQaxechop
-DisplayName: Random Little Quest Axe Chop
+DisplayName: СМК Axe Chop
 -- Message panels
 QRC:
 

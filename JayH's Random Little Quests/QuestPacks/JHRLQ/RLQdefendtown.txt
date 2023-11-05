@@ -1,5 +1,5 @@
 Quest: RLQdefendtown
-DisplayName: Random Little Quest Defend the Town
+DisplayName: СМК Defend the Town
 -- Message panels
 QRC:
 

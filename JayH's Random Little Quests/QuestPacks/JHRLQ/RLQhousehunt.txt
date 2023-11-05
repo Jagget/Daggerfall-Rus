@@ -1,5 +1,5 @@
 Quest: RLQhousehunt
-DisplayName: Random Little Quest House Hunting
+DisplayName: СМК House Hunting
 -- Message panels
 QRC:
 

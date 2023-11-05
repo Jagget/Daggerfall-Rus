@@ -1,5 +1,5 @@
 Quest: RLQtrainmedical
-DisplayName: Random Little Quest Medical Training
+DisplayName: СМК Medical Training
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQtrainthaum
-DisplayName: Random Little Quest Thaumaturgy Training
+DisplayName: СМК Thaumaturgy Training
 -- Message panels
 QRC:
 

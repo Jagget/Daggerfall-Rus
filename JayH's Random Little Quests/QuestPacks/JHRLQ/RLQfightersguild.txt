@@ -1,5 +1,5 @@
 Quest: RLQfightersguild
-DisplayName: Random Little Quest Fighters Guild
+DisplayName: СМК Fighters Guild
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQsingingcircle
-DisplayName: Random Little Quest Singing Circle
+DisplayName: СМК Singing Circle
 -- Message panels
 QRC:
 

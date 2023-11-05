@@ -1,5 +1,5 @@
 Quest: RLQvampiregold
-DisplayName: Random Little Quest Vampire and Gold
+DisplayName: СМК Vampire and Gold
 -- Message panels
 QRC:
 

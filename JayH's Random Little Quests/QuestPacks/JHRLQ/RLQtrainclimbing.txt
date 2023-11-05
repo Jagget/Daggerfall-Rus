@@ -1,5 +1,5 @@
 Quest: RLQtrainclimbing
-DisplayName: Random Little Quest Climbing Training
+DisplayName: СМК Climbing Training
 -- Message panels
 QRC:
 

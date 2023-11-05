@@ -1,5 +1,5 @@
 Quest: RLQpotlevitate
-DisplayName: Random Little Quest Levitation Potion
+DisplayName: СМК Levitation Potion
 -- Message panels
 QRC:
 

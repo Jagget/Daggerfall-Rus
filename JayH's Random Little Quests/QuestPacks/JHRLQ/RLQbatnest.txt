@@ -1,5 +1,5 @@
 Quest: RLQbatnest
-DisplayName: Random Little Quest Bat's Nest
+DisplayName: СМК Bat's Nest
 -- Message panels
 QRC:
 

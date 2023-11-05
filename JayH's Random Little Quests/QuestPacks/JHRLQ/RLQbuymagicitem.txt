@@ -1,5 +1,5 @@
 Quest: RLQbuymagicitem
-DisplayName: Random Little Quest Buy a Magic Item
+DisplayName: СМК Buy a Magic Item
 -- Message panels
 QRC:
 

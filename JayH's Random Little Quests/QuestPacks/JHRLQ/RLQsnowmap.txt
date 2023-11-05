@@ -1,5 +1,5 @@
 Quest: RLQsnowmap
-DisplayName: Random Little Quest A Snow Map
+DisplayName: СМК A Snow Map
 -- Message panels
 QRC:
 

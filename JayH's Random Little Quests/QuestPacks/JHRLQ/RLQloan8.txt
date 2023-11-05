@@ -1,5 +1,5 @@
 Quest: RLQloan8
-DisplayName: Random Little Quest Loan 8
+DisplayName: СМК Loan 8
 -- Message panels
 QRC:
 

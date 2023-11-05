@@ -1,5 +1,5 @@
 Quest: RLQdungeoncaptive
-DisplayName: Random Little Quests A Dungeon Captive
+DisplayName: СМКs A Dungeon Captive
 -- Message panels
 QRC:
 

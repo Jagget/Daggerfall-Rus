@@ -1,5 +1,5 @@
 Quest: RLQlibrarydonation
-DisplayName: Random Little Quest Library Donation
+DisplayName: СМК Library Donation
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQlongbladefight
-DisplayName: Random Little Quest Long Blade Fight
+DisplayName: СМК Long Blade Fight
 -- Message panels
 QRC:
 

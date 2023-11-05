@@ -1,5 +1,5 @@
 Quest: RLQpotstamina
-DisplayName: Random Little Quest Stamina Potion
+DisplayName: СМК Stamina Potion
 -- Message panels
 QRC:
 

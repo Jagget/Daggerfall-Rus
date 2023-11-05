@@ -1,5 +1,5 @@
 Quest: RLQyousteal
-DisplayName: Random Little Quest You Steal
+DisplayName: СМК You Steal
 -- Message panels
 QRC:
 

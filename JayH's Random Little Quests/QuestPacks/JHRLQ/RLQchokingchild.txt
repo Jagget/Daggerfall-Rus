@@ -1,5 +1,5 @@
 Quest: RLQchokingchild
-DisplayName: Random Little Quest A Choking Child
+DisplayName: СМК A Choking Child
 -- Message panels
 QRC:
 

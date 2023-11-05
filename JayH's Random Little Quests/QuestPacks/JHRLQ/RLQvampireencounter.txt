@@ -1,5 +1,5 @@
 Quest: RLQvampireencounter
-DisplayName: Random Little Quest Vampire Encounter
+DisplayName: СМК Vampire Encounter
 -- Message panels
 QRC:
 

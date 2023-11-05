@@ -1,5 +1,5 @@
 Quest: RLQkillrats
-DisplayName: Random Little Quest Kill Rats
+DisplayName: СМК Kill Rats
 -- Message panels
 QRC:
 

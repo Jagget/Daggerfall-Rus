@@ -1,5 +1,5 @@
 Quest: RLQbuyrandomweapon
-DisplayName: Random Little Quest Buy a Random Weapon
+DisplayName: СМК Buy a Random Weapon
 -- Message panels
 QRC:
 

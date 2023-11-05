@@ -1,5 +1,5 @@
 Quest: RLQlottery
-DisplayName: Random Little Quest A Lottery
+DisplayName: СМК A Lottery
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQtrainetiquette
-DisplayName: Random Little Quest Etiquette Training
+DisplayName: СМК Etiquette Training
 -- Message panels
 QRC:
 

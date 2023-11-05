@@ -1,5 +1,5 @@
 Quest: RLQraintaxes3
-DisplayName: Random Little Quest Rain Taxes 3
+DisplayName: СМК Rain Taxes 3
 -- Message panels
 QRC:
 

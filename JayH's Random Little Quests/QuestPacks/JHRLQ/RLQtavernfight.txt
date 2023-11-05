@@ -1,5 +1,5 @@
 Quest: RLQtavernfight
-DisplayName: Random Little Quest A Tavern Fight
+DisplayName: СМК A Tavern Fight
 -- Message panels
 QRC:
 

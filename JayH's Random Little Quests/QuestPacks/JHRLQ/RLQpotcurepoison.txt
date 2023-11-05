@@ -1,5 +1,5 @@
 Quest: RLQpotcurepoison
-DisplayName: Random Little Quest Cure Poison Potion
+DisplayName: СМК Cure Poison Potion
 -- Message panels
 QRC:
 

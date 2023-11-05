@@ -1,5 +1,5 @@
 Quest: RLQpotinvis
-DisplayName: Random Little Quest Invisibility Potion
+DisplayName: СМК Invisibility Potion
 -- Message panels
 QRC:
 

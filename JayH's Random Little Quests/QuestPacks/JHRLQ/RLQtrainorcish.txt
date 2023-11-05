@@ -1,5 +1,5 @@
 Quest: RLQtrainorcish
-DisplayName: Random Little Quest An Orcish Lesson
+DisplayName: СМК An Orcish Lesson
 -- Message panels
 QRC:
 

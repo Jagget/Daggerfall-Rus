@@ -1,5 +1,5 @@
 Quest: RLQgiantencounter
-DisplayName: Random Little Quest Giant Encounter
+DisplayName: СМК Giant Encounter
 -- Message panels
 QRC:
 

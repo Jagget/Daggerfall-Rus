@@ -1,5 +1,5 @@
 Quest: RLQtempledelivery
-DisplayName: Random Little Quest A Temple Delivery
+DisplayName: СМК A Temple Delivery
 -- Message panels
 QRC:
 

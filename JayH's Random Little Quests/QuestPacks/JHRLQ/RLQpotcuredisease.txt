@@ -1,5 +1,5 @@
 Quest: RLQpotcuredisease
-DisplayName: Random Little Quest Cure Disease Potion
+DisplayName: СМК Cure Disease Potion
 -- Message panels
 QRC:
 
