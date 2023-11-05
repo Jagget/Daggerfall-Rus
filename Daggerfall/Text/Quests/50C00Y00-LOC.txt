@@ -81,10 +81,10 @@ RumorsDuringQuest:  [1005]
 RumorsPostfailure:  [1006]
 Старый =monster_ ушел на север. Надеюсь, что чума уйдет туда же.
    <--->
-Ходят слухи, что даэдры опасаются =monster_ и его силы.
+Ходят слухи, что даэдра опасаются =monster_ и его силы.
 
 RumorsPostsuccess:  [1007]
-Говорят у =monster_ силы поболее, чем у даэдр.
+Говорят у =monster_ силы поболее, чем у даэдра.
    <--->
 =monster_ получит свое за гордыню своей силой.
 
@@ -175,4 +175,4 @@ _npcclicked_ task:
 _clearclick_ task:
 	when _npcclicked_ and not _mondead_
 	say 1003
-	clear _npcclicked_ _clearclick_ 
+	clear _npcclicked_ _clearclick_
