@@ -1,110 +1,112 @@
 Quest: JHMG222
-DisplayName: Scholarly Pursuits
+DisplayName: Научные поиски
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Ah! This one, I think, is just perfect for you.
-<ce> The Archmage offers an enchanted item to the
-<ce> person who returns to him a certain stolen belonging.
-<ce> We have scried its location, and now only lack the
-<ce> brave soul who will retrieve it. Are you willing?
+<ce> Ах! Это задание, я думаю, идеально подходит для вас.
+<ce> Архимаг предлагает зачарованный предмет тому, кто вернёт
+<ce> ему определённое украденное имущество. Мы определили его
+<ce> местоположение, и теперь нам только не хватает отважной
+<ce> души, которая его вернёт. Вы готовы?
 
 RefuseQuest:  [1001]
-<ce> Hmm. Disappointing.
+<ce> Хмм. Это разочаровывает.
 
 AcceptQuest:  [1002]
-<ce> Splendid! You'll find the stolen _tri_ in
-<ce> a labyrinth called ___dung_.
-<ce> Return it here, and you'll receive
-<ce> an enchanted _magic_ capable of undoing any
-<ce> effects of paralysis. Does that sound worth your while,
-<ce> %pct? The offer is good for the next =timer_ days,
-<ce> so hasten your steps.
+<ce> Прекрасно! Украденный _tri_ вы найдёте в
+<ce> лабиринте под названием ___dung_. Верните его
+<ce> сюда, и вы получите зачарованный _magic_,
+<ce> способный нейтрализовать любые эффекты
+<ce> паралича. Звучит это достойно вашего времени,
+<ce> %pct? Предложение действительно в течение
+<ce> следующих =timer_ дней, так что поспешите.
 
 QuestFail:  [1003]
-<ce> You were to deliver the Archmage's
-<ce> stolen _tri_ to ___qgiver_ by now.
+<ce> Вы должны были уже доставить украденный
+<ce> _tri_ Архимага в ___qgiver_.
 
 QuestComplete:  [1004]
-<ce> A thousand thanks, %pcf. The Archmage, reclusive as
-<ce> he might be, will hear your name for this.
-<ce> While we work out the details of your future promotion
-<ce> and so forth, perhaps this _magic_ will tide you over?
-<ce> It is a fine reward for fine work.
+<ce> Тысяча благодарностей, %pcf. Архимаг, каким бы
+<ce> уединённым он ни был, услышит ваше имя. Пока мы
+<ce> разбираемся с деталями вашего будущего повышения и так
+<ce> далее, возможно, этот _magic_ поможет вам переждать?
+<ce> Это прекрасное вознаграждение за прекрасную работу.
 
 Message:  1010
-<ce> The _tri_ is close by, but the thief
-<ce> was clever enough to put a trap on it.
-<ce> You can feel the magical energy from here.
-<ce> Someone skilled in the thieving arts would
-<ce> be able to disarm the trap manually.
-<ce> On the other hand, if you were confident in Mysticism,
-<ce> you could counter the effect to nullify it.
-<ce> Attempting and failing to disarm the trap, however,
-<ce> would be significantly more dangerous than just
-<ce> suffering its effects outright.
-<ce> What will you do?
+<ce> _tri_ находится недалеко, но вор был достаточно
+<ce> хитёр, чтобы оборудовать его ловушкой. Вы
+<ce> чувствуете магическую энергию отсюда. Кто-то,
+<ce> искусный в искусстве воровства, смог бы вручную
+<ce> обезвредить ловушку. С другой стороны, если вы
+<ce> уверены в своём Мистицизме, вы могли бы
+<ce> нейтрализовать эффект ловушки. Однако попытка и
+<ce> неудача в обезвреживании ловушки могут
+<ce> оказаться значительно более опасными, чем если
+<ce> бы вы просто подверглись её действию. Что вы
+<ce> будете делать?
 <ce>
-<ce> (ANCHOR) Leverage your Pickpocketing skill to disable the trap
-<ce> (skill check Pickpocketing, low)
+<ce> (ЯКОРЬ) Используйте свой навык "Карманные кражи",
+<ce> чтобы обезвредить ловушку.
+<ce> (ПРОВЕРКА НАВЫКА: Карманные кражи, легко)
 <ce>
-<ce> (COUNTER) Counter the trap with an enchantment of your own
-<ce> (skill check Mysticism, medium)
+<ce> (ПРОТИВ) Противодействуйте ловушке с помощью
+<ce> своего собственного зачарования
+<ce> (ПРОВЕРКА НАВЫКА: Мистицизм, средне)
 <ce>
-<ce> (O.K.) Walk into the trap, knowing that it will cause nonlethal damage.
+<ce> (ОК) Активируете ловушку, зная, что она нанесет несмертельный урон.
 
 Message:  1011
-<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: PICKPOCKETING)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Карманные кражи)
 <ce>
-<ce> Your attempt to make a small anchor to attract the
-<ce> trap's power goes terribly wrong. The offensive spell rebounds
-<ce> between you and the anchor multiple times, damaging you
-<ce> significantly. However, you remain alive.
+<ce> Ваша попытка создать небольшой якорь, чтобы привлечь силу
+<ce> ловушки, заканчивается ужасно. Атакующее заклинание
+<ce> несколько раз отражается между вами и якорем, нанося вам
+<ce> значительный урон. Однако вы остаётесь в живых.
 
 Message:  1012
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: PICKPOCKET)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Карманные кражи)
 <ce>
-<ce> You make a small anchor from scrap metal and toss it
-<ce> toward the trap. The offensive enchantment fires,
-<ce> and then goes inert. The _tri_ is yours for the taking.
+<ce> Вы делаете небольшой якорь из металлического лома и
+<ce> бросаете его в сторону ловушки. Атакующее заклятие
+<ce> срабатывает, а затем теряет силу. _tri_ теперь ваш.
 
 Message:  1013
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Мистицизм)
 <ce>
-<ce> Standing on the edge of the trap's range, you begin
-<ce> a spell to counter its effects. You misjudge the power required,
-<ce> and both your spell and the trap's effect shoot through your body.
-<ce> It hurts terribly, and your innards have a strange feel to them.
+<ce> Стоя на краю зоны действия ловушки, вы начинаете читать заклинание,
+<ce> чтобы нейтрализовать её эффект. Вы неправильно оцениваете необходимую
+<ce> мощность, и как ваше заклинание, так и эффект ловушки проходят через
+<ce> ваше тело. Это ужасно больно, и ваши внутренности ощущаются странно.
 
 Message:  1014
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Мистицизм)
 <ce>
-<ce> Setting a counter-enchantment to the trap is trivial.
-<ce> Whoever this thief was, their magical power could not
-<ce> have been so impressive. With a few seconds'
-<ce> concentration, you manage to soak up the trap's
-<ce> power entirely, leaving the _tri_ ripe for the taking.
+<ce> Установить контр-заклинание на ловушку —
+<ce> тривиальная задача. Каким бы ни был этот вор, его
+<ce> магическая мощь не могла быть впечатляющей.
+<ce> Сосредоточившись на несколько секунд, вы полностью
+<ce> поглощаете силу ловушки. _tri_ теперь ваш.
 
 Message:  1015
-<ce> You're mature enough to recognize that a labor poorly executed
-<ce> can be worse than making no effort at all.
-<ce> You cross into the trap's range and suffer some harm, but
-<ce> not enough to kill you. The _tri_ is within reach now.
+<ce> Вы достаточно зрелы, чтобы понимать, что плохо выполненная работа
+<ce> может быть хуже, чем если бы вы вообще не старались. Вы входите в
+<ce> диапазон действия ловушки и получаете некоторый урон, но не настолько
+<ce> смертельный. Теперь _tri_ находится в пределах досягаемости.
 
 Message:  1016
-<ce> Now beyond the reach of any trap, you grab
-<ce> the Archmage's _tri_.
+<ce> Теперь, находясь вне зоны действия любой ловушки,
+<ce> вы берёте _tri_ Архимага.
 
 Message:  1030
 %qdt:
-_qgiver_ of __qgiver_
-in ___qgiver_ will give me
-an enchanted _magic_, capable
-of dispelling paralysis, if
-I can retrieve a stolen
-_tri_ from ___dung_
-within =timer_ days.
+_qgiver_ из __qgiver_,
+___qgiver_ даст мне
+зачарованный _magic_,
+способный рассеять паралич,
+если я смогу вернуть
+украденный _tri_ из ___dung_ в
+течение =timer_ _ дней.
 
 QBN:
 Item _magic_ item class 4 subclass 26

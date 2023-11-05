@@ -5,62 +5,63 @@ DisplayName: Гильдия Магов. Последствия. Квест 1
 QRC:
 
 QuestFail:   [1003]
-<ce> You agreed to slay the atronach
-<ce> inside _res_ by now.
+<ce> Вы согласились уничтожить атронаха
+<ce> внутри _res_ к этому времени.
 
 RumorsPostSuccess:   [1007]
-Been slaying some atronach in _res_, am I right? Of course I know.
+Занимаешься истреблением атронахов в _res_, я прав? Конечно, я знаю.
 
 Message:  1010
-<ce> As you exit the guild hall, a merchant waits nearby.
-<ce> She speaks at you nervously.
+<ce> Когда вы выходите из зала гильдии, неподалеку ждет торговка.
+<ce> Она нервно обращается к Вам.
 <ce>
-<ce> "Excuse me, you're with the mages, aren't you?
-<ce> There's an atronach in my mother's house,
-<ce> and no one is willing to fight it for us.
-<ce> Please come and help!"
+<ce> "Простите, вы ведь с магами, не так ли?
+<ce> В доме моей матери находится атронах,
+<ce> и никто не хочет сражаться с ним за нас.
+<ce> Пожалуйста, придите и помогите!"
 <ce>
-<ce> Conspicuously absent is any promise of material gain.
-<ce> Will you accept nonetheless?
+<ce> Очевидно, что здесь отсутствует какое-либо
+<ce> обещание материальной выгоды.
+<ce> Согласитесь ли вы, тем не менее?
 
 Message:  1011
-<ce> The merchant writes down _res_
-<ce> on a piece of parchment. "It isn't far from here.
-<ce> It's %di, you'll find it before long.
-<ce> Please destroy the golem before this time tomorrow."
-<ce> She then parts ways from you.
+<ce> Торговка записывает "_res_" на куске
+<ce> пергамента. "Это недалеко отсюда. Это на
+<ce> %di, вы найдете его поблизости.
+<ce> Пожалуйста, уничтожьте голема до
+<ce> завтрашнего дня". Затем она отходит от вас.
 
 Message:  1012
-<ce> Magical energy buzzes around you.
-<ce> There's no question an atronach has been here.
+<ce> Магическая энергия гудит вокруг вас.
+<ce> Нет никаких сомнений в том, что здесь побывал атронах.
 
 Message:  1013
-<ce> The enemy is slain.
+<ce> Враг повержен.
 
 Message:  1014
-<ce> The merchant awaits outside, already well aware of your deed.
+<ce> Торговка ждет снаружи, уже хорошо осведомленная о вашем поступке.
 <ce>
-<ce> "Thank you, kind %ra! %god bless you. I'll tell my merchant
-<ce> friends all about you and your generosity. I have no money
-<ce> to pay you, but I'll make sure my friends give you
-<ce> good deals in the future."
+<ce> "Спасибо, добрый %ra! %god благословит вас. Я расскажу
+<ce> своим друзьям-торговцам о вас и вашей щедрости. У меня
+<ce> нет денег чтобы заплатить вам, но я позабочусь о том,
+<ce> чтобы мои друзья предлагали вам только выгдные сделки".
 <ce>
-<ce> She then enters the house, presumably to clean
-<ce> up the atronach remnants.
+<ce> Затем она входит в дом, возможно, чтобы
+<ce> убрать остатки атронаха.
 
 Message:  1015
-<ce> Looking quite miffed, the merchant woman departs in silence.
+<ce> Выглядя довольно обиженной, торговка молча уходит.
 
 Message:  1030
 %qdt:
- A merchant woman in ___res_
- has asked me to dispose of a
- hostile atronach within _res_.
- If I intend to do so, I should
- have it done within 24 hours.
+ Торговка из ___res_ попросила
+ меня избавиться от враждебного
+ атронаха в _res_. Если я намерен
+ это сделать, я должен выполнить
+ это в течение 24 часов.
 
 QBN:
-Person _asker_ faction The_Merchants
+Person _asker_ faction The_Merchants female local
 
 Place _res_ local house
 

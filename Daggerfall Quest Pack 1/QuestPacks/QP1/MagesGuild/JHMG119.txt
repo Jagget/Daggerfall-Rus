@@ -1,9 +1,9 @@
---  Для перевода:
---  _qgiver_ - муж.
---  _nec_ - муж.
 Quest: JHMG119
 DisplayName: Интервью с некромантом
 -- Message panels
+--  Для перевода:
+--  _qgiver_ - муж.
+--  _nec_ - муж.
 QRC:
 
 QuestorOffer:  [1000]

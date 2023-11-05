@@ -1,61 +1,61 @@
 Quest: JHMG123
-DisplayName: A Swift Recovery
+DisplayName: Быстрое возвращение
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Ah! If you're the kind of %pct who's fleet of foot,
-<ce> yes, there is something for which you might prove quite useful.
-<ce> The town guard, as brutish as they are, arrested one of our members
-<ce> on suspicion of stealing a _gem_ while in another city.
-<ce> We need that _gem_, quite urgently, in fact.
-<ce> A substitute will not do. Are you brave, quick, and able to
-<ce> avoid an embarrassing confrontation with the city watch?
+<ce> А! Если вы такой %pct, что отличаетесь быстротой ног, то
+<ce> да, у нас есть дело, в котором вы могли бы быть весьма
+<ce> полезны. Городская стража, как бы она ни была груба,
+<ce> арестовала одного из наших членов по подозрению в краже
+<ce> _gem_ в другом городе. Нам срочно нужен этот _gem_.
+<ce> Заменитель не подойдёт. Вы храбры, быстры и способны
+<ce> избежать позорного столкновения с городской стражей?
 
 RefuseQuest:  [1001]
-<ce> Sigh. We need some younger candidates to join this hall.
+<ce> Вздох. Нам в нашей гильдии не хватает коллег помоложе.
 
 AcceptQuest:  [1002]
-<ce> Spiffing! My praises to you for not allowing your fears to
-<ce> overcome you! It's almost certain that you'll be accosted
-<ce> by the city watch once it enters your possession. Whatever
-<ce> you do, don't be caught. I won't say any more than that.
-<ce> The gem is in the _pal_ of ___pal_. If you can have it
-<ce> here in =timer_ days, the reward of =reward_ gold
-<ce> pieces will be yours. Notorgo's Feet be upon you, %pct!
+<ce> Восхитительно! Мои похвалы вам за то, что вы не позволили своим
+<ce> страхам взять верх! Почти наверняка вас попытаются задержать
+<ce> городские стражники, как только камень окажется у вас во
+<ce> владении. Что бы ни произошло, не попадитесь. Больше я ничего не
+<ce> скажу. Камень находится в _pal_, ___pal_. Если вы сможете
+<ce> доставить его сюда за =timer_ дней, вознаграждение в размере
+<ce> =reward_ золотых будет вашим. Ноги Ноторго да будут с вами, %pct!
 
 QuestFail:  [1003]
-<ce> The Mages Guild needed the recovered _gem_ by now.
+<ce> Гильдия Магов уже должна была получить возвращенный _gem_.
 
 QuestComplete:  [1004]
-<ce> Oh dear. It's been scratched up a bit... I wonder if that will
-<ce> reduce its viability. No matter. I'm sure it was those ogrish
-<ce> town guards who did it. You wouldn't be so foolish as to
-<ce> damage goods belonging to the guild, of course!
-<ce> Your well-earned payment is here.
+<ce> Ой, дела. Он немного поцарапан... Интересно, уменьшит ли
+<ce> это его ценность. Неважно. Уверен, это сделали те
+<ce> огромные городские стражники. Конечно же, вы не были бы
+<ce> настолько глупы, чтобы повредить товар, принадлежащий
+<ce> гильдии! Ваше заслуженное вознаграждение здесь.
    <--->
-<ce> Wonderful! The _gem_ is here ahead of schedule, even!
-<ce> Have no concern for the city watch. If they show up here,
-<ce> we will turn them away or incinerate them, whichever
-<ce> suits us better. Take your reward, %pct.
+<ce> Чудесно! _gem_ прибыл раньше срока! Не беспокойтесь
+<ce> о городской страже. Если они появятся здесь, мы их
+<ce> отошлем или сожжем, что нам больше подойдёт.
+<ce> Возьмите свою награду, %pct.
 
 Message:  1010
-<ce> So soon as you touch the _gem_, an alarm sounds.
-<ce> It's in your possession now.
+<ce> Как только вы прикоснетесь к _gem_, раздастся сигнал тревоги.
+<ce> Теперь он в вашем распоряжении.
 
 Message:  1011
-<ce> The _gem_ belonging to the Mages Guild is somewhere in here.
+<ce> Принадлежащий Гильдии Магов _gem_ находится где-то здесь.
 
 Message:  1030
 %qdt:
- _qgiver_ of the Mages Guild
- has assigned me to recover a small
- _gem_ that was erroneously confiscated
- by the city watch of ___pal_.
- It will be within the palace.
- I must deliver it to the guild in
- ___qgiver_ before =timer_ days
- have passed, for a reward of =reward_ gold.
+ _qgiver_ Гильдии Магов поручил мне
+ вернуть небольшой _gem_, который был
+ ошибочно конфискован городской
+ стражей ___pal_. Нужно искать во
+ дворце. Я должен доставить _gem_ в
+ гильдию в ___qgiver_ до истечения
+ =timer_ дней, за вознаграждение в
+ размере =reward_ золотых.
 
 QBN:
 Item _gem_ gem

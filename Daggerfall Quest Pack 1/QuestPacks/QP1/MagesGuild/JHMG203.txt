@@ -1,108 +1,110 @@
 Quest: JHMG203
-DisplayName: The Dark Artist
+DisplayName: Чернокнижник
 -- Message panels
+-- _questgiver_ - муж.
+-- _necr_ - муж.
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pct, %crn grants us great
-<ce> autonomy concerning our methods of
-<ce> research, our purposes, our disciplinary
-<ce> pursuits, and so forth, provided we promote
-<ce> the "common good" with our scholarly work.
-<ce> A fascinating term, that. In exchange, we
-<ce> have something of an unspoken agreement,
-<ce> if you will, that when students of the magical
-<ce> arts become a menace to society, we are
-<ce> the first to remove the threat. Please help
-<ce> us to fulfill that agreement, %pcf.
+<ce> %pct, %crn предоставляет нам значительную
+<ce> автономию в отношении наших исследовательских
+<ce> методов, целей, дисциплинарных занятий и так
+<ce> далее, при условии, что наша учёная работа
+<ce> будет способствовать "общему благу".
+<ce> Занимательный термин, не так ли? Взамен мы
+<ce> имеем нечто вроде негласного соглашения, если
+<ce> хотите, что когда студенты магических искусств
+<ce> становятся угрозой обществу, мы первые
+<ce> устраняем угрозу. Пожалуйста, помогите нам
+<ce> выполнить это соглашение, %pcf.
    <--->
-<ce> Great scandals surround the Mages Guild, many
-<ce> of which are started by those envious of the
-<ce> power we wield. To ensure a spark does not become
-<ce> a wildfire, we must stamp out any cause for
-<ce> suspicion with haste. A knave in fellowship
-<ce> with this honorable institution has taken
-<ce> advantage of our good name to conduct work of
-<ce> the foulest kind, putting us all in jeopardy
-<ce> of disrepute. Will you dispose of this
-<ce> renegade and help us maintain our image?
+<ce> Вокруг Гильдии Магов кружатся великие скандалы,
+<ce> многие из которых раздуваются теми, кто завидует
+<ce> мощи, которой мы обладаем. Чтобы искра не переросла
+<ce> в пожар, мы должны быстро искоренить любую причину
+<ce> для подозрений. Один негодяй, входящий в сообщество
+<ce> нашего почтенного учреждения, воспользовался нашим
+<ce> добрым именем для проведения самых мерзких
+<ce> исследований, подвергая нас всех опасности потери
+<ce> репутации. Уничтожите этого отступника и помогите
+<ce> нам сохранить наш образ?
 
 RefuseQuest:  [1001]
-<ce> I assure you, %pct, had you permitted me to
-<ce> explain more, you would not have refused.
+<ce> Уверяю вас, %pct, если бы вы позволили мне
+<ce> объяснить больше, вы бы не отказались.
 
 AcceptQuest:  [1002]
-<ce> A worthy response. This duty falls upon
-<ce> every member of the guild in its due time.
-<ce> We will send you to ___res_.
-<ce> A guild member in the city, highly
-<ce> trustworthy, informs us that the
-<ce> errant magician, _necr_, hides
-<ce> and practices in _res_.
-<ce> I certainly hope necromancy inspires
-<ce> no fear in you, for that is what you
-<ce> have agreed to quash this day.
-<ce> Make this rogue magician one with
-<ce> the death that so fascinates %g2.
-<ce> We must know it is done in =timer_ days.
-<ce> Courage, good friend.
+<ce> Достойный ответ. Это обязанность
+<ce> ложится на каждого члена гильдии в свое
+<ce> время. Мы отправим вас в ___res_. Член
+<ce> гильдии в городе, чрезвычайно надежный,
+<ce> сообщает нам, что беглый маг, _necr_,
+<ce> прячется и занимается своими делами в
+<ce> _res_. Надеюсь, некромантия не вызывает
+<ce> у вас страха, ведь именно ее вы
+<ce> согласились подавить сегодня.
+<ce> Превратите этого мятежного мага в то,
+<ce> что так его завораживает, в труп,
+<ce> которые его так очаровывают. Мы должны
+<ce> знать, что это сделано в течение
+<ce> =timer_ дней. Смелости вам, добрый друг.
 
 QuestFail:  [1003]
-<ce> The Mages Guild has waited for your
-<ce> announcement of _necr_'s death,
-<ce> and the time has now passed.
+<ce> Гильдия Магов ждала вашего
+<ce> объявления о смерти _necr_,
+<ce> и теперь это время прошло.
 
 QuestComplete:  [1004]
-<ce> Splendidly done, %pct. This work
-<ce> ensures the general public lends the
-<ce> proper confidence to the Mages Guild.
-<ce> Would a _diam_ be a proper reward
-<ce> for this task, in your estimation?
-<ce> I pray you put it to good use.
+<ce> Великолепно выполнено, %pct. Эта работа
+<ce> обеспечивает доверие общественности
+<ce> к Гильдии Магов. Будет ли _diam_
+<ce> достойной наградой за это задание по
+<ce> вашему мнению? Надеюсь, вы сумеете его
+<ce> хорошо использовать.
 
 Message:  1010
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Разрушение)
 <ce>
-<ce> The necromancer activates a trap,
-<ce> sending a bolt of magic flying at you.
-<ce> Your quick reflexes and knowledge of Destruction
-<ce> magic allow you to halt the bolt in midair and return
-<ce> it to its caster. "OW!" your foe winces.
+<ce> Некромант активирует ловушку, посылая в вашу
+<ce> сторону волшебный снаряд. Ваши быстрые рефлексы и
+<ce> знание магии Разрушения позволяют вам остановить
+<ce> снаряд прямо в воздухе и вернуть его отправителю.
+<ce> "АЙ!" — вздрагивает ваш враг.
 
 Message:  1011
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Разрушение)
 <ce>
-<ce> The necromancer activates a trap,
-<ce> sending a bolt of magic flying at you.
-<ce> Someone more skilled in Destruction magic
-<ce> might have avoided it one way or another, but
-<ce> you suffer injury instead.
+<ce> Некромант активирует ловушку, посылая в
+<ce> вашу сторону волшебный снаряд. Кто-то,
+<ce> более искусный в магии Разрушения, мог
+<ce> бы избежать его тем или иным способом,
+<ce> но вместо этого вы получаете травму.
 
 Message:  1020
-<ce> "How pathetic. Why will you fools
-<ce> continue to resist the power and
-<ce> beauty of the art of necromancy?
-<ce> Do you not see the hypocrisy in
-<ce> slaying me? But if you so insist,
-<ce> we will have our duel. Have at you."
+<ce> "Это жалко. Почему вы, дураки,
+<ce> продолжаете сопротивляться мощи и
+<ce> красоте искусства некромантии? Разве
+<ce> вы не видите лицемерие в том, чтобы
+<ce> убивать меня? Но если вы настаиваете,
+<ce> то у нас будет дуэль. Дерзайте."
 
 Message:  1022
-<ce> The necromancer falls to the ground.
-<ce> Your duty is fulfilled.
+<ce> Некромант падает на землю.
+<ce> Ваш долг выполнен.
 
 Message:  1030
 %qdt:
- I must dispatch a necromancer
- hiding in the city of ___res_
- for the Mages Guild, who will
- be in _res_.
- I have =timer_ days to report
- in ___questgiver_.
+ Гильдия Магов послала меня в
+ ___res_, чтобы избавиться от
+ некроманта, который скрывается
+ в _res_. Мне необходимо
+ вернуться в ___questgiver_ в
+ течение =timer_ дней.
 
 QBN:
 
 Person _questgiver_ group Questor male
-Person _necr_ group Spellcaster
+Person _necr_ group Spellcaster male
 
 Item _diam_ diamond
 

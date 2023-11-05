@@ -1,137 +1,138 @@
 Quest: JHMG120
-DisplayName: Halls of the Lich
+DisplayName: Залы Лича
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pct, we grow increasingly concerned about
-<ce> the threats being made against you. You must
-<ce> understand that an organization as prestigious
-<ce> as the Mages Guild, and wielding such power,
-<ce> attracts all manner of nefarious attention.
-<ce> Will you not hear me? Some of the rumors
-<ce> truly speak to grave danger.
+<ce> %pct, мы все больше обеспокоены поступающими в
+<ce> ваш адрес угрозами. Вы должны понимать, что
+<ce> такая престижная организация, как Гильдия магов,
+<ce> и обладающая такой властью, привлекает
+<ce> всевозможное гнусное внимание. Неужели вы меня
+<ce> не слышите? Некоторые слухи действительно
+<ce> говорят о серьезной опасности.
 
 RefuseQuest:  [1001]
-<ce> That is truly dreadful, but I cannot force
-<ce> my will upon one whose rank exceeds my own.
+<ce> Это действительно ужасно, но я не могу навязывать свою
+<ce> волю тому, чей ранг превышает мой собственный.
 
 AcceptQuest:  [1002]
-<ce> Thank you! At least hear me, my good %pcf.
-<ce> I do not know your upbringing or past experiences
-<ce> prior to joining the guild, but you must understand
-<ce> the attention your actions have garnered. We hear of
-<ce> abductions, interrogations, mind control, and every
-<ce> kind of horrid fairy tale turned perverse against
-<ce> our highest members. Please, be cautious!
-<ce> I do not know what the coming days portend, but
-<ce> my sincerest desire is that all these things
-<ce> are as vapor, never to materialize. We will do
-<ce> our best to watch for you while you tarry in
-<ce> ___qgiver_, but I entreat you to exercise
-<ce> caution when outside these halls. Be safe.
+<ce> Спасибо! По крайней мере, выслушайте меня, мой хороший
+<ce> %pcf. Я не знаю вашего воспитания или прошлого опыта до
+<ce> вступления в гильдию, но вы должны понимать, какое
+<ce> внимание привлекли ваши действия. Мы слышим о похищениях,
+<ce> допросах, контроле сознания и всевозможных ужасных
+<ce> сказках, направленных против наших высокопоставленных
+<ce> членов. Пожалуйста, будьте осторожны! Я не знаю, что
+<ce> предвещают грядущие дни, но мое самое искреннее желание
+<ce> состоит в том, чтобы все эти вещи превратились в пар и
+<ce> никогда не материализовались. Мы сделаем все возможное,
+<ce> чтобы присматривать за вами, пока вы находитесь в
+<ce> ___qgiver_, но я умоляю вас проявлять осторожность,
+<ce> находясь за пределами этих залов. Берегите себя.
 
 QuestFail:  [1003]
+<ce> Задание провалено.
 
 QuestComplete:  [1004]
-<ce> My word! What has become of you? Please, tell me the
-<ce> whole matter. There is nothing more important than this.
+<ce> Честное слово! Что с вами стало? Пожалуйста,
+<ce> расскажите мне все как есть. Нет ничего важнее этого.
 <ce>
-<ce> By %god. These threats were indeed credible,
-<ce> and to think they would stalk about ___qgiver_
-<ce> to take you captive is the stuff of nightmares.
-<ce> We here at the guild hall are elated for your
-<ce> return. Nevertheless, I have one worrying
-<ce> detail to relate. You said the foe behind the
-<ce> arcane mechanism was named Jhuldarn, did you not?
-<ce> My dear %pcf, that was not him, I assure you.
-<ce> The lich Jhuldarn possesses power superior to that of
-<ce> fifty of the best living magicians in the Iliac Bay.
-<ce> No, this was merely a lich taking on Jhuldarn's
-<ce> name to inspire fear. I am troubled that such
-<ce> power has spread to the lichkind of Tamriel,
-<ce> but am truly happy that we, in fact, do not have
-<ce> the return of Jhuldarn on our hands. That would
-<ce> be the upheaval of all %crn. That is a fact.
+<ce> О, %god. Эти угрозы были действительно
+<ce> правдоподобны, и думать, что они будут бродить по
+<ce> ___qgiver_, чтобы взять вас в плен, - это сущий
+<ce> кошмар. Мы здесь, в зале гильдии, очень рады
+<ce> вашему возвращению. Тем не менее, у меня есть одна
+<ce> тревожная деталь. Вы сказали, что врага, стоящего
+<ce> за арканным механизмом, зовут Джулдарн, не так ли?
+<ce> Мой дорогой %pcf, это был не он, уверяю вас. Лич
+<ce> Джулдарн обладает силой, превосходящей силу
+<ce> пятидесяти лучших магов, живущих в Илиакском
+<ce> заливе. Нет, это был всего лишь лич, взявший себе
+<ce> имя Джулдарна, чтобы внушить страх. Я обеспокоен
+<ce> тем, что такая сила распространилась среди личей
+<ce> Тамриэля, но я искренне рад, что у нас на руках
+<ce> нет возвращения Джулдарна. Это было бы потрясением
+<ce> для всех в %crn. Это факт.
 
 Message:  1010
-<ce> No sooner than you have stepped out of the guild hall,
-<ce> two robed figures approach you from the side and grab
-<ce> hold of you. You are unable to react before they
-<ce> press some sort of enchanted object against the back
-<ce> of your neck. Everything turns black.
+<ce> Не успели вы выйти из зала гильдии, как две
+<ce> одетые фигуры подошли к вам сбоку и схватили
+<ce> вас за руки. Вы не успеваете среагировать, как
+<ce> они прижимают какой-то заколдованный предмет
+<ce> к вашей шее. Вы проваливаетесь в темноту.
 
 Message:  1011
-<ce> Now surrounded by darkness, you hear a voice boom
-<ce> throughout the depths.
+<ce> Теперь, окруженный тьмой, вы слышите голос,
+<ce> разносящийся по подземелью.
 <ce>
-<ce> "Welcome, %pcn. Forgive my urging myself
-<ce> upon your itinerary. I wish to see what the
-<ce> Mages Guild has to offer these days."
+<ce> "Добро пожаловать, %pcn. Простите, что я
+<ce> навязываюсь к вам. Я хочу посмотреть, что
+<ce> Гильдия Магов может предложить в наши дни".
 
 Message:  1012
-<ce> A lich comes into view, scowling at you.
-<ce> The booming voice returns.
+<ce> В поле зрения появляется лич, хмуро смотрящий на вас.
+<ce> Возвращается гулкий голос.
 <ce>
-<ce> "I wish to see what mettle your kind can throw at mine.
-<ce> See my loyal servant. He and his ilk will appear once
-<ce> per hour so long as you remain in the depths."
+<ce> "Я хочу посмотреть, на что способен ваш род. Посмотрите на
+<ce> моего верного слугу. Он и ему подобные будут появляться раз
+<ce> в час до тех пор, пока вы остаетесь в глубинах".
 
 Message:  1013
-<ce> "What will you do, %pct of the Mages Guild?
-<ce> Will you run? You will fail. I have sealed this
-<ce> labyrinth mine. Find and duel me, or perish in
-<ce> the depths forever."
+<ce> "Что Вы будете делать, %pct из Гильдии Магов? Вы
+<ce> побежите? Вы потерпите неудачу. Я запечатал этот
+<ce> лабиринт. Найдите меня и сразитесь со мной, или
+<ce> страдайте в глубинах вечно".
 
 Message:  1014
-<ce> "Suffer! Suffer! Is such a weakling made
-<ce> to rule over the Council of Archmages?
-<ce> Or what is your ambition?"
+<ce> "Страдай! Страдай! Разве такой слабак создан
+<ce> для того, чтобы править Советом Архимагов?
+<ce> Или каковы ваши амбиции?"
 
 Message:  1015
-<ce> "Know that I, Jhuldarn, will not be disappointed.
-<ce> You will prove the worth of that guild I
-<ce> sustained with my own hands, or show that I am
-<ce> now superior to it all. One outcome or
-<ce> the other suits my purposes."
+<ce> "Знайте, что я, Джулдарн, не буду
+<ce> разочарован. Вы докажете ценность той
+<ce> гильдии, которую я создал своими руками, или
+<ce> покажете, что теперь я превосхожу ее. Тот
+<ce> или иной результат соответствует моим целям".
 
 Message:  1016
-<ce> You hear nothing more than a chuckle.
-<ce> It appears you will have no means to leave
-<ce> except through this foe that has captured you.
+<ce> Вы слышите лишь усмешку. Похоже, что у вас
+<ce> не будет никакой возможности уйти, кроме как
+<ce> победив этого врага, который захватил вас.
 
 Message:  1017
-<ce> "Now we shall duel. And what will you do with that
-<ce> ragged frame of yours? You are worn to the bone.
-<ce> Just like me. But I tire not. Come, %pct.
-<ce> Show me what the Mages Guild produces."
+<ce> "Теперь будет дуэль. И что вы будете делать с
+<ce> этим вашим потрепанным телом? Вы изношены до
+<ce> костей. Как и я. Но я не устаю. Идемте, %pct.
+<ce> Покажите мне, что производит Гильдия Магов".
 
 Message:  1018
-<ce> Having fallen, Jhuldarn grins.
+<ce> Упав, Джулдарн усмехается.
 <ce>
-<ce> "It is so. I am satisfied."
+<ce> "Так и есть. Я доволен".
 <ce>
-<ce> All else is silent.
+<ce> Дальше только молчание.
 
 Message:  1019
-<ce> It appears you are incapable of leaving.
-<ce> You will have to find your foe to escape.
+<ce> Похоже, что вы не в состоянии уйти.
+<ce> Вам придется найти своего врага, чтобы спастись.
 
 Message:  1028
-<ce> Your Recall spell does not work as it should.
+<ce> Ваше заклинание "Возврат" не работает так, как должно.
 
 Message:  1030
 %qdt:
- _qgiver_ has warned me
- concerning ominous plots against my
- life made by various factions.
- He has insisted that I exercise
- caution when I go out.
+ _qgiver_ предупредил меня о зловещих
+ заговорах против моей жизни,
+ затеянных различными группировками.
+ Он настаивал на том, что мне нужно
+ быть осторожным, выходя на улицу.
 
 Message:  1031
 %qdt:
- I have been captured by an unknown enemy
- and teleported into a dark labyrinth.
+ Я был захвачен неизвестным врагом
+ и телепортирован в темный лабиринт.
 
 QBN:
 

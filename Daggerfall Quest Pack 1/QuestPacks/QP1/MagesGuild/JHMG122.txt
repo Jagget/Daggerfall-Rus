@@ -1,78 +1,78 @@
 Quest: JHMG122
-DisplayName: To Slay the Immortal
+DisplayName: Убить бессмертного
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We have a most unusual request from the %t.
-<ce> A truly immortal being, a criminal of a most suspect class,
-<ce> has taken up residence in a cave in %crn.
-<ce> The Fighters Guild, the City Watch, mercenaries,
-<ce> and all others have failed to kill this foe.
-<ce> They turn to us in their desperation,
-<ce> offering ten thousand gold coins
-<ce> for the successful dispatching of this foe.
-<ce> Creativity and tenacity must be yours
-<ce> if you intend to claim this prize, %pct.
+<ce> У нас есть самое необычное поручение. Подпись -
+<ce> %t. Так вот, существо, поистине бессмертное,
+<ce> преступник самого подозрительного звания,
+<ce> обосновалось в пещере в %crn. Гильдия Бойцов,
+<ce> городская стража, наёмники — все они не смогли
+<ce> убить этого врага. В своём отчаянии они
+<ce> обращаются к нам, предлагая десять тысяч золотых
+<ce> монет за успешное устранение этого противника. Вы
+<ce> должны применить все ваше творчество и упорство,
+<ce> если намерены завоевать этот приз, %pct.
 
 RefuseQuest:  [1001]
-<ce> I wonder who will ever stop this scourge upon Tamriel.
+<ce> Интересно, кто же тогда остановит это бедствие на Тамриэле.
 
 AcceptQuest:  [1002]
-<ce> I wouldn't believe the reports of immortality,
-<ce> save for the abundance of eyewitness testimony to the effect.
-<ce> Where these powers came from, I cannot say, but this is
-<ce> an enemy of a most unique class. Look for a steel-clad warrior
-<ce> in ___mondung_. With any luck, your foe will be the only sapient
-<ce> being in the hole. Rather easy to find, I suppose.
-<ce> "Korilus" is the monicker this foe has taken on, so perhaps
-<ce> you'll get some response to that name.
-<ce> Kill this immortal fighter and return here
-<ce> within =timer_ days, and the gold shall be yours.
+<ce> Я бы не поверил сообщениям о бессмертии, если бы не
+<ce> множество свидетельств очевидцев. Откуда взялись эти силы,
+<ce> сказать не могу, но это враг самого уникального класса.
+<ce> Ищите воина в стальных доспехах в ___mondung_. Если
+<ce> повезёт, ваш противник будет единственным разумным
+<ce> существом в этой дыре. Найти его, предположу, будет
+<ce> довольно просто. "Корилус" — такое имя взял себе этот
+<ce> враг, так что, возможно, на это имя вы получите какой-то
+<ce> ответ. Убейте этого бессмертного воина и вернитесь сюда в
+<ce> течение =timer_ дней, и золото будет вашим.
 
 QuestFail:  [1003]
-<ce> You were to report on Korilus' death by now.
+<ce> Вы уже должны были доложить о смерти Корилуса.
 
 QuestComplete:  [1004]
-<ce> A couple of burly servants of the %t approach you
-<ce> and give respectful nods. After hurling two large bags of gold
-<ce> at your feet, they depart without a word.
+<ce> %t и пара крепких слуг подходят к вам и кивают
+<ce> в знак уважения. Бросив у ваших ног два больших
+<ce> мешка золота, они уходят без лишних слов.
 
 RumorsPostSuccess:   [1007]
-The legendary warrior Korilus was slain. I can scarcely believe it!
+Легендарный воин Корилус был убит. В это трудно поверить!
    <--->
-Korilus has been sent to Aetherius.  What next, will gods die?
+Корилус был отправлен в Этериус. Что дальше, умрут ли боги?
    <--->
-Korilus' reign of terror has ended!
+Царствованию террора Корилуса пришел конец!
 
 Message:  1010
-<ce> Somewhere in this cave is the lair of Korilus,
-<ce> the so-called immortal warrior.
+<ce> Где-то в этой пещере находится логово Корилуса,
+<ce> так называемого бессмертного воина.
 
 Message:  1011
-<ce> This foe has the appearance of a normal warrior,
-<ce> but something else is afoot. You feel immense power
-<ce> radiating out toward you, as if to knock you over.
-<ce> Your foe's eyes betray no mercy. The battle commences.
+<ce> Этот враг выглядит как обычный воин, но что-то здесь
+<ce> не так. Вы чувствуете, как мощная сила излучается в вашу
+<ce> сторону, словно пытаясь сбить вас с ног. В глазах вашего
+<ce> противника не видно милосердия. Начинается битва.
 
 Message:  1012
-<ce> "I... die?"
+<ce> "Я... умираю?"
 <ce>
-<ce> Korilus can scarcely believe what is happening.
-<ce> But all of a sudden, it is over. All life is gone.
-<ce> You have a reward to claim, and fame to boot.
+<ce> Корилус едва может поверить в то, что происходит.
+<ce> Но вдруг всё заканчивается. Жизнь уходит. Вас ждет
+<ce> награда и слава в придачу.
 
 Message:  1013
-<ce> Oh, this is a tale not to be forgotten.
-<ce> No hack-and-slash barbarian is capable of doing what
-<ce> you have now accomplished! I'll send a missive
-<ce> requesting your reward. They didn't seriously think
-<ce> you would be able to accomplish it, so they don't
-<ce> have the money available yet. Just wait around
-<ce> ___questgiver_ for a day or so, and it should
-<ce> arrive, I expect.
+<ce> О, это история, которую не забудут. Ни один
+<ce> варвар-рубака не способен сделать то, что
+<ce> вы только что совершили! Я отправлю
+<ce> сообщение с просьбой о вашей награде. Они
+<ce> всерьёз не думали, что вы справитесь, так
+<ce> что денег пока нет в наличии. Просто
+<ce> подождите в ___questgiver_ день или около
+<ce> того, и я ожидаю, что она прибудет.
 <ce>
-<ce> What a story, %pcf!
+<ce> Что за история, %pcf!
 
 Message:  1030
 %qdt:
