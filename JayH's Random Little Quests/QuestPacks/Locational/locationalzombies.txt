@@ -1,48 +1,48 @@
 Quest: locationalzombies
-DisplayName: Locational Zombies from QP1
+DisplayName: Зомби (Квест Пак 1)
 -- Message panels
 QRC:
 
 RumorsDuringQuest:   [1005]
-___city_'s having problems with the living dead these days.
+В наши дни ___city_ испытывает проблемы с живыми мертвецами.
 <--->
-The %rt's trying to get rid of the zombies in ___city_.
+%rt пытается избавиться от зомби в ___city_.
 <--->
-The %rt promised to send more forces to clear out the shambling hordes in ___city_.
+%rt пообещал прислать дополнительные силы, чтобы очистить ___city_ от бродячих орд.
 <--->
-___city_'s got problems with walking corpses again.
+В ___city_ снова проблемы с ходячими трупами.
 <--->
-___city_'s haunted by zombies.
+___city_ донимают зомби.
 
 RumorsPostFailure:   [1006]
-The %rt cleared those zombies out of ___city_.
+%rt вычистили зомби из ___city_.
 <--->
-___city_ got over its zombie problem!
+___city_ удалось справиться с проблемой зомби!
 <--->
-The %rt had to hire an army to get the undead out of ___city_.
+%rt пришлось нанять армию, чтобы выгнать нежить из ___city_.
 
 Message:  1010
-<ce> You see a warning sign on a post as you approach ___city_.
+<ce> Вы видите предупреждающий знак на столбе по мере приближения к ___city_.
 <ce>
-<ce> "From the %rt, rn:
-<ce> I am aware of the current nocturnal zombie problem in this town
-<ce> and will soon have them disposed of. Some renegade
-<ce> necromancer is hiding in this city. Once we find him or her,
-<ce> the problem will end. Please inform the local authorities
-<ce> as to any signs of his/her activity."
+<ce> "От %rt, %rn:
+<ce> Я осведомлен о текущей проблеме с ночными зомби в этом городе
+<ce> и скоро займусь их уничтожением. Какой-то отступник-некромант
+<ce> прячется в этом городе. Как только мы его или её найдем,
+<ce> проблема исчезнет. Пожалуйста, информируйте местные власти
+<ce> о любых признаках его/её деятельности."
 <--->
-<ce> Someone has posted a warning outside ___city_.
+<ce> Кто-то вывесил предупреждение за пределами ___city_.
 <ce>
-<ce> "Beware of zombies! Do not venture out at night!
-<ce> The %rt will consults even now with priests for a solution.
-<ce> Travel in groups at night or stay indoors!"
+<ce> "Остерегайтесь зомби! Не рискуйте выходить ночью! %rt даже
+<ce> сейчас консультируется со священниками чтобы найти решение.
+<ce> Передвигайтесь ночью группами или оставайтесь дома!"
 <--->
-<ce> You see someone has posted a warning outside ___city_.
+<ce> Вы видите, что кто-то вывесил предупреждение за пределами ___city_.
 <ce>
-<ce> "Travelers be warned that many citizens have seen
-<ce> corpses walking around the city streets at night.
-<ce> They are considered dangerous.
-<ce> The %rt promises to dispose of them soon."
+<ce> "Путешественников предупреждают, что многие
+<ce> граждане видели, как трупы ходят по улицам
+<ce> города ночью. Они считаются опасными.
+<ce> %rt обещает скоро избавиться от них."
 
 QBN:
 

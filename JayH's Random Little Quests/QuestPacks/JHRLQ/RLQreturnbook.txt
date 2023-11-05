@@ -24,7 +24,7 @@ Message:  1011
 <ce>
 <ce> He places the book in your hands and heads off
 <ce> to leave the town.
-                                     <--->
+   <--->
 <ce> "Thank you! _building_ is %di from here.
 <ce> Please make sure it's there before 12 hours have passed."
 <ce>

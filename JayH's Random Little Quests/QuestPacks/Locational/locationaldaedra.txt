@@ -1,40 +1,40 @@
 Quest: locationaldaedra
-DisplayName: Locational Daedra from QP1
+DisplayName: Даэдра (Квест Пак 1)
 -- Message panels
 QRC:
 
 RumorsDuringQuest:   [1005]
-___city_'s having problems with daedra these days.
+В ___city_ сейчас проблемы с даэдра.
 <--->
-%god have mercy on ___city_, suffering from a daedra attack.
+%god сжалься над ___city_, страдающий от нападения даэдра.
 <--->
-___city_'s got problems with daedra.
+В ___city_ проблемы с даэдра.
 <--->
-___city_'s filled with daedra.
+___city_ наполнен даэдра.
 
 RumorsPostFailure:   [1006]
-The %rt cleared those daedra out of ___city_.
+%rt вычистил даэдра из ___city_.
 <--->
-The %rt had to hire an army to get those daedra out of ___city_.
+%rt пришлось нанять армию, чтобы выгнать даэдра из ___city_.
 
 Message:  1010
-<ce> You see a warning sign on a post as you approach ___city_.
+<ce> Вы видите предупреждающий знак на столбе по мере приближения к ___city_.
 <ce>
-<ce> "Travelers to ___city_,
-<ce> An amateur daedra summoner opened a portal to Oblivion,
-<ce> and demons have been spotted in the city ever since.
-<ce> The threat they pose cannot be overstated.
-<ce> Stay indoors whenever possible.
-<ce> I am rallying forces to slay them even now.
-<ce> Dutifully,
+<ce> "Путешественники в ___city_,
+<ce> новичок-призыватель даэдра открыл портал в Обливион,
+<ce> и с тех пор в городе были замечены демоны. Угрозу,
+<ce> которую они представляют, невозможно переоценить.
+<ce> По возможности оставайтесь дома.
+<ce> Я даже сейчас собираю силы, чтобы уничтожить их.
+<ce> Покорно,
 <ce> The %rt, %rn."
 <--->
-<ce> Someone has posted a warning outside ___city_.
+<ce> Кто-то вывесил предупреждение за пределами ___city_.
 <ce>
-<ce> "Rogue mage has summoned daedra against this city.
-<ce> They will attack anyone in sight. Flee or defend yourself
-<ce> as best suits you. The %rt will soon send aid.
-<ce> Stay indoors until further word arrives."
+<ce> "Маг-изгой призвал даэдра против этого города. Они нападут на
+<ce> любого, кто попадется им на глаза. Бегите или защищайтесь,
+<ce> как вам больше подходит. %rt скоро пришлет помощь.
+<ce> Оставайтесь дома, пока не поступят дальнейшие известия."
 
 QBN:
 

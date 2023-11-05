@@ -16,7 +16,7 @@ Message:  1011
 <ce> have to spend my savings at the temple. If you
 <ce> want to go in and clean the rest, I'll split
 <ce> the reward with you. You in?"
-                                     <--->
+   <--->
 <ce> A warrior spattered with blood all around hails you.
 <ce>
 <ce> "Hail. I have an assignment from the Fighters Guild
@@ -32,11 +32,11 @@ Message:  1012
 <ce> doesn't have your back when things get bad."
 <ce>
 <ce> The wounded warrior heads off to find the temple.
-                                     <--->
+   <--->
 <ce> "Oh well. It was worth a shot."
 <ce>
 <ce> The fighter moves on to find a cure.
-                                     <--->
+   <--->
 <ce> "Maybe it's for the better. I should
 <ce> head back to the farm."
 <ce>

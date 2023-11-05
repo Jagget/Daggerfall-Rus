@@ -31,7 +31,7 @@ Message:  1010
 <ce> If you've got a strong arm and a few hours,
 <ce> would you be able to chop some for me?
 <ce> I'll pay you, honest."
-                                     <--->
+   <--->
 <ce> A weary, elderly peasant opportunes
 <ce> people in the area for help with something.
 <ce> She then approaches you, and asks for your

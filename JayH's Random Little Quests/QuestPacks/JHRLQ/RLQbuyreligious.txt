@@ -15,7 +15,7 @@ Message:  1011
 <ce> Of the few remaining objects, you notice one
 <ce> _weapon_ in good shape. The price tag on it says
 <ce> 150 gold. Will you buy it?
-                                     <--->
+   <--->
 <ce> A priest calls out, "Clearance sale!
 <ce> The Temple of %god has no further need for these goods!"
 <ce> He stands behind a pile of rapidly diminishing trinkets.

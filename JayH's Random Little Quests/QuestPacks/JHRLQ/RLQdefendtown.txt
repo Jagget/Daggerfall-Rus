@@ -31,7 +31,7 @@ Message:  1013
 <ce> An arduous battle commences, and the ranger falls.
 <ce> Out of fear of being caught, the criminals
 <ce> rush away from the city to plan their next scheme.
-                                     <--->
+   <--->
 <ce> You take advantage of the fog to stay out of sight.
 <ce> An arduous battle commences, and the criminals fall.
 <ce> Members of the city watch arrive afterwards to

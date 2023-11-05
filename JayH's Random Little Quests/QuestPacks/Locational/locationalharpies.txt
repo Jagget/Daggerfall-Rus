@@ -1,49 +1,49 @@
 Quest: locationalharpies
-DisplayName: Locational Harpies from QP1
+DisplayName: Гарпии (Квест Пак 1)
 -- Message panels
 QRC:
 
 RumorsDuringQuest:   [1005]
-___city_'s having problems with harpies these days.
+В последнее время в ___city_ проблемы с гарпиями.
 <--->
-The %rt's trying to get rid of the harpies in ___city_.
+%rt пытается избавиться от гарпий в ___city_.
 <--->
-The %rt promised to send more forces to clear out the harpies in ___city_.
+%rt пообещал направить больше сил, чтобы очистить ___city_ от гарпий.
 <--->
-___city_'s got problems with harpies again.
+В ___city_ снова проблемы с гарпиями.
 <--->
-___city_'s infested with harpies.
+___city_ кишит гарпиями.
 
 RumorsPostFailure:   [1006]
-The %rt cleared those harpies out of ___city_.
+%rt вычистила этих гарпий из ___city_.
 <--->
-___city_ got over its harpy problem!
+___city_ справился со своей проблемой с гарпиями!
 <--->
-The %rt had to pay a fortune to get those harpies out of ___city_.
+%rt пришлось заплатить целое состояние, чтобы вывезти этих гарпий из ___city_.
 
 Message:  1010
-<ce> You see a warning sign on a post as you approach ___city_.
+<ce> Вы видите предупреждающий знак на столбе по мере приближения к ___city_.
 <ce>
-<ce> "WARNING! City infested with harpies. Stay indoors
-<ce> when possible! Limit travel! Carry weapons!
-<ce> The %rt does NOT need help from adventurers
-<ce> to kill them!"
+<ce> "ВНИМАНИЕ! Город заражен гарпиями. По возможности
+<ce> оставайтесь дома! Ограничьте перемещения! Носите
+<ce> оружие! %rt НЕ требуется помощь от искателей
+<ce> приключений для их убийства!"
 <--->
-<ce> Someone has posted a warning outside ___city_.
+<ce> Кто-то вывесил предупреждение за пределами ___city_.
 <ce>
-<ce> "Beware of harpies! City infested! Stay indoors and
-<ce> allow them no food! The %rt will
-<ce> soon send experts to dispose of them,
-<ce> your tax coins at work! Adventurers need not apply!"
+<ce> "Остерегайтесь гарпий! Город заражен! Оставайтесь в помещении
+<ce> и не давайте им пищу! %rt скоро отправит экспертов, чтобы
+<ce> избавиться от них, ваши налоги работают как положено!
+<ce> Искателям приключений не стоит подавать заявки!"
 <--->
-<ce> You see someone has posted a warning outside ___city_.
+<ce> Вы видите, что кто-то вывесил предупреждение за пределами ___city_.
 <ce>
-<ce> "Message from %rn, the %rt:
-<ce> Some idiot citizen allowed harpy eggs to lay and hatch in
-<ce> their abandoned house, and now the city suffers from their
-<ce> presence. You'll most likely be safe if you stay indoors.
-<ce> Please be responsible and keep your homes clean to prevent this!
-<ce> Your tax coins are spent for this effort!"
+<ce> "Сообщение от %rn, %rt:
+<ce> Какой-то идиот из граждан позволил гарпиям отложить яица и
+<ce> вывести их в его заброшенном доме, и теперь город страдает от их
+<ce> присутствия. Вы, скорее всего, будете в безопасности, если останетесь
+<ce> дома. Пожалуйста, будьте ответственными и держите ваши дома в чистоте,
+<ce> чтобы предотвратить это! Ваши налоги тратятся на эти усилия!"
 
 QBN:
 

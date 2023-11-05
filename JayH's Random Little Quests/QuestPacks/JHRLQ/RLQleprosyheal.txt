@@ -44,7 +44,7 @@ Message:  1013
 <ce> He then runs through the streets, shouting for joy.
 <ce> It appears your reputation in %crn
 <ce> is about to improve a little.
-                                     <--->
+   <--->
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: MEDICAL)
 <ce>
 <ce> His case is quite advanced, and a lesser physician would
@@ -59,7 +59,7 @@ Message:  1013
 <ce> He then runs through the streets, shouting for joy.
 <ce> It appears your reputation in %crn
 <ce> is about to improve a little.
-                                     <--->
+   <--->
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: MEDICAL)
 <ce>
 <ce> His case is quite advanced, and a lesser physician would
@@ -88,7 +88,7 @@ Message:  1014
 <ce> He then runs through the streets, shouting for joy.
 <ce> It appears your reputation in %crn
 <ce> is about to improve a little.
-                                     <--->
+   <--->
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: RESTORATION)
 <ce>
 <ce> His case is quite advanced, enough to daunt the temple healers.
@@ -101,7 +101,7 @@ Message:  1014
 <ce> He then runs through the streets, shouting for joy.
 <ce> It appears your reputation in %crn
 <ce> is about to improve a little.
-                                     <--->
+   <--->
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: RESTORATION)
 <ce>
 <ce> His case is quite advanced, enough to daunt the temple healers.
