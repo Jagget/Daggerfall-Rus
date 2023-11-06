@@ -63,18 +63,18 @@ Message:  1021
 <ce> lending to momentary distraction. Will you
 <ce> attempt to take it for yourself?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: YES: Pickpocket, difficulty low)
-<ce> (ИЛИ ПРОВЕРКА НАВЫКА: YES: Stealth, difficulty medium)
+<ce> (ПРОВЕРКА НАВЫКА: ДВ: Карманные кражи, difficulty low)
+<ce> (ИЛИ ПРОВЕРКА НАВЫКА: ДА: Скрытность, difficulty medium)
 
 Message:  1022
-<ce> (STEALTH/PICKPOCKET CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Скрытность/Карманные кражи)
 <ce>
 <ce> This is all too easy for one of your skill set.
 <ce> The bag of money is now yours, adding an
 <ce> additional =stealg_ gold pieces to your count.
 
 Message:  1023
-<ce> (STEALTH/PICKPOCKET CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Скрытность/Карманные кражи)
 <ce>
 <ce> Your movement while grabbing the coin bag is too
 <ce> obvious. Someone peering over sees that you have
@@ -90,7 +90,7 @@ Message:  1023
 <ce> work on your thieving skills before trying
 <ce> to rip off your clients.
    <--->
-<ce> (STEALTH/PICKPOCKET CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Скрытность/Карманные кражи)
 <ce>
 <ce> Your movement while grabbing the coin bag is too
 <ce> obvious. Someone peering over sees that you have

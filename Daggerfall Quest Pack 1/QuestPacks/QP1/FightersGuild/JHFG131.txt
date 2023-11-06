@@ -50,7 +50,7 @@ Message:  1011
 <ce>
 <ce> Do you try to teach _kid_ about using a sword?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: YES: Long Blade, difficulty medium)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Длинные клинки, средняя сложность)
 
 Message:  1012
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)

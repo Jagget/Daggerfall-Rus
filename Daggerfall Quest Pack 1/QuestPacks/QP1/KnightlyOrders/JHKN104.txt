@@ -1,127 +1,126 @@
 Quest: JHKN104
-DisplayName: City Under Siege
+DisplayName: Город в осаде
 -- Message panels
+-- _gem_ было использовано только для названия, переведено как "Янтарь"
 QRC:
 
 ----todo: add siege sound effects
 
 QuestorOffer:  [1000]
-<ce> %pcn, I do not know if you have heard the rumors.
-<ce> Allow me to explain the situation. Some outlaw band
-<ce> of renegade warriors, the Knights of the _gem_, are
-<ce> attempting to gain legitimacy for themselves by taking
-<ce> an entire city by force, that is, ___questgiver_.
-<ce> The forces of %crn have stomped out a few
-<ce> their encampments, but they have escaped us, and now
-<ce> word has come that a full assault will soon be upon us.
-<ce> Will you stand watch with me to see whether these
-<ce> things are so, good knight?
+<ce> %pcn, я не знаю, дошли ли до вас эти слухи.
+<ce> Позвольте мне объяснить ситуацию. Некая банда
+<ce> воинов-отступников, Рыцари Янтаря,
+<ce> пытаются добиться легитимности для себя, захватив
+<ce> целый город силой, то есть ___questgiver_.
+<ce> Силы %crn растоптали несколько
+<ce> их лагерей, но они ускользнули от нас, и теперь
+<ce> пришло известие, что скоро на нас начнется полномасштабное наступление.
+<ce> Постоите ли Вы со мной на страже, чтобы увидеть,
+<ce> правдивы ли эти слухи, добрый рыцарь?
 
 RefuseQuest:  [1001]
-<ce> Then go quickly, %pcf. I don't want a
-<ce> coward to die in the impending bloodshed.
+<ce> Тогда уходи скорее, %pcf. Я не хочу, чтобы
+<ce> трус погиб в предстоящем кровопролитии.
 
 AcceptQuest:  [1002]
-<ce> Very good. Stand here until
-<ce> they bring us word.
+<ce> Очень хорошо. Ждите здесь, пока
+<ce> нам не принесут известие.
 
 QuestFail:  [1003]
-<ce>
+<ce> Задание провалено.
 
 QuestComplete:  [1004]
-<ce> A page bearing the banner of %crn
-<ce> draws near and bows before you
-<ce> before reading from a scroll.
+<ce> Паж со знаменем %crn
+<ce> приближается, склоняется перед вами
+<ce> и начинает зачитывать свиток.
 <ce>
-<ce> "%pcn, Knight Protectorate of %crn,
-<ce> we salute the service you have performed
-<ce> this day, bringing swift justice to renegades
-<ce> and outlaws who put this city into peril. May
-<ce> %god be with you in your endeavors
-<ce> to preserve justice and civilization."
+<ce> "%pcn, рыцарь-протекторат %crn,
+<ce> мы приветствуем службу, которую вы оказали
+<ce> в этот день, быстро верша правосудие над отступниками
+<ce> и преступниками, которые подвергают этот город опасности. Пусть
+<ce> %god будет с вами в ваших усилиях
+<ce> по сохранению справедливости и цивилизации".
 <ce>
-<ce> Others begin to move and clean up the bodies.
-<ce> The assault is over, and life can resume once more.
+<ce> Остальные начинают убирать тела.
+<ce> Штурм окончен, и жизнь продложается.
 
 RumorsDuringQuest:  [1005]
-Some Dark Elf has been taking loans out from banks and not paying them back. That's worth a hanging.
+Какой-то Темный Эльф брал кредиты в банках и не возвращал их. За это стоит повесить.
 
 RumorsPostFailure:  [1006]
-__questgiver_ managed to save ___palace_ from enemy knights.
+__questgiver_ сумели спасти ___palace_ от вражеских рыцарей.
 
 RumorsPostSuccess:  [1007]
-___palace_ is safe once more, thanks to %pcn.
+___palace_ снова в безопасности, благодаря %pcn.
    <--->
-%pcn, for the __questgiver_, saved ___palace_.
+%pcn, из __questgiver_, спас ___palace_.
 
 Message:  1010
-<ce> A page bearing the crest of %crn
-<ce> swiftly approaches _questgiver_
-<ce> and presents %g2 with a sealed letter, which
-<ce> %g1 hastily opens, after which %g1 signals to you.
+<ce> Паж с гербом %crn
+<ce> стремительно приближается к _questgiver_
+<ce> и вручает %g2 запечатанное письмо, которое
+<ce> %g1 поспешно вскрывает, после чего подает вам сигнал.
 <ce>
-<ce> "It's begun! They will soon be upon us!
-<ce> Go out there and fight off what you can!
-<ce> I'll call for aid!"
+<ce> "Началось! Они вот-вот прибудут!
+<ce> Отправляйтесь туда и защищайтесь, как можете!
+<ce> Я позову на помощь!"
 
 Message:  1011
-<ce> As the first of the outlaws falls,
-<ce> you hear a roaring cry.
+<ce> Когда первый из разбойников падает,
+<ce> вы слышите крик.
 <ce>
-<ce> "Kill them all! This is the day
-<ce> we take back ___palace_!
-<ce> For the Knights of the _gem_!"
+<ce> "Убейте их всех! В этот день
+<ce> мы вернем себе ___palace_!
+<ce> За Рыцарей Янтаря!"
 
 Message:  1012
-<ce> A spellsword approaches and shouts a battle cry.
+<ce> Приближается заклинатель и выкрикивает боевой клич.
 <ce>
-<ce> "You're not alone, %pcf! I'm here to help!"
+<ce> "Ты не один, %pcf! Я здесь, чтобы помочь!"
 <ce>
-<ce> You hear the sound of magic elsewhere in the city.
-<ce> The spellswords must be here to defend ___palace_.
+<ce> Вы слышите звуки применения магии по всему городу.
+<ce> Должно быть, заклинатели пришли защищать ___palace_.
    <--->
-<ce> A spellsword approaches and shouts a battle cry.
+<ce> Приближается заклинатель и выкрикивает боевой клич.
 <ce>
-<ce> "We'll do this together, %pcf! I'll help you!"
+<ce> "Мы сделаем это вместе, %pcf! Я помогу тебе!"
 <ce>
-<ce> You hear the sound of magic elsewhere in the city.
-<ce> The spellswords must be here to defend ___palace_.
+<ce> Вы слышите звуки применения магии по всему городу.
+<ce> Должно быть, заклинатели пришли защищать ___palace_.
 
 Message:  1020
-<ce> A guard signals to you and shouts,
-<ce> "They're in the Palace! Go, quickly! Stop them!"
+<ce> Стражник подает вам сигнал и кричит,
+<ce> "Они во Дворце! Вперед, быстро! Остановите их!"
 <ce>
-<ce> Your companions urge you to hurry.
-<ce> They'll clean up here, it appears.
+<ce> Ваши спутники призывают вас поторопиться.
+<ce> Похоже, они наведут здесь порядок.
 
 Message:  1024
-<ce> Hiding away will not help ___questgiver_, %pct.
+<ce> Прятки не помогут ___questgiver_, %pct.
 
 Message:  1030
 %qdt:
- It seems all-out war has broken
- out between the forces of
- %crn and some renegade
- group of knight pretenders
- called the Knights of the _gem_
- in the city of ___palace_.
- I must defend the town as well
- as I can for my own part.
+ Похоже, что началась тотальная война
+ между силами
+ %crn и какой-то отступнической
+ группой рыцарей-притворщиков
+ называемой Рыцарями Янтаря.
+ в городе ___palace_.
+ Я должен защищать город так хорошо, как
+ насколько это в моих силах.
 
 Message:  1031
 %qdt:
- The guards have told me to hurry
- to the _palace_ in ___palace_,
- as it appears the invaders
- have entered it.
+ Стража велела мне поспешить
+ к _palace_ в ___palace_,
+ поскольку, похоже, захватчики
+ уже там.
 
 Message:  1099
-<ce> Protect ___palace_, %pcf!
-<ce> They are nearly upon us!
+<ce> Защитите ___palace_, %pcf!
+<ce> Они уже почти настигли нас!
 
 QBN:
-Item _gem_ gem
-
 Person _questgiver_ group Questor male
 
 Place _palace_ local palace

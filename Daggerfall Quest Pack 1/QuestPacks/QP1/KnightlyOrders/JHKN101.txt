@@ -19,65 +19,65 @@ RefuseQuest:  [1001]
 <ce> Неудачный ответ.
 
 AcceptQuest:  [1002]
-<ce> The %t has made abundantly
-<ce> clear that this activity is illegal.
-<ce> You are authorized to put to death
-<ce> any who attempt it further. Hurry to
-<ce> ___dungeon_ and make clear the
-<ce> intent of our good ruler. I expect
-<ce> this to be resolved in =timer_ days.
-<ce> Go now, %pcf.
+<ce> %t ясно дали понять, что эта
+<ce> деятельность незаконна. Вы
+<ce> уполномочены предать смерти любого,
+<ce> кто попытается сделать это. Поспешите
+<ce> в ___dungeon_ и разъясните намерения
+<ce> нашего доброго правителя. Я ожидаю,
+<ce> что все будет улажено через =timer_
+<ce> дней. Отправляйтесь сейчас, %pcf.
 
 QuestFail:  [1003]
-<ce> _qgiver_ expected your report
-<ce> regarding the dragonlings by now.
+<ce> _qgiver_ уже ожидал вашего
+<ce> отчета о дракончиках.
 
 QuestComplete:  [1004]
-<ce> Excellent work. Let no one
-<ce> disobey the %t with impunity.
+<ce> Отличная работа. Пусть никто не
+<ce> нарушит закон безнаказанно.
 
 RumorsDuringQuest:  [1005]
-Some unlucky soul from the Fighters Guild got sent to kill a daedroth.
+Какую-то невезучую душу из Гильдии Бойцов послали убить даэдрота.
 
 Message:  1020
-<ce> The message has been made
-<ce> abundantly clear. These corpses
-<ce> will serve as a warning to any
-<ce> others who trespass here.
+<ce> Послание предельно ясно.
+<ce> Эти трупы будут служить
+<ce> предупреждением для тех,
+<ce> кто вторгнется сюда.
 
 Message:  1021
-<ce> You get the sinking feeling
-<ce> that this is not what you
-<ce> were supposed to do.
+<ce> У вас возникает тоскливое чувство,
+<ce> что это не то,
+<ce> что вы должны были делать.
 
 Message:  1022
-<ce> Slow down, knight thug. We're more trouble than
-<ce> you can handle. My buddies and me are gonna find
-<ce> this dragon whether you like it or not, so I'll
-<ce> make it easy. Here's =bribe_ gold pieces if you
-<ce> leave us in peace.
+<ce> Помедленнее, рыцарь-головорез. От нас больше
+<ce> проблем, чем вы можете выдержать. Мы с
+<ce> приятелями найдем этого дракона, нравится вам
+<ce> это или нет, так что я облегчу вам задачу. Вот
+<ce> =bribe_ золотых, если вы оставите нас в покое.
    <--->
-<ce> Think fast, knight. I've got =bribe_ gold pieces
-<ce> for you if you look the other way and leave my
-<ce> buddies and me alone. We need that dragon,
-<ce> over your dead body or not.
+<ce> Думай быстрее, рыцарь. У меня есть для вас
+<ce> =bribe_ золотых, если вы посмотрите в другую
+<ce> сторону и оставите меня и моих приятелей в покое.
+<ce> Нам нужен этот дракон, через ваш труп или нет.
 
 Message:  1023
-<ce> Smart %ra. Now get lost.
+<ce> Молодец, %ra. А теперь проваливай.
 
 Message:  1024
-<ce> Your funeral. You'll be sorry, %ra.
+<ce> Твои похороны. Ты пожалеешь, %ra.
 
 Message:  1030
 %qdt:
- _qgiver_ of
- ___qgiver_ has requested
- my aid in protecting a nest of
- dragonlings somewhere in
- __dungeon_. I must slay the
- invading poachers but none
- of the nesting dragons.
- I have =timer_ days.
+ _qgiver_ из
+ ___qgiver_ попросил
+ меня о помощи в защите гнезда
+ дракончиков где-то в
+ __dungeon_. Я должен уничтожить
+ вторгшихся браконьеров, но ни одного
+ из гнездящихся драконов.
+ У меня есть =timer_ дней.
 
 QBN:
 

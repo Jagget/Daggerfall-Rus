@@ -1,165 +1,165 @@
 Quest: JHKN102
-DisplayName: Inhospitable Guests
+DisplayName: Негостеприимство
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pcf, ==questgiver_ has
-<ce> need of your help once more. Mere days ago
-<ce> ___home_ was overtaken
-<ce> by a band of thugs who have taken
-<ce> to robbing, repossessing, and so on.
-<ce> It's too far for an ordinary patrol
-<ce> to deal with, and the cry has
-<ce> therefore come to us. Will you
-<ce> help these poor people?
+<ce> %pcf, ==questgiver_ снова нуждается в
+<ce> вашей помощи. Всего несколько дней назад
+<ce> ___home_ был захвачен бандой головорезов,
+<ce> которые занялись грабежами, конфискацией
+<ce> имущества и так далее. Это слишком
+<ce> далеко, чтобы обычный патруль мог
+<ce> справиться с этим, и поэтому на этот крик
+<ce> о помощи должны ответить мы. Поможете ли
+<ce> вы этим бедным людям?
 
 RefuseQuest:  [1001]
-<ce> I suppose I shouldn't be surprised.
+<ce> Полагаю, мне не стоит удивляться.
 
 AcceptQuest:  [1002]
-<ce> Go quickly now. The thugs should have
-<ce> no interest in killing the townspeople.
-<ce> Ensure you harm no innocents. Arrive
-<ce> at night if you must. The scoundrels
-<ce> are most certainly keeping watch, so
-<ce> once you appear on the property they will
-<ce> no doubt move to slay you. You have
-<ce> =timer_ days. %god be with you. The fate
-<ce> of ___home_ is in your hands.
+<ce> Поторопитесь. Отбейте головорезам
+<ce> интерес убивать горожан. Удостоверьтесь,
+<ce> что невинные не пострадают. Прибудьте
+<ce> ночью, если нужно. Негодяи, без
+<ce> сомнения, держат стражу, так что как
+<ce> только вы появитесь на территории, они
+<ce> непременно попытаются убить вас. У вас
+<ce> есть =timer_ дней. Пусть %god будет с
+<ce> вами. Судьба ___home_ в ваших руках.
 
 QuestFail:  [1003]
 <ce> _questgiver_
 
 QuestComplete:  [1004]
-<ce> You should feel proud, %pcf,
-<ce> for you have done a great deed.
-<ce> Such sacrifices are not forgotten.
+<ce> Вы должены гордиться, %pcf,
+<ce> потому что вы совершили великое дело.
+<ce> Такие жертвы не забываются.
 
 RumorsDuringQuest:  [1005]
-Lots of harpy feathers have appeared around ___questgiver_. Strange, isn't it?
+Вокруг ___questgiver_ появилось много перьев гарпий. Странно, не правда ли?
 
 Message:  1010
-<ce> Your entrance is noted, and the ruffians gather.
+<ce> Ваше приближение замечен, и головорезы спешат к вам.
 
 Message:  1011
-<ce> This band of thugs is no more.
+<ce> Этой банды головорезов больше нет.
 
 Message:  1020
-<ce> Once you step onto the property,
-<ce> a youth quickly scampers over
-<ce> and whispers into your ear.
+<ce> Как только вы ступаете на территорию,
+<ce> молодой человек быстро подбегает и
+<ce> шепчет вам на ухо.
 <ce>
-<ce> "Excuse me %ra, but we can't have
-<ce> you on this property. We resorted to
-<ce> the Dark Brotherhood's aid and they
-<ce> have saved us from our enemies. Please
-<ce> leave before a misunderstanding arises."
+<ce> "Простите, %ra, но мы не можем позволить вам
+<ce> находиться на этой территории. Мы прибегли к
+<ce> помощи Темного Братства, и они спасли нас от
+<ce> наших врагов. Пожалуйста, уходите, прежде
+<ce> чем возникнет недоразумение".
 <ce>
-<ce> This is clearly not how ==questgiver_
-<ce> would allow things to stand. Do you attempt
-<ce> to get the whereabouts of these
-<ce> members of the Dark Brotherhood?
+<ce> Ясно, что это не то, чему ==questgiver_
+<ce> позволил бы произойти. Пытаетесь ли вы
+<ce> узнать местоположение этих членов
+<ce> Темного Братства?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: YES: Etiquette, difficulty low)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Этикет, низкая сложность)
 
 Message:  1021
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> Your speaking ability leaves much to be desired.
-<ce> The child looks more and more agitated with each
-<ce> question. Finally the interrogation ends,
-<ce> and you are left empty-handed.
+<ce> Ваши ораторские способности оставляют желать
+<ce> лучшего. С каждым вопросом юноша выглядит все
+<ce> более взволнованным. Наконец допрос заканчивается,
+<ce> и вы остаетесь с пустыми руками.
 
 Message:  1022
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> Your speech skill delivers. The child's confidence
-<ce> in you rises as you explain what you have come to do and
-<ce> why the Dark Brotherhood will not bother this family
-<ce> any more if they trust you to help.
+<ce> Ваши навыки риторики дали о себе знать. Уверенность
+<ce> юноши растет, когда вы объясняете, зачем пришли и
+<ce> почему Темное Братство больше не будет беспокоить
+<ce> эту семью, если они доверятся вам.
 <ce>
-<ce> "Fine, but you'll do it quickly, right? My parents are
-<ce> miserable with those hooligans taking their stock as
-<ce> payment. I know they are staying at a nearby shrine,
-<ce> pretending to be pilgrims while they work a protection
-<ce> scheme. I can't remember which one it's called, but
-<ce> it's one of those Shrines of something or Altar to
-<ce> something. You know, the little domed places.
-<ce> They won't be far. I'm sure of it."
+<ce> "Ладно, но вы сделаете это быстро, верно? Мои
+<ce> родители в отчаянии, эти хулиганы берут их запасы
+<ce> в качестве оплаты. Я знаю, они остановились
+<ce> в близлежащем храме, притворяются паломниками, пока
+<ce> занимаются вымогательством. Я не помню, как он
+<ce> называется, но это один из тех храмов чего-то там
+<ce> или Алтарей к чему-то. Вы знаете, места с маленькими
+<ce> куполами. Они не далеко. Я уверен в этом."
 <ce>
-<ce> Fearing to be seen by someone more important, the
-<ce> youth wishes you luck and returns to the house.
+<ce> Опасаясь быть замеченным кем-то более важным, молодой
+<ce> человек желает вам удачи и возвращается в дом.
 
 Message:  1023
-<ce> It seems you have found the proper shrine.
-<ce> Rustling nearby indicates someone unhappy with your arrival.
+<ce> Похоже, вы нашли подходящее святилище.
+<ce> Шорох поблизости указывает на то, что кто-то недоволен вашим приходом.
 
 Message:  1027
-<ce> You decide not to interfere further.
-<ce> Perhaps this is what the family wants.
-<ce> You should inform _questgiver_.
+<ce> Вы решаете больше не вмешиваться.
+<ce> Возможно, это именно то, чего хочет семья.
+<ce> Вы должны сообщить об этом _questgiver_.
 
 Message:  1028
-<ce> This matter is definitely settled.
-<ce> Now to inform _questgiver_ that ___home_ is free.
+<ce> Этот вопрос определенно решен.
+<ce> Теперь сообщаем _questgiver_, что ___home_ свободен.
 
 Message:  1029
-<ce> Two rogues spring up nearby, arms in hand.
+<ce> Два разбойника внезапно появляются рядом, вооруженные до зубов.
 <ce>
-<ce> "Shoulda left well enough alone over at ___home_!
-<ce> Then we wouldn'a had to bury a body today!"
+<ce> "Не следовало бы тебе совать свой нос сюда, в ___home_!
+<ce> Тогда бы нам сегодня не пришлось хоронить труп!"
 
 Message:  1030
 %qdt:
- I have been sent from
- ___questgiver_ to a farm,
- ___home_, which has
- been taken captive by a band
- of criminals. I must free the
- captives and return to
- _questgiver_ within =timer_ days.
+ Меня послали из
+ ___questgiver_ на ферму,
+ ___home_, которая была
+ захвачена бандой
+ преступников. Я должен освободить
+ заложников и вернуться к
+ _questgiver_ в течение =timer_ дней.
 
 Message:  1031
 %qdt:
- ___home_ has been
- liberated by the Dark Brotherhood,
- one of its residents told me. I
- should return to ___questgiver_
- and report on this matter.
+ Ферма ___home_ была
+ освобождена Темным Братством,
+ как мне сообщил один из жителей. Мне
+ следует вернуться в ___questgiver_
+ и доложить об этом.
 
 Message:  1032
 %qdt:
- ___home_ has been
- liberated by the Dark Brotherhood,
- one of its residents told me. The
- assassins are staying at a nearby
- domed shrine, should I choose to
- hunt them down.
+ Ферма ___home_ была
+ освобождена Темным Братством,
+ как сообщил мне один из
+ жильцов. Ассасины
+ остановились в ближайшем
+ храме, если я решу их выследить.
 
 Message:  1033
-<ce> The thugs appear to have no identification or
-<ce> anything else to lead you to their source.
-<ce> With no lead to go on, your only recourse is
-<ce> to return to the Fighters Guild.
+<ce> У головорезов, похоже, нет никаких документов или
+<ce> чего-либо еще, что могло бы привести вас к их логову.
+<ce> Поскольку у вас нет зацепок для продолжения, ваш
+<ce> единственный выход - вернуться в Гильдию Бойцов.
 
 Message:  1040
-<ce> _questgiver_ looks deeply upset.
+<ce> _questgiver_ выглядит глубоко расстроенным.
 <ce>
-<ce> "The Dark Brotherhood? Protecting
-<ce> ___home_? This is a grievous
-<ce> report, %pct. We can do nothing more
-<ce> for now, though I will inform the %t.
-<ce> We cannot permit the powers of darkness
-<ce> further foothold in our fair land. I will
-<ce> credit you nonetheless for making the
-<ce> journey and ensuring their safety.
-<ce> Thank you for a good effort, %pcf."
+<ce> "Темное Братство? Защищает ___home_? Это
+<ce> печальные известия, %pct. Пока мы больше
+<ce> ничего не можем сделать, хотя %t должны
+<ce> знать. Мы не можем позволить силам тьмы
+<ce> еще больше закрепиться на нашей доброй
+<ce> земле. Тем не менее, я отдам вам должное
+<ce> за то, что вы совершили это путешествие и
+<ce> обеспечили безопасность. Спасибо за
+<ce> хорошую работу, %pcf".
 
 QBN:
 Person _questgiver_ group Questor male
 Person _dbdummy_ faction The_Dark_Brotherhood
--Person _nm_ named The_Night_Mother
+- Person _nm_ named The_Night_Mother
 
 Place _home_ remote farmhome
 

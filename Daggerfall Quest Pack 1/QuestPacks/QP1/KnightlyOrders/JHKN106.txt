@@ -1,95 +1,94 @@
 Quest: JHKN106
-DisplayName: Momento Retrieval
+DisplayName: Возвращение реликвии
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pct, it falls upon the knights of this
-<ce> order to restore honor when it has been stolen.
-<ce> A complaint has come to our door concerning
-<ce> a knave who murdered an honest citizen and
-<ce> then stole his weapon, a family heirloom.
-<ce> We can hardly resist and still consider ourselves
-<ce> defenders of %crn. Will you
-<ce> answer the call and retrieve the weapon?
+<ce> %pct, одной из миссий рыцарей этого ордена
+<ce> является восстановление чести, когда она
+<ce> была похищена. Мы получили жалобу на
+<ce> негодяя, который убил честного гражданина и
+<ce> украл его оружие, которое также является
+<ce> семейной реликвией. Наше обязательство
+<ce> по-прежнему остается в защите %crn. Готовы
+<ce> ли вы ответить на призыв вернуть это оружие?
 
 RefuseQuest:  [1001]
-<ce> Then occupy yourself in something you value
-<ce> more, %pcf. We have work to do here.
+<ce> Тогда займитесь тем, что для вас более важно, %pcf.
+<ce> У нас есть задача, которую нужно выполнить.
 
 AcceptQuest:  [1002]
-<ce> Then you will descend into the depths of
-<ce> ___dungeon_ and find the
-<ce> cruel beast who has done this crime. We
-<ce> merely hope the _weapon_ is
-<ce> still with the fool, such that recovering it
-<ce> will be no great chore. Have done with this
-<ce> and bring it to me in fewer than =timer_ days.
-<ce> Honor, virtue, and glory, %pcf.
+<ce> Тогда вы спуститесь в глубины ___dungeon_
+<ce> и найдете жестокого зверя, совершившего
+<ce> это преступление. Остается только
+<ce> надеяться, что _weapon_ все еще при там,
+<ce> и его извлечение не составит большого
+<ce> труда. Покончите с этим и принесите его
+<ce> мне более чем через =timer_ дней. Честь,
+<ce> добродетель и слава, %pcf.
 
 QuestFail:  [1003]
-<ce>
+<ce> Задание провалено.
 
 QuestComplete:  [1004]
-<ce> Excellent work, %pct. I shall have it
-<ce> delivered to _res_ this
-<ce> very day, so soon as one of our squires
-<ce> returns from an errand. The family will
-<ce> remember your name for generations.
-<ce> I assure you of it, honorable knight.
+<ce> Отличная работа, %pct. Я распоряжусь,
+<ce> чтобы это доставили в _res_ сегодня же,
+<ce> как только один из наших оруженосцев
+<ce> вернется с поручения. Семья будет помнить
+<ce> ваше имя в течение многих поколений.
+<ce> Уверяю вас в этом, достопочтенный рыцарь.
 
 Message:  1012
 <ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Выносливость)
 <ce>
-<ce> As soon as you enter, you step on a false tile.
-<ce> A disgusting gas begins to shoot into the air.
-<ce> You don't seem to suffer any immediate effects from it,
-<ce> but you wonder what it might have done to you.
+<ce> Как только вы входите, вы наступаете на фальш-плитку. В воздухе
+<ce> начинает распространяться отвратительный газ. Кажется, что он
+<ce> не оказывает на вас непосредственного воздействия, но вы
+<ce> задаетесь вопросом, что он мог с вами сделать.
 
 Message:  1013
 <ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Выносливость)
 <ce>
-<ce> As soon as you enter, you step on a false tile.
-<ce> A disgusting gas begins to shoot into the air.
-<ce> Your system is strong enough to fight it off
-<ce> until you reach cleaner air, and you emerge unscathed.
+<ce> Как только вы входите, вы наступаете на фальш-плитку.
+<ce> В воздухе начинает распространяться отвратительный
+<ce> газ. Ваш организм достаточно сильный, чтобы справиться
+<ce> с ним, пока вы не доберетесь до более чистого воздуха.
 
 Message:  1020
-<ce> The thief has been slain. You see
-<ce> the _weapon_ among the goods.
+<ce> Вор был убит. _weapon_ валяется среди вещей.
 
 Message:  1021
-<ce> Wait! Stop! Why are you after me?!
-<ce> Is it because of this _weapon_?
-<ce> They told me to hold on to it! I didn't
-<ce> do anything, by %god! Please, I'll
-<ce> give you the weapon, but just let me go!
+<ce> Подождите! Остановитесь! Почему Вы преследуете
+<ce> меня?! Это из-за этого _weapon_? Мне сказали
+<ce> держать его! Я ничего не сделал, %god знает!
+<ce> Пожалуйста, я отдам вам оружие, но только
+<ce> отпустите меня!
    <--->
-<ce> Someone help! This %ra's going to
-<ce> kill me! Please, stop! I promise,
-<ce> I didn't do anything! I'm just holding
-<ce> onto this _weapon_ for someone else!
-<ce> I'll give it to you, but let me go, please!
+<ce> Кто-нибудь, помогите! %ra убьет меня!
+<ce> Пожалуйста, остановитесь! Я клянусь, я ничего
+<ce> не делал! Я просто держу это _weapon_ для
+<ce> кое-кого другого! Я отдам его вам, но
+<ce> отпустите меня, пожалуйста!
 
 Message:  1022
-<ce> Your foe begins to sob bitterly
-<ce> as you press the attack.
+<ce> Ваш противник начинает горько рыдать,
+<ce> когда вы усиливаете атаку.
 
 Message:  1023
-<ce> Your foe throws the weapon at your feet
-<ce> and races away from you. By the time
-<ce> you pick it up, you have lost all
-<ce> trace of its previous holder.
+<ce> Ваш противник бросает оружие к вашим
+<ce> ногам и мчится прочь от вас. К тому
+<ce> времени, когда вы подбираете оружие,
+<ce> его уже и след простыл.
 
 Message:  1030
 %qdt:
- I have been sent from
- ___qgiver_ to a
- foul hole, ___dungeon_,
- to track down a murdering thief
- who has stolen a family heirloom.
- I must bring it to _qgiver_
- in =timer_ days' time.
+ Меня послали из
+ ___qgiver_ в
+ грязную дыру, ___dungeon_,
+ чтобы выследить вора-убийцу,
+ который украл семейную реликвию.
+ Мне нужно доставить ее в _qgiver_
+ через =timer_ дней.
 
 QBN:
 Person _qgiver_ group Questor male

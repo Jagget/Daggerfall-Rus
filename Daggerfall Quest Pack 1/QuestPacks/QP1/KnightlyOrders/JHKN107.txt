@@ -1,107 +1,107 @@
 Quest: JHKN107
-DisplayName: Master of Disguise
+DisplayName: Мастер маскировки
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We have reports concerning a shop
-<ce> in town, _shop_, of a
-<ce> tragic kind. For the past several days
-<ce> the town guard has hauled corpses of human
-<ce> beings out, all slain in the most gruesome
-<ce> fashion. They have no evidence as to who
-<ce> might be behind the slayings, but we here
-<ce> have some suspicions in mind. Will you
-<ce> be our agent in resolving these murders?
+<ce> У нас есть сообщение трагического характера
+<ce> о магазине _shop_, здесь, в городе.
+<ce> В течение последних нескольких дней
+<ce> городская стража вывозила оттуда трупы людей
+<ce> и существ, убитых самым жутким
+<ce> образом. У них нет никаких данных о том, кто
+<ce> может стоять за этими убийствами, но у нас
+<ce> есть некоторые подозрения. Не согласитесь ли вы
+<ce> быть нашим агентом в раскрытии этих убийств?
 
 RefuseQuest:  [1001]
-<ce> Of course. ___questgiver_ hasn't had
-<ce> enough havoc and chaos yet, after all.
+<ce> Конечно. В ___questgiver_ все еще
+<ce> мало хаоса и беспорядка, в конце концов.
 
 AcceptQuest:  [1002]
-<ce> Brave, %pcf, but you will need more than
-<ce> bravery alone to match this foe. Each emaciated
-<ce> corpse has been slain in a truly horrific manner,
-<ce> but we can pick out some details from each one.
-<ce> The blood is too profusely spilt for it to be a
-<ce> vampire. The kills are done silently, precluding a
-<ce> lycanthrope culprit. And merely looking at the
-<ce> dead bodies erases any thought of a human
-<ce> at work. No, this is a powerful enemy that
-<ce> we cannot detect. Do your work to search for the
-<ce> guilty party, and then go to _res_
-<ce> to find _priest_, a utility mage.
-<ce> Confront the suspect together and do your duty.
-<ce> I cannot give you more than two days to do this.
+<ce> Смело, %pcf, но вам потребуется нечто большее, чем
+<ce> храбрость, чтобы справиться с этим врагом. Каждый
+<ce> труп был убит поистине ужасающим образом,
+<ce> но мы можем выделить некоторые общие детали.
+<ce> Кровь пролита слишком обильно, чтобы это мог быть
+<ce> вампир. Убийства совершаются бесшумно, что исключает
+<ce> причасность оборотня. А один лишь взгляд на
+<ce> трупы стирает всякую мысль о человеческом
+<ce> участии. Нет, это могущественный враг, которого
+<ce> мы не можем обнаружить. Выполните свою работу по поиску
+<ce> виновного, а затем отправляйтесь в _res_,
+<ce> чтобы найти _priest_, бытового мага.
+<ce> Вместе вы справитесь с подозреваемым и выполните свой долг.
+<ce> Я не могу дать вам на это больше двух дней.
 
 QuestFail:  [1003]
-<ce> No matter what progress you might have made
-<ce> to solve the murders, _questgiver_
-<ce> will not accept how long it has taken you.
+<ce> Независимо от того, каких успехов вы могли бы достичь
+<ce> в раскрытии убийств, _questgiver_
+<ce> не согласится с тем, сколько времени у вас на это ушло.
 
 QuestComplete:  [1004]
-<ce> To think such a powerful foe can infiltrate
-<ce> this city and slay according to its will and
-<ce> pleasure is troubling. But you have proven
-<ce> yourself a knight of the first class.
+<ce> Подумать только, что такой могущественный враг может проникнуть в
+<ce> этот город и убивать по своему желанию и из
+<ce> удовольствия! Это вызывает беспокойство. Но вы показали
+<ce> себя рыцарем первого класса.
 
 Message:  1020
-<ce> Do you have need of me, %pcf?
-<ce> Find someone you consider suspicious
-<ce> and come for me again. I cannot risk
-<ce> being seen in public for long.
+<ce> Я вам нужен, %pcf?
+<ce> Найдите кого-нибудь, кого вы считаете подозрительным
+<ce> и приходите за мной снова. Я сильно рискую,
+<ce> долго находясь на людях.
 
 Message:  1021
-<ce> And what do you ask of me, beast? Will
-<ce> you not leave me alone? I told those guards
-<ce> to give me peace and play out their
-<ce> investigation elsewhere. Now leave, lest my
-<ce> pocket knife find its way into some part of
-<ce> you, and your murderer find you at last.
+<ce> И чего же ты хочешь от меня, чудовище? Неужели
+<ce> вы не оставите меня в покое? Я сказал этим стражникам,
+<ce> дать мне покой и продолжить свое
+<ce> расследование в другом месте. А теперь уходите, чтобы мой
+<ce> карманный нож не оказался в вашем ребре,
+<ce> и ваш убийца наконец-то не нашел вас.
 
 Message:  1022
-<ce> Ah, welcome, %pcf. Have you found
-<ce> someone to investigate? I can't be outdoors
-<ce> for long, as someone like myself has many
-<ce> foes. Let us hurry and see this person you
-<ce> speak of, and get to the truth of the matter.
+<ce> А, добро пожаловать, %pcf. Нашли ли вы
+<ce> кого-нибудь для расследования? Я не могу долго
+<ce> находиться вне дома, поскольку у такого человека, как я, много
+<ce> врагов. Давайте поспешим к тому человеку,
+<ce> о котором вы говорите, и докопаемся до истины.
 
 Message:  1023
-<ce> _culp_'s eyes flash red
-<ce> as the two of you draw near.
+<ce> Глаза _culp_ вспыхивают красным,
+<ce> когда вы двое приближаетесь.
 <ce>
-<ce> "I said leave me in peace! Leave
-<ce> this instant, I command you!"
+<ce> "Я сказал, оставь меня в покое! Уходите
+<ce> сию же минуту, я приказываю вам!"
 <ce>
-<ce> _priest_ begins chanting without
-<ce> hesitation, bringing into effect an incantation
-<ce> to dispel magicka. In moments the air around
-<ce> _culp_ begins to waver and
-<ce> shimmer, until you find yourself face to face
-<ce> with an enraged and inhuman foe.
+<ce> _priest_ начинает читать заклинание без
+<ce> колебаний, рассеивая магию.
+<ce> Через несколько мгновений воздух вокруг
+<ce> _culp_ начинает колебаться и
+<ce> мерцать, пока вы не оказались лицом к лицу
+<ce> с разъяренным и нечеловеческим врагом.
 
 Message:  1024
-<ce> _priest_ nearly collapses from the
-<ce> effort expended. Apparently %g1 is just as
-<ce> unsuited for powerful magical defenses as
-<ce> for combat. Eventually %g1 speaks to you.
+<ce> _priest_ почти теряет сознание от
+<ce> затраченных усилий. Очевидно, %g1 так же
+<ce> непригоден для мощной магической защиты, как и
+<ce> для боя. В конце концов %g1 обращается к вам.
 <ce>
-<ce> "Well, our mystery is solved. The city guard will
-<ce> soon be questioning the store's owner to find
-<ce> out the connections, history, and so on of this
-<ce> entire ordeal. I'll make it out on my own once
-<ce> I can walk. Head back to the garrison and
-<ce> report on our success."
+<ce> "Что ж, наша загадка раскрыта. Городская стража
+<ce> скоро будет допрашивать владельца магазина, чтобы
+<ce> выяснить связи, историю всего этого
+<ce> бардака и т.д. Я выберусь сам, как только
+<ce> я смогу ходить. Возвращайтесь в гарнизон и
+<ce> доложите о нашем успехе".
 
 Message:  1030
 %qdt:
- I must look for a murderer
- here in ___questgiver_, based
- around _shop_. Once I
- have a reasonable suspicion, I should
- look for _priest_, hiding inside
- _res_, for help in
- unmasking the foe. I have two days.
+ Я должен искать убийцу
+ здесь, в ___questgiver_, недалеко
+ от _shop_. Как только у меня
+ будет обоснованное подозрение, я должен
+ обратиться к _priest_, что сидит
+ в _res_, за помощью
+ в разоблачении врага. У меня есть два дня.
 
 QBN:
 Person _questgiver_ group Questor male

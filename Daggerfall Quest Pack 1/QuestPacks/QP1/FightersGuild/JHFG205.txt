@@ -55,7 +55,7 @@ Message:  1010
 <ce> ask them to help you kill your prey.
 <ce> Do you ask for their help (yes) or do it on your own (no)?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: YES: Spriggan, difficulty low)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Язык спригганов, низкая сложность)
 
 Message:  1011
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)

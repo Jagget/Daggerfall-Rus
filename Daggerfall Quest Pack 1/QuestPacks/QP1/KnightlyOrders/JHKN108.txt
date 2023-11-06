@@ -1,5 +1,5 @@
 Quest: JHKN108
-DisplayName: Orcish Skirmish
+DisplayName: Стычка с орками
 -- Message panels
 QRC:
 
@@ -48,7 +48,7 @@ Message:  1010
 <ce> in case their fears are brought to pass.
 
 Message:  1011
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: ORCISH)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Язык орков)
 <ce>
 <ce> You hear the orcs begin to enter the building.
 <ce> Deepening your voice, you roar at them

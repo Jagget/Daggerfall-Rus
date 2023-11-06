@@ -1,95 +1,95 @@
 Quest: JHKN105
-DisplayName: Evidentiary Proceedings
+DisplayName: Доказательственное производство
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> My %pct, we have a task which would ordinarily
-<ce> go only to our squires in training. Were there not
-<ce> some element of danger involved, I would not waste
-<ce> my breath nor your time. The law requires an
-<ce> object of evidence in a recent murder, which the
-<ce> town guard neglected to recover at the time of
-<ce> the arrest. Since this matter involves a serial killer
-<ce> and multiple cities, jurisdiction belongs to
-<ce> %crn, and the %t has asked
-<ce> for our assistance. Will you recover the evidence?
+<ce> %pct, у нас есть задание, которое обычно
+<ce> досталось бы только нашим оруженосцам, проходящим обучение.
+<ce> Если бы не некоторый элемент опасности, я бы не стал тратить
+<ce> свое дыхание и ваше время. Необходимо добыть
+<ce> предмет, являющийся уликой по делу о недавнем убийстве, который
+<ce> городская стража не успела забрать во время
+<ce> ареста. Поскольку в этом деле замешан серийный убийца
+<ce> и нескольких городов, юрисдикция принадлежит
+<ce> %crn, и %t попросили
+<ce> нас помочь. Возьметесь ли вы вернуть улики?
 
 RefuseQuest:  [1001]
-<ce> Then be off with you. Search for some more
-<ce> noble purpose than administering justice.
+<ce> Тогда проваливайте. Ищите какую-нибудь более
+<ce> благородную цель, чем правосудие.
 
 AcceptQuest:  [1002]
-<ce> Good. The _clothes_ will be in
-<ce> ___res_, inside a house called
-<ce> _res_, which is watched by the city
-<ce> guard. Should any of them question you
-<ce> upon entry, merely state your name and
-<ce> affiliation. Once you have it, return here
-<ce> quickly. The rogue acted in concert with some
-<ce> accomplices, such that we have suspicion
-<ce> of some manner of violent intervention.
-<ce> Be here within =timer_ days, and no later.
-<ce> The trial cannot be delayed further by halfwit
-<ce> assistance. %god be with you.
+<ce> Хорошо. _clothes_ будет находиться в
+<ce> ___res_, внутри дома под названием
+<ce> _res_, за которым наблюдает городская
+<ce> стража. Если кто-то из них будет задавать вам вопросы
+<ce> при входе, просто назовите свое имя и
+<ce> принадлежность. Как только вы получите то, за чем пришли,
+<ce> возвращайтесь сюда быстро. Негодяй действовал совместно
+<ce> с сообщниками, так что у нас есть подозрения,
+<ce> что вам могут сильно помешать.
+<ce> Будьте здесь в течение =timer_ дней, и не позже.
+<ce> Судебный процесс не может быть еще раз
+<ce> отложен. %god да пребудет с вами.
 
 QuestFail:  [1003]
-<ce>
+<ce> Задание провалено.
 
 QuestComplete:  [1004]
-<ce> Not a moment too late, %pcf, for the trial has
-<ce> been expedited. This _clothes_ and the testimony
-<ce> of the witnesses will surely bring justice to
-<ce> %crn tomorrow. Well done.
+<ce> Ни на минуту не опоздал, %pcf, ибо суд был
+<ce> был ускорен. _clothes_ и показания
+<ce> свидетелей, несомненно, помогут свершиться
+<ce> правосудию в %crn завтра. Отличная работа.
    <--->
-<ce> Reliability on all matters, small and great, is
-<ce> worthy of a hero. I thank you for making the journey.
+<ce> Надежность во всех вопросах, малых и великих, достойна
+<ce> героя. Я благодарю вас за то, что вы совершили это путешествие.
    <--->
-<ce> Excellent, %pct. We can now expedite
-<ce> the trial. Superb work on all counts.
+<ce> Отлично, %pct. Теперь мы можем ускорить
+<ce> судебное разбирательство. Великолепная работа по всем пунктам.
 
 Message:  1010
 <ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Сила)
 <ce>
-<ce> Your foes' courage begins to falter.
-<ce> One shouts to the other, "Hey, this one's a freak!
-<ce> We gotta get out of here!"
+<ce> Мужество ваших противников начинает ослабевать.
+<ce> Один кричит другому: "Эй, этот - урод!
+<ce> Надо убираться отсюда!".
 <ce>
-<ce> Your foes flee before you tear them apart.
-<ce> You assume your return journey will have
-<ce> no further interruptions.
+<ce> Ваши враги бегут, пока вы не разорвали их на части.
+<ce> Вы полагаете, что ваше возвращение не будет
+<ce> больше прерываться.
 
 Message:  1019
-<ce> (STEALTH CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Скрытность)
 <ce>
-<ce> Someone less skilled would not have noticed the
-<ce> sigils written about the doorpost. You stealthily
-<ce> step in, avoiding detection.
+<ce> Кто-то менее опытный не заметил бы
+<ce> сигилы, начертанные на дверном косяке. Вы аккуратно
+<ce> шагнули внутрь, избежав обнаружения.
 
 Message:  1020
-<ce> (STEALTH CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Скрытность)
 <ce>
-<ce> The guards ignored your entry. Now
-<ce> you must find the _clothes_.
+<ce> Охранники не проигнорировали ваш вход. Теперь
+<ce> вы должны найти _clothes_.
    <--->
-<ce> (STEALTH CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Скрытность)
 <ce>
-<ce> Once inside, now you must find the _clothes_.
+<ce> Вы внутри, теперь вы должны найти _clothes_.
 
 Message:  1021
-<ce> You think you hear footsteps.
+<ce> Вам кажется, что вы слышите шаги.
 
 Message:  1022
-<ce> You've found the _clothes_. Now
-<ce> to get back to ___questgiver_.
+<ce> Вы нашли _clothes_. Теперь
+<ce> нужно вернуться к ___questgiver_.
 
 Message:  1030
 %qdt:
- _questgiver_ has sent me to
- ___res_ to look for one
- _clothes_ inside _res_,
- which I need to return to
- ___questgiver_ within =timer_ days.
+ _questgiver_ отправил меня в
+ ___res_ на поиски
+ _clothes_ внутри _res_,
+ что я должен вернуть
+ в ___questgiver_ через =timer_ дней.
 
 QBN:
 

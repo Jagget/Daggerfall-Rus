@@ -48,7 +48,7 @@ Message:  1020
 <ce> Do you try to talk to it (yes) or
 <ce> try to avoid it (no)?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: YES: Spriggan, difficulty low)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Язык спригганов, низкая сложность)
 
 Message:  1021
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)

@@ -1,46 +1,46 @@
 Quest: JHKN103
-DisplayName: Shambling Bones
+DisplayName: Праздношатающиеся кости
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Have you any skill at slaying the undead, %pct?
-<ce> We're receiving many concerning reports of vicious skeletons
-<ce> outside the city walls, who attack innocent travelers.
-<ce> If you could slay several of them, you would be doing
-<ce> our fair city a service.
+<ce> Вы умеете убивать нежить, %pct?
+<ce> Мы получаем много тревожных сообщений о злобных скелетах
+<ce> за стенами города, которые нападают на невинных путешественников.
+<ce> Если бы вы смогли убить нескольких из них, вы бы оказали
+<ce> нашему светлому городу услугу.
 
 RefuseQuest:  [1001]
-<ce> %oth. They're a lot easier if you use blunt weaponry.
+<ce> %oth. Их гораздо легче убить, если вы используете тупое оружие.
 
 AcceptQuest:  [1002]
-<ce> On rare occasions they venture into the city, so I suppose
-<ce> you could stay nearby and destroy whatever crosses our borders.
-<ce> But the real danger is out in the wilderness, where you should go.
-<ce> Defeat a half-dozen or so of them, and imagine that each one down
-<ce> is a life you've saved. Let that motivate you. Return to me
-<ce> with the deed done, and your name shall gain honor in this hall.
-<ce> Failure to report within one week will mean abdication on your part.
+<ce> В редких случаях они осмеливаются войти в город, так что я полагаю,
+<ce> вы могли бы оставаться поблизости и уничтожать все, что пересекает наши границы.
+<ce> Но настоящая опасность находится в дикой местности, куда вам и следует отправиться.
+<ce> Победите полдюжины или около того из них и представьте, что каждый убитый -
+<ce> это спасенная вами жизнь. Пусть это мотивирует вас. Вернитесь ко мне
+<ce> с выполненным заданием, и ваше имя обретет почет в этом зале.
+<ce> Неявка в течение одной недели будет означать отречение от задания с вашей стороны.
 
 QuestComplete:  [1004]
-<ce> Fine work, %pct. This is our daily labor.
-<ce> The land of %crn is a little safer because of you.
-<ce> We feel pride in what you have done.
+<ce> Отличная работа, %pct. Это наш ежедневный труд.
+<ce> Земля %crn стала немного безопаснее благодаря вам.
+<ce> Мы испытываем гордость за то, что вы сделали.
 
 Message:  1010
-<ce> With a mighty roar, a wandering skeleton charges for you.
+<ce> С могучим ревом блуждающий скелет бросается на вас.
 
 Message:  1011
-<ce> That should be enough skeletons, for now.
-<ce> The roads should be a little safer.
+<ce> На сегодня скелетов должно быть достаточно.
+<ce> Дороги должны стать немного безопаснее.
 
 Message:  1030
 %qdt:
- _qgiver_ of __qgiver_ has
- ordered me out into the wilderness to
- dispose of rogue skeletons that assault passers by. If I can
- destroy six or so and return to ___qgiver_
- within a week's time, I will gain prestige within the order.
+ _qgiver_ из __qgiver_
+ приказал мне отправиться в пустоши, чтобы
+ избавиться от скелетов, которые нападают на прохожих. Если мне удастся
+ уничтожить шесть или около того и вернуться в ___qgiver_.
+ в течение недели, я обрету престиж в ордене.
 
 QBN:
 Person _qgiver_ group Questor male
