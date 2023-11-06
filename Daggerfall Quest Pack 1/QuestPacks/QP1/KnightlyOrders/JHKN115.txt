@@ -1,101 +1,100 @@
 Quest: JHKN115
-DisplayName: Nature's Wrath
+DisplayName: Гнев природы
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Sparse regions of %crn complain of
-<ce> spriggans attacking their homesteads.
-<ce> Evidence suggests the cause may be
-<ce> within ___dung_. Can
-<ce> we rely on you to stop this problem?
+<ce> Малонаселенные районы %crn жалуются на
+<ce> спригганов, нападающих на их усадьбы.
+<ce> По имеющимся данным, причина может быть
+<ce> в ___dung_. Можно ли
+<ce> рассчитывать на вас в решении этой проблемы?
 
 RefuseQuest:  [1001]
-<ce> Now you're looking for a simple
-<ce> problem to solve, I suppose?
+<ce> То есть вы ищете простую
+<ce> проблему для решения, я полагаю?
 
 AcceptQuest:  [1002]
-<ce> So often when this happens, it is
-<ce> some fool who has let power get to his
-<ce> head and starts trying to display
-<ce> that power to the world. We wish
-<ce> such could enlist to a noble cause
-<ce> and put their zeal toward good
-<ce> purposes, but some are simply
-<ce> too obstinate. Do your best to
-<ce> defend against the spriggans.
-<ce> Perhaps if you speak their language
-<ce> you'll make some headway in some manner
-<ce> or another. Resolve the cause within
-<ce> =2dung_ days, and then return to
-<ce> report at your leisure. %god
-<ce> go with you into ___dung_.
+<ce> Так часто происходит когда какой-нибудь глупец
+<ce> позволяет власти завладеть его головой
+<ce> и начинает пытаться продемонстрировать
+<ce> эту власть всему миру. Мы хотели бы, чтобы
+<ce> такие люди могли присоединиться к благородному делу
+<ce> и направить свое рвение на благие
+<ce> цели, но некоторые из них просто
+<ce> слишком упрямы. Сделайте все возможное, чтобы
+<ce> защититься от спригганов.
+<ce> Возможно, если вы будете говорить на их языке,
+<ce> вы добьетесь больших успехов,
+<ce> чем другим способом. Решите проблему не позже
+<ce> =2dung_ дней, а затем вернитесь
+<ce> отчитываться, когда будете свободны.
+<ce> %god да пребудет с вами в ___dung_.
 
 QuestFail:  [1003]
-<ce> You were to resolve the cause of
-<ce> the attacking spriggans by now.
+<ce> Вы должны были выяснить причину
+<ce> атакующих спригганов к этому времени.
 
 QuestComplete:  [1004]
-<ce> Resourceful, skilled, and diligent.
-<ce> A model for knights of this order.
+<ce> Находчивый, опытный и старательный.
+<ce> Образец для рыцарей этого ордена.
 
 Message:  1020
-<ce> A spriggan shambles its way toward
-<ce> you, only half conscious of its own
-<ce> actions. You could try to
-<ce> talk to it, to see if you can find out
-<ce> anything that could help you.
-<ce> Do you try to talk to it (yes) or
-<ce> try to avoid it (no)?
+<ce> Спригган ковыляет по направлению к
+<ce> вам, лишь наполовину осознавая свои собственные
+<ce> действия. Вы можете попытаться
+<ce> поговорить с ним, чтобы выяснить, сможете ли вы узнать
+<ce> что-нибудь, что могло бы вам помочь.
+<ce> Пытаетесь ли вы поговорить с ним (да) или
+<ce> попытаетесь избежать его (нет)?
 <ce>
 <ce> (ПРОВЕРКА НАВЫКА: ДА: Язык спригганов, низкая сложность)
 
 Message:  1021
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> You catch the creature's attention with
-<ce> a greeting and tell it you intend no harm.
-<ce> It responds, in broken language, that its kind suffers
-<ce> a burning agony beyond their control. It promises
-<ce> to inform its kin that you are no danger.
-<ce> You hope it can make good on that promise.
-<ce> You dismiss it, and it wanders elsewhere.
+<ce> Вы привлекаете внимание этого существа, произнеся
+<ce> приветствие, и говорите ему, что вы не намерены причинять ему вреда.
+<ce> Оно отвечает на ломаном языке, что его вид страдает
+<ce> от жгучей агонии, которую они не могут контролировать. Оно обещает
+<ce> сообщить своим сородичам, что вы не представляете опасности.
+<ce> Вы надеетесь, что он сможет выполнить это обещание.
+<ce> Вы отпускаете его, и он уходит в другое место.
 
 Message:  1022
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> Whatever you know of the Spriggan language
-<ce> is not enough. Your speech incenses the creature,
-<ce> and it wanders off in a rage.
+<ce> Всего, что вы знаете о языке спригганов
+<ce> недостаточно. Ваша речь лишь злит существо,
+<ce> и оно в ярости убегает.
 <ce>
-<ce> If spriggans are as communal as the stories say,
-<ce> this bodes poorly for your visit to ___dung_.
+<ce> Если спригганы настолько общительны, как об этом рассказывают,
+<ce> это не предвещает ничего хорошего для вашего визита в ___dung_.
 
 Message:  1023
-<ce> This sorceror, reeking of green herbs,
-<ce> appears to have been the cause of
-<ce> the spriggans' madness.
+<ce> Этот колдун, благоухающий зелеными травами,
+<ce> похоже и стал причиной безумия спригганов.
 
 Message:  1024
-<ce> The poor creature hobbles about in agony.
-<ce> It looks at you momentarily, and then turns about
-<ce> and departs. Perhaps you could have helped it,
-<ce> but spriggans can be temperamental.
+<ce> Бедное существо ковыляет в агонии.
+<ce> Оно мгновение смотрит на вас, а затем поворачивается
+<ce> и уходит. Возможно, вы могли бы помочь ему,
+<ce> но спригганы могут быть темпераментными.
 
 Message:  1025
-<ce> As soon as you cross the threshold, you hear
-<ce> the angry groaning of spriggans.
-<ce> You hope they won't harass you too much
-<ce> while you search for the source of the problem.
+<ce> Как только вы переступаете порог, вы слышите
+<ce> сердитое ворчание спригганов.
+<ce> Вы надеетесь, что они не будут вас сильно беспокоить,
+<ce> пока вы будете искать источник проблемы.
 
 Message:  1030
 %qdt:
- _qgiver_ tasked me
-with slaying some disturbance in
- ___dung_ which is causing
- spriggans to appear throughout %crn.
- The foe must be downed within =2dung_ days.
- I can report to ___qgiver_ thereafter.
+ _qgiver_ поручил мне
+ истребить некое возмущение в
+ ___dung_, из-за которого
+ спригганы появляются по всему %crn.
+ Враг должен быть уничтожен в течение =2dung_ дней.
+ После этого я смогу отчитаться перед ___qgiver_.
 
 QBN:
 Person _qgiver_ group Questor male

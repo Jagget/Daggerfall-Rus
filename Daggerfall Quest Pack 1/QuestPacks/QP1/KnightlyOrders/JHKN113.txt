@@ -1,75 +1,75 @@
 Quest: JHKN113
-DisplayName: Center of Attention
+DisplayName: Центр внимания
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A local townsperson has been
-<ce> cursed by a wizard with a locating spell.
-<ce> The cowardly maniac sends magical constructs
-<ce> with a killing directive. We need a skilled
-<ce> warrior to slay them all until the curse
-<ce> loses its power. Will you?
+<ce> Местный житель был проклят волшебником
+<ce> заклинанием определения местонахождения.
+<ce> Трусливый маньяк посылает магических тварей
+<ce> с указанием убить. Нам нужен опытный
+<ce> воин, который уничтожит их всех, пока проклятие
+<ce> не потеряет свою силу. Вы согласны?
 
 RefuseQuest:  [1001]
-<ce> The poor child is unfit for combat.
-<ce> I foresee a very bad ending for him
-<ce> unless I find someone quickly.
+<ce> Но бедное дитя не годится для боя.
+<ce> Я предвижу очень скорую кончину,
+<ce> если не найду кого-нибудь для защиты.
 
 AcceptQuest:  [1002]
-<ce> "An answer worthy of our order. The attacks
-<ce> are sparing, sometimes spaced across days, but
-<ce> they will come, I assure you. Just go about
-<ce> your ordinary life in the mean time. Gallant?"
+<ce> "Ответ, достойный нашего ордена. Атаки
+<ce> редкие, иногда раз в несколько дней, но
+<ce> они будут, уверяю вас. Просто живите
+<ce> своей обычной жизнью в это время. Галант?!"
 <ce>
-<ce> A knight leaves the building, and soon returns with
-<ce> another person in tow, surrounded by a dark aura.
+<ce> Рыцарь выходит из здания и вскоре возвращается с
+<ce> другим человеком, окруженным темной аурой.
 <ce>
-<ce> "_escort_, we have found your
-<ce> protector. %pcn will stay with you until
-<ce> we are certain the danger has passed.
-<ce> Follow wherever %pcf leads you, no matter
-<ce> what. Understood?"
+<ce> "_escort_, мы нашли вашего защитника.
+<ce> %pcn останется с вами до тех пор,
+<ce> пока мы не убедимся, что опасность миновала.
+<ce> Следуйте за %pcf, куда бы он вас ни повел,
+<ce> не смотря ни на что. Понятно?"
 
 QuestFail:  [1003]
-<ce>
+<ce> Задание провалено.
 
 QuestComplete:  [1004]
-<ce> As this atronach falls, _escort_'s
-<ce> complexion changes entirely. The dark
-<ce> covering around %g2 disappears in an
-<ce> instant. %g1 smiles and thanks you profusely.
+<ce> Когда этот атронах падает, _escort_
+<ce> полностью меняется в лице. Темное
+<ce> покрытие вокруг н%g4 исчезает в одно
+<ce> мгновение. Тут же %g1 улыбается и искренне благодарит вас.
 <ce>
-<ce> "I'm sorry I have no means to pay you,
-<ce> but I will speak with _questgiver_
-<ce> as soon as I am able. You have saved
-<ce> my life! I will not forget it!"
+<ce> "Мне жаль, что у меня нет средств, чтобы заплатить вам,
+<ce> но я поговорю с _questgiver_,
+<ce> как только смогу. Вы спасли
+<ce> мою жизнь! Я этого не забуду!"
 <ce>
-<ce> _escort_ heads on %g4
-<ce> way, and you are left alone.
+<ce> _escort_ отправляется в путь,
+<ce> и вы остаетесь в одиночестве.
 
 Message:  1010
-<ce> Words barely creep out of %g4 mouth. You
-<ce> miss what is said, but it likely doesn't matter.
+<ce> Слова с трудом вырываются из %g4 рта. Вы не поняли,
+<ce> что было сказано, но это, скорее всего, не имеет значения.
    <--->
-<ce> _escort_'s gaunt eyes tell
-<ce> a long tale. %g1 likely has only slept on
-<ce> horseback if the assaults have persisted so.
+<ce> Исхудавшие глаза _escort_ говорят о многом.
+<ce> Скорее всего, отдтых был доступен %g2 только
+<ce> верхом на лошади, если нападения продолжались так долго.
 
 Message:  1030
 %qdt:
- _questgiver_ has assigned
- me to protect _escort_
- of ___questgiver_ from
- a wizard's curse consisting
- of magical attackers.
- My role is to strike them
- down until the curse wears out.
+ _questgiver_ поручил
+ мне защищать _escort_
+ из ___questgiver_ от
+ проклятия волшебника, посылающего
+ магических тварей.
+ Моя роль заключается в том, чтобы поражать их
+ до тех пор, пока проклятие не иссякнет.
 
 Message:  1099
-<ce> You're free to roam, %pcf.
-<ce> Go wherever you like, so long as
-<ce> you keep _escort_ safe.
+<ce> Вы свободны, %pcf.
+<ce> Идите, куда хотите, при условии, что
+<ce> вы обеспечите безопасность _escort_.
 
 QBN:
 Person _questgiver_ group Questor male
