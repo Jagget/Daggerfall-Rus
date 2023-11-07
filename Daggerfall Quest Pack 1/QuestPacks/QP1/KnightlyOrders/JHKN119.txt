@@ -1,112 +1,112 @@
 Quest: JHKN119
-DisplayName: Rite of Vampire Dispelling
+DisplayName: Обряд изгнания вампиров
 
 QRC:
 
 QuestorOffer:  [1000]
-<ce> For too long, we have allowed vampires to maintain
-<ce> dominion over one of %crn's cemeteries. We have enlisted
-<ce> one of the local priests for a powerful rite that will
-<ce> slay them all. A knight must provide protection
-<ce> while the rite is invoked. Will you prove your fearlessness?
+<ce> Слишком долго вампиры правят на одном из кладбищ %crn.
+<ce> Мы пригласили одного из местных священников, чтобы провести
+<ce> мощный ритуал, который поможет уничтожить их всех. Рыцарь
+<ce> должен обеспечить защиту священника во время проведения
+<ce> ритуала. Сможете ли вы доказать свое бесстрашие?
 
 RefuseQuest:  [1001]
-<ce> We cannot delay in removing these parasites.
+<ce> Мы не можем больше откладывать изгнание этих паразитов.
 
 AcceptQuest:  [1002]
-<ce> I knew you would not turn us down. You are to find
-<ce> the priest, a =priest_ named _priest_,
-<ce> in _temple_ here in the city. Together, journey toward
-<ce> ___graveyard_ and allow %g2 to do %g4 work.
-<ce> The rite can only happen at night, to have maximum
-<ce> effect upon the hemophiles. Keep _priest_ safe,
-<ce> and whatever spoils you gain from the vampires are yours.
-<ce> Do not delay more than =timer_ days in arriving.
-<ce> %god keep you safe from their grasp.
+<ce> Я знал, что вы не откажетесь. Вам нужно найти
+<ce> священника, =priest_ по имени _priest_,
+<ce> в _temple_, здесь, в городе. Вместе вы отправитесь в сторону
+<ce> ___graveyard_ и поможете %g2 сделать свою работу.
+<ce> Ритуал можно проводить только ночью, чтобы получить максимальный
+<ce> эффект против вампиров. Заботьтесь о _priest_,
+<ce> оставьте себе любые найденные там трофеи.
+<ce> Вы должны прибыть туда не позже =timer_ дней.
+<ce> Пусть %god будет с вами, защищая вас.
 
 QuestFail:  [1003]
-<ce> _priest_ looks thoroughly disappointed.
+<ce> _priest_ выглядит глубоко разочарованным.
 <ce>
-<ce> "We are well past the time appointed to dispatch the vampires!
-<ce> I cannot be a part of this!"
+<ce> "Мы уже давно пропустили назначенное время для изгнания вампиров!
+<ce> Я не смогу продолжить этот ритуал!"
 <ce>
-<ce> After the outburst, %g1 marches off alone.
+<ce> После этого %g1 уходит.
 
 QuestComplete:  [1004]
-<ce> Suddenly, a beam of light shoots from _priest_'s body
-<ce> up into the sky. It begins to expand outward,
-<ce> gradually covering the area. You hear the vampires shrieking
-<ce> and attempting to cover themselves, but it's too late.
-<ce> Soon they collapse into inert heaps, unable to withstand
-<ce> the holy power.
+<ce> Внезапно из тела _priest_ вырывается луч света,
+<ce> возвышаясь в небеса. Луч начинает расширяться, охватывая все вокруг.
+<ce> Вы слышите, как вампиры кричат от боли и пытаются укрыться,
+<ce> но уже слишком поздно. Скоро они превращаются в безжизненную кучу,
+<ce> не в силах противостоять священной силе.
 <ce>
-<ce> "We've done it!" _priest_ shouts, collapsing
-<ce> into an exhausted heap on the ground.
-<ce> You watch %g2 rest a few moments  before %g1 regains his footing.
-<ce> "Yes, we've slain all of them. This hive of nightcrawlers
-<ce> is done with! I can make my way back to ___temple_ on my own.
-<ce> Take your spoils from among their belongings.
-<ce> Let that, with %god's praise, be your reward."
+<ce> "Мы сделали это!" воскликнул _priest_,
+<ce> упав в истощении на землю.
+<ce> Вы видите, как %g1 недолго отдыхает, прежде чем снова подняться.
+<ce> "Да, мы уничтожили их всех. Теперь это племя ночных пожирателей
+<ce> уничтожено! Я смогу сам вернуться в ___temple_.
+<ce> Возьмите любые трофеи среди их вещей.
+<ce> Да благословит вас %god".
 <ce>
-<ce> The loot is yours. However, it seems the bodies will decay soon.
-<ce> You won't want to waste time collecting any goods you wish to take.
+<ce> Вещи вампиров - ваши. Но, кажется, их тела скоро разложатся,
+<ce> поэтому не стоит тратить время.
 
 Message:  1010
-<ce> Hello! %oth, I've been terribly nervous about all this.
-<ce> Haven't slept in two days, just thinking about what
-<ce> we have to do. Vampires, of all things! %god keep us safe,
-<ce> for no one else can. The rite has to begin near the hours
-<ce> of midnight, so if we arrive too soon or too late,
-<ce> we'll need to camp inside ___graveyard_.
-<ce> You lead the way, and I'll follow at a safe distance.
+<ce> Приветствую вас! %oth, я страшно нервничал из-за всего этого.
+<ce> Не спал два дня, только думал о том, что
+<ce> нас ожидает. Вампиры, в конце концов! %god храни нас,
+<ce> ибо никто другой не сможет справиться. Ритуал должен начаться ближе к
+<ce> полуночи, так что если мы придем слишком рано или слишком поздно,
+<ce> нам придется устроить лагерь в ___graveyard_.
+<ce> Идите впереди, а я буду следовать за вами на безопасном расстоянии.
 
 Message:  1011
-<ce> This is ___graveyard_, but you'll have to wait
-<ce> until closer to midnight to perform the rite.
+<ce> Это ___graveyard_, но нам лучше подождать
+<ce> до полуночи, чтобы начать ритуал.
 <ce>
-<ce> "We can camp here," _priest_ says.
-<ce> "The vampires won't assault us until
-<ce> we pose a threat to them... I think."
+<ce> "Мы можем разбить лагерь здесь", - говорит _priest_.
+<ce> "Вампиры не атакуют нас, пока мы не представляем
+<ce> для них угрозу... Думаю, это безопасно".
 
 Message:  1012
-<ce> "Yes! We can begin now," _priest_ says.
-<ce> "Just make absolutely sure that you do not leave
-<ce> the cemetery grounds under any circumstances.
-<ce> This will take a while, and both our lives are
-<ce> in your hands. Pray to %god for our survival!"
+<ce> "Да! Мы можем начать прямо сейчас", - говорит _priest_.
+<ce> "Только будьте абсолютно уверены, что вы не покинете
+<ce> территорию кладбища ни при каких обстоятельствах.
+<ce> Это займет некоторое время, и наши жизни
+<ce> в ваших руках. Молитесь %god о том, чтобы мы выжили!"
 <ce>
-<ce> With that, %g1 kneels on the floor and begins
-<ce> chanting and calling. Sensing the mounting danger,
-<ce> vampires begin to crawl out to stop you.
+<ce> С этими словами %g1 опускается на колени и начинает
+<ce> читать заклинания. Чувствуя приближающуюся опасность,
+<ce> вампиры начинают выползать, чтобы противостоять вам.
 
 Message:  1013
-<ce> _priest_'s body begins to glow.
-<ce> The rite is starting to take effect.
-<ce> Sensing the danger, more vampires begin to arrive.
+<ce> Тело _priest_ начинает светиться.
+<ce> Ритуал начинает действовать.
+<ce> Осознавая опасность, еще больше
+<ce> вампиров пытается остановить вас.
 
 Message:  1014
-<ce> Some of the vampires have begun to succumb
-<ce> to the effects of _priest_'s spell.
-<ce> The intensity of the rite continues to mount.
+<ce> Некоторые из вампиров начинают поддаваться
+<ce> воздействию заклинания _priest_.
+<ce> Интенсивность ритуала продолжает увеличиваться.
 
 Message:  1015
-<ce> "We're almost there! Keep at it!"
-<ce> _priest_ shouts, %g4 body glowing brightly.
+<ce> "Мы близки к цели! Продолжайте защищаться!"
+<ce> кричит _priest_, и тело %g4 ярко светится.
 
 Message:  1016
-<ce> You have strayed too far from ___graveyard_,
-<ce> leaving _priest_ without protection.
-<ce> The vampires mercilessly descend on %g2 and
-<ce> shred %g2 to pieces.
+<ce> Вы удалились слишком далеко от ___graveyard_,
+<ce> оставив _priest_ без защиты.
+<ce> Вампиры массово атакуют
+<ce> и разрывают %g4 на куски.
 
 Message:  1030
 %qdt:
- __questgiver_ of ___questgiver_
- assigned me to escort a priest named _priest_, staying at
- _temple_, to a graveyard called ___graveyard_
- to eliminate a clan of vampires hiding there.
- The rite will take place at night, and must be done
- within =timer_ days.
+ __questgiver_ из ___questgiver_.
+ поручил мне сопровождать священника _priest_ из
+ _temple_ на кладбище под названием ___graveyard_,
+ чтобы изгнать скрывающийся там клан вампиров.
+ Ритуал проводится ночью и должен быть завершен
+ в течение =timer_ дней.
 
 
 

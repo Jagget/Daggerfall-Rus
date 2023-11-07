@@ -1,58 +1,58 @@
 Quest: JHKN118
-DisplayName: Fighters, Keepers
+DisplayName: Бойцы, Хранители
 
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A member of the Fighters Guild has become infamous in another town,
-<ce> requiring an intervention by the %rt on behalf of execution.
-<ce> We need you to go and slay this scoundrel.
-<ce> The Fighters Guild will not be impressed with you,
-<ce> but you must put aside your fears.
-<ce> Be brave and serve, good knight.
+<ce> Один из членов Гильдии Бойцов стал печально известен в другом городе.
+<ce> %rt вмешались и вынесли смертельный приговор.
+<ce> Нам нужно, чтобы вы отправились и убили этого негодяя.
+<ce> Гильдия Бойцов не похвалит вас за это,
+<ce> но вам нужно преодолеть свои страхи.
+<ce> Будьте храбры и служите, добрый рыцарь.
 
 RefuseQuest:  [1001]
-<ce> Bravery seems ever in short supply.
+<ce> Храбрость, кажется, всегда в дефиците.
 
 AcceptQuest:  [1002]
-<ce> Travel to ___tav_ and find a place called
-<ce> _tav_. The lawless fighter is known
-<ce> to stay there. Look for someone heavily armed.
-<ce> Yours is the privilege to make the first strike,
-<ce> for the law sustains you.
-<ce> Report the knave's death to me within =timer_ days,
-<ce> and I will have a special reward for you.
+<ce> Отправляйтесь в ___tav_ и найдите место под названием
+<ce> _tav_. Известно, что там пребывает бесчестный боец.
+<ce> Ищите кого-нибудь, хорошо вооруженного.
+<ce> Вам предоставляется привилегия первого удара,
+<ce> ибо закон на вашей стороне.
+<ce> Сообщите мне о смерти преступника в течение =timer_ дней,
+<ce> и я подготовлю для вас особую награду.
 
 QuestFail:  [1003]
-<ce> _questgiver_ of __questgiver_ requested
-<ce> to know the death of the fighter by now.
+<ce> _questgiver_ из __questgiver_ должен был
+<ce> узнать о смерти бойца к этому времени.
 
 QuestComplete:  [1004]
-<ce> Very good. Your loyalty to the order and the %rt
-<ce> will not be questioned. Continue faithful,
-<ce> my friend.
+<ce> Очень хорошо. %rt и наш Орден, мы ценим
+<ce> не подвергнем сомнению вашу преданность.
+<ce> Продолжайте оставаться верным, мой друг.
 <ce>
-<ce> As you seek to protect %crn,
-<ce> I have a gift that will protect you in turn.
-<ce> Wield it with honor.
+<ce> Поскольку вы стремитесь защитить %crn,
+<ce> у меня есть дар, который, в свою очередь, защитит вас.
+<ce> Пользуйтесь им с честью.
 
 Message:  1011
-<ce> "Hrah! I won't be dying this day, lackey!"
+<ce> "ХХХАА! Я умру но не сегодня, лакей!"
 
 Message:  1012
-<ce> The rule of law in %crn is honored today,
-<ce> for this fool is slain.
+<ce> Сегодня верховенство закона в %crn
+<ce> соблюдено, ибо этот дурак убит.
 
 Message:  1030
 %qdt:
- _questgiver_ of __questgiver_
- in ___questgiver_ has sent me
- to a place called ___tav_
- in search of a lawbreaking
- Fighters Guild member,
- staying at _tav_.
- I must carry out an execution and
- return within =timer_ days.
+_questgiver_ из __questgiver_,
+___questgiver_ послал меня
+в место под названием ___tav_,
+на поиски нарушителя закона,
+члена Гильдии Бойцов,
+находящегося в _tav_.
+Мне предстоит произвести казнь и
+вернуться в течение =timer_ дней.
 
 QBN:
 
