@@ -63,8 +63,8 @@ Message:  1021
 <ce> lending to momentary distraction. Will you
 <ce> attempt to take it for yourself?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: ДВ: Карманные кражи, difficulty low)
-<ce> (ИЛИ ПРОВЕРКА НАВЫКА: ДА: Скрытность, difficulty medium)
+<ce> (ПРОВЕРКА НАВЫКА: ДВ: Карманные кражи, низкая сложность)
+<ce> (ИЛИ ПРОВЕРКА НАВЫКА: ДА: Скрытность, средняя сложность)
 
 Message:  1022
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Скрытность/Карманные кражи)

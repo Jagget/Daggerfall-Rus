@@ -270,7 +270,7 @@ Message:  1040
 
 QBN:
 Person _help_ group Pawnbroker
-Person _dummynec_ faction The_Necromancers
+- Person _dummynec_ faction The_Necromancers
 
 Place _store_ local generalstore
 Place _random_ local random

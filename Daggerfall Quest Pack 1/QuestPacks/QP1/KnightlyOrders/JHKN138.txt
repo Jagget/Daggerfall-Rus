@@ -1,106 +1,109 @@
 Quest: JHKN138
-DisplayName: Local Escort
+DisplayName: Местный эскорт
 -- Message panels
+-- _npc_ - муж.
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A fellow arrived this morning requesting
-<ce> sanctuary and an escort across town, providing no
-<ce> further information. We have reason to assume
-<ce> the man is threatened by something that he refuses
-<ce> to disclose. We have staked our honor on protecting
-<ce> those in need, even when information is scant.
-<ce> Will you help this man across ___goalplace_?
+<ce> Сегодня утром прибыл кое-кто, попросивший убежища и сопровождения
+<ce> через весь город, не предоставив никакой дополнительной
+<ce> информации. У нас есть основания предполагать, что этому человеку
+<ce> угрожает что-то, что он отказывается раскрывать. Мы поставили на
+<ce> карту нашу честь, защищая тех, кто в этом нуждается, даже когда
+<ce> информации недостаточно. Поможете ли вы этому человеку пересечь
+<ce> ___goalplace_?
 
 RefuseQuest:  [1001]
-<ce> The case appears suspicious, I agree.
+<ce> Согласен, дело выглядит подозрительным.
 
 AcceptQuest:  [1002]
-<ce> _qgiver_ claps his hands, and
-<ce> a man appears from an adjoining room.
+<ce> _qgiver_ хлопает в ладоши, и из соседней
+<ce> комнаты появляется мужчина.
 <ce>
-<ce> "%pcn, I now introduce you to _npc_,
-<ce> your ward. You are to deliver him to
-<ce> _goalplace_ within two hours' time.
-<ce> Godspeed and farewell."
+<ce> "%pcn, теперь я представляю вам _npc_, вашего
+<ce> подопечного. Вы должны доставить его на место
+<ce> назначения в течение двух часов. Счастливого
+<ce> пути и прощайте".
 
 QuestFail:  [1003]
-<ce> Six hours have past, and _npc_ grows restless.
-<ce> He wanders off without you.
+<ce> Прошло шесть часов, и _npc_ становится беспокойным.
+<ce> Он уходит без тебя.
 
 QuestComplete:  [1004]
-<ce> It would be easy to question your judgment
-<ce> when all the facts aren't available.
-<ce> You merely hope you did the right thing.
+<ce> Было бы легко подвергнуть сомнению ваше
+<ce> решение, когда все факты недоступны.
+<ce> Вы просто надеетесь, что поступили правильно.
 
 QuestorPostSuccess:  [1008]
-So _npc_ was not what we were told? A mighty knight must also carry a mighty conscience, %pct.
+Значит, _npc_ был не таким, как нам говорили? Могучий рыцарь также должен обладать могучей совестью, %pct.
 
 Message:  1010
 %qdt:
- _qgiver_ of __qgiver_,
- ___qgiver_, has requested
- my aid in protecting a man named
- _npc_ en route to _goalplace_
- within the same town.
- The man must arrive within two hours.
+ _qgiver_ из __qgiver_,
+ ___qgiver_, попросил
+ моей помощи в защите человека по имени
+ _npc_ на пути к _goalplace_ в
+ пределах этого города.
+ Этот человек должен прибыть в течение двух часов.
 
 Message:  1011
-<ce> You hear a tumult nearby.
-<ce> The city watch are looking for someone.
-<ce> _npc_ suddenly grows very nervous and
-<ce> hides behind you. He speaks in a whisper.
+<ce> Вы слышите шум неподалеку.
+<ce> Городская стража кого-то ищет. _npc_
+<ce> внезапно начинает сильно нервничать и
+<ce> прячется за вас. Он говорит шепотом.
 <ce>
-<ce> "There they are! They're coming for me! They'll kill me!
-<ce> Please, I'm innocent! Don't believe what they say!
-<ce> Tell them my name is %mn or something else, anything!"
+<ce> "Вот они! Они идут за мной! Они убьют меня! Пожалуйста,
+<ce> я невиновен! Не верьте тому, что они говорят! Скажите
+<ce> им, что меня зовут %mn или что-то еще, что угодно!"
 <ce>
-<ce> Before you can escape, a pair of guards see you
-<ce> and _npc_. They run toward you
-<ce> and demand that you stop.
+<ce> Прежде чем вы успели убежать, пара охранников
+<ce> увидела вас и _npc_. Они бегут к вам и требуют,
+<ce> чтобы вы остановились.
 <ce>
-<ce> "Halt! This =npc_ matches the description of a burglar
-<ce> who has plagued ___goalplace_ for the last week.
-<ce> Turn him over, and we will bring him to justice."
+<ce> "Стоять! Этот =npc_ соответствует описанию грабителя,
+<ce> который мучает ___goalplace_ всю неделю. Выдайте его,
+<ce> и мы привлечем его к ответственности".
 <ce>
-<ce> You have no further information to go on,
-<ce> and must make a decision.
-<ce> You could lie and say they have the wrong man,
-<ce> or turn him over to the guards.
-<ce> What will you do?
+<ce> У вас нет больше никакой информации,
+<ce> и вы должны принять решение. вы
+<ce> можете солгать и сказать, что они
+<ce> взяли не того человека, или выдать
+<ce> его стражникам. Как вы поступите?
 
 Message:  1012
-<ce> Your job is to protect the innocent, and though
-<ce> you can't know for certain, this man may be.
-<ce> You lie and say that this man is a reputed member of
-<ce> __qgiver_, and could not be guilty. The guards
-<ce> confer among themselves for a moment, and then look back.
+<ce> Ваша работа - защищать невиновных, и хотя вы не можете
+<ce> знать наверняка, этот человек может быть таковым. Вы лжете
+<ce> и говорите, что этот человек - известный член __qgiver_,
+<ce> и не может быть виновным. Охранники на мгновение
+<ce> совещаются между собой, а затем обращаются к вам:
 <ce>
-<ce> "If you're wrong, __qgiver_ will pay it to Oblivion!
-<ce> The city watch will not be mocked!"
+<ce> "Если вы ошиблись, __qgiver_ заплатит за это!
+<ce> Городская стража не потерпит насмешек!"
 <ce>
-<ce> They hurry off to find the culprit.
+<ce> Они поспешно отправляются на поиски виновного.
 
 Message:  1013
-<ce> You grab _npc_ and push him toward the guards.
-<ce> They tie his hands and force him into
-<ce> a frogmarch as they alert the other guards.
+<ce> Вы хватаете _npc_ и толкаете его в сторону
+<ce> охранников. Они связывают его и ведут под руки,
+<ce> предупреждая других охранников по пути.
 <ce>
-<ce> "__qgiver_ have found our culprit!
-<ce> Huzzah! Huzzah!"
+<ce> "__qgiver_ нашли нашего преступника!
+<ce> Ура! Ура!"
 <ce>
-<ce> You just hope he's actually guilty of the crime.
+<ce> Вы просто надеетесь, что он действительно
+<ce> виновен в преступлении.
 
 Message:  1014
-<ce> Within the safety of _goalplace_,
-<ce> _npc_ gets on both knees to thank you.
+<ce> В безопасности _goalplace_, _npc_ встает
+<ce> на колени, чтобы поблагодарить вас.
 <ce>
-<ce> "Oh my knight, thank you, thank you, thank you!!
-<ce> You don't know what they would have done if they
-<ce> arrested me! I'll not forget your kindness and
-<ce> mercy, that I won't!"
+<ce> "О мой рыцарь, спасибо, спасибо, спасибо!!!
+<ce> Вы не знаете, что бы они сделали, если бы
+<ce> арестовали меня! Я не забуду вашей доброты
+<ce> и милосердия, никогда!"
 <ce>
-<ce> He leaves you to find a place to hide inside the residence.
+<ce> Он оставляет вас, чтобы вы нашли место,
+<ce> где можно спрятаться внутри резиденции.
 
 QBN:
 

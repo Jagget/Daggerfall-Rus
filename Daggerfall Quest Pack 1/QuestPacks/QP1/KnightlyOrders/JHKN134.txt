@@ -1,107 +1,108 @@
 Quest: JHKN134
-DisplayName: Honeyed Words
+DisplayName: Медовые слова
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Few troubles concern a knightly order more than
-<ce> a noble gone berserk. We mostly avoid
-<ce> such a problem, but today we come close. One of our knight
-<ce> brothers is betrothed to the daughter of an important
-<ce> aristocrat, and only recently gained information that her past
-<ce> is not as pure as promised. He wishes out of the engagement,
-<ce> but fears royal wrath. We require a knight more persuasive
-<ce> than any other. Have you etiquette to ward off a furious parent?
+<ce> Немногие проблемы беспокоят рыцарский орден больше, чем буйство
+<ce> знати. Мы в основном избегаем таких проблем, но сегодня это
+<ce> касается нас. Один из наших братьев-рыцарей помолвлен с дочерью
+<ce> важного аристократа, и только недавно он узнал, что её прошлое
+<ce> не так чисто, как обещали. Он хочет разорвать помолвку, но боится
+<ce> королевского гнева. Нам нужен рыцарь, более убедительный, чем
+<ce> любой другой. Умеете ли вы достаточно хорошо убеждать, чтобы
+<ce> уговорить разгневанного родителя?
 
 RefuseQuest:  [1001]
-<ce> Perhaps we'll have to employ a bard of some sort.
+<ce> Возможно, нам придется нанять какого-нибудь барда.
 
 AcceptQuest:  [1002]
-<ce> You will not journey far this time. Meet _nob_
-<ce> in the palace of this city and make a good argument
-<ce> for our brother, _knight_, whatever you will.
-<ce> Defend his honor and save him from his pending marriage.
-<ce> If words fail, I trust you will find some other way.
-<ce> Five days will not pass before our man must be
-<ce> granted liberty, %pct. %god guide your way.
+<ce> На этот раз вам не придется уезжать далеко. Встретьтесь с _nob_
+<ce> во дворце этого города и представьте убедительные аргументы в
+<ce> поддержку нашего брата, _knight_. Соберите все необходимые
+<ce> доказательства. Защитите его честь и попробуйте спасти его от
+<ce> предстоящего брака. Если слов не достаточно, постарайтесь найти
+<ce> другие способы. У вас есть всего пять дней, чтобы обеспечить
+<ce> свободу нашему человеку. %god направит ваш путь.
 
 QuestFail:  [1003]
-<ce> _knight_ will be irretrievably
-<ce> engaged to the damsel by now.
+<ce> _knight_ к этому времени уже будет безвозвратно
+<ce> помолвлен с этой девушкой.
 
 QuestComplete:  [1004]
-<ce> Very well, I see that this must be.
-<ce> I wish to never see that cretin again, but I will not
-<ce> hold __qgiver_ responsible. Be off with you,
-<ce> squire, and be more careful than this lout was.
-<ce> Life only gives you so many chances.
+<ce> Очень хорошо, я понимаю вашу позицию. Я бы хотел избегать
+<ce> дальнейших взаимодействий с этим человеком, но не буду
+<ce> считать __qgiver_ ответственными. Прошу вас уходить, и
+<ce> будьте более внимательны, чем был этот неотзывчивый человек.
+<ce> Ведь в жизни у нас ограниченное количество шансов.
 
 RumorsPostSuccess:  [1007]
-Them Archaeologists are good people, I says.
+Я говорю, что эти археологи - хорошие люди.
    <--->
-The Archaeologists and the Mages Guild are always fighting about stuff. %god knows what.
+Археологи и Гильдия Магов всегда ссорятся из-за всякой всячины. %god знает что.
 
 QuestorPostFailure:  [1009]
-Someone else stepped up after your failure with _nob_, thank %god.
+Кто-то другой вмешался после вашей неудачи с _nob_, славься %god.
 
 QuestLogEntry:  [1010]
 %qdt:
- __qgiver_ in ___qgiver_
- need me to speak to a noble named
- _nob_ in the local palace,
- to end the betrothal of
- %g4 daughter and _knight_.
- I have =timer_ days.
+ По заданию __qgiver_
+ в ___qgiver_ мне нужно
+ поговорить с дворянином по имени
+ _nob_ в местном дворце,
+ чтобы положить конец помолвке
+ %g4 дочери и _knight_.
+ У меня есть =timer_ дней.
 
 Message:  1011
 %qdt:
- _nob_ has rejected my request to
- liberate _knight_ and demands a sum of
- 2,500 gold coins instead.
+ _nob_ отклонил мою просьбу
+ освободить _knight_ и требует вместо этого
+ сумму в размере 2500 золотых монет.
 
 Message:  1014
-<ce> (ETIQUETTE CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Этикет)
 <ce>
-<ce> Hmph. As hard as your story is to believe,
-<ce> I must give __qgiver_ their proper due.
-<ce> This scandal will cost us all more than we
-<ce> bargained for... But the alternative is far worse.
+<ce> Хмф. Как бы ни было трудно поверить в вашу
+<ce> историю, я должен отдать должное __qgiver_.
+<ce> Этот скандал обойдется нам всем дороже, чем мы
+<ce> рассчитывали... Но альтернатива гораздо хуже.
 
 Message:  1015
-<ce> (PERSONALITY CHECK PASSED)
+<ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Привлекательность)
 <ce>
-<ce> Hmph. As hard as your story is to believe,
-<ce> I must give __qgiver_ their proper due.
-<ce> This scandal will cost us all more than we
-<ce> bargained for... But the alternative is far worse.
+<ce> Хмф. Как бы ни было трудно поверить в вашу
+<ce> историю, я должен отдать должное __qgiver_.
+<ce> Этот скандал обойдется нам всем дороже, чем мы
+<ce> рассчитывали... Но альтернатива гораздо хуже.
 
 Message:  1016
-<ce> (ETIQUETTE CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Этикет)
 <ce>
-<ce> Perhaps you overestimated your speechcraft.
-<ce> _nob_ flies into a rage.
-<ce> Insults flow regarding you, your parentage,
-<ce> _knight_, and __qgiver_.
+<ce> Возможно, вы переоценили свои ораторские способности.
+<ce> _nob_ приходит в ярость.
+<ce> Сыплются оскорбления в адрес вас, ваших родителей,
+<ce> _knight_ и __qgiver_.
 <ce>
-<ce> "Perhaps I was a fool to let things get this far,
-<ce> if _knight_ is so low as to make such allegations.
-<ce> My daughter will not marry a reprobate! I demand
-<ce> 2,500 gold pieces to repay what I've sunk into this
-<ce> miserable betrothal. I will then send notices
-<ce> of remittal to the interested parties."
+<ce> "Возможно, я был дураком, позволив событиям зайти так
+<ce> далеко, если _knight_ настолько низок, что выдвигает
+<ce> подобные обвинения. Моя дочь не выйдет замуж за негодяя!
+<ce> Я требую 2500 золотых, чтобы возместить то, что я вложил
+<ce> в эту жалкую помолвку. Затем я отправлю уведомления о
+<ce> переводе средств заинтересованным сторонам".
 <ce>
-<ce> _nob_ continues to glare at you, waiting for
-<ce> the money. __qgiver_ probably won't
-<ce> be able to help you...
+<ce> _nob_ продолжает пристально смотреть
+<ce> на вас, ожидая денег. __qgiver_,
+<ce> вероятно, не смогут вам помочь...
 
 Message:  1017
-<ce> You shuffle around to find 2,500 gold pieces,
-<ce> but do not have enough. _nob_ seethes with
-<ce> rage, though %g1 does not open %g4 mouth to release it.
+<ce> Вы роетесь в поисках 2500 золотых, но у вас
+<ce> их нет. _nob_ кипит от ярости, хотя %g1 и не
+<ce> открывает рта, чтобы снова наорать на вас.
 
 Message:  1018
-<ce> You discreetly deliver the 2,500 gold pieces
-<ce> into _nob_'s hand.
+<ce> Вы незаметно передаете 2500 золотых
+<ce> в руки _nob_.
 
 QBN:
 Person _qgiver_ group Questor male

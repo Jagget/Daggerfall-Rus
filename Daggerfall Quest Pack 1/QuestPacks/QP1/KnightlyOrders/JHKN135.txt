@@ -1,63 +1,63 @@
 Quest: JHKN135
-DisplayName: In Search of the Lost
+DisplayName: В поисках утраченного сына
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A local family here in ___questgiver_
-<ce> is worried sick over their son, who descended into
-<ce> some ruins on some sort of heroic escapade.
-<ce> That was weeks ago. They wish to hear something of his
-<ce> fate, and if he is alive, for someone to bring him back.
-<ce> Will you lend yourself to this cause.
+<ce> Местная семья здесь, в ___questgiver_, ужасно
+<ce> беспокоится о своем сыне, который спустился в какие-то
+<ce> руины во время какой-то героической авантюры. Это было
+<ce> несколько недель назад. Они хотят услышать что-нибудь о
+<ce> его судьбе, и если он жив, чтобы кто-нибудь вернул его
+<ce> обратно. Поможете ли вы этому делу?
 
 RefuseQuest:  [1001]
-<ce> Fine.
+<ce> Хорошо.
 
 AcceptQuest:  [1002]
-<ce> Seek for the youth, _dummy_, in ___dung_.
-<ce> You are allotted =timer_ days to go and return,
-<ce> before they hire from a more reliable source
-<ce> and we are shamed. If you find the boy, bring him
-<ce> back with all haste. If you find evidence of him,
-<ce> bring it here nonetheless. And if things go worse than that,
-<ce> we must know his fate nonetheless. %god speed thy flight.
+<ce> Ищи юношу, _dummy_, в ___dung_. Вам отведено =timer_ дней
+<ce> на то, чтобы съездить и вернуться, прежде чем они наймут
+<ce> более надежного помощника. Позор на нашу голову. Если вы
+<ce> найдете мальчика, верните его как можно скорее. Если вы
+<ce> найдете доказательства его присутствия, так же принесите
+<ce> их сюда. И если дела пойдут еще хуже, мы, тем не менее,
+<ce> должны узнать о его судьбе. %god, ускорь ваш путь.
 
 QuestFail:  [1003]
-<ce> You were to return with news of _dummy_
-<ce> to __questgiver_ of ___questgiver_ by now.
+<ce> К настоящему времени вы должны были вернуться с новостями
+<ce> о _dummy_ в __questgiver_, ___questgiver_.
 
 QuestComplete:  [1004]
-<ce> How grievous indeed. I thank you for giving the child
-<ce> a proper burial. I will take upon me the onerous task of
-<ce> informing the family. We wish all stories could have happy
-<ce> endings, but we must face reality. Take rest, %pcf.
-<ce> One more family in %crn has been served by our knighthood.
+<ce> Действительно, как это печально. Я благодарю вас за то, что вы
+<ce> устроили ребенку надлежащие похороны. Я возьму на себя трудную
+<ce> задачу проинформировать семью. Мы хотели бы, чтобы у всех историй
+<ce> был счастливый конец, но мы должны смотреть правде в глаза.
+<ce> Отдохните, %pcf. Наш Орден помог еще одной семье в %crn.
 
 Message:  1011
-<ce> You find a mostly-devoured body here, with signs
-<ce> of death suggesting several days, perhaps a week,
-<ce> of time from decedence to your arrival.
-<ce> You take time to memorize the youth's features
-<ce> and consider the cause of his death.
-<ce> Then you dispose of the body appropriately.
-<ce> You will have sad news to offer __questgiver_.
+<ce> Вы находите здесь почти полностью обглоданное тело
+<ce> с признаками, указывающими на то, что с момента смерти
+<ce> до вашего прибытия прошло уже несколько дней,
+<ce> возможно, неделя. Вам требуется время, чтобы запомнить
+<ce> черты лица юноши и рассмотреть причину его гибели.
+<ce> Затем вы надлежащим образом хороните тело. У вас будут
+<ce> печальные новости для __questgiver_.
 
 Message:  1030
 %qdt:
- _questgiver_ has sent me to
- ___dung_ to look for
- _dummy_, whose family hopes
- he is still alive. I must find him
- or any sign of him and return to
- ___questgiver_ within =timer_ days.
+ _questgiver_ отправил меня в ___dung_
+ искать _dummy_, семья которого
+ надеется, что он все еще жив. Я должен
+ найти его или какие-либо признаки его
+ присутствия и вернуться в
+ ___questgiver_ в течение =timer_ дней.
 
 Message:  1031
 %qdt:
- I have found a body much resembling
- what _dummy_ would look like.
- I must report my finding to
- __questgiver_ in ___questgiver_.
+ Нашлось тело, очень похожее
+ на то, как выглядел _dummy_.
+ Мне нужно сообщить о своей находке
+ __questgiver_ в ___questgiver_.
 
 QBN:
 
