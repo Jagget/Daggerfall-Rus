@@ -25,11 +25,11 @@ PrintScreen,Скриншот
 QuickSave,Быстрое сохр.
 QuickLoad,Быстрая загр.
 close,Закрыть
-dungeonTextureModes,"Классический
+dungeonTextureModes,"Классические
 Климат
 Только климат
-Случайный
-Только случайный"
+Случайные
+Только случайные"
 cameraRecoilStrengths,"Выкл. (Off)
 Низкое (25%)
 Среднее (50%)
@@ -52,7 +52,7 @@ iconsPositioningSchemes,"Классика
 Маленькая вертикальная справа
 Маленькая горизонтальная снизу"
 helmAndShieldMaterialDisplay,"Выкл.
-Без кожаной цепи
+Без кольчуги
 Без кожи
 Вкл."
 qualitySettings,"Самый быстрый
@@ -61,9 +61,9 @@ qualitySettings,"Самый быстрый
 Хороший
 Красивый
 Фантастический"
-filterModes,"Точечная
-Билинейная
-Трилинейная"
+filterModes,"Точечный
+Билинейный
+Трилинейный"
 shadowResolutionModes,"Низкое
 Среднее
 Высокое
