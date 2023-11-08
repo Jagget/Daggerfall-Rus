@@ -1,15 +1,15 @@
 Quest: JHKNC02a
-DisplayName: Knightly Order Consequence Quest Extension
+DisplayName: Рыцарский орден. Последствия. Дополнение.
 -- Message panels
 QRC:
 
 Message:  1010
-<ce> Wind suddenly rushes past you inexplicably.
-<ce> You look around and see a figure, hooded and elderly.
+<ce> Вдруг ветер необъяснимо пронесся мимо вас.
+<ce> Вы оглядываетесь и видите фигуру в капюшоне, старую.
 <ce>
-<ce> "We witches do not take betrayal lightly, %pcf."
+<ce> "Мы, ведьмы, не переносим предательство легко, %pcf."
 <ce>
-<ce> The person then vanishes, while some foes appear.
+<ce> Затем фигура исчезает, но появляются враги.
 
 QBN:
 

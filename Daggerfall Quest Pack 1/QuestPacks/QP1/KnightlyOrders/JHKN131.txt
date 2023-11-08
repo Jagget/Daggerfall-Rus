@@ -1,113 +1,113 @@
 Quest: JHKN131
-DisplayName: Plague Knight
+DisplayName: Чумной рыцарь
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A pest infestation has taken hold of
-<ce> a palace in %crn, and the %t
-<ce> has delegated to us the task of finding
-<ce> someone clever enough to end it.
-<ce> This will not require combat, %pct.
-<ce> We wish to send you on a manhunt
-<ce> of the civilized kind.
+<ce> Нашествие вредителей охватило
+<ce> дворец в %crn, и %t поручили нам
+<ce> найти кого-нибудь достаточно
+<ce> умного, чтобы покончить с этим.
+<ce> Это не потребует боевых действий,
+<ce> %pct. Мы хотим отправить вас на
+<ce> цивилизованную охоту.
 
 RefuseQuest:  [1001]
-<ce> Surely we can find a task more adventuresome
-<ce> for one of your skill set.
+<ce> Конечно, мы сможем найти более авантюрное задание
+<ce> для человека с вашими навыками.
 
 AcceptQuest:  [1002]
-<ce> This will be a simple task, good knight,
-<ce> at least in theory. You must merely find
-<ce> an expert in bat extermination. Do not
-<ce> bother trying to slay them yourself.
-<ce> The %t has sent enough warriors to
-<ce> prove that the problem is serious.
-<ce> Ask around among the people to find
-<ce> someone qualified enough, and inform
-<ce> him or her that there will be payment.
-<ce> Surely you can have this problem
-<ce> solved, and your report in this hall,
-<ce> within =timer_ days.
+<ce> Это простая задача, добрый рыцарь, по
+<ce> крайней мере, в теории. Вам просто нужно
+<ce> найти эксперта по уничтожению летучих
+<ce> мышей. Не утруждайте себя попытками убить
+<ce> их самостоятельно. %t прислали достаточно
+<ce> воинов, чтобы доказать, что проблема
+<ce> серьезная. Поспрашивайте людей, чтобы найти
+<ce> кого-нибудь достаточно квалифицированного,
+<ce> и сообщите ему или ей, что работа будет
+<ce> оплачена сполна. Уверен, вы сможете решить
+<ce> эту проблему. Представьте свой доклад в
+<ce> течение =timer_ дней.
 
 QuestFail:  [1003]
-<ce> If you are here, why do I continue to
-<ce> hear about rodents infesting the
-<ce> palace of ___palace_?
+<ce> Если вы здесь, почему я продолжаю
+<ce> слышать о вредителях, заполонивших
+<ce> дворец ___palace_?
 
 QuestComplete:  [1004]
-<ce> How was the expedition, %pct?
-<ce> Feel pride in having served your
-<ce> fellow citizens. That is the great
-<ce> ideal of the __questgiver_.
+<ce> Как прошла экспедиция, %pct?
+<ce> Гордитесь тем, что служили
+<ce> своим согражданам. Это великий
+<ce> идеал __questgiver_.
 
 Message:  1010
-A real shame, isn't it? The %t takes our money but can't keep a palace clean.
+Настоящий позор, не правда ли? %t забирают наши деньги, но не могут содержать дворец в чистоте.
    <--->
-They say no one's better for bats than _ext_.
+Говорят, никто не разберется с летучими мышами лучше, чем _ext_.
    <--->
-If ya gotta kill bats, ya head on over to ___exthouse_, knight. Ask for _ext_ there.
+Если тебе нужно убить летучих мышей, отправляйся в ___exthouse_, рыцарь. Спростие _ext_.
    <--->
-Bat problem? You want _ext_. Stays in _exthouse_ in ___exthouse_.
+Проблемы с летучими мышами? Вам нужен _ext_. Живёт в _exthouse_, ___exthouse_.
 
 Message:  1011
-<ce> What? Oh, bother. You're lucky the %t
-<ce> pays well. I'd rather cover your face
-<ce> in hemlock if this weren't worth my time.
-<ce> Very well, lead the way.
+<ce> Что? О, черт возьми. Вам повезло, что %t
+<ce> хорошо платят. Я бы лучше намазал вам морду
+<ce> болиголовом, если бы это не стоило моего времени.
+<ce> Очень хорошо, ведите.
 
 Message:  1012
-<ce> _ext_'s reputation is well earned.
-<ce> Recognizing the problem in short order,
-<ce> %g1 sets about cutting small holes around the
-<ce> palace and placing poisonous herbs within
-<ce> them. As %g1 makes a full sweep of the
-<ce> building, you notice one fledgling rodent chew
-<ce> on the toxic plants and almost immediately
-<ce> cease breathing. A potent mix, to be sure.
+<ce> Репутация _ext_ вполне заслужена.
+<ce> Быстро распознав проблему,
+<ce> %g1 начинает вырезать небольшие отверстия вокруг
+<ce> дворца и помещает в них ядовитые травы.
+<ce> Когда %g1 полностью обходит все
+<ce> здание, вы замечаете, как одна летучая мышь
+<ce> кусает ядовитые растения и почти сразу же
+<ce> перестает дышать. Сильнодействующая смесь, однако.
 <ce>
-<ce> When the project is finished, a dapper servant
-<ce> approaches and praises _ext_'s work.
+<ce> Когда проект завершен, нарядный слуга
+<ce> подходит и хвалит _ext_.
 <ce>
-<ce> "Oh, what a blessing to have found you!
-<ce> It's been utterly insufferable in here
-<ce> with these beasts terrorizing us.
-<ce> We have set apart these =dummy_ gold pieces
-<ce> for you, which we hope will be compensation
-<ce> sufficient to the task."
+<ce> "Какое счастье, что мы вас нашели!
+<ce> Здесь было совершенно невыносимо,
+<ce> с этими зверями, терроризирующими нас.
+<ce> Мы выделили для вас =dummy_ золотых,
+<ce> что, как мы надеемся, будет достаточной
+<ce> компенсацией за выполнение задания".
 <ce>
-<ce> _ext_ curtly accepts the reward
-<ce> and departs without so much as a goodbye.
-<ce> _questgiver_ will want your report.
+<ce> _ext_ холодно принимает награду
+<ce> и уходит, даже не попрощавшись.
+<ce> _questgiver_ будет ждать вашего отчета.
 
 Message:  1013
-<ce> Your nose and ears have no difficulty
-<ce> picking up on the presence of bats
-<ce> in this palace.
+<ce> Ваш нос и уши без труда
+<ce> уловили присутствие летучих мышей
+<ce> в этом дворце.
 
 Message:  1014
-<ce> They do appear to be endless.
-<ce> Nearby attendants thank you for
-<ce> relieving their suffering, even if
-<ce> it is temporary.
+<ce> Они действительно кажутся бесконечными.
+<ce> Прислуга благодарит вас за то, что вы
+<ce> облегчили их страдания, пусть даже
+<ce> это временно.
 
 Message:  1030
 %qdt:
- _questgiver_ has asked me to
- find a bat exterminator skilled
- enough to clean the palace of
- ___palace_. Perhaps the
- townspeople would know of
- someone suitable to the task.
- I should return to __questgiver_
- in ___questgiver_ before
- =timer_ days have passed.
+ _questgiver_ попросил меня
+ найти уничтожителя летучих мышей, достаточно
+ опытного, чтобы очистить дворец
+ в ___palace_. Возможно,
+ горожане знают
+ кого-нибудь подходящего.
+ Я должен вернуться в __questgiver_
+ в ___questgiver_ до того,
+ как пройдет =timer_ дней.
 
 Message:  1031
 %qdt:
- I am leading _ext_ to the
- palace of ___palace_ to resolve
- its bat infestation.
+ Я веду _ext_ во
+ дворец в ___palace_, чтобы решить проблему
+ с нашествием летучих мышей.
 
 QBN:
 Person _questgiver_ group Questor male

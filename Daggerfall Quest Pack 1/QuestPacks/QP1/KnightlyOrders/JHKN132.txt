@@ -1,70 +1,70 @@
 Quest: JHKN132
-DisplayName: Beauty and the Beast
+DisplayName: Красавец и чудовище
 -- Thanks to Metalhead324 for the concept
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We require a knight of true virtue to slay
-<ce> a Daedra Seducer, a being of considerable magical
-<ce> power. Do you consider yourself capable?
+<ce> Нам требуется рыцарь истинной добродетели, чтобы сразить
+<ce> даэдра-соблазнительницу, существо, обладающее значительной
+<ce> магической силой. Считаете ли вы себя способным?
 
 RefuseQuest:  [1001]
-<ce> We shall find some brave warrior then.
+<ce> Тогда мы найдем какого-нибудь храброго воина.
 
 AcceptQuest:  [1002]
-<ce> You will find your foe in ___dung_.
-<ce> The complaint came to us from a woman of a nearby
-<ce> settlement whose husband, _husb_, was
-<ce> beguiled by the monster. You would do well to
-<ce> avoid slaying him, but if you must, do so.
-<ce> Report your success here within =timer_ days,
-<ce> for the honor of __qgiver_.
+<ce> Ты найдешь своего врага в ___dung_. Жалоба
+<ce> поступила к нам от женщины из соседнего
+<ce> поселения, чей муж, _husb_, был соблазнен
+<ce> чудовищем. Тебе лучше не убивать его, но
+<ce> если ты должен, сделай это. Сообщите о
+<ce> своем успехе здесь в течение =timer_ дней,
+<ce> за честь __qgiver_.
 
 QuestFail:  [1003]
-<ce> The seducer, %pct? Have you slain it?
+<ce> Соблазнителница, %pct. Убили ли вы ее?
 
 QuestComplete:  [1004]
-<ce> You are truly brave to best such
-<ce> dangerous daedra. Your presence honors this hall.
+<ce> Вы поистине храбры, раз смогли превзойти столь
+<ce> опасных даэдра. Ваше присутствие делает честь этому залу.
 
 Message:  1010
-<ce> _husb_ cries out in fury.
+<ce> _husb_ в ярости кричит.
 <ce>
-<ce> "No! My wife, my beautiful wife!"
+<ce> "Нет! Моя жена, моя прекрасная жена!"
 
 Message:  1011
-<ce> _husb_ glares at you, ready
-<ce> to give his life to defend his captor.
+<ce> _husb_ пристально смотрит на вас, готовый
+<ce> отдать свою жизнь, чтобы защитить своего похитителя.
 
 Message:  1012
-<ce> Though _husb_ had to be slain,
-<ce> you are victorious. %crn need not fear
-<ce> this monster any longer.
+<ce> Хотя _husb_ пришлось убить,
+<ce> ты победил. %crn больше не
+<ce> нужно бояться этого монстра.
 
 Message:  1013
-<ce> _husb_ stops in his tracks and
-<ce> looks around, dumbfounded.
+<ce> _husb_ останавливается как вкопанный и
+<ce> ошеломленно оглядывается по сторонам.
 <ce>
-<ce> "By %god, what have I done here? I was under
-<ce> that monster's spell for weeks! My poor wife,
-<ce> my family! I thank you, hero, but I must see
-<ce> them at once!"
+<ce> "О, %god, что я здесь натворил? Я был под
+<ce> чарами этого монстра несколько недель! Моя бедная жена,
+<ce> моя семья! Я благодарю тебя, герой, но я должен
+<ce> немедленно их увидеть!"
 <ce>
-<ce> He races for the exit.
+<ce> Он мчится к выходу.
 
 Message:  1014
-<ce> Your valor in sparing the foolish man's life
-<ce> has not gone unnoticed. You will be quite the hero
-<ce> in %crn if _husb_ has his way.
+<ce> Ваша доблесть в спасении жизни глупца
+<ce> не осталась незамеченной. Вы станете настоящим героем
+<ce> в %crn, если _husb_ добьется своего.
 
 Message:  1030
 %qdt:
- _qgiver_, knight of
- ___qgiver_, gave me a mission
- to slay a Daedra Seducer somewhere
- within ___dung_
- who has ensorcelled a man.
- I must return in =timer_ days.
+ _qgiver_, рыцарь
+ из ___qgiver_, дал мне задание
+ убить соблазнительницу даэдра где-то
+ внутри ___dung_,
+ которая околдовала мужчину.
+ Я должен вернуться через =timer_ дней.
 
 QBN:
 Person _qgiver_ group Questor male

@@ -1,102 +1,103 @@
 Quest: JHKN122
-DisplayName: The Trapped Halls
+DisplayName: Залы с ловушками
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Witches are beings of awesome power who
-<ce> should never be trifled with. We agree on that
-<ce> matter, don't we %pcf? %crn needs
-<ce> our order's aid to free a miserable hole from
-<ce> a witch's curse, one that will trap within
-<ce> any who enter. Will you be the needed hero?
+<ce> Ведьмы - это существа, обладающие огромной силой,
+<ce> с которыми нельзя шутить. Мы согласны в этом вопросе,
+<ce> не так ли, %pcf? %crn нуждается в помощи нашего ордена,
+<ce> чтобы освободить несчастную дыру от ведьминого
+<ce> проклятия, которое заманит в ловушку любого, кто туда
+<ce> войдет. Станете ли вы тем героем, который нужен?
    <--->
-<ce> A forlorn labyrinth in the wilderness has become
-<ce> the home of a witch that will trap within
-<ce> those who enter its halls. We need a champion
-<ce> capable of slaying her to release the curse.
-<ce> Will you volunteer for this heroic act?
+<ce> Заброшенный лабиринт в пустошах стал домом для
+<ce> ведьмы, которая заманивает в ловушку всех, кто
+<ce> входит в его залы. Нам нужен чемпион, способный
+<ce> убить её, чтобы снять проклятие. Вы вызоветесь
+<ce> на этот героический поступок?
 
 RefuseQuest:  [1001]
-<ce> What manner of knight do you intend to be, %pct?
+<ce> Каким рыцарем вы собираетесь стать, %pct?
 
 AcceptQuest:  [1002]
-<ce> Go to ___dung_ as marked on your map.
-<ce> I will warn you that, once inside, you will not
-<ce> be permitted to leave. I expect a great deal of
-<ce> confused adventurers inside who cannot find
-<ce> their way out. Defend yourself as necessary,
-<ce> but remember that your only freedom will be
-<ce> in slaying the witch. Please get to the hole
-<ce> within =2dung_ days' time, lest the curse
-<ce> capture more witless souls.
+<ce> Отправляйтесь в ___dung_, как отмечено на вашей
+<ce> карте. Я предупреждаю вас, что, оказавшись внутри,
+<ce> вам не разрешат выйти. Я ожидаю, что внутри будет
+<ce> много растерянных искателей приключений, которые не
+<ce> смогут найти выход. Защищайтесь, при необходимости,
+<ce> но помните, что ваш единственный способ вернуться на
+<ce> свободу - убить ведьму. Пожалуйста, доберитесь до
+<ce> подземелья в течение =2dung_ дней, чтобы проклятие
+<ce> не захватило еще больше неразумных душ.
 
 QuestFail:  [1003]
-<ce> _qgiver_ tasked you to go to
-<ce> ___dung_ to find the witch by today.
+<ce> _qgiver_ поручил вам отправиться
+<ce> в ___dung_, чтобы найти ведьму к сегодняшнему дню.
 
 QuestComplete:  [1004]
-<ce> So our witch was in fact a daedra in disguise?
-<ce> Perhaps it was an illusion spell instead. I do not
-<ce> know which of the two would have more magical power,
-<ce> for both are foes to be dreaded. My fullest
-<ce> congratulations to you, %pct. I will
-<ce> inform the %t concerning your deed.
+<ce> Итак, наша ведьма на самом деле была даэдра?
+<ce> Возможно, это было заклинание иллюзии. Я не знаю,
+<ce> кто из этих двух обладает большей магической
+<ce> силой, ведь оба они - враги, которых следует
+<ce> бояться. Мои самые искренние поздравления вам,
+<ce> %pct. %t узнает о вашем подвиге.
 
 Message:  1010
-<ce> (DAEDRIC CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Язык даэдра)
 <ce>
-<ce> This witch shouts several discordant phrases at you
-<ce> with a hostile tone. Whatever language she speaks,
-<ce> it is clear you do not understand it.
+<ce> Эта ведьма выкрикивает в вашу сторону несколько
+<ce> диссонансных фраз с враждебным оттенком.
+<ce> Это незнакомый язык и вы не понимаете ее слов.
 
 Message:  1011
-<ce> (DAEDRIC CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Язык даэдра)
 <ce>
-<ce> This witch shouts several discordant phrases at you,
-<ce> which you immediately identify as Daedric. You respond
-<ce> with sufficient speed and wit as to catch her by surprise,
-<ce> allowing you the first blow.
+<ce> Эта ведьма выкрикивает в вашу сторону несколько диссонансных
+<ce> фраз, которые вы тут же распознаете как даэдрические.
+<ce> Вы отвечаете достаточно быстро и остроумно, застав ее врасплох,
+<ce> что дает вам преимущество для нанесения первого удара.
 
 Message:  1012
-<ce> The power trapping these halls seems to lift.
-<ce> The witch has likely fled by now.
-<ce> Your task has failed.
+<ce> Сила, сковывающая эти залы, кажется,
+<ce> ослабевает. Ведьма, скорее всего, уже
+<ce> сбежала. Ваша задача провалена.
 
 Message:  1013
-<ce> The air is very heavy here, laden with magical enchantments.
-<ce> If _qgiver_ spoke truly, you will not be able to leave
-<ce> until the witch is slain or has fled the cave.
+<ce> Воздух здесь очень тяжелый, насыщенный магическими
+<ce> чарами. Если _qgiver_ сказал правду, вы не сможете уйти,
+<ce> пока ведьма не будет убита или не покинет пещеру.
 
 Message:  1014
-<ce> A loud and angry voice erupts nearby.
+<ce> Поблизости раздается громкий и сердитый голос.
 <ce>
-<ce> "If I can't get out of here I'll kill you all!
-<ce> Every one of you! Come over here!"
+<ce> "Если я не смогу выбраться отсюда, я убью
+<ce> вас всех! Каждого из вас! Идите сюда!"
    <--->
-<ce> A loud and scared voice erupts nearby.
+<ce> Неподалеку раздается громкий и испуганный голос.
 <ce>
-<ce> "There's no hope for us! We're all dead!
-<ce> We're never getting out!"
+<ce> "Для нас нет никакой надежды! Мы все умрем!
+<ce> Мы никогда отсюда не выберемся!"
 
 Message:  1015
-<ce> Powerful magicks whisk you back into ___dung_.
-<ce> This is no ordinary foe at work.
+<ce> Могущественная магия возвращает тебя обратно
+<ce> в ___dung_. Это работа не обычного врага.
 
 Message:  1016
-<ce> You have slain the witch. Immediately the arcane
-<ce> powers at work in ___dung_ begin to unravel.
-<ce> You will presumably be able to leave now.
+<ce> Вы убили ведьму. Немедленно тайные силы,
+<ce> действующие в ___dung_, начинают рассеиваться.
+<ce> Предположительно, теперь вы сможете уйти.
 
 Message:  1030
 %qdt:
- _qgiver_ has given me
- =2dung_ days to enter a hole called
- ___dung_ to find a
- witch maintaining a curse on it.
- How long I take within is my own judgment,
- and I should report to ___qgiver_
- when I have slain the enchantress.
+ _qgiver_ дал мне
+ =2dung_ дней, чтобы войти
+ в ___dung_, чтобы найти
+ ведьму, наложившую проклятье.
+ Сколько времени я проведу внутри
+ это мое собственное решение,
+ и я должен доложить ___qgiver_.
+ когда я убью колдунью.
 
 QBN:
 

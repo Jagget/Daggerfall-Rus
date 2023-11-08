@@ -1,40 +1,40 @@
 Quest: JHKN128
-DisplayName: To Liberate a City
+DisplayName: Освободить город
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A member of the Necromancers is causing havoc in
-<ce> one of %crn's cities. The villain is hiding
-<ce> somewhere inside and the town guard are unable
-<ce> to find where. Will you lend your aid?
+<ce> Один из некромантов сеет хаос в
+<ce> одном из городов %crn. Злодей прячется
+<ce> где-то в городе, и городская стража не может
+<ce> найти его. Окажете ли вы свою помощь?
 
 RefuseQuest:  [1001]
-<ce> That is unfortunate indeed.
+<ce> Это действительно прискорбно.
 
 AcceptQuest:  [1002]
-<ce> Go to ___captive_. Speak to the first
-<ce> member of the guard you see. Identify yourself
-<ce> and your purpose and promise to lend aid.
-<ce> Give me your word of honor that you will not leave
-<ce> the city until you have looked in every corner,
-<ce> under every roof, to wipe out the dark influence
-<ce> of this malefactor. Go with that oath.
-<ce> A safe journey to you, %pct.
+<ce> Отправляйтесь в ___captive_. Поговорите с первым
+<ce> встречным стражником. Представьтесь
+<ce> и объясните свою миссию и пообещайте оказать помощь.
+<ce> Дайте мне честное слово, что не покинете
+<ce> город, пока не осмотрите каждый угол
+<ce> под каждой крышей, чтобы изгнать тёмное влияние
+<ce> этого злоумышленника. Идите с этой клятвой.
+<ce> Счастливого пути вам, %pct.
 
 QuestComplete:  [1004]
-<ce> You arrive in ___captive_. Hailing a
-<ce> member of the guard, you ask for a report
-<ce> on the matter of the necromancer.
+<ce> Вы прибываете в ___captive_. Окликая
+<ce> стражника, вы просите доклад
+<ce> о ситуации с некромантом.
 
 Message:  1030
 %qdt:
- I have been sent to
- ___captive_ to look for a
- necromancer hiding somewhere
- in the city. I have given my word
- of honor not to leave until
- the villain is slain.
+ Меня отправили в
+ ___captive_, чтобы найти
+ некроманта, который прячется
+ где-то в городе. Я дал честное слово
+ не уходить, пока
+ злодей не будет убит.
 
 QBN:
 Person _qgiver_ group Questor male

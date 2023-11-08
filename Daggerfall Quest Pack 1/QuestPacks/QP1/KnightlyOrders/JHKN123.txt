@@ -1,57 +1,57 @@
 Quest: JHKN123
-DisplayName: The Crow Surfaces
+DisplayName: Появление Ворона
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> The formidable outlaw known as the Crow has surfaced
-<ce> in %crn. We need someone well-armed to apprehend
-<ce> him and bring him to trial here. Will you do so?
+<ce> Грозный преступник, известный как Ворон, появился
+<ce> в %crn. Нам нужен кто-то хорошо вооруженный, чтобы
+<ce> задержать его и предать суду. Вы согласны это сделать?
 
 RefuseQuest:  [1001]
-<ce> Well, I suppose I can enlist someone more valiant.
+<ce> Что ж, я завербую кого-нибудь более доблестного.
 
 AcceptQuest:  [1002]
-<ce> His hideout is _res_ of ___res_.
-<ce> The man is wanted in several provinces for indescribable
-<ce> crimes against civilization. Use any means available to
-<ce> subdue him. I wish you could avoid the lethal method,
-<ce> but ultimate resistance calls for the ultimate prybar.
-<ce> However you do it, return here within =timer_ days
-<ce> for his trial. %god watch over you.
+<ce> Его убежище находится _res_, ___res_. Этот человек разыскивается
+<ce> в нескольких провинциях за неописуемые преступления против
+<ce> цивилизации. Используйте любые доступные средства, чтобы пленить
+<ce> его. Мне бы хотелось, чтобы вы избежали жертв, но максимальное
+<ce> сопротивление требует максимального противодействия. Как бы вы
+<ce> ни поступили, вернитесь сюда в течение =timer_ дней, чтобы
+<ce> провести над ним суд. %god присмотрит за вами.
 
 QuestFail:  [1003]
-<ce> _qgiver_ needed your report on the Crow before the trial.
+<ce> _qgiver_ нужен был ваш отчет о Вороне до суда.
 
 QuestComplete:  [1004]
-<ce> A body double? What a shame. This tends to be his
-<ce> manner of evasion, but we hoped this would be the
-<ce> time we succeeded. Your work will be counted as
-<ce> a victory, my good %pct, though he has escaped us.
-<ce> Thank you for doing a knight's work.
+<ce> Подставное тело? Какая досада. Как правило, это
+<ce> его манера уклоняться, но мы надеялись, что именно
+<ce> в этот раз нам удастся его схватить. Ваша работа
+<ce> будет засчитана как победа, %pct, хотя он
+<ce> и ускользнул от нас. Спасибо вам за работу.
 
 Message:  1010
-<ce> The Crow grins at you inhumanly, his face stretching
-<ce> beyond ordinary proportions. His head begins to pull out
-<ce> toward both sides, and his eyes turn bright red.
-<ce> Once his skin turns a different color it is well
-<ce> apparent that this is not the Crow, but a well-placed
-<ce> diversion. Your task will no doubt require slaying this
-<ce> foe before reporting the matter to _qgiver_.
+<ce> Ворон нечеловечески ухмыляется вам, его лицо вытягивается
+<ce> за пределы обычных пропорций. Его голова начинает вытягиваться
+<ce> в обе стороны, а глаза становятся ярко-красными. Как только его
+<ce> кожа приобретает другой цвет, становится совершенно очевидно,
+<ce> что это не Ворон, а хорошо продуманная диверсия. Ваша задача,
+<ce> без сомнения, потребует уничтожения этого врага, прежде чем
+<ce> сообщить о случившемся _qgiver_.
 
 Message:  1011
-<ce> The Crow has escaped but this grants him one fewer place
-<ce> to hide. _qgiver_ will want to know this.
+<ce> Ворон сбежал, зато он лишился одного из своих убежищ.
+<ce> _qgiver_ захочет это знать.
 
 Message:  1030
 %qdt:
- _qgiver_ of ___qgiver_
- has given me orders to arrest the Crow,
- an infamous villain in ____qgiver_
- and other provinces who is hiding in
- ___res_ at _res_.
- I am permitted to use any means necessary and
- return before =timer_ days have passed.
+ _qgiver_ из ___qgiver_
+ отдал мне приказ арестовать Ворона,
+ известного злодея в ____qgiver_
+ и других провинциях, который скрывается
+ в _res_, ___res_.
+ Мне разрешено использовать любые необходимые средства
+ и вернуться до истечения =timer_ дней.
 
 QBN:
 Foe _q1_ is Gargoyle

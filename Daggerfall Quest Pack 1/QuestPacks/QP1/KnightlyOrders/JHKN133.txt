@@ -1,125 +1,125 @@
 Quest: JHKN133
-DisplayName: Stalking the Prey
+DisplayName: Преследование добычи
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A streak of tigers has migrated to
-<ce> a forlorn home in %crn. A hunter wishes for
-<ce> an honorable knight to help slay the beasts, and
-<ce> when we speak of honor, your name quickly follows.
-<ce> Will you accompany this stalker?
+<ce> Стая тигров мигрировала в
+<ce> заброшенный дом в %crn. Охотник желает,
+<ce> чтобы почетный рыцарь помог убить зверей,
+<ce> и когда речь заходит о чести, я тут же думаю о вас.
+<ce> Сопроводите ли вы этого следопыта?
 
 RefuseQuest:  [1001]
-<ce> Disappointing, but perhaps it is not so difficult.
+<ce> Досадно, но, возможно, это не так уж и сложно.
 
 AcceptQuest:  [1002]
-<ce> "Well there we are then!"
+<ce> "Ну вот и отлично!"
 <ce>
-<ce> A boisterous ranger pats you on the shoulder,
-<ce> and _questgiver_ nods at you.
+<ce> Шумный рейнджер хлопает вас по плечу,
+<ce> и _questgiver_ кивает вам.
 <ce>
-<ce> "Glad to hear I've got a taker! Let's head on
-<ce> out then %pcn! My name's _hunter_.
-<ce> We're headed to ___poorhome_,  to clear us out
-<ce> some tigers! Let's get there in =timer_ days.
-<ce> I'm ready when you are!"
+<ce> "Рад слышать, что у меня есть помощник! Тогда пошли,
+<ce> %pcn! Меня зовут _hunter_.
+<ce> Мы направляемся в ___poorhome_, чтобы очистить место
+<ce> от тигров! Давайте доберемся туда за =timer_ дней.
+<ce> Я готов, когда вы будете готовы!"
 
 QuestFail:  [1003]
-<ce>
+<ce> Задание провалено.
 
 QuestComplete:  [1004]
-<ce> You are left alone.
+<ce> Вы остаетесь в одиночестве.
 
 Message:  1010
-<ce> Sure enough, you see the pack of tigers around the
-<ce> property. Whoever lives inside must be terrified to
-<ce> leave. _hunter_ squeezes your arm.
+<ce> Действительно, вы видите стаю тигров вокруг
+<ce> здания. Тот, кто живет внутри, должно быть, в ужасе от
+<ce> одной мысли выйти наружу. _hunter_ сжимает вашу руку.
 <ce>
-<ce> "Okay, I'm gonna pull a bunch of 'em away and
-<ce> shoot 'em down with my bow. You'll kill whatever
-<ce> doesn't follow me. Ready? Go!"
+<ce> "Ладно, я отвлеку некоторых из них и
+<ce> убъю их из лука. Вы убьете тех,
+<ce> кто не последует за мной. Готовы? Вперед!"
 <ce>
-<ce> Before you can answer, the stalker begins hooting
-<ce> and running away. Three tigers follow %g2,
-<ce> and the rest settle for you.
+<ce> Прежде чем вы успеваете ответить, следопыт начинает
+<ce> кричать и убегать. Три тигра преследуют %g4,
+<ce> а остальные выбирают вас.
 
 Message:  1011
-<ce> The tigers now slain, you get your gear
-<ce> together to leave. _hunter_ shouts furiously.
+<ce> Тигры повержены, вы собираете свои вещи,
+<ce> чтобы уйти. _hunter_ кричит в бешенстве:
 <ce>
-<ce> "Hey! What're you doin'? There's three more right
-<ce> there, and we can't leave any stragglers! They'll
-<ce> come right back and eat someone else up if we leave!"
+<ce> "Эй! Что ты делаешь? Там еще трое, и мы
+<ce> не можем оставить их! Они же вернутся
+<ce> и съедят кого-нибудь еще, если мы уйдем!"
 <ce>
-<ce> The hunter points at three tiny tiger cubs nuzzling the
-<ce> bodies of the fallen adults. They couldn't be more than
-<ce> a month old; they pose no threat to anyone.
-<ce> _hunter_ pulls out a short blade.
+<ce> Охотник указывает на трех крошечных тигрят,
+<ce> тыкающихся в тела павших взрослых.
+<ce> Им не больше месяца; они никому не угрожают.
+<ce> _hunter_ достает короткий клинок.
 <ce>
-<ce> "I'm gonna go tell the family the problem's over.
-<ce> You stab these three right through, and I'll
-<ce> be right back."
+<ce> "Я сейчас пойду скажу семье, что проблема решена.
+<ce> Ты проткни этих троих насквозь,
+<ce> а я скоро вернусь."
 <ce>
-<ce> Do you kill the baby tigers?
+<ce> Убьешь ли ты маленьких тигрят?
 
 Message:  1012
-<ce> You make the cubs' death as quick as you can.
-<ce> Their pathetic mewling rends the air.
-<ce> Even if they knew how to defend themselves, the
-<ce> sorrow of losing their parents clouds their senses,
-<ce> and they put up no fight.
+<ce> Вы убиваете тигрят как можно быстрее.
+<ce> Их жалобное мяу разрывает воздух.
+<ce> Даже если бы они знали, как себя защитить,
+<ce> горе от потери родителей омрачает их чувства,
+<ce> и они не оказывают сопротивления.
 <ce>
-<ce> _hunter_ returns with a big smile.
+<ce> _hunter_ возвращается с широкой улыбкой.
 <ce>
-<ce> "How's it feel bein' a hero? Aw, you're probably
-<ce> used to it. Maybe one day I'll join y'all in
-<ce> __questgiver_ and we can do this
-<ce> some more!"
+<ce> "Каково это — быть героем? Ах, ты, наверное,
+<ce> уже привык. Может быть, однажды я присоединюсь
+<ce> к вам в __questgiver_
+<ce> и мы сможем работать вместе!"
 
 Message:  1013
-<ce> _hunter_ goes berserk.
+<ce> _hunter_ приходит в ярость.
 <ce>
-<ce> "If you're not here to kill tigers, what're you good
-<ce> for?! Get lost and let me handle this then!"
+<ce> "Если ты здесь не для того, чтобы убивать тигров,
+<ce> то на что ты годен?! Проваливай и дай мне с этим разобраться!"
 <ce>
-<ce> With the short blade out, %g1 advances toward the
-<ce> cubs. Do you let %g2 kill them?
+<ce> Вынув короткий клинок, %g1 направляется к
+<ce> детенышам. Вы позволите %g4 убить их?
 
 Message:  1014
-<ce> You can't take part in this, but also can't stop
-<ce> _hunter_. After %g1 stabs the cubs through,
-<ce> %g1 lets out a frustrated sigh and addresses you.
+<ce> Вы не можете принять в этом участие, но также не можете остановить
+<ce> _hunter_. После того как %g1 проткнул детенышей насквозь,
+<ce> %g1, разочарованно вздохнув, обращается к вам.
 <ce>
-<ce> "Well, glad that's over with. Didn't expect a knight
-<ce> to be such a wuss, though. I'm gonna go tell the
-<ce> folks here that the problem's gone. Bye."
+<ce> "Что ж, рад, что все закончилось. Не ожидал, что рыцарь
+<ce> окажется таким слабаком. Пойду скажу
+<ce> что проблема решена. Пока."
 
 Message:  1015
-<ce> "Pathetic %ra! Tiger lover! I'm not gonna
-<ce> let you stab me in the back!"
+<ce> "Жалкий %ра! Любитель тигров! Я не позволю
+<ce> тебе ударить меня ножом в спину!"
 <ce>
-<ce> _hunter_ steps back and readies %g4 bow.
+<ce> _hunter_ отступает назад и готовит лук.
 
 Message:  1016
-<ce> You knock %g2 to the ground, enough to instil the fear
-<ce> of death in %g2. Then %g1 begins crying. You make clear
-<ce> this fight is over, and _hunter_ starts
-<ce> crawling away. The tiger cubs, for their part, make their
-<ce> various ways into the wilderness. You stand as the
-<ce> sole victor.
+<ce> Вы сбиваете %g4 с ног, этого достаточно, чтобы
+<ce> вселить в н%g4 страх смерти. Затем %g1 начинает
+<ce> плакать. Ты даешь понять, что эта битва окончена,
+<ce> и охотник начинает уползать прочь. Тигрята,
+<ce> с другой стороны, прокладывают путь в дикую
+<ce> местность. Вы остаетесь один на поле боя.
 
 Message:  1017
-<ce> You were to clear out the tigers in ___poorhome_ by now.
-<ce> _hunter_ is disgusted with you.
+<ce> Вы должны были уже убрать тигров из ___poorhome_.
+<ce> Вы вызываете отвращение у _hunter_.
 
 Message:  1030
 %qdt:
- A stalker named _hunter_ has
- asked __questgiver_ for help in
- slaying a band of tigers at
- ___poorhome_. We need to be there
- within =timer_ days.
+ Охотник по имени _hunter_
+ попросил __questgiver_ о помощи
+ в уничтожении прайда тигров в
+ ___poorhome_. Мы должны быть
+ там в течение =timer_ дней.
 
 QBN:
 

@@ -1,50 +1,50 @@
 Quest: JHKN129
-DisplayName: Well-Intentioned Extremists
+DisplayName: Экстремисты с добрыми намерениями
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A band of rabblerousers is attempting
-<ce> to inflict its own form of perverted justice
-<ce> on one of %crn's cities. We need someone
-<ce> to go restore order to a city in turmoil.
-<ce> Will that be you?
+<ce> Группа бунтарей пытается
+<ce> навязать свою извращенную форму справедливости
+<ce> одному из городов %crn. Нам нужен кто-то,
+<ce> кто восстановит порядок в городе, охваченном смутой.
+<ce> Будете ли это вы?
    <--->
-<ce> Some scheming citizens in one of %crn's
-<ce> cities have taken the law into their own hands,
-<ce> punishing and pursuing whoever they will.
-<ce> Someone must eliminate this band. Will you?
+<ce> Некоторые коварные граждане в одном из городов %crn
+<ce> взяли закон в свои руки,
+<ce> наказывают и преследуют кого пожелают.
+<ce> Кто-то должен ликвидировать эту банду. Сделаете ли вы это?
 
 RefuseQuest:  [1001]
-<ce> Sigh. You are rank %pct, aren't you?
+<ce> Конечно, ведь вы же %pct, не так ли?
 
 AcceptQuest:  [1002]
-<ce> Very well. Head on to ___captive_. The
-<ce> band is quite skilled at remaining undercover and
-<ce> will likely pull no punches against someone
-<ce> trying to unravel their scheme. They consider
-<ce> themselves the true town guard, and apparently the
-<ce> guardsmen of ___captive_ are quite complicit
-<ce> in the plot. I predict a good number of beheadings
-<ce> once order returns to the place. You will likely have
-<ce> no more than a day once your investigation begins,
-<ce> for they will scatter off to another city to take
-<ce> it over once they see their conspiracy in peril.
-<ce> Prepare here, and then go when you are ready
-<ce> to represent our good %t.
+<ce> Хорошо. Направляйтесь в ___captive_. Эта
+<ce> банда очень искусна в том, чтобы оставаться незаметной
+<ce> и вероятно не будет стесняться в средствах против того,
+<ce> кто попытается раскрыть их замысел. Они считают
+<ce> себя настоящей городской стражей, и, по всей видимости,
+<ce> стражники из ___captive_ довольно сильно замешаны
+<ce> в этом заговоре. Я предвижу немало публичных казней,
+<ce> как только порядок вновь восторжествует в этом месте. Вероятно у вас будет
+<ce> не более дня с начала вашего расследования,
+<ce> так как они сбегут в другой город, чтобы захватить его,
+<ce> как только увидят, что их конспирация под угрозой.
+<ce> Подготовьтесь здесь, а затем отправляйтесь, когда будете готовы
+<ce> представлять закон и порядок.
 
 QuestComplete:  [1004]
-<ce> Arriving in ___captive_, you are apparently
-<ce> already in violation of some homebrewn law.
-<ce> An enforcer sets out to stop you, weapon in hand.
+<ce> Прибыв в ___captive_, вы, похоже,
+<ce> уже нарушили какой-то местный самодельный закон.
+<ce> Стражник с оружием в руках направляется, чтобы остановить вас.
 
 Message:  1030
 %qdt:
- ___captive_ has been overtaken
- by a group of self-proclaimed enforcers
- of the law. I am to vanquish the band
- of vigilantes, taking no more than one
- day once I am inside.
+ ___captive_ захвачен
+ группой самопровозглашенных исполнителей
+ закона. Я должен победить банду
+ стражников, затратив не более одного
+ дня после того, как я окажусь там.
 
 QBN:
 Person _qgiver_ group Questor male

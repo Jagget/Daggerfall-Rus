@@ -1,65 +1,65 @@
 Quest: JHKN126
-DisplayName: An Abducted Child
+DisplayName: Похищенное дитя
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> The Dark Brotherhood has struck again,
-<ce> trapping a child in a remote cave in
-<ce> %crn. We need a hero to rescue
-<ce> the poor youth. Will you go?
+<ce> Темное Братство снова нанесло удар,
+<ce> заманив ребенка в ловушку в отдаленной
+<ce> пещере в %crn. Нам нужен герой, чтобы
+<ce> спасти юную жертву. Пойдете ли вы?
 
 RefuseQuest:  [1001]
-<ce> We have many fine members who will leap
-<ce> at this prospect, I assure you.
+<ce> Уверяю вас, у нас есть много замечательных рыцарей,
+<ce> которые ухватятся за эту возможность.
 
 AcceptQuest:  [1002]
-<ce> The deadline for the ransom is in =2dung_ days.
-<ce> Please find _child_ by that
-<ce> time. %g1 will be in ___dung_.
-<ce> Courage and honor, %pct.
+<ce> Срок выкупа - через =2dung_ дня.
+<ce> Пожалуйста, найдите _child_ к этому
+<ce> времени. Ищите %g4 в ___dung_.
+<ce> Храбрость и честь, %pct.
 
 QuestFail:  [1003]
-<ce> The ransom deadline for _child_ has passed.
+<ce> Срок выкупа _child_ истек.
 
 QuestComplete:  [1004]
-<ce> Hail, _child_! Have you been
-<ce> properly introduced to your rescuer? %pg3 name
-<ce> is %pcf, and %pg1 is a true hero.
-<ce> Your family will be here within the hour,
-<ce> and these knights here will keep you safe.
+<ce> Приветствую тебя, _child_! Хочу тебя
+<ce> представить твоему спасителю! Имя %pg3 -
+<ce> %pcf, и %pg1 - настоящий герой.
+<ce> Твоя семья будет здесь в течение часа,
+<ce> а эти рыцари обеспечат твою безопасность.
 <ce>
-<ce> %pct, you have honored the name of
-<ce> our order this day. Fine work, my friend.
+<ce> %pct, ты почтил имя нашего ордена
+<ce> в этот день. Отличная работа, мой друг.
 
 Message:  1020
-<ce> "H-hello? Who are you?"
+<ce> "З-здравствуйте? Кто вы?"
 <ce>
-<ce> You explain your mission and convince
-<ce> _child_ to leave with you.
-<ce> A magical field surrounding %g2 fades away
-<ce> once %g1 leaves its circle. Any pursuers
-<ce> from the Dark Brotherhood will now
-<ce> know the ransom is failing.
+<ce> Вы объясняете свою миссию и убеждаете
+<ce> _child_ уйти с вами.
+<ce> Магическое поле, окружающее %g4, исчезает
+<ce> как только %g1 покидает свой круг. Преследователи
+<ce> из Темного Братства теперь узнают,
+<ce> что выкуп не получен.
    <--->
-<ce> "I'm scared. What do you want?"
+<ce> "Мне страшно. Чего вы хотите?"
 <ce>
-<ce> You explain your mission and convince
-<ce> _child_ to leave with you.
-<ce> A magical field surrounding %g2 fades away
-<ce> once %g1 leaves its circle. Any pursuers
-<ce> from the Dark Brotherhood will now
-<ce> know the ransom is failing.
+<ce> Вы объясняете свою миссию и убеждаете
+<ce> _child_ уйти с вами.
+<ce> Магическое поле, окружающее %g4, исчезает
+<ce> как только %g1 покидает свой круг. Преследователи
+<ce> из Темного Братства теперь узнают,
+<ce> что выкуп не получен.
 
 Message:  1030
 %qdt:
- _qgiver_ has sent me to
- ___dung_ to frustrate a ransom
- attempt by the Dark Brotherhood.
- I am to rescue _child_
- within =2dung_ days' time and return
- %g2 to the order hall
- in ___qgiver_.
+ _qgiver_ отправил меня в
+ ___dung_, чтобы сорвать попытку выкупа
+ от Темного Братства.
+ Я должен спасти _child_
+ в течение =2dung_ дней и вернуть
+ %g4 в зал ордена
+ в ___qgiver_.
 
 QBN:
 

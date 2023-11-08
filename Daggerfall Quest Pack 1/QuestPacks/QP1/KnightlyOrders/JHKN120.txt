@@ -1,84 +1,84 @@
 Quest: JHKN120
-DisplayName: Subterfuge
+DisplayName: Ухищрение
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A regional city needs to root out some problematic criminals.
-<ce> They need someone to go in from the outside. Are you willing
-<ce> to be an accomplice to the scheme?
+<ce> Местный город столкнулся с некоторыми серьезными
+<ce> проблемами из-за преступных элементов. Нам нужен кто-то,
+<ce> кто сможет внедриться к ним. Готовы ли вы
+<ce> присоединиться к этому плану?
 
 RefuseQuest:  [1001]
-<ce> And why not? What repulses you about it?
+<ce> Почему нет? Что вас останавливает?
 
 AcceptQuest:  [1002]
-<ce> That's the spirit. Take this paper. It has some sort of code
-<ce> statement that will make the criminals believe you a friend.
-<ce> Speak those words in a populated part of ___captive_.
-<ce> Then do what you must to find their place of meeting.
-<ce> Your mission is to end this band's existence,
-<ce> and we will expect your return after you have
-<ce> slain the ringleader, no sooner. Fair travels, %pct.
-<ce> You have one month.
+<ce> Это именно то, что нам нужно. Возьмите этот документ.
+<ce> В нем есть кодовая  фраза, которая заставит
+<ce> преступников думать, что вы с ними.
+<ce> Произнесите эти слова в ___captive_.
+<ce> Затем сделайте все необходимое, чтобы узнать место их встречи.
+<ce> Ваша миссия заключается в том, чтобы положить конец
+<ce> существованию этой группы, и мы будем ожидать вашего
+<ce> возвращения после устранения главаря, но не раньше.
+<ce> Всего вам доброго, %pct. У вас есть один месяц.
 
 QuestFail:  [1003]
-<ce> _qgiver_ tasked you with finding and
-<ce> slaying the criminals of ___captive_ by now.
+<ce> _qgiver_ поручил вам найти и уничтожить
+<ce> преступников из ___captive_ к этому времени.
 
 QuestComplete:  [1004]
-<ce> I knew we had put the matter into good hands.
-<ce> No doubt ___captive_ will spring back into
-<ce> form in little time. Fine work, %pcf.
+<ce> Я знал, что мы делаем правильный выбор, доверяя вам
+<ce> эту миссию. ___captive_ может снова жить
+<ce> в безопасности. Отличная работа, %pcf.
 
 Message:  1021
-<ce> You read the lengthy tract aloud. Before you finish, you
-<ce> notice a hooded figure standing nearby, apparently
-<ce> waiting for you to strike a conversation.
+<ce> Вы читаете документ вслух. Не успев закончить, вы
+<ce> замечаете фигуру в капюшоне, стоящую рядом и, кажется,
+<ce> ожидающую начать разговор.
 
 Message:  1022
-<ce> Having gained the first strike, you
-<ce> catch the scoundrel off guard.
+<ce> С нанесением первого удара вы застаете негодяя врасплох.
 <ce>
-<ce> "No, wait! My life isn't worth this!"
+<ce> "Подождите! Моя жизнь этого не стоит!"
 <ce>
-<ce> A terse interrogation follows, in which you learn
-<ce> the band makes its home in ___dung_.
-<ce> Your hapless informant pleads to be spared.
+<ce> Затем следует короткий допрос, в результате которого вы узнаете,
+<ce> где преступники устроили свою базу, ___dung_.
+<ce> Ваш незадачливый информатор умоляет о пощаде.
    <--->
-<ce> Having gained the first strike, you
-<ce> catch the scoundrel off guard.
+<ce> С нанесением первого удара вы застаете негодяя врасплох.
 <ce>
-<ce> "No, stop! I'll talk!"
+<ce> "Нет, остановитесь! Я буду говорить!"
 <ce>
-<ce> A terse interrogation follows, in which you learn
-<ce> the band makes its home in ___dung_.
-<ce> Your hapless informant pleads to be spared.
+<ce> Затем следует короткий допрос, в результате которого вы узнаете,
+<ce> где преступники устроили свою базу, ___dung_.
+<ce> Ваш незадачливый информатор умоляет о пощаде.
 
 Message:  1023
-<ce> This appears to have been the ringleader of the
-<ce> band. Counting all the others you have slain
-<ce> here, it is easy to conclude that
-<ce> ___captive_'s threat is over.
+<ce> По всей видимости, это был главарь группы,
+<ce> и, судя по количеству убитых вами,
+<ce> ___captive_ теперь вне опасности.
 
 Message:  1026
-<ce> A hostile guard notices your arrival at
-<ce> ___dung_ and begins
-<ce> to shout alarums to the rest of the band.
+<ce> Вражеский охранник замечает вас, когда вы
+<ce> входите в ___dung_ и начинает
+<ce> кричать остальным членам группы.
 
 Message:  1030
 %qdt:
- _qgiver_ in ___qgiver_ has sent me
- to ___captive_ to root out a persistent and
- dangerous criminal band hiding in it.
- I have a piece of paper that should attract
- someone's attention, from whom I may
- be able to get more information. I have
- two months to slay the criminal group.
+ _qgiver_ в ___qgiver_ послал меня
+ в ___captive_, чтобы выкорчевать упорную и опасную
+ преступную группу, скрывающуюся в ___qgiver_.
+ У меня есть бумага, которая должна привлечь
+ чье-то внимание, и я, возможно,
+ смогу получить больше информации. У меня
+ два месяца, чтобы уничтожить преступную группу.
 
 Message:  1031
 %qdt:
- I have learned that ___captive_'s invaders
- work out of ___dung_ in ____dung_.
+ Мне стало известно, что преступники,
+ захватившие ___captive_,
+ работают из ___dung_ в ____dung_.
 
 QBN:
 Item _magic_ magic_item

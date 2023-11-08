@@ -1,120 +1,120 @@
 Quest: JHKN127
-DisplayName: The Caravan
+DisplayName: Караван
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Merchants around %crn have been waylaid
-<ce> by a band of thieves in their travels. They have
-<ce> petitioned our order for help in rooting them out.
-<ce> Are you willing to go along with their plot?
+<ce> Купцы в окрестностях %crn столкнулись с нападениями
+<ce> банды воров во время своих путешествий. Они обратились
+<ce> к нашему ордену за помощью в искоренении этой угрозы.
+<ce> Готовы ли вы помочь им в этом деле?
 
 RefuseQuest:  [1001]
-<ce> These people need a guardian, %pct.
+<ce> Этим людям нужен защитник, %pct.
 
 AcceptQuest:  [1002]
-<ce> "Excellent. Now, it is difficult to tell where
-<ce> the band will strike next. Your task will be to
-<ce> remain with _guide_ and %g4 caravan
-<ce> until the thieves come out of hiding. Travel to
-<ce> various small settlements, for the reports tell
-<ce> us they tend to shy away from large cities.
-<ce> Level them to the earth and report to me your
-<ce> success. I grant you one month to do this."
+<ce> "Отлично. Теперь трудно сказать, где
+<ce> банда ударит в следующий раз. Ваша задача -
+<ce> сопровождать _guide_ и %g4 караван
+<ce> до тех пор, пока воры не нападут. Путешествуйте по
+<ce> различным маленьким поселениям, так как сообщения говорят,
+<ce> что они стараются избегать больших городов.
+<ce> Сравняйте их с землей и доложите мне о вашем
+<ce> успехе. Я даю вам один месяц на выполнение этого."
 <ce>
-<ce> _qgiver_ calls out to _guide_
-<ce> and introduces you, explaining the task.
-<ce> The merchant thanks you profusely.
+<ce> _qgiver_ обращается к _guide_
+<ce> и представляет вас, объясняя задачу.
+<ce> Купец горячо вас благодарит.
 <ce>
-<ce> "This is wonderful! I have the fullest assurance
-<ce> that this problem will be dealt with in record time.
-<ce> I suppose that we should just go traveling about
-<ce> until they find us!"
+<ce> "Это замечательно! Я абсолютно уверен,
+<ce> что эта проблема будет решена в кратчайшие сроки.
+<ce> Полагаю, нам просто следует продолжать путешествовать,
+<ce> пока они нас не найдут!"
    <--->
-<ce> "Excellent. Now, it is difficult to tell where
-<ce> the band will strike next. Your task will be to
-<ce> remain with _guide_ and %g4 caravan
-<ce> until the thieves come out of hiding. Travel to
-<ce> various small settlements, for the reports tell
-<ce> us they tend to shy away from large cities.
-<ce> Level them to the earth and report to me your
-<ce> success. I grant you one month to do this."
+<ce> "Отлично. Теперь трудно сказать, где
+<ce> банда ударит в следующий раз. Ваша задача -
+<ce> сопровождать _guide_ и %g4 караван
+<ce> до тех пор, пока воры не нападут. Путешествуйте по
+<ce> различным маленьким поселениям, так как сообщения говорят,
+<ce> что они стараются избегать больших городов.
+<ce> Сравняйте их с землей и доложите мне о вашем
+<ce> успехе. Я даю вам один месяц на выполнение этого."
 <ce>
-<ce> _qgiver_ calls out to _guide_
-<ce> and introduces you, explaining the task.
-<ce> The merchant thanks you profusely.
+<ce> _qgiver_ обращается к _guide_
+<ce> и представляет вас, объясняя задачу.
+<ce> Купец горячо вас благодарит.
 <ce>
-<ce> "A knight to protect me! The %t has heard us
-<ce> at last! Thank you! Lead the way. Where shall we go?"
+<ce> "Рыцарь будет защищать меня! %t наконец нас услышали!
+<ce> Благодарю вас! Ведите меня. Куда мы пойдем?"
 
 QuestFail:  [1003]
-<ce> During this fracas _guide_ has fallen dead.
-<ce> This is a terrible price to pay for uncovering
-<ce> this group of thieves.
+<ce> Во время этой схватки _guide_ пал замертво.
+<ce> Это ужасная цена за раскрытие
+<ce> этой группы воров.
 
 QuestComplete:  [1004]
-<ce> _qgiver_ shakes your hand warmly for your service.
+<ce> _qgiver_ горячо жмет вам руку за вашу службу.
 
 Message:  1020
-<ce> Your small caravan is surrounded by
-<ce> a pack of thieves. Presumably this is what
-<ce> _qgiver_ sent you to find.
+<ce> Ваш небольшой караван окружен
+<ce> группой воров. Предположительно, это те,
+<ce> которых _qgiver_ послал вас найти.
 
 Message:  1021
-<ce> _guide_, unscathed during the battle,
-<ce> is overjoyed to know that the group has been slain.
+<ce> _guide_, оставшийся невредимым во время битвы,
+<ce> радуется, узнав, что группа воров была убита.
 <ce>
-<ce> "You are truly a knight of the highest order!
-<ce> What a tale I will tell throughout %crn!"
+<ce> "Вы действительно рыцарь высочайшего порядка!
+<ce> Эту историю я буду рассказывать по всему %crn!"
 <ce>
-<ce> After offering you profuse thanks, %g1
-<ce> prepares his things for the next leg of the
-<ce> journey and departs. Now to report
-<ce> to _qgiver_ in ___qgiver_.
+<ce> После того как он горячо благодарит вас, %g1
+<ce> готовит свои вещи к следующему этапу путешествия
+<ce> и уходит. Теперь нужно доложить
+<ce> _qgiver_ в ___qgiver_.
    <--->
-<ce> _guide_, unscathed during the battle,
-<ce> is overjoyed to know that the group has been slain.
+<ce> _guide_, оставшийся невредимым во время битвы,
+<ce> радуется, узнав, что группа воров была убита.
 <ce>
-<ce> "Wow, what did I just watch? That was incredible!
-<ce> Thank you, thank you, thank you!"
+<ce> "Вау, что это было? Это было невероятно!
+<ce> Спасибо вам, спасибо, спасибо!"
 <ce>
-<ce> After offering you profuse thanks, %g1
-<ce> prepares his things for the next leg of the
-<ce> journey and departs. Now to report
-<ce> to _qgiver_ in ___qgiver_.
+<ce> После того как он горячо благодарит вас, %g1
+<ce> готовит свои вещи к следующему этапу путешествия
+<ce> и уходит. Теперь нужно доложить
+<ce> _qgiver_ в ___qgiver_.
 
 Message:  1022
-<ce> Welcome, %pct. So _guide_ did not
-<ce> survive the battle, it would seem. We are elated
-<ce> at the destruction of this thieving band,
-<ce> but we wish it did not have to come at this cost.
-<ce> I nevertheless thank you for your service.
-<ce> %crn will be greatly benefitted by your work.
+<ce> Добро пожаловать, %pct. Похоже, _guide_
+<ce> не выжил после битвы. Мы в восторге
+<ce> от уничтожения этой банды воров,
+<ce> но жаль, что это обошлось такой ценой.
+<ce> Тем не менее, благодарю вас за вашу службу.
+<ce> %crn в значительной мере выиграет от вашей работы.
 
 Message:  1023
-<ce> Welcome, %pct. You have slain the band of thieves
-<ce> and preserved the life of the merchant. Truly
-<ce> you have passed this test with flying colors. I will
-<ce> tell new recruits to this order concerning your
-<ce> deeds and the example they provide. Excellent work.
+<ce> Добро пожаловать, %pct. Вы уничтожили банду воров
+<ce> и сохранили жизнь купца. Поистине
+<ce> вы прошли это испытание на отлично. Я буду
+<ce> рассказывать новобранцам нашего ордена о ваших
+<ce> подвигах и о том примере, который они подают. Отличная работа.
 
 Message:  1024
-<ce> Though _guide_ fell during the battle,
-<ce> this band is still vanquished. It is time
-<ce> to report to _qgiver_.
+<ce> Хотя _guide_ и пал в бою,
+<ce> эта банда всё равно разгромлена. Пришло время
+<ce> доложить _qgiver_.
 
 Message:  1030
 %qdt:
- _qgiver_ of ___qgiver_ has
- sent me to accompany a merchant
- named _guide_ in a plot
- to root out a violent band of
- thieves in the countryside.
- I have one month to travel
- about until I find them.
- I was told to travel
- to a variety of settlements
- instead of cities.
+ _qgiver_ из ___qgiver_ послал меня
+ сопровождать купца
+ по имени _guide_ с намерением
+ искоренить жестокую банду
+ воров в сельской местности.
+ У меня есть один месяц на путешествия,
+ пока я их не найду.
+ Мне сказали путешествовать
+ по маленьким поселениям
+ вместо городов.
 
 QBN:
 

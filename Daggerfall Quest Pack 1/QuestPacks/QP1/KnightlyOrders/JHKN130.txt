@@ -1,189 +1,187 @@
 Quest: JHKN130
-DisplayName: Ransom Payment
+DisplayName: Оплата выкупа
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A family native to this city
-<ce> has informed us of a relative
-<ce> who was kidnapped by knaves
-<ce> and taken for ransom. They cannot
-<ce> pay, but someone must. Will you
-<ce> go and offer up the price to save
-<ce> the captive's life?
+<ce> Семья, коренные жители этого города,
+<ce> сообщила нам о родственнике,
+<ce> которого похитили негодяи
+<ce> и требуют за него выкуп. Они не могут
+<ce> заплатить, но кто-то должен.
+<ce> Пойдете ли вы и предложите ли цену,
+<ce> чтобы спасти жизнь пленного?
 
 RefuseQuest:  [1001]
-<ce> Someone here has to have deep pockets, surely.
+<ce> У кого-то здесь должны быть глубокие карманы, несомненно.
 
 AcceptQuest:  [1002]
-<ce> You are to look for _ransom_,
-<ce> who was abducted a few days previous. The family
-<ce> was informed that the handler will be in
-<ce> a store called _place_,
-<ce> in the city of ___place_. I do not
-<ce> need to emphasize, my friend, that
-<ce> this entirely depends on you. If you fail,
-<ce> no one else will be able to clean up the
-<ce> mess. They will expect you within
-<ce> =2place_ days. Godspeed.
+<ce> Вам предстоит искать _ransom_,
+<ce> которого похитили несколько дней назад. Семью
+<ce> уведомили, что посредник будет находиться в
+<ce> магазине под названием _place_,
+<ce> в городе ___place_. Не нужно говорить,
+<ce> мой друг, что всё полностью зависит
+<ce> от вас. Если вы потерпите неудачу,
+<ce> никто другой не сможет разрешить
+<ce> эту ситуацию. Они будут ожидать вас в течение
+<ce> =2place_ дней. Счастливого пути.
 
 QuestFail:  [1003]
-<ce> The ransom date has passed. You have failed.
+<ce> Дата выкупа прошла. Вы потерпели неудачу.
 
 QuestComplete:  [1004]
-<ce> _ransom_, we will notify your
-<ce> family immediately. What a joy we all feel
-<ce> for your safe return. And what a noble act,
-<ce> %pcf! I will voice it abroad as far as I can.
-<ce> This is the work of true knights. A hundred
-<ce> congratulations on your success.
+<ce> _ransom_, мы немедленно уведомим вашу
+<ce> семью. Как рады мы все
+<ce> вашему благополучному возвращению.
+<ce> И какой благородный поступок, %pcf!
+<ce> Я расскажу об этом всем и каждому!
+<ce> Это настоящий поступок. Сто поздравлений вам!
    <--->
-<ce> %oth, I have spent sleepless nights since
-<ce> I sent you out, %pct. My fears were unfounded.
-<ce> Please, _ransom_ wait here. I will send out
-<ce> a squire to find your family. And as for you,
-<ce> %pcf, I will voice your act all abroad
-<ce> %crn. Let no one forget your selfless
-<ce> sacrifice for one who cannot repay you.
+<ce> %oth, я провел бессонные ночи с того момента, как
+<ce> отправил вас, %pct. Мои опасения были напрасны.
+<ce> Пожалуйста, _ransom_, ожидайте здесь. Я отправлю
+<ce> оруженосца найти вашу семью. Что касается вас, %pcf,
+<ce> я расскажу о вашем поступке по всему %crn. Пусть
+<ce> никто не забывает о вашей бескорыстной жертве ради
+<ce> того, кто не в состоянии вас отблагодарить.
 
 QuestLogEntry:  [1010]
 %qdt:
- I have accepted a task
- from ==qgiver_ to retrieve a
- person at ransom. As the family
- is too poor to pay, I will offer up
- the sum myself. The contact is to be
- found in ___place_, at a
- shop called _place_.
- I must do so within =2place_ days.
+ У меня задание от ==qgiver_
+ освободить человека за выкуп. Так
+ как семья слишком бедна, чтобы
+ заплатить, я сам предложу
+ необходимую сумму. Связной будет
+ находиться в ___place_, в магазине
+ под названием _place_. Я должен
+ сделать это в течение =2place_ дней.
 
 Message:  1011
 %qdt:
- I have learned _ransom_,
- the person I have ransomed,
- is in ___dung_.
+ Я узнал, что _ransom_,
+ человек, которого я выкупил,
+ находится в ___dung_.
 
 Message:  1014
-<ce> Where're the coins? I don't see no coins.
-<ce> Get me real money and we'll talk.
+<ce> Где монеты? Я не вижу ни одной монеты.
+<ce> Принесите настоящие деньги, тогда и поговорим.
 
 Message:  1020
-<ce> You have it? Lemme see. Well... yeah.
-<ce> Good job. We might be shrewd but we do honest work.
-<ce> Go find your prize down in ___dung_.
-<ce> I'll mark it on your map. Pleasure doing business.
+<ce> Принесли? Покажите-ка. Ну... да. Хорошо.
+<ce> Мы, может быть, и хитрые, но работаем честно.
+<ce> Идите ищите ваш приз в ___dung_. Я отмечу это
+<ce> на вашей карте. Рады были с вами поработать.
    <--->
-<ce> Got the money? I'll count it out. Nice. Hope they
-<ce> send you more often. I'll mark the place on
-<ce> your map, ___dung_. Go there
-<ce> and look. I'll tell my people to clear out of it.
-<ce> Should be a nice Sundas stroll for ya. Later kid.
+<ce> У вас деньги? Я их пересчитаю. Отлично. Надеюсь,
+<ce> они будут отправлять вас чаще. Я отмечу место на
+<ce> вашей карте, ___dung_. Идите туда и осмотритесь.
+<ce> Я скажу своим людям уйти оттуда. Для вас это будет
+<ce> просто приятная прогулка. Пока, малыш.
 
 Message:  1021
-<ce> You find _ransom_ here, whose
-<ce> countenance fills with joy at the sight of you.
+<ce> Вы находите _ransom_, чье
+<ce> лицо наполняется радостью при виде вас.
 <ce>
-<ce> "By %god, I had given up all hope. I thought
-<ce> the ransom failed and they left me to die here.
-<ce> Please, take me from here!"
+<ce> "О, %god, я потерял всякую надежду. Я думал,
+<ce> что выкуп не удался и они оставили меня умирать здесь.
+<ce> Пожалуйста, выведите меня отсюда!"
 <ce>
-<ce> Now to return to ==qgiver_.
+<ce> Теперь нужно вернуться к ==qgiver_.
    <--->
-<ce> You find _ransom_ here, whose
-<ce> countenance fills with joy at the sight of you.
+<ce> Вы находите _ransom_, чье
+<ce> лицо наполняется радостью при виде вас.
 <ce>
-<ce> "%oth! Can it be true? I owe you my life,
-<ce> good knight! Please, let us away from here!"
+<ce> "%oth! Неужели это правда? Я обязан вам жизнью,
+<ce> доблестный рыцарь! Пожалуйста, давайте уйдем отсюда!"
 <ce>
-<ce> Now to return to ==qgiver_.
+<ce> Теперь нужно вернуться к ==qgiver_.
 
 Message:  1023
-<ce> Well aren't you loaded? Let's see just how
-<ce> much more you got on you. Hey! Playtime's on!
+<ce> Ну и нагружен ты, а? Давай посмотрим, сколько
+<ce> еще у тебя с собой. Эй! Пора поиграть!
    <--->
-<ce> Nice work, %ra! That all you got on you?
-<ce> Let's find out together, shall we?
+<ce> Хорошая работа, %ra! Это все что
+<ce> у тебя есть? А если найду?
 
 Message:  1024
-Job number =rand_
+Задание номер =rand_
 <ce>
-Name: _ransom_
-Location: ___dung_
+Имя: _ransom_
+Местоположение: ___dung_
 <ce>
-No more funny business. Take the gold
-and get going. This is your last warning.
+Больше никаких приколов. Заберите золото
+и уходите. Это последнее предупреждение.
 
 Message:  1025
-<ce> "You got the gold? Give it here.
-<ce> Let's get this over with."
+<ce> "Вы достали золото? Дайте сюда.
+<ce> Поскорее покончим с этим".
 <ce>
-<ce> As you hand the money over, a loud
-<ce> banging sound comes from the front
-<ce> door. A small band of rabblerousers
-<ce> proceeds to enter.
+<ce> Когда вы передаете деньги, от входной
+<ce> двери доносится грохот. Входит
+<ce> небольшая группа бандитов.
 <ce>
-<ce> "So we heard there was something
-<ce> happening here today! How's about you
-<ce> share some of that money with us?"
+<ce> "Мы слышали, что сегодня
+<ce> здесь что-то происходит!
+<ce> Может, поделишься с нами?"
 <ce>
-<ce> The handler hides behind you and whispers,
+<ce> Посредник прячется за вами и шепчет:
 <ce>
-<ce> "If I die, you'll never find out where
-<ce> _ransom_ is. Help me!"
+<ce> "Если я умру, вы никогда не узнаете,
+<ce> где находится _ransom_. Помогите мне!"
    <--->
-<ce> "You here to pay? Hurry up.
-<ce> Let me see it."
+<ce> "Вы пришли заплатить? Поторопитесь.
+<ce> Покажите мне деньги."
 <ce>
-<ce> As you hand the money over, a loud
-<ce> banging sound comes from the front
-<ce> door. A small band of rabblerousers
-<ce> proceeds to enter.
+<ce> Когда вы передаете деньги, от входной
+<ce> двери раздается грохот. Входит
+<ce> небольшая группа бандитов.
 <ce>
-<ce> "Overheard about your little ransom
-<ce> deal! Weird how you didn't tell us
-<ce> about it. How's about you give us
-<ce> a piece of it?"
+<ce> "Слышали о вашей маленькой сделке по выкупу!
+<ce> Странно, что вы нам не сказали
+<ce> об этом. Как насчет того, чтобы отдать нам
+<ce> часть?"
 <ce>
-<ce> The handler hides behind you and whispers,
+<ce> Посредник прячется за вами и шепчет,
 <ce>
-<ce> "I can't fight! Please, help me and I'll
-<ce> tell you where _ransom_ is!"
+<ce> "Я не умею драться! Пожалуйста, помогите мне, и я
+<ce> скажу вам, где _ransom_!"
 
 Message:  1026
-<ce> Good work, %ra. I'm getting outta here.
-<ce> Head to ___dung_. I'll mark it on
-<ce> your map and then I'm gone.
+<ce> Отличная работа, %ra. Я ухожу отсюда.
+<ce> Направляйтесь в ___dung_. Я отмечу это на
+<ce> вашей карте и затем исчезну.
    <--->
-<ce> Nice save. The place is called
-<ce> ___dung_. I'm just gonna
-<ce> mark it on your map and I'm outta here.
+<ce> Спасибо что спасли. Место называется
+<ce> ___dung_. Я просто отмечу это
+<ce> на вашей карте и ухожу отсюда.
 
 Message:  1027
-<ce> Ah, and lest I forget, they have demanded
-<ce> the sum of 1341 gold pieces. Be sure to
-<ce> have it on your person in physical form.
+<ce> Ах, и пока не забыл, они требуют
+<ce> сумму в 1341 золотую монету. Убедитесь, что
+<ce> у вас она будет при себе в наличии.
    <--->
-<ce> Oh, I should tell you the sum. They require
-<ce> 1341 gold pieces, all in one, no letters
-<ce> of credit. %god go with you.
+<ce> О, я должен сказать вам сумму. Они требуют
+<ce> 1341 золотую монету, всё сразу, без ваучеров.
+<ce> %god пусть будет с вами.
 
 Message:  1028
-<ce> Ah, and lest I forget, they have demanded
-<ce> the sum of 1798 gold pieces. Be sure to
-<ce> have it on your person in physical form.
+<ce> Ах, и пока не забыл, они требуют
+<ce> сумму в 1798 золотых монет. Убедитесь, что
+<ce> у вас она будет при себе в наличии.
    <--->
-<ce> Oh, I should tell you the sum. They require
-<ce> 1798 gold pieces, all in one, no letters
-<ce> of credit. %god go with you.
+<ce> О, я должен сказать вам сумму. Они требуют
+<ce> 1798 золотых монет, всё сразу, без ваучеров.
+<ce> %god пусть будет с вами.
 
 Message:  1029
-<ce> Ah, and lest I forget, they have demanded
-<ce> the sum of 2152 gold pieces. Be sure to
-<ce> have it on your person in physical form.
+<ce> Ах, и пока не забыл, они требуют
+<ce> сумму в 2152 золотые монеты. Убедитесь, что
+<ce> у вас она будет при себе в наличии.
    <--->
-<ce> Oh, I should tell you the sum. They require
-<ce> 2152 gold pieces, all in one, no letters
-<ce> of credit. %god go with you.
+<ce> О, я должен сказать вам сумму. Они требуют
+<ce> 2152 золотые монеты, всё сразу, без ваучеров.
+<ce> %god пусть будет с вами.
 
 QBN:
 

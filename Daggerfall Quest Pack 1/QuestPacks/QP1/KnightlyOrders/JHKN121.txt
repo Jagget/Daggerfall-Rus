@@ -1,113 +1,115 @@
 Quest: JHKN121
-DisplayName: Witch Hunt
+DisplayName: Охота на ведьм
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Good day. We were recently informed of a witch
-<ce> hiding in another city, likely determined to
-<ce> do no good thing. We need someone to apprehend
-<ce> her and bring an end to her crimes.
+<ce> Добрый день. Недавно поступила информация о ведьме,
+<ce> скрывающейся в другом городе и, возможно, замышляющей
+<ce> нечестные дела. Нам нужен кто-то, кто сможет поймать
+<ce> её и положить конец её деятельности.
 
 RefuseQuest:  [1001]
-<ce> Then what are you willing to do, %pct?
+<ce> Тогда чем вы хотите заняться, %pct?
 
 AcceptQuest:  [1002]
-<ce> Her name is _witch_. Head on to
-<ce> ___res_ where she lives. You are assigned to
-<ce> capture her and bring her here for holding until a proper
-<ce> trial can be carried out. If she resists, that will be
-<ce> evidence sufficient of her witchery, and you are permitted
-<ce> to end the threat immediately. Whatever the outcome,
-<ce> you must return here within =timer_ days with news of
-<ce> your success. Safest travels, %pct.
+<ce> Её зовут _witch_. Отправляйтесь в
+<ce> ___res_, где она проживает. Вам поручено
+<ce> схватить её и доставить сюда для заключения
+<ce> под стражу до тех пор, пока не будет проведен должный
+<ce> суд. Если она будет сопротивляться, это будет
+<ce> явным свидетельством её колдовства, и вам разрешается
+<ce> нейтрализовать её немедленно. Вне зависимости от исхода,
+<ce> вам нужно вернуться сюда в течение =timer_ дней и доложить о
+<ce> вашем успехе. Счастливого пути, %pct.
 
 QuestFail:  [1003]
-<ce> You are too late for the trial. Whatever cause you had
-<ce> to hold _witch_ has expired.
+<ce> Вы опоздали на суд. Не важно, какие обстоятельства у вас были,
+<ce> срок задержания _witch_ истёк.
 
 QuestComplete:  [1004]
-<ce> Fine work, %pcf. Well done.
+<ce> Великолепная работа, %pcf. Великолепная работа.
 
 RumorsDuringQuest:  [1005]
-Witches are all around ____res_.
+Ведьмы повсюду в ___res_.
 
 RumorsPostfailure:  [1006]
-D'you hear about that witch that escaped ____res_?
+Вы слышали, что ведьма сбежала из ___res_?
 
 RumorsPostsuccess:  [1007]
-Good thing there are knights out there to get rid of the witches.
+Хорошо, что есть рыцари, которые избавляются от ведьм.
 
 QuestLogEntry:  [1010]
 %qdt:
- _qgiver_ of ___qgiver_ has
- assigned me to apprehend the witch of
- ___res_, _witch_. If she
- concedes I will return her to the knight
- hall to await her trial, and if she resists
- I am permitted to end her life. I have =timer_ days.
+ _qgiver_ из ___qgiver_
+ поручил мне задачу задержать ведьму из
+ ___res_, _witch_. Если она согласится,
+ я верну её в зал Ордена, где она будет
+ дожидаться суда, но если она будет сопротивляться,
+ мне разрешено нейтрализовать её.
+ У меня есть =timer_ дней.
 
 Message:  1011
-<ce> _witch_ looks at you with a perturbed glance.
+<ce> _witch_ смотрит на вас с возмущением.
 <ce>
-<ce> "Me, a witch? This is nonsense! Is this about the %t?
-<ce> I knew this would come back to injure me! Please,
-<ce> won't you let me go? Must I stand trial for nothing
-<ce> at all? Honorable knight, this must not be!"
+<ce> "Я, ведьма? Это абсурд! %t подняли эту шумиху?
+<ce> Я знала, что они хотят навредить мне! Пожалуйста,
+<ce> вы не можете отпустить меня?
+<ce> Неужели я должна предстать перед судом ни за что?
+<ce> Достопочтенный рыцарь, это несправедливо!"
 <ce>
-<ce> In spite of her complaints you bind her hands and
-<ce> set forth for ___qgiver_.
+<ce> Несмотря на её жалобы, вы связываете ей руки и
+<ce> отправляетесь в ___qgiver_.
    <--->
-<ce> _witch_ returns your glance with indignation.
+<ce> _witch_ смотрит на вас с негодованием.
 <ce>
-<ce> "This is preposterous! I have lived here for =sum_
-<ce> years and only now am I accused of witchcraft?
-<ce> Speak to the tavern owners and the store merchants.
-<ce> They know the truth! How absurd this is!"
+<ce> "Это абсурд! Я прожила здесь =sum_ лет,
+<ce> и только сейчас меня обвиняют в колдовстве?
+<ce> Поговорите с владельцами таверн и торговцами.
+<ce> Они знают правду! Какой абсурд!"
 <ce>
-<ce> In spite of her complaints you bind her hands and
-<ce> set forth for ___qgiver_.
+<ce> Несмотря на её жалобы, вы связываете ей руки и
+<ce> отправляетесь в ___qgiver_.
 
 Message:  1015
-<ce> Oh, a witch, am I? Fools will never recognize the good
-<ce> I do for ___res_ or for ____res_. Well then
-<ce> honorable knight, do your worst! I am prepared to fight!
+<ce> О, я ведьма, не так ли? Глупцы никогда не ценят добра,
+<ce> которое я творю для ___res_ или для ____res_. Что ж, в таком случае,
+<ce> почтенный рыцарь, делайте всё, что в ваших силах! Я готова сразиться!
    <--->
-<ce> Ha! You call me a witch and wish me to die? Fine thanks
-<ce> for defending ___res_ in its time of need.
-<ce> To Oblivion with thee! Thy time is come, %ra!
+<ce> Ха! Вы называете меня ведьмой и желаете мне смерти? Прекрасное вознаграждение
+<ce> за защиту ___res_ в трудное время.
+<ce> Обливион с вами! Ваше время пришло, %ra!
 
 Message:  1016
-<ce> "Good %ra, my mind has turned the matter over
-<ce> while we have been journeying, and I feel it a shame
-<ce> that I should be held in contempt by bickering fools.
-<ce> I must protest my captivity, this instant!"
+<ce> "Добрый %ra, я обдумала этот вопрос,
+<ce> пока мы путешествовали, и я считаю, что это позор,
+<ce> что я должна подвергаться презрению со стороны невежественных глупцов.
+<ce> Я должна протестовать против своего заключения, прямо сейчас!"
 <ce>
-<ce> _witch_'s demeanor changes and she casts
-<ce> an incantation of some sort, freeing
-<ce> her hands from their binding.
+<ce> Поведение _witch_ меняется, и она произносит
+<ce> какое-то заклинание, освобождая
+<ce> свои руки от узлов.
 
 Message:  1017
-<ce> You have eliminated the witch and any threat she presented.
-<ce> It is high time to report to _qgiver_.
+<ce> Вы справились с ведьмой и устранили угрозу, которую она представляла.
+<ce> Пора вернуться к _qgiver_.
 
 Message:  1018
-<ce> Good day _witch_. I assume this %pct has explained
-<ce> the accusations against you? You will be held nearby
-<ce> under lock and key to prevent your flight.
-<ce> The trial will be in less than a day, so your fate
-<ce> will not be long delayed.
+<ce> Здравствуйте, _witch_. Я полагаю, что этот %pct объяснил
+<ce> вам обвинения, выдвинутые в ваш адрес? Вы будете содержаться под стражей,
+<ce> чтобы предотвратить ваше бегство. Суд состоится через день,
+<ce> так что ваша судьба будет решена очень скоро.
 
 Message:  1020
-<ce> So the rumors were true, correct %pcf?
-<ce> You have saved us much trouble, and for this we thank you.
+<ce> Итак, слухи оказались правдой, не так ли, %pcf?
+<ce> Вы избавили нас от многих проблем, и за это мы вам благодарны.
 
 Message:  1021
-<ce> This witch carried some scribbles speaking
-<ce> of a coven. You are not sure you can make
-<ce> sense of it, though you make great efforts.
-<ce> In any case it is irrelevant to the
-<ce> task _qgiver_ gave you.
+<ce> Эта ведьма несла какие-то каракули, говорящие
+<ce> о шабаше. Вы не уверены, что сможете понять
+<ce> смысл этого, хотя вы прилагаете большие усилия.
+<ce> В любом случае, это не имеет никакого значения для
+<ce> задания, которое дал вам _qgiver_.
 
 QBN:
 
