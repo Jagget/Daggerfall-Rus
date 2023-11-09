@@ -3,8 +3,8 @@
 * Commoner (22/22) - Готово
 * DarkBrotherhood (31/31) - Готово
 * FightersGuild (0/52)
-* KnightlyOrders (6/49)
-* MagesGuild (32/32)
+* KnightlyOrders (49/49) - Готово
+* MagesGuild (32/32) - Готово
 * Misc (33/33) - Готово
 * Noble (4/4) - Готово
 * Temples (15/15) - Готово
