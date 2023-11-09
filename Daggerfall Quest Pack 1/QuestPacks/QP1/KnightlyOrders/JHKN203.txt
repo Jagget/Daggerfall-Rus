@@ -1,120 +1,120 @@
 Quest: JHKN203
-DisplayName: Hemophiliac Hunted
+DisplayName: Охота на вампира
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> My name is _qgiver_. The Order has
-<ce> recently been made aware of a terror of
-<ce> the night, a vampire of no small renown,
-<ce> lurking in a pitiful hole in %crn.
-<ce> We are the protectorate of this land and
-<ce> cannot tolerate such a threat to its people.
-<ce> Will you answer the call and descend into
-<ce> the depths of ___dung_
-<ce> to slay this undead monster?
+<ce> Меня зовут _qgiver_. Недавно Ордену
+<ce> стало известно об ужасе ночи, вампире
+<ce> немалой известности, скрывающемся
+<ce> в жалкой дыре в %crn. Мы являемся
+<ce> протекторатом этой земли и не можем
+<ce> мириться с такой угрозой для ее
+<ce> жителей. Откликнетесь ли вы на призыв
+<ce> и спуститесь ли в глубины ___dung_,
+<ce> чтобы уничтожить это чудовище?
 
 RefuseQuest:  [1001]
-<ce> We could certainly let it consume a few more
-<ce> innocents and grow more powerful, yes.
+<ce> Конечно, мы с радостью позволим ему поглотить еще несколько
+<ce> невинных людей и стать более могущественными, да.
 
 AcceptQuest:  [1002]
-<ce> Then be going to ___dung_
-<ce> to rid us of this evil. You will be
-<ce> accompanied by _mage_
-<ce> of the Mages Guild, whose main
-<ce> purpose will be ensuring the body
-<ce> is incapable of rising once more.
-<ce> Nevertheless, %g1 could have something
-<ce> meaningful to offer in combat.
-<ce> The two of you will return here in =timer_
-<ce> days with a report of your success. Farewell.
+<ce> Тогда отправляйтесь в ___dung_,
+<ce> чтобы избавить нас от этого зла.
+<ce> Вас будет сопровождать _mage_ из
+<ce> Гильдии Магов, %g4 главной целью
+<ce> будет обеспечение неспособности
+<ce> вампира восстать вновь. Тем не
+<ce> менее, %g1 может предложить что-то
+<ce> значимое в бою. Вы оба вернетесь
+<ce> сюда через =timer_ дней с отчетом
+<ce> о ваших успехах. Прощайте.
 
 QuestFail:  [1003]
-<ce> Your deadline to slay the vampire and report to
-<ce> _qgiver_ has passed.
+<ce> Истек срок, отведенный для убийства вампира
+<ce> и доклада _qgiver_.
 
 QuestComplete:  [1004]
-<ce> You are a credit to %crn, %pcf.
+<ce> Вы - гордость для %crn, %pcf.
 
 RumorsDuringQuest:  [1005]
-The %t's been meeting with the Dark Brotherhood, they says.
+Говорят, что %t встречались с Темным Братством.
 
 Message:  1010
-<ce> _mage_ recognizes this vampire at once.
+<ce> _mage_ сразу же узнает этого вампира.
 <ce>
-<ce> "Ho! =vam1_, your end has at hand!"
+<ce> "Хо! =vam1_, конец близок!"
 <ce>
-<ce> A binding spell follows, which slows
-<ce> the abomination momentarily. This must
-<ce> be preparation for the corpse disposal.
+<ce> Затем следует связывающее заклинание,
+<ce> которое на мгновение замедляет гадину. Это,
+<ce> должно быть, подготовка к блокировке трупа.
 
 Message:  1011
-<ce> _mage_ recognizes this vampire at once.
+<ce> _mage_ сразу же узнает этого вампира.
 <ce>
-<ce> "Ho! =vam2_, your end has at hand!"
+<ce> "Хо! =vam2_, конец близок!"
 <ce>
-<ce> A binding spell follows, which slows
-<ce> the abomination momentarily. This must
-<ce> be preparation for the corpse disposal.
+<ce> Затем следует связывающее заклинание,
+<ce> которое на мгновение замедляет гадину. Это,
+<ce> должно быть, подготовка к блокировке трупа.
 
 Message:  1020
-<ce> You have defeated the vampire.
-<ce> _mage_ spends some time with fairly
-<ce> elaborate pyrotechnics and sharp instruments,
-<ce> the likes of which do not logically lead
-<ce> to a permanent end to vampirism but against
-<ce> which you hold no qualm. Soon you are both
-<ce> ready to leave.
+<ce> Вы победили вампира. _mage_ занимается
+<ce> чем-то вроде пиротехнического шоу с
+<ce> использованием острых инструментов,
+<ce> которые, по всей логике, не могут положить
+<ce> конец вампиризму навсегда, но вы не
+<ce> испытываете по этому поводу никаких
+<ce> сомнений. Вскоре вы будете готовы вместе уйти.
    <--->
-<ce> You have defeated the vampire.
-<ce> _mage_ casts several arcane spells
-<ce> around the corpse which appear to hold
-<ce> it in place. Whether it will serve the
-<ce> purpose or not is beyond your knowledge
-<ce> and responsibility. Soon you are both
-<ce> ready to leave.
+<ce> Вы победили вампира. _mage_ произносит
+<ce> несколько таинственных заклинаний над
+<ce> телом, которые, кажется, удерживают его на
+<ce> месте. Будет ли это действенно или нет,
+<ce> выходит за рамки вашего понимания и
+<ce> ответственности. Вскоре вы будете готовы
+<ce> вместе уйти.
 
 Message:  1021
-<ce> This vampire has knowledge of powerful magicks.
-<ce> A shocking bolt lances out in your general
-<ce> direction, and _mage_ falls.
+<ce> Этот вампир владеет мощной магией.
+<ce> Шокирующий заряд вылетает в вашем
+<ce> направлении, и _mage_ падает.
 
 Message:  1022
-<ce> You have defeated the vampire. You offer
-<ce> _mage_ as proper a burial you
-<ce> can under the circumstances. Surely %g4
-<ce> sacrifice will be honored.
+<ce> Вы победили вампира. _mage_ получит
+<ce> настолько достойное погребение, насколько
+<ce> это возможно в данных обстоятельствах.
+<ce> Несомненно, %g4 жертва не будет напрасна.
 
 Message:  1023
-<ce> Hail our slayers of vampires! Such a
-<ce> crusade should always merit the
-<ce> attention of knights. We will
-<ce> speak of your deeds to inspire
-<ce> the younger generation to rise
-<ce> above their own selves. Surely
-<ce> you will tell the Mages Guild of
-<ce> %pcf's great service and utility,
-<ce> _mage_? I am certain %pg1
-<ce> preserved your life quite skillfully.
+<ce> Приветствуем наших истребителей
+<ce> вампиров! Такой крестовый поход
+<ce> всегда должен заслуживать внимания
+<ce> рыцарей. Мы будем говорить о ваших
+<ce> деяниях, чтобы вдохновить молодое
+<ce> поколение расти над собой. Вы,
+<ce> конечно, расскажете Гильдии Магов
+<ce> о великой службе %pcf, _mage_?
+<ce> Я уверен, что %pg3 действия
+<ce> сохранили вам жизнь.
 
 Message:  1024
-<ce> Hail %pcn, slayer of vampires!
-<ce> What is that? _mage_ was
-<ce> slain in the battle? This is truly grave
-<ce> news, though we are pleased that we must
-<ce> no longer fear the vampire's encroaches on
-<ce> our land. I thank you for braving the
-<ce> depths on such a perilous mission.
+<ce> Приветствую %pcn, грозу вампиров! Что
+<ce> это? _mage_ был убит в битве? Это
+<ce> действительно печальная новость, хотя
+<ce> мы рады, что нам больше не нужно
+<ce> бояться посягательств вампиров на нашу
+<ce> землю. Я благодарю вас за то, что вы
+<ce> отважились на такое опасное задание.
 
 Message:  1030
 %qdt:
- _qgiver_ in the city of
- ___qgiver_ has sent me
- to ___dung_
- to vanquish a vampire with
- a member of the Mages Guild.
- I must return in =timer_ days.
+ _qgiver_ из ___qgiver_
+ отправил меня и члена
+ Гильдии Магов в ___dung_,
+ чтобы победить вампира.
+ Нам нужно вернуться через
+ =timer_ дней.
 
 QBN:
 Person _qgiver_ group Questor male

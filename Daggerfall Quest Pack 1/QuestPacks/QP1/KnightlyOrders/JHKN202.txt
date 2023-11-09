@@ -1,57 +1,58 @@
 Quest: JHKN202
-DisplayName: The Summoner
+DisplayName: Призыватель
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We have been advised of some fool
-<ce> who has holed up to practice summoning daedra.
-<ce> Regardless of the mage's capability, we must
-<ce> treat this as a real threat. We need a knight
-<ce> to take the battle to the summoner and prevent a crisis,
-<ce> before any demons are summoned.
+<ce> Нам сообщили о каком-то дураке, который спрятался,
+<ce> чтобы попрактиковаться в призыве даэдра. Независимо
+<ce> от способностей мага, мы должны относиться к этому
+<ce> как к реальной угрозе. Нам нужен рыцарь, чтобы
+<ce> сразиться с призывателем и предотвратить кризис
+<ce> до того, как будут вызваны какие-либо демоны.
 
 RefuseQuest:  [1001]
-<ce> Let us know if you see any heroes out there.
+<ce> Дайте нам знать, если увидите там каких-нибудь героев.
 
 AcceptQuest:  [1002]
-<ce> I will mark ___dung_ on your map. Somewhere inside,
-<ce> the rogue mage works. You'll likely encounter
-<ce> imps while inside, as they were summoned
-<ce> as part of an earlier experiment.
-<ce> Bring me word of the demonologist's death
-<ce> within =timer_ days, that we may be at peace.
+<ce> Я отмечу ___dung_ на Вашей карте. Где-то внутри
+<ce> работает маг-изгой. Находясь внутри, вы, скорее
+<ce> всего, столкнетесь с бесами, поскольку они были
+<ce> вызваны в рамках предыдущего эксперимента. Принесите
+<ce> мне весть о смерти демонолога в течение =timer_ дней,
+<ce> чтобы мы могли обрести покой.
 
 QuestFail:  [1003]
-<ce> _qgiver_ expected your report
-<ce> regarding the daedra summoner by now.
+<ce> _qgiver_ уже ожидал вашего
+<ce> отчета о призывателе даэдра.
 
 QuestComplete:  [1004]
-<ce> Fine work, %pct. It's much better for us to
-<ce> pre-empt these cases -- no one enjoys
-<ce> fighting the daedra.
+<ce> Отличная работа, %pct. Для нас гораздо
+<ce> лучше упреждать такие случаи - никому
+<ce> не нравится сражаться с даэдра.
 
 QuestorPostSuccess:   [1008]
-Keep practicing your skills, and even the toughest daedra will fall to you.
+Продолжайте практиковать свои навыки, и даже самые суровые даэдра падут перед вами.
 
 Message:  1010
-<ce> Faint magical energy tinges the air.
-<ce> You hope you're not too late to stop
-<ce> this daedra summoner.
+<ce> В воздухе витает слабая магическая энергия.
+<ce> Вы надеетесь, что еще не слишком поздно
+<ce> остановить этого призывателя даэдра.
 
 Message:  1011
-<ce> "No! You'll not stop me, not when I'm so close!"
+<ce> "Нет! Вы не остановите меня, не тогда, когда я так близко!"
 
 Message:  1012
-<ce> The summoner is defeated, the ritual interrupted.
+<ce> Вызыватель повержен, ритуал прерван.
 
 Message:  1030
 %qdt:
- __qgiver_ of
- ___qgiver_ depend on me to
-destroy a pretended daedra summoner
-somewhere in ___dung_. I must do this
-and return to report within =timer_ days.
+ __qgiver_
+ из ___qgiver_ ожидает от меня
+ уничтожения вызывателя даэдра
+ где-то в ___dung_. Мне нужно
+ сделать это и вернуться с отчетом
+ за =timer_ дней.
 
 QBN:
 

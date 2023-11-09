@@ -1,67 +1,67 @@
 Quest: JHKN209
-DisplayName: The Clumsy Dark Arts
+DisplayName: Неуклюжие темные искусства
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pct, I have a few questions. Do you hate
-<ce> giants, the bumbling, violent kidnappers of farm
-<ce> animals and unaware townspeople? And do you
-<ce> hate the Necromancers, who raise up our
-<ce> ancestors in dark slavery? And would you hate a
-<ce> group of giant Necromancers, who can both
-<ce> squash their enemies and raise their spirits
-<ce> to fight for them?
+<ce> %pct, у меня есть несколько вопросов. Ненавидите ли вы
+<ce> великанов, неуклюжих, жестоких похитителей фермерских
+<ce> животных и ничего не подозревающих горожан? А вы
+<ce> ненавидите некромантов, которые воскрешают наших
+<ce> предков, отправляя их в рабство? И стали бы вы ненавидеть
+<ce> группу гигантских гигантских некромантов, которые могут как
+<ce> раздавить своих врагов, так и поднять их дух
+<ce> сражаться за них?
 
 RefuseQuest:  [1001]
-<ce> The answers to these questions should be obvious.
-<ce> On what matter do you differ, %pcf?
+<ce> Ответы на эти вопросы должны быть очевидны.
+<ce> Какая часть вызывает сомнения, %pcf?
 
 AcceptQuest:  [1002]
-<ce> Then go to ___dung_. The existence
-<ce> of such barbarians with some skill in the magical
-<ce> arts is a great anomaly, one we have no need to
-<ce> tolerate. The Mages Guild has the duty to wipe
-<ce> %crn clean of necromancy, and they find
-<ce> themselves in a state of temporary dereliction.
-<ce> They informed us that destroying the menaces
-<ce> to the townsfolk are our responsibility. If you
-<ce> will wipe out this band of mage giants, I will
-<ce> inform our lordship of the Mages Guild's failure
-<ce> to respond. Let us meet here again within =timer_
-<ce> days with each of our tasks completed.
+<ce> Тогда отправляйтесь в ___dung_. Существование таких
+<ce> варваров, обладающих некоторыми навыками
+<ce> в магических искусствах, является большой аномалией,
+<ce> с которой мы не должны мириться. Гильдия Магов
+<ce> обязана очистить %crn от некромантии, и они
+<ce> оказались в состоянии временного бездействия. Они
+<ce> сообщили нам, что уничтожение угрозы для горожан -
+<ce> наша обязанность. Если вы уничтожите эту банду
+<ce> магов-великанов, я сообщу нашей светлости о том,
+<ce> что Гильдия Магов не отреагировала. Давайте
+<ce> встретимся здесь снова через =timer_ дней, выполнив
+<ce> каждый свою работу.
 
 QuestFail:  [1003]
-<ce> _qgiver_ needed you to destroy the
-<ce> giant necromancers by now.
+<ce> _qgiver_ нужно было, чтобы вы уничтожили
+<ce> гигантских некромантов к этому времени.
 
 QuestComplete:  [1004]
-<ce> Stellar work. I have done my part on the diplomatic
-<ce> side of things. If the Mages Guild wishes to keep its
-<ce> charter in %crn, they will need to pick up the
-<ce> pace. Thank you for keeping our citizens safe.
+<ce> Блестящая работа. Я внес свой вклад в дипломатическую
+<ce> сторону дела. Если Гильдия Магов желает сохранить свой
+<ce> устав в %crn, им нужно будет ускорить темп. Спасибо вам
+<ce> за то, что вы обеспечиваете безопасность наших граждан.
 
 Message:  1020
-<ce> This giant immediately recognizes you as a serious threat.
-<ce> It begins chanting, and you feel a dark presence draw near.
+<ce> Этот великан сразу распознает в вас серьезную угрозу. Он начинает
+<ce> читать заклинание, и вы чувствуете приближение чего-то темного.
 
 Message:  1021
-<ce> Once this giant falls, you feel the dark presence subside.
-<ce> The cult of necromantic giants has been slain.
+<ce> Как только этот великан падет, вы чувствуете, что темные
+<ce> силы ослабевают. Культ великанов-некромантов уничтожен.
 
 Message:  1030
 %qdt:
- _qgiver_ has tasked
- me with slaying a cult of giants in
- __dung_ who have
- somehow gained knowledge of
- necromancy. I have =timer_ days to
- return to ___qgiver_.
+ _qgiver_ поручил мне уничтожить
+ культ великанов в __dung_,
+ которые каким-то образом
+ получили навыки некромантии.
+ У меня есть =timer_ дней, чтобы
+ вернуться в ___qgiver_.
 
 Message:  1099
-<ce> Slaying giants and ending necromancy are
-<ce> both worthy acts. How much more worthy
-<ce> is doing them at the same time, then?
+<ce> Уничтожение великанов и искоренение некромантии -
+<ce> оба достойные деяния. Насколько же более достойным
+<ce> является выполнение их одновременно?
 
 QBN:
 Person _qgiver_ group Questor male

@@ -1,100 +1,101 @@
 Quest: JHKN210
-DisplayName: Earning Trust
+DisplayName: Завоевание доверия
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> %pct, we must all engage in the humblest of work. Slaying dragons
-<ce> and defending nobles are some of our duties, but they are only
-<ce> some forms of the service we provide. Take this _weapon_
-<ce> to _knight_, who either forgot or refused to take it.
-<ce> Look for %g2 in ___knighttown_. Will you do this?
+<ce> %pct, мы все должны заниматься самой скромной работой.
+<ce> Уничтожение драконов и защита знати - это лишь часть тех
+<ce> услуг, которые мы оказываем. Отнесите _weapon_ к _knight_,
+<ce> который либо забыл, либо отказался его взять. Ищите %g4 в
+<ce> ___knighttown_. Сделаете ли вы это?
 
 RefuseQuest:  [1001]
-<ce> Is this truly the path you wish to take, %ra?
+<ce> Это действительно тот путь, по которому вы хотите пойти, %ra?
 
 AcceptQuest:  [1002]
-<ce> Good. I will give you =timer_ days to have done
-<ce> with it and return. And if %g1 is merely stubborn,
-<ce> do not accept another refusal. I have told %g2 too
-<ce> many times that our knights must be practiced in
-<ce> all manner of weaponry.
+<ce> Хорошо. Я дам вам =timer_ дней, чтобы справиться
+<ce> с этим и вернуться. И если %g1 будет упрямиться,
+<ce> не принимайте еще один отказ. Я слишком много раз
+<ce> говорил %g2, что наши рыцари должны быть искусны
+<ce> в обращении со всевозможным оружием.
 
 QuestFail:  [1003]
-<ce> You needed to report your success in delivering the _weapon_
-<ce> to _knight_ by now. This is not a good start.
+<ce> Вам уже следовало доложить об успехе доставки
+<ce> _weapon_ к _knight_. Это не лучшее начало.
 
 QuestComplete:  [1004]
-<ce> Thank you for going, %pcf.
+<ce> Спасибо, что пошли, %pcf.
 
 Message:  1020
-<ce> What is this? Some _weapon_? _qgiver_ never
-<ce> told me I would be taking one on this expedition. Keep it
-<ce> for yourself. Oh, come now, just take it. I do not want it.
-<ce> I said, I do not want it! %oth, then give it to me.
-<ce> I'll throw it at the first orc I encounter and be done with
-<ce> it. Are you happy now, %ra? Begone from me.
+<ce> Что это? _weapon_? _qgiver_ никогда не говорил мне
+<ce> взять его в эту экспедицию. Оставь его себе. Да
+<ce> ладно, просто возьми его. Я не хочу его. Я поторяю,
+<ce> я не хочу его! %oth, тогда дай мне его. Я кину его
+<ce> в первого встречного орка и закончу с этим. Вы
+<ce> теперь доволены, %ra? Прочь от меня.
    <--->
-<ce> %oth, did _qgiver_ send you? Praise %god.
-<ce> I knew %g1 would bury me if I forgot that _weapon_
-<ce> this time. Here, let me have it. I'm no expert yet, but I'll
-<ce> give it some practice while I'm in the depths. I'll
-<ce> be a Keeper before %g1 knows it! Farewell, %ra.
+<ce> %oth, это _qgiver_ послал вас? Славься %god. Я
+<ce> знал, что %g1 похоронит меня, если я снова забуду
+<ce> _weapon_. Давай его сюда. Я еще не эксперт, но я
+<ce> попрактикуюсь, пока буду в глубинах. Я стану
+<ce> Хранителем, прежде чем %g1 опомнится! Прощай, %ra.
    <--->
-<ce> Hold, %ra! Silence! What is that? My _weapon_?
-<ce> %oth, I hadn't realized I had left it. How good it is that
-<ce> I had other matters to resolve here in ___knighttown_ before
-<ce> entering that cave. A terrifying prospect it is to face an atronach
-<ce> and realize I'm missing a weapon. How good of you to bring it
-<ce> to me! Give _qgiver_ my regards. Fare thee well.
+<ce> Стойте, %ra! Тише! Что это? _weapon_? %oth, я и не помню,
+<ce> что оставил его. Как хорошо, что у меня были другие дела
+<ce> здесь, в ___knighttown_, прежде чем идти в ту пещеру.
+<ce> Ужасающая перспектива - столкнуться с атронахом и осознать,
+<ce> что у меня нет оружия. Как мило с ващей стороны принести его
+<ce> мне! Передайте _qgiver_ мои приветы. Будьте здоров.
 
 Message:  1021
-<ce> Why did _knight_ neglect to take it, %pcf?
-<ce> %oth. May I make a comment, %pct? We send our
-<ce> knights to wage war between life and death every day.
-<ce> Carelessness leads to the grave. Always remember that.
-<ce> And please accept my thanks.
+<ce> Почему _knight_ забыл взять это, %pcf? %oth. Могу ли я
+<ce> высказать замечание, %pct? Мы отправляем наших рыцарей
+<ce> вести войну не на жизнь а на смерть каждый день.
+<ce> Небрежность приводит в могилу. Всегда помните об этом.
+<ce> И, пожалуйста, примите мою благодарность.
 
 Message:  1022
-<ce> As you step into the tavern, loud shouting greets your ears.
+<ce> Когда вы входите в таверну, до ваших ушей доносятся громкие крики.
 <ce>
-<ce> "Yeah?! Not the first knight I've killed! I'll do
-<ce> a dozen of 'em before the month's out!"
+<ce> "Ага?! Не первый рыцарь, которого я убил!
+<ce> Я сделаю дюжину до конца месяца!"
    <--->
-<ce> As you step into the tavern, loud shouting greets your ears.
+<ce> Когда вы входите в таверну, до ваших ушей доносятся громкие крики.
 <ce>
-<ce> "Moron knight! Who plays cards without carrying money?
-<ce> Good riddance, I say."
+<ce> "Тупой рыцарь! Кто играет в карты без денег?
+<ce> Хорошо, что избавились от него."
    <--->
-<ce> As you step into the tavern, loud shouting greets your ears.
+<ce> Когда вы входите в таверну, до ваших ушей доносятся громкие крики.
 <ce>
-<ce> "Stupid knights who bet wrong, that's who.
-<ce> ==qgiver_ aren't going to miss 'em."
+<ce> "Глупые рыцари, которые неправильно ставят,
+<ce> вот вы кто. ==qgiver_ не будет скучать."
 
 Message:  1023
-<ce> This is _knight_'s body.
-<ce> Something has gone terribly wrong here.
+<ce> Это тело _knight_.
+<ce> Здесь произошло что-то ужасное.
 
 Message:  1024
-<ce> You have slain _knight_'s murderer.
-<ce> At the very least, honor has been restored.
+<ce> Вы убили убийцу _knight_.
+<ce> По крайней мере, честь восстановлена.
 
 Message:  1025
-<ce> You mean to say _knight_ was murdered
-<ce> in a tavern? %oth. How do members of our order
-<ce> let these things happen? How will we vanquish the Dark
-<ce> Brotherhood, the Thieves Guild, the Necromancers,
-<ce> the vampires, and all that plague Tamriel if this is
-<ce> the quality we offer? Forgive my bitterness.
-<ce> You have done us a favor in slaying the knave.
+<ce> Вы хотите сказать, что _knight_ был убит
+<ce> в таверне? %oth. Как члены нашего ордена
+<ce> позволяют случаться такому? Как мы победим Темное
+<ce> Братство, Гильдию Воров, Некромантов, вампиров
+<ce> и всё то, что преследует Тамриэль, если это
+<ce> качество мы предлагаем? Простите мою горечь. Вы
+<ce> оказали нам услугу, убив этого негодяя.
 
 Message:  1030
 %qdt:
- _qgiver_ of ___qgiver_
- has asked me to take a weapon
- forgotten by _knight_, a
- knight staying in ___knighttown_.
- I have =timer_ days to return.
+ _qgiver_ из ___qgiver_
+ попросил меня взять оружие,
+ забытое _knight_,
+ рыцарем, останавливающимся
+ в ___knighttown_.
+ У меня есть =timer_ дней на возвращение.
 
 QBN:
 Item _weapon_ weapon

@@ -1,41 +1,42 @@
 Quest: JHKN212
-DisplayName: The Punisher
+DisplayName: Каратель
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> ___qgiver_, against its will, harbors a criminal who refuses to
-<ce> find some other region to inhabit. The list of crimes would
-<ce> sooner put me to sleep, albeit for length rather than content.
-<ce> We need an executioner, in the name of the %t.
-<ce> Will you step forth, %pcf?
+<ce> ___qgiver_, вопреки своей воле, укрывает преступника,
+<ce> который отказывается найти другой регион для жизни. Список
+<ce> преступлений скорее усыпит меня, хотя и из-за длины,
+<ce> а не содержания. Нам нужен палач во имя %t.
+<ce> Выступите ли вы, %pcf?
 
 RefuseQuest:  [1001]
-<ce> Not the kind to get your hands dirty, %pct?
+<ce> Не тот тип, чтобы пачкать руки, %pct?
 
 AcceptQuest:  [1002]
-<ce> Then go on behalf of the laws of %crn. You are permitted
-<ce> to use any means necessary to make this lawbreaker cease.
-<ce> Look for someone armed and unruly in _place_.
-<ce> Report to me when the task is finished. Take no more
-<ce> than one day to settle the matter.
+<ce> Тогда иди от имени закона %crn. Вам разрешается
+<ce> использовать любые средства, необходимые для того,
+<ce> чтобы этот правонарушитель прекратил существование.
+<ce> Ищи кого-то вооруженного и буйного в _place_.
+<ce> Доложи мне, когда задача будет выполнена. У вас
+<ce> не больше одного дня на урегулирование дела.
 
 QuestFail:  [1003]
-<ce> You were expected to execute the criminal in _place_.
+<ce> Ожидалось, что вы казните преступника в _place_.
 
 QuestComplete:  [1004]
-<ce> Your works are a service to ___qgiver_, %pct.
-<ce> May its fair citizens remember your name.
+<ce> Ваши деяния - служба ___qgiver_, %pct.
+<ce> Пусть его справедливые граждане запомнят ваше имя.
 
 Message:  1032
 %qdt:
- _qgiver_ assigned me to
- execute a criminal hiding in
- _place_ in ___qgiver_.
- I must do so and return in one day.
+ _qgiver_ поручил мне
+ казнить преступника, скрывающегося в
+ _place_ в ___qgiver_.
+ Мне нужно вернуться за один день.
 
 Message:  1042
-<ce> The criminal threat is ended.
+<ce> Угроза преступности устранена.
 
 QBN:
 Person _qgiver_ group Questor male
