@@ -1,5 +1,5 @@
 Quest: JHFGC03
-DisplayName: Fighters Guild Consequence Quest 3
+DisplayName: Гильдия Бойцов. Последствия. Квест 3
 -- Message panels
 QRC:
 

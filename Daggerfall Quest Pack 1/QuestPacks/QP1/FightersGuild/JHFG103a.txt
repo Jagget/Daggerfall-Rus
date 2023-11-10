@@ -1,68 +1,68 @@
 Quest: JHFG103a
-DisplayName: You're Hired
+DisplayName: Вы наняты на работу
 
 QRC:
 
 QuestComplete:  [1004]
-<ce> Not bad. You've got some potential, I'd say.
-<ce> Maybe someday we'll have a use for you.
-<ce> Here's your gold. We never met.
+<ce> Неплохо. Можно сказать, у вас есть потенциал. Возможно,
+<ce> когда-нибудь мы найдем вам применение. Вот ваше золото.
+<ce> А пока забудьте, что мы встречались.
 
 Message:  1010
-<ce> You find a letter among your belongings.
+<ce> Вы находите письмо среди своих вещей.
 
 Message:  1011
 %ra
-
-  It's kinda funny. We were watching a
-supposedly "very skilled assassin" down in
-some hole who we were hoping
-to hire for a job. Then you come along and
-kill the wretch. We accept your qualifications.
-Meet me in =firsttimer_ days if you want to make
-some money.
-
+<ce>
+  Это довольно забавно. Мы наблюдали
+за якобы "очень искусным убийцей",
+которого мы надеялись нанять для работы.
+И тут появляетесь вы и с ходу убиваете этого
+негодяя. Мы оценили вашу квалификацию.
+Встретимся через =firsttimer_ дней, если
+хотите заработать немного денег.
+<ce>
                     _res_
                     ____res_
 
 Message:  1012
-<ce> Good. I was worried you'd gotten cold feet.
-<ce> Or maybe you were just one of those lunatics
-<ce> that kills random people without thought for profit.
-<ce> We've got someone off in a remote piece of property who
-<ce> needs to die. Do it quick or someone's gonna notice
-<ce> and raise the alarm on you. You in for =reward_ gold?
+<ce> Хорошо. Мы беспокоились, что вы струсили. Или, может быть,
+<ce> вы просто один из тех сумасшедших, которые убивают случайных
+<ce> людей без раздумий, и не ради выгоды. Так вот, у нас есть
+<ce> человек, который должен умереть там, где-то далеко. Сделайте
+<ce> это быстро, иначе кто-нибудь заметит и поднимет тревогу.
+<ce> Вы согласны на =reward_ золотых?
 
 Message:  1013
-<ce> Ah, you must merely be stupid. Goodbye.
+<ce> А, должно быть, вы просто глупы. До свидания.
 
 Message:  1014
-<ce> Get to ___farm_. There's a wizard who
-<ce> maintains the property. Got on my nerves too
-<ce> many times now. Be back here with the killing
-<ce> done in =timer_ days. And if you're on the property
-<ce> too long you're gonna be caught, like an idiot,
-<ce> and you won't find me here.
+<ce> Отправляйтесь на ___farm_. Там есть волшебник,
+<ce> который ухаживает за территорией. Он слишком много
+<ce> раз действовал мне на нервы. Убейте его и вернитесь
+<ce> сюда через =timer_ дней. Но если вы будете находиться
+<ce> на территории слишком долго, то вас поймают, как
+<ce> идиота, и вы уже не найдете меня здесь.
 
 Message:  1015
 %qdt:
- I've taken up a job to slay a wizard
- residing at ___farm_.
- If I do so without getting caught, I can
- return to ___res_ for my =reward_ gold
- within =timer_ days.
+ Я взял заказ на убийство волшебника,
+ живущего на ___farm_. Если я справлюсь
+ с этим заданием в течение =timer_ дней
+ и не попадусь, то смогу вернуться
+ в ___res_ за своими =reward_ золотых.
 
 Message:  1016
-<ce> If this is ___farm_, then you're
-<ce> sure to find the wizard here somewhere.
+<ce> Если это ___farm_, то вы наверняка
+<ce> где-то здесь найдете волшебника.
 
 Message:  1017
-<ce> Your mark is slain. You should hurry out of here.
+<ce> Ваша цель убита. Вам следует поспешить уйти отсюда.
 
 Message:  1018
-<ce> Screams rise from the small home, and a sense of magical
-<ce> communication rushes through the air. Your deed is
-<ce> now known throughout ____farm_.
+<ce> Из маленького дома доносятся крики, и в воздухе
+<ce> витает ощущение магической связи. Теперь о вашем
+<ce> поступке знает вся провинция ____farm_.
 
 QBN:
 

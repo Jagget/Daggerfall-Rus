@@ -1,17 +1,17 @@
 Quest: JHFG103d
-DisplayName: The Thieves Strike Back
+DisplayName: Воры наносят ответный удар
 
 QRC:
 
 Message:  1010
-<ce> "Behold, good citizenry! This pathetic
-<ce> wretch named %pcf will now fall to the might
-<ce> of the Thieves Guild, who has slain one of our
-<ce> number without cause! Die, cur!"
+<ce> "Смотрите, добропорядочные граждане! Один из
+<ce> наших был без причины убит. На ваших глазах
+<ce> этот жалкий негодяй по имени %pcf падет перед
+<ce> мощью Гильдии Воров! Умри, проклятый!"
 <ce>
-<ce> Some assassins have gotten the sneak on you
-<ce> and wish to make a public example of you, perhaps
-<ce> to avenge their friend in ___dung_.
+<ce> Несколько убийц подкрались к вам незаметно и хотят
+<ce> выставить вас на посмешище, чтобы отомстить за своего
+<ce> друга, убитого в ___dung_.
 
 QBN:
 

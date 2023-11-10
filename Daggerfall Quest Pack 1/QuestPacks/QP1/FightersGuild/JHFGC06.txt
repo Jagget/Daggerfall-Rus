@@ -1,5 +1,5 @@
 Quest: JHFGC06
-DisplayName: Fighters Guild Consequence Quest 6
+DisplayName: Гильдия Бойцов. Последствия. Квест 6
 -- Message panels
 QRC:
 

@@ -1,30 +1,30 @@
 Quest: JHFG103c
-DisplayName: Daedra on the Loose
+DisplayName: Даэдра на свободе
 
 QRC:
 
 QuestComplete:  [1004]
-<ce> The terror of ___farm_ has been slain,
-<ce> and the %t will no longer denounce you.
+<ce> Ужас ___farm_ был уничтожен,
+<ce> и %t больше не будут осуждать вас.
 
 Message:  1010
-<ce> A bored courier halfheartedly gives you a letter.
+<ce> Скучающий курьер без особого энтузиазма вручает вам письмо.
 
 Message:  1011
 %pcn
-
- We've got a problem. You did a contract for the Fighters
-Guild to off some outlaw in ___dung_ a while ago.
-After the %t sent the order and before you arrived,
-the scoundrel got possessed by a kind of daedra.
-It's now free of its host body, thanks to you,
-and keeps assaulting ___farm_. The %t's
-holding you responsible. Get on over there
-within 30 days and slay it or your good name
-in ____farm_'s going to lose its shine.
-
+<ce>
+ У нас возникла проблема. Некоторое время назад вы заключили
+контракт с Гильдией Бойцов на уничтожение одного
+преступника в ___dung_. Где-то в промежутке между тем, как
+%t отправили приказ и вашим прибытием, в негодяя вселился
+некий даэдра. Теперь, благодаря вам, даэдра освободился от
+своего тела и продолжает нападать на ___farm_. %t считают
+что ответственность за это лежит на вас. Отправляйтесь туда
+и уничтожьте даэдра в течение 30 дней, иначе ваше доброе
+имя потеряет свой блеск в провинции ____farm_.
+<ce>
                     _fg_
-                    The Fighters Guild
+                    Гильдия Бойцов
                     ____farm_
 
 QBN:

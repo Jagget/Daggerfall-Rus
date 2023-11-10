@@ -1,157 +1,157 @@
 Quest: JHFG103
-DisplayName: On Order of the Monarch
+DisplayName: По приказу монарха
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We try to stay out of politics as much as possible, but
-<ce> sometimes the %t forces our hand. There's some
-<ce> criminal down in __dungeon_ that the
-<ce> guards have given up on who needs to die. It's
-<ce> paying =reward_ gold. Is that enough for you?
+<ce> Мы стараемся по возможности не вмешиваться в
+<ce> политику, но иногда %t вынуждают нас. В __dungeon_
+<ce> есть какой-то преступник, на которого стража
+<ce> забила, но который должен умереть. За это платят
+<ce> =reward_ золотых. Достаточно ли этого для вас?
    <--->
-<ce> So the Fighters Guild just kills spiders and
-<ce> bears all day, right? Not quite.
-<ce> The %t sometimes tries to get us to pick off some
-<ce> dangerous criminal that they can't catch
-<ce> themselves. It still pays though, in this case
-<ce> =reward_ gold. Does that work for you?
+<ce> Итак, Гильдия Бойцов просто целыми днями убивает
+<ce> пауков и медведей, верно? Не совсем так. Иногда %t
+<ce> пытаются заставить нас убрать какого-нибудь опасного
+<ce> преступника, которого они не могут поймать сами.
+<ce> Однако за это все равно платят, в данном случае
+<ce> =reward_ золотых. Вам это подходит?
 
 RefuseQuest:  [1001]
-<ce> I'm fine with that. What do we
-<ce> look like? The Dark Brotherhood?
+<ce> Меня это вполне устраивает. Мы что,
+<ce> выглядим как Темное Братство?
 
 AcceptQuest:  [1002]
-<ce> You just can't resist, can you %pcf? Get down
-<ce> to __dungeon_ and back here in
-<ce> =timer_ days, and I'll have your _reward_ gold here.
+<ce> Вы просто не можете устоять, не так ли, %pcf?
+<ce> Спуститесь в __dungeon_ и вернитесь сюда через
+<ce> =timer_ дней, и вы получите ваши _reward_ золотых.
 
 QuestComplete:  [1004]
-<ce> Good work. That should keep the %t
-<ce> off our backs for awhile.
+<ce> Хорошая работа. %t некоторое время
+<ce> не будут беспокоить нас.
 
 Message:  1010
-<ce> Wait! Wait, stop! I'm a member of the Thieves Guild!
-<ce> Don't kill me! If you let me go, I promise I'll tell my
-<ce> people good things about you! Let me live!
+<ce> Подождите! Подождите, остановитесь! Я член Гильдии Воров!
+<ce> Не убивайте меня! Если вы меня отпустите, я обещаю,
+<ce> что расскажу о вас своим людям много хорошего! Отпустите меня!
 
 Message:  1011
-<ce> Yes! I will spread your
-<ce> fame among the underworld as if my
-<ce> life depended on it. Thank you!
+<ce> Да! Я буду славить вас среди
+<ce> преступного мира, словно от этого
+<ce> зависит моя жизнь. Спасибо!
 
 Message:  1012
 <ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Выносливость)
 <ce>
-<ce> As soon as you enter, you step on a false tile.
-<ce> A disgusting gas begins to shoot into the air.
-<ce> You don't seem to suffer any immediate effects from it,
-<ce> but you wonder what it might have done to you.
+<ce> Как только вы входите, вы наступаете на фальш-плитку. В воздухе
+<ce> начинает распространяться отвратительный газ. Кажется, что он
+<ce> не оказывает на вас непосредственного воздействия, но вы
+<ce> задаетесь вопросом, что он мог с вами сделать.
 
 Message:  1013
 <ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Выносливость)
 <ce>
-<ce> As soon as you enter, you step on a false tile.
-<ce> A disgusting gas begins to shoot into the air.
-<ce> Your system is strong enough to fight it off
-<ce> until you reach cleaner air, and you emerge unscathed.
+<ce> Как только вы входите, вы наступаете на фальш-плитку.
+<ce> В воздухе начинает распространяться отвратительный
+<ce> газ. Ваш организм достаточно сильный, чтобы справиться
+<ce> с ним, пока вы не доберетесь до более чистого воздуха.
 
 Message:  1020
-<ce> Your quarry is slain.
+<ce> Ваша добыча убита.
 
 Message:  1030
 %qdt:
- I've been contracted by the %t
- through the Fighters Guild of
- ___qgiver_ to hunt
- down a criminal
- in ___dungeon_. I need to
- be back in =timer_ days to get my =reward_ gold.
+ %t поручили мне через Гильдию
+ Бойцов ___qgiver_ выследить
+ преступника в ___dungeon_.
+ Мне нужно вернуться через
+ =timer_ дней, чтобы получить
+ =reward_ золотых.
 
 Message:  1040
-<ce> No, no, wait! We're going to do this right, okay?
-<ce> I've got a stash of =survivegold_ gold. Sounds pretty good,
-<ce> right? Just let me live and I'll leave it by the exit.
-<ce> We both get what we want, right? Okay?
+<ce> Нет, нет, подождите! Мы сделаем все правильно, хорошо? У меня
+<ce> есть заначка =survivegold_ золотых. Звучит неплохо, правда?
+<ce> Просто оставьте меня в живых, и я оставлю это у выхода. Мы оба
+<ce> получим то, что хотим, верно? Договорились?
 
 --contributed by Baler
 
 Message:  1041
-<ce> See, you're one of the smart ones.
-<ce> Glad we found each other.
-<ce> You just head on out and I'll leave it
-<ce> outside the entrance, okay?
+<ce> Видите, вы из умных. Рад,
+<ce> что мы нашли друг друга.
+<ce> Вы направляетесь к выходу,
+<ce> и забираете деньги там, да?
 
 Message:  1042
-<ce> Sure enough, you find a large sack containing
-<ce> many gold coins outside the entrance.
-<ce> It's a shame the Fighters Guild won't be
-<ce> giving a good report this time, but that's life.
+<ce> И действительно, у выхода вы находите большой
+<ce> мешок, содержащий много золотых монет. Жаль,
+<ce> что на этот раз %t не получат от Гильдии Бойцов
+<ce> хороший отчет, но такова жизнь.
 
 Message:  1045
-<ce> Something strange is happening here. Your foe growls
-<ce> and gnashes about in a truly savage way.
+<ce> Здесь происходит что-то странное. Ваш противник
+<ce> рычит и диким образом скрежещет зубами.
 
 --daedra ending
 
 Message:  1050
-<ce> Moron %ra! You thought I wasn't
-<ce> ready for you? COME ON OUT!
+<ce> %ra без мозгов! Меня не застать
+<ce> в расплох! ВЫХОДИ!
 
 --spawn 4 helpers
 
 Message:  1055
-<ce> Wait, moron. %pcf. %ra working for the
-<ce> Fighters Guild. I know you and a lot more. Listen.
+<ce> Подождите, %pcf. %ra, что работает на Гильдию Бойцов. Не тупите!
+<ce> Я знаю вас и много чего ещё. Слушайте.
 <ce>
-<ce> The reason the %t wants me to die is I've got
-<ce> some very ugly details about an illegitimate heir
-<ce> that's coming of age. I'm headed to ___palace_ to
-<ce> barter for my silence. Join me and split it or
-<ce> kill me and lose it all. Are you with me?
+<ce> Причина, по которой %t хотят, чтобы я умер, заключается в том, что
+<ce> у меня есть очень неприятные подробности о незаконнорожденном наследнике,
+<ce> который скоро достигнет совершеннолетия. Я направляюсь в ___palace_,
+<ce> чтобы продать мое молчание. Присоединяйтесь ко мне и разделите со мной
+<ce> прибыль или убейте меня и потеряйте все. Вы со мной?
 
 Message:  1056
-<ce> All right. I was going to let them stew for another
-<ce> week but you left me no choice. We're headed
-<ce> to the palace at ___palace_. Take me
-<ce> to someone named _noble_ and we'll see
-<ce> what %crn's gonna give us. Let's move.
+<ce> Все в порядке. Я собирался дать этим сведениям
+<ce> настояться еще неделю, но вы не оставили мне
+<ce> выбора. Мы направляемся во дворец в ___palace_.
+<ce> Отведите меня к _noble_, и мы посмотрим, что
+<ce> нам заплатят в %crn. Выдвигаемся.
 
 Message:  1057
-<ce> Your partner's suspicions of you have gotten
-<ce> too strong. After you let your guard
-<ce> down momentarily, you find yourself alone.
+<ce> Подозрения вашего партнера в отношении вас стали слишком
+<ce> сильными. После того, как вы на мгновение ослабили
+<ce> бдительность, вы оказываетесь в полном одиночестве.
 
 Message:  1058
-<ce> Your partner takes _noble_ aside and
-<ce> whispers something in %g4 ear for about a minute.
-<ce> The noble feigns surprise, clearly in on the secret.
-<ce> With a snap of the fingers %g1 summons a servant who
-<ce> brings several useful objects to the two of you, which
-<ce> you split evenly before parting ways.
+<ce> Ваш партнер отводит _noble_ в сторону и около
+<ce> минуты шепчет что-то %g2 на ухо. Аристократ
+<ce> притворяется удивленным, но явно знает секрет.
+<ce> Щелчком пальцев %g1 вызывает слугу, который
+<ce> приносит вам двоим несколько вещей, которые вы
+<ce> делите поровну, прежде чем разойтись.
 
 Message:  1059
 %qdt:
- I've sided with the outlaw I was meant to slay.
- We're headed to ___palace_ to speak
- with a noble named _noble_
- to try to barter about some
- dangerous information.
+ Я и разбойник, которого нужно было убить,
+ теперь работаем вместе. Мы направляемся
+ в ___palace_, чтобы поговорить с
+ аристократом по имени _noble_ и попытаться
+ продать ему опасную информацию.
 
 Message:  1060
-<ce> Curiously, your mark appears to already be dead. You find
-<ce> cuts, deep and wide, across the body. Someone seems to
-<ce> have already looted it first.
+<ce> Любопытно, что ваша цель, похоже, уже мертва.
+<ce> Вы видите раны, глубокие и широкие, по всему телу.
+<ce> Так же кто-то уже забрал все вещи.
 <ce>
-<ce> During the time you inspected the body, it appears
-<ce> you've attracted the real killer's attention.
+<ce> Пока вы осматривали тело, вы привлекли
+<ce> внимание настоящего убийцы.
 
 Message:  1065
-<ce> Hard as it is to believe, this appears to be
-<ce> your mark. Surely vampires can be outlaws as well.
+<ce> Как ни трудно в это поверить, но, похоже, это ваша цель.
+<ce> Конечно, вампиры тоже могут быть вне закона.
 
 QBN:
-Item _reward_ gold
+Item _reward_ gold range 1301 to 1600
 Item _survivegold_ gold range 2301 to 2600
 Item _body_ dead_body
 Item _magic_ magic_item
