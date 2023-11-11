@@ -1,118 +1,118 @@
 Quest: JHFG104
-DisplayName: House Watching
+DisplayName: Наблюдение за домом
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> I've got another kind of job here, %pcf,
-<ce> in case you're tired of killing rats and bears.
-<ce> There's this house here in town that's afraid
-<ce> of a break-in tonight and they need a guard.
-<ce> It's paying =reward_ gold. Is that your kind of job?
+<ce> У меня есть работа другого рода, %pcf, на случай,
+<ce> если вам надоело убивать крыс и медведей. Здесь, в
+<ce> городе, есть один дом, который боится взлома сегодня
+<ce> ночью, и им нужен охранник. За это платят =reward_
+<ce> золотых. Вас устраивает такая работа?
    <--->
-<ce> We got a client who needs _res_
-<ce> to get watched over tonight. Pretty simple job.
-<ce> Just get there by 11:00 tonight and stay there 'til
-<ce> sunlight. It's worth =reward_ gold. Wanna give it a shot?
+<ce> Есть заказ на охрану места под названием _res_. Стоять на страже
+<ce> нужно сегодня вечером. Довольно простая работа. Просто придите
+<ce> туда к 11:00 и оставайтесь там до рассвета. Это стоит
+<ce> =reward_ золотых. Хотите попробовать?
 
 RefuseQuest:  [1001]
-<ce> I hope I find someone quick. I don't
-<ce> want to have to cover this one.
+<ce> Надеюсь, я быстро найду кого-нибудь.
+<ce> Я не хочу выполнять этот заказ самостоятельно.
 
 AcceptQuest:  [1002]
-<ce> All right, good. Head over in town to
-<ce> _res_. Stay there from
-<ce> 11:00 at night to sunup. These people
-<ce> weren't too specific about what threats
-<ce> they were expecting, but it's not gonna be
-<ce> vampires or werewolves or something, just
-<ce> some local low-life and his friends. Stay
-<ce> inside until they say they don't need you
-<ce> any longer. You're contracted for one night.
-<ce> They'll give you the gold when you're done.
+<ce> Хорошо. Отправляйтесь в _res_.
+<ce> Оставайтесь там с 11 вечера (23:00)
+<ce> до рассвета. Заказчик не уточнял,
+<ce> какие угрозы ожидаются, но это будут
+<ce> не вампиры, оборотни или что-то
+<ce> такое, а просто местная шпана
+<ce> с друзьями. Оставайтесь внутри, вам
+<ce> не скажут, что вы можете идти.
+<ce> Контракт заключен на одну ночь.
+<ce> Вам золото, когда вы закончите.
 
 QuestFail:  [1003]
 <ce> ERROR 1003 JHFG104
 
 QuestComplete:  [1004]
-<ce> You have protected our house, %ra,
-<ce> and earned your gold. This is
-<ce> what they said belonged to you.
+<ce> Вы защитили наш дом, %ra,
+<ce> и заслужили свое золото.
+<ce> Мне сказали, что это принадлежит вам.
 
 QuestorPostFailure:  [1009]
-Here to give us a worse reputation than we've already got, %pcf?
+Пришли, чтобы испортить нам репутацию еще больше, %pcf?
 
 Message:  1018
-<ce> "Ah, our guard for the night! Please
-<ce> move about freely. We're under your care."
+<ce> "А, наш ночной сторож! Пожалуйста,
+<ce> проходите. Мы под вашей охраной".
    <--->
-<ce> "Is that our guard for the night?
-<ce> Make yourself comfortable,
-<ce> wherever you please."
+<ce> "Это наш ночной охранник?
+<ce> Устраивайтесь поудобнее,
+<ce> где вам заблагорассудится".
 
 Message:  1020
-<ce> We would have been killed
-<ce> tonight if it weren't for you!
-<ce> Thank you! Thank you!
+<ce> Мы бы погибли сегодня,
+<ce> если бы не вы!
+<ce> Спасибо! Спасибо!
 
 Message:  1021
-<ce> Curiously, you notice nearby a bag of gold
-<ce> which appears to be out of everyone else's
-<ce> sight. The adrenaline rush of today's
-<ce> events may have worn them out too much,
-<ce> lending to momentary distraction. Will you
-<ce> attempt to take it for yourself?
+<ce> Любопытно! Вы замечаете неподалеку мешок
+<ce> с золотом, который, как вам кажется, находится
+<ce> вне поля зрения остальных. Возможно, выброс
+<ce> адреналина от сегодняшних событий слишком всех
+<ce> измотал и притупил их внимание. Попытаетесь
+<ce> ли вы забрать мешок себе?
 <ce>
-<ce> (ПРОВЕРКА НАВЫКА: ДВ: Карманные кражи, низкая сложность)
-<ce> (ИЛИ ПРОВЕРКА НАВЫКА: ДА: Скрытность, средняя сложность)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Карманные кражи, низкая сложность
+<ce> ИЛИ
+<ce> ПРОВЕРКА НАВЫКА: ДА: Скрытность, средняя сложность)
 
 Message:  1022
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Скрытность/Карманные кражи)
 <ce>
-<ce> This is all too easy for one of your skill set.
-<ce> The bag of money is now yours, adding an
-<ce> additional =stealg_ gold pieces to your count.
+<ce> Слишком просто для человека вашей квалификации.
+<ce> Мешок с деньгами теперь ваш, что добавляет
+<ce> на ваш счет еще =stealg_ золотых.
 
 Message:  1023
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Скрытность/Карманные кражи)
 <ce>
-<ce> Your movement while grabbing the coin bag is too
-<ce> obvious. Someone peering over sees that you have
-<ce> your hand on property which is clearly not yours.
-<ce> The quiet morning hours are shattered by a
-<ce> shrill yell.
+<ce> Ваше движение, когда вы хватаете мешочек с монетами,
+<ce> слишком очевидно. Кто-то, обернувшись, видит, что вы
+<ce> держите в руках собственность, которая явно вам
+<ce> не принадлежит. Тихие утренние часы нарушаются
+<ce> пронзительным криком.
 <ce>
-<ce> "THIEF! The Fighters Guild sent us a thief!
-<ce> Someone help!"
+<ce> "ВОР! Гильдия бойцов прислала нам вора!
+<ce> Кто-нибудь, помогите!"
 <ce>
-<ce> Something tells you they will not be paying
-<ce> for your guard service. Perhaps you should
-<ce> work on your thieving skills before trying
-<ce> to rip off your clients.
+<ce> Что-то подсказывает вам, что они не будут платить
+<ce> вам за охрану. Возможно, вам следует поработать
+<ce> над своими воровскими навыками, прежде чем
+<ce> пытаться красть у своих клиентов.
    <--->
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Скрытность/Карманные кражи)
 <ce>
-<ce> Your movement while grabbing the coin bag is too
-<ce> obvious. Someone peering over sees that you have
-<ce> your hand on property which is clearly not yours.
-<ce> The quiet morning hours are shattered by a
-<ce> shrill yell.
+<ce> Ваше движение, когда вы хватаете мешочек с монетами,
+<ce> слишком очевидно. Кто-то, обернувшись, видит, что вы
+<ce> держите в руках собственность, которая явно вам
+<ce> не принадлежит. Тихие утренние часы нарушаются
+<ce> пронзительным криком.
 <ce>
-<ce> "Help! We have a thief in the house! Help us!"
+<ce> "Помогите! У нас в доме вор! Помогите нам!"
 <ce>
-<ce> Something tells you they will not be paying
-<ce> for your guard service. Perhaps you should
-<ce> work on your thieving skills before trying
-<ce> to rip off your clients.
+<ce> Что-то подсказывает вам, что они не будут платить
+<ce> вам за охрану. Возможно, вам следует поработать
+<ce> над своими воровскими навыками, прежде чем
+<ce> пытаться красть у своих клиентов.
 
 Message:  1030
 %qdt:
- The Fighters Guild in
- ___res_ has assigned
- me to guard _res_
- tonight. I should be there from
- 11:00 at night until they say
- otherwise, probably at dawn.
+ Гильдия Бойцов в ___res_
+ назначила меня охранять
+ _res_ сегодня вечером. Мне
+ нужно быть там с 11 вечера,
+ вероятно, до рассвета.
 
 QBN:
 Item _reward_ gold

@@ -1,155 +1,156 @@
 Quest: JHFG106
-DisplayName: Guarding a Living Body
+DisplayName: Охрана живого тела
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Hey %pcf, maybe you can help us out.
-<ce> We've got this fellow who's marked up and down with
-<ce> death threats. Can't even bear going to his house,
-<ce> so he's been sleeping out in taverns for the last
-<ce> week. He thinks if he's got someone from the
-<ce> guild with him, he can at least go back and pick
-<ce> up his stuff. You wanna play bodyguard and take
-<ce> him to ___res_ for =reward_ gold?
+<ce> %pcf, может быть, вы сможете нам помочь. У нас есть
+<ce> один человек, которого засыпали угрозами смерти
+<ce> Он боится даже зайти к себе домой, поэтому последнюю
+<ce> неделю он ночует в тавернах. Он думает, что если
+<ce> с ним будет кто-то из гильдии, он сможет, по крайней
+<ce> мере, вернуться и забрать свои вещи. Вы хотите
+<ce> сыграть роль телохранителя и отвезти его в ___res_
+<ce> за =reward_ золотых?
    <--->
-<ce> %pcf, I'm glad you're here. We've
-<ce> got this guy who needs help getting back home.
-<ce> Apparently he's been getting death threats like
-<ce> Oblivion's never seen before. He won't go there without
-<ce> someone watching his back. He's paying =reward_ gold
-<ce> to get to ___res_. You in?
+<ce> %pcf, я рад, что вы здесь. У нас есть один парень,
+<ce> которому нужно помочь вернуться домой. Очевидно, он
+<ce> получает такие угрозы смерти, каких Обливион еще не
+<ce> видел. Он не хочет идти туда без кого-то, кто
+<ce> прикрывал бы ему спину. Он платит =reward_ золотых,
+<ce> чтобы добраться до ___res_. Вы согласны?
 
 RefuseQuest:  [1001]
-<ce> He's off shivering in a corner,
-<ce> %pcf. Have a heart.
+<ce> Вот он, дрожит в углу,
+<ce> %pcf. Имейте сердце.
 
 AcceptQuest:  [1002]
-<ce> All right, but I'll warn you, this stuff's serious.
-<ce> I don't know whose in-law he insulted
-<ce> or who he cheated, but I read the letter
-<ce> he got and it ain't pretty. Anyway, let me
-<ce> call him. He didn't even want to leave the guild
-<ce> hall without someone watching his back.
-
-<ce> Hey! We got someone for ya, come down now!
-<ce> This %ra's gonna get you home! Name's
-<ce> %pcn. You can trust %g2.
+<ce> Хорошо, но я предупреждаю вас, что дело серьезное. Я
+<ce> не знаю, чьего родственника он оскорбил или кого
+<ce> обманул, но я читал письмо, которое он получил, и
+<ce> оно не из приятных. В любом случае, позвольте мне
+<ce> позвать его. Он даже не хотел покидать зал гильдии
+<ce> без того, чтобы кто-нибудь не прикрывал его спину.
+<ce>
+<ce> Эй! У нас есть кое-кто для тебя, спускайся
+<ce> немедленно! %ra доставит вас домой! Зовут %pcn.
+<ce> Вы можете доверять %pg2.
 
 QuestFail:  [1003]
-<ce> You hear an awful groaning sound
-<ce> and a heavy thump on the floor.
-<ce> It appears you have failed.
+<ce> Вы слышите ужасный стон
+<ce> и тяжелый удар об пол.
+<ce> Похоже, у вас ничего не вышло.
 
 QuestComplete:  [1004]
-<ce> You are glad you were assigned this matter. Someone less
-<ce> capable could have tarnished the guild's reputation.
+<ce> Вы рады, что вам поручили это дело. Кто-то
+<ce> менее способный мог бы запятнать репутацию гильдии.
 
 RumorsPostFailure:  [1006]
-The Fighters Guild runs a pretty poor bodyguard service, they say.
+Говорят, у Гильдии Бойцов довольно плохая служба охраны.
 
 RumorsPostSuccess:  [1007]
-The Fighters Guild, protecting stuff? Doesn't sound like them.
+Гильдия Бойцов, охраняющая что-то? Не похоже на них.
 
 QuestorPostFailure:  [1009]
-If our clients keep dying under your watch, I'm just gonna stop giving you bodyguard jobs.
+Если наши клиенты будут продолжать умирать у вас на глазах,
+я просто перестану давать вам работу телохранителя.
 
 Message:  1010
-<ce> Your client cautiously creeps down the stairs.
+<ce> Ваш клиент осторожно спускается по лестнице.
 <ce>
-<ce> "Please forgive me, %pcn. You cannot
-<ce> imagine the horrors I've lived for the
-<ce> last few days. Please, take me to
-<ce> ___res_. I was living in
-<ce> _res_. I'll pay you
-<ce> once we're there."
+<ce> "Пожалуйста, простите меня, %pcn. Вы не
+<ce> можете себе представить, какие ужасы
+<ce> я пережил за последние несколько дней.
+<ce> Пожалуйста, отвезите меня в ___res_.
+<ce> Я жил в _res_. Я заплачу вам, как
+<ce> только мы приедем."
 
 Message:  1020
-<ce> You hear rustling inside the home.
-<ce> Your client trembles.
+<ce> Вы слышите шорох внутри дома.
+<ce> Ваш клиент дрожит.
 <ce>
-<ce> "No! They're here! And they'll be
-<ce> outside! I knew it all along!
-<ce> Kill them before they kill me!"
+<ce> "Нет! Они здесь! И они будут снаружи!
+<ce> Я знал это с самого начала! Убейте их,
+<ce> пока они не убили меня!"
 <ce>
-<ce> Before you can react, he flees in
-<ce> terror to another area of the house.
+<ce> Прежде чем вы успеваете среагировать,
+<ce> он в ужасе убегает в другую часть дома.
    <--->
-<ce> You hear rustling inside the home.
-<ce> Your client trembles.
+<ce> Вы слышите шорох внутри дома.
+<ce> Ваш клиент дрожит.
 <ce>
-<ce> "No! I'm not ready to die! Please,
-<ce> please, do something!
-<ce> They're coming for me!"
+<ce> "Нет! Я не готов умирать! Пожалуйста,
+<ce> пожалуйста, сделайте что-нибудь!
+<ce> Они идут за мной!"
 <ce>
-<ce> Before you can react, he flees in
-<ce> terror to another area of the house.
+<ce> Прежде чем вы успеваете среагировать,
+<ce> он в ужасе убегает в другую часть дома.
 
 Message:  1028
-<ce> Your client cautiously peeks around
-<ce> to ensure you are still standing
-<ce> and not the assassins. When he
-<ce> is satisfied, he sighs deeply.
+<ce> Ваш клиент осторожно оглядывается по
+<ce> сторонам, чтобы убедиться, что вы все
+<ce> еще стоите, а убийцы уже нет.
+<ce> Убедившись в этом, он глубоко вздыхает.
 
 Message:  1029
-<ce> "My word! %pcn, you have provided me
-<ce> proof that all my fears were just, and
-<ce> saved my life in the process! I must flee
-<ce> to ___escape_ quickly, now
-<ce> that I have my belongings. Thank you for
-<ce> extending your incredible skill on my behalf!"
+<ce> "Честное слово! %pcn, вы предоставили мне
+<ce> доказательство того, что все мои опасения были
+<ce> справедливы, и при этом спасли мне жизнь! Я должен
+<ce> побыстрее бежать в ___escape_, теперь,
+<ce> когда у меня есть мои вещи. Спасибо, что проявили
+<ce> свое невероятное мастерство от моего имени!"
 <ce>
-<ce> He hands you the payment
-<ce> before returning to pack his things.
+<ce> Он вручает вам деньги, а затем возвращается
+<ce> к сбору своих вещей.
 
 Message:  1030
 %qdt:
- I've been assigned by
- The Fighters Guild in
- ___qgiver_ as a bodyguard
- to a fellow who lives in
- ___res_. I have to escort him to
- _res_ and ensure no
- one's inside. I have =timer_ days.
+ Гильдия Бойцов в ___qgiver_
+ назначила меня телохранителем
+ одного человека, живущего
+ в ___res_. Мне нужно сопровождать
+ его до _res_ и следить за тем,
+ чтобы внутри никого не было.
+ У меня есть =timer_ дней.
 
 Message:  1040
-<ce> Silence pervades the house. A moment's wait
-<ce> makes it clear no one is inside. Perhaps
-<ce> the threats were in vain.
+<ce> В доме царит тишина. После минутного ожидания
+<ce> становится ясно, что внутри никого нет.
+<ce> Возможно, угрозы были напрасны.
 <ce>
-<ce> "No! It must be you then! This is a trap, an awful
-<ce> trap! I never should have trusted the Fighters
-<ce> Guild! Of course it would be some %ra that slays me!"
+<ce> "Нет! Тогда это, должно быть, вы! Это ловушка, ужасная ловушка!
+<ce> Мне никогда не следовало доверять Гильдии Бойцов!
+<ce> Конечно же, меня убьет какой-нибудь %ra!"
 <ce>
-<ce> Paranoia floods _escort_'s mind.
-<ce> Feeling trapped, %g1 draws a weapon to defend %g2self.
+<ce> Паранойя захлестнула разум _escort_. Чувствуя себя в ловушке,
+<ce> %g1 достает оружие, чтобы защитить %g2self себя.
 
 Message:  1041
-<ce> Your restraint speaks volumes. _escort_'s
-<ce> madness begins to subside, and %g1 speaks to you plainly.
+<ce> Ваше нежелание драться говорит о многом. _escort_ начинает
+<ce> отходить от приступа безумия и говорит:
 <ce>
-<ce> "I... am so sorry. You truly are here to protect me,
-<ce> aren't you? %oth. %god forgive me. Please,
-<ce> just take the money and go. I need to leave and go far,
-<ce> far away. %crn is no home for me. Thank you for
-<ce> preserving my life, %pcf."
+<ce> "Я... очень сожалею. Вы ведь здесь, чтобы действительно
+<ce> защитить меня, не так ли? %oth. %god да простит меня.
+<ce> Пожалуйста, просто возьмите деньги и уходите. Мне нужно
+<ce> уехать далеко-далеко. %crn для меня не дом. Спасибо,
+<ce> что сохранили мне жизнь, %pcf".
    <--->
-<ce> Your restraint speaks volumes. _escort_'s
-<ce> madness begins to subside, and %g1 speaks to you plainly.
+<ce> Ваше нежелание драться говорит о многом. _escort_ начинает
+<ce> отходить от приступа безумия и говорит:
 <ce>
-<ce> "Please, please forgive me. I am so ashamed. My mind is
-<ce> wracked with the events of past weeks. Take the money
-<ce> and go. I am in no condition to deal with other people now.
-<ce> You are truly a credit to your order, %pcf."
+<ce> "Пожалуйста, пожалуйста, простите меня. Мне так стыдно. У меня в голове
+<ce> крутятся события последних недель. Возьмите деньги и уходите. Я сейчас
+<ce> не в том состоянии, чтобы иметь дело с другими людьми. Вы действительно
+<ce> являетесь гордостью вашего ордена, %pcf".
 
 Message:  1042
-<ce> Surely you are justified in defending yourself.
-<ce> This cannot be called a crime, though the Fighters Guild's
-<ce> reputation may not come out of this stainless.
+<ce> Несомненно, вы вправе защищаться. Это нельзя
+<ce> назвать преступлением, хотя репутация Гильдии
+<ce> Бойцов может пострадать от этого.
 
 Message:  1043
-<ce> You have slain your client in cold blood.
-<ce> Word of this will reach _qgiver_.
+<ce> Вы хладнокровно убили своего клиента. Пойдут слухи,
+<ce> и _qgiver_ несомненно услышит об этом.
 
 QBN:
 Item _reward_ gold
