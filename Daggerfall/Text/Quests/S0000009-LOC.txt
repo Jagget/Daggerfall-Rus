@@ -31,7 +31,7 @@ AcceptQuest:  [1002]
 <ce> приключение. _foil_ просто обожает
 <ce> путешествовать и едет провести какое-
 <ce> -то время с _contact_. Отправляйтесь
-<ce> в ___contact_ из ____contact_,
+<ce> в ___contact_, ____contact_,
 <ce> в местечко с названием __contact_.
 <ce> %g заплатит вам =reward_ золотых за
 <ce> сопровождение %g4 _foil_. Вы наверное
@@ -64,7 +64,7 @@ _contact_ был очень безумен, насколько это может
 QuestLogEntry:  [1010]
 %qdt:
 <ce> Принцесса Элизейн попросила меня сопроводить
-<ce> ее кузину _foil_ в ___contact_ из ____contact_
+<ce> ее кузину _foil_ в ___contact_, ____contact_
 <ce> к _contact_. %g заплатит =reward_ и даст
 <ce> информацию относительно Тотема.
 
@@ -215,7 +215,7 @@ _S.07_ task:
 _slainBarbarians_ task:
 	when _S.07_ and _yes_
 	say 1020
-	
+
 _spawnBarbarians_ task:
 	send _barbarians_ every 70 minutes 10 times with 10% success
 

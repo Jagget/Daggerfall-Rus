@@ -130,7 +130,7 @@ Message:  1020
 <ce> вас врагом. Идите в город ___apo_
 <ce> в провинции ____apo_ и найдите там агента _apothecary_.
 <ce> Агент даст вам дальнейшие инструкции.
-
+<ce>
 <ce> Брат...
 
 --changed %reg to ____apo_ here to ensure region consistency
