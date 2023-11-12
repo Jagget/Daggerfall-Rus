@@ -1,124 +1,124 @@
 Quest: JHFG113
-DisplayName: Gentle Giant
+DisplayName: Нежный великан
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> I've got kind a weird request here, I guess.
-<ce> Folks over in ___res_ are dealing
-<ce> with a giant over in their house, but it's
-<ce> not hurting anyone. Just sitting around,
-<ce> staying out of the sun. I dunno if you know
-<ce> any Giantish, but do you want to try to get
-<ce> him out of the house?
+<ce> У меня, пожалуй, странная просьба.
+<ce> В ___res_ в дом залез великан, но он
+<ce> никому не причиняет вреда. Просто сидит
+<ce> и не высовывается на солнце. Не знаю, знаете
+<ce> ли вы хоть немного язык великанов, но не
+<ce> хотите ли вы попробовать выгнать или
+<ce> выманить его из дома?
 
 RefuseQuest:  [1001]
-<ce> Well, I tried. Maybe they'll fit him
-<ce> in at the dinner table somehow.
+<ce> Что ж, я пытался. Может быть, они как-нибудь
+<ce> пристроят его за обеденным столом.
    <--->
-<ce> Well, they're not in any danger.
-<ce> That's got to be uncomfortable, though.
+<ce> Ну, им ничего не угрожает.
+<ce> Хотя это, должно быть, неудобно.
    <--->
-<ce> You know how much a giant smells, %pcf?
+<ce> Вы знаете, как сильно пахнет великан, %pcf?
 
 AcceptQuest:  [1002]
-<ce> There are two ways to get a giant out of
-<ce> a house: alive or dead. The client doesn't
-<ce> really mind if he dies, so there's that.
-<ce> In case you're actually good with his
-<ce> language, maybe you can try showing him
-<ce> this bit of _ing_. I dunno if
-<ce> he'd eat it, but it's worth a shot, I say.
-<ce> Anyway, it's in _res_
-<ce> at ___res_. Get back here in
-<ce> =timer_ days. Stay safe.
+<ce> Есть два способа вытащить великана из
+<ce> дома: живым или мертвым. Клиент не
+<ce> возражает, если великан умрет. Как-то
+<ce> так. На случай, если вы действительно
+<ce> хорошо владеете его языком, может быть,
+<ce> вы попробуете показать ему этот кусок
+<ce> от _ing_. Не знаю, съест ли он это, но
+<ce> попробовать стоит, я считаю. В любом
+<ce> случае, это в _res_, ___res_. Вернитесь
+<ce> сюда через =timer_ дней. Берегите себя.
 
 QuestFail:  [1003]
-<ce> _qgiver_ told you to return
-<ce> to ___qgiver_ by today to tell
-<ce> what happened to the giant.
+<ce> _qgiver_ велел вам вернуться в
+<ce> ___qgiver_ сегодня, чтобы рассказать,
+<ce> что случилось с великаном.
 
 QuestComplete:  [1004]
-<ce> Well, how'd it go? Well, I guess
-<ce> that's the best we could've hoped
-<ce> for. Thanks for not letting us down.
-<ce> The family's savings disappeared
-<ce> around the time the giant appeared so
-<ce> there's no pay this time, sorry.
+<ce> Ну, как все прошло? Что ж, я думаю, это
+<ce> лучшее, на что мы могли надеяться.
+<ce> Спасибо, что не подвели нас. Сбережения
+<ce> семьи исчезли примерно в то же время,
+<ce> когда появился великан, так что на этот
+<ce> раз мы не заплатим, извините.
 
 Message:  1019
-<ce> In spite of its peaceful behavior, there's no
-<ce> mistaking this giant's residence. You know
-<ce> you're in the right building.
+<ce> Несмотря на мирное поведение этого великана,
+<ce> дом, который он занял, ни с чем нельзя спутать.
+<ce> Вы знаете, что находитесь в нужном здании.
 
 Message:  1020
-<ce> The giant shouts up a storm, preparing to fight back.
+<ce> Великан громко кричит, готовясь дать отпор.
    <--->
-<ce> This once peaceful giant now throws a tantrum.
+<ce> Этот некогда мирный великан теперь закатывает истерику.
 
 Message:  1021
-<ce> (GIANTISH CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Язык великанов)
 <ce>
-<ce> You toss the _ing_ to the giant. He takes
-<ce> it kindly and puts it into a pouch on his
-<ce> animal skin. You then make a short and simple
-<ce> conversation with him. He explains that
-<ce> he has taken to squatting in this
-<ce> home due to his dislike of combat and
-<ce> difficulty living with his kin. You
-<ce> explain that his life is in danger here,
-<ce> and that he should move on to a different
-<ce> region. He thanks you for your good will
-<ce> and promises to leave soon.
+<ce> Вы бросаете _ing_ великану. Он ласково
+<ce> берет это и кладет в свой мешок. Затем
+<ce> вы заводите с ним короткую и простую
+<ce> беседу. Он объясняет, что поселился
+<ce> в этом доме из-за своей нелюбви к боям
+<ce> и трудностей с проживанием со своими
+<ce> родственниками. Вы объясняете, что
+<ce> здесь его жизнь в опасности и что ему
+<ce> следует переехать в другой регион.
+<ce> Он благодарит вас за вашу добрую волю
+<ce> и обещает скоро уехать.
 <ce>
-<ce> As you prepare to go, he pulls a bearhide bag
-<ce> from a nearby floorboard. Finding no use
-<ce> for them himself, he gives you the contents,
-<ce> which amount to =reward_ gold pieces.
+<ce> Когда вы готовитесь уходить, он достает из-под
+<ce> ближайшей половицы сумку из медвежьей кожи.
+<ce> Не найдя им применения самому, он отдает вам
+<ce> содержимое, которое составляет =reward_ золотых.
    <--->
-<ce> (GIANTISH CHECK PASSED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Язык великанов)
 <ce>
-<ce> You toss the _ing_ to the giant. He takes
-<ce> it kindly and puts it into a pouch on his
-<ce> animal skin. You then make a short and simple
-<ce> conversation with him. He explains that
-<ce> he has taken for himself the hospitality
-<ce> of this dwelling, hoping to form an arrangement
-<ce> of some kind once he understands their language.
-<ce> You explain that the family will not accept it,
-<ce> and that he should move on to a different
-<ce> region. He thanks you for your good will
-<ce> and promises to leave soon.
+<ce> Вы бросаете _ing_ великану. Он ласково
+<ce> берет это и кладет в свой мешок. Затем
+<ce> вы заводите с ним короткую и простую
+<ce> беседу. Он объясняет, что воспользовался
+<ce> гостеприимством этого жилища в надежде
+<ce> как-то договориться, как только поймет
+<ce> их язык. Вы объясняете, что семья этого
+<ce> не примет и что ему следует
+<ce> переехать в другой регион.
+<ce> Он благодарит вас за вашу добрую волю
+<ce> и обещает скоро уехать.
 <ce>
-<ce> As you prepare to go, he pulls a bearhide bag
-<ce> from a nearby floorboard. Finding no use
-<ce> for them himself, he gives you the contents,
-<ce> which amount to =reward_ gold pieces.
+<ce> Когда вы готовитесь уходить, он достает из-под
+<ce> ближайшей половицы сумку из медвежьей кожи.
+<ce> Не найдя им применения самому, он отдает вам
+<ce> содержимое, которое составляет =reward_ золотых.
 
 Message:  1022
-<ce> You have slain the giant inhabiting
-<ce> _res_. Time to return to ___qgiver_.
+<ce> Вы убили великана, обитающего в _res_.
+<ce> Пора возвращаться в ___qgiver_.
 
 Message:  1023
-<ce> (GIANTISH CHECK FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Язык великанов)
 <ce>
-<ce> You show the giant the _ing_. He takes
-<ce> it kindly and puts it into a pouch on his
-<ce> animal skin. You attempt to make basic
-<ce> conversation, but the creature's visage
-<ce> remains perplexed all the while.
-<ce> You make no progress.
+<ce> Вы показываете великану _ing_. Он
+<ce> благосклонно принимает это и кладет в
+<ce> свой мешок. Вы пытаетесь завязать
+<ce> элементарный разговор, но лицо существа
+<ce> все время остается озадаченным. Вы не
+<ce> добились никакого прогресса.
 
 Message:  1030
 %qdt:
- _qgiver_ of ___qgiver_
- told me a giant has taken up
- residence in _res_,
- which is in ___res_. All
- that matters to the client is
- that it leaves as soon as
- possible. I'll need to be back
- in =timer_ days time.
+ _qgiver_ из ___qgiver_
+ сказал мне, что великан
+ поселился в _res_,
+ ___res_. Все, что важно
+ для клиента, - это чтобы
+ он ушел как можно скорее.
+ Мне нужно будет вернуться
+ через =timer_ дней.
 
 QBN:
 Item _ing_ small_plant

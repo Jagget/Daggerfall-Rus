@@ -1,93 +1,93 @@
 Quest: JHFG118
-DisplayName: Rattling Bones
+DisplayName: Гремящие кости
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Not your typical cemetery problem:
-<ce> the bones don't stay underground. Could be because
-<ce> of necromancer mischief, residual magic, ancient curses,
-<ce> what have you. We just need someone to head on over and
-<ce> kill skeletons until the ground stops vibrating.
-<ce> Wanna take this one on?
+<ce> Типичная проблема кладбища: кости не остаются под
+<ce> землей. Это может быть из-за проделок некромантов,
+<ce> остаточной магии, древних проклятийи т.д. Нам
+<ce> просто нужен кто-то, кто пойдет туда и будет
+<ce> убивать скелетов, пока земля не перестанет
+<ce> вибрировать. Хотите попробовать?
 
 RefuseQuest:  [1001]
-<ce> Skeletons can be pretty tough if you're
-<ce> not equipped right, I know.
+<ce> Я знаю, скелеты могут быть довольно крепкими,
+<ce> если вы неправильно экипированы.
 
 AcceptQuest:  [1002]
-<ce> It's called ___cemetery_, quite a way out there.
-<ce> People can't properly visit their dead for
-<ce> the skeletons roaming around, so make sure
-<ce> they're gone. The contract needs you to be back
-<ce> by =timer_ days, and they're paying =reward_ gold.
-<ce> Safe travels.
+<ce> Это называется ___cemetery_, довольно далеко отсюда.
+<ce> Люди не могут должным образом навестить своих умерших
+<ce> из-за бродящих вокруг скелетов, поэтому убедитесь,
+<ce> что их не осталось. По контракту вы должны обернуться
+<ce> в срок =timer_ дней, и вам выплатят =reward_ золотых.
+<ce> Счастливого пути.
 
 QuestFail:  [1003]
-<ce> Your time to report success on the skeletons to
-<ce> the Fighters Guild has run out.
+<ce> Ваше время сообщить Гильдии Бойцов об успехе
+<ce> со скелетами истекло.
 
 QuestComplete:  [1004]
-<ce> Well done! What weapon did you use?
-<ce> I tell people, you've got to be packing a blunt weapon
-<ce> of some kind. Swords and daggers are useless against
-<ce> whole bone. I'm just glad you're back, anyway.
-<ce> Take your reward, and see what else we've got available.
+<ce> Отличная работа! Какое оружие вы использовали? Я говорю людям, что
+<ce> у вас должно быть с собой какое-нибудь тупое оружие. Мечи и кинжалы
+<ce> бесполезны против цельной кости. В любом случае, я просто рад, что
+<ce> вы вернулись. Возьмите свое вознаграждение и посмотрите, какие еще
+<ce> заказы у нас есть в наличии.
 
 RumorsDuringQuest:  [1005]
-The good harvest this year means food prices are getting real low.
+Хороший урожай в этом году означает, что цены на продукты питания
+становятся действительно низкими.
 
 Message:  1010
 %qdt:
- The Fighters Guild will pay me
- _reward_ gold to fulfill a contract.
- I need to destroy the roaming skeletons
- around ___cemetery_ until they
- stop appearing. I have =timer_ days
- to return to ___qgiver_ for my pay.
+ Гильдия Бойцов заплатит мне _reward_ золотых
+ за выполнение контракта. Мне нужно уничтожать
+ бродячих скелетов в окрестностях ___cemetery_,
+ пока они не перестанут появляться. У меня есть
+ =timer_ дней, чтобы вернуться в ___qgiver_
+ за своим вознаграждением.
 
 Message:  1011
-<ce> The ground indeed vibrates here, albeit slightly.
-<ce> The magic animating these skeletons is hard at work.
+<ce> Земля здесь действительно вибрирует, хотя и слегка. Магия,
+<ce> оживляющая эти скелеты, активно работает. Вы можете подождать,
 <ce>
-<ce> You could wait around for the skeletons to come together
-<ce> and bash them apart, or you could try to stop the revival process
-<ce> with magic of your own. Do you try to stop the enchantment (yes)
-<ce> or fight the skeletons after they form (no)?
+<ce> пока скелеты не вылезут из земли, и затем разбить их на части,
+<ce> или вы можете попытаться остановить процесс оживления с помощью
+<ce> собственной магии. Попытаетесь ли вы остановить волшебство (ДА)
+<ce> или сразитесь со скелетами после того, как они вылезут (НЕТ)?
 <ce>
 <ce> (ПРОВЕРКА НАВЫКА: ДА: Мистицизм, высокая сложность)
 
 Message:  1012
-<ce> The dark magic giving power to these bodies runs out.
-<ce> The earth ceases moving. Your reward awaits.
+<ce> Темная магия, дающая силу этим телам, иссякает.
+<ce> Земля перестает двигаться. Вас ждет награда.
 
 Message:  1013
-<ce> You know better than to mess with this kind of power.
-<ce> You'll just have to wait around until the skeletons rise.
+<ce> Вы же знаете, что с такой силой лучше не связываться.
+<ce> Вам просто нужно подождать, пока скелеты не восстанут.
 
 Message:  1014
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> You concentrate and try to read the forces
-<ce> at work. You perceive enough to see what keeps
-<ce> the enchantment going, and cast a spell to disrupt it.
-<ce> Once the cycle fails to renew itself, the magick stops.
+<ce> Вы концентрируетесь и пытаетесь распознать действующие силы.
+<ce> Вы достаточно проницательны, чтобы увидеть, что поддерживает
+<ce> действие чар, и произнести заклинание, чтобы разрушить их.
+<ce> Как только цикл перестает возобновляться, магия прекратится.
 
 Message:  1015
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> You concentrate and try to read the forces
-<ce> at work. You reach a conclusion and try to
-<ce> disrupt the spell. Too late, you realize that this is
-<ce> far beyond you. Some bones begin to rise from the earth,
-<ce> but far more smoothly than with the ordinary skeleton.
-<ce> This one glares at you with supernatural intelligence.
-<ce> Then it utters a single word.
+<ce> Вы концентрируетесь и пытаетесь прочитать действующие
+<ce> силы. Вы приходите к выводу и пытаетесь разрушить
+<ce> заклинание. Слишком поздно вы понимаете, что это далеко
+<ce> не в ваших силах. Некоторые кости начинают подниматься
+<ce> из земли, но гораздо более плавно, чем в случае с обычным
+<ce> скелетом. Этот смотрит на вас со сверхъестественным
+<ce> интеллектом. Затем он произносит одно единственное слово.
 <ce>
-<ce> "IDIOT."
+<ce> "ИДИОТ".
 <ce>
-<ce> Your task to slay the skeletons
-<ce> has gained a complication.
+<ce> Ваша задача по уничтожению скелетов усложнилась.
 
 QBN:
 Item _reward_ gold range 300 to 500

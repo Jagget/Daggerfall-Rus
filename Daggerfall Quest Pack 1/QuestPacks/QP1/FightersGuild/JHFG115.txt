@@ -1,103 +1,103 @@
 Quest: JHFG115
-DisplayName: Third Wheel
+DisplayName: Пятое колесо
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We've got someone looking for a fighting partner,
-<ce> wanting to go down into some cave, smash up some
-<ce> bandits, and split the loot. Talks about offering
-<ce> some enchanted item for it. Wanna take it up?
+<ce> У нас есть человек, который ищет боевого напарника, хочет
+<ce> спуститься в какую-нибудь пещеру, разбить парочку бандитов
+<ce> и поделить добычу. Говорит, что предлагает за это какой-то
+<ce> зачарованный предмет. Хотите взять заказ?
 
 RefuseQuest:  [1001]
-<ce> Prefer working alone?
+<ce> Предпочитаете работать в одиночку?
 
 AcceptQuest:  [1002]
-<ce> "Well then, I'll introduce you two. Hold on."
+<ce> "Что ж, тогда я вас познакомлю. Подождите".
 <ce>
-<ce> _questgiver_ hollers at the door.
-<ce> Soon your client enters to meet you.
+<ce> _questgiver_ кричит в дверь.
+<ce> Вскоре входит ваш клиент, чтобы познакомиться с вами.
 <ce>
-<ce> "Hello there! %pcn, you say?
-<ce> My name is _friend_.
-<ce> A pleasure. Let us go to ___dung_.
-<ce> I know a band of criminals is taking up refuge
-<ce> there, and we would spend our time well clearing
-<ce> it out. I'll give you this magic _reward_ once
-<ce> we're all finished. Let's be off, then!"
+<ce> "Здравствуйте! %pcn, говорите?
+<ce> Меня зовут _friend_.
+<ce> Очень приятно. Давайте отправимся в ___dung_.
+<ce> Я знаю, что там укрывается банда преступников, и мы
+<ce> с пользой проведем время, очищая его. Я подарю вам
+<ce> этот волшебный _reward_, как только мы все закончим.
+<ce> Тогда вперед!"
 
 QuestFail:  [1003]
-<ce>
+<ce> Задание провалено.
 
 QuestComplete:  [1004]
-<ce> You consider your job done.
+<ce> Вы считаете свою работу выполненной.
 
 Message:  1019
-<ce> _friend_ speaks up.
+<ce> _friend_ говорит:
 <ce>
-<ce> "So my _reward_ for your fighting, right?
-<ce> This place should be lucrative enough
-<ce> to pay for that, I assume. We'll split
-<ce> the items we find on the criminals."
+<ce> "Итак, мой _reward_ за вашу помощь в бою, верно?
+<ce> Полагаю, это место должно быть достаточно
+<ce> прибыльным, чтобы заплатить за это. Мы поделим
+<ce> предметы снятые с тел преступников".
 <ce>
-<ce> The words leave some doubt for %g4 sincerity.
+<ce> Эти слова оставляют некоторые сомнения в %g4 искренности.
 
 Message:  1020
-<ce> "Well, I'm satisfied. I think we both came out
-<ce> much richer than we expected. Take your _reward_.
-<ce> Maybe I'll see you again in ___questgiver_."
+<ce> "Что ж, я доволен. Я думаю, мы оба заработали
+<ce> гораздо больше, чем ожидали. Забирайте _reward_.
+<ce> Может быть, я снова увижу вас в ___questgiver_".
 <ce>
-<ce> _friend_ tosses you the item
-<ce> and disappears from view.
+<ce> _friend_ бросает вам предмет
+<ce> и исчезает из виду.
 
 Message:  1021
-<ce> _friend_ speaks up.
+<ce> _friend_ говорит:
 <ce>
-<ce> "Listen, I know we agreed on this,
-<ce> but you've been taking way too much here!
-<ce> I'm not even sure I can turn a profit today.
-<ce> To me it's fair that we both just walk away
-<ce> with what we have on hand and forget about
-<ce> this whole deal. Thanks for your help."
+<ce> "Послушайте, я знаю, что мы договорились, но вы
+<ce> берете слишком много! Я даже не уверен, что смогу
+<ce> получить прибыль сегодня. По-моему, будет
+<ce> справедливо, если мы оба просто уйдем с тем, что
+<ce> у нас есть на руках, и забудем обо всей этой
+<ce> сделке. Спасибо за помощь".
 <ce>
-<ce> It appears %g1 is about to leave. If you wanted,
-<ce> you could slay %g2 to get %g4 item.
-<ce> Will you let %g2 go free?
+<ce> Похоже, %g1 собирается уходить. Если бы вы
+<ce> захотели, вы могли бы убить %g4, чтобы получить
+<ce> %g4 вещи. Отпустите ли вы %g4 без оплаты?
 
 Message:  1022
-<ce> As %g1 disappears, you know you've at least
-<ce> held on to your honor, to say nothing of the
-<ce> Fighters Guild's reputation. Someone else will
-<ce> have to teach %g2 not to break %g4 word.
+<ce> Когда %g1 исчезает, Вы понимаете, что, по крайней
+<ce> мере, сохранили свою честь, не говоря уже
+<ce> о репутации Гильдии Бойцов. Кому-то другому
+<ce> придется научить %g4 не нарушать свое слово.
 
 Message:  1023
-<ce> "Wait, what?"
+<ce> "Подожди, что?"
 <ce>
-<ce> Your attack comes as a complete surprise.
+<ce> Ваше нападение стало полной неожиданностью.
 
 Message:  1025
-<ce> Hey %pcf, have you seen _friend_?
-<ce> 'Cause %g1 was headed right here after your
-<ce> romp down in ___dung_.
+<ce> Эй, %pcf, вам не встречался _friend_?
+<ce> Потому что %g1 направлялся прямо сюда после
+<ce> того, как вы копошились в ___dung_.
 <ce>
-<ce> Dead? Oh, come on, that's not right.
-<ce> That's not what the guild works for.
-<ce> Listen, do me a favor and keep it a secret.
-<ce> ___questgiver_ needs the Fighters Guild,
-<ce> and if word starts to spread that some
-<ce> moron takes people to their deaths
-<ce> in random caves the %t's gonna
-<ce> run us out of here. Let's pretend
-<ce> this never happened, all right?
+<ce> Мертв? Да ладно, это неправильно. Гильдия
+<ce> работает не для этого. Послушайте, сделайте
+<ce> одолжение и сохраните это в тайне. Гильдия
+<ce> Бойцов нужна в ___questgiver_, и если
+<ce> начнут распространяться слухи о том, что
+<ce> какой-то идиот уводит людей на смерть в
+<ce> случайные пещеры, %t прогонят нас отсюда.
+<ce> Давайте сделаем вид, что этого никогда не
+<ce> было, хорошо?
 
 Message:  1030
 %qdt:
- The Fighters Guild of ___questgiver_
- has signed me on with _friend_,
- another warrior, to fight bandits for
- treasure inside ___dung_.
- I am to be paid an enchanted _reward_
- when we are finished.
+ Гильдия Бойцов ___questgiver_
+ наняла меня и _friend_, еще одного
+ воина, сражаться с бандитами за
+ сокровища внутри ___dung_. Мне
+ заплатят зачарованный _reward_,
+ когда мы закончим.
 
 QBN:
 Item _reward_ magic_item
