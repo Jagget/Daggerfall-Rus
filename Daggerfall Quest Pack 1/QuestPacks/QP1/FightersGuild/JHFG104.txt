@@ -32,7 +32,7 @@ AcceptQuest:  [1002]
 <ce> Вам золото, когда вы закончите.
 
 QuestFail:  [1003]
-<ce> ERROR 1003 JHFG104
+<ce> ОШИБКА 1003 JHFG104
 
 QuestComplete:  [1004]
 <ce> Вы защитили наш дом, %ra,

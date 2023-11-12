@@ -1,90 +1,90 @@
 Quest: JHFG108
-DisplayName: To Save a Vampire
+DisplayName: Спасти вампира
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Got a job here to help keep a vampire alive,
-<ce> err, less dead than could otherwise be.
-<ce> Man, I don't know how to say it. Can you keep
-<ce> a vampire and his enemies apart? And not tell the
-<ce> whole world who it is while you're at it?
+<ce> Мы получили заказ - помочь сохранить жизнь вампиру, э-э,
+<ce> не позволить сделать его еще более мертвым. Блин, даже
+<ce> не знаю, как сказать. Можете ли вы держать вампира и его
+<ce> врагов на расстоянии друг от друга? И не рассказать
+<ce> никому, кто он такой, пока вы этим занимаетесь?
 
 RefuseQuest:  [1001]
-<ce> Okay. Better to not tell you more then.
+<ce> Хорошо. Тогда лучше ничего вам больше не говорить.
 
 AcceptQuest:  [1002]
-<ce> Okay, here's the secret. Vampire's
-<ce> a member of the nobility here in ___pal_.
-<ce> Name's _noble_. Very quiet.
-<ce> Stays in the Palace. Actually not a bad fellow.
-<ce> You might see him in some of the pubs, buying drinks
-<ce> for the folks. Turns out some rascals want to cause some
-<ce> instability, and he's worried for his safety tonight.
-<ce> Says the attack's probably gonna come after midnight.
-<ce> You be there and help him fight off whatever things
-<ce> are gonna come for him, and you'll get a nice reputation
-<ce> as a hero around here, I'm sure of it.
-<ce> Just be ready for anything.
+<ce> Итак, вот в чем секрет. Вампир - представитель знати
+<ce> здесь, в ___pal_. Имя - _noble_.
+<ce> Очень тихий. Живет во дворце. На самом деле неплохой
+<ce> парень. Вы могли бы увидеть его в каком-нибудь пабе,
+<ce> покупающим выпивку для посетителей. Оказывается,
+<ce> какие-то негодяи хотят посеять некоторую
+<ce> нестабильность, и он беспокоится за свою безопасность
+<ce> сегодня вечером. Говорит, что нападение, скорее всего,
+<ce> произойдет после полуночи. Вы будете там и поможете
+<ce> ему справиться с тем, что с ним случится, и вы
+<ce> получите хорошую репутацию героя в округе, я в этом
+<ce> уверен. Просто будьте готовы ко всему.
 
 QuestFail:  [1003]
-<ce> _noble_ has been slain.
+<ce> _noble_ был убит.
 
 QuestComplete:  [1004]
-<ce> _noble_ sighs. Without sweat or heaving breath,
-<ce> it's hard to tell whether the battle truly cost him
-<ce> any effort. Soon he speaks.
+<ce> _noble_ вздыхает. Без пота или затрудненного дыхания
+<ce> трудно сказать, действительно ли битва стоила ему
+<ce> каких-либо усилий. Вскоре он говорит:
 <ce>
-<ce> "You can keep a secret, can't you, good %ra?
-<ce> I'm afraid I don't have much money to pay you with,
-<ce> but in exchange for your discretion, I will make
-<ce> your fame in %crn soar. I believe your reputation
-<ce> among the people will fare far better now."
+<ce> "Вы умеете хранить секреты, не так ли, %ra? Боюсь,
+<ce> у меня не так много денег, чтобы заплатить вам, но
+<ce> в обмен на ваше благоразумие я сделаю так, что ваша
+<ce> слава в %crn взлетит еще выше. Я думаю, что теперь
+<ce> ваша репутация среди народа будет намного лучше".
 <ce>
-<ce> Calling for a servant, he retires to another room.
-<ce> Your reward soon arrives.
+<ce> Позвав слугу, он удаляется в другую комнату.
+<ce> Вскоре приносят вашу награду.
 
 RumorsDuringQuest:  [1005]
-People are getting extorted by some Argonian all across Wayrest. Weird, isn't it?
+Какой-то аргонианин вымогает деньги у людей по всему Вэйресту. Странно, не правда ли?
 
 RumorsPostFailure:  [1006]
-Such a shame, what happened to _noble_.
+Такой позор, что случилось с _noble_.
    <--->
-Not even the Palace in ___pal_ is safe anymore, after what happened to _noble_.
+Даже дворец в ___pal_ больше не в безопасности, после того, что случилось с _noble_.
    <--->
-_noble_ was one of a kind. We'll miss him.
+_noble_ был единственным в своем роде. Нам будет его не хватать.
    <--->
-They say _noble_ was a vampire. Scary thought!
+Говорят, _noble_ был вампиром. Страшная мысль!
 
 RumorsPostSuccess:  [1007]
-I always love hearing about _noble_. Charming fellow.
+Мне всегда нравится слышать о _noble_. Очаровательный парень.
    <--->
-_noble_ is one of a kind.
+_noble_ - единственный в своем роде.
    <--->
-_noble_'s off buying some mead for the townspeople, I hear.
+Я слышал, _noble_ отправился покупать медовуху для горожан.
 
 Message:  1010
-<ce> "Fighters Guild? Good. Glad you're here. I just--"
+<ce> "Гильдия Бойцов? Хорошо. Рад, что вы здесь. Я просто..."
 <ce>
-<ce> _noble_ is cut short by a magical
-<ce> distortion nearby. A portal opens long enough for several
-<ce> beasts to come through, gnashing with hunger.
-<ce> It then closes after exhausting its power.
+<ce> Магическое искажение поблизости прерывает _noble_.
+<ce> Открывается портал, достаточно долгий, чтобы через него
+<ce> могли пройти, скрежеща зубами от голода, несколько
+<ce> зверей. Затем портал закрывается, исчерпав свою силу.
 <ce>
-<ce> "No time! Help me now!"
+<ce> "Нет времени! Помогите мне сейчас же!"
 
 Message:  1012
-<ce> You were to speak to _noble_
-<ce> after midnight to protect him.
+<ce> Вы должны были поговорить с _noble_
+<ce> после полуночи, чтобы защитить его.
 
 Message:  1030
 %qdt:
- The Fighters Guild needs me to
- protect a local noble today, a secretive
- vampire named _noble_,
- in the Palace at ___pal_.
- I should find him inside after midnight
- to see how I can help.
+ Гильдии Бойцов нужно защитить
+ местного аристократа, скрытного
+ вампира по имени _noble_, во
+ дворце в ___pal_. Мне нужно найти
+ его внутри после полуночи, чтобы
+ узнать, чем я могу помочь.
 
 QBN:
 

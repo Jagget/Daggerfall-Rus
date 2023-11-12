@@ -1,60 +1,60 @@
 Quest: JHFG110
-DisplayName: An Animal's Treasure
+DisplayName: Сокровище животного
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Some idiot knight went down into a hole
-<ce> to kill some tigers, and one of them was too tough.
-<ce> Not only did the knight run away like a wimp,
-<ce> but he lost an important personal possession
-<ce> to it, too. He's paying gold if someone can bring
-<ce> it back to me. You in on this one?
+<ce> Какой-то рыцарь-идиот спустился в подземелье,
+<ce> чтобы убить несколько тигров, и один из них
+<ce> оказался слишком сильным. Рыцарь не только
+<ce> сбежал, как последний слабак, но и потерял
+<ce> важную личную вещь. Он платит золотом, если
+<ce> кто-нибудь сможет вернуть эту вещь. Вы в деле?
 
 RefuseQuest:  [1001]
-<ce> Well, tigers can be vicious, I guess.
+<ce> Что ж, я думаю, тигры могут быть свирепыми.
 
 AcceptQuest:  [1002]
-<ce> The place is called ___dung_. I'll mark it on your map.
-<ce> Apparently most of the tigers were wiped out, or so
-<ce> the guy said. I dunno what you're gonna find in there,
-<ce> but your job is to bring back some _trinket_
-<ce> that he accidentally dropped during the scuffle.
-<ce> It might be wrapped in a bag.
-<ce> If you can have it back to me in =timer_ days,
-<ce> he'll have =reward_ gold for you in return.
-<ce> The tiger itself doesn't matter. If it's that tough,
-<ce> I'd rather see it die of old age than claim
-<ce> one of our guild members.
+<ce> Это место называется ___dung_. Я отмечу его на вашей
+<ce> карте. Очевидно, большинство тигров было уничтожено,
+<ce> по крайней мере, так сказал этот парень. Я не знаю,
+<ce> что вы там найдете, но ваша задача - принести
+<ce> _trinket_, что он случайно обронил во время
+<ce> потасовки. Это может лежать в мешке. Если вы сможете
+<ce> вернуть эту вещь за =timer_ дней, то взамен он даст
+<ce> вам =reward_ золотых. Сам тигр не имеет значения.
+<ce> Если он настолько силен, то я скорее предпочту,
+<ce> чтобы он умер от старости, чем забрал одного из
+<ce> членов нашей гильдии.
 
 QuestFail:  [1003]
-<ce> Your time to return the knight's heirloom
-<ce> to __qg_ has passed.
+<ce> Ваше время для возвращения рыцарской реликвии
+<ce> в __qg_ прошло.
 
 QuestComplete:  [1004]
-<ce> I knew you'd do it! I even told that knight
-<ce> to bring me the money ahead of time, that's
-<ce> how sure I was of you. So, your money's here.
-<ce> Enjoy it.
+<ce> Я знал, что вы это сделаете! Я даже сказал этому
+<ce> рыцарю, чтобы он принес мне деньги заранее, вот
+<ce> насколько я был уверен вас. Итак, ваши деньги здесь.
+<ce> Наслаждайтесь.
 
 QuestorPostSuccess:   [1008]
-Fighters will always win against knights, eh %pcf?
+Бойцы всегда будут выигрывать у рыцарей, а %pcf?
 
 Message:  1010
-<ce> This bag is rather conspicuous. You grab and open it,
-<ce> and find the _trinket_ inside. This must belong
-<ce> to the knight.
+<ce> Этот мешок довольно заметен. Вы хватаете
+<ce> и открываете его, и обнаруживаете внутри _trinket_.
+<ce> Это, должно быть, и принадлежит рыцарю.
 
 Message:  1025
 %qdt:
- __qg_ of ___qg_ has sent me to
- a cave called ___dung_ to retrieve an
- heirloom belonging to a knight who
- tried adventuring inside.
- There might be a tiger guarding it, but
- what matters is delivering the
- _trinket_ to _qg_ within =timer_
- days' time. It may be wrapped in a bag.
+ Гильдия Бойцов из ___qg_ послала меня в
+ пещеру под названием ___dung_, достать
+ реликвию, принадлежавшую рыцарю, который
+ пытался забраться туда. Там может быть
+ тигр, охраняющий пещеру, но главное -
+ доставить _trinket_ к _qg_ в течение
+ =timer_ дней. Реликвия может быть
+ завернута в мешок.
 
 QBN:
 
