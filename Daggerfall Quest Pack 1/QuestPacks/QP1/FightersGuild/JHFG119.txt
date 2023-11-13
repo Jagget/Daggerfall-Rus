@@ -1,153 +1,153 @@
 Quest: JHFG119
-DisplayName: Surprise Invasion
+DisplayName: Неожиданное вторжение
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Hey %pcf, glad you're around. Just
-<ce> being straight with ya, but something
-<ce> weird's going on in the city. I dunno
-<ce> what's causing it. We've got a rash
-<ce> of summoned monsters showing up in
-<ce> shops, wreaking havoc. You'll probably
-<ce> hear about it if you stick around for
-<ce> a few minutes. Want to give us a hand
-<ce> going around for a few exterminations?
+<ce> Привет, %pcf, рад, что вы здесь. Хочу быть
+<ce> с тобой откровенным, в городе происходит
+<ce> что-то странное. Я не знаю, в чем причина.
+<ce> У нас в магазинах появилось множество
+<ce> призванных монстров, сеющих хаос. Вы,
+<ce> вероятно, услышите об этом, если
+<ce> задержитесь здесь на несколько минут. Не
+<ce> хотите помочь нам обойти несколько
+<ce> магазинов, чтобы уничтожить монстров?
    <--->
-<ce> %pcf, could you stick around for awhile?
-<ce> ___questgiver_'s not looking all that hot
-<ce> right now. Some problem with randomly appearing
-<ce> monsters has everyone spooked, and it's just a
-<ce> matter of time before we hear another call
-<ce> for help. You wanna play the hero?
+<ce> %pcf, не могли бы вы задержаться здесь ненадолго?
+<ce> ___questgiver_ сейчас выглядит не лучшим образом.
+<ce> Какая-то проблема со случайно появляющимися
+<ce> монстрами всех напугала, и это лишь вопрос
+<ce> времени, когда мы услышим очередной призыв
+<ce> о помощи. Хотите сыграть роль героя?
 
 RefuseQuest:  [1001]
-<ce> Fine then. Go find something else to do.
+<ce> Тогда ладно. Идите и найдите себе другое занятие.
    <--->
-<ce> No big deal. The Fighters Guild has plenty of heroes.
+<ce> Ничего страшного. В Гильдии Бойцов много героев.
 
 AcceptQuest:  [1002]
-<ce> You hear a scream coming from outside.
+<ce> Вы слышите крик, доносящийся снаружи.
 <ce>
-<ce> "It's in _place1_! Someone help!"
+<ce> "Они в _place1_! Кто-нибудь, помогите!"
 <ce>
-<ce> _questgiver_ says, "Well, that's your cue.
-<ce> We'll talk about your reward when they're dead.
-<ce> Just don't let up 'til it's over, all right?
-<ce> There are innocent people in this city that need help."
+<ce> _questgiver_ говорит: "Что ж, ваш выход. Мы поговорим
+<ce> о вашей награде, когда они будут мертвы. Просто не
+<ce> сдавайтесь, пока все не закончится, хорошо? В этом
+<ce> городе есть невинные люди, которым нужна помощь."
    <--->
-<ce> You hear a scream coming from outside.
+<ce> Вы слышите крик, доносящийся снаружи.
 <ce>
-<ce> "A monster's gotten into _place1_!
-<ce> There are innocent people in there! Someone, please help them!"
+<ce> "Монстр проник в _place1_!
+<ce> Там невинные люди! Кто-нибудь, пожалуйста, помогите им!"
 <ce>
-<ce> _questgiver_ says, "Well, get going.
-<ce> I'll gather up some kinda reward when it's over.
-<ce> Don't go dragging your feet, either. People could
-<ce> die if you're too slow."
+<ce> _questgiver_ говорит: "Что ж, приступайте. Я соберу
+<ce> какую-нибудь награду, когда все закончится. И не
+<ce> тяните время. Люди могут погибнуть, если вы будете
+<ce> действовать слишком медленно."
 
 QuestFail:  [1003]
-<ce> The town guard's not going to keep this
-<ce> city safe, and neither will you apparently.
+<ce> Городская стража не собирается обеспечивать безопасность
+<ce> этого города, и вы, по-видимому, тоже.
 
 QuestComplete:  [1004]
-<ce> You have fun, %pcf? What a rush. It's a good
-<ce> thing we've got people like you around here.
-<ce> Hopefully we'll find out who's behind this
-<ce> and put a longsword between his ribs.
-<ce> But that's neither here nor there.
-<ce> Take this, enjoy it. And don't be surprised
-<ce> if the %t finds out about your good deed.
+<ce> Вам весело, %pcf? Что за суета. Хорошо,
+<ce> что у нас здесь есть такие люди, как вы.
+<ce> Надеюсь, мы выясним, кто за этим стоит,
+<ce> и всадим ему длинный меч между ребер.
+<ce> Но не здесь и не сейчас. Возьмите это,
+<ce> наслаждайтесь. И не удивляйтесь, если %t
+<ce> узнают о вашем добром поступке.
    <--->
-<ce> Wowie! You can haul like the best of 'em,
-<ce> huh %pcf? Great job. I'm sure the %t's
-<ce> gonna want to know who kept the city safe
-<ce> today. Sure wasn't the town guard. We sent out
-<ce> some of our other people to fight off imps
-<ce> while you were busy, but they're just gonna
-<ce> get some gold. The real reward's for you.
-<ce> All yours, buddy.
+<ce> Ого! Да вы в одиночку затащили битву сегодня,
+<ce> а %pcf? Отличная работа. Я уверен, что %t захотят
+<ce> узнать, кто сегодня обеспечивал безопасность
+<ce> города. Конечно, это была не городская стража.
+<ce> Пока вы были заняты, мы послали несколько других
+<ce> наших людей отбиваться от бесов, но они просто
+<ce> получат немного золота. Настоящая награда - для
+<ce> вас. Все ваше, дружище.
 
 QuestorPostSuccess:  [1008]
-___questgiver_ owes you big-time, buddy.
+___questgiver_ в большом долгу перед вами, приятель.
 
 QuestorPostFailure:  [1009]
-Thankfully other people kept the city safe in your absence.
+К счастью, в ваше отсутствие город охраняли другие люди.
 
 Message:  1020
-<ce> A cry comes from outside.
+<ce> Снаружи доносится крик.
 <ce>
-<ce> "It's in _place2_! Run!"
+<ce> "Они в _place2_! Бегите!"
    <--->
-<ce> A cry comes from outside.
+<ce> Снаружи доносится крик.
 <ce>
-<ce> "A monster's in _place2_!
-<ce> Somebody come quick!"
+<ce> "Монстр в _place2_!
+<ce> Кто-нибудь, быстрее!"
 
 Message:  1021
-<ce> You hear a cry outside.
+<ce> Слышен крик снаружи.
 <ce>
-<ce> "Something's in _place3_!
-<ce> Help! Anyone!"
+<ce> "Что-то в _place3_!
+<ce> Помогите! Кто-нибудь!"
    <--->
-<ce> You hear a cry outside.
+<ce> Вы слышите крик снаружи.
 <ce>
-<ce> "Kill it! It's in _place3_!
-<ce> Anyone, help!"
+<ce> "Убейте его! Оно в _place3_!
+<ce> Кто-нибудь, помогите!"
 
 Message:  1022
-<ce> You hear someone shout in distress.
+<ce> Вы слышите, как кто-то кричит в отчаянии.
 <ce>
-<ce> "A monster's in _place4_!
-<ce> Someone kill it!"
+<ce> "В _place4_ завелся монстр!
+<ce> Кто-нибудь, убейте его!"
    <--->
-<ce> You hear someone shout in distress.
+<ce> Вы слышите, как кто-то кричит в отчаянии.
 <ce>
-<ce> "It's horrible! It's in _place4_!
-<ce> Call for the mages!"
+<ce> "Это ужасно! Оно в _place4_!
+<ce> Зовите магов!"
 
 Message:  1023
-<ce> You hear a wail of despair.
+<ce> Слышен вопль отчаяния.
 <ce>
-<ce> "Get it out! Kill it! It's
-<ce> in _place5_!"
+<ce> "Уберите это! Убейте это! Оно
+<ce> в _place5_!"
    <--->
-<ce> You hear a wail of despair.
+<ce> Вы слышите вопль отчаяния.
 <ce>
-<ce> "It's in _place5_!
-<ce> Someone, anyone, help!"
+<ce> "Это в _place5_!
+<ce> Кто-нибудь, кто угодно, помогите!"
 
 Message:  1024
-<ce> The city has fallen silent.
+<ce> В городе воцарилась тишина.
 
 Message:  1030
 %qdt:
- The Fighters Guild in
- ___questgiver_ needs me to
- dispatch monsters that are
- appearing in buildings throughout
- the city. I have to hurry.
- The first is _place1_.
+ Гильдия Бойцов
+ в ___questgiver_ просит
+ разогнать монстров, которые
+ появляются в зданиях по всему
+ городу. Мне нужно поторопиться.
+ Первое из них - _place1_.
 
 Message:  1031
 %qdt:
- I need to hurry to _place2_.
+ Мне нужно поспешить в _place2_.
 
 Message:  1032
 %qdt:
- A monster is in _place3_.
+ Монстр находится в _place3_.
 
 Message:  1033
 %qdt:
- An enemy is in _place4_.
+ Враг находится в _place4_.
 
 Message:  1034
 %qdt:
- I heard a cry to help _place5_.
+ Помощь требуется в _place5_.
 
 Message:  1035
 %qdt:
- Everything has gone quiet.
+ Все стихло.
 
 QBN:
 Item _reward_ magic_item

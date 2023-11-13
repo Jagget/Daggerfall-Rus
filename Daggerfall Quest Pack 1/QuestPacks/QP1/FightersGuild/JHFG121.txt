@@ -1,140 +1,140 @@
 Quest: JHFG121
-DisplayName: Debt Beyond Measure
+DisplayName: Непомерный долг
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Someone here in ___qgiver_'s gotten into so
-<ce> much debt that running away's the only option.
-<ce> Apparently there are headhunters on the way,
-<ce> so this might get ugly. Wanna keep this one safe?
+<ce> Кое-кто здесь, в ___qgiver_, влез в такие долги,
+<ce> что сбежать - единственный выход. Очевидно, на подходе
+<ce> охотники за головами, так что это дело может обернуться
+<ce> неприятностями. Хочешь поохранять заказчика?
 
 RefuseQuest:  [1001]
-<ce> On second thought, I don't blame you.
+<ce> Если подумать, я вас не виню.
    <--->
-<ce> You know, that's probably a pretty smart decision.
+<ce> Знаете, это, наверное, очень разумное решение.
 
 AcceptQuest:  [1002]
-<ce> You're gonna find _friend_ over
-<ce> in _res_ here in town. You'll
-<ce> be taking %g2 to %g4 house in another town
-<ce> first to pick up %g4 things, and then lead %g2
-<ce> to a hideout, wherever that's gonna be. From
-<ce> there you'll get paid and you're home free.
-<ce> So head on over there and see how it'll work.
+<ce> Заказчик - _friend_. Вы найдете %g4 в _res_
+<ce> в этом городе. Сначала вы отвезете %g4 в %g4
+<ce> дом в другом городе, чтобы забрать вещи,
+<ce> а затем - в убежище, где бы оно ни
+<ce> находилось. Там вам заплатят, и вы будете
+<ce> свободны. Так что отправляйтесь туда и
+<ce> проследите, чтобы все сработало должным образом.
 
 QuestFail:  [1003]
-<ce> "Well, you know, we've taken quite awhile and not
-<ce> gotten to where I needed to be. I think it's fair
-<ce> to call it off here, wouldn't you say? Good day."
+<ce> "Ну, знаете, мы потратили довольно много времени и не добрались
+<ce> до того места, где мне нужно было быть. Я думаю, будет справедливо
+<ce> отменить этот заказ прямо сейчас, не так ли? Добрый день."
 <ce>
-<ce> A momentary distraction is enough to let
-<ce> _friend_ escape. You lose track of %g2.
+<ce> Вы на мгновение отвлеклись и _friend_ сбежал.
+<ce> Вы теряете %g4 след.
 
 QuestComplete:  [1004]
-<ce> You decide against revenge and leave %g2 to %g4
-<ce> ill-gotten peace. Your hands will not have
-<ce> %g4 blood on them.
+<ce> Вы отказываетесь от мести
+<ce> и отпускаете %g4 с миром.
+<ce> На ваших руках не будет %g4 крови.
 
 QuestorPostFailure:  [1009]
-I can't really trust you to keep debtors safe, can I?
+Я же не могу доверить вам безопасность должников, не так ли?
 
 Message:  1010
-<ce> Hi there! You're from the Fighters Guild, then?
-<ce> Oh good. _qgiver_ promised me he'd
-<ce> send someone capable. I guess that's a compliment, huh
-<ce> friend? Ha ha ha! Well, um, I've just been hiding out
-<ce> here for awhile. I need to get back to ___farhome_
-<ce> and pick up my clothes and what little goods I have.
-<ce> The banks have carted off most of my things, but
-<ce> they haven't gotten to this last house, I think.
-<ce> It's called _farhome_. From there I'll
-<ce> tell you where you'll take me. So then, lead the
-<ce> way, champion! My life is in your hands!
+<ce> Привет! Вы, значит, из Гильдии Бойцов? Хорошо.
+<ce> _qgiver_ обещал мне прислать кого-нибудь
+<ce> способного. Думаю, это комплимент, а, друг?
+<ce> Ха-ха-ха! Ну, эм, мне пришлось прятаться здесь
+<ce> некоторое время. Мне нужно вернуться в ___farhome_
+<ce> и забрать свою одежду и то немногое, что у меня
+<ce> есть. Банки вывезли большую часть моих вещей,
+<ce> но до этого последнего дома они, кажется, еще
+<ce> не добрались. Он называется _farhome_. Там я скажу
+<ce> тебе, куда ты меня поведешь дальше. Тогда веди,
+<ce> чемпион! Моя жизнь в ваших руках!
 
 Message:  1011
-<ce> Ah, good, my things are here. Let me see.
+<ce> А, хорошо, мои вещи здесь. Дайте-ка взглянуть.
 <ce>
-<ce> Well, some of it, at least. My business partners
-<ce> have apparently raided the house at least once.
-<ce> Poor sports, or losers, I should say. I'm forced
-<ce> to work with such scoundrels. Not like you,
-<ce> eh good buddy? Ha ha ha! Now, let's head on
-<ce> to ___farmhome_. I've worked
-<ce> out a new identity for myself there, and I'll
-<ce> be quite content to get a fresh start.
-<ce> Whenever you're ready, %pcf.
+<ce> Ну, по крайней мере, некоторые из них. Мои деловые
+<ce> партнеры, видимо, уже не раз совершали набеги на
+<ce> дом. Вредные ребята, или, лучше сказать,
+<ce> неудачники. Я вынужден работать с такими
+<ce> негодяями. Не то что вы, а, дружище? Ха-ха-ха!
+<ce> А теперь давайте отправимся в ___farmhome_.
+<ce> Там я выработал для себя новую личность
+<ce> и буду вполне доволен, если начну все с чистого листа.
+<ce> Отправляемся, как только будете готовы, %pcf.
 
 Message:  1012
-<ce> "Ah, ___farmhome_! What a blissful sight!
-<ce> I can't wait to start to develop it. The other
-<ce> co-owners have had some objections, but they
-<ce> know I'm good for it. I explain that little bit
-<ce> to you, my dear friend, in the hopes that you'll
-<ce> understand why I can't pay you for this little
-<ce> trip. All my assets are in illiquid commodities,
-<ce> and I can't pull out a simple sum of money to pay
-<ce> you, at least not for a few years. But I thank
-<ce> you for your good work. The practice you got on
-<ce> the way was worth your time, wasn't it? Let's
-<ce> leave it at that."
+<ce> "Ах, ___farmhome_! Какое блаженство! Не могу
+<ce> дождаться, когда начну его развивать. У других
+<ce> совладельцев были некоторые возражения, но они знают,
+<ce> что я подхожу для этого. Я объясняю вам, мой дорогой
+<ce> друг, эту маленькую деталь в надежде, что вы поймете,
+<ce> почему я не могу заплатить вам за это маленькое
+<ce> путешествие. Все мои активы находятся в неликвидных
+<ce> товарах, и я не могу достать наличную сумму денег,
+<ce> чтобы заплатить вам, по крайней мере, в течение
+<ce> нескольких лет. Но я благодарю вас за хорошую работу.
+<ce> Практика, которую вы получили по дороге, стоила вашего
+<ce> времени, не так ли? Давайте оставим все как есть".
 <ce>
-<ce> Do you let _friend_ get away
-<ce> with this obvious deception?
+<ce> Позволите ли вы
+<ce> так явно обмануть себя?
 
 Message:  1013
-<ce> Your insistence that %g1 stop avails you
-<ce> nothing. You decide there is just one
-<ce> way to get what you've earned.
+<ce> Ваше настойчивое требование остановиться
+<ce> ничего не дает. Вы решаете, что есть только
+<ce> один способ получить то, что вы заслужили.
 <ce>
-<ce> "Friend? What are you doing?"
+<ce> "Друг? Что вы делаете?"
 
 Message:  1014
-<ce> You have slain _friend_.
+<ce> Вы убили _friend_.
 
 Message:  1020
-<ce> A group of armed enforcers approaches.
+<ce> Приближается группа вооруженных стражников.
 <ce>
-<ce> "Excuse me %ra, but you seem to be traveling with
-<ce> some pond scum named _friend_. You'll
-<ce> want to step aside. We have a warrant for %g4
-<ce> capture on behalf of _bank_.
-<ce> We are authorized to give you =reward_ gold pieces
-<ce> for your cooperation. Please stand down."
+<ce> "Извините, %ra, но вы, кажется, путешествуете
+<ce> с одним подонком по имени _friend_. Вам лучше
+<ce> отойти в сторону. У нас есть ордер на %g4
+<ce> арест от имени _bank_. Мы уполномочены выдать
+<ce> вам =reward_ золотых за ваше сотрудничество.
+<ce> Пожалуйста, отойдите."
 <ce>
-<ce> Do you surrender _friend_ to the authorities?
+<ce> Сдаете ли вы _friend_ властям?
 
 Message:  1021
-<ce> "Good choice. Go."
+<ce> "Хороший выбор. Вперед".
 <ce>
-<ce> Against _friend_'s bewildered protests,
-<ce> you deliver %g2 into the hands of %g4 enemies.
-<ce> One of the mercenaries hands you a pouch
-<ce> full of money, and the band departs.
+<ce> Несмотря на недоуменные протесты, вы
+<ce> передаете _friend_ в руки правосудия.
+<ce> Один из наемников вручает вам кошель,
+<ce> набитый деньгами, и группа уходит.
 
 Message:  1022
-<ce> The mercenaries nod at one another
-<ce> and begin their assault.
+<ce> Наемники кивают друг другу
+<ce> и начинают атаку.
 
 Message:  1030
 %qdt:
- The Fighters Guild in ___qgiver_
- have assigned me to guard some
- delinquent debtor named _friend_
- from mercenaries who hunt %g2.
- I can find %g2 in _res_
- of ___res_.
+ Гильдия Бойцов в ___qgiver_
+ поручила мне охранять некоего
+ должника по имени _friend_
+ от наемников, которые охотятся на н%g4.
+ Я могу найти %g4 в _res_.
+ в ___res_.
 
 Message:  1031
 %qdt:
- _friend_ wants to go first
- to ___farhome_, to pick up
- %g4 belongings in _farhome_.
+ _friend_ хочет сначала заехать
+ в ___farhome_, чтобы забрать свои
+ вещи в _farhome_.
 
 Message:  1032
 %qdt:
- _friend_ will hide away
- in ___farmhome_ from %g4 creditors.
+ _friend_ спрячется
+ в ___farmhome_ от своих кредиторов.
 
 QBN:
 

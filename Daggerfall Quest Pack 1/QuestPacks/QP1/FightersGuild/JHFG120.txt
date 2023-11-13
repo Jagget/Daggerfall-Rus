@@ -1,119 +1,119 @@
 Quest: JHFG120
-DisplayName: Cast Down, but Not Destroyed
+DisplayName: Низвергнут, но не уничтожен
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Got a guild member who's feeling really
-<ce> depressed. The fellow's here in town, just
-<ce> sort of moping around, unable to get back
-<ce> in the groove. I bet you'd be pretty good
-<ce> at changing that, right %pcf?
+<ce> Один член гильдии чувствует себя по-настоящему
+<ce> подавленным. Этот парень здесь, в городе. Он
+<ce> просто немного хандрит, не в силах вернуться
+<ce> в привычное русло. Держу пари, у вас бы
+<ce> неплохо получилось это изменить, верно, %pcf?
 
 RefuseQuest:  [1001]
-<ce> I still say so, even if you don't.
+<ce> Я по-прежнему так считаю, даже если вы так не считаете.
 
 AcceptQuest:  [1002]
-<ce> All right then, go on and find him over
-<ce> in _res_. Poor guy's really
-<ce> shaken up, but I don't know what about.
-<ce> Name's _guy_. See if you can
-<ce> get his head back in a right place.
-<ce> I'll have =reward_ gold for you when
-<ce> you're done. Don't take longer than =timer_ days.
+<ce> Хорошо, тогда идите и найдите его
+<ce> в _res_. Бедняга очень потрясен, но
+<ce> я не знаю, чем. Его зовут _guy_.
+<ce> Посмотрим, сможете ли вы вправить ему
+<ce> мозги. Вы получите =reward_ золотых,
+<ce> когда закончите. Не затягивай дольше,
+<ce> чем на =timer_ дней.
 
 QuestFail:  [1003]
-<ce> _guy_ feeling any better?
-<ce> No? I'll be waiting here.
+<ce> _guy_ чувствует себя лучше?
+<ce> Нет? Я буду ждать здесь.
 
 QuestComplete:  [1004]
-<ce> Haa, I knew you could do it!
-<ce> This is definitely worth the gold.
-<ce> I need someone like him to kill
-<ce> rats and tigers while you're
-<ce> frying the big fish.
+<ce> Хаа, я знал, что вы сможете это
+<ce> сделать! Это определенно стоит
+<ce> золота. Мне нужен кто-то вроде него,
+<ce> чтобы убивать крыс и тигров, пока вы
+<ce> заняты на крупных контрактах.
 
 Message:  1010
-<ce> "Oh what? What're you here for?
-<ce> _qgiver_... Oh, %g2.
-<ce> No, no, I'm not interested. I'm done
-<ce> with the guild. It's not the life for me."
+<ce> "А, что? Зачем вы здесь?
+<ce> _qgiver_... А, %g1. Нет, нет,
+<ce> мне это не интересно. Я завязал
+<ce> с гильдией. Такая жизнь не для меня."
 <ce>
-<ce> You spend some time trying to force the
-<ce> reason out of him and are met with
-<ce> blunt resistance. Finally, with some
-<ce> exasperation he blurts out the truth.
+<ce> Вы тратите некоторое время, пытаясь выдавить
+<ce> из него причину, и наталкиваетесь на глухое
+<ce> сопротивление. Наконец, с некоторым
+<ce> раздражением он выпаливает правду.
 <ce>
-<ce> "It's because of ___dung_, okay?!
-<ce> Filthy den of vipers nearly killed me!
-<ce> I hadn't spent more than an hour in
-<ce> there before I was nearly dead!
-<ce> Unless you're going to take me there and
-<ce> show me how a real fighter acts, I don't
-<ce> want to hear about it!"
+<ce> "Это из-за подзмемелья ___dung_,
+<ce> ясно?! Грязное логово гадюк чуть
+<ce> не убило меня! Я провел там не больше
+<ce> часа, а уже был почти мертв! Если вы
+<ce> не собираетесь отвести меня туда
+<ce> и показать, как ведут себя настоящие
+<ce> бойцы, я не хочу об этом слышать!"
 <ce>
-<ce> It looks like there's only one thing
-<ce> that will convince him. A little begrudgingly,
-<ce> he agrees to follow you to ___dung_.
-<ce> If anything can help him overcome his
-<ce> trauma, it'll be this.
+<ce> Похоже, что убедить его можно только
+<ce> одним способом. Немного неохотно он
+<ce> соглашается последовать за вами
+<ce> в ___dung_. Если что-то и может
+<ce> помочь ему преодолеть травму, то только это.
 
 Message:  1011
-<ce> _guy_ starts shaking
-<ce> involuntarily once you enter.
+<ce> _guy_ начинает непроизвольно
+<ce> дрожать, как только вы входите.
 <ce>
-<ce> "You know what? Fighting's all yours.
-<ce> I'm not doing a thing 'til I see you survive."
+<ce> "Знаете что? Бейтесь сколько хотите.
+<ce> Я ничего не буду делать, пока не увижу, что вы выжили".
 
 Message:  1012
-<ce> Your confidence begins to rub off on
-<ce> _guy_. Getting a feel for
-<ce> adventure, he smiles, perhaps for the
-<ce> first time in weeks.
+<ce> _guy_ начинает заражаться
+<ce> вашей уверенностью. Почувствовав тягу
+<ce> к приключениям, он улыбается, возможно,
+<ce> впервые за несколько недель.
 <ce>
-<ce> "You know what? I'm better than this.
-<ce> %oth, why am I even talking?
-<ce> I can do this. I can!"
+<ce> "Знаете что? Я лучше этого. %oth,
+<ce> зачем я вообще это говорю?
+<ce> Я сделаю это! Я могу!"
 <ce>
-<ce> He then leaves you to begin adventuring
-<ce> anew. _qgiver_ will be happy
-<ce> to hear about this.
+<ce> Затем он покидает вас, чтобы снова начать
+<ce> поиски приключений. _qgiver_
+<ce> будет рад услышать об этом.
 
 Message:  1013
-<ce> "We've taken far too long for this, and
-<ce> I have better things to do."
+<ce> "Мы слишком долго занимались этим,
+<ce> и у меня есть дела поважнее".
 <ce>
-<ce> _guy_ marches off somewhere else.
+<ce> _guy_ уходит куда-то еще.
 
 Message:  1014
-<ce> (ETIQUETTE/STREETWISE/PERSONALITY CHECK PASSED)
+<ce> (ПРОВЕРКА ПРОЙДЕНА: Этикет/Жаргон/Привлекательность)
 <ce>
-<ce> _guy_ clearly doesn't want to
-<ce> speak to you or anyone from the Fighters Guild.
-<ce> Then again, someone with your speaking ability
-<ce> has breached far greater barriers.
-<ce> You discuss his difficulties on a recent guild
-<ce> job and talk through what to do next time
-<ce> it happens.
+<ce> _guy_ явно не хочет разговаривать ни с
+<ce> вами, ни с кем-либо еще из Гильдии Бойцов.
+<ce> Но вы с вашими ораторскими способностями
+<ce> преодолевали гораздо большие барьеры. Вы
+<ce> обсуждаете его трудности на недавнем
+<ce> задании гильдии и говорите о том, что
+<ce> делать в следующий раз, когда это случится.
 
 Message:  1030
 %qdt:
- _qgiver_ of __qgiver_,
- ___qgiver_ has asked
- me to help another guild member
- named _guy_ get over
- some kind of depression. I can find
- him in _res_.
- I need to have it done and return
- in =timer_ days.
+ _qgiver_ из __qgiver_,
+ ___qgiver_ попросил меня
+ помочь другому члену гильдии
+ по имени _guy_ преодолеть
+ своего рода депрессию. Я могу найти
+ его в _res_.
+ Мне нужно это сделать и вернуться
+ через =timer_ дней.
 
 Message:  1031
 %qdt:
- I've agreed to take _guy_
- with me to ___dung_, where
- his problems began. He wants
- to watch me fight some of the enemies
- and see that it's possible.
+ Я и _guy_  договорились вместе
+ спуститься в ___dung_, где начались
+ его проблемы. Он хочет посмотреть,
+ как я сражаюсь там с врагами,
+ и убедиться, что это возможно.
 
 QBN:
 
