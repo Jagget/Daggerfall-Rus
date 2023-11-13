@@ -4,11 +4,11 @@ DisplayName: Гильдия Бойцов. Последствия. Квест 6
 QRC:
 
 Message:  1010
-<ce> All of a sudden, flaming letters appear in the ground in front of you.
+<ce> Внезапно на земле перед вами появляются пылающие буквы.
 <ce>
-<ce> "THE DARK BROTHERHOOD IS NOT AMUSED, FIGHTERS CHILD"
+<ce> "ТЕМНОМУ БРАТСТВУ НЕ ДО СМЕХА, ДИТЯ БОЙЦОВ"
 <ce>
-<ce> The letters soon fade out, though you realize you're not alone.
+<ce> Буквы вскоре исчезают, и вы понимаете, что вы не одни.
 
 QBN:
 

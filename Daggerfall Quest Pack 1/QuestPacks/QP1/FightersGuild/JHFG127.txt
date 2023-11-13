@@ -1,28 +1,28 @@
 Quest: JHFG127
-DisplayName: Dark Sayings
+DisplayName: Темные сказания
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Hey, this is kind of weird to say, but I've
-<ce> got a letter here with the Dark Brotherhood's seal
-<ce> on it, and your name too. Is this something
-<ce> that could actually be meant for you?
+<ce> Эй, немного странно это говорить, но у меня
+<ce> тут письмо с печатью Темного Братства и вашим
+<ce> именем. Это что-то такое, что действительно
+<ce> могло бы быть предназначено для вас?
 
 RefuseQuest:  [1001]
-<ce> And I'm already tearing it up. Don't
-<ce> want that around here, no sirree.
+<ce> И я уже разрываю его. Не хочу,
+<ce> чтобы это было здесь, нет, ссээррр.
 
 AcceptQuest:  [1002]
-<ce> All right, but just a favor I'm gonna ask,
-<ce> try to keep that stuff out of here, all right?
-<ce> A lot of our people are decent folk.
-<ce> I mean, I trust you for your work, but
-<ce> we've got a reputation to maintain here.
+<ce> Хорошо, но я хочу попросить вас об одном одолжении:
+<ce> постарайтесь держать эту дрянь подальше отсюда,
+<ce> хорошо? Многие из наших людей - очень порядочные.
+<ce> Я имею в виду, что доверяю вам в вашей работе, но
+<ce> у нас есть репутация, которую нужно поддерживать.
 
 QuestFail:  [1003]
-<ce> You discard the Dark Brotherhood letter,
-<ce> having never read its contents.
+<ce> Вы выбрасываете письмо Темного Братства,
+<ce> так и не прочитав его содержание.
 
 QBN:
 Item _letter_ letter
@@ -44,4 +44,4 @@ _advance_ task:
 _timer_ task:
     say 1003
 	change repute with _fg_ by +2
-	end quest 
+	end quest

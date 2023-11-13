@@ -1,69 +1,69 @@
 Quest: JHFG126
-DisplayName: Hide and Go Seek
+DisplayName: Прятки
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> There's a group of criminals in town who've
-<ce> absconded with some pretty important
-<ce> evidence. Someone needs to go in quick and
-<ce> wipe 'em out before they do some irreversible
-<ce> damage. Feeling like moving fast today?
+<ce> В одном городе есть группа преступников,
+<ce> скрывшаяся с некоторыми довольно важными
+<ce> уликами. Нужно быстро найти и уничтожить
+<ce> их, пока они не нанесли непоправимый ущерб.
+<ce> Не хотите сегодня побегать?
 
 RefuseQuest:  [1001]
-<ce> Need to relax instead?
-<ce> They'll figure something out.
+<ce> Хотите, наоборот, отдохнуть?
+<ce> Мы что-нибудь придумаем без вас.
 
 AcceptQuest:  [1002]
-<ce> These thugs're trapped in a building in
-<ce> town, trying to barter their freedom with
-<ce> this little piece of paper they've stolen.
-<ce> They said they'll burn it if someone tries
-<ce> to get in. I don't think they'll do anything
-<ce> risky if they just see someone, but once you
-<ce> start the fight, you better finish it fast.
-<ce> One of 'em has to have it. Bring the paper
-<ce> back here and I'll have a reward for you.
+<ce> Эти бандиты окружены в одном из зданий города
+<ce> и пытаются выторговать себе свободу за тот маленький
+<ce> клочок бумаги, который они украли. Они сказали, что
+<ce> сожгут его, если кто-нибудь попытается проникнуть
+<ce> внутрь. Я не думаю, что они предпримут что-то
+<ce> рискованное, если просто увидят переговорщика,
+<ce> но если уж вы начали драку, то лучше закончить ее
+<ce> быстро. Бумага должна быть у одного из них.
+<ce> Принесите ее сюда, и я назначу вам награду.
 <ce>
-<ce> Oh, almost forgot. _random_.
+<ce> О, чуть не забыл. _random_.
 
 QuestComplete:  [1004]
-<ce> Good enough. Trust me, if they sent in
-<ce> the guards to do this, all they'd find
-<ce> is a bunch of warm ashes. The %t is
-<ce> right to ask us this, even if I dislike
-<ce> saying it.
+<ce> Приемлемо. Поверьте мне, если бы они
+<ce> послали для этого стражников, то нашли
+<ce> бы только кучку теплого пепла. %t были
+<ce> правы, запрашивая нашу помощь, даже
+<ce> если мне неприятно это говорить.
 
 Message:  1010
-<ce> This thug yells some code words, and
-<ce> others come out of hiding. You
-<ce> smell something burning but don't
-<ce> know where it's coming from.
+<ce> Этот бандит выкрикивает какие-то
+<ce> кодовые слова, и другие выходят
+<ce> из укрытия. Вы чувствуете запах гари,
+<ce> но не знаете, откуда он исходит.
 
 Message:  1011
-<ce> You quickly rummage through your foes'
-<ce> items and find the burning parchment.
-<ce> Slapping the fire out, you store it
-<ce> as safely as you can.
+<ce> Быстро осмотрев вещи, вы видите
+<ce> горящий пергамент. Потушив огонь,
+<ce> вы убираете пергамент в
+<ce> безопасное место.
 
 Message:  1012
-<ce> The burning has ceased. One of the
-<ce> thieves smirks triumphantly.
-<ce> You have failed to stop them.
+<ce> Горение прекратилось. Один из
+<ce> воров торжествующе ухмыляется.
+<ce> Вам не удалось остановить их.
 
 Message:  1013
-<ce> Though burnt, this parchment describes
-<ce> a series of past and future crimes
-<ce> across %crn. It's still legible.
+<ce> Этот пергамент, хотя и обгоревший, описывает серию
+<ce> прошлых и будущих преступлений по всей территории
+<ce> %crn. Его все еще можно прочитать.
 
 Message:  1030
 %qdt:
- __qgiver_ assigned me
- to put down some criminals hiding
- in _random_ in ___random_.
- They need to be slain quickly before they
- can destroy some evidence. I should get there
- today before they escape from the building.
+ __qgiver_ поручил мне
+ уничтожить несколько преступников, скрывающихся
+ в _random_, ___random_.
+ Их нужно убить быстро, пока они не успели
+ уничтожить улики. Мне необходимо добраться
+ туда сегодня, пока они не сбежали из здания.
 
 QBN:
 Item _reward_ gold
