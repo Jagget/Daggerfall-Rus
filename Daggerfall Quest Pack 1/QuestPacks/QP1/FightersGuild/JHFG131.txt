@@ -1,147 +1,147 @@
 Quest: JHFG131
-DisplayName: The Young Dungeoneer
+DisplayName: Молодой обитатель подземелий
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Some band of rabblerousers stole a kid and are
-<ce> expecting a ransom from the family.
-<ce> The town guard or some knight usually intervenes
-<ce> in these cases, but the kid's parents can't wait
-<ce> around for some charity case to help out.
-<ce> They're paying money to have their child
-<ce> returned to them. You in on this, %pcf?
+<ce> Одна банда разбойников украла ребенка и ждет
+<ce> от семьи выкупа. Обычно в таких случаях
+<ce> в дело вмешивается городская стража или рыцарь,
+<ce> но родители ребенка не могут ждать, пока
+<ce> их выручит какая-нибудь благотворительная
+<ce> организация. Они платят деньги за то, чтобы
+<ce> им вернули их ребенка. Вы участвуете, %pcf?
 
 RefuseQuest:  [1001]
-<ce> %oth. I hope someone gets this fast.
-<ce> The guild needs a reputation.
+<ce> %oth. Надеюсь, кто-нибудь
+<ce> вскоре возьмет этот заказ. Гильдии нужна репутация.
 
 AcceptQuest:  [1002]
-<ce> Let me show you ___dung_ on your map.
-<ce> Head there, find the kid, get out.
-<ce> Name is _kid_. You can bring %g2 back
-<ce> here and we'll take care of the rest.
-<ce> Make sure you're here in =timer_ days.
-<ce> They have good money on us not taking forever.
+<ce> Позвольте мне показать вам ___dung_ на вашей карте.
+<ce> Отправляйтесь туда, найдите ребенка и уходите. Его
+<ce> зовут _kid_. Вы можете вернуть %g4 сюда, а мы
+<ce> позаботимся об остальном. Убедитесь, что вы будете
+<ce> здесь через =timer_ дней. Они поставили хорошие деньги
+<ce> на то, что нам не понадобится вечность.
 
 QuestFail:  [1003]
-<ce> The family expected you to deliver _kid_
-<ce> to the Fighters Guild by now.
-<ce> Your reward is forfeit.
+<ce> Семья ожидала, что вы уже доставите
+<ce> _kid_ в Гильдию Бойцов.
+<ce> Ваше вознаграждение теряет силу.
 
 QuestComplete:  [1004]
-<ce> You take the gold they offer you.
+<ce> Вы берете золото, которое они вам предлагают.
 
 RumorsDuringQuest:  [1005]
-I have it on really good authority that the %t is a vampire.
+У меня есть сведения из действительно надежного источника, что %t - вампир.
 
 Message:  1010
-<ce> "Hi! You look different from the bad people who
-<ce> brought me here. Where are we going?"
+<ce> "Привет! Ты выглядишь не так, как те плохие люди,
+<ce> которые привезли меня сюда. Куда мы идем?"
 <ce>
-<ce> You answer to ____questgiver_, and _kid_ nods.
-<ce> "Yep, that's home! Let's go, I'm ready!"
+<ce> Вы отвечаете "____questgiver_", и _kid_ кивает.
+<ce> "Ага, домой! Пошли, я готов!"
 
 Message:  1011
-<ce> "By the way, I found this wicked-looking sword
-<ce> down here! It's got ridges in the blade and everything!
-<ce> Do you know anything about swords? Could you teach me
-<ce> how to swing it?"
+<ce> "Кстати, я тут нашел такой меч! У него
+<ce> есть выступы на лезвии и все такое!
+<ce> Ты знаешь что-нибудь о мечах? Можно,
+<ce> ты научишь меня, как им махать?"
 <ce>
-<ce> Do you try to teach _kid_ about using a sword?
+<ce> Пытаетесь ли вы научить _kid_ пользоваться мечом?
 <ce>
 <ce> (ПРОВЕРКА НАВЫКА: ДА: Длинные клинки, средняя сложность)
 
 Message:  1012
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> You carefully show %g2 how to properly hold the pommel,
-<ce> swing the sword, and deliver a full cut.
-<ce> You hope %g4 parents won't criticize the guild
-<ce> for this, but it's a dangerous world out there.
-<ce> Perhaps if _kid_ knew this already,
-<ce> you wouldn't be down here.
+<ce> Вы старательно показываете %g2, как правильно
+<ce> держать эфес, размахивать мечом и наносить полный
+<ce> удар. Вы надеетесь, что %g4 родители не будут
+<ce> критиковать гильдию за это, ведь мир снаружи
+<ce> опасен. Возможно, если бы _kid_ уже знал это, вы
+<ce> бы не оказались здесь.
 
 Message:  1013
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> With your encouragement, _kid_ starts swinging
-<ce> the blade around wildly. Once %g1 loses a proper
-<ce> posture, %g1 ends up falling onto the blade, slicing
-<ce> %g4 shoulder. You wince and help %g2 up.
+<ce> Подбадриваемый вами, _kid_ начинает дико
+<ce> размахивать клинком. Потеряв правильную позу,
+<ce> %g1 падает на клинок, рассекая себе плечо.
+<ce> Вы морщитесь и помогаете %g2 подняться.
 <ce>
-<ce> "I guess I'll have to wait 'til I'm older," %g1 says
-<ce> as you apply a makeshift bandage. Then %g1
-<ce> drops the sword and follows you.
+<ce> "Наверное, придется подождать, пока я не подрасту", -
+<ce> говорит %g1, когда вы накладываете импровизированную
+<ce> повязку. Затем %g1 бросает меч и идет за вами.
 
 Message:  1014
-<ce> "I guess I'll have to wait 'til I'm older," %g1 says,
-<ce> disappointed. You convince %g2 to drop the sword
-<ce> and come after you.
+<ce> "Наверное, придется подождать, пока я подрасту",
+<ce> разочарованно говорит %g1. Вы убеждаете
+<ce> %g4 бросить меч и пойти за вами.
 
 Message:  1015
-<ce> As you breathe in fresh air,
-<ce> you become aware of two figures nearby.
+<ce> Выйдя на свежий воздух,
+<ce> вы замечаете рядом две фигуры.
 <ce>
-<ce> "Show's over, %ra. Let the kid go or you're dead."
+<ce> "Шоу окончено, %ra. Отпусти ребенка или ты труп".
 <ce>
-<ce> You brace for combat.
+<ce> Вы готовитесь к бою.
 
 Message:  1016
-<ce> While their eyes are on you, _kid_ sneaks
-<ce> up behind them and delivers a nasty slice to one
-<ce> of the thugs' legs. He shrieks in pain and drops
-<ce> to one knee, fleeing pitifully. The other,
-<ce> finding himself in an adverse two-on-one situation,
-<ce> helps his friend run away.
+<ce> Пока они смотрят на вас, _kid_ подкрадывается
+<ce> сзади и наносит одному из бандитов неприятный
+<ce> удар по ногам. Тот вскрикивает от боли и падает
+<ce> на одно колено, и спасается бегством. Другой,
+<ce> оказавшись в невыгодной ситуации "два на один",
+<ce> помогает своему товарищу убежать.
 <ce>
-<ce> "THAT WAS AWESOME! I'm gonna be a real fighter!
-<ce> This is the coolest thing I've ever done!"
-<ce> _kid_ dances around, clattering the sword onto the ground.
-<ce> You'll have to see whether %g1 tells %g4 parents
-<ce> about that part.
+<ce> "ЭТО БЫЛО КРУТО! Я буду настоящим бойцом! Это
+<ce> самое крутое, что я когда-либо делал!" _kid_
+<ce> танцует вокруг себя, с грохотом бросая меч на
+<ce> землю. Надо будет посмотреть, расскажет ли %g1
+<ce> своим родителям об этом инциденте.
 
 Message:  1017
-<ce> Somewhere in this labyrinth, _kid_
-<ce> awaits your rescue.
+<ce> Где-то в этом лабиринте _kid_
+<ce> ждет спасения.
 
 Message:  1018
-<ce> You present the child to _questgiver_, and hear
-<ce> the parents come down the stairs.
-<ce> They smother _kid_ in hugs and kisses,
-<ce> happy to see %g2 unharmed.
-<ce> "What a wonderful job the Fighters Guild does!
-<ce> I wonder if they can get rid of those rats we've
-<ce> been fussing about, too."
+<ce> Вы вручаете ребенка _questgiver_ и слышите,
+<ce> как по лестнице спускаются родители. Они
+<ce> обнимают и целуют ребенка, счастливые видеть
+<ce> %g4 целым и невредимым. "Какая замечательная
+<ce> работа Гильдии Бойцов! Интересно, сможете ли
+<ce> вы насовсем избавиться и от тех крыс, из-за
+<ce> которых мы так суетились?"
 <ce>
-<ce> They then turn to you and deliver a large bag of gold.
-<ce> "The best investment we've ever made. Thank you!"
-<ce> The intact family then leaves the building,
-<ce> and _questgiver_ gives you a pat on the back.
+<ce> Затем они поворачиваются к вам и протягивают большой
+<ce> мешок с золотом. "Лучшее вложение денег, которое мы
+<ce> когда-либо делали. Спасибо!" Затем вся семья покидает
+<ce> здание, а _questgiver_ похлопывает вас по спине.
 
 Message:  1019
-<ce> You present the child to _questgiver_, and hear
-<ce> the parents come down the stairs.
-<ce> They smother _kid_ in hugs and kisses,
-<ce> trying to hide their worry at the large gash
-<ce> on %g4 shoulder. Then %g1 blurts out,
-<ce> "Don't worry about my arm. This %ra and I were practicing
-<ce> sword fighting down in the cave, and I got hurt.
-<ce> But I'm fine, really!"
+<ce> Вы вручаете ребенка _questgiver_ и слышите,
+<ce> как по лестнице спускаются родители. Они
+<ce> обнимают и целуют ребенка, стараясь скрыть
+<ce> свое беспокойство по поводу большой раны
+<ce> на %g4 плече. И тут %g1 восклицает:
+<ce> "Не волнуйтесь за мою руку. Мы с в пещере
+<ce> упражнялись в бою на мечах, и я поранился.
+<ce> Но я в порядке, правда!"
 <ce>
-<ce> The parents pause and glare at you.
-<ce> They thank you for bringing their child back,
-<ce> and give you a reward, albeit lesser than they had
-<ce> originally planned. Then they leave
-<ce> the building, ignoring you.
+<ce> Родители прпристально смотрят на вас. Они
+<ce> благодарят вас за то, что вы вернули их
+<ce> ребенка, и дают вам награду, хотя и меньшую,
+<ce> чем планировали. Затем они выходят из здания,
+<ce> не обращая на вас внимания.
 
 Message:  1030
 %qdt:
- A family in ___questgiver_ is paying
- the Fighters Guild to rescue their
- kidnapped child in ___dung_.
- I need to find the child and
- return in =timer_ days.
+ Семья в ___questgiver_ платит
+ Гильдии Бойцов за спасение их
+ похищенного ребенка из ___dung_.
+ Мне нужно найти ребенка и
+ вернуться через =timer_ дней.
 
 QBN:
 Item _reward_ gold range 300 to 500

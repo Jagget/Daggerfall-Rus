@@ -1,87 +1,87 @@
 Quest: JHFG133
-DisplayName: Payment on Delivery
+DisplayName: Оплата при получении
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Really basic one here, I say. It won't pay much,
-<ce> but it's still an official contract. Someone dropped
-<ce> off a bag of money here with a note, saying it
-<ce> needs to get across town. You'll be paid a bit for doing it.
-<ce> Wanna have a nice walk across ___res_?
+<ce> Я говорю, что это самый простой заказ. Много не
+<ce> заплатят, но все же это официальный контракт.
+<ce> Кто-то подбросил сюда сумку с деньгами и запиской,
+<ce> что ее нужно доставить через весь город. Хотите
+<ce> прогуляться по ___res_?
 
 RefuseQuest:  [1001]
-<ce> Yeah, life's gotta be more exciting than that.
-<ce> I wonder how much is in there.
+<ce> Да, в жизни должно быть что-то более интересное.
+<ce> Интересно, сколько там?
 
 AcceptQuest:  [1002]
-<ce> All right, take it. They just said
-<ce> it needs to get there by tomorrow, so I guess
-<ce> that's 24 hours from now. I dunno, they didn't say
-<ce> when. You'll be paid by _pers_, the person you're
-<ce> delivering it to. Look for %g2 at _res_.
-<ce> Enjoy the fresh air while you're out there.
+<ce> Ладно, берите. Только там сказано, что это
+<ce> должно быть доставлено к завтрашнему дню, так
+<ce> что, я думаю, через 24 часа. Не знаю, они не
+<ce> уточнили время. Вам заплатит _pers_, человек,
+<ce> которому вы доставите сумку. Ищите %g4 в _res_.
+<ce> Наслаждайтесь свежим воздухом.
 
 QuestFail:  [1003]
-<ce> You needed to deliver the gold to _pers_ by now.
+<ce> Вам нужно было уже доставить золото к _pers_.
 
 QuestComplete:  [1004]
-<ce> Ah, got the money, have you? Reliable as
-<ce> ever, the Fighters Guild is. Take a bit of the pot.
+<ce> А, деньги у вас, не так ли? Гильдия Бойцов
+<ce> надежна, как всегда. Возьмите немного из сумки.
 <ce>
-<ce> By the way, the Thieves Guild prizes
-<ce> people who show discretion. Remember that.
+<ce> Кстати, Гильдия Воров поощряет тех, кто
+<ce> проявляет благоразумие. Помните об этом.
 
 RumorsDuringQuest:  [1005]
-There's a knight camping out in a cemetery, killing anyone who tries to loot it.
+На кладбище разбил лагерь рыцарь, убивающий любого, кто попытается его ограбить.
 
 QuestorPostFailure:  [1009]
-I just needed you to deliver a bag of gold. How hard is it?
+Мне просто нужно было, чтобы вы доставили мешок с золотом. Насколько это сложно?
 
 Message:  1011
-<ce> As you leave the guild hall, you see an elderly woman
-<ce> waiting outside. She sees the bag
-<ce> in your possession and speaks.
+<ce> Когда вы выходите из зала гильдии, вы
+<ce> видите пожилую женщину, ожидающую снаружи.
+<ce> Она видит сумку у вас в руках и говорит.
 <ce>
-<ce> "%hnr, I can't prove it to you, but that bag
-<ce> is mine. It was stolen from my house last night,
-<ce> and it contains all the money my nephews saved up
-<ce> for the rest of the month. Food, fuel, everything,
-<ce> it all comes from that gold. Please, would
-<ce> you give it back to me?
-<ce> My family won't visit until next week and
-<ce> I don't know what I would do without it."
+<ce> "%hnr, я не могу вам этого доказать, но эта
+<ce> сумка моя. Она была украдена из моего дома
+<ce> прошлой ночью, и в ней все деньги, которые мои
+<ce> племянники скопили до конца месяца. Еда, дрова,
+<ce> все это должно было быть оплачено этим золотом.
+<ce> Пожалуйста, не могли бы вы вернуть его мне?
+<ce> Моя семья приедет только на следующей неделе,
+<ce> и я не знаю, что мне делать без денег".
 <ce>
-<ce> Tears form in her eyes as she speaks.
-<ce> The choice is yours. Do you give her the sack?
+<ce> Когда она говорит, в ее глазах появляются слезы.
+<ce> Выбор за Вами. Отдадите ли вы ей мешок?
 
 Message:  1012
-<ce> You decline, and she cries out mournfully,
-<ce> hobbling off into another direction.
+<ce> Вы отказываетесь, и она горестно плачет,
+<ce> ковыляя в другом направлении.
 <ce>
-<ce> You need to deliver this money to _res_.
+<ce> Вам нужно доставить эти деньги в _res_.
 
 Message:  1013
-<ce> She doesn't have proof, but you don't need it.
-<ce> You place the coin sack into her hands.
-<ce> She bows before you as much as her ancient frame
-<ce> can handle and closes her eyes.
+<ce> У нее нет доказательств, но они вам и не нужны.
+<ce> Вы вкладываете мешочек с монетами ей в руки. Она
+<ce> склоняется перед вами настолько, насколько может
+<ce> выдержать ее древнее тело, и закрывает глаза.
 <ce>
-<ce> "Oh thank you, thank you, thank you kind %ra!
-<ce> I have nothing to pay you with, but my prayers
-<ce> to %god will be long and loud for you.
-<ce> I didn't know what I would do if you said no."
+<ce> "О, спасибо вам, спасибо, спасибо, добрый %ra!
+<ce> Мне нечем заплатить вам, но я буду долго и громко
+<ce> молиться за вас и %god услышит. Я не знала, что
+<ce> мне делать, если вы откажетесь".
 <ce>
-<ce> She departs toward her home. At least now you
-<ce> don't have to carry someone else's stolen goods.
+<ce> Она уходит к себе домой. По крайней мере, теперь
+<ce> вам не придется таскать ворованное добро.
 
 Message:  1030
 %qdt:
- __qgiver_ gave me the simple task
- of delivering a bag of coins to
- a person named _pers_ at
- _res_ in ___res_.
- I have 24 hours to do it.
+ __qgiver_. Мне нужно доставить
+ мешок с монетами человеку по
+ имени _pers_ в _res_,
+ ___res_. На это у меня
+ есть 24 часа.
 
 QBN:
 Item _reward_ gold range 20 to 50

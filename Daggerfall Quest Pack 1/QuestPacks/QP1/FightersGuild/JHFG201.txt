@@ -1,58 +1,58 @@
 Quest: JHFG201
-DisplayName: Domestic Vampire
+DisplayName: Местный вампир
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We've got a job for someone experienced like you,
-<ce> %pcf, but I'm not gonna blame you for turning
-<ce> it down. It involves one vampire and no sunlight.
-<ce> You think you can fix that kind of problem?
-<ce> There's =reward_ gold in it for you.
+<ce> У нас есть работа для такого опытного человека, как вы,
+<ce> %pcf, но я не буду винить вас, если вы откажетесь.
+<ce> Это связано с одним вампиром и отсутствием солнечного света.
+<ce> Вы думаете, что сможете решить такого рода проблему?
+<ce> Вы получите =reward_ золотых.
    <--->
-<ce> Ever killed a vampire before, %pcf? Not one of them
-<ce> ancients. We've got a request here to floor some simple
-<ce> vampire in a house over in ___place_.
-<ce> Take this one if you feel ready for it.
+<ce> Вы когда-нибудь убивали вампира, %pcf? Речь не
+<ce> идет об этих древних. У нас тут заявка - завалить
+<ce> одного обычного вампира в доме в ___place_. Берите
+<ce> контракт, если чувствуете, что готовы к этому.
 
 RefuseQuest:  [1001]
-<ce> I'll look for someone else then.
+<ce> Я поищу кого-нибудь другого.
 
 AcceptQuest:  [1002]
-<ce> So here's the deal. You're headed to  _place_.
-<ce> That'll be in ___place_. Slay the beast
-<ce> and get back here so I can get you your =reward_ gold.
-<ce> I'm giving you =timer_ days before I send for backup
-<ce> from a temple or something. Good luck, %pcf.
+<ce> Значит, так. Вы направляетесь в _place_. Это
+<ce> в ___place_. Убейте чудовище и вернитесь сюда, чтобы
+<ce> я мог вручить вам =reward_ золотых. Я даю вам
+<ce> =timer_ дней, прежде чем пошлю за подкреплением
+<ce> в храм или еще куда-нибудь. Удачи, %pcf.
 
 QuestFail:  [1003]
-<ce> You needed to return from slaying
-<ce> the vampire in ___place_ by now.
+<ce> Вам нужно было уже вернуться после
+<ce> убийства вампира в ___place_.
 
 QuestComplete:  [1004]
-<ce> Excellent work, %pcf. This is why
-<ce> we count on you. Have your gold.
+<ce> Отличная работа, %pcf. Вот почему
+<ce> мы рассчитываем на вас. Возьмите свое золото.
 
 Message:  1010
 %qdt:
- The Fighters Guild of
- ___qgiver_ has sent me to
- ___place_ to slay a vampire
- in _place_.  I've got to
- to be back in =timer_ days
- or they'll call for the temple.
+ Гильдия Бойцов ___qgiver_
+ отправила меня в ___place_,
+ чтобы уничтожить вампира в
+ _place_.  Мне нужно вернуться
+ в течение =timer_ дней, иначе
+ они передадут контракт в храм.
 
 Message:  1011
-<ce> "No!" The vampire shrieks
-<ce> before crumpling to the floor.
+<ce> "Нет!" Вампир вскрикнул
+<ce> и рухнул на пол.
 
 Message:  1012
 <ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Сила воли)
 <ce>
-<ce> The vampire raises her arms and shrieks, casting
-<ce> a spell in self-defense. It only stuns you for a moment,
-<ce> but it's enough for her to invoke multiple empowering spells.
-<ce> This fight just got harder.
+<ce> Вампир поднимает руки и кричит, произнося заклинание
+<ce> в целях самозащиты. Это оглушает вас всего на мгновение,
+<ce> но этого достаточно, чтобы он применил несколько усиливающих
+<ce> заклинаний. Этот бой только что стал сложнее.
 
 QBN:
 Item _reward_ gold range 300 to 400

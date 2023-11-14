@@ -1,96 +1,96 @@
 Quest: JHFG203
-DisplayName: Rangers and Tigers and Bears Oh My
+DisplayName: И лесничие и тигры и медведи, ну и дела
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Property dispute. A noble here in %crn
-<ce> wants to expand his mansion, and some
-<ce> rangers in the nearby wilderness are
-<ce> gettin' real testy about it.
-<ce> They're threatening to go ballistic on his
-<ce> place unless he stops his plans.
-<ce> I don't think there's a diplomatic solution
-<ce> to this one, you're gonna have to knock 'em down.
-<ce> Is this your kind of job?
+<ce> Земельный спор. Один аристократ
+<ce> в %crn хочет расширить свой особняк,
+<ce> но лесничие из близлежащих лесов
+<ce> очень недовольны этим. Они
+<ce> угрожают устроить погром, если
+<ce> он не откажется от своих планов.
+<ce> Я не думаю, что здесь можно
+<ce> обойтись дипломатическим решением,
+<ce> вам придется драться. Ваш тип работы?
    <--->
-<ce> Property dispute. A noble here in %crn
-<ce> wants to expand her mansion, and some
-<ce> rangers in the nearby wilderness are
-<ce> gettin' real testy about it.
-<ce> They're threatening to go ballistic on her
-<ce> place unless she stops her plans.
-<ce> I don't think there's a diplomatic solution
-<ce> to this one, you're gonna have to knock 'em down.
-<ce> Is this your kind of job?
+<ce> Земельный спор. Одна аристократка
+<ce> в %crn хочет расширить свой особняк,
+<ce> но лесничие из близлежащих лесов
+<ce> очень недовольны этим. Они
+<ce> угрожают устроить погром, если
+<ce> она не откажется от своих планов.
+<ce> Я не думаю, что здесь можно
+<ce> обойтись дипломатическим решением,
+<ce> вам придется драться. Ваш тип работы?
 
 RefuseQuest:  [1001]
-<ce> Well, all right, I'll put that one away.
+<ce> Ну, хорошо, я отложу этот контракт в сторону.
 
 AcceptQuest:  [1002]
-<ce> The place is ___manor_. I know it'll look tiny,
-<ce> and that's how the rangers want to keep it.
-<ce> They've got power to charm critters,
-<ce> so expect some humans and some animals.
-<ce> Once all the baddies are dead,
-<ce> you'll be paid on the spot.
-<ce> Just make sure you get this done before =timer_ days
-<ce> are up, that place won't last forever.
+<ce> Отправляйтесь в ___manor_. Я знаю, что место
+<ce> будет выглядеть крошечным, и именно таким
+<ce> лесничие хотят его сохранить. У них есть
+<ce> способность очаровывать зверей, так что ожидайте
+<ce> драки с людьми и животными. Как только все злодеи
+<ce> будут мертвы, вам заплатят на месте. Просто
+<ce> убедитесь, что вы сделаете это до истечения
+<ce> =timer_ дней. Это место долго не продержится.
 
 QuestFail:  [1003]
-<ce> The Fighters Guild sent you to clean
-<ce> out ___manor_ by now.
+<ce> По контракту с Гильдей Бойцов, вы должны были
+<ce> уже зачистить ___manor_.
 
 QuestComplete:  [1004]
-<ce> The servant bows graciously before you and departs.
+<ce> Слуга грациозно кланяется вам и уходит.
 <ce>
-<ce> "So shall it be done."
+<ce> "Да будет так".
 
 Message:  1010
-<ce> There's no hiding your approach to ___manor_.
-<ce> The furious rangers see you coming from afar.
+<ce> К ___manor_ нельзя подобраться скрытно.
+<ce> Разъяренные лесничие видят вас издалека.
 <ce>
-<ce> "Nature's servants shall do Her bidding!"
+<ce> "Слуги природы должны исполнять ее волю!"
 <ce>
-<ce> They split up and try to surround you,
-<ce> calling for aid from some wild animals.
+<ce> Они разделяются и пытаются окружить вас,
+<ce> призывая на помощь диких животных.
 
 Message:  1011
-<ce> A servant exits the house and surveys the wreckage.
-<ce> After ensuring the danger is gone, he approaches
-<ce> to speak to you.
+<ce> Из дома выходит слуга и осматривает поле боя.
+<ce> Убедившись, что опасность миновала, он
+<ce> подходит и обращается к вам.
 <ce>
-<ce> "Hail, great warrior. My master's thanks to you
-<ce> for ridding us of our persecutors.
-<ce> I am authorized to give you these =reward_ gold pieces,
-<ce> but should you so desire, we could instead
-<ce> spread your fame abroad in %crn to give you
-<ce> a better name in the eyes of the law."
+<ce> "Приветствую вас, великий воин. Мой господин благодарит
+<ce> вас за то, что вы избавили нас от наших преследователей.
+<ce> Я уполномочен вручить вам =reward_ золотых, но если вы
+<ce> пожелаете, мы могли бы вместо этого распространить славу
+<ce> о вас за границами этого региона, чтобы вы выглядели
+<ce> лучше в глазах закона".
 <ce>
-<ce> Do you choose the gold (yes) or the reward of fame (no)?
+<ce> Возьмете ли вы золото в качестве награды?
    <--->
-<ce> A servant exits the house and surveys the wreckage.
-<ce> After ensuring the danger is gone, she approaches
-<ce> to speak to you.
+<ce> Из дома выходит слуга и осматривает поле боя.
+<ce> Убедившись, что опасность миновала, она
+<ce> подходит и обращается к вам.
 <ce>
-<ce> "Hail, great warrior. My master's thanks to you
-<ce> for ridding us of our persecutors.
-<ce> I am authorized to give you these =reward_ gold pieces,
-<ce> but should you so desire, we could instead
-<ce> spread your fame abroad in %crn to give you
-<ce> a better name in the eyes of the law."
+<ce> "Приветствую вас, великий воин. Мой господин благодарит
+<ce> вас за то, что вы избавили нас от наших преследователей.
+<ce> Я уполномочен вручить вам =reward_ золотых, но если вы
+<ce> пожелаете, мы могли бы вместо этого распространить славу
+<ce> о вас за границами этого региона, чтобы вы выглядели
+<ce> лучше в глазах закона".
 <ce>
-<ce> Do you choose the gold (yes) or the reward of fame (no)?
+<ce> Возьмете ли вы золото в качестве награды?
 
 Message:  1030
 %qdt:
- On behalf of the Fighters Guild,
- I'm headed to ___manor_
- of ____manor_ to get rid of
- some angry rangers who threaten
- the property. I'll be paid in gold
- once they're dead, if I finish
- within =timer_ days.
+ От имени Гильдии Бойцов
+ я направляюсь в ___manor_,
+ ____manor_, чтобы избавиться
+ от разъяренных лесничих, угрожающих
+ владениям. Мне заплатят золотом,
+ как только они будут мертвы, если
+ я закончу в течение =timer_ дней.
 
 QBN:
 Item _reward_ gold range 600 to 800

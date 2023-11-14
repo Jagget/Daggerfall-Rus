@@ -1,59 +1,59 @@
 Quest: JHFG204
-DisplayName: Til Death Do Them Part
+DisplayName: Пока смерть не разлучит их
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> A vampire lord took over a private cemetery
-<ce> with his two wives. Got some kind of harem thing
-<ce> going on, I dunno. I'm not a vampire, don't ask me.
-<ce> The property owner is paying over a thousand gold
-<ce> to whoever gets rid of them.
+<ce> Вампир-лорд захватил частное кладбище
+<ce> вместе с двумя своими женами. У него там
+<ce> какой-то гарем, не знаю. Я не вампир,
+<ce> не спрашивайте. Хозяин кладбища платит больше
+<ce> тысячи золотых тому, кто от них избавится.
 
 RefuseQuest:  [1001]
-<ce> I get you. Vampires are real nasty folk.
+<ce> Я вас понимаю. Вампиры - очень неприятный народ.
 
 AcceptQuest:  [1002]
-<ce> Head off to ___cem_, which is %di.
-<ce> They're not going to come out into the
-<ce> daylight, obviously, so wait outside until
-<ce> they show up. Make sure they're absolutely
-<ce> dead, or whatever the equivalent of dead
-<ce> is for vampires, and I'll have your
-<ce> money waiting here. It's paying =reward_
-<ce> gold if you're back within =timer_ days.
+<ce> Отправляйтесь в ___cem_, на %di. Очевидно, они
+<ce> не собираются выходить на дневной свет, так
+<ce> что подождите снаружи, пока они не появятся.
+<ce> Убедитесь, что они абсолютно мертвы, или что
+<ce> там у вампиров считается эквивалентом смерти,
+<ce> и ваши деньги будут ждать вас здесь. Вы
+<ce> получите =reward_ золотых, если вернетесь
+<ce> в течение =timer_ дней.
 
 QuestFail:  [1003]
-<ce> The Fighters Guild sent you to clean
-<ce> out ___cem_ by now.
+<ce> Гильдия Бойцов послала вас зачистить
+<ce> ___cem_ к этому времени.
 
 QuestComplete:  [1004]
-<ce> Hey, you're getting good at this.
-<ce> When even vampires fall, there's not
-<ce> much else that can scare you.
-<ce> Here you go, with my compliments.
+<ce> Эй, у вас хорошо получается. Если вы
+<ce> даже вампиров крошите, вас уже мало что
+<ce> может напугать. Вот, пожалуйста, с моими
+<ce> комплиментами.
 
 Message:  1010
-<ce> This is the right place, but it's too close to daytime.
-<ce> You'll need to stay around until it's later at night.
+<ce> Это правильное место, но солнце еще слишком высоко.
+<ce> Вам придется задержаться здесь пока не наступит ночь.
 
 Message:  1011
-<ce> You are spotted immediately. Guttural hissing
-<ce> rises into the air as the lord and his
-<ce> consorts move in for the kill.
+<ce> Вас сразу же замечают. В воздухе
+<ce> раздается гортанное шипение, когда лорд
+<ce> и его жены приближаются, чтобы убить вас.
 
 Message:  1012
-<ce> All three vampires are defeated.
+<ce> Все три вампира повержены.
 
 Message:  1030
 %qdt:
- __qgiver_ of ___qgiver_
- will pay me =reward_ gold if I
- slay a vampire lord and two
- female vampires that have
- taken over ___cem_ of ____cem_.
- I need to be back in =timer_ days
- to be rewarded.
+ __qgiver_ из ___qgiver_ заплатит
+ мне =reward_ золотых, если
+ я уничтожу вампира-лорда и двух
+ женщин-вампиров, которые захватили
+ ___cem_, ____cem_. Для получения
+ вознаграждения мне нужно вернуться
+ через =timer_ дней.
 
 QBN:
 Item _reward_ gold range 1100 to 1300
