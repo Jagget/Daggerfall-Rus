@@ -1,152 +1,152 @@
 Quest: JHFG129
-DisplayName: Mirage
+DisplayName: Мираж
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> There's a fellow in town who keeps comin'
-<ce> 'round demanding a challenger for a fight.
-<ce> Offers gold and everything. I think it's
-<ce> gonna be harder than it looks, but it's
-<ce> there if you want it.
+<ce> В городе есть парень, который постоянно
+<ce> приходит и требует оппонента на бой.
+<ce> Предлагает золото и все такое. Думаю,
+<ce> это будет сложнее, чем кажется, но если
+<ce> захотите, контракт ваш.
 
 RefuseQuest:  [1001]
-<ce> I guess I'll just have to get used to this guy.
-<ce> No one else wants to try.
+<ce> Думаю, мне просто придется привыкнуть к этому парню.
+<ce> Больше никто не хочет пробовать.
 
 AcceptQuest:  [1002]
-<ce> Really? All right then. Go to
-<ce> _res_ here in town. Name's
-<ce> _pers_. All's I know is that
-<ce> you just wanna go in and start a
-<ce> fight. The twit's been aching for
-<ce> a good one for a long time, he says.
-<ce> I'll send him word that you'll be
-<ce> there within, say, two days. Let
-<ce> you rest up a little if you need it.
+<ce> Правда? Ну что ж. Его имя - _pers_.
+<ce> Живет здесь, в городе, в _res_.
+<ce> Все, что вам нужно, это просто
+<ce> зайти с ноги и начать драку. Этот
+<ce> придурок, по его словам, давно
+<ce> жаждет хорошей драки. Я передам
+<ce> ему, что вы будете там в течение,
+<ce> скажем, двух дней. Дам вам немного
+<ce> отдохнуть, если хотите.
 
 QuestFail:  [1003]
-<ce> _pers_ is in _res_.
-<ce> Head on over when you're ready.
+<ce> _pers_ в _res_.
+<ce> Отправляйтесь, когда будете готовы.
 
 QuestComplete:  [1004]
-<ce> %oth, you can be lethal.
+<ce> %oth, вы можете быть смертельно опасны.
 <ce>
-<ce> Please don't misunderstand. I can be a bit
-<ce> overly dramatic at times, I understand. My
-<ce> siblings tell me as much when they come
-<ce> around. Well, I suppose some explanation is due.
+<ce> Пожалуйста, не поймите меня неправильно. Временами
+<ce> я бываю излишне драматичен, я понимаю. Мои братья
+<ce> и сестры часто говорят мне об этом, когда мы встречаемся.
+<ce> Что ж, полагаю, следует дать некоторые объяснения.
 <ce>
-<ce> We belong to a clan who identify with a gift
-<ce> for illusion magic. It's not so much a clan in that
-<ce> we all trace to a common ancestor. We all
-<ce> adopt ourselves, you could say. In any case, we
-<ce> have an interest in expanding our sphere of
-<ce> influence. We are indeed shapeshifters, but
-<ce> we often find ourselves disadvantaged in other
-<ce> fields. Combat in general is something of a weak
-<ce> spot for us. We would enjoy counting you among
-<ce> our allies. If that sounds agreeable, perhaps someday we
-<ce> could send you occasional missives according to our
-<ce> needs. I assure you we will compensate you for
-<ce> the work we do together. Oh, the things we could
-<ce> accomplish with your skill! But for now, farewell.
-<ce> Thank you for listening to me with such respect.
+<ce> Мы принадлежим к клану, у которого есть дар к магии
+<ce> иллюзий. Это не то чтобы клан, просто мы все ведем
+<ce> свой род от общего предка. Можно сказать, мы все
+<ce> сами себя усыновили. В любом случае, мы
+<ce> заинтересованы в расширении сферы своего влияния.
+<ce> Мы действительно оборотни, но часто оказываемся
+<ce> в невыгодном положении в других навыках. Бой вообще
+<ce> является для нас слабым местом. Мы будем рады
+<ce> видеть вас в числе наших союзников. Если вы
+<ce> согласны, то, возможно, время от времени мы сможем
+<ce> посылать вам послания в соответствии с нашими
+<ce> потребностями. Уверяю вас, мы будем вознаграждать
+<ce> вас за работу. О, чего бы мы могли добиться с вашим
+<ce> мастерством! А пока прощайте. Спасибо, что
+<ce> выслушали меня с таким уважением.
 
 Message:  1011
-<ce> "Thank you for coming. Please, tell me your full name.
+<ce> "Спасибо, что пришли. Пожалуйста, назовите ваше полное имя.
 <ce>
-<ce> "Very well then, %pcn. I wish to test
-<ce> my skills and see if I emerge the victor. I ask that
-<ce> you hold nothing back. I have a small reward available
-<ce> for you if you succeed. And if you leave this building,
-<ce> you forfeit our duel.
+<ce> Хорошо, %pcn. Я хочу проверить свои способности
+<ce> и узнать, выйду ли я победителем. Я прошу вас
+<ce> не сдерживаться. В случае успеха вас ждет
+<ce> небольшое вознаграждение. А если вы покинете
+<ce> это здание, то проиграете нашу дуэль.
 <ce>
-<ce> "Let our duel begin!"
+<ce> Да начнется наша дуэль!"
 <ce>
-<ce> _pers_ shouts a cantrip
-<ce> dramatically before disappearing. You
-<ce> brace yourself for the battle before you.
+<ce> _pers_ резко выкрикивает
+<ce> заклинание, после чего исчезает.
+<ce> Вы готовитесь к предстоящей битве.
 
 Message:  1014
-<ce> The rat keels over. _pers_'s
-<ce> voice breaks your puzzled thought process.
+<ce> Крыса падает навзничь. Голос
+<ce> _pers_ нарушает ход ваших мыслей.
 <ce>
-<ce> "Well, you can kill a rat! So what? Take this!"
+<ce> "Ну, вы можете убить крысу! Ну и что? Одолейте это!"
 
 Message:  1015
-<ce> The bat drops to the ground pathetically.
-<ce> From its mouth you hear _pers_ say,
+<ce> Летучая мышь жалко падает на землю.
+<ce> Из ее рта вы слышите, как _pers_ говорит:
 <ce>
-<ce> "Warm-ups are over! Now we get serious!"
+<ce> "Разминка окончена! Теперь все серьезно!"
 
 Message:  1016
-<ce> "No arachnophobe out of you! Get ready!"
+<ce> "Никакого арахнофоба из вас не выйдет! Готовьтесь!"
 
 Message:  1017
-<ce> From the giant fish's mouth you hear,
+<ce> Из пасти гигантской рыбы слышится,
 <ce>
-<ce> "Come on, I want a real fight! Show
-<ce> me the mettle of the Fighters Guild!"
+<ce> "Давайте же, я хочу настоящего боя!
+<ce> Покажите мне силу Гильдии Бойцов!".
 
 Message:  1018
-<ce> The scorpion's body heaves and finally drops.
+<ce> Тело скорпиона вздрагивает и наконец падает.
 <ce>
-<ce> "Well, so be it! Let's see you handle this!"
+<ce> "Ну что ж, пусть будет так! Посмотрим, как вы с этим справитесь!"
 
 Message:  1019
-<ce> "Not the first wereboar you've seen, eh?
-<ce> But I'm just getting started!"
+<ce> "Не первый кабанчик, которого вы видите, да?
+<ce> Но я только начинаю!"
 
 Message:  1020
-<ce> "Hmph! Then watch this!"
+<ce> "Хм! Тогда смотрите!"
 
 Message:  1021
-<ce> "No more ghosts! See if you can beat this!"
+<ce> "Больше никаких призраков! Посмотрим, сможете ли вы одолеть это!"
 
 Message:  1022
-<ce> "A strength that can even break iron!
-<ce> But what about this?!"
+<ce> "Сила, которая может даже сломать железо!
+<ce> Но как насчет этого?!"
 
 Message:  1023
-<ce> The levitating dreugh drops to the ground.
+<ce> Летающий дреуг падает на землю.
 <ce>
-<ce> "Pretty impressive, right? But playtime is now over!"
+<ce> "Довольно впечатляюще, правда? Но время игр прошло!"
 
 Message:  1024
-<ce> "Breathing fire, even! But no more.
-<ce> Here's something else!"
+<ce> "Даже дышать огнем! Но не более.
+<ce> Вот еще кое-что!"
 
 Message:  1025
-<ce> "Stone skin cracked. All my tricks are shot!
-<ce> You leave me with no choice. See my true form!"
+<ce> "Каменная кожа треснула. Все мои трюки провалены!
+<ce> Вы не оставляете мне выбора. Узрите же мою истинную форму!"
 
 Message:  1026
-<ce> The vampire tumbles to the ground. As with
-<ce> the other creatures, a voice comes from its mouth.
+<ce> Вампир падает на землю. Как и у других
+<ce> существ, из его рта раздается голос.
 <ce>
-<ce> "It's been a long time since someone made
-<ce> it to the vampire. Your skill truly is memorable.
-<ce> Come, see me once more."
+<ce> "Давненько никто не добирался до вампира.
+<ce> Ваше мастерство поистине незабываемо.
+<ce> Не уходите, нам нужно поговорить".
 <ce>
-<ce> _pers_ appears once again.
-<ce> Now you can get to the bottom of the matter.
+<ce> Снова появляется _pers_.
+<ce> Теперь вы можете перейти к сути дела.
 
 Message:  1030
 %qdt:
- Someone named _pers_
- in _res_ of ___res_
- wants a challenge from a member
- of the Fighters Guild, and
- I have answered. I have two days
- to take on the fight for a gold reward.
+ Некто по имени _pers_
+ в _res_, ___res_
+ хочет принять вызов
+ от члена Гильдии Бойцов,
+ и я ответил. У меня есть
+ два дня, чтобы принять бой.
 
 Message:  1050
-<ce> _pers_'s voice booms in your ears.
+<ce> Голос _pers_ гремит в ушах.
 <ce>
-<ce> "HA! I've proven my victory! Leave
-<ce> %crn before my siblings and I
-<ce> leave your carcass nailed to a wall!"
+<ce> "ХА! Я доказал что я сильнее! Уходите
+<ce> из %crn, пока мы с братьями и сестрами
+<ce> не пригвоздили вашу тушу к городской стене!"
 
 QBN:
 Item _reward_ gold range 1000 to 1000

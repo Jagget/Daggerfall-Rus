@@ -1,101 +1,99 @@
 Quest: JHFG128
-DisplayName: One Life for Another
+DisplayName: Жизнь за жизнь
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Got an escort mission... I think. This one
-<ce> gives me the creeps. It's got all kinds of
-<ce> stuff I don't like about it, but I've got
-<ce> to take it seriously and offer it just like
-<ce> any other job. If you wanna take someone
-<ce> to another town and feel ready for some
-<ce> tough combat, I could use you right now.
+<ce> Есть контракт на сопровождение... Кажется. От этого
+<ce> контракта у меня мурашки по коже. В нем есть много
+<ce> всего, что мне не нравится, но я должен относиться
+<ce> к нему серьезно и предлагать его как любую другую
+<ce> работу. Если вы хотите отвезти кого-то в другой
+<ce> город и готовы к жесткому бою, вы бы мне сейчас
+<ce> очень пригодитесь.
 
 RefuseQuest:  [1001]
-<ce> Yeah, I don't blame you. Maybe he'll give up.
-   <--->
-<ce> Yeah, I don't blame you. Maybe she'll give up.
+<ce> Да, я вас не виню. Может быть, они отменят контракт.
 
 AcceptQuest:  [1002]
-<ce> I owe you one. Really, I can't give this out
-<ce> in good faith without telling you that something
-<ce> just feels bad about it. Anyway, I won't hold you
-<ce> any longer. Go look for _person_,
-<ce> who's in _place_. Take %g2 on over to
-<ce> a place called _home_ in
-<ce> ___home_. And be ready for anything,
-<ce> 'cause the rumors I hear about this =person_
-<ce> are not pleasant stuff. Safe journey, %pcf.
+<ce> Я у вас в долгу. На самом деле я не могу выдать вам
+<ce> этот контракт, не сказав вам из лучших побуждений, что
+<ce> мне что-то не по себе от этого. В общем, не буду вас
+<ce> больше задерживать. Идите искать _person_,
+<ce> в _place_. Возьми %g4 и отправляйся
+<ce> в место под названием _home_,
+<ce> ___home_. И будь готов ко всему, потому что слухи,
+<ce> которые я слышал о =person_, не из приятных.
+<ce> Счастливого пути, %pcf.
 
 QuestFail:  [1003]
-<ce> Everything all right?
+<ce> Все в порядке?
 
 QuestComplete:  [1004]
-<ce> "This is my friend! Won't you offer
-<ce> that payment we agreed on, dear sir?"
+<ce> "Это мой друг! Не предложите ли вы оплату,
+<ce> о которой мы договаривались, дорогой сэр?"
 <ce>
-<ce> _person_'s odd behavior nearly
-<ce> distracts you as this cloaked figure reaches
-<ce> out to touch you with its finger. You see
-<ce> a grin cross its face as it grazes you. Your
-<ce> surroundings begin to shimmer. Something
-<ce> is happening. _person_ flees.
+<ce> Когда _person_ отвлекает вас своим странным
+<ce> поведением, эта фигура в плаще протягивает руку,
+<ce> чтобы коснуться вас пальцем. Вы замечаете, как на
+<ce> его лице появляется ухмылка, когда он касается вас.
+<ce> Окружающее вас пространство начинает мерцать.
+<ce> Что-то происходит. _person_ убегает.
 <ce>
-<ce> "I'm sorry! I'm so sorry! They demanded
-<ce> a sacrifice and I couldn't bear to do it
-<ce> myself! Please forgive me!"
+<ce> "Простите! Мне так жаль! Они
+<ce> требовали жертву, а я не мог сам!
+<ce> Пожалуйста, простите меня!"
 <ce>
-<ce> The hooded figure silently warps away,
-<ce> and other beings take its place.
+<ce> Фигура в капюшоне бесшумно исчезает,
+<ce> а на ее месте появляются другие существа.
 
 RumorsDuringQuest:  [1005]
-Some idiot here in town let a tiger get into his house. Lucky the Fighters Guild exists.
+У нас в городе один идиот позволил тигру забраться в свой дом.
+Хорошо, что существует Гильдия Бойцов.
 
 Message:  1011
-<ce> Oh! Are you from the Fighters Guild?
-<ce> H-hello, I'm _person_. Thank
-<ce> you for coming. I need help getting home.
-<ce> I live in ___home_, I'm afraid
-<ce> of traveling that far and I want someone
-<ce> to keep me safe as I go. Can you take
-<ce> me there? I have a friend who'll pay
-<ce> you =reward_ gold when we get there.
-<ce> I need to be there in =timer_ days.
+<ce> О! Вы из Гильдии Бойцов? З-здравствуйте,
+<ce> я _person_. Спасибо, что пришли. Мне нужна
+<ce> помощь, чтобы добраться до дома. Я живу
+<ce> в ___home_, я боюсь путешествовать так
+<ce> далеко и хочу, чтобы кто-нибудь оберегал
+<ce> меня в пути. Вы можете меня туда отвезти?
+<ce> У меня есть друг, который заплатит вам
+<ce> золотом, когда мы доберемся туда. Мне
+<ce> нужно быть там через =timer_ дней.
 
 Message:  1013
-<ce> While you battled these daedra, _person_
-<ce> has most likely run far from ___home_.
-<ce> You wonder whether %g4 account with Oblivion has
-<ce> been settled by now. At least these foes
-<ce> should carry reward enough for you.
+<ce> Пока вы сражались с этими даэдра, _person_, скорее
+<ce> всего, находится уже далеко от ___home_.
+<ce> Вы задаетесь вопросом, в расчете ли %g1 с Обливионом
+<ce> к этому времени. По крайней мере, с этих врагов
+<ce> можно будет добыть достаточно награды для себя.
 
 Message:  1014
-<ce> Rather than remain in this deathtrap, you flee
-<ce> the building. The daedra appear to have no interest in
-<ce> pursuing you. Meanwhile, you hear _person_'s
-<ce> voice from afar.
+<ce> Не желая оставаться в этой смертельной ловушке,
+<ce> вы покидаете здание. Похоже, даэдра не заинтересованы
+<ce> в том, чтобы преследовать вас. Тем временем, вы
+<ce> издалека слышите как кричит _person_:
 <ce>
-<ce> "No! Leave me alone! You want the %ra, not me!
-<ce> Someone help, they're taking me--"
+<ce> "Нет! Оставьте меня в покое! Вам нужно схватить %ra,
+<ce> а не меня! Кто-нибудь, помогите, они забирают меня..."
 <ce>
-<ce> Then %g4 voice trails away.
+<ce> Затем %g4 голос обрывается.
 
 Message:  1021
-<ce> A warping effect surrounds _person_,
-<ce> and space itself appears to distort. The effect
-<ce> rapidly builds until it seems as though the air
-<ce> itself is about to hemorrhage magical power.
-<ce> Once %g1 notices %g4 eyes grow wide but
-<ce> there is nothing you can do; %g1 is
-<ce> sucked in amid an otherworldly silence.
+<ce> Эффект деформации окружает _person_, и кажется,
+<ce> что само пространство искажается. Эффект быстро
+<ce> нарастает, пока не начинает казаться, что сам воздух
+<ce> вот-вот начнет источать магическую силу. Как только
+<ce> %g1 замечает это, %g4 глаза расширяются, но сделать
+<ce> уже ничего нельзя: портал засасывает %g4 в себя
+<ce> посреди потусторонней тишины.
 
 Message:  1030
 %qdt:
- I've accepted a mission on behalf of
- the Fighters Guild to escort someone named
- _person_ to ___home_.
- I'll be paid =reward_ gold pieces when we arrive.
+ От имени Гильдии Бойцов я сопровождаю
+ _person_ в ___home_.
+ По прибытии мне будет выплачено =reward_ золотых.
 
 QBN:
 Person _person_ faction Dancers

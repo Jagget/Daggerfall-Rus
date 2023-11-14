@@ -1,111 +1,112 @@
 Quest: JHFG130
-DisplayName: Like a Snake
+DisplayName: Как змея
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Got a weird one that I'm hoping someone will be able
-<ce> to sort out. Says a shapeshifter's plodding around some
-<ce> cemetery, pretending to be a vampire. The request is that you
-<ce> go help kill this thing, since it's too strong for one person.
-<ce> Wanna take it?
+<ce> Попался странный контракт, в котором, надеюсь, кто-нибудь
+<ce> сможет разобраться. Говорят, что по какому-то кладбищу
+<ce> бродит оборотень, притворяясь вампиром. Просят помочь
+<ce> убить эту тварь, так как она слишком сильна для одного
+<ce> человека. Не хотите помочь?
 
 RefuseQuest:  [1001]
-<ce> All right, thanks anyway.
+<ce> Ладно, все равно спасибо.
 
 AcceptQuest:  [1002]
-<ce> "Well then, let's get you on your way."
+<ce> "Что ж, тогда давайте отправим вас в путь".
 <ce>
-<ce> _questgiver_ hollers, and a member of the guild
-<ce> opens the door. A heavily-armed warrior enters and bows.
+<ce> _questgiver_ кричит, и член гильдии
+<ce> открывает дверь. Входит тяжеловооруженный воин и кланяется.
 <ce>
-<ce> "Hail, fighter! I am _fighter_. I thank you
-<ce> for your intervention on my behalf.
-<ce> We have a shapeshifter to kill, a vile creature!
-<ce> To ___cemetery_ we go, and in =timer_ days!"
+<ce> "Приветствую вас, боец! Я _fighter_. Я благодарю
+<ce> вас за то, что вы вступились за меня. Нам нужно
+<ce> убить оборотня, мерзкую тварь! Мы отправляемся
+<ce> в ___cemetery_, у нас есть =timer_ дней!"
 
 QuestFail:  [1003]
+<ce> Задание провалено.
 
 QuestComplete:  [1004]
-<ce> You take your gold reward.
+<ce> Вы забираете свою награду золотом.
 
 RumorsDuringQuest:  [1005]
-Lots of werewolves been out and about in the night.
+Множество оборотней бродило по ночам.
 
 Message:  1010
-<ce> "It is yet day, and the monster fits the disguise well,"
-<ce> _fighter_ says. "Let us camp 'til night
-<ce> and we shall find our foe."
+<ce> "Сейчас еще день, и чудовище хорошо маскируется",
+<ce> - говорит _fighter_. "Давайте разобьем лагерь
+<ce> до ночи и тогда мы найдем нашего врага".
 
 Message:  1011
-<ce> You and _fighter_ notice some movement
-<ce> nearby and arm yourselves.
-<ce> The being maintains distance and calls out.
+<ce> Вы и _fighter_ замечаете какое-то
+<ce> движение поблизости и вооружаетесь.
+<ce> Некто сохраняет дистанцию и окликает.
 <ce>
-<ce> "Halt, adventurers! This cemetery is under my protection.
-<ce> I will allow no further raids upon it! Let the dead rest, and
-<ce> their belongings remain undisturbed!"
+<ce> "Стойте, искатели приключений! Это кладбище находится под
+<ce> моей защитой. Я не позволю больше совершать набеги на него!
+<ce> Пусть мертвые покоятся, а их вещи остаются нетронутыми!"
 <ce>
-<ce> _fighter_ shouts, "You slew my friends who came
-<ce> before me! You deserve no mercy, bloodsucker! You will die!"
+<ce> _fighter_ кричит: "Ты убил моих друзей, которые пришли
+<ce> до меня! Ты не заслуживаешь пощады, кровосос! Ты умрешь!"
 <ce>
-<ce> You ask the vampire why it has taken this form and get
-<ce> a confused response. "I don't understand what you mean.
-<ce> I am a vampire, who defends the remains of my family."
+<ce> Вы спрашиваете вампира, почему он принял такую форму,
+<ce> и получаете растерянный ответ. "Я не понимаю, что вы имеете
+<ce> в виду. Я вампир, который защищает останки своей семьи".
 
 Message:  1012
-<ce> Now outnumbered, _fighter_
-<ce> fights all the more desperately.
+<ce> Оказавшись в меньшинстве, _fighter_
+<ce> сражается еще отчаяннее.
 
 Message:  1013
-<ce> The vampire hisses, preparing for battle.
+<ce> Вампир шипит, готовясь к битве.
 
 Message:  1014
-<ce> _fighter_ sighs. "I'm glad you saw
-<ce> things my way. Monsters like this shouldn't exist.
-<ce> I'll have to come back here with my cart so we can
-<ce> start looting this place. Here, take your money."
+<ce> _fighter_ вздыхает. "Я рад, что вы приняли мою точку
+<ce> зрения. Таких монстров не должно существовать. Мне
+<ce> придется вернуться сюда с телегой, чтобы мы могли начать
+<ce> разграбление этого места. Вот, возьмите свои деньги".
 
 Message:  1015
-<ce> The vampire bows. "Your respect for the dead is commendable.
-<ce> I will take my leave shortly, and inform my kin of your deeds.
-<ce> Thank you, %ra, for showing me mercy."
+<ce> Вампир кланяется. "Ваше уважение к мертвым достойно
+<ce> похвалы. Я скоро уйду и сообщу своим сородичам о ваших
+<ce> деяниях. Спасибо, %ra, что проявили ко мне милосердие".
 <ce>
-<ce> You notice a conspicuous money pouch
-<ce> on _fighter_'s body, which must be your reward.
-<ce> Since %g1 won't be around to use it any longer...
+<ce> На теле _fighter_ вы замечаете мешочек с
+<ce> деньгами - должно быть, это ваша награда.
+<ce> И, поскольку %g1 уже не будет возражать...
 
 Message:  1016
-<ce> Both combatants are dead now. You see a conspicuous money pouch
-<ce> on _fighter_'s body, which must be your reward.
-<ce> Since %g1 won't be around to use it any longer...
+<ce> Оба противника теперь мертвы. На теле _fighter_
+<ce> вы замечаете мешочек с деньгами - должно быть, это ваша
+<ce> награда. И, поскольку %g1 уже не будет возражать...
 
 Message:  1017
-<ce> You needed to be at ___cemetery_ by now.
-<ce> _fighter_ huffs off angrily.
+<ce> Вы должны были уже быть в ___cemetery_.
+<ce> _fighter_ сердито фыркает.
 
 Message:  1018
-<ce> _fighter_ shakes %g2 head and turns to you.
-<ce> "I said that so you'd come out here.
-<ce> I didn't want to tell the guild the truth,
-<ce> so I made up stuff about a shapeshifter.
-<ce> Now stop talking."
-<ce> Then %g1 shouts at the vampire, "You will die now,
-<ce> as my friends died!"
+<ce> _fighter_ качает головой и поворачивается
+<ce> к вам. "Я сказал это, чтобы вы пришли
+<ce> сюда. Я не хотел говорить гильдии
+<ce> правду, вот и придумал про оборотня.
+<ce> А теперь хватит болтать".
+<ce> Затем %g1 кричит вампиру: "Ты сейчас
+<ce> умрешь, как умерли мои друзья!"
 <ce>
-<ce> The vampire looks at you with fear but summons courage.
-<ce> "I must defend my family. They are all I have left."
+<ce> Вампир смотрит на вас со страхом, но набирается храбрости.
+<ce> "Я должен защитить свою семью. Они - все, что у меня осталось".
 <ce>
-<ce> The two begin to fight. Will you side with the
-<ce> fighter (yes) or the vampire (no)?
+<ce> Эти двое начинают сражаться.
+<ce> Поможете ли вы бойцу (да) или вампиру (нет)?
 
 Message:  1030
 %qdt:
- _fighter_ has enlisted me, through
- the Fighters Guild of ___questgiver_, to
- help kill a shapeshifter that haunts the
- cemetery called ___cemetery_. We must
- get there in =timer_ days.
+ _fighter_ завербовал меня через Гильдию
+ Бойцов ___questgiver_. Нужно помочь
+ убить оборотня, который бродит по
+ кладбищу ___cemetery_. Мы должны
+ добраться туда за =timer_ дней.
 
 QBN:
 Item _reward_ gold range 300 to 500
