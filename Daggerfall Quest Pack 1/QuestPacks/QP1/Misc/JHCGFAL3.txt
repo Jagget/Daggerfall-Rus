@@ -1,6 +1,6 @@
 -- Cartographers Quest, Rank 3 Failsafe
 Quest: JHCGFAL3
-DisplayName: Гильдия Картографов. Ещё один шанс 3
+DisplayName: Гильдия Картографов. Еще один шанс 3
 -- Message panels
 QRC:
 
