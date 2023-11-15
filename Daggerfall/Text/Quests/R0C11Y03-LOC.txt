@@ -48,7 +48,7 @@ QuestComplete:  [1004]
 <ce> Выдающаяся работа, %pcf. Знаю,
 <ce> даэдришки не смогли остановить вас. Ваши
 <ce> выдающиеся снова показали себя. Спасибо
-<ce> вам, вот _reward_ золотых.
+<ce> вам, вот =reward_ золотых.
 
 --in 1004, changed _reward_ to =reward_ to ensure specific gold amount.
 
