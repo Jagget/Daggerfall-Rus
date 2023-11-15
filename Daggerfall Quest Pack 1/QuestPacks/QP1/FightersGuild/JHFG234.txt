@@ -1,53 +1,53 @@
 Quest: JHFG234
-DisplayName: The Fires of Oblivion
+DisplayName: Огни Обливиона
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> So it turns out there are two kinds of atronachs.
-<ce> One's the kind that comes from the great beyond,
-<ce> puppets of daedra and things like that.
-<ce> Then the Mages Guild studied them and started
-<ce> making copies of them as servants.
-<ce> We need someone to hunt down a real fire atronach
-<ce> from Oblivion itself. That interest you?
+<ce> Оказывается, существует два вида атронахов.
+<ce> Один - это те, что приходят из потустороннего
+<ce> мира, марионетки даэдра и тому подобное. Потом
+<ce> Гильдия Магов изучила их и стала создавать их
+<ce> копии в качестве слуг. Нам нужен кто-то, кто
+<ce> выследит настоящего огненного атронаха из
+<ce> самого Обливиона. Это вас заинтересовало?
 
 RefuseQuest:  [1001]
-<ce> It was worth a shot.
+<ce> Стоило попробовать.
 
 AcceptQuest:  [1002]
-<ce> It's not a major threat, but the real problem is
-<ce> that it's in a palace. Head over to ___place_
-<ce> and find it inside. Kill it and come back here for
-<ce> your =reward_ gold pieces. As long as
-<ce> you kill it in =timer_ days, you can take your
-<ce> time coming back.
+<ce> Он не представляет большой угрозы, но настоящая
+<ce> проблема в том, что он находится во дворце.
+<ce> Отправляйтесь в ___place_ и найдите его внутри.
+<ce> Убейте его и вернитесь сюда за =reward_ золотых.
+<ce> Если вы убъете его в течение =timer_ дней,
+<ce> то можете не торопиться с возвращением.
 
 QuestFail:  [1003]
-<ce> You needed to slay the atronach in ___place_ by now.
+<ce> К этому времени вам нужно было убить атронаха в ___place_.
 
 QuestComplete:  [1004]
-<ce> Not too tough, right %pcf? Maybe for some folks,
-<ce> but not for the Fighters Guild.
+<ce> Не слишком сложно, правда, %pcf? Может быть,
+<ce> для некоторых, но не для Гильдии Бойцов.
 
 Message:  1010
 %qdt:
- The Fighters Guild of
- ___qgiver_ has sent me to
- ___place_ to slay a fire atronach
- in _place_ within =timer_ days.
- I can then return for my reward any time.
+ Гильдия Бойцов ___qgiver_ направила
+ меня в ___place_ для уничтожения
+ огненного атронаха в _place_
+ в течение =timer_ дней. Затем я могу
+ вернуться за наградой в любое время.
 
 Message:  1011
-<ce> The blistering heat in the room starts to die down
-<ce> as the atronach ceases moving. Your work is done.
+<ce> Невыносимая жара в комнате начинает спадать, когда атронах
+<ce> перестает двигаться. Ваша работа выполнена.
 
 Message:  1012
 <ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Выносливость)
 <ce>
-<ce> This atronach has clearly come straight from Oblivion.
-<ce> Fiery tendrils reach out and rake your skin,
-<ce> causing you significant pain.
+<ce> Этот атронах явно пришел прямо из Обливиона.
+<ce> Огненные щупальца тянутся к вам и терзают
+<ce> кожу, причиняя сильную боль.
 
 QBN:
 Item _reward_ gold range 200 to 300

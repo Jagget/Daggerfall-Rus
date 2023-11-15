@@ -1,61 +1,61 @@
 Quest: JHFG235
-DisplayName: Clattering Bones
+DisplayName: Грохочущие кости
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Some idiot in town thought
-<ce> he'd try to raise his grandparents from the dead.
-<ce> I mean, I get the feeling, and we miss our families, right?
-<ce> But now they're a pair of angry skeletons walking
-<ce> around the house, and he's paying money to get them
-<ce> dead... again. Interested, %pcf?
+<ce> Какой-то идиот в городе решил попробовать
+<ce> воскресить из мертвых своих бабушку и дедушку.
+<ce> Я, конечно, понимаю, мы скучаем по своим родным,
+<ce> верно? Но теперь они - пара злобных скелетов,
+<ce> разгуливающих по дому, и он платит деньги за то,
+<ce> чтобы они умерли... снова. Заинтересовались, %pcf?
 
 RefuseQuest:  [1001]
-<ce> I don't blame you, skeletons are not
-<ce> as easy as they sound.
+<ce> Я вас не виню, со скелетами
+<ce> не все так просто, как кажется.
 
 AcceptQuest:  [1002]
-<ce> You're looking for _place_, which is...
-<ce> um, %di. Yeah, now I remember.
-<ce> You're gonna find both skeletons inside, and
-<ce> you'll get paid when they're both dead.
-<ce> We normally charge less for a local job, but
-<ce> he really wanted it to be done in 24 hours,
-<ce> so that's your time limit. This is worth =reward_
-<ce> gold pieces for you. Also, I'm hoping
-<ce> you've got a blunt weapon or something, because
-<ce> blades don't do jack to solid bone.
-<ce> Might want to stop by the store if you feel confident
-<ce> holding one. Anyway, that's enough from me.
+<ce> Вам нужно в _place_, это... гм, на %di.
+<ce> Да, теперь я вспомнил. Вы найдете обоих
+<ce> скелетов внутри, и вам заплатят, когда они
+<ce> оба будут мертвы. Обычно мы берем меньше за
+<ce> местную работу, но он очень хотел, чтобы все
+<ce> было сделано за 24 часа, так что это ваше
+<ce> ограничение по времени. Вы получите =reward_
+<ce> золотых. Также я надеюсь, что у вас есть тупое
+<ce> оружие или что-то в этом роде, потому что
+<ce> лезвия не пробивают твердую кость. Возможно,
+<ce> вам стоит заглянуть в магазин. В любом случае,
+<ce> я все сказал.
 
 QuestFail:  [1003]
-<ce> You needed to return from slaying
-<ce> the skeletons in _place_ by now.
+<ce> Вам уже нужно было вернуться после
+<ce> убийства скелетов в _place_.
 
 QuestComplete:  [1004]
-<ce> Excellent work, %pcf. This is why
-<ce> we count on you. Have your gold.
+<ce> Отличная работа, %pcf. Вот почему мы
+<ce> рассчитываем на вас. Получайте свое золото.
 
 Message:  1010
 %qdt:
- The Fighters Guild of
- ___qgiver_ has sent me to
- _place_ to kill two skeletons.
- I have 24 hours to return for
- =reward_ gold pieces.
+ Гильдия Бойцов ___qgiver_
+ отправила меня в _place_ для
+ убийства двух скелетов.
+ У меня есть 24 часа, чтобы
+ вернуться за =reward_ золотых.
 
 Message:  1011
-<ce> You've destroyed both skeletons.
-<ce> The client probably won't be messing around with
-<ce> necromancy any more after this incident.
+<ce> Вы уничтожили оба скелета. Клиент,
+<ce> вероятно, больше не будет связываться
+<ce> с некромантией после этого инцидента.
 
 Message:  1012
 <ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Ловкость)
 <ce>
-<ce> One of the dangers of fighting multiple foes is that
-<ce> you risk being stabbed in the back. With unique intelligence,
-<ce> one of the skeletons finds an opportunity to do just that.
+<ce> Одна из опасностей борьбы с несколькими противниками заключается в том,
+<ce> что вы рискуете получить удар в спину. Обладая некоторым интеллектом,
+<ce> один из скелетов находит возможность сделать именно это.
 
 QBN:
 Item _reward_ gold range 200 to 250

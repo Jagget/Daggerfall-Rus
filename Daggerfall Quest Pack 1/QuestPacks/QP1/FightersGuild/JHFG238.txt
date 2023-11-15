@@ -1,45 +1,45 @@
 Quest: JHFG238
-DisplayName: The Unwanted Thief
+DisplayName: Нежеланный вор
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We've got an order from the %rt telling us to get rid
-<ce> of some member of the Thieves Guild here in town.
-<ce> Hangs out in a shop, I guess as a cover story.
-<ce> It doesn't pay much, but it's pretty easy.
-<ce> Want it?
+<ce> %rt отдали приказ избавиться от одного члена
+<ce> Гильдии Воров в этом городе. Околачивается в
+<ce> магазине, думаю, для прикрытия. Платят не
+<ce> очень много, но это довольно простой контракт.
+<ce> Хотите?
 
 RefuseQuest:  [1001]
-<ce> You're not afraid of the Thieves Guild, are you %pct?
+<ce> Вы ведь не боитесь Гильдии Воров, не так ли, %pct?
 
 AcceptQuest:  [1002]
-<ce> Great! I was worried about this one.
-<ce> Glad to get someone on it.
-<ce> I'm signing the order now, which means
-<ce> you've got 24 hours to get to _res_
-<ce> and kill this thief, whoever he or she is.
-<ce> Probably gonna be pretty easy to spot.
-<ce> Just get back in one piece, I'll have _gold_
-<ce> gold pieces here for you, straight from the %rt.
+<ce> Отлично! Я беспокоился об этом. Рад, что
+<ce> кто-то этим занялся. Я подписываю контракт,
+<ce> а это значит, что у вас есть 24 часа, чтобы
+<ce> добраться до _res_ и убить этого вора, кем
+<ce> бы он ни был. Вероятно, его будет довольно
+<ce> легко обнаружить. Только вернитесь целым и
+<ce> невредимым, у меня будут для вас
+<ce> _gold_ золотых, прямо из казны.
 
 QuestFail:  [1003]
-<ce> Your contract to slay the thief
-<ce> in _res_ has gone delinquent.
+<ce> Ваш контракт на убийство вора
+<ce> в _res_ просрочен.
 
 QuestComplete:  [1004]
-<ce> Yeah, the Thieves Guild aren't much
-<ce> of fighters. If they'd just come on over we could
-<ce> teach 'em how to brawl, but you know how it is.
-<ce> Underworld temptations and all that.
-<ce> Well, enough rambling. Here's your gold.
+<ce> Да, Гильдия Воров не очень-то любит воевать.
+<ce> Если бы они просто пришли к нам, мы бы научили
+<ce> их драться, но вы же знаете, как это бывает.
+<ce> Соблазны преступного мира и все такое.
+<ce> Ну, хватит болтать. Вот ваше золото.
 
 Message:  1010
-<ce> You hear rustling and some nervous talk.
-<ce> Your presence here is definitely noticed.
+<ce> Вы слышите шорохи и какие-то нервные разговоры.
+<ce> Ваше присутствие здесь определенно замечено.
 
 Message:  1011
-<ce> The thief is slain, and you are yet alive.
+<ce> Вор убит, а вы еще живы.
 
 Message:  1030
 %qdt:

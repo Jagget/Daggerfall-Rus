@@ -1,55 +1,55 @@
 Quest: JHFG236
-DisplayName: The Wayward Wizard
+DisplayName: Своенравный волшебник
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Some conjurer took to a cave
-<ce> and sends out his golems to attack passers by,
-<ce> delivering him their loot when they die or surrender.
-<ce> The %t's backing this contract to kill the wizard,
-<ce> and is offering an enchanted item for doing it.
+<ce> Некий призыватель уединился в пещере и посылает
+<ce> своих големов нападать на прохожих. Когда они
+<ce> умирают или сдаются, големы доставляют ему добычу.
+<ce> %t спонсируют этот контракт на убийство волшебника,
+<ce> и предлагают за это заколдованный предмет.
 
 RefuseQuest:  [1001]
-<ce> Magical items are really good though, you'll see.
+<ce> Иногда магические предметы действительно хороши, вот увидите.
 
 AcceptQuest:  [1002]
-<ce> Well then, let me mark ___dung_ on your map.
-<ce> I don't know how hard a wizard like that is to kill,
-<ce> but those atronachs are gonna pack a punch.
-<ce> Try not to spend too much time in the cave.
-<ce> Sleep outside if you have to, so they don't come
-<ce> hunting you. Be back here in =timer_ days with the
-<ce> news of the wizard's death, and I'll have your _item_
-<ce> ready and waiting.
+<ce> Что ж, тогда позвольте мне отметить ___dung_
+<ce> на вашей карте. Не знаю, насколько сложно убить
+<ce> такого волшебника, но эти атронахи наносят большой
+<ce> урон. Постарайтесь не проводить в пещере слишком
+<ce> много времени. Если нужно, спите снаружи, чтобы
+<ce> они не пришли на вас охотиться. Вернитесь сюда
+<ce> через =timer_ дней с известием о смерти
+<ce> волшебника, и я подготовлю для вас _item_.
 
 QuestFail:  [1003]
-<ce> The Fighters Guild needed you to report killing
-<ce> the conjurer of ___dung_ by now.
+<ce> Гильдии Бойцов нужно было, чтобы к этому времени вы уже сообщили
+<ce> об убийстве призывателя из ___dung_.
 
 QuestComplete:  [1004]
-<ce> Ha, I knew you'd do it! Yeah, good work.
-<ce> The Fighters Guild won't be beaten by
-<ce> some schmuck of a mage. And now, your reward.
+<ce> Ха, я знал, что вы это сделаете! Да, хорошая работа.
+<ce> Гильдия Бойцов не потерпит поражения от какого-то
+<ce> придурка-мага. А теперь - ваша награда.
 
 QuestorPostfailure:  [1009]
 
 Message:  1010
 %qdt:
- _qgiver_ in ___qgiver_
- assigned me a contract
- from ____qgiver_'s nobility to
- kill a conjurer in a hole
- called ___dung_. If I
- return within =timer_ days,
- I'll get an enchanted _item_.
+ _qgiver_ из ___qgiver_ поручил
+ мне контракт от властей региона
+ ____qgiver_ на убийство колдуна
+ в подземелье под названием
+ ___dung_. Если я вернусь
+ в течение =timer_ дней, то получу
+ зачарованный _item_.
 
 Message:  1011
-<ce> You can feel strong magic in the air.
-<ce> The conjurer is somewhere in here.
+<ce> Вы чувствуете сильную магию
+<ce> в воздухе. Колдун где-то здесь.
 
 Message:  1012
-<ce> With the mage dead, the atronachs will stop hunting you.
+<ce> После смерти мага атронахи перестанут охотиться на вас.
 
 QBN:
 Person _qgiver_ group Questor male

@@ -1,98 +1,98 @@
 Quest: JHFG237
-DisplayName: Repaying the Dark Brotherhood
+DisplayName: Возмездие Темному Братству
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Okay, so, this one. It's for killing a person,
-<ce> but let me give you the background first.
-<ce> The old lady who's paying us is a widow
-<ce> with only one son... well, HAD one son.
-<ce> The Dark Brotherhood got him, and now that
-<ce> she's destitute, she's using
-<ce> her savings for vengeance. That motivate you?
+<ce> Итак, вот контракт. Он на убийство человека, но
+<ce> сначала позвольте мне рассказать вам предысторию.
+<ce> Старушка, которая нам платит, - вдова
+<ce> с единственным сыном... ну, у нее был сын. Темное
+<ce> Братство убрало его, и теперь, когда она осталась
+<ce> без средств к существованию, она использует свои
+<ce> сбережения для мести. Это вас мотивирует?
 
 RefuseQuest:  [1001]
-<ce> I guess it takes the right kind of person.
+<ce> Думаю, для этого нужен правильный человек.
 
 AcceptQuest:  [1002]
-<ce> Okay, well, watch your back. The Dark Brotherhood
-<ce> ain't known for selling flowers or doing chores.
-<ce> You're gonna find the perp in ___res_.
-<ce> Ask around until you find _res_, and get it done.
-<ce> When you're finished, come back to ___tav_
-<ce> and find _woman_ at _tav_.
-<ce> That's where she's living 'til her savings run out.
-<ce> Go pick up your =reward_ gold pieces from her before =timer_ days,
-<ce> that's the limit on this contract. Stay safe.
+<ce> Ладно, но будьте начеку. Темное Братство не
+<ce> славится продажей цветов или выполнением домашней
+<ce> работы. Вы найдете преступника в ___res_.
+<ce> Поспрашивайте, пока не найдете _res_, и займитесь
+<ce> делом. Когда закончите, возвращайтесь в ___tav_
+<ce> и найдите _woman_ в _tav_. Там она живет,
+<ce>  пока незакончатся ее сбережения. Получите у нее свои
+<ce> =reward_ золотых до истечения =timer_ дней, это
+<ce> предел по этому контракту. Будьте осторожны.
 
 QuestFail:  [1003]
-<ce> Your contract for the widow at _tav_,
-<ce> _woman_, has expired.
+<ce> Ваш контракт с вдовой из _tav_,
+<ce> _woman_, истек.
 
 QuestComplete:  [1004]
-<ce> _woman_ is overjoyed that justice has been done.
+<ce> _woman_ счастлива, что справедливость восторжествовала.
 
 Message:  1010
 %qdt:
- The Fighters Guild of
- ___tav_ has sent me to
- ___res_ to slay a Dark Brotherhood member
- in _res_. Afterwards, I am to claim my
- =reward_ gold pieces from _woman_, who
- stays at _tav_ here in ___tav_.
- The contract is void after =timer_ days.
+ Гильдия Бойцов ___tav_ отправила меня
+ в ___res_, чтобы убить члена Темного
+ Братства в _res_. После этого
+ я должен получить =reward_ золотых
+ у _woman_, которая остановилась
+ в _tav_, ___tav_. Контракт
+ недействителен по истечении =timer_ дней.
 
 Message:  1011
 <ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Ловкость)
 <ce>
-<ce> Paranoia and precaution go hand in hand with the Brotherhood.
-<ce> There's a trap guarding the entrance to this house,
-<ce> and you're too clumsy to avoid it.
-<ce> Painful barbs dig into your skin,
-<ce> coated with a dark liquid.
+<ce> В Братстве паранойя и осторожность идут
+<ce> рука об руку. Вход в этот дом охраняет
+<ce> ловушка, и вы слишком неуклюжи, чтобы
+<ce> избежать ее. Колючки, покрытые темной
+<ce> жидкостью, болезненно впиваются в кожу.
 
 Message:  1012
-<ce> The widow has been avenged.
+<ce> Вдова была отомщена.
 
 Message:  1013
 <ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Ловкость)
 <ce>
-<ce> Paranoia and precaution go hand in hand with the Brotherhood.
-<ce> There's a trap guarding the entrance to this house,
-<ce> but you artfully dodge it.
-<ce> It's a good thing, too; those spiked barbs would have
-<ce> done real damage to your neck.
+<ce> В Братстве паранойя и осторожность идут
+<ce> рука об руку. Вход в этот дом охраняет
+<ce> ловушка, но вы ловко уворачиваетесь от нее.
+<ce> И это хорошо: шипы могли бы сильно
+<ce> повредить шею.
 
 Message:  1014
-<ce> You introduce yourself to _woman_
-<ce> and detail how you disposed of her son's assassin.
-<ce> Relief washes over her.
+<ce> Вы подходите к _woman_ и рассказываете,
+<ce> как вы расправились с убийцей ее сына.
+<ce> Ее охватывает облегчение.
 <ce>
-<ce> "Oh, thank you, thank you, %ra.
-<ce> To think I'll be able to pass on without burdens to carry!
-<ce> The Fighters Guild are champions of us
-<ce> common folk. Here, let me get that gold for you."
+<ce> "О, спасибо, спасибо, %ra. Подумать только, я смогу
+<ce> спокойно уйти из жизни без этого тяжкого бремени!
+<ce> Гильдия Бойцов защищает нас, простых людей. Вот,
+<ce> позвольте мне отдать вам это золото".
 <ce>
-<ce> She begins rummaging for your =reward_ gold pieces.
-<ce> Knowing that she's destitute and likely on her last
-<ce> few coins, you could tell her to keep the money instead.
-<ce> Will you accept her payment?
+<ce> Она начинает рыться в карманах, чтобы найти ваши
+<ce> =reward_ золотых. Зная, что она нищая и, скорее всего,
+<ce> это ее последние деньги, вы можете сказать ей, чтобы
+<ce> она оставила деньги себе. Примете ли вы ее плату?
 
 Message:  1015
-<ce> You take the money she offers you.
-<ce> The guild isn't a charity, and lowering your price
-<ce> could impair other members' possibilities to make a living.
-<ce> Besides, you worked for this money.
+<ce> Вы берете деньги, которые она вам предлагает. Гильдия -
+<ce> не благотворительная организация, и снижение цены может
+<ce> негативно сказаться на возможности других членов зарабатывать
+<ce> на жизнь. Кроме того, вы заработали эти деньги.
 
 Message:  1016
-<ce> You tell _woman_ that the money won't be necessary.
-<ce> She blinks in confusion, and then tries to hide her tears
-<ce> of gratitude. Without further explanation, she merely smiles
-<ce> at you and puts the coins back in her purse, saying,
+<ce> Вы говорите _woman_, что вы не возьмете деньги. Она
+<ce> растерянно моргает, а затем пытается скрыть слезы
+<ce> благодарности. Без дальнейших объяснений она просто
+<ce> улыбается вам, кладет монеты обратно в карман и говорит,
 <ce>
-<ce> "I still have some connections to the merchants here in %crn.
-<ce> They'll be hearing about you and your kindness."
+<ce> "У меня еще есть связи с купцами здесь, в %crn.
+<ce> Они услышат о вас и вашей доброте".
 
 QBN:
 Item _reward_ gold range 300 to 400
