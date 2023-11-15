@@ -816,7 +816,7 @@ repairDays,%d дней
 interruptRepair,Забрать предмет до его ремонта?
 repairNote,Оставил {0} на ремонт в {1}.
 doesntNeedIdentify,Это не требует идентификации.
-goldAmount,{0} золота
+goldAmount,{0} золотых
 goldWeight,Вес: {0} кг
 letterOfCredit,Вы получаете оплату по аккредитиву.
 stealSuccess,Вы успешны.
