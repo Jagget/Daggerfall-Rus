@@ -1,54 +1,54 @@
 Quest: JHFG216
-DisplayName: Bad Element Removal
+DisplayName: Удаление слабого звена
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Hey %pcf, let me tell you about this one in secret.
-<ce> I wish it didn't come to this, but it's gotta happen
-<ce> every once in a while. The guild's got a member who's
-<ce> into some really shady business, stuff that shouldn't
-<ce> touch our good name. The problem is that the fool
-<ce> hasn't broken any actual rules so we've got to
-<ce> put up with this bad behavior. But if someone from
-<ce> out here went over there to take care of the problem,
-<ce> everyone would be a lot happier, right? Can I count
-<ce> on you for something like this?
+<ce> Эй, %pcf, позвольте мне рассказать вам один секрет.
+<ce> Я бы хотел, чтобы до этого не доходило, но это происходит
+<ce> время от времени. У нас в гильдии есть член, который
+<ce> занимается очень сомнительными делами, такими, которые
+<ce> не должны затрагивать наше доброе имя. Проблема в том,
+<ce> что этот дурак не нарушил никаких реальных правил,
+<ce> и нам приходится мириться с его плохим поведением.
+<ce> Но если бы кто-то из местных отправился туда и разобрался
+<ce> с проблемой, все были бы намного счастливее, верно?
+<ce> Могу ли я рассчитывать на вас в подобном случае?
 
 RefuseQuest:  [1001]
-<ce> Just do me a favor and don't tell anyone, all right?
+<ce> Только сделайте мне одолжение и никому не говорите, хорошо?
 
 AcceptQuest:  [1002]
-<ce> All right then, be quick and be quiet. Get to
-<ce> ___fg_. With any luck you'll find our
-<ce> former friend in the guild hall over there.
-<ce> Just be done with it quickly and come back here.
-<ce> This is an official guild job so you're gonna get
-<ce> paid =reward_ gold, but we do some complicated writing
-<ce> to make sure you're free of blame. Come back
-<ce> in =timer_ days when you're done.
+<ce> Хорошо, тогда действуйте быстро и тихо. Отправляйтесь
+<ce> в ___fg_. Если повезет, вы найдете нашего бывшего
+<ce> друга в зале гильдии. Просто быстро покончите с этим
+<ce> и возвращайтесь сюда. Это официальное задание
+<ce> гильдии, поэтому вам заплатят =reward_ золотых,
+<ce> но мы немного усложним текст контракта, чтобы убедиться,
+<ce> что на вас не повесят вину. Возвращайтесь
+<ce> через =timer_ дней, когда закончите.
 
 QuestFail:  [1003]
-<ce> _qgiver_ asked you to eliminate the rogue member by now.
+<ce> _qgiver_ просил вас уже устранить участника-изгоя.
 
 QuestComplete:  [1004]
-<ce> Anyone over there put up a fuss? No?
-<ce> Proof's in the pudding, as they say.
-<ce> Here's your gold. Your secret's safe.
+<ce> Кто-нибудь там поднял шум? Нет?
+<ce> Концы, как говорится, в воду. Вот ваше золото.
+<ce> Ваш секрет в безопасности.
 
 RumorsDuringQuest:  [1005]
-The merchants are going to strike if the %t increases their taxes again.
+Купцы собираются бастовать, если %t снова повысят налоги.
 
 Message:  1020
-<ce> You have slain the disreputable guild member.
+<ce> Вы расправились с непорядочным членом гильдии.
 
 Message:  1030
 %qdt:
- _qgiver_ has tasked me with
- going to ___fg_ to get rid
- of an errant Fighters Guild member.
- I should be back in ___qgiver_
- within =timer_ days' time.
+ _qgiver_ поручил мне отправиться
+ в ___fg_, чтобы избавиться от
+ нерадивого члена Гильдии Бойцов.
+ Я должен вернуться в ___qgiver_
+ в течение =timer_ дней.
 
 QBN:
 Item _reward_ gold

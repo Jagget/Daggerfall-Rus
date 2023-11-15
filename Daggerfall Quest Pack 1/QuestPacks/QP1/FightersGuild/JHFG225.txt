@@ -1,92 +1,92 @@
 Quest: JHFG225
-DisplayName: Find the Mage
+DisplayName: Найти мага
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> The Mages Guild is looking for someone
-<ce> to go rescue one of their own that got
-<ce> lost out in some cave. It'll pay like
-<ce> any other job and you'll get in good with
-<ce> them and us. Wanna take it?
+<ce> Гильдия Магов ищет кого-нибудь, кто мог бы
+<ce> отправиться спасать одного из них, заблудившегося
+<ce> в какой-то пещере. Заплатят, как за любую другую
+<ce> работу, и вы будете в хороших отношениях и с ними
+<ce> и с нами. Хотие взять заказ?
 
 RefuseQuest:  [1001]
-<ce> Yeah, they're a pretty pompous bunch.
+<ce> Да, они довольно напыщенные люди.
 
 AcceptQuest:  [1002]
-<ce> Head on down to ___dung_.
-<ce> I'll mark it on your map. If you can bring
-<ce> _scholar_ here in =timer_ days
-<ce> I'll have =reward_ gold for you. Don't
-<ce> worry about whatever the mage
-<ce> was doing. Your one job is to get
-<ce> %g2 and yourself back here alive.
+<ce> Отправляйтесь в ___dung_. Я отмечу это
+<ce> на вашей карте. Если вы сможете привести
+<ce> сюда _scholar_
+<ce> в течение =timer_ дней, вы получите
+<ce> =reward_ золотых. Не беспокойтесь о том,
+<ce> что делал маг. Ваша единственная задача -
+<ce> доставить вас обоих сюда живыми.
 
 QuestFail:  [1003]
-<ce> I see you, but where's _scholar_?
+<ce> Я вижу вас, но где же _scholar_?
 
 QuestComplete:  [1004]
-<ce> Hey, _scholar_, glad to see
-<ce> you above ground! I'm _qgiver_.
-<ce> %pcf and I are from the Fighters Guild.
-<ce> You head on back home and remember who
-<ce> kept you safe, you hear now?
+<ce> Привет, _scholar_, рад видеть
+<ce> вас на поверхности! Я _qgiver_.
+<ce> Мы с %pcf из Гильдии Бойцов.
+<ce> Возвращайтесь домой и помните,
+<ce> кто оберегал вас, поняли?
 <ce>
-<ce> Great job getting the job done.
-<ce> These people have families, you know.
-<ce> I wish I could pay you more.
+<ce> Отличная работа. У этих людей,
+<ce> знаете ли, есть семьи. Жаль, что
+<ce> я не могу платить вам больше.
 
 Message:  1010
-<ce> Who's there?! %oth. Well met,
-<ce> %pct. I have spent weeks searching
-<ce> for a missing atronach fruitlessly.
-<ce> The hideous creature has probably
-<ce> long departed this foul hole.
-<ce> Yes, it's high time we return
-<ce> to the civilized world. Lead the way.
+<ce> Кто там?! %oth. Приятно
+<ce> познакомиться, %pct. Я уже несколько
+<ce> недель безрезультатно ищу пропавшего
+<ce> атронаха. Отвратительное создание,
+<ce> вероятно, уже давно покинуло эту
+<ce> дыру. Да, нам пора возвращаться в
+<ce> цивилизованный мир. Ведите.
    <--->
-<ce> Who's there?! %oth. Well met, %ra.
-<ce> I have been here far too long.
-<ce> I've convinced myself that the
-<ce> _dummy_ I was sent to find
-<ce> does not exist at all. Please,
-<ce> lead the way to the civilized world.
+<ce> Кто там?! %oth. Приятно
+<ce> познакомиться, %ra. Я пробыл здесь
+<ce> слишком долго. Я убедил себя, что
+<ce> _dummy_, который меня послали найти,
+<ce> вообще не существует. Пожалуйста,
+<ce> веди меня в цивилизованный мир.
    <--->
-<ce> Aha! Oh. Well met, %ra.
-<ce> Did the Mages Guild send you to
-<ce> search for a lost scroll too?
-<ce> Oh, a recall order. Well, I can
-<ce> do that too. Show me the way to
-<ce> the exit, good friend.
+<ce> Аха! О. Приятно познакомиться, %ra.
+<ce> Гильдия Магов тоже отправила вас на
+<ce> поиски потерянного свитка? О, приказ
+<ce> об отзыве. Ну, это я тоже могу
+<ce> сделать. Покажите мне дорогу
+<ce> к выходу, добрый друг.
    <--->
-<ce> Ho! Good day, friend. I've been
-<ce> searching for weeks for a mummy
-<ce> possessing superlatively fresh
-<ce> wrappings, and simply cannot find it.
-<ce> The Mages Guild likely has no further
-<ce> use for them at this point, to
-<ce> be honest. I agree, we should
-<ce> find a way out of this place.
+<ce> Хо! Добрый день, друг. Я уже
+<ce> несколько недель ищу мумию
+<ce> в суперсвежих обертках и никак
+<ce> не могу найти. Гильдия Магов,
+<ce> скорее всего, больше
+<ce> не нуждается в них. Согласен,
+<ce> нам следует найти выход
+<ce> из этого места.
 
 Message:  1011
 <ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Удача)
 <ce>
-<ce> As luck would have it, the scholar is near the
-<ce> entrance to ___dung_. _scholar_ says,
+<ce> По счастливой случайности ученый оказался возле входа
+<ce> в ___dung_. _scholar_ говорит:
 <ce>
-<ce> "Are you from the Fighters Guild?
-<ce> Oh my! I just now found the exit and wondered if
-<ce> I had the courage to make it on my own. Please,
-<ce> lead the way to ___qgiver_!"
+<ce> "Вы из Гильдии Бойцов? О боже! Я только сейчас
+<ce> нашел выход и думаю, хватит ли у меня смелости
+<ce> добраться до ___qgiver_ самостоятельно.
+<ce> Пожалуйста, укажите мне путь!".
 
 Message:  1030
 %qdt:
- __qgiver_ of ___qgiver_
- will pay me =reward_ gold if I can
- find _scholar_, a member of
- the Mages Guild who's lost in
- ___dung_. I should be
- back in =timer_ days.
+ __qgiver_ из ___qgiver_
+ платит мне =reward_ золотом, если я смогу
+ найти _scholar_, члена
+ Гильдии Магов, который заблудился в
+ ___dung_. Мне нужно
+ вернуться через =timer_ дней.
 
 QBN:
 Item _reward_ gold

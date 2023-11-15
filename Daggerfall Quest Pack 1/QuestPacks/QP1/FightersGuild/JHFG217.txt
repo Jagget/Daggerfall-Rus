@@ -1,60 +1,60 @@
 Quest: JHFG217
-DisplayName: Wickedness in High Places
+DisplayName: Злодейство в высших кругах
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> The %t's commissioned us to knock off a Necromancer
-<ce> who also happens to be a high-ranking member of
-<ce> the Mages Guild. Wanna get this one off our backs?
+<ce> %t поручили нам расправиться с некромантом, который
+<ce> также является высокопоставленным членом Гильдии
+<ce> Магов. Хочешь избавить нас от этого контракта?
 
 RefuseQuest:  [1001]
-<ce> %oth. Well, someone's gotta do it.
+<ce> %oth. Ну кто-то же должен это сделать.
 
 AcceptQuest:  [1002]
-<ce> Cool, cool. Well, not much else to say. Necromancers
-<ce> are usually the Mages Guild's responsibility but they're
-<ce> denying this one outright. Probably a matter of utility
-<ce> than loyalty, knowing them. But I'll stop talking.
-<ce> Head out to ___poorhome_. Get ready
-<ce> to fight some undead while you're there. They told us
-<ce> to have this done in =timer_ days, so get back here
-<ce> by then for your money.
+<ce> Круто, круто. Ну, больше сказать нечего. Некроманты
+<ce> обычно находятся в ведении Гильдии Магов, но этого
+<ce> они категорически отрицают. Зная их, это вопрос
+<ce> полезности, а не лояльности. Но я молчу.
+<ce> Отправляйтесь в ___poorhome_. Приготовьтесь
+<ce> сразиться с нежитью, когда будете там. Нам сказали,
+<ce> что все должно быть готово в течение =timer_ дней,
+<ce> затем возвращайтесь сюда за своими деньгами.
 
 QuestFail:  [1003]
-<ce> The %t needed to know that the Necromancer of
-<ce> ___poorhome_ had been slain by now.
+<ce> К настоящему времени %t должны были уже узнать,
+<ce> что некромант из ___poorhome_ убит.
 
 QuestComplete:  [1004]
-<ce> Hey, glad to see you back. Necromancers can
-<ce> be tough, but the Fighters Guild is tougher.
-<ce> Thanks for being such a great example of
-<ce> what we do. Take this.
+<ce> Привет, рад, что вы вернулись. Некроманты могут
+<ce> быть суровыми, но Гильдия Бойцов еще суровее.
+<ce> Спасибо за то, что вы являетесь таким прекрасным
+<ce> примером того, что мы делаем. Возьмите это.
 
 Message:  1010
-<ce> Your instrusion to the property is noted.
-<ce> The tenant, meditating outside, stands up and
-<ce> begins to chant in a discordant tongue.
+<ce> Ваше вторжение на частную территорию принято к
+<ce> сведению. Жилец, медитирующий на улице, встает
+<ce> и начинает что-то начитывать на непонятном языке.
 
 Message:  1011
-<ce> The Necromancer has been slain.
-<ce> _qgiver_ needs to report the act to the %t.
+<ce> Некромант убит. %t должны
+<ce> получить отчет от _qgiver_ об этом.
 
 Message:  1012
 <ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Удача)
 <ce>
-<ce> The Necromancer's summoning spells fail.
-<ce> "W-why?! What is happening?!"
+<ce> У некроманта не работают заклинания вызова.
+<ce> "Почему?! Что происходит?!"
 <ce>
-<ce> Sometimes luck is on your side.
+<ce> Иногда удача на вашей стороне.
 
 Message:  1030
 %qdt:
- The Fighters Guild of ___qgiver_
- assigned me to slay a Necromancer,
- member of the Mages Guild, living in
- ___poorhome_. I have =timer_
- days to report on it.
+ Гильдия Бойцов ___qgiver_
+ поручила мне уничтожить некроманта,
+ члена Гильдии Магов, живущего
+ в ___poorhome_. У меня есть
+ =timer_ дней, чтобы доложить об этом.
 
 QBN:
 Foe _q1_ is Skeletal_warrior
