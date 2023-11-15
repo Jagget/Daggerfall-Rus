@@ -1,5 +1,6 @@
 Quest: JHFGC04
 DisplayName: Гильдия Бойцов. Последствия. Квест 4
+-- После JHFG118
 -- Message panels
 QRC:
 

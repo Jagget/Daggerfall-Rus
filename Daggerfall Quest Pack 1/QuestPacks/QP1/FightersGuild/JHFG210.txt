@@ -1,68 +1,68 @@
 Quest: JHFG210
-DisplayName: Eight-Legged Freaks
+DisplayName: Восьминогие уроды
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> ___captive_ is having some problems
-<ce> with venomous critters in its streets.
-<ce> Wanna go? It's paying =reward_ gold.
+<ce> В ___captive_ возникли некоторые проблемы
+<ce> с ядовитыми тварями. Хотите пойти?
+<ce> За это платят =reward_ золотых.
 
 RefuseQuest:  [1001]
-<ce> You one of those types that's allergic to paralysis?
-<ce> That'd be a problem, I think.
+<ce> Вы один из тех, у кого аллергия на паралич?
+<ce> Я думаю, это было бы проблемой.
 
 AcceptQuest:  [1002]
-<ce> You just have to kill as many as'll stop 'em
-<ce> from spreading more, however many that is.
-<ce> Don't let yourself get frozen up with their poison,
-<ce> and make sure you don't hit any of the people.
-<ce> Maybe you wanna do it at night. Get it done in
-<ce> =2captive_ days, but you can take your time getting
-<ce> here after that. That's ___captive_, remember.
+<ce> Вам нужно убить достаточно, чтобы помешать им
+<ce> распространиться дальше, сколько бы это ни было.
+<ce> Не позволяйте им обездвижить вас ядом и следите
+<ce> за тем, чтобы не задеть никого из людей.
+<ce> Возможно, вы захотите работать по ночам. Сделай
+<ce> это за =2captive_ дней, но после этого можете не
+<ce> торопиться. Это в ___captive_, запомните.
 
 QuestFail:  [1003]
-<ce> ___captive_ needed its infestation cleared out by now.
+<ce> ___captive_ уже должен был очиститься от заразы.
 
 QuestComplete:  [1004]
-<ce> Pretty easy, %pcf? Or what did you think? A lot of
-<ce> people hate fighting those critters. The guild couldn't
-<ce> find anyone over there to do it, so it's a good thing you
-<ce> stepped up. Here's your money.
+<ce> Было довольно просто, %pcf? Или как вы думаете? Многие люди
+<ce> ненавидят сражаться с этими тварями. Гильдия не могла найти
+<ce> никого, кто мог бы это сделать, так что хорошо, что вы
+<ce> вмешались. Вот ваши деньги.
 
 Message:  1010
 <ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Удача)
 <ce>
-<ce> As you arrive at ___captive_, you're surprised to see
-<ce> small remains of arthropods all over. You ask
-<ce> a member of the town guard what happened.
+<ce> Когда вы добираетесь до ___captive_, вы с удивлением
+<ce> видите повсюду небольшие останки членистоногих.
+<ce> Вы спрашиваете члена городской стражи, что произошло.
 <ce>
-<ce> "Pesticide, that's what happened! Mages Guild proved their
-<ce> worth for once. Created enchanted food for the critters,
-<ce> and it started eating them apart from the inside.
-<ce> We've been free of 'em for a few days now."
+<ce> "Пестицид, вот что произошло! Гильдия Магов в кои-то веки
+<ce> доказала свою состоятельность. Создали зачарованную пищу
+<ce> для тварей, и она начала разъедать их изнутри.
+<ce> Мы избавились от них уже несколько дней назад".
 <ce>
-<ce> While you didn't do the work, ___captive_
-<ce> is technically free of its pest problem.
+<ce> Хотя вы не выполняли работу, ___captive_
+<ce> технически свободен от вредителей.
 
 Message:  1019
-<ce> This extermination contract should just be a matter
-<ce> of walking the streets. You consider waiting until
-<ce> night time to not injure any bystanders.
+<ce> Этот контракт на уничтожение заключается просто в
+<ce> хождении по улицам. Вы можете подождать до ночи,
+<ce> чтобы не травмировать случайных прохожих.
 
 Message:  1020
-<ce> You've fulfilled the Fighters Guild's contract.
-<ce> _qgiver_ will have your money in ___qgiver_.
+<ce> Вы выполнили контракт с Гильдией Бойцов. _qgiver_
+<ce> отдаст вам ваши деньги в ___qgiver_.
 
 Message:  1030
 %qdt:
- _qgiver_ has sent me to
- ___captive_ to clear out
- some poisonous creatures.
- I have to do it within =2captive_
- days, but after that I can return
- to ___qgiver_ for the money
- whenever I want.
+ _qgiver_ отправил меня
+ в ___captive_, чтобы избавиться
+ от ядовитых существ. Мне
+ нужно сделать это в течение
+ =2captive_ дней, после этого
+ я могу вернуться в ___qgiver_
+ за деньгами, когда захочу.
 
 QBN:
 Item _reward_ gold

@@ -4,15 +4,16 @@ DisplayName: Гильдия Бойцов. Последствия. Квест 3
 QRC:
 
 Message:  1010
-<ce> "Are you %pcf?"
+<ce> "Вы %pcf?"
 <ce>
-<ce> You're surprised by someone in heavy armor with a solemn voice.
+<ce> Вас неожиданно останавливает кто-то
+<ce> в тяжелых доспехах с торжественным голосом.
 <ce>
-<ce> "That vampire you slew for the Fighters Guild
-<ce> was my sister. I followed you all the way here.
-<ce> I must avenge her, for honor."
+<ce> "Та вампирша, которую вы убили для Гильдии Бойцов,
+<ce> была моей сестрой. Я следовал за вами всю дорогу сюда.
+<ce> Я должен отомстить за нее, ради чести".
 <ce>
-<ce> Your assailant takes a reverent bow before unsheathing a weapon.
+<ce> Ваш противник почтительно кланяется, прежде чем обнажить оружие.
 
 QBN:
 Clock _spawn_ 12:00

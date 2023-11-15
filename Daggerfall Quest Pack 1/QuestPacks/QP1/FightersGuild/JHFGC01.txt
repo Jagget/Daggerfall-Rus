@@ -1,16 +1,17 @@
 Quest: JHFGC01
 DisplayName: Гильдия Бойцов. Последствия. Квест 1
+-- После JHFG238
 -- Message panels
 QRC:
 
 Message:  1010
-<ce> As you enter the tavern, the air is heavy.
-<ce> Two figures don hoods and stand up.
+<ce> Когда вы входите в таверну, воздух становится тяжелым.
+<ce> Две фигуры надевают капюшоны и встают.
 <ce>
-<ce> "Them fighters think they can just kill
-<ce> off the Thieves Guild, eh? Try this on for size!"
+<ce> "Эти бойцы думают, что могут просто уничтожить
+<ce> Гильдию Воров, да? Попробуй справиться с нами!"
 <ce>
-<ce> They brandish weapons and ready for battle.
+<ce> Они размахивают оружием и готовы к бою.
 
 QBN:
 

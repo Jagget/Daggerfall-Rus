@@ -1,5 +1,6 @@
 Quest: JHFGC05
 DisplayName: Гильдия Бойцов. Последствия. Квест 5
+-- После JHFG131
 -- Message panels
 QRC:
 

@@ -1,120 +1,119 @@
 Quest: JHFG205
-DisplayName: Pack of Beasts
+DisplayName: Стая зверей
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> ___rural_'s been having this
-<ce> problem with wildlife on their property
-<ce> trying to eat people at night. During
-<ce> the day the things are hibernating or
-<ce> something and they can do their work,
-<ce> but anyone outside the premises after
-<ce> dark is in for a big surprise. It's paying
-<ce> =reward_ gold pieces and you get a
-<ce> change of scenery. What do you say?
+<ce> В ___rural_ возникла проблема с дикими
+<ce> животными, которые пытаются есть людей по
+<ce> ночам. Днем эти твари впадают в спячку или
+<ce> что-то в этом роде и жители могут заниматься
+<ce> своими делами, но любого, кто окажется на
+<ce> улице после наступления темноты, ждет
+<ce> большой сюрприз. За это платят =reward_
+<ce> золотых, и вы получаете возможность сменить
+<ce> обстановку. Что скажете?
    <--->
-<ce> It's kind of a sad story, but we end up being
-<ce> sort of the city guard for those far-off farm
-<ce> homes when the %t doesn't care
-<ce> enough to help them out. You wanna
-<ce> head out to ___rural_ and kill off some
-<ce> wild beasts that are bothering the place?
+<ce> Это грустная история, но в итоге мы становимся
+<ce> чем-то вроде городской стражи для тех отдаленных
+<ce> фермерских хозяйств, когда %t недостаточно
+<ce> заботятся о том, чтобы помочь им. Вы хотите
+<ce> отправиться в ___rural_ и убить несколько диких
+<ce> зверей, которые беспокоят это поселение?
 
 RefuseQuest:  [1001]
-<ce> Someone else is getting paid, then.
+<ce> Значит, заплатят кому-то другому.
 
 AcceptQuest:  [1002]
-<ce> Good. Head out there to ___rural_,
-<ce> sit down on the dirt or something when
-<ce> it's night, and you'll probably pick up a
-<ce> bunch of these beasts fast. Take 'em down
-<ce> and come back here for your payment. You'll know
-<ce> when you're done. Be back in =timer_ days or less.
+<ce> Хорошо. Отправляйтесь в ___rural_, сядьте на
+<ce> землю или еще куда-нибудь. Когда наступит
+<ce> ночь, вы, вероятно, быстро соберете кучу
+<ce> этих тварей. Убейте их и возвращайтесь сюда
+<ce> за оплатой. Вы поймете, когда можно
+<ce> возвращаться. У вас =timer_ дней, не больше.
 
 QuestFail:  [1003]
-<ce> The Fighters Guild sent you to clean
-<ce> out ___rural_ by now.
+<ce> Гильдия Бойцов отправила вас зачистить
+<ce> ___rural_ к настоящему времени.
 
 QuestComplete:  [1004]
-<ce> Good money, good trip, good experience.
-<ce> I hope you enjoy these things, %pcf.
-<ce> Stop and smell the roses some time.
-<ce> Here's your _reward_ gold pieces.
+<ce> Хорошие деньги, хорошая поездка,
+<ce> хороший опыт. Надеюсь, вам это понравится,
+<ce> %pcf. Отдохните и понюхайте розы.
+<ce> Вот ваши _reward_ золотых.
    <--->
-<ce> How was the trip? Too many of our members
-<ce> just want to stay local and kill rats.
-<ce> Good to see some initiative out of you.
-<ce> Take this.
+<ce> Как прошла поездка? Слишком много наших
+<ce> членов хотят остаться здесь и просто
+<ce> убивать крыс. Рад видеть от вас хоть
+<ce> какую-то инициативу. Возьмите.
 
 Message:  1010
-<ce> As you approach the property, you notice a pair of spriggans
-<ce> a ways off. They seem to be watching the creatures
-<ce> move across the property, neither interfering with nor
-<ce> helping them. If you knew how to, perhaps you could
-<ce> ask them to help you kill your prey.
-<ce> Do you ask for their help (yes) or do it on your own (no)?
+<ce> Когда вы приближаетесь к ___rural_, вы замечаете
+<ce> пару спригганов поодаль. Кажется, они наблюдают за
+<ce> перемещениями существ по территории, не мешая и не
+<ce> помогая им. Если бы вы знали, как это делается,
+<ce> возможно, вы могли бы попросить их помочь вам убить
+<ce> вашу добычу. Просите ли вы их о помощи?
 <ce>
 <ce> (ПРОВЕРКА НАВЫКА: ДА: Язык спригганов, низкая сложность)
 
 Message:  1011
 <ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
-<ce> You explain to the spriggans that these animals
-<ce> are harming the cycle of nature by attacking
-<ce> humans, the caretakers of this property.
-<ce> They see the beasts' violent disposition at work and
-<ce> march toward you to help.
+<ce> Вы объясняете спригганам, что эти животные
+<ce> нарушают круговорот природы, нападая на
+<ce> людей - хозяев этого участка. Они видят
+<ce> агрессивный нрав зверей и направляются
+<ce> к вам, чтобы помочь.
 
 Message:  1012
 <ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
-<ce> You call out to the spriggans and try to convince them
-<ce> to attack the beasts. You attract their attention but don't
-<ce> have the words to explain yourself. They take your shouts
-<ce> to be taunts and step in to attack you.
+<ce> Вы обращаетесь к спригганам и пытаетесь убедить их
+<ce> напасть на зверей. Вы привлекаете их внимание,
+<ce> но у вас не хватает слов, чтобы объясниться. Они
+<ce> принимают ваши крики за насмешку и нападают на вас.
 
 Message:  1013
-<ce> You'd rather not introduce another unknown into this mess.
-<ce> The spriggans idly watch for a few minutes, and then pass by.
+<ce> Вы предпочли не втягивать в эту неразбериху еще одну сторону.
+<ce> Спригганы недолго наблюдают за происходящим, а затем проходят мимо
 
 Message:  1020
-<ce> Your work is finished here. You trust the
-<ce> property owners will take care of the clean-up.
+<ce> Ваша работа здесь закончена. Вы верите,
+<ce> что владельцы позаботятся об уборке.
 
 Message:  1021
 <ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Удача)
 <ce>
-<ce> You approach the property and see the bears
-<ce> you have to dispose of. As luck would have it, you notice
-<ce> a team of hunters also stalking them. Before you can approach,
-<ce> they rush forward and slay the bears, skinning and gutting them
-<ce> for their own gain. They pay you no heed.
+<ce> Вы подходите к ___rural_ и видите медведей, от которых вам нужно
+<ce> избавиться. По счастливой случайности вы замечаете, что группа
+<ce> охотников тоже преследует их. Прежде чем вы успеваете приблизиться,
+<ce> они бросаются вперед и убивают медведей, сдирая с них шкуры и
+<ce> потроша их ради собственной выгоды. Они не обращают на вас внимания.
 <ce>
-<ce> The bears are dead and you expended no effort.
-<ce> The Fighters Guild can't complain, can they?
+<ce> Медведи мертвы, а вы не приложили никаких усилий.
+<ce> Гильдия Бойцов не будет жаловаться, не так ли?
    <--->
 <ce> (ПРОВЕРКА АТРИБУТА ПРОЙДЕНА: Удача)
 <ce>
-<ce> You approach the property and see the tigers
-<ce> you have to dispose of. As luck would have it, you notice
-<ce> a team of hunters also stalking them. Before you can approach,
-<ce> they rush forward and slay the tigers, skinning and gutting them
-<ce> for their own gain. They pay you no heed.
+<ce> Вы подходите к ___rural_ и видите тигров, от которых вам нужно
+<ce> избавиться. По счастливой случайности вы замечаете, что группа
+<ce> охотников тоже преследует их. Прежде чем вы успеваете приблизиться,
+<ce> они бросаются вперед и убивают тигров, сдирая с них шкуры и потроша
+<ce> их ради собственной выгоды. Они не обращают на вас внимания.
 <ce>
-<ce> The tigers are dead and you expended no effort.
-<ce> The Fighters Guild can't complain, can they?
+<ce> Тигры мертвы, а вы не приложили никаких усилий.
+<ce> Гильдия Бойцов не будет жаловаться, не так ли?
 
 Message:  1030
 %qdt:
- ___rural_ is
- under attack each night
- by some pack of beasts.
- The Fighters Guild will pay
- me _reward_ gold if I kill
- the animals and get back
- to ___questgiver_ in
- =timer_ days or less.
+ Каждую ночь на
+ ___rural_ нападает стая зверей.
+ Гильдия Бойцов заплатит мне
+ =reward_ золотых, если я убью
+ животных и вернусь
+ в ___questgiver_ через
+ =timer_ дней или раньше.
 
 QBN:
 Item _reward_ gold

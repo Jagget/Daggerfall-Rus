@@ -1,66 +1,66 @@
 Quest: JHFG212
-DisplayName: Wizard Amok
+DisplayName: Волшебник в бешенстве
 -- Message panels
 QRC:
 
 QuestorOffer:  [1000]
-<ce> We've got a request here from ___res_
-<ce> to go off some fellow wreaking havoc
-<ce> around the city. Apparently some member
-<ce> of the Mages Guild who's on _drug_,
-<ce> or so they say. It's paying =gold_ gold.
-<ce> Wanna take it?
+<ce> К нам поступил запрос из ___res_ о том, чтобы
+<ce> убрать какого-то парня, сеющего хаос по всему
+<ce> городу. По всей видимости, какой-то член
+<ce> Гильдии Магов, который сидит на наркотиках, по
+<ce> крайней мере, так они говорят. Оплата =gold_
+<ce> золотых. Хотите взять контракт?
 
 RefuseQuest:  [1001]
-<ce> Weird, I thought this was gonna be
-<ce> easy. No one wants to take it.
+<ce> Странно, я думал, это будет легко.
+<ce> Никто не хочет брать.
 
 AcceptQuest:  [1002]
-<ce> All right, I trust you can deal with the
-<ce> consequences. The contract says that this so-called
-<ce> "_dummy_" has to be dead
-<ce> within =2res_ days. After that just
-<ce> come pick up your money whenever you
-<ce> want. Go find %g2 in ___res_.
-<ce> Ask around if %g4 house isn't
-<ce> obvious. Stay safe.
+<ce> Хорошо, я верю, что вы сможете справиться
+<ce> с последствиями. В контракте говорится, что
+<ce> этот так называемый "_dummy_" должен быть
+<ce> мертв в течение =2res_ дней. После этого
+<ce> просто приходите за своими деньгами,
+<ce> когда захотите. Найдите %g4 в ___res_.
+<ce> Поспрашивайте окружающих, если не сможете
+<ce> сами найти %g4 дом. Берегите себя.
 
 QuestFail:  [1003]
-<ce> Your contract to slay _dummy_
-<ce> in ___res_ ends today.
+<ce> Ваш контракт на убийство _dummy_
+<ce> в ___res_ заканчивается сегодня.
 
 QuestComplete:  [1004]
-<ce> Hey, welcome back. Good to see you
-<ce> in one piece. Here's your gold.
+<ce> Привет, с возвращением. Рад видеть вас
+<ce> в целости и сохранности. Вот ваше золото.
 
 RumorsDuringQuest:  [1005]
-The Fighters Guild failed to save some kid from an abandoned prison. Shame on them.
+Гильдия Бойцов не смогла спасти какого-то ребенка из заброшенной тюрьмы. Позор им.
 
 Message:  1010
 <ce> (ПРОВЕРКА АТРИБУТА ПРОВАЛЕНА: Ловкость)
 <ce>
-<ce> Your drug-addled foe is in a frenzy, willing
-<ce> to try anything. Up comes a swift roundhouse kick
-<ce> to your face, which anyone more agile might have avoided.
-<ce> It hurts a lot.
+<ce> Ваш одурманенный наркотиками противник находится
+<ce> в ярости и готов на все. Он наносит вам быстрый
+<ce> удар с разворота в лицо, от которого более ловкий
+<ce> человек мог бы уклониться. Это очень больно.
 
 Message:  1022
-<ce> Fool! How dare you attack
-<ce> a member of the Mages Guild!
+<ce> Дурак! Как ты смеешь нападать
+<ce> на члена Гильдии Магов!
 
 Message:  1023
-<ce> Your task complete, you may return to
-<ce> _questgiver_ with your head held high.
+<ce> Ваше задание выполнено, вы можете вернуться
+<ce> к _questgiver_ с гордо поднятой головой.
 
 Message:  1032
 %qdt:
- _questgiver_ of the Fighters Guild
- has contracted me to slay someone
- named _dummy_ in ___res_
- on behalf of the city. I have
- =2res_ days to do it, and can
- get my reward in ___questgiver_
- any time after that.
+ _questgiver_ из Гильдии Бойцов заключил
+ со мной контракт на убийство человека
+ по имени _dummy_ в ___res_ от имени
+ города. У меня есть =2res_ дней, чтобы
+ сделать это, после этого я могу
+ получить свою награду в ___questgiver_
+ в любое время.
 
 QBN:
 Person _questgiver_ group Questor male

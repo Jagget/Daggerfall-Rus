@@ -1,16 +1,17 @@
 Quest: JHFGC02
 DisplayName: Гильдия Бойцов. Последствия. Квест 2
+-- После JHFG212
 -- Message panels
 QRC:
 
 Message:  1010
-<ce> You're surprised by the sound of teleportation.
-<ce> A hooded mage glares at you.
+<ce> Вы неожиданно слышите звук телепортации.
+<ce> На вас смотрит маг в капюшоне.
 <ce>
-<ce> "The Mages Guild does not easily forgive murder!  Die!"
+<ce> "Гильдия Магов не прощает убийства! Умри!"
 <ce>
-<ce> She waves her hand and invokes several beasts
-<ce> before warping away.
+<ce> Маг взмахивает рукой и вызывает несколько зверей,
+<ce> после чего телепортируется прочь.
 
 QBN:
 Clock _spawn_ 0:02
