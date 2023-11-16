@@ -1,206 +1,209 @@
 Quest: courierdelivery
-DisplayName: A Courier's Life, Delivery
+DisplayName: Жизнь курьера, доставка
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
-<ce> Oh! You startled me. A letter? For me?
-<ce> Um, okay. Delivery fee of =reward_ gold.
-<ce> Well, here you go. Be safe.
+<ce> О! Вы меня напугали. Письмо? Для меня?
+<ce> Хм, ладно. Стоимость доставки =reward_ золотых.
+<ce> Что ж, держите. Будьте осторожны.
 <--->
-<ce> Hello! Yes, I've been expecting that letter.
-<ce> I'll take that, and you take this.
+<ce> Здравствуйте! Да, я жду это письмо.
+<ce> Я возьму его, а вы возьмите вот это.
 <--->
-<ce> A letter? I'm not expecting any letter.
-<ce> This better not be a trick.
-<ce> Take your money and go.
+<ce> Письмо? Я не жду никакого письма.
+<ce> Надеюсь, это не уловка.
+<ce> Забирайте свои деньги и уходите.
 <--->
-<ce> Oh my! This must be about my mother.
-<ce> I've been worried sick!
-<ce> Thank you, and take this money.
+<ce> О, %god! Это, наверное, про мою маму.
+<ce> Так много волнений!
+<ce> Спасибо, и возьмите эти деньги.
 <--->
-<ce> Finally, some news from my beloved!
-<ce> Take your money, this means so much to me.
+<ce> Наконец-то, немного новостей от моей половинки!
+<ce> Возьмите деньги, это так много для меня значит.
 <--->
-<ce> Oh dear, another debt collection notice.
-<ce> Take this money and tell no one you saw me.
+<ce> О, %god, еще одно уведомление о взыскании долга.
+<ce> Возьмите эти деньги и никому не говорите, что видели меня.
 <--->
-<ce> A letter. This better be important.
-<ce> Fighters Guild recruitment?
-<ce> Are they so desperate that they send letters now?
-<ce> Well, I'll get reimbursement for this delivery.
-<ce> You take your =reward_ gold.
+<ce> Письмо. Лучше бы оно было важным.
+<ce> Набор в Гильдию Бойцов?
+<ce> Неужели они настолько отчаялись, что теперь посылают письма?
+<ce> Что ж, я получу компенсацию за эту доставку.
+<ce> Забирайте ваши =reward_ золотых.
 <--->
-<ce> A letter for me? Wait, let me see what it says.
+<ce> Письмо для меня? Подождите, дайте мне
+<ce> посмотреть, что там написано.
 <ce>
  "_person_,
-    You are a thief. Do not
- try to deny it, you have
- been seen in the act. There
- is honor among thieves.
- Either join the guild or
- face the consequences."
+    Вы - вор. Не пытайтесь
+ отрицать этого, вас видели
+ на деле. Среди воров есть
+ честь. Либо вступайте в
+ гильдию, либо столкнетесь
+ с последствиями".
 <ce>
-<ce> Oh dear. Go now. Now. Take your money and hurry on.
+<ce> О, %god. Уходите сейчас же. Сейчас.
+<ce> Забирайте свои деньги и поспешите.
 <--->
-<ce> Oh no, I've been expecting this letter. Oh dear.
-<ce> Yes, my grandfather has passed away.
-<ce> It's time to tie up loose ends.
-<ce> Thank you. Take your fee.
+<ce> О нет, только не это письмо. О, %god.
+<ce> Да, мой дедушка скончался.
+<ce> Пришло время сводить концы с концами.
+<ce> Спасибо. Возьмите свой гонорар.
 <--->
-<ce> A delivery for me? What?
-<ce> This is just an advertisement
-<ce> for a blacksmith up the way.
-<ce> I'll pay you, but I'm going to raise
-<ce> Oblivion with these devils for wasting
-<ce> my time and money like this. Get going, now.
+<ce> Доставка для меня? Что? Это всего
+<ce> лишь реклама кузнеца, который живет
+<ce> неподалеку. Я заплачу вам, но я
+<ce> собираюсь устроить разнос этим
+<ce> демонам за то, что они так тратят мое
+<ce> время и мои деньги! А теперь идите.
 <--->
-<ce> A letter for me? Oh wow! A birthday party!
-<ce> This sounds like fun! I'll get my things in
-<ce> order and make the trip. Thank you!
-<ce> Here, this is yours.
+<ce> Письмо для меня? Ух ты! День
+<ce> рождения! Звучит заманчиво! Я приведу
+<ce> себя в порядок и отправлюсь в путь.
+<ce> Спасибо! Вот, это ваше.
 <--->
-<ce> Oh, the letter arrived! My sister is
-<ce> doing so well with the Mages Guild,
-<ce> I get so excited to hear how she's doing.
-<ce> I can't wait to read it! Here, take
-<ce> your money and get going.
+<ce> О, письмо пришло! У моей сестры так хорошо
+<ce> идут дела в Гильдии Магов, я каждый раз
+<ce> волнуюсь, когда когда читаю ее письма. Не
+<ce> могу дождаться, чтобы прочитать и это!
+<ce> Вот, забирай свои деньги и иди.
 <--->
-<ce> Oh, wonderful! It's this month's letter.
-<ce> My brother works for the %rt
-<ce> and has so many fascinating stories to tell.
-<ce> Here, take what's yours and let me read.
+<ce> О, замечательно! Это письмо за этот месяц.
+<ce> Мой брат работает во дворце и может
+<ce> рассказать столько увлекательных историй.
+<ce> Вот, возьми деньги и иди, дай мне почитать.
 <--->
-<ce> Another cursed letter from my estranged family.
-<ce> I'll pay your fee, but they need to get their act together.
-<ce> Might find an axe in their door one of these days.
-<ce> Go on, scram.
+<ce> Еще одно проклятое письмо от моей бывшей семьи.
+<ce> Я заплачу ваш гонорар, но им нужно взять себя
+<ce> в руки. Возможно, в один прекрасный день они
+<ce> найдут топор в своей двери. Давай, проваливай.
 <--->
-<ce> Oh, thank you! This is from my sister. She's traveling
-<ce> across the Bay and wanted me to know she made it safely.
-<ce> What a relief! Here, take your fee.
+<ce> О, спасибо тебе! Это от моей сестры. Она путешествует по заливу
+<ce> и хотела сообщить, что она добралась благополучно. Какое
+<ce> облегчение! Вот, возьмите свой гонорар.
 <--->
-<ce> Oh, dear. My mother has passed away, and it seems
-<ce> we need to get our family business in order.
-<ce> It'll be quite messy, I can say that much.
-<ce> Here, take your gold.
+<ce> О, боже. Моя мать скончалась, и, похоже, нам
+<ce> нужно привести в порядок наш семейный бизнес.
+<ce> Это будет довольно хлопотно, могу сказать
+<ce> точно. Вот, возьми свое золото.
 <--->
-<ce> Oh! This must be that cooking recipe I ordered
-<ce> last week. How nice of them! Thank you.
-<ce> Here is your gold.
+<ce> О! Должно быть, это тот самый кулинарный рецепт,
+<ce> который был заказан на прошлой неделе. Как мило
+<ce> с их стороны! Спасибо. Вот твое золото.
 <--->
-<ce> Ah, I need these instructions for a potion
-<ce> I'm making! How kind of you.
-<ce> Here's your payment.
+<ce> Ах, мне нужны эти инструкции для зелья,
+<ce> которое я готовлю! Как любезно с вашей
+<ce> стороны. Вот ваша оплата.
 <--->
-<ce> Oh, good! These are instructions for an
-<ce> insecticide I need to make. The house
-<ce> is just riddled with bugs, you see.
-<ce> Here, your money, now.
+<ce> О, хорошо! Это инструкция к инсектициду,
+<ce> который мне нужно приготовить. Видите
+<ce> ли, дом просто кишит клопами. Вот, ваши
+<ce> деньги, да.
 <--->
-<ce> This letter? It's dated from last year.
-<ce> I'm amazed I'm even expected to pay
-<ce> for this, but I will. Now get out of here.
+<ce> Это письмо? Оно датировано прошлым годом.
+<ce> Удивительно, что от меня вообще ожидают, что я заплачу
+<ce> за это, но я заплачу. А теперь убирайся отсюда.
 <--->
-<ce> Oh, my lottery ticket! I sure hope
-<ce> I win this time. I'd buy some nice
-<ce> new furniture with it! Here,
-<ce> be off with your payment.
+<ce> О, мой лотерейный билет! Я очень
+<ce> надеюсь, что на этот раз выиграю.
+<ce> Я куплю на эти деньги новую красивую
+<ce> мебель! Держи оплату и иди.
 <--->
-<ce> Yes, this is the lottery ticket
-<ce> I ordered! Good. I'll be buying
-<ce> a big, new chimney with it if I win!
-<ce> Here, this is your payment.
+<ce> Да, это лотерейный билет, который мы
+<ce> заказали! Хорошо. Если мы выиграем,
+<ce> то купим на них большой новый камин!
+<ce> Вот, это ваша оплата.
 <--->
-<ce> A letter from my... father?
-<ce> I thought he was dead! Wow, what news!
-<ce> Yes, give me that! Here, your money.
-<ce> Now let me read.
+<ce> Письмо от моего... отца? Мы думали,
+<ce> он умер! Ух ты, какие новости! Да
+<ce> отдай же мне это! Вот, твои деньги.
+<ce> Теперь дай мне прочитать.
 <--->
-<ce> A letter from my nephew! How wonderful!
-<ce> Let me get caught up... Oh yes, your
-<ce> payment. Here, take it. Farewell.
+<ce> Письмо от моего племянника! Как
+<ce> чудесно! Дайте мне дочитать... Ах да,
+<ce> ваша оплата. Вот, возьмите. Прощайте.
 <--->
-<ce> This is... my niece is pregnant?
-<ce> What news! Oh, my! I should
-<ce> head over there this month.
-<ce> Oh, such joy you've brought me!
-<ce> Here, take your payment.
+<ce> Что... моя племянница беременна? Какие
+<ce> новости! О, %god! Мне обязательно нужно
+<ce> съездить туда в этом месяце. О, какую
+<ce> радость вы мне доставили! Вот,
+<ce> возьмите свой платеж.
 <--->
-<ce> A court summons for... vagrancy?
-<ce> What does that even mean?
-<ce> Foul %rt. I'll see this all in court.
-<ce> Take your payment, %ra.
+<ce> Повестка в суд за... бродяжничество?
+<ce> Что это вообще значит? %rt без мозгов.
+<ce> Я разберусь со всем этим в суде.
+<ce> Забирай свой платеж, %ra.
 
 
 Message:  1011
-<ce> A letter has shown up inside the chest.
+<ce> Внутри сундучка обнаружилось письмо.
 <ce>
-<ce> "To: _person_ of ___random_.
-<ce> Expected delivery fee of =reward_ gold.
-<ce> Please deliver before 24 hours have passed."
+<ce> "Кому: _person_ в ___random_.
+<ce> Ожидаемая стоимость доставки =reward_ золотых.
+<ce> Просьба доставить до истечения 24 часов".
 <--->
-<ce> A letter has appeared inside the chest.
+<ce> Внутри сундука появилось письмо.
 <ce>
-<ce> "Delivery for _person_ in your current town.
-<ce> Payment of =reward_ gold on delivery.
-<ce> Ensure delivery within 24 hours."
+<ce> "Доставка для _person_ в вашем текущем городе.
+<ce> Оплата =reward_ золотых при вручении.
+<ce> Обеспечить доставку в течение 24 часов".
 <--->
-<ce> A letter has arrived inside the courier chest.
+<ce> В курьерский сундук пришло письмо.
 <ce>
-<ce> "Please deliver to _person_ of _random_
-<ce> before 24 hours have passed. On receipt,
-<ce> %g1 will proffer =reward_ gold."
+<ce> "Просьба доставить к _person_ из _random_
+<ce> до истечения 24 часов. При получении
+<ce> %g1 предложит вам =reward_ золотых".
 <--->
-<ce> A letter has been sent inside the courier chest.
+<ce> Внутрь курьерского сундука было вложено письмо.
 <ce>
-<ce> "Missive for _person_, a =person_
-<ce> living in ___random_. Please deliver
-<ce> within 24 hours for =reward_ gold."
+<ce> "Послание для _person_, =person_,
+<ce> из ___random_. Пожалуйста, доставьте
+<ce> в течение 24 часов за =reward_ золотых".
 <--->
-<ce> A small parchment has been placed in your courier chest.
+<ce> В ваш курьерский сундук был положен небольшой пергамент.
 <ce>
-<ce> "Urgent letter for _person_,
-<ce> usual whereabouts _random_ of ___random_.
-<ce> =reward_ gold pieces upon delivery."
+<ce> "Срочное письмо для _person_,
+<ce> обычное местонахождение _random_, ___random_.
+<ce> =reward_ золотых при доставке".
 <--->
-<ce> A piece of paper has appeared in your courier chest.
+<ce> В вашем курьерском сундуке появился листок бумаги.
 <ce>
-<ce> "Delivery to: _person_
-<ce> Contents PRIVATE, do NOT open
-<ce> Delivery fee of =reward_ gold pieces on arrival"
+<ce> "Доставка для: _person_
+<ce> Содержимое КОНФИДЕНЦИАЛЬНО, не вскрывать
+<ce> Стоимость доставки =reward_ золотых по прибытии".
 <--->
-<ce> A parchment has shown up in your courier chest.
+<ce> В вашем курьерском сундуке появился пергамент.
 <ce>
-<ce> " =reward_ gold pieces for delivery to
-<ce> _person_, a =person_ in ___random_.
-<ce> Current whereabouts unknown.
-<ce> Please ensure prompt delivery,
-<ce> within 24 hours."
+<ce> "=reward_ золотых за доставку
+<ce> к _person_, =person_ из ___random_.
+<ce> Текущее местонахождение неизвестно.
+<ce> Пожалуйста, обеспечьте доставку
+<ce> в течение 24 часов".
 <--->
-<ce> A parchment has shown up in your courier chest.
+<ce> В вашем курьерском сундуке появился пергамент.
 <ce>
-<ce> "For _person_'s eyes ONLY.
-<ce> If open, delivery fee of =reward_ gold pieces void.
-<ce> DO NOT OPEN, COURIER!
-<ce> Deliver within 24 hours!!"
+<ce> "Только для _person_. В случае
+<ce> вскрытия стоимость доставки
+<ce> в размере =reward_ золотых недействительна.
+<ce> НЕ ВСКРЫВАТЬ, КУРЬЕР!
+<ce> Доставить в течение 24 часов!!!"
 
 
 Message:  1012
-<ce> This letter is someone else's private property.
-<ce> It would be obvious if you opened and read it.
-<ce> On your courier's honor, you put it away.
+<ce> Это письмо является чьей-то частной собственностью.
+<ce> Было бы заметно, если бы вы открыли и прочитали его.
+<ce> Поклявшись честью курьера, вы убираете письмо.
 
 Message:  1013
-<ce> You are overdue on letter delivery.
-<ce> The letter disappears from your pack,
-<ce> apparently recalled to its sender.
+<ce> Вы просрочили доставку письма.
+<ce> Письмо исчезает из ваших карманов,
+<ce> очевидно, возвращенное отправителю.
 
 Message:  1014
 %qdt:
- I have a letter to deliver
- to _person_ of ___random_
- for =reward_ gold pieces.
+ _person_ ожидает свое
+ письмо в ___random_.
+ Я получу =reward_ золотых.
 
 QBN:
 

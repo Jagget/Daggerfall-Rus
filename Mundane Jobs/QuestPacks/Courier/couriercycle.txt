@@ -1,27 +1,27 @@
 Quest: couriercycle
-DisplayName: The Courier's Daily Cycle
+DisplayName: Жизнь курьера, рутина
 -- Message panels
 QRC:
 
 Message:  1011
-<ce> Do you wish to give up courier work?
+<ce> Вы хотите отказаться от работы курьером?
 
 Message:  1012
-<ce> You decide to hold on to the chest.
-<ce> You can always decide again tomorrow.
+<ce> Вы решаете придержать сундук.
+<ce> Вы всегда можете принять решение завтра.
 
 Message:  1013
-<ce> You lay the chest on the ground.
-<ce> It suddenly sprouts a note,
-<ce> identical to the one you saw when
-<ce> you picked it up. So the cycle continues,
-<ce> and a new courier will be born.
+<ce> Вы кладете сундук на землю. Из него
+<ce> внезапно появляется записка, идентичная
+<ce> той, которую вы видели, когда поднимали
+<ce> его. Таким образом цикл продолжится
+<ce> и появится новый курьер.
 
 Message:  1014
 %qdt:
- I have taken up courier work.
- I can always dispose of this chest
- if I change my mind.
+ Я теперь работаю курьером.
+ Я всегда могу избавиться от этого
+ сундука, если передумаю.
 
 QBN:
 

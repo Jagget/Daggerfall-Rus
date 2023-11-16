@@ -1,101 +1,102 @@
 Quest: treefellercycle
-DisplayName: The Treefeller's Job
+DisplayName: Работа дровосеком
 -- Message panels
 QRC:
 
 Message:  1011
-<ce> Do you wish to cut some wood (ACCEPT),
-<ce> give up the axe permanently (DELETE),
-<ce> or cancel this prompt (CANCEL)?
+<ce> Вы хотите нарубить немного дров (ПРИНЯТЬ),
+<ce> выкинуть топор (ИСКЛ.)
+<ce> или отменить это предложение (ОТМЕНА)?
 
 Message:  1012
-<ce> You put the axe away.
+<ce> Вы убираете топор.
 
 Message:  1013
-<ce> You discard the axe.
-<ce> Perhaps someone else will need it
-<ce> for gainful employ.
+<ce> Вы выбрасываете топор.
+<ce> Возможно, кто-то другой будет
+<ce> зарабатывать с его помощью.
 
 Message:  1014
- I carry a lumberer's axe with me.
- I can use it to cut wood for pay.
+ Я ношу с собой топор дровосека.
+ С его помощью я могу рубить дрова за деньги.
 
 Message:  1015
-<ce> You should at least be outdoors if you hope to gather wood.
+<ce> Если вы надеетесь заготовить дрова, то должны
+<ce> хотя бы находиться на свежем воздухе.
 
 Message:  1016
-<ce> For one reason or another, the lumberer's axe
-<ce> is no longer in your possession. You'll have to
-<ce> find some other means of gainful employ.
+<ce> По той или иной причине топора дровосека
+<ce> у вас больше нет. Вам придется найти
+<ce> какую-нибудь другую работу.
 
 Message:  1017
-<ce> There is little wood available in the desert.
-<ce> Your poor workmanship with the axe, and the lack
-<ce> of lumber nearby, make for slow progress.
-<ce> By the time you have found a willing client,
-<ce> you sell the lumber for _desertreward1_ gold pieces.
+<ce> В пустыне мало древесины. Плохое владение
+<ce> топором и отсутствие поблизости деревьев
+<ce> замедляют работу. Когда вы нашли клиента,
+<ce> вы продали то немногое, что смогли
+<ce> заготовить всего за _desertreward1_ золотых.
 <ce>
-<ce> You must wait three hours between your attempts to chop wood.
+<ce> Между попытками рубить дрова должно пройти три часа.
 
 Message:  1018
-<ce> There is little wood available in the desert.
-<ce> You're fairly skilled with the axe, but you don't
-<ce> have much supply out here. By the time you have found
-<ce> a willing purchaser, you sell the lumber
-<ce> for _desertreward2_ gold pieces.
+<ce> В пустыне мало древесины. Вы
+<ce> достаточно хорошо владеете топором,
+<ce> но здесь не так много запасов.
+<ce> Найдя клиента, вы продали
+<ce> заготовленные дрова за _desertreward2_ золотых.
 <ce>
-<ce> You must wait three hours between your attempts to chop wood.
+<ce> Между попытками рубить дрова должно пройти три часа.
 
 Message:  1019
-<ce> There is little wood available in the desert.
-<ce> You're quite skilled with the axe, and you make quick work
-<ce> of the limited supply available. By the time you have found
-<ce> a willing buyer, you sell the lumber
-<ce> for _desertreward3_ gold pieces.
+<ce> В пустыне мало древесины. Вы умело
+<ce> владеете топором и быстро справляетесь
+<ce> с ограниченным запасом. Когда вы нашли
+<ce> клиента, вы продали заготовленные
+<ce> дрова за _desertreward3_ золотых.
 <ce>
-<ce> You must wait three hours between your attempts to chop wood.
+<ce> Между попытками рубить дрова должно пройти три часа.
 
 Message:  1020
-<ce> There is little wood available in the desert.
-<ce> You're very skilled with the axe, shredding the little
-<ce> lumber you can find. You sell your stockpiled lumber
-<ce> to the first client you see for _desertreward4_ gold pieces.
+<ce> В пустыне мало древесины. Вы очень умело обращаетесь
+<ce> с топором и быстро рубите те немногие деревья,
+<ce> которые можете найти. Вы продали заготовленные
+<ce> дрова первому встречному клиенту за _desertreward4_ золотых.
 <ce>
-<ce> You must wait three hours between your attempts to chop wood.
+<ce> Между попытками рубить дрова должно пройти три часа.
 
 Message:  1021
-<ce> There are plenty of trees nearby to harvest.
-<ce> Your poor skill with the axe makes for slow progress.
-<ce> By the time you have found a willing client,
-<ce> you sell the lumber for _reward1_ gold pieces.
+<ce> Поблизости много деревьев, которые можно
+<ce> заготовить. Ваше плохое владение топором
+<ce> замедляет прогресс. Когда вы нашли клиента,
+<ce> вы продали заготовленные дрова за _reward1_ золотых.
 <ce>
-<ce> You must wait three hours between your attempts to chop wood.
+<ce> Между попытками рубить дрова должно пройти три часа.
 
 Message:  1022
-<ce> There are plenty of trees nearby to harvest.
-<ce> You're fairly skilled with the axe, and make good progress.
-<ce> By the time you have found a willing purchaser,
-<ce> you sell the lumber for _reward2_ gold pieces.
+<ce> Поблизости много деревьев, которые можно заготовить.
+<ce> Вы достаточно хорошо владеете топором и добиваетесь
+<ce> хороших успехов. Когда вы нашли клиента, желающего
+<ce> купить заготовленные дрова, вы продали их за _reward2_ золотых.
 <ce>
-<ce> You must wait three hours between your attempts to chop wood.
+<ce> Между попытками рубить дрова должно пройти три часа.
 
 Message:  1023
-<ce> There are plenty of trees nearby to harvest.
-<ce> You're quite skilled with the axe, and quickly build
-<ce> a formidable pile of wood.
-<ce> By the time you have found a willing purchaser,
-<ce> you sell the lumber for _reward3_ gold pieces.
+<ce> Поблизости много деревьев, которые
+<ce> можно заготовить. Вы неплохо владеете
+<ce> топором и быстро собираете внушительную
+<ce> кучу дров. Найдя клиента, вы продали
+<ce> заготовленные дрова за _reward3_ золотых.
 <ce>
-<ce> You must wait three hours between your attempts to chop wood.
+<ce> Между попытками рубить дрова должно пройти три часа.
 
 Message:  1024
-<ce> There are plenty of trees nearby to harvest.
-<ce> You're highly skilled with the axe, and quickly
-<ce> create a mountain of fallen wood.
-<ce> By the time you have found a willing purchaser,
-<ce> you sell the lumber for _reward4_ gold pieces.
+<ce> Поблизости есть много деревьев, которые
+<ce> можно заготовить. Вы прекрасно владеете
+<ce> топором и быстро создаете гору поваленной
+<ce> древесины. Когда вы нашли клиента, вы
+<ce> продали заготовленные дрова за _reward4_ золотых.
 <ce>
-<ce> You must wait three hours between your attempts to chop wood.
+<ce> Между попытками рубить дрова должно пройти три часа.
 
 QBN:
 

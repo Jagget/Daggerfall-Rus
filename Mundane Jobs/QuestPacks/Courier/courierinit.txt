@@ -1,33 +1,34 @@
 Quest: courierinit
-DisplayName: Courier Starter
+DisplayName: Курьер. Начало.
 -- Message panels
 QRC:
 
 Message:  1011
-<ce> You notice a small chest on the ground with a hopeful note.
+<ce> Вы замечаете на земле небольшой сундучок,
+<ce> в котором лежит записка с просьбой.
 <ce>
-<ce> "Courier wanted! Deliver letters to persons as you travel.
-<ce> Pay between 25 and 75 gold per letter delivered.
-<ce> Letters will appear in this box and must be hand-delivered
-<ce> to the recipient, who will tender payment."
+<ce> "Требуется курьер! Доставляйте письма людям во время
+<ce> путешествия. Оплата от 25 до 75 золотых за доставленное
+<ce> письмо. Письма будут появляться в этом ящике и должны быть
+<ce> доставлены лично получателю, который и предложит оплату".
 <ce>
-<ce> No one else seems to pay the container any mind.
-<ce> If you're looking for a way to earn some money,
-<ce> this seems like a simple start. Do you take it?
+<ce> Похоже, никто больше не обращает внимания на сундучок.
+<ce> Если вы ищете способ заработать немного денег, это
+<ce> кажется неплохим предложением. Берете ли вы сундучок?
 
 Message:  1012
-<ce> You leave the chest alone. Someone else will
-<ce> have to make couriership their duty.
+<ce> Вы оставляете сундучок в покое. Пусть
+<ce> кто-нибудь другой работает курьером.
 
 Message:  1013
-<ce> You pick up the chest and look inside.
-<ce> It's empty right now, but once the owner
-<ce> realizes that you've taken up the task,
-<ce> letters will presumably show up within.
+<ce> Вы поднимаете сундучок и заглядываете внутрь.
+<ce> Сейчас он пуст, но как только владелец
+<ce> сундучка поймет, что предложение принято,
+<ce> внутри начнут появятся письма.
 <ce>
-<ce> (NOTE: To give up this job,
-<ce> activate the "Use" command on this chest
-<ce> in your inventory.)
+<ce> (ПРИМЕЧАНИЕ: Чтобы отказаться от этой работы,
+<ce> активируйте команду "Применить" на этом
+<ce> сундучке в своем инвентаре)
 
 QBN:
 

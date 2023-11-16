@@ -1,27 +1,27 @@
 Quest: treefellerinit
-DisplayName: Treefeller Starter
+DisplayName: Дровосек. Начало.
 -- Message panels
 QRC:
 
 Message:  1011
-<ce> You notice an axe on the ground. It seems to be made for woodcutting,
-<ce> though if you were really desperate, it could also serve as a weapon.
-<ce> If you felt any confidence in lumberwork, you could take it with you.
-<ce> Do you take it?
+<ce> Вы замечаете топор на земле. Похоже, он создан для рубки
+<ce> дров, хотя в случае крайней нужды может служить и оружием.
+<ce> Если бы вы чувствовали хоть какую-то уверенность в работе
+<ce> с деревом, вы могли бы взять его с собой. Берете ли вы его?
 
 Message:  1012
-<ce> You leave the axe alone. Someone else will
-<ce> make gainful employ with it.
+<ce> Вы оставляете топор в покое. Пусть кто-нибудь
+<ce> другой зарабатывает с его помощью.
 
 Message:  1013
-<ce> You pick up the axe and inspect it.
-<ce> It looks fine enough for the job.
-<ce> As long as you're in any place with trees nearby,
-<ce> it should provide you with a reasonable income.
+<ce> Вы берете топор и осматриваете его. Он отлично
+<ce> подходит для этой работы. Пока вы находитесь
+<ce> в любом месте, где поблизости есть деревья, это
+<ce> должно обеспечивать вам разумный доход.
 <ce>
-<ce> (NOTE: To use the axe,
-<ce> activate the "Use" command on it
-<ce> in your inventory.)
+<ce> (ПРИМЕЧАНИЕ: Чтобы использовать топор,
+<ce> активируйте на нем команду "Применить"
+<ce> в вашем инвентаре)
 
 QBN:
 
