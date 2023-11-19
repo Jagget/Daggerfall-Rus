@@ -353,7 +353,7 @@ maxf: 70
 
 				#840
 				type: 3
-				name: Темные Смешиватели
+				name: Темные Зельевары
 				rep: 0
 				summon: -1
 				region: -1
@@ -678,7 +678,7 @@ maxf: 90
 
 		#454
 		type: 3
-		name: Смешиватели Аркея
+		name: Зельевары Аркея
 		rep: 0
 		summon: -1
 		region: -1
@@ -815,7 +815,7 @@ maxf: 90
 
 		#463
 		type: 3
-		name: Смешиватели З'ена
+		name: Зельевары З'ена
 		rep: 0
 		summon: -1
 		region: -1
@@ -951,7 +951,7 @@ maxf: 90
 
 		#469
 		type: 3
-		name: Смешиватели Мары
+		name: Зельевары Мары
 		rep: 0
 		summon: -1
 		region: -1
@@ -1089,7 +1089,7 @@ maxf: 90
 
 		#474
 		type: 3
-		name: Смешиватели Акатоша
+		name: Зельевары Акатоша
 		rep: 0
 		summon: -1
 		region: -1
@@ -1347,7 +1347,7 @@ maxf: 90
 
 		#487
 		type: 3
-		name: Смешиватели Дибеллы
+		name: Зельевары Дибеллы
 		rep: 0
 		summon: -1
 		region: -1
@@ -1468,7 +1468,7 @@ maxf: 90
 
 		#491
 		type: 3
-		name: Смешиватели Стендарра
+		name: Зельевары Стендарра
 		rep: 0
 		summon: -1
 		region: -1
@@ -1669,7 +1669,7 @@ sgroup: 10
 ggroup: -1
 minf: 70
 maxf: 95
-	
+
 #40
 type: 2
 name: Гильдия Магов
@@ -1758,7 +1758,7 @@ maxf: 70
 		minf: 10
 		maxf: 80
 		rank: 12
-					
+
 			#71
 			type: 5
 			name: Мастер Инкунабулы
@@ -1828,7 +1828,7 @@ maxf: 70
 			ggroup: 10
 			minf: 20
 			maxf: 60
-			
+
 				#73
 				type: 5
 				name: Палатинус
@@ -1971,7 +1971,7 @@ maxf: 70
 		face: -1
 		race: -1
 		flat: 177 1
-		flat: 182 50	
+		flat: 182 50
 		sgroup: 2
 		ggroup: 10
 		minf: 10
@@ -2048,7 +2048,7 @@ maxf: 70
 		minf: 20
 		maxf: 50
 
-#150	
+#150
 type: 6
 name: Врасет
 rep: 0
@@ -2067,7 +2067,7 @@ ggroup: 23
 minf: 20
 maxf: 90
 
-#151	
+#151
 type: 6
 name: Хаарвену
 rep: 0
@@ -2085,7 +2085,7 @@ ggroup: 23
 minf: 20
 maxf: 90
 
-#152	
+#152
 type: 6
 name: Трафей
 rep: 0
@@ -2104,7 +2104,7 @@ ggroup: 23
 minf: 20
 maxf: 60
 
-#153	
+#153
 type: 6
 name: Лирези
 rep: 0
@@ -2122,7 +2122,7 @@ ggroup: 23
 minf: 20
 maxf: 80
 
-#154	
+#154
 type: 6
 name: Монталион
 rep: 0
@@ -2140,7 +2140,7 @@ ggroup: 23
 minf: 20
 maxf: 90
 
-#155	
+#155
 type: 6
 name: Хулари
 rep: 0
@@ -2158,7 +2158,7 @@ ggroup: 23
 minf: 10
 maxf: 60
 
-#156	
+#156
 type: 6
 name: Гарлиты
 rep: 0
@@ -2177,7 +2177,7 @@ ggroup: 23
 minf: 20
 maxf: 90
 
-#157	
+#157
 type: 6
 name: Антотис
 rep: 0
@@ -2195,7 +2195,7 @@ ggroup: 23
 minf: 20
 maxf: 60
 
-#158	
+#158
 type: 6
 name: Селену
 rep: 0
@@ -5428,7 +5428,7 @@ vam: 150
 	ggroup: -1
 	minf: 20
 	maxf: 80
-	
+
 		#129
 		type: 2
 		name: Клинки
