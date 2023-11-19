@@ -15,7 +15,7 @@ QuestComplete:   [1004]
 <ce> "You're awfully kind to do this for me.
 <ce> I'm sure this gold won't compensate you.
 <ce> Maybe %god will in my place.
-<ce> May %monn be kind to you."
+<ce> May %monn be kind to you".
 
 Message:  1010
 <ce> A weary, elderly peasant opportunes
@@ -30,7 +30,7 @@ Message:  1010
 <ce> I'm too old to chop the wood myself.
 <ce> If you've got a strong arm and a few hours,
 <ce> would you be able to chop some for me?
-<ce> I'll pay you, honest."
+<ce> I'll pay you, honest".
    <--->
 <ce> A weary, elderly peasant opportunes
 <ce> people in the area for help with something.
@@ -45,13 +45,13 @@ Message:  1010
 <ce> I can't split the wood myself.
 <ce> If you've got a strong arm and a few hours,
 <ce> would you be able to chop some for me?
-<ce> I'll pay you what little money I can for it."
+<ce> I'll pay you what little money I can for it".
 
 Message:  1011
 <ce> The peasant's voice trembles.
 <ce>
 <ce> "Oh... Oh, I'm sure I'll find someone,
-<ce> don't you worry. %god bless your travels."
+<ce> don't you worry. %god bless your travels".
 
 Message:  1012
 <ce> You take the hand axe and follow a short ways

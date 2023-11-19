@@ -31,16 +31,16 @@ Message:  1011
 
 Message:  1012
 <ce> "No, I understand. Poverty strikes us all
-<ce> sooner or later."
+<ce> sooner or later".
 <ce>
 <ce> The official departs in search of donors.
 <--->
-<ce> "Are you sure? We all need a library at some point."
+<ce> "Are you sure? We all need a library at some point".
 <ce>
 <ce> The official departs in search of donors.
 <--->
 <ce> "Well, I suppose not all of us have an aptitude
-<ce> for reading and libraries, I suppose."
+<ce> for reading and libraries, I suppose".
 <ce>
 <ce> The official departs in search of donors.
 

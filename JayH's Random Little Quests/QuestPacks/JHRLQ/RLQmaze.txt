@@ -60,7 +60,7 @@ Message:  1016
 <ce> You fail to produce the 100 gold needed to try the maze.
 <ce> The man scowls at you.
 <ce>
-<ce> "Thought to cheat me, eh? Not today."
+<ce> "Thought to cheat me, eh? Not today".
 <ce>
 <ce> In a huff he marches off.
 

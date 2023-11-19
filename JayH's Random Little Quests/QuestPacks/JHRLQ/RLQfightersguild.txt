@@ -7,7 +7,7 @@ QuestComplete:   [1004]
 <ce> "Then let me present you with this weapon.
 <ce> Your kind do incalculable good here in
 <ce> %crn. You would fare better with it than I.
-<ce> Farewell."
+<ce> Farewell".
 <ce>
 <ce> The hooded figure bows and departs.
 
@@ -39,7 +39,7 @@ Message:  1012
 <ce> "I just wanted to thank you for getting that harpy
 <ce> out of _place_. Terrifying event, that was.
 <ce> You people are admirable. Safe journeys,
-<ce> may %god be with you."
+<ce> may %god be with you".
 <ce>
 <ce> She leaves you alone. Whoever killed that harpy
 <ce> is earning quite a reputation.
@@ -47,19 +47,19 @@ Message:  1012
 <ce> "Finally! I never got to thank you for killing those
 <ce> rats in _place_. I can't believe the town guard
 <ce> leaves us to fend them off. You people are
-<ce> a wonderful alternative."
+<ce> a wonderful alternative".
 <ce>
 <ce> You're not sure this has anything to do with you,
 <ce> but you accept the thanks on the Fighters Guild's
 <ce> behalf and continue on.
 
 Message:  1013
-<ce> "Ah, appearances deceive. Very well, off I go."
+<ce> "Ah, appearances deceive. Very well, off I go".
 <ce>
 <ce> The hooded figure then departs.
 <--->
 <ce> "Are you sure? Could've sworn I heard about you
-<ce> in the guild hall recently."
+<ce> in the guild hall recently".
 <ce>
 <ce> Though perplexed, the figure heads off.
 

@@ -14,7 +14,7 @@ Message:  1010
 <ce> "'Scuse me stranger, I've got a little bit
 <ce> of something that needs to get to a
 <ce> house here in town. Pays =reward_
-<ce> gold if you know how to sneak about it."
+<ce> gold if you know how to sneak about it".
 
 Message:  1011
 <ce> "That's good. Place is _res_,
@@ -23,7 +23,7 @@ Message:  1011
 <ce> Might wanna deliver it fast, unless you
 <ce> know you're a world-class sneak.
 <ce> If it's not there in six hours
-<ce> your money is forfeit. Give it to _person_."
+<ce> your money is forfeit. Give it to _person_".
 
 Message:  1012
 <ce> Six hours have passed and you did not deliver

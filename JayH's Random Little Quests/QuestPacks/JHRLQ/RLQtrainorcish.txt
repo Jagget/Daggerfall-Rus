@@ -18,7 +18,7 @@ Message:  1010
 <ce>
 <ce> "Bilingual dictionary. Target language: Orcish.
 <ce> Book will open upon placing 250 gold coins within the pouch.
-<ce> Three hours' availability at a time."
+<ce> Three hours' availability at a time".
 <ce>
 <ce> The pouch is just barely open enough to fit
 <ce> coins into its mouth. Do you take advantage

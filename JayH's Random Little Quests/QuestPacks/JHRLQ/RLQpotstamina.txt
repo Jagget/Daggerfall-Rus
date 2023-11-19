@@ -4,7 +4,7 @@ DisplayName: СМК Stamina Potion
 QRC:
 
 QuestComplete:   [1004]
-<ce> "It is yours."
+<ce> "It is yours".
 
 Message:  1010
 <ce> A robed alchemist bandies about, showing some
@@ -14,7 +14,7 @@ Message:  1010
 <ce> "Hail %ra! I need to lighten my burden
 <ce> and wish to make a deal. Have you any need of
 <ce> a Potion of Stamina? Yours for a mere
-<ce> 75 gold, a fine offer I must say."
+<ce> 75 gold, a fine offer I must say".
 
 Message:  1011
 <ce> You are ignored as the sales-alchemist

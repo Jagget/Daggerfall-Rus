@@ -11,14 +11,14 @@ Message:  1011
 <ce> Under the overcast sky, you notice a hooded figure
 <ce> proffering gems to passers by. You catch his attention.
 <ce>
-<ce> "Got this _weapon_ here for sale. 250 gold and it's yours."
+<ce> "Got this _weapon_ here for sale. 250 gold and it's yours".
 <ce>
 <ce> The gem is clearly not enchanted. Will you buy it?
 <--->
 <ce> Under the overcast sky, you notice a hooded figure
 <ce> proffering gems to passers by. You catch her attention.
 <ce>
-<ce> "Got this _weapon_ here for sale. 250 gold and it's yours."
+<ce> "Got this _weapon_ here for sale. 250 gold and it's yours".
 <ce>
 <ce> The gem is clearly not enchanted. Will you buy it?
 

@@ -12,7 +12,7 @@ Message:  1010
 <ce> She speaks in a low voice,
 <ce>
 <ce> "Greetings, stranger. I have gold, and you have blood.
-<ce> We must exchange, I insist. Please."
+<ce> We must exchange, I insist. Please".
 <ce>
 <ce> She bares fangs and requests to feed from you.
 <ce> For 25 gold, do you allow her to drain blood?

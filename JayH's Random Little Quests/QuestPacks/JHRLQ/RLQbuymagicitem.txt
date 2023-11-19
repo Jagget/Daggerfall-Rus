@@ -17,7 +17,7 @@ Message:  1011
 <ce> "%hnr, I have a fine _item_ here, enchanted with
 <ce> powerful magicks. I can't remember what the enchantment
 <ce> is, or I'd be selling it for a lot more. For just 750
-<ce> gold pieces, it's all yours for the taking."
+<ce> gold pieces, it's all yours for the taking".
 <ce>
 <ce> Do you purchase the magic _item_?
 

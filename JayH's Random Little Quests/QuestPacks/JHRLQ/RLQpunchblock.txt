@@ -4,7 +4,7 @@ DisplayName: СМК Punch a Block
 QRC:
 
 QuestComplete:   [1004]
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА!)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
 <ce>
 <ce> When your turn comes, you stand before the peddler
 <ce> and ready your stance. You summon up all your confidence
@@ -36,7 +36,7 @@ Message:  1011
 <ce> appendages quite seriously.
 
 Message:  1012
-<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА!)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
 <ce>
 <ce> When your turn comes, you stand before the peddler
 <ce> and ready your stance. You summon up all your confidence

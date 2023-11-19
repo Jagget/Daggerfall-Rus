@@ -31,7 +31,7 @@ Message:  1011
 <ce> Description: =captive_
 <ce> Last known whereabouts: ___dung_
 <ce> Fame and good name to the one who finds %g2 and
-<ce> rescues %g2 from the pit."
+<ce> rescues %g2 from the pit".
 <ce>
 <ce> It looks like the posting is good for the next =timer_ days.
 

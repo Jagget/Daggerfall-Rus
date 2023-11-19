@@ -44,7 +44,7 @@ Message:  1013
 <ce> does not protect the unwary these days.
 <ce> I carry nothing with me, but will tell my
 <ce> family what you have done for me.
-<ce> I pray that be reward enough for your deed."
+<ce> I pray that be reward enough for your deed".
 <ce>
 <ce> The peasant departs.
 

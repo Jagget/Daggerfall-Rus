@@ -6,7 +6,7 @@ QRC:
 QuestComplete:   [1004]
 <ce> "Worthless city guard, ain't they? Makes us talk about
 <ce> withholding our taxes this year, make 'em listen for a change.
-<ce> This is yours."
+<ce> This is yours".
 
 Message:  1010
 <ce> A worried-looking youth approaches you.

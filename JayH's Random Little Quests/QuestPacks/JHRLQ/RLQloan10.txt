@@ -10,7 +10,7 @@ QuestComplete:   [1004]
 <ce>
 <ce> "_merchant_ sends %g4 regards and thanks
 <ce> you infinitely for your kindness.
-<ce> Have the money %g1 promised."
+<ce> Have the money %g1 promised".
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -39,7 +39,7 @@ Message:  1012
 <ce>
 <ce> "I do not blame you, %ra, for these
 <ce> are hard times. I will sort this matter
-<ce> out myself, have no fear."
+<ce> out myself, have no fear".
 
 Message:  1013
 <ce> "Oh yes! Yes yes yes! Thank you, thank

@@ -6,7 +6,7 @@ QRC:
 QuestComplete:  [1004]
 <ce> The elderly man sighs with relief upon entering the temple.
 <ce> "Blessings upon you, %ra. I cannot pay you, but
-<ce> I pray %god will."
+<ce> I pray %god will".
 <ce>
 <ce> He then hobbles in.
 
@@ -16,22 +16,22 @@ Message:  1010
 <ce> "Excuse me, I need to get to _temple_
 <ce> to ask some alms, and my leg acts up on days like this.
 <ce> Could you lead me there? I don't have any money,
-<ce> so I ask from the kindness of your heart."
+<ce> so I ask from the kindness of your heart".
 
 Message:  1011
 <ce> "That's so kind of you. Rare to find folk
 <ce> like that nowadays. I want to be there within
 <ce> an hour's time, if you don't mind.
 <ce> I can make it there with your help.
-<ce> I think we go %di."
+<ce> I think we go %di".
 
 Message:  1012
 <ce> The old man moves on without you.
 <ce>
-<ce> "Sorry, but I really must get to the temple."
+<ce> "Sorry, but I really must get to the temple".
 
 Message:  1013
-<ce> "Oh. O-okay, sorry to bother you."
+<ce> "Oh. O-okay, sorry to bother you".
 <ce>
 <ce> He hobbles off alone.
 

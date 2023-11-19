@@ -57,7 +57,7 @@ Message:  1013
 <ce> The warrior then hurries off.
 <--->
 <ce> "Are you sure? Could've sworn I heard about you
-<ce> in the guild hall recently."
+<ce> in the guild hall recently".
 <ce>
 <ce> Though perplexed, the warrior heads off.
 

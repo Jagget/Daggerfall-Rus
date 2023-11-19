@@ -18,7 +18,7 @@ Message:  1010
 <ce>
 <ce> "300 gold to read book for three hours.
 <ce> Learn the fine art of mysticism.
-<ce> Book will be relocated at owner's pleasure."
+<ce> Book will be relocated at owner's pleasure".
 <ce>
 <ce> The pouch is just barely open enough to fit
 <ce> coins into its mouth. Do you take advantage

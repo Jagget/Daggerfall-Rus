@@ -23,7 +23,7 @@ Message:  1011
 <ce>
 <ce> "The _relig_ you hold needs to be there
 <ce> within 12 hours. Please ensure it arrives safely
-<ce> to _recep_ who will await within."
+<ce> to _recep_ who will await within".
 <ce>
 <ce> He thanks you and begins his journey.
 

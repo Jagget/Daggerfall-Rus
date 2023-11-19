@@ -25,20 +25,20 @@ Message:  1011
 <ce> everything I earned this week to get a cure, and I'm
 <ce> not risking that again. Want take over the contract?
 <ce> Kill the remaining rats and I'll split it with you,
-<ce> half and half."
+<ce> half and half".
 
 Message:  1012
 <ce> "Maybe you're smarter than I am. This guild
-<ce> doesn't have your back when things get bad."
+<ce> doesn't have your back when things get bad".
 <ce>
 <ce> The wounded warrior heads off to find the temple.
    <--->
-<ce> "Oh well. It was worth a shot."
+<ce> "Oh well. It was worth a shot".
 <ce>
 <ce> The fighter moves on to find a cure.
    <--->
 <ce> "Maybe it's for the better. I should
-<ce> head back to the farm."
+<ce> head back to the farm".
 <ce>
 <ce> The warrior leaves you alone.
 
@@ -46,7 +46,7 @@ Message:  1013
 <ce> "It's called _place_, %di from here.
 <ce> I think there's about 18 hours left before
 <ce> they call the contract. If you can kill them,
-<ce> I'll come back and make sure you get the payment."
+<ce> I'll come back and make sure you get the payment".
 <ce>
 <ce> The warrior heads off to find a cure.
 

@@ -20,7 +20,7 @@ Message:  1011
 <ce>
 <ce> "Thank you. %cn depends on this money
 <ce> for its safety, and you are doing your
-<ce> part. %god watch over us all."
+<ce> part. %god watch over us all".
 
 Message:  1012
 <ce> You start searching for 25 gold pieces, but
@@ -33,7 +33,7 @@ Message:  1013
 <ce> "Well, you can still turn in the money to
 <ce> _person_ at _palace_ here in town within
 <ce> the next 24 hours. Otherwise we'll remember
-<ce> this. Fair %sea to you, %ra."
+<ce> this. Fair %sea to you, %ra".
 
 Message:  1014
 <ce> You've passed the 24-hour time limit to pay

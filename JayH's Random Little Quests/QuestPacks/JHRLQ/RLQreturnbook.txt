@@ -8,7 +8,7 @@ QuestComplete:  [1004]
 <ce> waiting by the entrance. You hand %g2 the book and
 <ce> receive your payment. "Thank you! %hnr, I could not
 <ce> have gone another day without this.
-<ce> Luck be with thee in thy travels."
+<ce> Luck be with thee in thy travels".
 
 Message:  1010
 <ce> You are flagged down by a nervous-looking person
@@ -20,13 +20,13 @@ Message:  1010
 
 Message:  1011
 <ce> "Thank you! _building_ is %di from here.
-<ce> Please make sure it's there before 12 hours have passed."
+<ce> Please make sure it's there before 12 hours have passed".
 <ce>
 <ce> He places the book in your hands and heads off
 <ce> to leave the town.
    <--->
 <ce> "Thank you! _building_ is %di from here.
-<ce> Please make sure it's there before 12 hours have passed."
+<ce> Please make sure it's there before 12 hours have passed".
 <ce>
 <ce> She places the book in your hands and heads off
 <ce> to leave the town.
