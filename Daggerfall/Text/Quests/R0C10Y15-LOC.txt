@@ -172,4 +172,4 @@ variable _1stparton_
 _2ndparton_ task:
 	make _item2_ permanent
 	change repute with _questgiver_ by -20
-	end quest 
+	end quest

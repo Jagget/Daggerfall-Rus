@@ -1814,7 +1814,7 @@ maxf: 70
 
 			#72
 			type: 5
-			name: Оружейный Мастер
+			name: Оружейные Мастера
 			rep: 0
 			summon: -1
 			region: -1

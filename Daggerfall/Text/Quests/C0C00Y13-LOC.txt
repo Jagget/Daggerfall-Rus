@@ -117,4 +117,4 @@ _questdone_ task:
 
 _S.02_ task:
 	injured _spellsword_ saying 1011
-	injured _thief_ saying 1011 
+	injured _thief_ saying 1011

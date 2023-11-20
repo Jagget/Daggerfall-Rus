@@ -68,7 +68,7 @@ shadowResolutionModes,"Низкое
 Среднее
 Высокое
 Очень высокое"
-textureArrayLabel,Массивы текстур:
+textureArrayLabel,"Массивы текстур: "
 unsupported,Неподдерживается
 enabled,Включено
 disabled,Отключено

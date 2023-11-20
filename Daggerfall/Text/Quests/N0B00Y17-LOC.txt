@@ -357,7 +357,7 @@ Clock _time2_ 00:00 0 flag 17 range 1 2
 	--added underscores to map2
 	_I.03_ used do _S.16_
 	place npc _scholar_ at _scholardung_
-	
+
 
 _time1_ task:
 	end quest

@@ -200,4 +200,4 @@ _keptgems_ task:
 
 _S.09_ task:
 	when _npcclicked_ and _1stparton_
-	change repute with _questgiver_ by -20 
+	change repute with _questgiver_ by -20

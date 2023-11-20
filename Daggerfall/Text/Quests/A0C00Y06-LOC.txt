@@ -150,4 +150,4 @@ _findtraitor_ task:
 
 _clearclick_ task:
 	when _clickqgiver_ and not _teleportpc_
-	clear _clickqgiver_ 
+	clear _clickqgiver_
