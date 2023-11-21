@@ -1,5 +1,5 @@
 Quest: RLQangrypick
-DisplayName: СМК Карманники достали
+DisplayName: СМК: Карманники достали
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQkillrats
-DisplayName: СМК Kill Rats
+DisplayName: СМК: Kill Rats
 -- Message panels
 QRC:
 

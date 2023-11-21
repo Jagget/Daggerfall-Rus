@@ -1,5 +1,5 @@
 Quest: RLQlottery
-DisplayName: СМК A Lottery
+DisplayName: СМК: A Lottery
 -- Message panels
 QRC:
 

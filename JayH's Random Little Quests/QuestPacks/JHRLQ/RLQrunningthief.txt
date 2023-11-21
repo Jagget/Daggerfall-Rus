@@ -1,5 +1,5 @@
 Quest: RLQrunningthief
-DisplayName: СМК A Running Thief
+DisplayName: СМК: A Running Thief
 -- Message panels
 QRC:
 

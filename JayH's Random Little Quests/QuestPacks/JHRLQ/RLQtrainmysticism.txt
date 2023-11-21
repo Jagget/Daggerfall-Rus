@@ -1,5 +1,5 @@
 Quest: RLQtrainmysticism
-DisplayName: СМК A Mysticism Lesson
+DisplayName: СМК: A Mysticism Lesson
 -- Message panels
 QRC:
 

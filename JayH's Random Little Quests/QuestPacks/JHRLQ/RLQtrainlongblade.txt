@@ -1,5 +1,5 @@
 Quest: RLQtrainlongblade
-DisplayName: СМК Long Blade Training
+DisplayName: СМК: Long Blade Training
 -- Message panels
 QRC:
 

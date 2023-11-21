@@ -1,5 +1,5 @@
 Quest: RLQpotfreeaction
-DisplayName: СМК Free Action Potion
+DisplayName: СМК: Free Action Potion
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQpothealing
-DisplayName: СМК Healing Potion
+DisplayName: СМК: Healing Potion
 -- Message panels
 QRC:
 

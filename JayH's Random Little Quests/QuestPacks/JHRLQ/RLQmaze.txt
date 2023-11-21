@@ -1,5 +1,5 @@
 Quest: RLQmaze
-DisplayName: СМК Maze
+DisplayName: СМК: Maze
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQnightflavor
-DisplayName: СМК Night Flavor
+DisplayName: СМК: Night Flavor
 -- Message panels
 QRC:
 

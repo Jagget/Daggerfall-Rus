@@ -1,5 +1,5 @@
 Quest: RLQbuygem
-DisplayName: СМК Buy a Gem
+DisplayName: СМК: Buy a Gem
 -- Message panels
 QRC:
 

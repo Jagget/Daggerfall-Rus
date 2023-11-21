@@ -1,5 +1,5 @@
 Quest: RLQtrainrestoration
-DisplayName: СМК A Restoration Lesson
+DisplayName: СМК: A Restoration Lesson
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQchangebandage
-DisplayName: СМК Change a Bandage
+DisplayName: СМК: Change a Bandage
 -- Message panels
 QRC:
 

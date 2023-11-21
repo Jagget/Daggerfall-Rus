@@ -1,33 +1,33 @@
 Quest: RLQyousteal
-DisplayName: СМК You Steal
+DisplayName: СМК: Вы своруете?
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
-<ce> The mark doesn't even realize it. You grab the
-<ce> gem without a single rustle, and pocket it before
-<ce> anyone can see you.
+<ce> Ваша цель ничего не замечает. Вы без единого шороха
+<ce> хватаете драгоценный камень и прикарманиваете его,
+<ce> пока никто не видит.
 
 Message:  1010
-<ce> A careless peasant is going about his daily tasks,
-<ce> unaware that he has left a very shiny jewel showing
-<ce> from his pocket. If you were good at theft,
-<ce> you could attempt to gain it for yourself.
-<ce> Will you try?
+<ce> Беспечный крестьянин идет по своим делам и не
+<ce> замечает, что у него из кармана торчит
+<ce> блестящий драгоценный камень. Если бы вы были
+<ce> хороши в воровстве, вы могли бы попытаться
+<ce> присвоить его себе. Вы попробуете?
 <--->
-<ce> A careless peasant is going about her daily tasks,
-<ce> unaware that she has left a very shiny jewel showing
-<ce> from her pocket. If you were good at theft,
-<ce> you could attempt to gain it for yourself.
-<ce> Will you try?
+<ce> Беспечная крестьянка идет по своим делам и не
+<ce> замечает, что у нее из кармана торчит
+<ce> блестящий драгоценный камень. Если бы вы были
+<ce> хороши в воровстве, вы могли бы попытаться
+<ce> присвоить его себе. Вы попробуете?
 
 Message:  1011
-<ce> You ignore the gem and continue on your way.
+<ce> Вы игнорируете драгоценный камень и продолжаете свой путь.
 
 Message:  1012
-<ce> You calmly step forward and try to pull on the
-<ce> gem, but are only a bit too clumsy to get it free.
-<ce> The peasant turns and then screeches for help.
+<ce> Вы спокойно шагаете вперед и пытаетесь дотянуться до драгоценного
+<ce> каменя, но оказываетесь слишком неуклюжи, чтобы вытащить его.
+<ce> Ваша цель поворачивается, а затем зовет на помощь.
 
 QBN:
 

@@ -1,5 +1,5 @@
 Quest: RLQsnowtaxes2
-DisplayName: СМК Snow Taxes 2
+DisplayName: СМК: Snow Taxes 2
 -- Message panels
 QRC:
 

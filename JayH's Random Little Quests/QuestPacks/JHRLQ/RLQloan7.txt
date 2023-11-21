@@ -1,5 +1,5 @@
 Quest: RLQloan7
-DisplayName: СМК Loan 7
+DisplayName: СМК: Loan 7
 -- Message panels
 QRC:
 

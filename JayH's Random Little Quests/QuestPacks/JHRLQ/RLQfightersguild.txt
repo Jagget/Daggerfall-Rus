@@ -1,5 +1,5 @@
 Quest: RLQfightersguild
-DisplayName: СМК Fighters Guild
+DisplayName: СМК: Fighters Guild
 -- Message panels
 QRC:
 

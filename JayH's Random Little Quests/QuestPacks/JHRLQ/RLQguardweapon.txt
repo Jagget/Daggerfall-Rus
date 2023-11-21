@@ -1,5 +1,5 @@
 Quest: RLQguardweapon
-DisplayName: СМК Guard Weapon
+DisplayName: СМК: Guard Weapon
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQsingingcircle
-DisplayName: СМК Singing Circle
+DisplayName: СМК: Singing Circle
 -- Message panels
 QRC:
 

@@ -1,5 +1,5 @@
 Quest: RLQtavernrace
-DisplayName: СМК Tavern Race
+DisplayName: СМК: Tavern Race
 -- Message panels
 QRC:
 

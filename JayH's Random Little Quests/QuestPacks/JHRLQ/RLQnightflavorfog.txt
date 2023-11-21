@@ -1,5 +1,5 @@
 Quest: RLQnightflavorfog
-DisplayName: СМК Night Flavor Fog
+DisplayName: СМК: Night Flavor Fog
 -- Message panels
 QRC:
 

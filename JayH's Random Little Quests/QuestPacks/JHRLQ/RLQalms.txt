@@ -1,5 +1,5 @@
 Quest: RLQalms
-DisplayName: СМК Милостыня для бедных
+DisplayName: СМК: Милостыня для бедных
 -- Message panels
 QRC:
 

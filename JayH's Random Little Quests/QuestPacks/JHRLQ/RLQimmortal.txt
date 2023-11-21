@@ -1,5 +1,5 @@
 Quest: RLQimmortal
-DisplayName: СМК Immortal Foe
+DisplayName: СМК: Immortal Foe
 -- Message panels
 QRC:
 

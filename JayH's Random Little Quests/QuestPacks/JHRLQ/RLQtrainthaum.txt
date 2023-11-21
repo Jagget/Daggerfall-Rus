@@ -1,5 +1,5 @@
 Quest: RLQtrainthaum
-DisplayName: СМК Thaumaturgy Training
+DisplayName: СМК: Thaumaturgy Training
 -- Message panels
 QRC:
 

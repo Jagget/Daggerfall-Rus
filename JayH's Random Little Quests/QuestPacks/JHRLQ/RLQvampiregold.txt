@@ -1,55 +1,55 @@
 Quest: RLQvampiregold
-DisplayName: СМК Vampire and Gold
+DisplayName: СМК: Вампир и золото
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> The hooded woman grants you your money
-<ce> and escapes before searching eyes find her.
+<ce> Женщина в капюшоне дает вам деньги и убегает,
+<ce> прежде чем ее заметят.
 
 Message:  1010
-<ce> You become aware of a hooded woman watching you nearby.
-<ce> She speaks in a low voice,
+<ce> Вы заметили, что за вами наблюдает женщина в капюшоне.
+<ce> Она говорит низким голосом,
 <ce>
-<ce> "Greetings, stranger. I have gold, and you have blood.
-<ce> We must exchange, I insist. Please".
+<ce> "Приветствую вас, незнакомец. У меня есть золото, а у вас -
+<ce> кровь. Мы должны обменяться, я настаиваю. Пожалуйста".
 <ce>
-<ce> She bares fangs and requests to feed from you.
-<ce> For 25 gold, do you allow her to drain blood?
-<ce> Or if you were daring, you could try to slay this vampire.
+<ce> Она обнажает клыки и просит покормить ее. За 25 золотых
+<ce> вы позволите ей выпить кровь? Или, если хотите, вы
+<ce> можете попытаться убить этого вампира.
 <ce>
-<ce> Do you: (ACCEPT) allow her to feed, (REJECT) refuse,
-<ce> or (COUNTER) attack the vampire?
+<ce> Что вы сделаете: позволите ей питаться (ПРИНЯТЬ),
+<ce> откажетесь (ОТКАЗ) или нападете на вампира (ПРОТИВ)?
 
 Message:  1011
-<ce> She turns away silently.
+<ce> Она молча отворачивается.
 
 Message:  1012
-<ce> With great care and speed she sinks her teeth
-<ce> into your neck. You don't feel much pain as she
-<ce> draws blood from you.
+<ce> С большой осторожностью и быстротой она впивается
+<ce> зубами в вашу шею. Вы не чувствуете особой боли,
+<ce> пока она пьет из вас кровь.
 <ce>
-<ce> "More? I have more gold," she says.
+<ce> "Еще? У меня есть еще золото", - говорит она.
 <ce>
-<ce> For 25 more gold pieces, do you allow her to feed more?
+<ce> За 25 золотых вы позволите ей выпить еще крови?
 
 Message:  1013
-<ce> She feeds again. You feel more pain this time,
-<ce> though you manage to stick with it.
+<ce> Она снова кормится. На этот раз вы чувствуете
+<ce> больше боли, но вам удается выстоять.
 <ce>
-<ce> She offers 25 more gold if you will allow it again.
+<ce> Она предлагает еще 25 золотых, если вы снова позволите.
 
 Message:  1014
-<ce> She drains more blood, hurried to get all she can.
-<ce> This time hurts quite a bit more, but you survive.
+<ce> Она высасывает еще больше крови, торопясь получить все, что можно.
+<ce> На этот раз гораздо больнее, но вы выживаете.
 <ce>
-<ce> "Almost there. One last time?" she asks, showing 25 more gold coins.
+<ce> "Почти готово. В последний раз?" - спрашивает она, показывая еще 25 золотых.
 
 Message:  1015
-<ce> The pain is overwhelming now, but she is finally satisfied.
+<ce> Боль уже невыносима, но она наконец-то удовлетворена.
 
 Message:  1016
-<ce> The vampire hisses and defends herself.
+<ce> Вампирша шипит и защищается.
 
 QBN:
 

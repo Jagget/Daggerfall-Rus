@@ -1,5 +1,5 @@
 Quest: RLQreturnbook
-DisplayName: СМК Returning a Book
+DisplayName: СМК: Returning a Book
 -- Message panels
 QRC:
 

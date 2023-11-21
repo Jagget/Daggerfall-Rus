@@ -1,5 +1,5 @@
 Quest: RLQraintaxes1
-DisplayName: СМК Rain Taxes 1
+DisplayName: СМК: Rain Taxes 1
 -- Message panels
 QRC:
 

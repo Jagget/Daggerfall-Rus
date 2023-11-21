@@ -1,5 +1,5 @@
 Quest: RLQleprosyheal
-DisplayName: СМК Heal Leprosy
+DisplayName: СМК: Heal Leprosy
 -- Message panels
 QRC:
 

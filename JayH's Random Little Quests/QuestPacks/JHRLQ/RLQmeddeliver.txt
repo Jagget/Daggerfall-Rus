@@ -1,5 +1,5 @@
 Quest: RLQmeddeliver
-DisplayName: СМК A Medical Delivery
+DisplayName: СМК: A Medical Delivery
 -- Message panels
 QRC:
 

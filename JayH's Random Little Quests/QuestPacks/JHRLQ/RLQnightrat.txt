@@ -1,5 +1,5 @@
 Quest: RLQnightrat
-DisplayName: СМК Night Rat
+DisplayName: СМК: Night Rat
 -- Message panels
 QRC:
 

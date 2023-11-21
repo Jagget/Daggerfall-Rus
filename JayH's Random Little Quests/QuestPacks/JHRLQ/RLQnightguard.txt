@@ -1,5 +1,5 @@
 Quest: RLQnightguard
-DisplayName: СМК Night Guard
+DisplayName: СМК: Night Guard
 -- Message panels
 QRC:
 

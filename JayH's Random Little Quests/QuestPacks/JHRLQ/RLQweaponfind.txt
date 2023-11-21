@@ -1,5 +1,5 @@
 Quest: RLQweaponfind
-DisplayName: СМК A Weapon to Find
+DisplayName: СМК: A Weapon to Find
 -- Message panels
 QRC:
 

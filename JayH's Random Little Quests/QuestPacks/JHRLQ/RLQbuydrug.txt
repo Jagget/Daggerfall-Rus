@@ -1,5 +1,5 @@
 Quest: RLQbuydrug
-DisplayName: СМК Buy a Drug
+DisplayName: СМК: Buy a Drug
 -- Message panels
 QRC:
 

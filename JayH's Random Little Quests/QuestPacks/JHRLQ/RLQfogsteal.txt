@@ -1,5 +1,5 @@
 Quest: RLQfogsteal
-DisplayName: СМК Fog Steal
+DisplayName: СМК: Fog Steal
 -- Message panels
 QRC:
 

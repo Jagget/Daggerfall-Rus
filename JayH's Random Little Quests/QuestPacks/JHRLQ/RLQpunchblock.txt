@@ -1,5 +1,5 @@
 Quest: RLQpunchblock
-DisplayName: СМК Punch a Block
+DisplayName: СМК: Punch a Block
 -- Message panels
 QRC:
 

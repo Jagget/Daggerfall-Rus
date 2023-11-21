@@ -1,5 +1,5 @@
 Quest: RLQescapedatronach
-DisplayName: СМК Escaped Atronach
+DisplayName: СМК: Escaped Atronach
 -- Message panels
 QRC:
 
