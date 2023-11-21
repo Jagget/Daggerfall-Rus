@@ -1,51 +1,51 @@
 Quest: RLQweaponfind
-DisplayName: СМК: A Weapon to Find
+DisplayName: СМК: Найденное оружие
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
-<ce> You take the weapon for yourself.
+<ce> Вы забираете оружие себе.
 
 Message:  1010
-<ce> The shining sun reflects off something partially
-<ce> concealed in the ground. You make out the form of
-<ce> a weapon, apparently an abandoned _weapon_.
-<ce> Perhaps it has no owner now.
-<ce> Will you take it for yourself?
+<ce> Солнце блестит на чем-то, частично
+<ce> скрытом в земле. Вы различаете форму
+<ce> оружия, по-видимому, кто-то обронил
+<ce> _weapon_. Возможно, у него теперь нет
+<ce> хозяина. Возьмете ли вы его себе?
 
 Message:  1011
-<ce> You start to unearth the weapon when you
-<ce> hear a voice shout nearby. "Hey!
-<ce> Filthy git, that's mine! Don't touch it!"
+<ce> Вы начинаете раскапывать оружие, как
+<ce> вдруг слышите рядом голос. "Эй! Мерзкий
+<ce> ублюдок, это мое! Не трогай!"
 <ce>
-<ce> If you leave it now, you might be able
-<ce> to avoid a misunderstanding. Of course,
-<ce> you could still take the _weapon_
-<ce> if you really wanted to.
-<ce> Do you take the weapon anyway?
+<ce> Если вы отдадите его сейчас, то,
+<ce> возможно, вам удастся избежать
+<ce> недоразумений. Конечно, вы все равно
+<ce> можете взять _weapon_, если очень
+<ce> захотите. Вы все равно берете оружие?
 
 Message:  1012
-<ce> "Hey! No, that's mine! Guards! Someone help!"
+<ce> "Эй! Нет, это мое! Стража! Кто-нибудь, помогите!"
 <ce>
-<ce> Commotion stirs nearby as the peasant
-<ce> calls for the city watch.
+<ce> Неподалеку начинается суматоха:
+<ce> крестьянин зовет городскую стражу.
 
 Message:  1013
-<ce> "That's right, you get back now!"
+<ce> "Правильно, отойдите немедленно!"
 <ce>
-<ce> You back off and let the situation
-<ce> alone. You could get into a lot of
-<ce> trouble for persisting.
+<ce> Вы отступаете и решаете не вмешиваться.
+<ce> У вас могут быть большие неприятности,
+<ce> если вы будете упорствовать.
 
 Message:  1014
-<ce> For all you know, this is a trap of some kind
-<ce> to hurt or defame a person. Better to let things be.
+<ce> Насколько вы знаете, это какая-то ловушка, чтобы подставить
+<ce> или опорочить человека. Лучше оставить все как есть.
 
 Message:  1015
-<ce> You look around and try to make your intentions obvious,
-<ce> just in case the _weapon_ actually belongs to someone
-<ce> around here. No one stops you, and several townspeople
-<ce> pass by without batting an eye.
+<ce> Вы оглядываетесь по сторонам, стараясь сделать свои намерения
+<ce> очевидными - на случай, если _weapon_ действительно принадлежит
+<ce> кому-то из местных жителей. Никто не останавливает вас, и несколько
+<ce> горожан проходят мимо, не обращая внимания.
 
 QBN:
 

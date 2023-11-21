@@ -1,26 +1,26 @@
 Quest: RLQvampireencounter
-DisplayName: СМК: Vampire Encounter
+DisplayName: СМК: Встреча с вампиром
 -- Message panels
 QRC:
 
 Message:  1010
-<ce> A hissing sound nearby makes your ears perk up.
-<ce> A feral vampire has come to the town, seeking sustenance.
-<ce> You could fight her if you felt brave. Do you attack?
+<ce> Шипящий звук неподалеку заставляет вас навострить уши.
+<ce> В город пришел дикий вампир, ищущий пропитания. Вы могли
+<ce> бы сразиться с ним, если готовы к бою. Вы нападете?
 
 Message:  1011
-<ce> You call for the vampire's attention,
-<ce> and she gladly closes in on you.
+<ce> Вы обращаете внимание вампира на себя, и он
+<ce> с радостью приближается к вам.
 
 Message:  1012
-<ce> The vampire falls, and her belongings are yours
-<ce> to take. A member of the city watch approaches and
-<ce> gives you thanks and praise for keeping the town safe.
+<ce> Вампир падает, а его вещи достаются вам. К вам
+<ce> подходит член городской стражи и благодарит вас
+<ce> за то, что вы обеспечили безопасность города.
 
 Message:  1013
-<ce> You keep out of the vampire's sight. As she starts searching
-<ce> for prey, she encounters multiple members of the town guard,
-<ce> who destroy her with ease.
+<ce> Вы стараетесь не попадаеть в поле зрения вампира. Когда он начинает
+<ce> искать добычу, он сталкивается с несколькими членами городской
+<ce> стражи, которые с легкостью уничтожают его.
 
 QBN:
 

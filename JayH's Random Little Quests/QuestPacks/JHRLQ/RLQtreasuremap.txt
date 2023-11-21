@@ -1,5 +1,5 @@
 Quest: RLQtreasuremap
-DisplayName: СМКs Treasure Map
+DisplayName: СМК: Treasure Map
 -- Message panels
 QRC:
 
