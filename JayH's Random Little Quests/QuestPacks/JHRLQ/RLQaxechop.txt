@@ -1,5 +1,5 @@
 Quest: RLQaxechop
-DisplayName: СМК Axe Chop
+DisplayName: СМК Рубить топором
 -- Message panels
 QRC:
 
