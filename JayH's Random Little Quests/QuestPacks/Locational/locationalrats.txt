@@ -1,5 +1,5 @@
 Quest: locationalrats
-DisplayName: Rats (Квест Пак 1)
+DisplayName: Крысы (Квест Пак 1)
 -- Message panels
 QRC:
 
