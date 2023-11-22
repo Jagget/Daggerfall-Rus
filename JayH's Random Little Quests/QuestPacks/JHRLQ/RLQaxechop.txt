@@ -4,61 +4,61 @@ DisplayName: СМК: Рубить топором
 QRC:
 
 QuestComplete:   [1004]
-<ce> You are led a short ways to the home
-<ce> of this simple peasant. The
-<ce> lumber poses no great difficulty
-<ce> to someone of your strength.
-<ce> It takes a few hours, but you manage to
-<ce> fill an entire wagon with chopped wood,
-<ce> enough to last several weeks.
+<ce> Вас проводят коротким путем к бедному
+<ce> крестьянскому дому. Заготовка древесины
+<ce> не представляет большой трудности для
+<ce> такого сильного человека как вы. Это
+<ce> занимает всего пару часов, но вам удается
+<ce> наполнить целую повозку колотыми дровами,
+<ce> которых хватит на несколько недель.
 <ce>
-<ce> "You're awfully kind to do this for me.
-<ce> I'm sure this gold won't compensate you.
-<ce> Maybe %god will in my place.
-<ce> May %monn be kind to you".
+<ce> "Ужасно любезно с вашей стороны сделать это для меня.
+<ce> Я знаю, что это золото вам ничего не компенсирует.
+<ce> Но, может быть, %god сделает это вместо меня. Пусть месяц
+<ce> %monn будет добр к вам".
 
 Message:  1010
-<ce> A weary, elderly peasant opportunes
-<ce> people in the area for help with something.
-<ce> He then approaches you, and asks for your
-<ce> help in a raspy voice.
+<ce> Изможденный пожилой крестьянин подходит то
+<ce> к одному, то к другому прохожему с просьбой
+<ce> помочь ему в чем-то. Затем он подходит
+<ce> к вам и хриплым голосом просит о помощи.
 <ce>
-<ce> "I'm sorry to bother you %ra, but I've no
-<ce> one else to ask. I sent my children off to
-<ce> labor for the season, and have run out of wood
-<ce> for my stove at home. The nights get so cold.
-<ce> I'm too old to chop the wood myself.
-<ce> If you've got a strong arm and a few hours,
-<ce> would you be able to chop some for me?
-<ce> I'll pay you, honest".
+<ce> "Простите, что беспокою вас, %ra, но мне
+<ce> больше не к кому обратиться. Я отправил своих
+<ce> детей на заработки, а дома у меня закончились
+<ce> дрова для печки. Ночи становятся такими
+<ce> холодными. Я слишком стар, чтобы самому рубить
+<ce> дрова. Если у вас сильные руки и есть пара
+<ce> свободных часов, не могли бы вы нарубить для
+<ce> меня немного дров? Я заплачу вам, честно".
    <--->
-<ce> A weary, elderly peasant opportunes
-<ce> people in the area for help with something.
-<ce> She then approaches you, and asks for your
-<ce> help in a raspy voice.
+<ce> Изможденная пожилая крестьянка подходит то
+<ce> к одному, то к другому прохожему с просьбой
+<ce> помочь ей в чем-то. Затем она подходит
+<ce> к вам и хриплым голосом просит о помощи.
 <ce>
-<ce> "I'm sorry to bother you %ra, but I've no
-<ce> one else to ask. My husband died this year
-<ce> and my family has forgotten all about me.
-<ce> All I want is some wood for the stove.
-<ce> I get so cold at night I can't sleep, and
-<ce> I can't split the wood myself.
-<ce> If you've got a strong arm and a few hours,
-<ce> would you be able to chop some for me?
-<ce> I'll pay you what little money I can for it".
+<ce> "Извините, что беспокою вас, %ra, но мне
+<ce> больше не к кому обратиться. Мой муж
+<ce> недавно умер, а моя семья забыла обо мне.
+<ce> Все, что мне нужно, - это дрова для печки.
+<ce> Я так мерзну по ночам, что не могу спать,
+<ce> а сама расколоть дрова не могу. Если у вас
+<ce> сильные руки и есть пара свободных часов,
+<ce> не могли бы вы нарубить для меня немного
+<ce> дров? Я заплачу вам за это, сколько смогу".
 
 Message:  1011
-<ce> The peasant's voice trembles.
+<ce> Вам отвечают дрожащим голосом:
 <ce>
-<ce> "Oh... Oh, I'm sure I'll find someone,
-<ce> don't you worry. %god bless your travels".
+<ce> "О... О, я обязательно найду кого-нибудь, не волнуйтесь.
+<ce> Да благословит %god ваши путешествия".
 
 Message:  1012
-<ce> You take the hand axe and follow a short ways
-<ce> to the peasant's home. You try and try to split
-<ce> the wood, but you simply aren't strong enough
-<ce> for the task. The elderly peasant, feeling sorry for
-<ce> you, excuses you and thanks you for the attempt.
+<ce> Вы берете небольшой топор и идете
+<ce> коротким путем к крестьянскому дому.
+<ce> Вы пытаетесь наколоть дров, но у вас
+<ce> не хватает сил. Пожалев вас, бедолага
+<ce> извиняется и благодарит за попытку.
 
 QBN:
 
