@@ -1,7 +1,7 @@
-itle: Король Эдвард, т.8
+Title: Король Эдвард, т.8
 Author: Автор неизвестен
 IsNaughty: False
-ice: 300
+Price: 300
 IsUnique: False
 WhenVarSet:
 Content:

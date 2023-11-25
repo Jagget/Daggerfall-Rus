@@ -193,14 +193,14 @@ enableController,                                   "Включить Контр
 invert,                                             "Развернуть"
 lookSensitivity,                                    "Чувствительность обзора"
 uiMouseSensitivity,                                 "Чувствительность мыши"
-maximumMovementThreshold,                           "максимальный порог движения"
-deadzone,                                           "Мёртвая зона"
+maximumMovementThreshold,                           "Максимальный порог движения"
+deadzone,                                           "Мертвая зона"
 movementH,                                          "Гор. движение"
 movementV,                                          "Верт. движение"
 cameraH,                                            "Гор. камера"
 cameraV,                                            "Верт. камера"
-primary,                                            "Основной"
-secondary,                                          "Дополнительный"
+primary,                                            "Основные"
+secondary,                                          "Дополнительные"
 
 - Options shared among sliders. Missing keys use default text.
 
