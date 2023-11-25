@@ -1,7 +1,7 @@
 Title: Ядовитая песня, книга VI
 Author: Бристин Зел
 IsNaughty: False
-Price: 500
+Price: 270
 IsUnique: False
 WhenVarSet:
 Content:

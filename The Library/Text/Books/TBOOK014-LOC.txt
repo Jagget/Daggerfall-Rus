@@ -1,7 +1,7 @@
 Title: Танец в огне, т. 6
 Author: Вогин Джарт
 IsNaughty: False
-Price: 500
+Price: 490
 IsUnique: False
 WhenVarSet:
 Content:

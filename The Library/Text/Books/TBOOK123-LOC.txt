@@ -1,7 +1,7 @@
 Title: Инцидент в Некроме
 Author: Джонкилла Бот
 IsNaughty: False
-Price: 500
+Price: 260
 IsUnique: False
 WhenVarSet:
 Content:

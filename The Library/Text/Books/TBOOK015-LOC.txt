@@ -1,7 +1,7 @@
 Title: Танец в огне, т. 7
 Author: Вогин Джарт
 IsNaughty: False
-Price: 500
+Price: 440
 IsUnique: False
 WhenVarSet:
 Content:

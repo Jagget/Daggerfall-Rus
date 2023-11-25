@@ -1,7 +1,7 @@
 Title: 2920, Месяц Первого зерна (т. 3)
 Author: Карловак Таунвей
 IsNaughty: False
-Price: 500
+Price: 350
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Дневник Старловера
 Author: Старловер
 IsNaughty: False
-Price: 500
+Price: 40
 IsUnique: False
 WhenVarSet:
 Content:

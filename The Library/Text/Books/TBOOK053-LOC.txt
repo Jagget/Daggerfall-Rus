@@ -1,7 +1,7 @@
 Title: Королева-Волчица, т. 5
 Author: Вогин Джарт
 IsNaughty: False
-Price: 500
+Price: 280
 IsUnique: False
 WhenVarSet:
 Content:

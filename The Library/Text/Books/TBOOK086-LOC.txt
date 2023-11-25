@@ -1,7 +1,7 @@
 Title: Предполагаемое коварство
 Author: Антил Морвир
 IsNaughty: False
-Price: 500
+Price: 320
 IsUnique: False
 WhenVarSet:
 Content:

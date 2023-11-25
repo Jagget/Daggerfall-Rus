@@ -1,7 +1,7 @@
 Title: Тишина
 Author: Ганферил Кимет
 IsNaughty: False
-Price: 500
+Price: 120
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Конец жатвы
 Author: Тал Марог Кер
 IsNaughty: False
-Price: 500
+Price: 120
 IsUnique: False
 WhenVarSet:
 Content:

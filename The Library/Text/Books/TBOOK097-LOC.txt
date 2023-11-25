@@ -1,7 +1,7 @@
 Title: Признания данмера, любителя скумы
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 65
 IsUnique: False
 WhenVarSet:
 Content:

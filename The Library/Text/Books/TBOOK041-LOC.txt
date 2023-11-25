@@ -1,7 +1,7 @@
 Title: 2920, Месяц Второго зерна (т. 5)
 Author: Карловак Таунвей
 IsNaughty: False
-Price: 500
+Price: 360
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Ядовитая песня, книга I
 Author: Бристин Зел
 IsNaughty: False
-Price: 500
+Price: 400
 IsUnique: False
 WhenVarSet:
 Content:

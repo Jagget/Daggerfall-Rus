@@ -1,7 +1,7 @@
 Title: Золотая Лента
 Author: Ампириан Брум
 IsNaughty: False
-Price: 500
+Price: 210
 IsUnique: False
 WhenVarSet:
 Content:

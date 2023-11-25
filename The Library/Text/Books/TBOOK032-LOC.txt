@@ -1,7 +1,7 @@
 Title: Ядовитая песня, книга III
 Author: Бристин Зел
 IsNaughty: False
-Price: 500
+Price: 190
 IsUnique: False
 WhenVarSet:
 Content:

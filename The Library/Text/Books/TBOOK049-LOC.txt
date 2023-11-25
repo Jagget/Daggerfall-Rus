@@ -1,7 +1,7 @@
 Title: Королева-Волчица, т. 1
 Author: Вогин Джарт
 IsNaughty: False
-Price: 500
+Price: 430
 IsUnique: False
 WhenVarSet:
 Content:

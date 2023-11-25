@@ -1,7 +1,7 @@
 Title: Арктурианская ересь
 Author: Подземный Король
 IsNaughty: False
-Price: 500
+Price: 350
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Черная стрела, т. 1
 Author: Горжик Гвин
 IsNaughty: False
-Price: 500
+Price: 260
 IsUnique: False
 WhenVarSet:
 Content:

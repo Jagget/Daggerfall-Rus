@@ -1,7 +1,7 @@
 Title: 2920, Месяц Заката солнца (т.11)
 Author: Карловак Таунвей
 IsNaughty: False
-Price: 500
+Price: 360
 IsUnique: False
 WhenVarSet:
 Content:

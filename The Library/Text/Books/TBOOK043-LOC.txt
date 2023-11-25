@@ -1,7 +1,7 @@
 Title: 2920, Месяц Высокого солнца (т. 7)
 Author: Карловак Таунвей
 IsNaughty: False
-Price: 500
+Price: 280
 IsUnique: False
 WhenVarSet:
 Content:

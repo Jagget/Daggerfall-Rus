@@ -1,7 +1,7 @@
 Title: Человек с топором
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 180
 IsUnique: False
 WhenVarSet:
 Content:

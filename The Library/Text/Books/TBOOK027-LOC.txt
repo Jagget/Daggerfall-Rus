@@ -1,7 +1,7 @@
 Title: Фейфолкен III
 Author: Вогин Джарт
 IsNaughty: False
-Price: 500
+Price: 330
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Урок меткой стрельбы
 Author: Алла Ллалет
 IsNaughty: False
-Price: 500
+Price: 240
 IsUnique: False
 WhenVarSet:
 Content:

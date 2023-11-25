@@ -1,7 +1,7 @@
 Title: Пирог и бриллиант
 Author: Атин Муэндил
 IsNaughty: False
-Price: 500
+Price: 230
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Три вора
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 300
 IsUnique: False
 WhenVarSet:
 Content:

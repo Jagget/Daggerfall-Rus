@@ -1,7 +1,7 @@
 Title: Книга даэдра
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 100
 IsUnique: False
 WhenVarSet:
 Content:

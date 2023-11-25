@@ -1,7 +1,7 @@
 Title: Фейфолкен I
 Author: Вогин Джарт
 IsNaughty: False
-Price: 500
+Price: 300
 IsUnique: False
 WhenVarSet:
 Content:

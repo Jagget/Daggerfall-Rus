@@ -1,7 +1,7 @@
 Title: Последний танец лорда Джорнибрета
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 110
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Двемерская архитектура
 Author: Гайлайн Марили
 IsNaughty: False
-Price: 500
+Price: 60
 IsUnique: False
 WhenVarSet:
 Content:

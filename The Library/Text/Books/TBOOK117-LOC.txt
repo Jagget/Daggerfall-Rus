@@ -1,7 +1,7 @@
 Title: Пиршество воров
 Author: Анис Нору
 IsNaughty: False
-Price: 500
+Price: 260
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Танец в огне, т. 3
 Author: Вогин Джарт
 IsNaughty: False
-Price: 500
+Price: 380
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Зеркало
 Author: Бердир Вринс
 IsNaughty: False
-Price: 500
+Price: 280
 IsUnique: False
 WhenVarSet:
 Content:

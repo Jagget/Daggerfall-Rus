@@ -1,7 +1,7 @@
 Title: Лунный Лорхан
 Author: Фал Друн
 IsNaughty: False
-Price: 500
+Price: 50
 IsUnique: False
 WhenVarSet:
 Content:

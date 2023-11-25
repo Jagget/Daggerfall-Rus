@@ -1,7 +1,7 @@
 Title: Игра торговли
 Author: Абабель Тимсар-Дадисун
 IsNaughty: False
-Price: 500
+Price: 120
 IsUnique: False
 WhenVarSet:
 Content:

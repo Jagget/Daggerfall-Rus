@@ -1,7 +1,7 @@
 Title: Четыре поклонника Бениты
 Author: Джол Йоливесс
 IsNaughty: False
-Price: 500
+Price: 300
 IsUnique: False
 WhenVarSet:
 Content:

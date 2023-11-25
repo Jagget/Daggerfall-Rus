@@ -1,7 +1,7 @@
 Title: Напутствие матери клана Анисси
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 240
 IsUnique: False
 WhenVarSet:
 Content:

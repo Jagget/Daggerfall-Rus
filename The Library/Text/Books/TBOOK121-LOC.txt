@@ -1,7 +1,7 @@
 Title: Постижение акробатики
 Author: Рунен Зебави
 IsNaughty: False
-Price: 500
+Price: 210
 IsUnique: False
 WhenVarSet:
 Content:

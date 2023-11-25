@@ -1,7 +1,7 @@
 Title: Похотливая аргонианская дева, т. 2
 Author: Крассиус Курио
-IsNaughty: False
-Price: 500
+IsNaughty: True
+Price: 30
 IsUnique: False
 WhenVarSet:
 Content:

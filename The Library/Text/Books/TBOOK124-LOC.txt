@@ -1,7 +1,7 @@
 Title: Лед и хитин
 Author: Плетиус Спатек
 IsNaughty: False
-Price: 500
+Price: 300
 IsUnique: False
 WhenVarSet:
 Content:

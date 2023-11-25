@@ -1,7 +1,7 @@
 Title: В ответ на речь Беро
 Author: Мальвизер
 IsNaughty: False
-Price: 500
+Price: 180
 IsUnique: False
 WhenVarSet:
 Content:

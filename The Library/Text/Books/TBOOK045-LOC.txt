@@ -1,7 +1,7 @@
 Title: 2920, Месяц Огня очага (т. 9)
 Author: Карловак Таунвей
 IsNaughty: False
-Price: 500
+Price: 380
 IsUnique: False
 WhenVarSet:
 Content:

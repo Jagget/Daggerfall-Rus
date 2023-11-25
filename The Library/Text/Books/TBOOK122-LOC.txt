@@ -1,7 +1,7 @@
 Title: История мастера Зоурайма
 Author: Ги’Нант
 IsNaughty: False
-Price: 500
+Price: 200
 IsUnique: False
 WhenVarSet:
 Content:

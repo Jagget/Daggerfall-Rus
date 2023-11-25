@@ -1,7 +1,7 @@
 Title: Водное дыхание
 Author: Халиэль Мирм
 IsNaughty: False
-Price: 500
+Price: 270
 IsUnique: False
 WhenVarSet:
 Content:

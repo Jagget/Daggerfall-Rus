@@ -1,7 +1,7 @@
 Title: Темнейшая Тьма
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 120
 IsUnique: False
 WhenVarSet:
 Content:

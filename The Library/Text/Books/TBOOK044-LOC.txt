@@ -1,7 +1,7 @@
 Title: 2920, Месяц Последнего зерна (т. 8)
 Author: Карловак Таунвей
 IsNaughty: False
-Price: 500
+Price: 430
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Королева-Волчица, т. 2
 Author: Вогин Джарт
 IsNaughty: False
-Price: 500
+Price: 250
 IsUnique: False
 WhenVarSet:
 Content:

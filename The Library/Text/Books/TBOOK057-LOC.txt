@@ -1,7 +1,7 @@
 Title: Совнгард: новое осмысление
 Author: Бередитт Ястал
 IsNaughty: False
-Price: 500
+Price: 130
 IsUnique: False
 WhenVarSet:
 Content:

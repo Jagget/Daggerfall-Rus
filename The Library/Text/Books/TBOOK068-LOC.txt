@@ -1,7 +1,7 @@
 Title: Дух Нирна
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 35
 IsUnique: False
 WhenVarSet:
 Content:

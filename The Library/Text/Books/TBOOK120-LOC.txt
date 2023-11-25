@@ -1,7 +1,7 @@
 Title: Развалины Кемел-Зе
 Author: Ролард Нордссен
 IsNaughty: False
-Price: 500
+Price: 610
 IsUnique: False
 WhenVarSet:
 Content:

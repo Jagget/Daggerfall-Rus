@@ -1,7 +1,7 @@
 Title: Танец в огне, т. 2
 Author: Вогин Джарт
 IsNaughty: False
-Price: 500
+Price: 460
 IsUnique: False
 WhenVarSet:
 Content:

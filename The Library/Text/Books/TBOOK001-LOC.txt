@@ -1,7 +1,7 @@
 Title: Восстановление Арканы
 Author: Вапна Нестра
 IsNaughty: False
-Price: 500
+Price: 50
 IsUnique: False
 WhenVarSet:
 Content:

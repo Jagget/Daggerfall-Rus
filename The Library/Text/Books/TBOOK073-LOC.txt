@@ -1,7 +1,7 @@
 Title: Предки и данмеры
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 290
 IsUnique: False
 WhenVarSet:
 Content:

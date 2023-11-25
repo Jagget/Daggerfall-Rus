@@ -1,7 +1,7 @@
 Title: 2920, Месяц Утренней звезды (т. 1)
 Author: Карловак Таунвей
 IsNaughty: False
-Price: 500
+Price: 320
 IsUnique: False
 WhenVarSet:
 Content:

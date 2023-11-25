@@ -1,7 +1,7 @@
 Title: Ужасы замка Зир
 Author: Балот-Кул
 IsNaughty: False
-Price: 500
+Price: 420
 IsUnique: False
 WhenVarSet:
 Content:

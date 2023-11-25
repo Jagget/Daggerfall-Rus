@@ -1,7 +1,7 @@
 Title: 2920, Месяц Середины года (т. 6)
 Author: Карловак Таунвей
 IsNaughty: False
-Price: 500
+Price: 300
 IsUnique: False
 WhenVarSet:
 Content:

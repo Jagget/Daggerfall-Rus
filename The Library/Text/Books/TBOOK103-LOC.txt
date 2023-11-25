@@ -1,7 +1,7 @@
 Title: Против часовой стрелки
 Author: Йакут Таваши
 IsNaughty: False
-Price: 500
+Price: 320
 IsUnique: False
 WhenVarSet:
 Content:

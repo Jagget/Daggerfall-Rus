@@ -1,7 +1,7 @@
 Title: Древние легенды двемеров, т.1: Выкуп за Зарека
 Author: Маробар Сул
 IsNaughty: False
-Price: 500
+Price: 140
 IsUnique: False
 WhenVarSet:
 Content:

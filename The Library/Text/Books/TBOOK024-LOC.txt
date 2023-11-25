@@ -1,7 +1,7 @@
 Title: Кость, часть 2
 Author: Тави Дромио
 IsNaughty: False
-Price: 500
+Price: 360
 IsUnique: False
 WhenVarSet:
 Content:

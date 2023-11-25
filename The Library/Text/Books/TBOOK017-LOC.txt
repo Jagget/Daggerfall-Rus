@@ -1,7 +1,7 @@
 Title: Древние легенды двемеров, т.2: Семечко
 Author: Маробар Сул
 IsNaughty: False
-Price: 500
+Price: 250
 IsUnique: False
 WhenVarSet:
 Content:

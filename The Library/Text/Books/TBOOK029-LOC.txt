@@ -1,7 +1,7 @@
 Title: Черная стрела, т. 2
 Author: Горжик Гвин
 IsNaughty: False
-Price: 500
+Price: 280
 IsUnique: False
 WhenVarSet:
 Content:

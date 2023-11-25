@@ -1,7 +1,7 @@
 Title: Проведение Охоты
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 150
 IsUnique: False
 WhenVarSet:
 Content:

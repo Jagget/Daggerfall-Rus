@@ -1,7 +1,7 @@
 Title: О Морровинде
 Author: Эрраманви
 IsNaughty: False
-Price: 500
+Price: 160
 IsUnique: False
 WhenVarSet:
 Content:

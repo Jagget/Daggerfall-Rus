@@ -1,7 +1,7 @@
 Title: Ядовитая песня, книга II
 Author: Бристин Зел
 IsNaughty: False
-Price: 500
+Price: 240
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Желтая книга загадок
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 40
 IsUnique: False
 WhenVarSet:
 Content:

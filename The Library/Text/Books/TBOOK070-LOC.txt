@@ -1,7 +1,7 @@
 Title: Н’Гаста! Квата! Квакис!
 Author: Н’Гаста
 IsNaughty: False
-Price: 500
+Price: 30
 IsUnique: False
 WhenVarSet:
 Content:

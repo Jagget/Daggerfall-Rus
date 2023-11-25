@@ -1,7 +1,7 @@
 Title: Древние легенды двемеров, т.3: О важности места
 Author: Маробар Сул
 IsNaughty: False
-Price: 500
+Price: 160
 IsUnique: False
 WhenVarSet:
 Content:

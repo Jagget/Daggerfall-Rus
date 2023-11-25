@@ -1,7 +1,7 @@
 Title: Ситис
 Author: Автор неизвестен
 IsNaughty: False
-Price: 500
+Price: 50
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Последний урок
 Author: Эгротиус Гот
 IsNaughty: False
-Price: 500
+Price: 210
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: Искусство боевой магии
 Author: Зурин Арктус
 IsNaughty: False
-Price: 500
+Price: 130
 IsUnique: False
 WhenVarSet:
 Content:

@@ -1,7 +1,7 @@
 Title: 2920, Месяц Восхода солнца (т. 2)
 Author: Карловак Таунвей
 IsNaughty: False
-Price: 500
+Price: 320
 IsUnique: False
 WhenVarSet:
 Content:

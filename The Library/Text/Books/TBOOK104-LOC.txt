@@ -1,7 +1,7 @@
 Title: Вернаккус и Бурлор
 Author: Тави Дромио
 IsNaughty: False
-Price: 500
+Price: 340
 IsUnique: False
 WhenVarSet:
 Content:
