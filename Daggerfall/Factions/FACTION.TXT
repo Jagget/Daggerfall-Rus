@@ -1140,7 +1140,7 @@ maxf: 90
 
 #27
 type: 1
-name: Юлианос
+name: Джулианос
 rep: 0
 summon: -1
 region: -1
@@ -1157,7 +1157,7 @@ maxf: 90
 
 	#94
 	type: 9
-	name: Школа Юлианоса
+	name: Школа Джулианоса
 	rep: 0
 	summon: 17
 	region: -1
@@ -1209,7 +1209,7 @@ maxf: 90
 
 		#480
 		type: 3
-		name: Ремесленники Юлианоса
+		name: Ремесленники Джулианоса
 		rep: 0
 		summon: -1
 		region: -1
@@ -1226,7 +1226,7 @@ maxf: 90
 
 		#481
 		type: 3
-		name: Кузнецы Юлианоса
+		name: Кузнецы Джулианоса
 		rep: 0
 		summon: -1
 		region: -1
@@ -1243,7 +1243,7 @@ maxf: 90
 
 		#482
 		type: 3
-		name: Призыватели Юлианоса
+		name: Призыватели Джулианоса
 		rep: 0
 		summon: -1
 		region: -1
@@ -1260,7 +1260,7 @@ maxf: 90
 
 		#249
 		type: 3
-		name: Учителя Юлианоса
+		name: Учителя Джулианоса
 		rep: 0
 		summon: -1
 		region: -1
