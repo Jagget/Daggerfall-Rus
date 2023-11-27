@@ -1,34 +1,34 @@
 Quest: RLQbuymagicitem
-DisplayName: СМК: Buy a Magic Item
+DisplayName: СМК: Покупка волшебной вещи
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> After casting a spell to count your money for him,
-<ce> the frazzled wizard hands you the _item_ and
-<ce> stumbles off into another direction.
+<ce> Произнеся заклинание, чтобы пересчитать
+<ce> деньги, измотанный волшебник вручает вам
+<ce> _item_ и уходит.
 
 Message:  1011
-<ce> A robed wizard with a rather confused demeanor bumbles
-<ce> about nearby. His distance from reality seems
-<ce> to vary with every passing moment. He stumbles close
-<ce> enough to focus his eyes on you, and then speaks.
+<ce> Растерянный волшебник в мантии топчется неподалеку. Кажется,
+<ce> что он не сильно понимает где он находится и что происходит
+<ce> вокруг него. Когда он подходит к вам достаточно близко, он
+<ce> фокусирует на вас взгляд, и говорит:
 <ce>
-<ce> "%hnr, I have a fine _item_ here, enchanted with
-<ce> powerful magicks. I can't remember what the enchantment
-<ce> is, or I'd be selling it for a lot more. For just 750
-<ce> gold pieces, it's all yours for the taking".
+<ce> "%hnr, у меня тут есть прекрасный _item_, зачарованный
+<ce> мощной магией. Я не помню, что это за чары, иначе я бы
+<ce> продал его гораздо дороже. А так, всего за 750 золотых,
+<ce> он в вашем распоряжении".
 <ce>
-<ce> Do you purchase the magic _item_?
+<ce> Вы купите волшебный _item_?
 
 Message:  1012
-<ce> The wizard stumbles away as you hear
-<ce> thunder claps in the distance.
+<ce> Волшебник, спотыкаясь, уходит, а вдалеке
+<ce> раздаются раскаты грома.
 
 Message:  1014
-<ce> You try to gather up 750 gold pieces to give
-<ce> to him, but you do not have enough on hand.
-<ce> When you look back up toward the wizard, he is gone.
+<ce> Вы пытаетесь собрать 750 золотых, чтобы отдать ему,
+<ce> но у вас нет под рукой достаточной суммы. Когда вы
+<ce> снова смотрите на волшебника, его уже нет.
 
 QBN:
 

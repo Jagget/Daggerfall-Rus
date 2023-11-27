@@ -1,41 +1,41 @@
 Quest: RLQbuyreligious
-DisplayName: СМК: Buy a Religious Trinket
+DisplayName: СМК: Покупка религиозного сувенира
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> You pay the gold and receive the _weapon_,
-<ce> and the merchant heads off in search of other clientele.
+<ce> Вы платите золото, получаете _thing_,
+<ce> и торговец обращается к другим покупателям.
 
 Message:  1011
-<ce> A priest stands under the shining sun, calling out
-<ce> sales of trinkets from the Temple of %god.
-<ce> Buyers quickly take up the merchandise.
+<ce> Под ярким солнцем стоит священник, распродающий
+<ce> сувениры из Храма %god. Покупатели быстро
+<ce> расхватывают товар.
 <ce>
-<ce> Of the few remaining objects, you notice one
-<ce> _weapon_ in good shape. The price tag on it says
-<ce> 150 gold. Will you buy it?
+<ce> Среди нескольких оставшихся предметов вы заметили
+<ce> _thing_ в хорошем состоянии. На ценнике написано
+<ce> 150 золотых. Купите ли вы это?
    <--->
-<ce> A priest calls out, "Clearance sale!
-<ce> The Temple of %god has no further need for these goods!"
-<ce> He stands behind a pile of rapidly diminishing trinkets.
+<ce> Священник возглашает: "Распродажа! Храм %god
+<ce> больше не нуждается в этих товарах!" Он стоит
+<ce> рядом с быстро уменьшающейся грудой сувениров.
 <ce>
-<ce> Of the few remaining objects, you notice one
-<ce> _weapon_ in good shape. The price tag on it says
-<ce> 150 gold. Will you buy it?
+<ce> Среди нескольких оставшихся предметов вы заметили
+<ce> _thing_ в хорошем состоянии. На ценнике написано
+<ce> 150 золотых. Купите ли вы это?
 
 Message:  1012
-<ce> The sale quickly ends, as the townspeople
-<ce> take up all they can before other buyers appear.
+<ce> Распродажа быстро заканчивается - горожане выкупают все,
+<ce> что можно, пока это не сделали другие.
 
 Message:  1014
-<ce> You search your belongings but do not find 150 gold.
-<ce> Another townsperson snatches up the _weapon_, and the
-<ce> priest soon departs.
+<ce> Вы обыскиваете свои вещи, но не находите 150 золотых.
+<ce> Другой горожанин выкупает _thing_, распродажа вскоре
+<ce> заканчивается и священник уходит.
 
 QBN:
 
-Item _weapon_ religious
+Item _thing_ religious
 
 --	Quest start-up:
     prompt 1011 yes _pay_ no _reject_
@@ -55,5 +55,5 @@ _nomoney_ task:
     end quest
 
 _given_ task:
-    give pc _weapon_
+    give pc _thing_
     end quest

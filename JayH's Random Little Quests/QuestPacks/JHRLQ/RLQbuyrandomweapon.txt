@@ -1,51 +1,50 @@
 Quest: RLQbuyrandomweapon
-DisplayName: СМК: Buy a Random Weapon
+DisplayName: СМК: Покупка неизвестного оружия
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> "Enjoy. No refunds".
+<ce> "Наслаждайтесь. Возврата нет".
 <ce>
-<ce> You step away from the merchant and other interested
-<ce> parties, and open up the weapon you bought.
+<ce> Вы отходите от торговца и распаковываете купленное оружие.
 
 Message:  1011
-<ce> A figure waits in the shadows, trying to speak
-<ce> to passers by. Most ignore him, keeping a distance.
-<ce> His eyes turn to you, and he gestures, wanting to talk.
+<ce> В тени стоит фигура и пытается заговорить с прохожими. Большинство
+<ce> не обращает на него внимания, держась на расстоянии. Он обращает
+<ce> свой взор на вас и жестом показывает, что хочет поговорить.
 <ce>
-<ce> "Got some merchandise here. Shipment of weapons that
-<ce> never made it to its destination. Poor sods they were,
-<ce> but this stuff needs to get sold off to recoup their losses.
-<ce> For 50 gold, you get a random piece of equipment".
+<ce> "У меня тут есть кое-какой товар. Груз оружия, который так
+<ce> и не дошел до места назначения. Мне их жаль, но этот товар
+<ce> нужно продать, чтобы возместить потери. За 50 золотых вы
+<ce> получите случайный предмет снаряжения".
 <ce>
-<ce> The equipment is held in various sacks, so you can't
-<ce> tell what is being sold. If you pay the price,
-<ce> you'll be given one of the sacks at random.
-<ce> Buy a random weapon for 50 gold?
+<ce> Снаряжение находится в различных мешках, поэтому
+<ce> невозможно определить, что именно продается. Если
+<ce> вы заплатите, вам дадут один из мешков наугад.
+<ce> Купите случайное оружие за 50 золотых?
 <--->
-<ce> A figure waits in the shadows, trying to speak
-<ce> to passers by. Most ignore her, keeping a distance.
-<ce> Her eyes turn to you, and she gestures, wanting to talk.
+<ce> В тени стоит фигура и пытается заговорить с прохожими. Большинство
+<ce> не обращает на нее внимания, держась на расстоянии. Она обращает
+<ce> свой взор на вас и жестом показывает, что хочет поговорить.
 <ce>
-<ce> "Got some merchandise here. Shipment of weapons that
-<ce> never made it to its destination. Poor sods they were,
-<ce> but this stuff needs to get sold off to recoup their losses.
-<ce> For 50 gold, you get a random piece of equipment".
+<ce> "У меня тут есть кое-какой товар. Груз оружия, который так
+<ce> и не дошел до места назначения. Мне их жаль, но этот товар
+<ce> нужно продать, чтобы возместить потери. За 50 золотых вы
+<ce> получите случайный предмет снаряжения".
 <ce>
-<ce> The equipment is held in various sacks, so you can't
-<ce> tell what is being sold. If you pay the price,
-<ce> you'll be given one of the sacks at random.
-<ce> Buy a random weapon for 50 gold?
+<ce> Снаряжение находится в различных мешках, поэтому
+<ce> невозможно определить, что именно продается. Если
+<ce> вы заплатите, вам дадут один из мешков наугад.
+<ce> Купите случайное оружие за 50 золотых?
 
 Message:  1012
-<ce> The vendor looks for other potential customers,
-<ce> spending no further words on you.
+<ce> Продавец ищет других потенциальных покупателей,
+<ce> не тратя на вас лишних слов.
 
 Message:  1014
-<ce> You reach into your pockets but do not find 50 gold.
-<ce> The merchant starts packing up, looking for a better
-<ce> location with more potential customers.
+<ce> Вы роетесь в карманах, но не находите 50 золотых. Торговец
+<ce> начинает собирать вещи в поисках более подходящего места
+<ce> с большим количеством потенциальных покупателей.
 
 QBN:
 

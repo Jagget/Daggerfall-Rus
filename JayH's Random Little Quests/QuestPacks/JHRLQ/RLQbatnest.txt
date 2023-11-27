@@ -1,36 +1,36 @@
 Quest: RLQbatnest
-DisplayName: СМК: Bat's Nest
+DisplayName: СМК: Гнездо летучих мышей
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
-<ce> You reach in and find a decrepit pouch of gold
-<ce> within the hole. It looks years old, and carries
-<ce> no name. You ensure no one nearby cares as you
-<ce> take it for yourself.
+<ce> Вы засовываете руку и находите в норе ветхий
+<ce> мешочек с золотом. На вид ему много лет, и на нем
+<ce> имени. Вы убеждаетесь, что никому поблизости нет
+<ce> до этого дела, и забираете его себе.
 
 Message:  1010
-<ce> You see a small hole in the ground here,
-<ce> distinct from the nearby terrain.
-<ce> It looks like it goes fairly deep.
-<ce> Do you try to reach in and see if
-<ce> anything is inside?
+<ce> Вы видите небольшую нору в земле, выделяющуюся
+<ce> на фоне окружающей местности. Похоже, что она
+<ce> уходит довольно глубоко. Вы пытаетесь засунуть
+<ce> туда руку и посмотреть, есть ли что-нибудь
+<ce> внутри?
 
 Message:  1011
-<ce> You reach in and are surprised by the feel
-<ce> of something furry within. You retract your
-<ce> hand but have already disturbed the
-<ce> denizen. An angry bat flies out to
-<ce> attack you in self-defense.
+<ce> Вы засовываете руку и удивляетесь, почувствовав
+<ce> внутри что-то пушистое. Вы убираете руку, но вы
+<ce> уже успели потревожить обитателя. Разъяренная
+<ce> летучая мышь вылетает, чтобы напасть на вас
+<ce> в целях самозащиты.
 
 Message:  1012
-<ce> You reach in and find nothing at all.
-<ce> Perhaps this is the den of some creature,
-<ce> but it isn't home. You move on.
+<ce> Вы засовываете руку внутрь и вообще ничего
+<ce> не находите. Возможно, это логово какого-то
+<ce> существа, но его нет дома. Вы идете дальше.
 
 Message:  1013
-<ce> Some holes simply don't need to be explored.
-<ce> You leave this one alone.
+<ce> Некоторые норы просто не стоит исследовать.
+<ce> Вы оставляете эту нору в покое.
 
 QBN:
 

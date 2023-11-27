@@ -1,32 +1,32 @@
 Quest: RLQbuydrug
-DisplayName: СМК: Buy a Drug
+DisplayName: СМК: Покупка наркотиков
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> You and the vendor silently make the exchange,
-<ce> and he walks off into the fog.
+<ce> Вы с продавцом молча совершаете обмен,
+<ce> и он уходит в туман.
 
 Message:  1011
-<ce> A sharp-looking fellow, taking advantage of the fog,
-<ce> gestures at you with a small bag of powder.
-<ce> He silently mouths the word "_weapon_," asking
-<ce> for 50 gold. It looks like you'd be buying
-<ce> a single dose for that price.
-<ce> Take up his offer?
+<ce> Стильно выглядящий парень, воспользовавшись
+<ce> туманом, помахивает вам маленьким пакетиком
+<ce> с порошком. Он беззвучно произносит слово
+<ce> "_thing_", прося 50 золотых. Похоже, за эту
+<ce> цену он предлагает купить одну дозу. Вы
+<ce> примите его предложение?
 
 Message:  1012
-<ce> The vendor hurries away into the fog,
-<ce> and you lose sight of him.
+<ce> Продавец поспешно исчезает в тумане,
+<ce> и вы теряете его из виду.
 
 Message:  1014
-<ce> You search your belongings but do not find 50 gold.
-<ce> The merchant disappears into the fog
-<ce> when he sees no money forthcoming.
+<ce> Вы обыскиваете свои вещи, но не находите 50 золотых.
+<ce> Торговец исчезает в тумане, когда видит, что денег
+<ce> не предвидится.
 
 QBN:
 
-Item _weapon_ drug
+Item _thing_ drug
 
 --	Quest start-up:
     prompt 1011 yes _pay_ no _reject_
@@ -46,5 +46,5 @@ _nomoney_ task:
     end quest
 
 _given_ task:
-    give pc _weapon_
+    give pc _thing_
     end quest

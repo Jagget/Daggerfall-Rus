@@ -1,37 +1,37 @@
 Quest: RLQbuygem
-DisplayName: СМК: Buy a Gem
+DisplayName: СМК: Покупка драгоценностей
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> You pay the gold and receive the _weapon_,
-<ce> and the merchant heads off in search of other clientele.
+<ce> Вы платите золото, получаете _thing_,
+<ce> и торговец отправляется на поиски других клиентов.
 
 Message:  1011
-<ce> Under the overcast sky, you notice a hooded figure
-<ce> proffering gems to passers by. You catch his attention.
+<ce> Под пасмурным небом вы замечаете фигуру в капюшоне, предлагающую
+<ce> прохожим драгоценные камни. Вы привлекаете его внимание.
 <ce>
-<ce> "Got this _weapon_ here for sale. 250 gold and it's yours".
+<ce> "У меня есть _thing_ на продажу. 250 золотых и камень ваш".
 <ce>
-<ce> The gem is clearly not enchanted. Will you buy it?
+<ce> Самоцвет явно не зачарован. Вы купите его?
 <--->
-<ce> Under the overcast sky, you notice a hooded figure
-<ce> proffering gems to passers by. You catch her attention.
+<ce> Под пасмурным небом вы замечаете фигуру в капюшоне, предлагающую
+<ce> прохожим драгоценные камни. Вы привлекаете ее внимание.
 <ce>
-<ce> "Got this _weapon_ here for sale. 250 gold and it's yours".
+<ce> "У меня есть _thing_ на продажу. 250 золотых и камень ваш".
 <ce>
-<ce> The gem is clearly not enchanted. Will you buy it?
+<ce> Самоцвет явно не зачарован. Вы купите его?
 
 Message:  1012
-<ce> The vendor moves on to find paying clients.
+<ce> Продавец уходит искать платежеспособных клиентов.
 
 Message:  1014
-<ce> You search your belongings but do not find 250 gold.
-<ce> The merchant heads off in search of other clientele.
+<ce> Вы обыскиваете свои вещи, но не находите 250 золотых.
+<ce> Торговец отправляется на поиски других клиентов.
 
 QBN:
 
-Item _weapon_ gem
+Item _thing_ gem
 
 --	Quest start-up:
     prompt 1011 yes _pay_ no _reject_
@@ -51,5 +51,5 @@ _nomoney_ task:
     end quest
 
 _given_ task:
-    give pc _weapon_
+    give pc _thing_
     end quest
