@@ -126,24 +126,6 @@ Message:  1041
 <ce> Вставай ты, неотесанная дубина. Убей!
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 2 times.
---                %g occurs 2 times.
---               %g2 occurs 3 times.
---               %g4 occurs 8 times.
---              %oth occurs 1 time.
---              %pcf occurs 3 times.
---              %qdt occurs 1 time.
---              %reg occurs 1 time.
---       =1stparton_ occurs 2 times.
---       =bodyguard_ occurs 1 time.
---        =qgfriend_ occurs 5 times.
---         __palace_ occurs 4 times.
---       __qgfriend_ occurs 6 times.
---        _artifact_ occurs 3 times.
---           _enemy_ occurs 18 times.
---        _qgfriend_ occurs 8 times.
 
 QBN:
 Item _artifact_ artifact Ebony_Blade anyInfo 1014

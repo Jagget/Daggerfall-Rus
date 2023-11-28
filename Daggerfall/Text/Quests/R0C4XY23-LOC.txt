@@ -136,24 +136,6 @@ Message:  1030
 <ce> что бы это ни было.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 3 times.
---               %g2 occurs 6 times.
---              %pcf occurs 7 times.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 4 times.
---         =contact_ occurs 1 time.
---         =queston_ occurs 2 times.
---       ___contact_ occurs 2 times.
---      ___oblivion_ occurs 5 times.
---        __contact_ occurs 1 time.
---       __oblivion_ occurs 3 times.
---         _contact_ occurs 2 times.
---            _item_ occurs 3 times.
---        _oblivion_ occurs 24 times.
---      _questgiver_ occurs 5 times.
 
 QBN:
 Item _reward_ ruby

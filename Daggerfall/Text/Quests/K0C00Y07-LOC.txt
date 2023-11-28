@@ -209,31 +209,6 @@ Message:  1022
 <ce> точно труп.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 7 times.
---               %g2 occurs 3 times.
---               %g4 occurs 12 times.
---              %god occurs 5 times.
---              %oth occurs 3 times.
---              %pcf occurs 9 times.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 4 times.
---         =2ransom_ occurs 4 times.
---       =kidnapper_ occurs 2 times.
---         =queston_ occurs 1 time.
---            =thug_ occurs 3 times.
---     ___kidnapper_ occurs 3 times.
---       ___mondung_ occurs 2 times.
---        ___qgiver_ occurs 4 times.
---      __kidnapper_ occurs 4 times.
---         __qgiver_ occurs 2 times.
---             _gem_ occurs 6 times.
---            _gold_ occurs 8 times.
---       _kidnapper_ occurs 7 times.
---          _qgiver_ occurs 8 times.
---          _victim_ occurs 27 times.
 
 QBN:
 Item _gem_ gem

@@ -123,20 +123,6 @@ QuestTimeLapse:  [1045]
 <ce> Хермеус Мора не обрадуется этой новости.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 4 times.
---               %g2 occurs 3 times.
---               %g4 occurs 1 time.
---              %pcf occurs 3 times.
---              %qdt occurs 1 time.
---              %reg occurs 2 times.
---       =1stparton_ occurs 1 time.
---         =contact_ occurs 7 times.
---         __palace_ occurs 2 times.
---         _contact_ occurs 3 times.
---           _enemy_ occurs 15 times.
---           _magic_ occurs 3 times.
 
 QBN:
 Item _artifact_ artifact Oghma_Infinium anyInfo 1013

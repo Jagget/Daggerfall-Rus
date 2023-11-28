@@ -101,21 +101,6 @@ Message:  1030
 <ce> Добыча Дагона вернулась в Обливион.
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 1 time.
---                %g occurs 1 time.
---               %g2 occurs 2 times.
---              %pcn occurs 5 times.
---              %qdt occurs 1 time.
---               %ra occurs 10 times.
---       =1stparton_ occurs 2 times.
---         =contact_ occurs 3 times.
---       ___mondung_ occurs 4 times.
---         __tavern_ occurs 3 times.
---        _artifact_ occurs 9 times.
---         _contact_ occurs 6 times.
---          _tavern_ occurs 8 times.
 
 QBN:
 Item _artifact_ artifact Mehrunes_Razor anyInfo 1013

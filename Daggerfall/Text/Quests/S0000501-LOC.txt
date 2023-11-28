@@ -128,15 +128,6 @@ Message:  1061
 <ce> "Я заберу эту грязную свинью с собой."
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 1 time.
---              %god occurs 2 times.
---              %oth occurs 1 time.
---              %pcn occurs 4 times.
---              %qdt occurs 3 times.
---           _queen_ occurs 10 times.
---         _traitor_ occurs 16 times.
 
 QBN:
 Item _letter_ letter used 1030

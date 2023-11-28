@@ -200,24 +200,6 @@ Message:  1016
 <ce> _vamp_ ждет вас.
 
 
--- Symbols used in the QRC file:
---
---               %cn occurs 2 times.
---              %dat occurs 1 time.
---                %g occurs 2 times.
---               %g2 occurs 1 time.
---               %g4 occurs 3 times.
---              %jok occurs 6 times.
---              %oth occurs 10 times.
---              %pcf occurs 1 time.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---              %reg occurs 2 times.
---              %vam occurs 3 times.
---         =queston_ occurs 2 times.
---         =vampire_ occurs 5 times.
---       ___mondung_ occurs 3 times.
---          ___vamp_ occurs 15 times.
 
 QBN:
 Item _letter_ letter used 1010

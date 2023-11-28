@@ -99,21 +99,6 @@ Message:  1035
 <ce> в %reg?
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 2 times.
---              %pcf occurs 1 time.
---              %pcn occurs 3 times.
---              %qdt occurs 2 times.
---              %reg occurs 7 times.
---        =contact2_ occurs 8 times.
---      ___contact1_ occurs 5 times.
---      ___contact2_ occurs 2 times.
---       __contact1_ occurs 2 times.
---       __contact2_ occurs 10 times.
---        _contact1_ occurs 4 times.
---           _drugs_ occurs 6 times.
---            _gold_ occurs 1 time.
 
 QBN:
 Item _drugs_ drug

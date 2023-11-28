@@ -251,40 +251,6 @@ Message:  1026
 <ce> _qgiver_ хотят получить _item_ обратно.
 
 
--- Symbols used in the QRC file:
---
---               %cn occurs 3 times.
---                %g occurs 19 times.
---               %g2 occurs 17 times.
---               %g4 occurs 9 times.
---              %god occurs 8 times.
---              %oth occurs 4 times.
---              %pcf occurs 8 times.
---              %pct occurs 5 times.
---              %qdt occurs 5 times.
---               %ra occurs 1 time.
---              %reg occurs 1 time.
---           =child_ occurs 4 times.
---          =daedra_ occurs 9 times.
---        =guardian_ occurs 3 times.
---         =queston_ occurs 1 time.
---         =sneaker_ occurs 1 time.
---      ___guardian_ occurs 1 time.
---        ___qgiver_ occurs 1 time.
---         __house3_ occurs 5 times.
---          __house_ occurs 1 time.
---         __qgiver_ occurs 7 times.
---           _child_ occurs 24 times.
---        _guardian_ occurs 13 times.
---          _house2_ occurs 3 times.
---          _house3_ occurs 6 times.
---           _house_ occurs 6 times.
---            _item_ occurs 18 times.
---          _priest_ occurs 10 times.
---          _qgiver_ occurs 3 times.
---          _reward_ occurs 1 time.
---         _hooker_ occurs 1 time.
---          _tavern_ occurs 4 times.
 
 QBN:
 Item _item_ religious

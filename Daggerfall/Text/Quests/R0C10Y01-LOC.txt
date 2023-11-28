@@ -79,17 +79,6 @@ Message:  1021
 <ce> пока я не изменил свое мнение.
 
 
--- Symbols used in the QRC file:
---
---               %g2 occurs 13 times.
---              %pcf occurs 3 times.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---         =contact_ occurs 2 times.
---         =queston_ occurs 2 times.
---       ___contact_ occurs 7 times.
---            _item_ occurs 7 times.
---      _questgiver_ occurs 3 times.
 
 QBN:
 Item _reward_ ruby

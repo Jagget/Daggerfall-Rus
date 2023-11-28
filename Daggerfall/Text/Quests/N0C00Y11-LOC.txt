@@ -144,23 +144,6 @@ Message:  1080
 <ce> слюной при нахождении новых локаций.
 
 
--- Symbols used in the QRC file:
---
---               %cn occurs 2 times.
---               %g2 occurs 2 times.
---              %jok occurs 6 times.
---              %oth occurs 10 times.
---              %pcf occurs 3 times.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---               %ra occurs 27 times.
---              %reg occurs 2 times.
---      =traveltime_ occurs 2 times.
---       ___dungeon_ occurs 3 times.
---       ___newdung_ occurs 1 time.
---        ___qgiver_ occurs 1 time.
---      _ingredient_ occurs 61 times.
---          _qgiver_ occurs 4 times.
 
 QBN:
 Item _ingredient_ organs
@@ -201,4 +184,4 @@ variable _nomap_
 _S.05_ task:
 	when _map_ and _giveingredient_
 	reveal _newdung_ readmap
-    say 1080 
+    say 1080

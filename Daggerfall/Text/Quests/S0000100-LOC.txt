@@ -21,9 +21,6 @@ Message:  1015
 <ce> но ты стоишь на нашем пути.
 
 
--- Symbols used in the QRC file:
---
---              %pcn occurs 1 time.
 
 QBN:
 

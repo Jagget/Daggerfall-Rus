@@ -139,29 +139,6 @@ Message:  1042
 <ce> Второй раз %g не уйдет от меня.
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 1 time.
---                %g occurs 6 times.
---               %g2 occurs 7 times.
---               %g4 occurs 2 times.
---              %god occurs 1 time.
---              %oth occurs 3 times.
---              %pcf occurs 1 time.
---              %pcn occurs 1 time.
---              %qdt occurs 2 times.
---               %ra occurs 2 times.
---              %reg occurs 10 times.
---       =1stparton_ occurs 3 times.
---         =monster_ occurs 16 times.
---        =qgfriend_ occurs 2 times.
---       ___hideout_ occurs 2 times.
---       ___mfriend_ occurs 1 time.
---       ___mondung_ occurs 4 times.
---      ___qgfriend_ occurs 7 times.
---        _artifact_ occurs 3 times.
---         _mfriend_ occurs 1 time.
---        _qgfriend_ occurs 5 times.
 
 QBN:
 Item _artifact_ artifact Ebony_Mail anyInfo 1014

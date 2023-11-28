@@ -75,19 +75,6 @@ QuestLogEntry:  [1010]
 <ce> У меня =traveltime_, чтобы сделать работу.
 
 
--- Symbols used in the QRC file:
---
---              %god occurs 1 time.
---              %pcf occurs 4 times.
---              %pcn occurs 4 times.
---              %qdt occurs 1 time.
---               %ra occurs 17 times.
---      =traveltime_ occurs 4 times.
---    ___questgiver_ occurs 1 time.
---         __palace_ occurs 8 times.
---            _gold_ occurs 6 times.
---          _palace_ occurs 5 times.
---      _questgiver_ occurs 2 times.
 
 QBN:
 Item _gold_ gold

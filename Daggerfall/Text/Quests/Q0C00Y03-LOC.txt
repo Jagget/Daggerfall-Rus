@@ -118,25 +118,6 @@ Message:  1013
 <ce> поразительной ловкостью.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 4 times.
---               %g2 occurs 1 time.
---               %g4 occurs 5 times.
---              %oth occurs 1 time.
---              %pcf occurs 4 times.
---              %qdt occurs 1 time.
---               %ra occurs 3 times.
---              %reg occurs 1 time.
---         ==daedra_ occurs 1 time.
---         ==qgiver_ occurs 17 times.
---           =child_ occurs 1 time.
---         =queston_ occurs 1 time.
---           __home_ occurs 2 times.
---           _child_ occurs 10 times.
---          _daedra_ occurs 1 time.
---             _gem_ occurs 5 times.
---            _home_ occurs 2 times.
 
 QBN:
 Item _gem_ gem

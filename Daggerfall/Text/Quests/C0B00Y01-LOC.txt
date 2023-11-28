@@ -406,43 +406,6 @@ Message:  1037
 
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 19 times.
---               %g2 occurs 16 times.
---               %g4 occurs 79 times.
---              %god occurs 7 times.
---              %oth occurs 6 times.
---              %pcf occurs 6 times.
---              %pcn occurs 5 times.
---              %pct occurs 6 times.
---              %qdt occurs 7 times.
---               %ra occurs 5 times.
---              %reg occurs 2 times.
---                %t occurs 1 time.
---         =fighter_ occurs 1 time.
---           =lover_ occurs 8 times.
---          =priest_ occurs 2 times.
---         =prophet_ occurs 1 time.
---         =queston_ occurs 1 time.
---         =replace_ occurs 1 time.
---                 _ occurs 1 time.
---         ___lover_ occurs 10 times.
---       ___mondung_ occurs 7 times.
---        ___qgiver_ occurs 5 times.
---          __lover_ occurs 1 time.
---      __prophouse_ occurs 2 times.
---         __qgiver_ occurs 30 times.
---         __tavern_ occurs 13 times.
---         _contact_ occurs 16 times.
---           _lover_ occurs 13 times.
---          _priest_ occurs 10 times.
---         _prophet_ occurs 117 times.
---       _prophouse_ occurs 3 times.
---          _qgiver_ occurs 3 times.
---     _relartifact_ occurs 3 times.
---         _replace_ occurs 5 times.
---          _tavern_ occurs 5 times.
 
 QBN:
 --moved erroneous 1009 entries to 1006

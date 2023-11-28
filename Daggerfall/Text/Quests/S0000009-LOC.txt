@@ -130,22 +130,6 @@ Message:  1021
 <ce> говорила."
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 7 times.
---               %g2 occurs 1 time.
---               %g4 occurs 65 times.
---              %pcf occurs 4 times.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---               %ra occurs 4 times.
---         =contact_ occurs 1 time.
---          =reward_ occurs 2 times.
---      ____contact_ occurs 5 times.
---           _bribe_ occurs 1 time.
---         _contact_ occurs 4 times.
---            _foil_ occurs 9 times.
---          _reward_ occurs 1 time.
 
 QBN:
 Item _note_ letter used 1013

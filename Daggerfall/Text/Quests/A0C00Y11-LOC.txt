@@ -171,24 +171,6 @@ Message:  1041
 <ce> помочь в самых запущенных случаях.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 5 times.
---               %g2 occurs 15 times.
---               %g4 occurs 7 times.
---              %pcf occurs 1 time.
---              %pcn occurs 2 times.
---              %qdt occurs 3 times.
---               %ra occurs 1 time.
---       =questtime_ occurs 2 times.
---        ___cousin_ occurs 12 times.
---         ___giver_ occurs 1 time.
---        ___healer_ occurs 8 times.
---          _cousin_ occurs 10 times.
---           _giver_ occurs 7 times.
---           _gold1_ occurs 1 time.
---           _gold2_ occurs 5 times.
---          _healer_ occurs 8 times.
 
 QBN:
 Item _gold1_ gold range 5 to 25

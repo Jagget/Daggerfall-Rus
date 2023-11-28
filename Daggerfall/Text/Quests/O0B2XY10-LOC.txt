@@ -64,19 +64,6 @@ QuestLogEntry:  [1010]
 <ce> меня есть =traveltime_ дней.
 
 
--- Symbols used in the QRC file:
---
---               %g2 occurs 3 times.
---              %oth occurs 1 time.
---              %pcf occurs 1 time.
---              %pcn occurs 4 times.
---              %qdt occurs 1 time.
---      =traveltime_ occurs 2 times.
---        ___qgiver_ occurs 1 time.
---    __alchemyshop_ occurs 11 times.
---            _gold_ occurs 3 times.
---          _potion_ occurs 7 times.
---          _qgiver_ occurs 2 times.
 
 QBN:
 Item _potion_ Elixir_vitae

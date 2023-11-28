@@ -108,27 +108,6 @@ Message:  1021
 <ce> слабовольный курьер.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 1 time.
---               %g2 occurs 13 times.
---              %pcf occurs 5 times.
---              %qdt occurs 2 times.
---               %ra occurs 3 times.
---       =1stparton_ occurs 2 times.
---       =2ndparton_ occurs 6 times.
---            =npc2_ occurs 2 times.
---          ___npc1_ occurs 2 times.
---          ___npc2_ occurs 2 times.
---    ___questgiver_ occurs 1 time.
---           __npc1_ occurs 2 times.
---           __npc2_ occurs 1 time.
---     __questgiver_ occurs 1 time.
---           _item2_ occurs 7 times.
---            _npc1_ occurs 5 times.
---            _npc2_ occurs 4 times.
---      _questgiver_ occurs 5 times.
---          _reward_ occurs 1 time.
 
 QBN:
 Item _reward_ gold

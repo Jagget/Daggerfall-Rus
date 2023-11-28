@@ -122,16 +122,6 @@ Message:  1022
 <ce> не говоря ни слова.
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 4 times.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 4 times.
---      =itemindung_ occurs 2 times.
---     __agentplace_ occurs 4 times.
---         _agentuk_ occurs 3 times.
---          _reward_ occurs 55 times.
 
 QBN:
 Item _reward_ magic_item

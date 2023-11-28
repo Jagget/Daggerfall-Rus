@@ -97,23 +97,6 @@ Message:  1015
 <ce> в __contact_ в ___contact_.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 2 times.
---               %g2 occurs 2 times.
---               %g4 occurs 2 times.
---              %pcf occurs 41 times.
---              %qdt occurs 1 time.
---       =1stparton_ occurs 2 times.
---         =contact_ occurs 5 times.
---    ___questgiver_ occurs 1 time.
---        __contact_ occurs 5 times.
---     __questgiver_ occurs 1 time.
---         _contact_ occurs 3 times.
---           _item1_ occurs 1 time.
---           _item2_ occurs 7 times.
---      _questgiver_ occurs 8 times.
---          _reward_ occurs 3 times.
 
 QBN:
 Item _reward_ gem

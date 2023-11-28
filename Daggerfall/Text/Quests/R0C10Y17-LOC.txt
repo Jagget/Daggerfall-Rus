@@ -111,28 +111,6 @@ Message:  1012
 <ce> =2ndparton_ дней или раньше.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 4 times.
---               %g2 occurs 3 times.
---              %oth occurs 2 times.
---              %pcf occurs 6 times.
---              %pct occurs 1 time.
---              %qdt occurs 2 times.
---               %ra occurs 1 time.
---       =1stparton_ occurs 2 times.
---       =2ndparton_ occurs 6 times.
---            =npc2_ occurs 1 time.
---          ___npc1_ occurs 2 times.
---          ___npc2_ occurs 2 times.
---           __npc1_ occurs 2 times.
---           __npc2_ occurs 2 times.
---           _item1_ occurs 3 times.
---           _item2_ occurs 6 times.
---            _npc1_ occurs 5 times.
---            _npc2_ occurs 9 times.
---      _questgiver_ occurs 2 times.
---          _reward_ occurs 3 times.
 
 QBN:
 Item _reward_ gold
@@ -178,4 +156,4 @@ variable _1stparton_
 _2ndparton_ task:
 	make _item2_ permanent
 	change repute with _questgiver_ by -2
-	end quest 
+	end quest

@@ -129,16 +129,6 @@ Message:  1030
 Лорд Кастеллиан не делал секрета из того, что собирался обвенчаться с принцессой Элизейн.
 
 
--- Symbols used in the QRC file:
---
---              %oth occurs 2 times.
---              %pcf occurs 3 times.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---         =queston_ occurs 3 times.
---       ___casfort_ occurs 9 times.
---         _jewelry_ occurs 4 times.
 
 QBN:
 Item _I.00_ Formal_cloak anyInfo QuestorPostsuccess used QuestorPostfailure

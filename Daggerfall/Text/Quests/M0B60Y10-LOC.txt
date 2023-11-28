@@ -85,18 +85,6 @@ Message:  1080
 <ce> %pcf.
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 4 times.
---              %pct occurs 1 time.
---              %qdt occurs 1 time.
---               %rn occurs 1 time.
---                %t occurs 1 time.
---           =2dung_ occurs 2 times.
---       ___dungeon_ occurs 1 time.
---       ___newdung_ occurs 1 time.
---        ___qgiver_ occurs 1 time.
---            _gold_ occurs 7 times.
 
 QBN:
 Item _gold_ gold

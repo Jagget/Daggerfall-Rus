@@ -134,28 +134,6 @@ Message:  1017
 <ce> -- Это ДОБРОТА, дурачина!
 
 
--- Symbols used in the QRC file:
---
---              %dat occurs 2 times.
---                %g occurs 12 times.
---               %g2 occurs 8 times.
---           %g2self occurs 3 times.
---               %g4 occurs 3 times.
---              %pcf occurs 1 time.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---       ___dungeon_ occurs 1 time.
---        ___qgiver_ occurs 1 time.
---        ___spouse_ occurs 4 times.
---         __school_ occurs 4 times.
---            _book_ occurs 1 time.
---         _flowers_ occurs 1 time.
---            _gold_ occurs 3 times.
---          _hermit_ occurs 12 times.
---          _qgiver_ occurs 8 times.
---          _spouse_ occurs 10 times.
---         _teacher_ occurs 3 times.
 
 QBN:
 Item _book_ book

@@ -165,20 +165,6 @@ QuestTimeLapse:  [1045]
 <ce> лист бумаги из ваших рук.
 
 
--- Symbols used in the QRC file:
---
---               %cn occurs 3 times.
---               %g2 occurs 17 times.
---              %jok occurs 9 times.
---              %oth occurs 15 times.
---              %pcf occurs 3 times.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---              %reg occurs 3 times.
---      =traveltime_ occurs 3 times.
---       ___dungeon_ occurs 2 times.
---    ___questgiver_ occurs 4 times.
 
 QBN:
 Item _ingredient_ letter used 1020

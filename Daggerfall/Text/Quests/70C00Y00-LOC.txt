@@ -104,23 +104,6 @@ Message:  1020
 <ce> в месте под названеим __contact_.
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 1 time.
---                %g occurs 4 times.
---               %g4 occurs 4 times.
---              %pcf occurs 5 times.
---              %pcn occurs 2 times.
---              %pct occurs 5 times.
---              %qdt occurs 1 time.
---       =1stparton_ occurs 3 times.
---         =contact_ occurs 2 times.
---         =monster_ occurs 9 times.
---       ___contact_ occurs 2 times.
---       ___mondung_ occurs 2 times.
---        __contact_ occurs 5 times.
---        _artifact_ occurs 3 times.
---         _contact_ occurs 5 times.
 
 QBN:
 Item _artifact_ artifact Sanguine_Rose anyInfo 1014

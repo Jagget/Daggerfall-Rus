@@ -139,27 +139,6 @@ Message:  1030
 <ce> кажешься. Попробуй отбери это у меня!
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 7 times.
---               %g2 occurs 3 times.
---               %g4 occurs 3 times.
---              %pcf occurs 1 time.
---              %pcn occurs 2 times.
---              %qdt occurs 2 times.
---               %ra occurs 1 time.
---         ___giver_ occurs 1 time.
---          __house_ occurs 5 times.
---     __informant1_ occurs 3 times.
---            _book_ occurs 6 times.
---           _giver_ occurs 32 times.
---            _gold_ occurs 7 times.
---           _house_ occurs 1 time.
---      _informant1_ occurs 2 times.
---       _informant_ occurs 2 times.
---             _inn_ occurs 5 times.
---           _store_ occurs 4 times.
---           _thief_ occurs 23 times.
 
 QBN:
 Item _book_ book2 anyInfo 1014 used 1015

@@ -97,17 +97,6 @@ Message:  1080
 <ce> для человека, победившего лича.
 
 
--- Symbols used in the QRC file:
---
---              %god occurs 2 times.
---              %pcf occurs 4 times.
---              %qdt occurs 1 time.
---               %ra occurs 6 times.
---       =1stparton_ occurs 2 times.
---       ___mondung_ occurs 5 times.
---       ___newdung_ occurs 1 time.
---    ___questgiver_ occurs 1 time.
---          _reward_ occurs 3 times.
 
 QBN:
 Item _reward_ gold

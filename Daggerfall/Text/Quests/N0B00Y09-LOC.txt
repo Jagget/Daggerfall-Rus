@@ -243,29 +243,6 @@ Message:  1022
 <ce> по аллее.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 7 times.
---               %g2 occurs 4 times.
---               %g4 occurs 8 times.
---              %pcf occurs 3 times.
---              %pcn occurs 1 time.
---              %pct occurs 7 times.
---              %qdt occurs 3 times.
---               %ra occurs 2 times.
---              %reg occurs 2 times.
---              =db_ occurs 1 time.
---         =queston_ occurs 4 times.
---         =scholar_ occurs 2 times.
---            ___db_ occurs 13 times.
---        ___qgiver_ occurs 2 times.
---       ___scholar_ occurs 4 times.
---             __db_ occurs 6 times.
---        __scholar_ occurs 2 times.
---              _db_ occurs 11 times.
---          _dbgold_ occurs 2 times.
---          _qgiver_ occurs 1 time.
---         _scholar_ occurs 69 times.
 
 QBN:
 Item research1 letter used 1015

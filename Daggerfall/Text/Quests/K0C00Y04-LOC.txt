@@ -171,32 +171,6 @@ Message:  1016
 <ce> __arena_.
 
 
--- Symbols used in the QRC file:
---
---               %cn occurs 1 time.
---                %g occurs 3 times.
---               %g2 occurs 11 times.
---               %g4 occurs 7 times.
---              %oth occurs 5 times.
---              %pcf occurs 5 times.
---              %qdt occurs 2 times.
---               %ra occurs 1 time.
---              %reg occurs 1 time.
---      =competitor_ occurs 3 times.
---         =queston_ occurs 1 time.
---    ___competitor_ occurs 1 time.
---         ___lover_ occurs 1 time.
---        ___qgiver_ occurs 4 times.
---          __arena_ occurs 3 times.
---     __competitor_ occurs 2 times.
---         __qgiver_ occurs 2 times.
---           _arena_ occurs 6 times.
---      _competitor_ occurs 14 times.
---         _duelist_ occurs 5 times.
---            _gold_ occurs 3 times.
---           _lover_ occurs 16 times.
---         _lovgold_ occurs 3 times.
---          _qgiver_ occurs 20 times.
 
 QBN:
 Item _gold_ gold

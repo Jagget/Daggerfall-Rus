@@ -95,21 +95,6 @@ Message:  1011
 <ce> целительный сон.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 3 times.
---               %g2 occurs 9 times.
---               %g4 occurs 7 times.
---              %oth occurs 1 time.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---         =queston_ occurs 2 times.
---        ___qgiver_ occurs 1 time.
---         __castle_ occurs 4 times.
---            _gold_ occurs 6 times.
---          _qgiver_ occurs 1 time.
---         _warrior_ occurs 42 times.
 
 QBN:
 Item _gold_ gold

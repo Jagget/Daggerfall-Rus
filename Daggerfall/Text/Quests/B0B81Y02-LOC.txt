@@ -205,24 +205,6 @@ Message:  1042
 <ce> __mageguild_.
 
 
--- Symbols used in the QRC file:
---
---               %g4 occurs 5 times.
---              %oth occurs 4 times.
---              %pcf occurs 2 times.
---              %pcn occurs 7 times.
---              %qdt occurs 3 times.
---               %ra occurs 2 times.
---              %reg occurs 8 times.
---           =2dung_ occurs 2 times.
---         ==qgiver_ occurs 6 times.
---      ___dungeon2_ occurs 2 times.
---      ___dungeon3_ occurs 3 times.
---       ___dungeon_ occurs 5 times.
---        ___qgiver_ occurs 1 time.
---      __mageguild_ occurs 9 times.
---          _qgiver_ occurs 2 times.
---          _wizard_ occurs 3 times.
 
 QBN:
 Item _I.01_ artifact Warlocks_Ring

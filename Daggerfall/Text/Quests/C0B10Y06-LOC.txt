@@ -79,20 +79,6 @@ Message:  1011
 <ce> к _qgiver_.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 1 time.
---               %g4 occurs 1 time.
---              %god occurs 6 times.
---              %pcn occurs 2 times.
---              %pct occurs 18 times.
---              %qdt occurs 1 time.
---      =traveltime_ occurs 3 times.
---       ___dungeon_ occurs 4 times.
---        ___qgiver_ occurs 12 times.
---            _gold_ occurs 1 time.
---      _ingredient_ occurs 5 times.
---          _qgiver_ occurs 3 times.
 
 QBN:
 Item _ingredient_ organs

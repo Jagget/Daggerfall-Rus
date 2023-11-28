@@ -75,22 +75,6 @@ Message:  1011
 <ce> Вы убили =monster_, _monster_.
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 1 time.
---                %g occurs 1 time.
---               %g2 occurs 2 times.
---               %g4 occurs 3 times.
---              %kno occurs 3 times.
---              %pcf occurs 2 times.
---              %pct occurs 1 time.
---              %qdt occurs 1 time.
---         =monster_ occurs 14 times.
---         =queston_ occurs 2 times.
---        ___mondun_ occurs 3 times.
---        ___qgiver_ occurs 4 times.
---         _monster_ occurs 10 times.
---          _qgiver_ occurs 2 times.
 
 QBN:
 

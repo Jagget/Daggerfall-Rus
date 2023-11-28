@@ -304,23 +304,6 @@ Message:  1036
 
 --Changed _wereBrother_ to __mondung_ so _barmaid_ specifies dungeon werewolf is in, not dungeon brother NPC currently stashed in
 
--- Symbols used in the QRC file:
---
---              %god occurs 1 time.
---              %oth occurs 1 time.
---              %pcf occurs 7 times.
---              %pcn occurs 1 time.
---              %pct occurs 3 times.
---              %qdt occurs 5 times.
---               %ra occurs 20 times.
---        =2mondung_ occurs 3 times.
---        ==barmaid_ occurs 3 times.
---   ___wereBrother_ occurs 1 time.
---         __tavern_ occurs 5 times.
---         _barmaid_ occurs 9 times.
---           _relic_ occurs 8 times.
---          _tavern_ occurs 2 times.
---     _wereBrother_ occurs 6 times.
 
 QBN:
 Item _letter_ letter used 1018

@@ -81,16 +81,6 @@ Message:  1023
 <ce> Это не человек! Это вампир!
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 3 times.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---              %reg occurs 1 time.
---       =1stparton_ occurs 4 times.
---    ___questgiver_ occurs 1 time.
---        __mondung_ occurs 8 times.
---          _reward_ occurs 3 times.
 
 QBN:
 Item _reward_ gold

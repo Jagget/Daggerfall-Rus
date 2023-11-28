@@ -97,18 +97,6 @@ Message:  1020
 <ce> в ___questgiver_ в течение =1stparton_ дней.
 
 
--- Symbols used in the QRC file:
---
---              %oth occurs 2 times.
---              %pcf occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---              %reg occurs 1 time.
---                %t occurs 2 times.
---       =1stparton_ occurs 4 times.
---       ___mondung_ occurs 2 times.
---    ___questgiver_ occurs 4 times.
---          _reward_ occurs 3 times.
 
 QBN:
 Item _reward_ gold

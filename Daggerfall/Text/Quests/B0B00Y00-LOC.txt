@@ -127,23 +127,6 @@ Message:  1015
 <ce> давайте быстрее выбираться отсюда."
 
 
--- Symbols used in the QRC file:
---
---               ___qgiver_ occurs 2 times.
---              %god occurs 3 times.
---              %pcf occurs 5 times.
---              %pcn occurs 1 time.
---              %pct occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---              %reg occurs 4 times.
---        =2mondung_ occurs 4 times.
---         =monster_ occurs 1 time.
---       ___mondung_ occurs 4 times.
---        ___qgiver_ occurs 2 times.
---            _lady_ occurs 18 times.
---         _monster_ occurs 9 times.
---          _qgiver_ occurs 2 times.
 
 QBN:
 Item letter31 letter used 1014

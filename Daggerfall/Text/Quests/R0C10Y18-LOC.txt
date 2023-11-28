@@ -119,28 +119,6 @@ Message:  1021
 <ce> А теперь проваливай отсюда.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 6 times.
---               %g2 occurs 1 time.
---               %g4 occurs 1 time.
---              %oth occurs 1 time.
---              %pcf occurs 9 times.
---              %qdt occurs 2 times.
---              %reg occurs 1 time.
---       =1stparton_ occurs 4 times.
---       =2ndparton_ occurs 3 times.
---            =npc1_ occurs 3 times.
---          ___npc2_ occurs 3 times.
---    ___questgiver_ occurs 1 time.
---           __npc1_ occurs 5 times.
---           __npc2_ occurs 2 times.
---           _item1_ occurs 7 times.
---           _item2_ occurs 5 times.
---            _npc1_ occurs 3 times.
---            _npc2_ occurs 3 times.
---      _questgiver_ occurs 4 times.
---          _reward_ occurs 3 times.
 
 QBN:
 Item _reward_ gold

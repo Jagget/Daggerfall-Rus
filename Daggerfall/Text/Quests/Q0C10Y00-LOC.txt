@@ -113,23 +113,6 @@ Message:  1025
 Message:  1026
 <ce> Вы отдали _item3_.
 
--- Symbols used in the QRC file:
---
---               %g2 occurs 2 times.
---              %pcf occurs 28 times.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 4 times.
---                %t occurs 1 time.
---         ==qgiver_ occurs 28 times.
---         =queston_ occurs 2 times.
---      ___dungeon1_ occurs 2 times.
---      ___dungeon2_ occurs 2 times.
---      ___dungeon3_ occurs 2 times.
---           _item1_ occurs 6 times.
---           _item2_ occurs 6 times.
---           _item3_ occurs 6 times.
---          _qgiver_ occurs 8 times.
 
 QBN:
 Item _item1_ mythic

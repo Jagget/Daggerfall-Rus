@@ -139,19 +139,6 @@ Message:  1080
 <ce> катушку.
 
 
--- Symbols used in the QRC file:
---
---              %pcn occurs 5 times.
---              %pct occurs 2 times.
---              %qdt occurs 2 times.
---               %ra occurs 1 time.
---           =2dung_ occurs 2 times.
---       ___dungeon_ occurs 2 times.
---         ___house_ occurs 2 times.
---       ___newdung_ occurs 1 time.
---        ___qgiver_ occurs 1 time.
---            _gold_ occurs 4 times.
---        _woodsman_ occurs 5 times.
 
 QBN:
 Item _gold_ gold

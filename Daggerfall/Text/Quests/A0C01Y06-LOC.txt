@@ -126,24 +126,6 @@ Message:  1035
 Оркский шаман взвыл диким голосом.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 14 times.
---               %g2 occurs 8 times.
---               %g4 occurs 1 time.
---              %pcf occurs 1 time.
---              %pcn occurs 1 time.
---              %qdt occurs 3 times.
---               %ra occurs 6 times.
---         =mmaster_ occurs 4 times.
---       ___dungeon_ occurs 2 times.
---        ___qgiver_ occurs 1 time.
---    __hidingplace_ occurs 3 times.
---   __meetingplace_ occurs 3 times.
---            _gold_ occurs 3 times.
---          _master_ occurs 10 times.
---    _meetingplace_ occurs 3 times.
---          _qgiver_ occurs 3 times.
 
 QBN:
 Item _gold_ gold

@@ -172,29 +172,6 @@ Message:  1061
 <ce> пользоваться этим.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 7 times.
---               %g2 occurs 2 times.
---               %g4 occurs 3 times.
---              %god occurs 2 times.
---              %pcf occurs 2 times.
---              %pcn occurs 1 time.
---              %qdt occurs 2 times.
---               %ra occurs 1 time.
---           =qtime_ occurs 2 times.
---           =tiger_ occurs 2 times.
---         ___dummy_ occurs 3 times.
---       ___mondung_ occurs 4 times.
---    ___questgiver_ occurs 1 time.
---          __dummy_ occurs 2 times.
---      __lovehouse_ occurs 1 time.
---           _dummy_ occurs 13 times.
---            _gold_ occurs 6 times.
---            _love_ occurs 2 times.
---           _magic_ occurs 1 time.
---      _questgiver_ occurs 2 times.
---          _victim_ occurs 1 time.
 
 QBN:
 Item _I.00_ bell

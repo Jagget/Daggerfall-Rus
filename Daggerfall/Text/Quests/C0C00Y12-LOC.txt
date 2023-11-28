@@ -113,26 +113,6 @@ Message:  1020
 <ce> Самое время делать ноги!
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 9 times.
---               %g2 occurs 2 times.
---              %god occurs 2 times.
---              %oth occurs 2 times.
---              %pcf occurs 1 time.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---           =decoy_ occurs 2 times.
---           =thief_ occurs 3 times.
---      =traveltime_ occurs 3 times.
---         ___decoy_ occurs 2 times.
---        ___qgiver_ occurs 7 times.
---     __thiefplace_ occurs 11 times.
---          _qgiver_ occurs 1 time.
---       _religitem_ occurs 10 times.
---           _thief_ occurs 7 times.
---      _thiefplace_ occurs 5 times.
 
 QBN:
 Item _religitem_ religious

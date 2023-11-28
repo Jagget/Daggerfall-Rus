@@ -141,27 +141,6 @@ Message:  1020
 <ce> мне и вам не причинят вреда.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 6 times.
---               %g2 occurs 2 times.
---               %g4 occurs 13 times.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---      =traveltime_ occurs 3 times.
---  ___pickupregion_ occurs 8 times.
---    ___questgiver_ occurs 1 time.
---            _book_ occurs 3 times.
---            _gold_ occurs 5 times.
---      _ingredient_ occurs 1 time.
---         _jewelry_ occurs 1 time.
---    _mensclothing_ occurs 1 time.
---        _painting_ occurs 1 time.
---    _pickupregion_ occurs 11 times.
---          _potion_ occurs 1 time.
---      _questgiver_ occurs 5 times.
---          _weapon_ occurs 1 time.
---  _womensclothing_ occurs 1 time.
 
 QBN:
 Item _book_ book0

@@ -82,14 +82,6 @@ Message:  1012
 <ce> отреагируют на ваше вторжение на их
 <ce> территорию.
 
--- Symbols used in the QRC file:
---
---               %g2 occurs 2 times.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---        ___qgiver_ occurs 1 time.
---          __house_ occurs 6 times.
---          _qgiver_ occurs 7 times.
 
 QBN:
 

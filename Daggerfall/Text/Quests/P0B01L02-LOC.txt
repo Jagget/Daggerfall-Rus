@@ -135,18 +135,6 @@ Message:  1030
 <ce> А толпа так ничего и не заметила...
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 2 times.
---              %pcf occurs 9 times.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---              %vam occurs 14 times.
---       =1stparton_ occurs 3 times.
---         =vampire_ occurs 4 times.
---       __itemdung_ occurs 2 times.
---        __vampire_ occurs 14 times.
---       _vamprelic_ occurs 27 times.
 
 QBN:
 Item _vamprelic_ religious anyInfo 1013 used 1015

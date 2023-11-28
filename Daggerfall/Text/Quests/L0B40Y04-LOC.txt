@@ -92,18 +92,6 @@ Message:  1021
 <ce> _knight_... Заказ выполнен.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 2 times.
---               %g2 occurs 1 time.
---              %pcf occurs 23 times.
---              %qdt occurs 1 time.
---              %reg occurs 1 time.
---       =1stparton_ occurs 3 times.
---          _knight_ occurs 14 times.
---    ___questgiver_ occurs 1 time.
---        __mondung_ occurs 9 times.
---          _reward_ occurs 1 time.
 
 QBN:
 Item _reward_ gold

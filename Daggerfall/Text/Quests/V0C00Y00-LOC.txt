@@ -106,19 +106,6 @@ Message:  1030
 <ce> оговорено с Клавикусом Вайлом.
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 2 times.
---              %pcf occurs 1 time.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---       =1stparton_ occurs 2 times.
---         =contact_ occurs 7 times.
---       ___mondung_ occurs 6 times.
---        __contact_ occurs 4 times.
---        _artifact_ occurs 11 times.
---         _contact_ occurs 1 time.
 
 QBN:
 Item _artifact_ artifact Masque_of_Clavicus_Vile anyInfo 1014

@@ -150,13 +150,6 @@ Message:  1016
 <ce> Моргайе пожалуйста.
 
 
--- Symbols used in the QRC file:
---
---              %god occurs 1 time.
---              %oth occurs 1 time.
---              %pcf occurs 3 times.
---              %qdt occurs 1 time.
---            _necs_ occurs 7 times.
 
 QBN:
 Item letter44 letter used 1010

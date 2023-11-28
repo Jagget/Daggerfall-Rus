@@ -119,24 +119,6 @@ Message:  1030
 <ce> У меня есть =1stparton_ дней чтобы закончить это дело.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 41 times.
---               %g2 occurs 1 time.
---               %g4 occurs 1 time.
---              %nrn occurs 1 time.
---              %oth occurs 2 times.
---              %pcf occurs 12 times.
---              %qdt occurs 1 time.
---                %t occurs 2 times.
---       =1stparton_ occurs 4 times.
---         =contact_ occurs 7 times.
---    ___questgiver_ occurs 1 time.
---        __contact_ occurs 8 times.
---            _gems_ occurs 3 times.
---      _questgiver_ occurs 2 times.
---          _reward_ occurs 1 time.
---         _weapons_ occurs 6 times.
 
 QBN:
 Item _reward_ gold range 25 to 75

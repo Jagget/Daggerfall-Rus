@@ -77,18 +77,6 @@ Message:  1031
 <ce> Школа будет довольна.
 
 
--- Symbols used in the QRC file:
---
---               %g4 occurs 2 times.
---              %pcf occurs 10 times.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---       =1stparton_ occurs 2 times.
---         =monster_ occurs 9 times.
---       ___mondung_ occurs 3 times.
---    ___questgiver_ occurs 1 time.
---         _monster_ occurs 5 times.
---          _reward_ occurs 2 times.
 
 QBN:
 Item _reward_ gold

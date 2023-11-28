@@ -95,19 +95,6 @@ Message:  1080
 <ce> предостаточно.
 
 
--- Symbols used in the QRC file:
---
---              %oth occurs 1 time.
---              %pcf occurs 5 times.
---              %pct occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---                %t occurs 1 time.
---       =1stparton_ occurs 3 times.
---       ___mondung_ occurs 5 times.
---       ___newdung_ occurs 1 time.
---    ___questgiver_ occurs 1 time.
---          _reward_ occurs 5 times.
 
 QBN:
 Item _reward_ gold

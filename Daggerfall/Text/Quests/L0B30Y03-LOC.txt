@@ -96,14 +96,6 @@ Message:  1011
 <ce> Братство будет довольно.
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 14 times.
---              %qdt occurs 1 time.
---       =1stparton_ occurs 3 times.
---    ___questgiver_ occurs 3 times.
---        __mondung_ occurs 3 times.
---          _reward_ occurs 1 time.
 
 QBN:
 Item _reward_ gold

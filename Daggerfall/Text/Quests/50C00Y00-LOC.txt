@@ -119,21 +119,6 @@ Message:  1015
 <ce> На все у меня =1stparton_ дней.
 
 
--- Symbols used in the QRC file:
---
---               %g2 occurs 2 times.
---              %pcf occurs 1 time.
---              %pct occurs 3 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---              %reg occurs 1 time.
---       =1stparton_ occurs 5 times.
---         =monster_ occurs 7 times.
---        =qgfriend_ occurs 5 times.
---       ___mondung_ occurs 3 times.
---      ___qgfriend_ occurs 5 times.
---         _monster_ occurs 2 times.
---        _qgfriend_ occurs 6 times.
 
 QBN:
 Item _artifact_ artifact Spell_Breaker anyInfo 1013

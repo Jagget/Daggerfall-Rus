@@ -108,21 +108,6 @@ Message:  1011
 <ce> будут говорить годами!
 
 
--- Symbols used in the QRC file:
---
---               %cn occurs 1 time.
---              %jok occurs 3 times.
---              %kno occurs 1 time.
---              %oth occurs 5 times.
---              %pcn occurs 1 time.
---              %pct occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---              %reg occurs 1 time.
---           =2dung_ occurs 3 times.
---         ==qgiver_ occurs 6 times.
---       ___dungeon_ occurs 5 times.
---        ___qgiver_ occurs 3 times.
 
 QBN:
 

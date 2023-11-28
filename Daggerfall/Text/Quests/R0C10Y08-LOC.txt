@@ -114,30 +114,6 @@ Message:  1020
 <ce> Держи вора! Гадкий осквернитель
 <ce> нашей святыни _item_!
 
--- Symbols used in the QRC file:
---
---               %di occurs 1 time.
---                %g occurs 2 times.
---               %g2 occurs 1 time.
---               %g4 occurs 2 times.
---              %god occurs 1 time.
---              %oth occurs 3 times.
---              %pcf occurs 7 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---       =1stparton_ occurs 2 times.
---       =2ndparton_ occurs 3 times.
---     =transporter_ occurs 2 times.
---    ___questgiver_ occurs 2 times.
---            __inn_ occurs 4 times.
---      __itemplace_ occurs 2 times.
---     __questgiver_ occurs 11 times.
---             _inn_ occurs 2 times.
---            _item_ occurs 11 times.
---       _itemplace_ occurs 7 times.
---      _questgiver_ occurs 5 times.
---          _reward_ occurs 1 time.
---     _transporter_ occurs 6 times.
 
 QBN:
 Item _reward_ gold

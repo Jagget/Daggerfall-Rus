@@ -110,10 +110,6 @@ Message:  1020
 <ce> возьмите это. Отлично. Послание доставлено."
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 6 times.
---              %pcn occurs 2 times.
 
 QBN:
 Item _letter1_ letter used 1010

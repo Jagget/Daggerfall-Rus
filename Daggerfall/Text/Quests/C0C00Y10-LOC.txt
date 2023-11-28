@@ -135,25 +135,6 @@ Message:  1019
 <ce> ваших руках после использования.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 3 times.
---               %g2 occurs 5 times.
---               %g4 occurs 2 times.
---              %god occurs 2 times.
---              %pcf occurs 29 times.
---              %pcn occurs 2 times.
---              %qdt occurs 3 times.
---               %ra occurs 2 times.
---          =cousin_ occurs 2 times.
---       =questtime_ occurs 5 times.
---        ___cousin_ occurs 4 times.
---         ___giver_ occurs 1 time.
---        ___healer_ occurs 39 times.
---          __giver_ occurs 8 times.
---          _cousin_ occurs 16 times.
---           _giver_ occurs 5 times.
---          _healer_ occurs 39 times.
 
 QBN:
 Item _talisman_ root_tendrils

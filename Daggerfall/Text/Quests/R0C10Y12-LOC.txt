@@ -97,23 +97,6 @@ Message:  1023
 Who is calling 1023?
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 11 times.
---               %g2 occurs 3 times.
---               %g4 occurs 1 time.
---              %god occurs 1 time.
---              %pcf occurs 4 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---         =contact_ occurs 3 times.
---         =queston_ occurs 2 times.
---       ___contact_ occurs 6 times.
---    ___questgiver_ occurs 1 time.
---        __contact_ occurs 20 times.
---            _item_ occurs 20 times.
---      _questgiver_ occurs 7 times.
---          _reward_ occurs 1 time.
 
 QBN:
 Item _reward_ gold

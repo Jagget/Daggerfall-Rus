@@ -91,19 +91,6 @@ Message:  1021
 <ce> Контракт выполнен.
 
 
--- Symbols used in the QRC file:
---
---               %cn occurs 1 time.
---               %g2 occurs 1 time.
---              %pcf occurs 6 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---              %reg occurs 1 time.
---       =1stparton_ occurs 4 times.
---       ___mondung_ occurs 2 times.
---    ___questgiver_ occurs 1 time.
---          _damsel_ occurs 1 time.
---      _questgiver_ occurs 1 time.
 
 QBN:
 Item _reward_ gold

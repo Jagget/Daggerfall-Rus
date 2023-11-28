@@ -135,20 +135,6 @@ Message:  1050
 <ce> негодник!
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 6 times.
---               %g2 occurs 12 times.
---              %pcf occurs 1 time.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---               %ra occurs 4 times.
---              %reg occurs 1 time.
---      =traveltime_ occurs 5 times.
---    ___questgiver_ occurs 2 times.
---    __destination_ occurs 20 times.
---            _gold_ occurs 6 times.
---      _questgiver_ occurs 16 times.
 
 QBN:
 Item _gold_ gold

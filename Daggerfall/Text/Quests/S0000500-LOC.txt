@@ -115,25 +115,6 @@ Message:  1070
 <ce> письмо."
 
 
--- Symbols used in the QRC file:
---
---               %g2 occurs 3 times.
---              %oth occurs 1 time.
---              %pcf occurs 1 time.
---              %pcn occurs 5 times.
---              %qdt occurs 3 times.
---  =executiondelay_ occurs 1 time.
---          =guards_ occurs 2 times.
---    ____safehouse_ occurs 2 times.
---       ____tavern_ occurs 2 times.
---      __safehouse_ occurs 2 times.
---         __tavern_ occurs 2 times.
---        _contact1_ occurs 4 times.
---            _gold_ occurs 1 time.
---           _queen_ occurs 7 times.
---       _safehouse_ occurs 2 times.
---          _tavern_ occurs 2 times.
---         _traitor_ occurs 14 times.
 
 QBN:
 Item _letter_ letter used 1030

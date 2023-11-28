@@ -102,24 +102,6 @@ Message:  1040
 <ce> в час своей нужды!
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 2 times.
---                %g occurs 3 times.
---               %g2 occurs 2 times.
---               %g4 occurs 9 times.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---              %reg occurs 1 time.
---       =1stparton_ occurs 2 times.
---         =monster_ occurs 12 times.
---        =qgfriend_ occurs 4 times.
---       ___mondung_ occurs 3 times.
---      ___qgfriend_ occurs 9 times.
---        _artifact_ occurs 3 times.
---         _monster_ occurs 2 times.
---        _qgfriend_ occurs 9 times.
 
 QBN:
 Item _artifact_ artifact Ring_of_Khajiit anyInfo 1014

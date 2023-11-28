@@ -128,24 +128,6 @@ Message:  1020
 <ce> принять свою судьбу, смертный..."
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 3 times.
---                %g occurs 6 times.
---               %g2 occurs 1 time.
---               %g4 occurs 2 times.
---              %pcf occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 4 times.
---       =2alch_ occurs 2 times.
---       =2questgiver_ occurs 1 time.
---         =chemist_ occurs 3 times.
---    ___questgiver_ occurs 1 time.
---        __chemist_ occurs 1 time.
---     __questgiver_ occurs 2 times.
---         _chemist_ occurs 6 times.
---      _questgiver_ occurs 9 times.
---          _reward_ occurs 2 times.
 
 QBN:
 Item _reward_ gold

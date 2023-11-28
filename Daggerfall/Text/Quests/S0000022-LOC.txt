@@ -44,9 +44,6 @@ Message:  1011
 <ce> и использовать снадобье.
 
 
--- Symbols used in the QRC file:
---
---              %qdt occurs 2 times.
 
 QBN:
 Item _spider_ lich_dust

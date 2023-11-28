@@ -174,21 +174,6 @@ Message:  1030
 <ce> Этот урок ты не скоро забудешь.
 
 
--- Symbols used in the QRC file:
---
---               %cn occurs 3 times.
---              %jok occurs 9 times.
---              %oth occurs 15 times.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---              %reg occurs 4 times.
---      =traveltime_ occurs 2 times.
---       ___dungeon_ occurs 1 time.
---   ___endbuilding occurs 1 time.
---        __mansion_ occurs 1 time.
---        _clothing_ occurs 5 times.
---         _mansion_ occurs 1 time.
---     _thiefmember_ occurs 1 time.
 
 QBN:
 Item _clothing_ womens_clothing

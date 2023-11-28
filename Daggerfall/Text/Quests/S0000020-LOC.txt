@@ -103,11 +103,6 @@ Message:  1040
 <ce> от императора. Возвращайтесь, когда узнаете.
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 3 times.
 
 QBN:
 Item EmperorsLetter letter used 1021

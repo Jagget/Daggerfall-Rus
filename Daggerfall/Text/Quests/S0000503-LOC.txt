@@ -143,21 +143,6 @@ Message:  1071
 <ce> придется начинать без вас.
 
 
--- Symbols used in the QRC file:
---
---               %g4 occurs 1 time.
---              %pcf occurs 2 times.
---              %qdt occurs 4 times.
---         =keytime_ occurs 7 times.
---       ____tavern_ occurs 3 times.
---      ___itemdung_ occurs 14 times.
---       ___keydung_ occurs 2 times.
---     __magesguild_ occurs 4 times.
---         __tavern_ occurs 5 times.
---            _item_ occurs 8 times.
---             _key_ occurs 7 times.
---           _rebel_ occurs 14 times.
---          _tavern_ occurs 10 times.
 
 QBN:
 Item _letter_ letter

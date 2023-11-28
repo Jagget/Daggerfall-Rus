@@ -72,16 +72,6 @@ Message:  1011
 <ce> _monster_ мертв.
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 1 time.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 3 times.
---        ___qgiver_ occurs 1 time.
---           _house_ occurs 2 times.
---         _monster_ occurs 3 times.
---          _qgiver_ occurs 1 time.
 
 QBN:
 
@@ -116,4 +106,4 @@ _qgclicked_ task:
 
 _clearclick_ task:
 	when _qgclicked_ and not _S.01_
-	clear _qgclicked_ _clearclick_ 
+	clear _qgclicked_ _clearclick_

@@ -296,19 +296,6 @@ Message:  1040
 <ce> проверить склеп под названием ___ukcrypt_.
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 4 times.
---              %god occurs 1 time.
---              %oth occurs 1 time.
---              %pcf occurs 6 times.
---              %pcn occurs 3 times.
---              %pct occurs 2 times.
---              %qdt occurs 2 times.
---       ___ukcrypt_ occurs 14 times.
---     __agentplace_ occurs 5 times.
---         _brother_ occurs 24 times.
---       _magicitem_ occurs 1 time.
 
 QBN:
 Item deathCertificate letter used 1010

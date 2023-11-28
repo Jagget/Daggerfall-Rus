@@ -269,14 +269,6 @@ Message:  1050
 Говорят, у лорда Кастеллиана достаточно поддержки, чтобы помешать военным планам принца Хелсета.
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 11 times.
---              %pcn occurs 5 times.
---              %qdt occurs 2 times.
---       =1stparton_ occurs 2 times.
---       __castfort_ occurs 6 times.
---       _magicitem_ occurs 2 times.
 
 QBN:
 Item letter39 letter used 1010

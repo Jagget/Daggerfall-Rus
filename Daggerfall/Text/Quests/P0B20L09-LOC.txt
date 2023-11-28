@@ -113,17 +113,6 @@ Message:  1021
 <ce> вы не можете играть честно.
 
 
--- Symbols used in the QRC file:
---
---              %dat occurs 1 time.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---              %reg occurs 1 time.
---              %vam occurs 26 times.
---         =queston_ occurs 2 times.
---        =wereboar_ occurs 3 times.
---       ___mondung_ occurs 23 times.
---          ___vamp_ occurs 16 times.
 
 QBN:
 Item _letter_ letter used 1010

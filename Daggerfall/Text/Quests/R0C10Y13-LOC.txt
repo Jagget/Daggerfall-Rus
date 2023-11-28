@@ -87,22 +87,6 @@ Message:  1020
 <ce> Проклятие, опять эти глупые шутки ...
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 1 time.
---               %g4 occurs 1 time.
---              %god occurs 1 time.
---              %oth occurs 1 time.
---              %pcf occurs 8 times.
---              %qdt occurs 1 time.
---               %ra occurs 5 times.
---         =contact_ occurs 2 times.
---         =queston_ occurs 1 time.
---         __palace_ occurs 2 times.
---         _contact_ occurs 10 times.
---            _item_ occurs 5 times.
---      _questgiver_ occurs 9 times.
---          _reward_ occurs 2 times.
 
 QBN:
 Item _reward_ gold

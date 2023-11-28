@@ -70,20 +70,6 @@ QuestLogEntry:  [1010]
 <ce> =traveltime_ дней за деньгами.
 
 
--- Symbols used in the QRC file:
---
---              %oth occurs 1 time.
---              %pcf occurs 3 times.
---              %pcn occurs 4 times.
---              %qdt occurs 1 time.
---               %ra occurs 6 times.
---      =traveltime_ occurs 2 times.
---        ___qgiver_ occurs 1 time.
---        __mansion_ occurs 5 times.
---           _drugs_ occurs 9 times.
---            _gold_ occurs 4 times.
---         _mansion_ occurs 4 times.
---          _qgiver_ occurs 2 times.
 
 QBN:
 Item _drugs_ drug

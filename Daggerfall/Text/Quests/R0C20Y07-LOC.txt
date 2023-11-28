@@ -95,22 +95,6 @@ Message:  1011
 Вы нашли сапфир.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 3 times.
---               %g4 occurs 2 times.
---              %oth occurs 2 times.
---              %pcf occurs 4 times.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---       =1stparton_ occurs 4 times.
---      ___itemdung_ occurs 4 times.
---      ___qgfriend_ occurs 3 times.
---    ___questgiver_ occurs 1 time.
---       __qgfriend_ occurs 9 times.
---      _questgiver_ occurs 2 times.
---          _reward_ occurs 1 time.
 
 QBN:
 Item _reward_ magic_item

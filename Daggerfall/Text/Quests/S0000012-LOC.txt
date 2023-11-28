@@ -146,23 +146,6 @@ Message:  1021
 <ce> верен своему Ордену.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 4 times.
---               %g2 occurs 3 times.
---              %god occurs 1 time.
---              %pcf occurs 2 times.
---              %pcn occurs 5 times.
---              %qdt occurs 2 times.
---               %ra occurs 1 time.
---         =2palace_ occurs 3 times.
---       __location_ occurs 3 times.
---         __palace_ occurs 3 times.
---      _dispatcher_ occurs 6 times.
---         _jewelry_ occurs 2 times.
---        _location_ occurs 1 time.
---       _messenger_ occurs 8 times.
---          _palace_ occurs 4 times.
 
 QBN:
 Item signetRing ring anyInfo 1019

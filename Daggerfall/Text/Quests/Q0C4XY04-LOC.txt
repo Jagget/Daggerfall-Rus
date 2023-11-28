@@ -101,18 +101,6 @@ Message:  1040
 <ce> все еще бьщегося в судорогах тела.
 
 
--- Symbols used in the QRC file:
---
---              %god occurs 2 times.
---              %pcf occurs 1 time.
---              %pcn occurs 5 times.
---              %qdt occurs 1 time.
---              %reg occurs 3 times.
---       =1stparton_ occurs 4 times.
---     ==questgiver_ occurs 6 times.
---       ___mondung_ occurs 16 times.
---    ___questgiver_ occurs 3 times.
---          _reward_ occurs 14 times.
 
 QBN:
 Item _reward_ malachite

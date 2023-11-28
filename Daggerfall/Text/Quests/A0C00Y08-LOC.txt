@@ -116,20 +116,6 @@ Message:  1033
 <ce> Это просто дружеский совет.
 
 
--- Symbols used in the QRC file:
---
---               %g2 occurs 4 times.
---           %g2self occurs 2 times.
---               %g4 occurs 1 time.
---              %oth occurs 2 times.
---              %pcf occurs 4 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---    ___questgiver_ occurs 2 times.
---           _darkb_ occurs 15 times.
---            _gold_ occurs 9 times.
---           _place_ occurs 1 time.
---      _questgiver_ occurs 8 times.
 
 QBN:
 Item _gold_ gold

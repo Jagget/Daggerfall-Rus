@@ -296,33 +296,6 @@ Message:  1060
 <ce> Вот _gold_ золотых на покрытие ваших расходов.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 9 times.
---               %g2 occurs 6 times.
---               %g4 occurs 12 times.
---              %god occurs 8 times.
---              %pcf occurs 1 time.
---              %pcn occurs 1 time.
---              %pct occurs 2 times.
---              %qdt occurs 6 times.
---               %ra occurs 85 times.
---           =time1_ occurs 2 times.
---           =time2_ occurs 6 times.
---       ___contact_ occurs 2 times.
---      ___hintdung_ occurs 9 times.
---      ___itemdung_ occurs 9 times.
---         ___maker_ occurs 6 times.
---    ___questgiver_ occurs 1 time.
---   ___scholardung_ occurs 4 times.
---        __contact_ occurs 7 times.
---            _gold_ occurs 3 times.
---      _ingredient_ occurs 5 times.
---            _item_ occurs 29 times.
---           _maker_ occurs 26 times.
---      _questgiver_ occurs 10 times.
---         _scholar_ occurs 9 times.
---   _scholarreward_ occurs 2 times.
 
 QBN:
 Item _item_ magic_item

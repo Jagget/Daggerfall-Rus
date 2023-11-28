@@ -124,21 +124,6 @@ Message:  1030
 <ce> если только Шигорат не забыл своих обещаний.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 7 times.
---               %g2 occurs 2 times.
---              %god occurs 7 times.
---              %pct occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---       =1stparton_ occurs 4 times.
---         =monster_ occurs 9 times.
---        =qgfriend_ occurs 5 times.
---   ___contactdung_ occurs 4 times.
---       ___mondung_ occurs 13 times.
---        _artifact_ occurs 8 times.
---        _qgfriend_ occurs 6 times.
 
 QBN:
 Item _artifact_ artifact Wabbajack anyInfo 1013

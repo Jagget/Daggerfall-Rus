@@ -161,22 +161,6 @@ Message:  1063
 <ce> ваши наставники не показали вам эти трюки?
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 5 times.
---               %g2 occurs 3 times.
---               %g4 occurs 2 times.
---              %pcn occurs 2 times.
---              %pct occurs 2 times.
---              %qdt occurs 2 times.
---           =mage1_ occurs 1 time.
---           =mage3_ occurs 1 time.
---           =qtime_ occurs 4 times.
---    ___questgiver_ occurs 1 time.
---     __rebelhouse_ occurs 3 times.
---      _questgiver_ occurs 8 times.
---           _rebel_ occurs 6 times.
---          _reward_ occurs 1 time.
 
 QBN:
 Item _letter_ letter used 1040

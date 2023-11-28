@@ -96,24 +96,6 @@ Message:  1011
 <ce> голову!
 
 
--- Symbols used in the QRC file:
---
---               %cn occurs 1 time.
---               %g4 occurs 2 times.
---              %god occurs 1 time.
---              %jok occurs 3 times.
---              %oth occurs 5 times.
---              %pcf occurs 1 time.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---              %reg occurs 1 time.
---      =traveltime_ occurs 3 times.
---        ___priest_ occurs 6 times.
---         __qgiver_ occurs 4 times.
---            _gold_ occurs 2 times.
---          _priest_ occurs 5 times.
---          _qgiver_ occurs 1 time.
---       _religitem_ occurs 5 times.
 
 QBN:
 Item _religitem_ religious

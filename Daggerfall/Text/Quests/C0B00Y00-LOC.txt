@@ -74,17 +74,6 @@ Message:  1012
 <ce> благодарит вас. Вот пара золотых.
 
 
--- Symbols used in the QRC file:
---
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---      =traveltime_ occurs 2 times.
---        ___qgiver_ occurs 1 time.
---          __house_ occurs 3 times.
---         __qgiver_ occurs 1 time.
---            _gold_ occurs 2 times.
---           _house_ occurs 9 times.
---          _qgiver_ occurs 1 time.
 
 QBN:
 Item _gold_ gold

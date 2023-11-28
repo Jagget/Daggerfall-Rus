@@ -22,9 +22,6 @@ Message:  1015
 <ce> чтобы убить тебя и отнести ему Тотем.
 
 
--- Symbols used in the QRC file:
---
---               %ra occurs 2 times.
 
 QBN:
 

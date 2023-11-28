@@ -142,23 +142,6 @@ Message:  1030
 <ce> "_orsinium_ ... иди ... _orsinium_ ..."
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 6 times.
---               %g2 occurs 2 times.
---              %pcf occurs 5 times.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---         =contact_ occurs 2 times.
---         =queston_ occurs 2 times.
---       ___contact_ occurs 2 times.
---      ___orsinium_ occurs 6 times.
---    ___questgiver_ occurs 1 time.
---        __contact_ occurs 5 times.
---            _item_ occurs 12 times.
---        _orsinium_ occurs 7 times.
---      _questgiver_ occurs 11 times.
 
 QBN:
 Item _reward_ ruby

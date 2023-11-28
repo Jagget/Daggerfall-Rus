@@ -84,18 +84,6 @@ Message:  1012
 <ce> Вы чувствуете, что вам очень очень плохо.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 1 time.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---      =traveltime_ occurs 3 times.
---       ___dungeon_ occurs 2 times.
---        ___qgiver_ occurs 3 times.
---       _custodian_ occurs 1 time.
---        _evilitem_ occurs 10 times.
---            _gold_ occurs 4 times.
---          _qgiver_ occurs 3 times.
 
 QBN:
 Item _evilitem_ weapon

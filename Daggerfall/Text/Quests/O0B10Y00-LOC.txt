@@ -118,24 +118,6 @@ Message:  1020
 <ce> его и уйдешь без вреда.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 4 times.
---               %g2 occurs 6 times.
---               %g4 occurs 1 time.
---              %oth occurs 2 times.
---              %pcf occurs 8 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---                %t occurs 2 times.
---       =1stparton_ occurs 6 times.
---         =contact_ occurs 4 times.
---    ___questgiver_ occurs 1 time.
---        __contact_ occurs 14 times.
---            _gems_ occurs 14 times.
---           _metal_ occurs 7 times.
---      _questgiver_ occurs 2 times.
---          _reward_ occurs 1 time.
 
 QBN:
 Item _reward_ gold

@@ -129,19 +129,6 @@ Message:  1030
 <ce> Заприте двери! К бою, к бою!
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 13 times.
---               %g2 occurs 6 times.
---               %g4 occurs 3 times.
---              %pcf occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---  ___sleepingmage_ occurs 1 time.
---      _magesguild_ occurs 2 times.
---       _magicitem_ occurs 2 times.
---          _qgiver_ occurs 1 time.
---    _sleepingmage_ occurs 19 times.
 
 QBN:
 Item _magicitem_ magic_item

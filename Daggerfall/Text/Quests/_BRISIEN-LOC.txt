@@ -212,12 +212,6 @@ Message:  1025
 <ce> взяться за выполнение задания императора.
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 10 times.
---              %pcn occurs 6 times.
---              %qdt occurs 2 times.
---       __dirtypit_ occurs 16 times.
 
 QBN:
 Item _letter1_ letter used 1020

@@ -131,18 +131,6 @@ Message:  1060
 
 
 
--- Symbols used in the QRC file:
---
---               %g2 occurs 3 times.
---              %pcf occurs 6 times.
---              %pct occurs 3 times.
---              %qdt occurs 1 time.
---    ==dummydaedra_ occurs 1 time.
---          =daedra_ occurs 3 times.
---      =firedaedra_ occurs 1 time.
---         =queston_ occurs 3 times.
---       ___mondung_ occurs 4 times.
---        ___qgiver_ occurs 5 times.
 
 --in msg 1015, shifted text downward to avoid exposed hyphen
 

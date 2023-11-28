@@ -91,19 +91,6 @@ Message:  1020
 <ce> под названием ___mondung_.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 2 times.
---               %g4 occurs 3 times.
---              %pcf occurs 2 times.
---              %qdt occurs 1 time.
---       =1stparton_ occurs 2 times.
---         =monster_ occurs 7 times.
---       ___mondung_ occurs 4 times.
---    ___questgiver_ occurs 1 time.
---         _monster_ occurs 1 time.
---      _questgiver_ occurs 1 time.
---          _reward_ occurs 3 times.
 
 QBN:
 Item _reward_ gold

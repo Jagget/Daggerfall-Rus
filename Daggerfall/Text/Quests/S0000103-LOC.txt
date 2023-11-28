@@ -25,8 +25,6 @@ Message:  1015
 <ce> Поэтому я здесь, чтобы убить тебя.
 
 
--- Symbols used in the QRC file:
---    ***  None  ***
 
 QBN:
 

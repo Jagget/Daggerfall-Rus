@@ -109,21 +109,6 @@ Message:  1021
 <ce> мы оставляем свидетелей в живых?
 
 
--- Symbols used in the QRC file:
---
---              %god occurs 4 times.
---              %oth occurs 2 times.
---              %pcf occurs 8 times.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---       =1stparton_ occurs 3 times.
---       ___contact_ occurs 2 times.
---    ___questgiver_ occurs 1 time.
---        __contact_ occurs 2 times.
---     __questgiver_ occurs 1 time.
---         _contact_ occurs 2 times.
---      _questgiver_ occurs 7 times.
---          _reward_ occurs 2 times.
 
 QBN:
 Item _reward_ gold

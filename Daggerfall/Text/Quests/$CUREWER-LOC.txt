@@ -297,32 +297,6 @@ Message:  1061
    Илиакский залив также является домом для..."
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 7 times.
---               %g2 occurs 2 times.
---               %g4 occurs 17 times.
---              %god occurs 4 times.
---              %pcn occurs 3 times.
---              %qdt occurs 9 times.
---              %reg occurs 8 times.
---       =huntstart_ occurs 2 times.
---        =wereboar_ occurs 2 times.
---     ___alchemist_ occurs 2 times.
---        ___father_ occurs 1 time.
---      ___hintdung_ occurs 2 times.
---         ___local_ occurs 6 times.
---       ___mapdung_ occurs 5 times.
---        ___priest_ occurs 2 times.
---     __childhouse_ occurs 11 times.
---          __local_ occurs 205 times.
---         __priest_ occurs 2 times.
---       _alchemist_ occurs 3 times.
---           _child_ occurs 11 times.
---          _father_ occurs 10 times.
---          _hunter_ occurs 15 times.
---           _local_ occurs 207 times.
---          _priest_ occurs 6 times.
 
 QBN:
 Item _letter_ letter used 1020

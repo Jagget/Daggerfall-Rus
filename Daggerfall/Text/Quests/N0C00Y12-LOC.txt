@@ -90,16 +90,6 @@ Message:  1020
 <ce> ___qgiver_ до исхода =1stparton_ дней.
 
 
--- Symbols used in the QRC file:
---
---              %nam occurs 1 time.
---              %oth occurs 1 time.
---              %pcf occurs 1 time.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---       =1stparton_ occurs 5 times.
---       ___mondung_ occurs 2 times.
---        ___qgiver_ occurs 5 times.
 
 QBN:
 

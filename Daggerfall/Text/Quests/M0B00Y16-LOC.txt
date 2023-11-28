@@ -121,24 +121,6 @@ Message:  1080
 <ce> моложе, то отправился бы вместе с вами.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 40 times.
---               %g2 occurs 3 times.
---              %god occurs 2 times.
---              %pcf occurs 6 times.
---              %qdt occurs 2 times.
---           =qtime_ occurs 2 times.
---       ___mondung_ occurs 8 times.
---       ___newdung_ occurs 1 time.
---    ___questgiver_ occurs 1 time.
---      ___villager_ occurs 1 time.
---          __store_ occurs 3 times.
---           _dummy_ occurs 6 times.
---            _gold_ occurs 6 times.
---      _questgiver_ occurs 1 time.
---           _store_ occurs 3 times.
---        _villager_ occurs 2 times.
 
 QBN:
 Item _gold_ gold
@@ -253,4 +235,4 @@ _giantWaveWhileInDungeon_ task:
 	pc at _mondung_ set _spawnGiants_
 
 _spawnGiants_ task:
-	create foe _giantFriends_ every 3 minutes 6 times with 50% success 
+	create foe _giantFriends_ every 3 minutes 6 times with 50% success

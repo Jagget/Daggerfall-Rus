@@ -170,32 +170,6 @@ Message:  1019
 <ce> _childlocale_ в __childlocale_.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 5 times.
---               %g2 occurs 7 times.
---               %g4 occurs 2 times.
---              %god occurs 2 times.
---              %jok occurs 1 time.
---              %oth occurs 1 time.
---              %pcf occurs 17 times.
---              %pcn occurs 5 times.
---              %qdt occurs 3 times.
---               %ra occurs 5 times.
---           =child_ occurs 2 times.
---          =qgiver_ occurs 1 time.
---         =queston_ occurs 3 times.
---        ___knight_ occurs 7 times.
---       ___mondung_ occurs 3 times.
---        ___qgiver_ occurs 1 time.
---    __childlocale_ occurs 4 times.
---         __knight_ occurs 4 times.
---         __qgiver_ occurs 1 time.
---           _child_ occurs 32 times.
---     _childlocale_ occurs 2 times.
---            _gold_ occurs 3 times.
---          _knight_ occurs 7 times.
---          _qgiver_ occurs 8 times.
 
 QBN:
 Item _letter11_ letter used 1011

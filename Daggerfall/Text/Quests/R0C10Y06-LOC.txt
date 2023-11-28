@@ -93,19 +93,6 @@ Message:  1011
 Вы нашли _item_.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 1 time.
---              %oth occurs 1 time.
---              %pcf occurs 7 times.
---              %qdt occurs 1 time.
---               %ra occurs 4 times.
---       =1stparton_ occurs 2 times.
---      ___itemdung_ occurs 6 times.
---    ___questgiver_ occurs 2 times.
---            _item_ occurs 14 times.
---      _questgiver_ occurs 6 times.
---          _reward_ occurs 1 time.
 
 QBN:
 Item _item_ trinket

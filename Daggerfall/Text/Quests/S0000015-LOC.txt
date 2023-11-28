@@ -151,16 +151,6 @@ QuestTimeLapse:  [1045]
 <ce> Лорд Вудборн мертв.
 
 
--- Symbols used in the QRC file:
---
---              %god occurs 2 times.
---              %pcf occurs 3 times.
---              %pcn occurs 5 times.
---              %qdt occurs 2 times.
---               %ra occurs 5 times.
---              %reg occurs 2 times.
---            _gold_ occurs 1 time.
---          _reward_ occurs 1 time.
 
 QBN:
 Item WoodborneDiary letter anyInfo 1010 used 1011

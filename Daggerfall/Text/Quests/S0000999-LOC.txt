@@ -156,12 +156,6 @@ Message:  1041
 <ce> Принцесса Вэйреста
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 3 times.
---              %pcn occurs 7 times.
---              %qdt occurs 2 times.
---               %ra occurs 1 time.
 
 QBN:
 Item _I.00_ letter used 1040

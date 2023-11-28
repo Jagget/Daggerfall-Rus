@@ -118,14 +118,6 @@ Message:  1011
 <ce> вместо перины сплошь иголки.
 
 
--- Symbols used in the QRC file:
---
---              %oth occurs 1 time.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 5 times.
---     =2shedungent_ occurs 2 times.
---       _magicitem_ occurs 3 times.
 
 QBN:
 Item _magicitem_ magic_item

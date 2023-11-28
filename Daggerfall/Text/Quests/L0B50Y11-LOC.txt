@@ -134,24 +134,6 @@ Message:  1031
 <ce> Братство может гордиться!
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 23 times.
---               %g2 occurs 6 times.
---               %g4 occurs 10 times.
---              %pcf occurs 43 times.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---              %reg occurs 2 times.
---    ___questgiver_ occurs 2 times.
---       _fakeplace_ occurs 3 times.
---            _gold_ occurs 4 times.
---       _guildhall_ occurs 4 times.
---           _house_ occurs 2 times.
---             _inn_ occurs 2 times.
---         _marknpc_ occurs 35 times.
---    _mistresshome_ occurs 2 times.
---      _questgiver_ occurs 3 times.
 
 QBN:
 Item _gold_ gold

@@ -92,15 +92,6 @@ Message:  1080
 <ce> Я угощаю.
 
 
--- Symbols used in the QRC file:
---
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---       =1stparton_ occurs 3 times.
---       ___mondung_ occurs 6 times.
---       ___newdung_ occurs 1 time.
---    ___questgiver_ occurs 3 times.
---          _reward_ occurs 4 times.
 
 QBN:
 Item _reward_ gold

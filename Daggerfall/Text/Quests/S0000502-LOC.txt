@@ -113,20 +113,6 @@ Message:  1070
 <ce> прямо в ваш карман и улетел прочь.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 2 times.
---               %g2 occurs 2 times.
---               %g4 occurs 1 time.
---              %pcf occurs 2 times.
---              %pcn occurs 2 times.
---              %qdt occurs 2 times.
---        =atronach_ occurs 2 times.
---       =towertime_ occurs 2 times.
---       ____tavern_ occurs 6 times.
---            _item_ occurs 2 times.
---           _rebel_ occurs 5 times.
---          _tavern_ occurs 3 times.
 
 QBN:
 Item _letter_ letter used 1030

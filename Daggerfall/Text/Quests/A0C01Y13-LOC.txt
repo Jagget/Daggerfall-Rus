@@ -210,26 +210,6 @@ Message:  2005
 <ce> путь отсюда."
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 5 times.
---               %g2 occurs 2 times.
---               %g4 occurs 16 times.
---              %god occurs 1 time.
---              %pcn occurs 2 times.
---              %qdt occurs 4 times.
---               %ra occurs 4 times.
---       ___dungeon_ occurs 3 times.
---         ___giver_ occurs 11 times.
---   __sistershouse_ occurs 3 times.
---           _giver_ occurs 38 times.
---     _givershouse_ occurs 4 times.
---            _gold_ occurs 3 times.
---             _inn_ occurs 4 times.
---           _lover_ occurs 14 times.
---      _magicsword_ occurs 1 time.
---          _sister_ occurs 29 times.
---    _sistershouse_ occurs 2 times.
 
 QBN:
 Item _letter_ letter used 1015

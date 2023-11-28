@@ -113,24 +113,6 @@ Message:  1020
 <ce> течение =queston_ дней.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 7 times.
---               %g2 occurs 6 times.
---               %g4 occurs 10 times.
---              %oth occurs 3 times.
---              %pcf occurs 42 times.
---              %qdt occurs 1 time.
---              %reg occurs 1 time.
---         ==daedra_ occurs 3 times.
---         ==qgiver_ occurs 9 times.
---             =man_ occurs 2 times.
---         =queston_ occurs 4 times.
---         __tavern_ occurs 4 times.
---         _jewelry_ occurs 8 times.
---             _man_ occurs 12 times.
---           _mitem_ occurs 5 times.
---          _tavern_ occurs 1 time.
 
 QBN:
 Item _jewelry_ trinket

@@ -251,32 +251,6 @@ Message:  1050
 <ce> так сильно нравитесь друг другу!
 
 
--- Symbols used in the QRC file:
---
---               ___qgiver_ occurs 2 times.
---               %di occurs 4 times.
---                %g occurs 6 times.
---               %g2 occurs 11 times.
---               %g4 occurs 7 times.
---              %god occurs 3 times.
---              %oth occurs 1 time.
---              %pcf occurs 7 times.
---              %pcn occurs 1 time.
---             %qdat occurs 5 times.
---               %ra occurs 1 time.
---              ____qgiver_ occurs 33 times.
---          =hooker_ occurs 1 time.
---           =total_ occurs 2 times.
---        ___qgiver_ occurs 4 times.
---        __contact_ occurs 1 time.
---       _bookstore_ occurs 5 times.
---         _contact_ occurs 12 times.
---          _hooker_ occurs 16 times.
---     _hookerhouse_ occurs 3 times.
---          _qgiver_ occurs 8 times.
---          _reward_ occurs 1 time.
---     _ripperhouse_ occurs 5 times.
---      _rippername_ occurs 29 times.
 
 QBN:
 Item _I.00_ letter used 1011

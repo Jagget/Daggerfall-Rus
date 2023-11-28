@@ -305,11 +305,6 @@ Message:  1056
 <ce> Удачи и приятного времяпровождения!
 
 
--- Symbols used in the QRC file:
---
---               %ra occurs 1 time.
---              %reg occurs 1 time.
---         =2dagger_ occurs 1 time.
 
 QBN:
 

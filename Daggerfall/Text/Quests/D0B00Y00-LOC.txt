@@ -91,15 +91,6 @@ Message:  1030
 -corrected %qdat to %qdt
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 12 times.
---             %qdat occurs 1 time.
---              %reg occurs 1 time.
---       =1stparton_ occurs 4 times.
---       ___mondung_ occurs 2 times.
---    ___questgiver_ occurs 4 times.
---          _reward_ occurs 2 times.
 
 QBN:
 Item _reward_ gold

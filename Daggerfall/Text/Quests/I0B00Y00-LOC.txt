@@ -90,15 +90,6 @@ Message:  1030
 <ce> я прибуду вовремя.
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 9 times.
---              %qdt occurs 1 time.
---       =1stparton_ occurs 2 times.
---         =chemist_ occurs 3 times.
---    ___questgiver_ occurs 1 time.
---        __chemist_ occurs 5 times.
---            _item_ occurs 28 times.
 
 QBN:
 Item _reward_ common_symbol

@@ -98,23 +98,6 @@ Message:  1020
 <ce> смеет оставаться в живых!
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 3 times.
---               %g2 occurs 5 times.
---               %g4 occurs 18 times.
---              %god occurs 1 time.
---              %pcf occurs 4 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---        =timeforq_ occurs 2 times.
---        ___qgiver_ occurs 2 times.
---        __dbguild_ occurs 3 times.
---         __qgiver_ occurs 1 time.
---           _child_ occurs 46 times.
---         _dbguild_ occurs 4 times.
---           _money_ occurs 2 times.
---          _qgiver_ occurs 6 times.
 
 QBN:
 Item _money_ gold

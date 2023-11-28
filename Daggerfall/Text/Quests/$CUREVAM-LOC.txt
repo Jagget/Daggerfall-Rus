@@ -214,27 +214,6 @@ Message:  1052
  в ___fatherdung_.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 14 times.
---               %g2 occurs 4 times.
---               %g4 occurs 11 times.
---              %pcf occurs 1 time.
---              %pcn occurs 6 times.
---              %qdt occurs 7 times.
---              %reg occurs 112 times.
---              %vam occurs 22 times.
---     =bloodfather_ occurs 7 times.
---           =elder_ occurs 2 times.
---       =huntstart_ occurs 3 times.
---    ___fatherdung_ occurs 6 times.
---         ___vamp1_ occurs 2 times.
---         ___vamp2_ occurs 2 times.
---     ___wrongdung_ occurs 2 times.
---          __vamp2_ occurs 1 time.
---          _hunter_ occurs 19 times.
---           _vamp1_ occurs 5 times.
---           _vamp2_ occurs 3 times.
 
 QBN:
 Item _letter_ letter used 1020

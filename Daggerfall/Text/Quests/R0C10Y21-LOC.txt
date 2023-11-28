@@ -94,21 +94,6 @@ Message:  1015
 <ce> за смерть шамана.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 2 times.
---              %god occurs 1 time.
---              %oth occurs 3 times.
---              %pcf occurs 6 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---              %reg occurs 1 time.
---       =1stparton_ occurs 2 times.
---        =qgfriend_ occurs 1 time.
---       ___mondung_ occurs 6 times.
---      ___qgfriend_ occurs 10 times.
---      _questgiver_ occurs 2 times.
---          _reward_ occurs 3 times.
 
 QBN:
 Item _reward_ gold

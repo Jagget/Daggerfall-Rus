@@ -134,24 +134,6 @@ Message:  1020
 <ce> Вы подставили меня, %pcf."
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 3 times.
---               %g2 occurs 4 times.
---               %g4 occurs 3 times.
---              %pcf occurs 4 times.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---        ___qgiver_ occurs 1 time.
---  __betrothedhome_ occurs 5 times.
---         __temple_ occurs 4 times.
---       _betrothed_ occurs 19 times.
---   _betrothedhome_ occurs 1 time.
---            _gold_ occurs 4 times.
---          _priest_ occurs 1 time.
---          _qgiver_ occurs 8 times.
---           _ruler_ occurs 18 times.
---          _temple_ occurs 3 times.
 
 QBN:
 Item _gold_ gold

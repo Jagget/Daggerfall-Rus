@@ -200,23 +200,6 @@ Message:  1021
 <ce> места, а вампир так и остался лежать на земле.
 
 
--- Symbols used in the QRC file:
---
---               %g2 occurs 1 time.
---               %g4 occurs 1 time.
---              %pcf occurs 8 times.
---              %pcn occurs 4 times.
---              %qdt occurs 2 times.
---              %reg occurs 6 times.
---              %vam occurs 18 times.
---         ==daedra_ occurs 6 times.
---        =daedroth_ occurs 1 time.
---         =queston_ occurs 2 times.
---       ___mondung_ occurs 11 times.
---          ___vamp_ occurs 12 times.
---          _daedra_ occurs 4 times.
---             _gem_ occurs 1 time.
---            _vamp_ occurs 8 times.
 
 QBN:
 Item _letter_ letter used 1010

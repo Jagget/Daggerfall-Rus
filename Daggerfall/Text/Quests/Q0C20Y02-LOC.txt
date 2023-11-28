@@ -102,22 +102,6 @@ Message:  1025
 <ce> ___questgiver_.
 
 
--- Symbols used in the QRC file:
---
---              %oth occurs 1 time.
---              %pcf occurs 5 times.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---                %t occurs 1 time.
---       =1stparton_ occurs 2 times.
---          ==other_ occurs 3 times.
---     ==questgiver_ occurs 30 times.
---           =other_ occurs 4 times.
---    ___questgiver_ occurs 1 time.
---       _magicitem_ occurs 9 times.
---           _other_ occurs 2 times.
---      _questgiver_ occurs 1 time.
---          _reward_ occurs 2 times.
 
 QBN:
 Item _reward_ gem

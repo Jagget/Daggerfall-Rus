@@ -91,22 +91,6 @@ Message:  1040
 <ce> безумца из ___mondung_.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 1 time.
---               %g1 occurs 1 time.
---               %g4 occurs 3 times.
---              %pcf occurs 6 times.
---              %qdt occurs 1 time.
---              %reg occurs 1 time.
---               %rn occurs 1 time.
---               %rt occurs 1 time.
---                %t occurs 3 times.
---       =1stparton_ occurs 10 times.
---       ___mondung_ occurs 8 times.
---    ___questgiver_ occurs 1 time.
---          _reward_ occurs 2 times.
---          _wizard_ occurs 5 times.
 
 QBN:
 Item _reward_ magic_item

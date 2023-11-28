@@ -119,21 +119,6 @@ Message:  1040
 <ce> даже смерть"
 
 
--- Symbols used in the QRC file:
---
---              %god occurs 8 times.
---              %pcf occurs 2 times.
---              %pcn occurs 2 times.
---              %pct occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---            =lich_ occurs 11 times.
---           =qtime_ occurs 3 times.
---       ___mondung_ occurs 6 times.
---    ___questgiver_ occurs 11 times.
---            _item_ occurs 19 times.
---      _questgiver_ occurs 3 times.
---          _reward_ occurs 2 times.
 
 QBN:
 Item _item_ talisman

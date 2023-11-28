@@ -162,28 +162,6 @@ Message:  1053
 <ce> _ruler_ был послан найти убийц, но %g не найдет ничего.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 8 times.
---               %g2 occurs 2 times.
---               %g4 occurs 19 times.
---              %oth occurs 1 time.
---              %pcn occurs 5 times.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---              %reg occurs 3 times.
---               %rn occurs 1 time.
---               %rt occurs 3 times.
---       =1stparton_ occurs 2 times.
---         =monster_ occurs 5 times.
---        =qgfriend_ occurs 1 time.
---       ___mondung_ occurs 4 times.
---      ___qgfriend_ occurs 2 times.
---         ___ruler_ occurs 5 times.
---        _artifact_ occurs 6 times.
---          _murder_ occurs 18 times.
---        _qgfriend_ occurs 7 times.
---           _ruler_ occurs 11 times.
 
 QBN:
 Item _artifact_ artifact Volendrung anyInfo 1013

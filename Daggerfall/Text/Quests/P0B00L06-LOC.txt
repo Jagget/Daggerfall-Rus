@@ -267,32 +267,6 @@ Message:  1023
 <ce> помочь.
 
 
--- Symbols used in the QRC file:
---
---              %dat occurs 2 times.
---                %g occurs 3 times.
---               %g2 occurs 1 time.
---               %g4 occurs 11 times.
---              %god occurs 1 time.
---              %oth occurs 2 times.
---              %pcf occurs 1 time.
---              %pcn occurs 6 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---              %reg occurs 4 times.
---                %t occurs 1 time.
---              %vam occurs 9 times.
---            =mage_ occurs 1 time.
---            =vamp_ occurs 1 time.
---            ___mg_ occurs 3 times.
---       ___mondung_ occurs 7 times.
---          ___vamp_ occurs 7 times.
---             __mg_ occurs 2 times.
---           __vamp_ occurs 2 times.
---            _mage_ occurs 14 times.
---              _mg_ occurs 4 times.
---          _mggold_ occurs 1 time.
---            _vamp_ occurs 5 times.
 
 QBN:
 Item _letter_ letter used 1010

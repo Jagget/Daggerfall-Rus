@@ -323,15 +323,6 @@ Message:  1061
 <ce> Лицо исчезает, оставаясь только в вашей памяти.
 
 
--- Symbols used in the QRC file:
---
---              %god occurs 1 time.
---              %pcf occurs 7 times.
---              %pcn occurs 3 times.
---              %qdt occurs 2 times.
---               %ra occurs 18 times.
---         _jewelry_ occurs 2 times.
---          _reward_ occurs 7 times.
 
 QBN:
 Item _reward_ gold

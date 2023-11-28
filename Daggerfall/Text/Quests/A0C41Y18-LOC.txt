@@ -155,24 +155,6 @@ Message:  1050
 <ce> в ___sage_.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 1 time.
---               %g2 occurs 6 times.
---              %god occurs 1 time.
---              %oth occurs 1 time.
---              %qdt occurs 3 times.
---               %ra occurs 1 time.
---       =realmummy_ occurs 4 times.
---         ___dummy_ occurs 2 times.
---       ___dungeon_ occurs 5 times.
---          ___sage_ occurs 17 times.
---           _dummy_ occurs 3 times.
---          _finger_ occurs 15 times.
---           _giver_ occurs 1 time.
---           _gold1_ occurs 2 times.
---           _gold2_ occurs 8 times.
---            _sage_ occurs 5 times.
 
 QBN:
 Item _finger_ finger anyInfo 1015

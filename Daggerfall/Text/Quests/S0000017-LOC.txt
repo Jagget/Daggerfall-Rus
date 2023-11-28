@@ -94,13 +94,6 @@ Message:  1022
 <ce> для королевской семьи.
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 3 times.
---              %pcn occurs 4 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---            _gold_ occurs 10 times.
 
 QBN:
 Item _letter_ letter used 1011

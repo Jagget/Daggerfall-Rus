@@ -125,26 +125,6 @@ Message:  1017
 <ce> исчез во тьме.
 
 
--- Symbols used in the QRC file:
---
---              %dat occurs 1 time.
---                %g occurs 65 times.
---               %g2 occurs 1 time.
---               %g4 occurs 2 times.
---              %pcf occurs 3 times.
---              %pcn occurs 3 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---              %reg occurs 3 times.
---              %vam occurs 5 times.
---            =mage_ occurs 8 times.
---         =queston_ occurs 4 times.
---           =vamp2_ occurs 4 times.
---          ___vamp_ occurs 5 times.
---          __vamp2_ occurs 3 times.
---           __vamp_ occurs 3 times.
---           _vamp2_ occurs 2 times.
---            _vamp_ occurs 9 times.
 
 QBN:
 Item _letter_ letter used 1010

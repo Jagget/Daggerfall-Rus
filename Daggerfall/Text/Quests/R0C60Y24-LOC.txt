@@ -145,29 +145,6 @@ Message:  1040
                             _vampire_
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 3 times.
---               %g2 occurs 2 times.
---               %g4 occurs 1 time.
---              %pcf occurs 7 times.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 4 times.
---              %reg occurs 2 times.
---        ==vampire_ occurs 4 times.
---         =contact_ occurs 1 time.
---         =queston_ occurs 8 times.
---      =vampleader_ occurs 2 times.
---       ___contact_ occurs 15 times.
---      __vamphouse_ occurs 1 time.
---         _contact_ occurs 7 times.
---            _item_ occurs 9 times.
---      _questgiver_ occurs 7 times.
---       _vamphouse_ occurs 3 times.
---         _vampire_ occurs 4 times.
---        _vampitem_ occurs 1 time.
---      _vampreward_ occurs 1 time.
 
 QBN:
 Item _reward_ gold

@@ -126,16 +126,6 @@ Message:  1017
 <ce> меня.
 
 
--- Symbols used in the QRC file:
---
---              %pcf occurs 66 times.
---              %qdt occurs 1 time.
---              %reg occurs 1 time.
---         ==qgiver_ occurs 7 times.
---         =queston_ occurs 2 times.
---        ___mguild_ occurs 2 times.
---            _gold_ occurs 3 times.
---            _mage_ occurs 3 times.
 
 QBN:
 Item _potion_ Pure_water

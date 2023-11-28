@@ -22,9 +22,6 @@ Message:  1015
 <ce> Тотем.
 
 
--- Symbols used in the QRC file:
---
---              %pcn occurs 2 times.
 
 QBN:
 

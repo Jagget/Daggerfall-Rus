@@ -121,25 +121,6 @@ Message:  1020
 <ce> Теперь твоя награда -- смерть!
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 1 time.
---                %g occurs 1 time.
---               %g2 occurs 3 times.
---              %oth occurs 2 times.
---              %pcf occurs 8 times.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---       =1stparton_ occurs 2 times.
---             =spy_ occurs 3 times.
---    ___questgiver_ occurs 1 time.
---    __hidingplace_ occurs 5 times.
---     __questgiver_ occurs 1 time.
---     _hidingplace_ occurs 6 times.
---            _item_ occurs 14 times.
---      _questgiver_ occurs 4 times.
---          _reward_ occurs 8 times.
---             _spy_ occurs 4 times.
 
 QBN:
 Item _reward_ gold

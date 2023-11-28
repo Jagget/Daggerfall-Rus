@@ -98,21 +98,6 @@ Message:  1013
 <ce> именно сейчас.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 6 times.
---               %g2 occurs 2 times.
---               %g4 occurs 2 times.
---              %pcf occurs 5 times.
---              %qdt occurs 1 time.
---         ==daedra_ occurs 1 time.
---         ==qgiver_ occurs 3 times.
---         =contact_ occurs 4 times.
---         =queston_ occurs 3 times.
---       ___contact_ occurs 6 times.
---            _book_ occurs 19 times.
---         _contact_ occurs 10 times.
---           _mitem_ occurs 3 times.
 
 QBN:
 Item _mitem_ magic_item

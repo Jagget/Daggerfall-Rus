@@ -117,21 +117,6 @@ Message:  1030
 <ce> %pcf!
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 5 times.
---               %g4 occurs 1 time.
---              %pcf occurs 8 times.
---              %qdt occurs 2 times.
---               %ra occurs 8 times.
---       =1stparton_ occurs 2 times.
---         =contact_ occurs 9 times.
---    ___questgiver_ occurs 1 time.
---        __contact_ occurs 7 times.
---           _item1_ occurs 5 times.
---           _item2_ occurs 4 times.
---      _questgiver_ occurs 8 times.
---          _reward_ occurs 3 times.
 
 QBN:
 Item _reward_ gold

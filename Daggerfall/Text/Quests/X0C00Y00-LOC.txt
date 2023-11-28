@@ -104,19 +104,6 @@ Message:  1030
 <ce> и обещали принцу Хирцину.
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 13 times.
---                %g occurs 2 times.
---              %pcf occurs 2 times.
---              %pct occurs 5 times.
---              %qdt occurs 1 time.
---       =1stparton_ occurs 4 times.
---         =contact_ occurs 7 times.
---       ___mondung_ occurs 6 times.
---        __contact_ occurs 5 times.
---        _artifact_ occurs 9 times.
---         _contact_ occurs 9 times.
 
 QBN:
 Item _artifact_ artifact Hircine_Ring anyInfo 1013

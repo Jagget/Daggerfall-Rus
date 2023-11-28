@@ -164,26 +164,6 @@ Message:  1026
 <ce> не позднее чем через =1stparton_ ночей.
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 2 times.
---                %g occurs 3 times.
---               %g4 occurs 2 times.
---              %god occurs 1 time.
---              %pcf occurs 7 times.
---              %pcn occurs 2 times.
---              %qdt occurs 2 times.
---               %ra occurs 1 time.
---              %reg occurs 1 time.
---              %vam occurs 12 times.
---       =1stparton_ occurs 4 times.
---         =vampire_ occurs 2 times.
---       ___mondung_ occurs 25 times.
---       ___vampire_ occurs 10 times.
---          _reward_ occurs 18 times.
---         _vampire_ occurs 7 times.
---        _vampname_ occurs 9 times.
---       _vampproof_ occurs 3 times.
 
 QBN:
 Item _reward_ magic_item

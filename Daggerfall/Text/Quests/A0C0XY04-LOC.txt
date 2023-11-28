@@ -145,24 +145,6 @@ Message:  1035
 Приготовься к смерти!
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 13 times.
---               %g2 occurs 1 time.
---               %g4 occurs 2 times.
---              %pcn occurs 1 time.
---              %qdt occurs 2 times.
---        =guardian_ occurs 1 time.
---         =monster_ occurs 3 times.
---         ___agent_ occurs 1 time.
---       ___dungeon_ occurs 3 times.
---   __meetingplace_ occurs 3 times.
---           _agent_ occurs 3 times.
---        _artifact_ occurs 7 times.
---        _guardian_ occurs 1 time.
---      _ingredient_ occurs 9 times.
---    _meetingplace_ occurs 2 times.
---          _qgiver_ occurs 9 times.
 
 QBN:
 Item _artifact_ artifact Chrysamere anyInfo 1025

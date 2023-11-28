@@ -176,24 +176,6 @@ Message:  1031
 <ce> но в карты я бы с ним играть не стал.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 3 times.
---               %g2 occurs 3 times.
---               %g4 occurs 3 times.
---              %pcf occurs 4 times.
---              %qdt occurs 1 time.
---               %ra occurs 1 time.
---      =traveltime_ occurs 2 times.
---          ___npc1_ occurs 1 time.
---        ___qgiver_ occurs 1 time.
---            __inn_ occurs 2 times.
---            _gold_ occurs 2 times.
---             _inn_ occurs 2 times.
---            _npc1_ occurs 8 times.
---            _npc2_ occurs 13 times.
---            _npc3_ occurs 12 times.
---          _qgiver_ occurs 6 times.
 
 QBN:
 Item _letter3a_ letter used 1012

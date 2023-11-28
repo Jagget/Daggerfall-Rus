@@ -121,23 +121,6 @@ Message:  1061
 <ce> затих вдали.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 6 times.
---               %g4 occurs 2 times.
---              %god occurs 3 times.
---              %pcf occurs 2 times.
---              %pct occurs 2 times.
---              %qdt occurs 2 times.
---        =monster1_ occurs 2 times.
---           =qtime_ occurs 3 times.
---       ___mondung_ occurs 23 times.
---        ___priest_ occurs 2 times.
---    ___questgiver_ occurs 2 times.
---         __priest_ occurs 2 times.
---     __questgiver_ occurs 11 times.
---          _priest_ occurs 3 times.
---      _questgiver_ occurs 4 times.
 
 QBN:
 Item _I.00_ item class 10 subclass 4

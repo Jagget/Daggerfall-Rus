@@ -50,10 +50,6 @@ Message:  1050
 <ce> Свитки."
 
 
--- Symbols used in the QRC file:
---
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
 
 QBN:
 

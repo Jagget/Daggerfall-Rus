@@ -20,8 +20,6 @@ Message:  1015
 <ce> ему мертвецов.
 
 
--- Symbols used in the QRC file:
---    ***  None  ***
 
 QBN:
 

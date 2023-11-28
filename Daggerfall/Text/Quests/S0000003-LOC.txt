@@ -132,14 +132,6 @@ Message:  1020
 <ce> на серебряный.
 
 
--- Symbols used in the QRC file:
---
---              %god occurs 1 time.
---              %pcf occurs 8 times.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---     =2shedungent_ occurs 3 times.
---       _magicitem_ occurs 1 time.
 
 QBN:
 Item horn horn used 1020

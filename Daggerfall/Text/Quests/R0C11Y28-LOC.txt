@@ -356,38 +356,6 @@ Message:  1050
 <ce> сохранит тебя в безопасности.
 
 
--- Symbols used in the QRC file:
---
---               ___bookstore_ occurs 141 times.
---               %di occurs 3 times.
---               %fn occurs 2 times.
---                %g occurs 117 times.
---               %g2 occurs 8 times.
---               %g4 occurs 9 times.
---              %god occurs 3 times.
---               %mn occurs 3 times.
---              %pcf occurs 11 times.
---              %pcn occurs 2 times.
---             %qdat occurs 6 times.
---               %ra occurs 1 time.
---              %reg occurs 10 times.
---               %rt occurs 1 time.
---              %vcn occurs 3 times.
---         =contact_ occurs 2 times.
---           =total_ occurs 2 times.
---            =vamp_ occurs 4 times.
---           =widow_ occurs 1 time.
---       _bookstore_ occurs 13 times.
---         _contact_ occurs 21 times.
---     _hookerhouse_ occurs 7 times.
---          _qgiver_ occurs 8 times.
---         _reward2_ occurs 1 time.
---          _reward_ occurs 2 times.
---     _ripperhouse_ occurs 4 times.
---      _rippername_ occurs 8 times.
---            _vamp_ occurs 14 times.
---           _widow_ occurs 11 times.
---      _widowhouse_ occurs 107 times.
 
 QBN:
 Item _I.00_ letter used 1011

@@ -170,30 +170,6 @@ Message:  1026
 <ce> Кажется, что-то случилось.
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 32 times.
---                %g occurs 31 times.
---               %g2 occurs 2 times.
---               %g4 occurs 3 times.
---              %pcf occurs 11 times.
---              %pcn occurs 2 times.
---              %qdt occurs 2 times.
---               %ra occurs 1 time.
---              %reg occurs 2 times.
---               %rt occurs 3 times.
---                %t occurs 7 times.
---              %vam occurs 36 times.
---       =1stparton_ occurs 13 times.
---            =pawn_ occurs 6 times.
---         =vampire_ occurs 3 times.
---          ___pawn_ occurs 2 times.
---       ___vampire_ occurs 3 times.
---           __pawn_ occurs 36 times.
---        __vampire_ occurs 10 times.
---            _pawn_ occurs 10 times.
---          _reward_ occurs 1 time.
---         _vampire_ occurs 10 times.
 
 QBN:
 Item _reward_ magic_item

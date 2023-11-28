@@ -392,44 +392,6 @@ Message:  1050
 <ce> владелец вышупомянутой собственности.
 
 
--- Symbols used in the QRC file:
---
---               %di occurs 1 time.
---                %g occurs 7 times.
---               %g2 occurs 3 times.
---               %g4 occurs 9 times.
---              %god occurs 3 times.
---              %oth occurs 1 time.
---              %pcf occurs 33 times.
---              %pcn occurs 7 times.
---              %qdt occurs 6 times.
---               %ra occurs 6 times.
---              %reg occurs 2 times.
---         ___guard_ occurs 3 times.
---        ___house2_ occurs 1 time.
---      ___mondung2_ occurs 10 times.
---       ___mondung_ occurs 21 times.
---        ___qgiver_ occurs 2 times.
---           __bank_ occurs 56 times.
---         __banker_ occurs 1 time.
---          __guard_ occurs 6 times.
---         __house1_ occurs 3 times.
---         __house2_ occurs 5 times.
---         __house3_ occurs 1 time.
---         __qgiver_ occurs 1 time.
---         __tavern_ occurs 2 times.
---            _bank_ occurs 59 times.
---          _banker_ occurs 4 times.
---          _gaffer_ occurs 3 times.
---           _guard_ occurs 10 times.
---          _hooker_ occurs 8 times.
---          _house1_ occurs 5 times.
---          _house2_ occurs 3 times.
---          _house3_ occurs 1 time.
---           _patsy_ occurs 62 times.
---          _qgiver_ occurs 74 times.
---            _rock_ occurs 8 times.
---          _tavern_ occurs 4 times.
 
 QBN:
 Item _deed_ letter used 1050

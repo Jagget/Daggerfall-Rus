@@ -119,24 +119,6 @@ Message:  1011
 <ce> ищет _qgiver_.
 
 
--- Symbols used in the QRC file:
---
---               %cn occurs 1 time.
---               %g4 occurs 1 time.
---              %jok occurs 3 times.
---              %oth occurs 7 times.
---              %pcf occurs 2 times.
---              %pct occurs 2 times.
---              %qdt occurs 1 time.
---               %ra occurs 2 times.
---              %reg occurs 21 times.
---                %t occurs 2 times.
---           =mummy_ occurs 11 times.
---         =queston_ occurs 2 times.
---       ___mondung_ occurs 3 times.
---        ___qgiver_ occurs 1 time.
---            _gold_ occurs 7 times.
---          _qgiver_ occurs 3 times.
 
 QBN:
 Item _wrappings_ mummy_wrappings

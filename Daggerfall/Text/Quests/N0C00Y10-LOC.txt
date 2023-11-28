@@ -139,25 +139,6 @@ Message:  1040
 <ce> пока я не сделал вам больно.
 
 
--- Symbols used in the QRC file:
---
---                %g occurs 5 times.
---               %g2 occurs 1 time.
---               %g4 occurs 1 time.
---              %pcf occurs 2 times.
---              %pcn occurs 2 times.
---              %qdt occurs 1 time.
---         ___giver_ occurs 23 times.
---          __house_ occurs 1 time.
---     __informant1_ occurs 3 times.
---            _book_ occurs 14 times.
---           _giver_ occurs 6 times.
---           _house_ occurs 5 times.
---      _informant1_ occurs 2 times.
---       _informant_ occurs 1 time.
---             _inn_ occurs 5 times.
---           _store_ occurs 4 times.
---           _thief_ occurs 24 times.
 
 QBN:
 Item _book_ book1 anyInfo 1010 used 1011

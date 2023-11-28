@@ -98,10 +98,6 @@ Message:  1030
 <ce> по его применению.
 
 
--- Symbols used in the QRC file:
---
---              %qdt occurs 2 times.
---         ___crypt_ occurs 2 times.
 
 QBN:
 Item _spider_ lich_dust used 1016

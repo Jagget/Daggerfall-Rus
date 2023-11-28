@@ -157,27 +157,6 @@ Message:  1020
 <ce> для _victim_.
 
 
--- Symbols used in the QRC file:
---
---              %dat occurs 1 time.
---                %g occurs 4 times.
---               %g2 occurs 1 time.
---               %g4 occurs 6 times.
---              %oth occurs 4 times.
---              %pcf occurs 83 times.
---              %pcn occurs 1 time.
---              %qdt occurs 1 time.
---               %ra occurs 9 times.
---          =cousin_ occurs 6 times.
---        =queston1_ occurs 3 times.
---          =victim_ occurs 1 time.
---      ___mondung2_ occurs 3 times.
---       ___mondung_ occurs 2 times.
---        ___qgiver_ occurs 3 times.
---             _gem_ occurs 3 times.
---            _gold_ occurs 2 times.
---          _qgiver_ occurs 7 times.
---          _victim_ occurs 14 times.
 
 QBN:
 Item _letter15_ letter used 1013
