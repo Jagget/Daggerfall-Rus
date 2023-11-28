@@ -746,7 +746,7 @@ maxf: 90
 
 #22
 type: 1
-name: Зен
+name: Зенитар
 rep: 0
 summon: -1
 region: -1
