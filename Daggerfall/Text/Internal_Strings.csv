@@ -498,7 +498,7 @@ intelligence,Интеллект
 willpower,Сила воли
 agility,Ловкость
 endurance,Выносливость
-personality,Привлекательность
+personality,Характер
 speed,Скорость
 luck,Удача
 STR,СИЛ
@@ -506,7 +506,7 @@ INT,ИНТ
 WIL,ВОЛ
 AGI,ЛОВ
 END,ВЫН
-PER,ПРИ
+PER,ХАР
 SPD,СКР
 LUC,УДЧ
 breton,Бретон
