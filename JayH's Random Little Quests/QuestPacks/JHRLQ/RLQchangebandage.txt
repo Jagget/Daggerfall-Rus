@@ -1,37 +1,37 @@
 Quest: RLQchangebandage
-DisplayName: СМК: Change a Bandage
+DisplayName: СМК: Сменить повязку
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
-<ce> You begin systematically unravelling the bandages
-<ce> on his legs. You're experienced enough to require no
-<ce> help, and though it takes a few hours, it's a pleasant
-<ce> experience for you both. The man cheerfully hands
-<ce> you the payment, happy to have found an adequate physician.
+<ce> Вы начинаете методично распутывать бинты на его ногах.
+<ce> Вы достаточно опытны, чтобы не нуждаться в помощи, и,
+<ce> хотя это занимает несколько часов, все проходит гладко
+<ce> и без лишней боли. Мужчина радостно протягивает вам
+<ce> деньги, довольный тем, что нашел адекватного лекаря.
 
 Message:  1010
-<ce> A heavily wounded peasant approaches you, needing help
-<ce> to replace the bandages on his legs. He explains that
-<ce> a recent forestry expedition went terribly wrong,
-<ce> and he has to change the bandages each day.
-<ce> If you have a proper understanding of medicine,
-<ce> will you help him change them today for =reward_ gold?
+<ce> К вам обращается тяжелораненый крестьянин, которому
+<ce> нужно помочь заменить повязки на ногах. Он объясняет,
+<ce> что недавняя лесная экспедиция прошла ужасно неудачно,
+<ce> и ему приходится менять повязки каждый день. Если вы
+<ce> разбираетесь в медицине, поможете ли вы ему сменить
+<ce> их за =reward_ золотых?
 
 Message:  1011
-<ce> You can't possibly imagine everything that could go
-<ce> wrong with this. You decline, garnering little surprise
-<ce> from the wounded peasant.
+<ce> Вы даже представить себе не можете,
+<ce> что может пойти не так. Вы отказываетесь,
+<ce> чем немного удивляете раненого крестьянина.
 
 Message:  1012
-<ce> You hold the clean bandages and begin to unwrap the ones
-<ce> already placed. Extreme discomfort follows for both of you,
-<ce> as you awkwardly pull on the skin from angles you're not aware
-<ce> of. A few minutes pass by before it becomes evident you
-<ce> are no physician. The peasant interrupts you and flees
-<ce> before suffering further at your hands. You wonder whether
-<ce> you've exposed yourself to the risk of infectious disease
-<ce> with this adventure.
+<ce> Прежде чем наложить чистые бинты, вы начинаете
+<ce> разматывать уже наложенные. Крестьянин морщится
+<ce> от боли, когда вы отрываете присохший бинт от кожи.
+<ce> Проходит несколько минут, прежде чем становится ясно,
+<ce> что вы не лекарь. Крестьянин прерывает вас и убегает,
+<ce> чтобы больше не страдать от ваших рук. Вы задаетесь
+<ce> вопросом, подвергли ли вы себя риску инфекционного
+<ce> заболевания в этом приключении.
 
 QBN:
 
