@@ -165,7 +165,6 @@ QuestTimeLapse:  [1045]
 <ce> лист бумаги из ваших рук.
 
 
-
 QBN:
 Item _ingredient_ letter used 1020
 

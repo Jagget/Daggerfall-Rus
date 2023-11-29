@@ -83,9 +83,9 @@ QuestLogEntry:  [1010]
  на спасение ребенка.
 
 Message:  1011
-                             __knight_
-                              ___knight_
-
+      __knight_
+       ___knight_
+<ce>
 Дорогой друг %pcn,
 <ce>
 _child_ не была похищена ни орками,
@@ -96,7 +96,7 @@ _child_ не была похищена ни орками,
 приходите в __knight_.
 <ce>
 Ваш почтенный,
-                   _knight_
+<ce> _knight_
 
 
 Message:  1012

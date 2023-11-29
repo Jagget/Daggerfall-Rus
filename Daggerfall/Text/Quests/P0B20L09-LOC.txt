@@ -45,19 +45,17 @@ QuestorPostfailure:  [1009]
 Error: Questtext 1009 Called
 
 QuestLogEntry:  [1010]
-                   __vamp_
-                    ___vamp_
-
-
-<ce> %pcn,
+      __vamp_
+       ___vamp_
 <ce>
-<ce> Вы нужны роду %vam.
-<ce> Срочно появляйтесь.
+ %pcn,
 <ce>
+Вы нужны роду %vam.
+Срочно появляйтесь.
 <ce>
 <ce> Ваш друг в Смерти,
-
-                  _vamp_
+<ce>
+    _vamp_
 
 Message:  1011
 <ce> Ваша слава идет впереди вас, %pcn.

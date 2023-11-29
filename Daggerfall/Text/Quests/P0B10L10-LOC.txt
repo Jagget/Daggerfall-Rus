@@ -52,18 +52,18 @@ QuestorPostfailure:  [1009]
 Error: Questtext 1009 Called.
 
 QuestLogEntry:  [1010]
-              __vamp_
-               ___vamp_
+      __vamp_
+       ___vamp_
 <ce>
- %pcn,
+%pcn,
 <ce>
- %vam нуждается в вас.
- Срочно.
+  %vam нуждается в вас.
+Срочно.
 <ce>
 <ce>
- Всегда ваш друг в смерти,
+Всегда ваш друг в смерти,
 <ce>
-                _vamp_
+    _vamp_
 
 Message:  1011
 %qdt:

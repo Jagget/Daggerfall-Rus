@@ -103,9 +103,9 @@ QuestLogEntry:  [1010]
  я вернусь до исхода =queston_ дней.
 
 Message:  1030
-<ce> Занот на' =daedra_.
-<ce> Занот на' ==dummydaedra_.
-<ce> Сенет сенет мор.
+Занот на' =daedra_.
+Занот на' ==dummydaedra_.
+Сенет сенет мор.
 
 Message:  1040
 <ce> Ты безмозглая тупица! Я ведь нарочно
@@ -128,8 +128,6 @@ Message:  1051
 Message:  1060
 <ce> Даэдра =daedra_ окончательно
 <ce> изгнана обратно в план Обливиона.
-
-
 
 
 --in msg 1015, shifted text downward to avoid exposed hyphen
