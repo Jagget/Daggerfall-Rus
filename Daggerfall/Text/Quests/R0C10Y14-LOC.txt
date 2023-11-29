@@ -79,14 +79,14 @@ QuestorPostfailure:  [1009]
 QuestLogEntry:  [1010]
 %qdt:
  _questgiver_ посылает меня
-<ce> в ___contact_,
-<ce> где =contact_ по имени _contact_
-<ce> ждет одну вещицу - _item_.
-<ce> Местечко называется __contact_.
-<ce> _contact_ планирует уйти из
-<ce> ___contact_ через =queston_ дней
-<ce> с _item_ или без,
-<ce> так что мне следует поторопиться.
+ в ___contact_,
+ где =contact_ по имени _contact_
+ ждет одну вещицу - _item_.
+ Местечко называется __contact_.
+ _contact_ планирует уйти из
+ ___contact_ через =queston_ дней
+ с _item_ или без,
+ так что мне следует поторопиться.
 
 
 

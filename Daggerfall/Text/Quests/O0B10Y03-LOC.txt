@@ -95,13 +95,13 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из Гильдии Воров
-<ce> города  ___qgiver_ дает мне задание
-<ce> украсть _religiousitem_
-<ce> из храма _temple_ города
-<ce> __temple_. На все у меня есть
-<ce> =traveltime_ дней. Вещицу нужно принести
-<ce> обратно.
+ _qgiver_ из Гильдии Воров
+ города  ___qgiver_ дает мне задание
+ украсть _religiousitem_
+ из храма _temple_ города
+ __temple_. На все у меня есть
+ =traveltime_ дней. Вещицу нужно принести
+ обратно.
 
 
 

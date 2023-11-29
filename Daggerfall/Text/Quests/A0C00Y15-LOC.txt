@@ -81,11 +81,11 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _questgiver_ из
-<ce> ___questgiver_ нанял меня для
-<ce> доставки посылки к _pickupregion_,
-<ce> в ___pickupregion_.
-<ce> На все про все у меня =traveltime_ дней.
+ _questgiver_ из
+ ___questgiver_ нанял меня для
+ доставки посылки к _pickupregion_,
+ в ___pickupregion_.
+ На все про все у меня =traveltime_ дней.
 
 Message:  1011
 <ce> Эта книга не имеет цены.

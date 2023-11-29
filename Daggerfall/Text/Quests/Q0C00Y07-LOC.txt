@@ -62,14 +62,14 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> ==qgiver_ послали
-<ce> меня в ___mondung_, где
-<ce> находится _witch_,
-<ce> заключенная сестра ведьм.
-<ce> Я дам ей _clothes_, чтобы
-<ce> замаскировать ее и мы вернемся
-<ce> к ==qgiver_ до исхода
-<ce> =queston_ дней.
+ ==qgiver_ послали
+ меня в ___mondung_, где
+ находится _witch_,
+ заключенная сестра ведьм.
+ Я дам ей _clothes_, чтобы
+ замаскировать ее и мы вернемся
+ к ==qgiver_ до исхода
+ =queston_ дней.
 
 Message:  1011
 <ce> ==qgiver_ послали тебя?

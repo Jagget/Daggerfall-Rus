@@ -65,11 +65,11 @@ __qgiver_ до сих пор волнуется из-за этого дела с
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> %kno в ___qgiver_
-<ce> послали меня найти и убить _monster_
-<ce> прозываемого =monster_ в его
-<ce> убежище, ___mondun_.
-<ce> У меня =queston_ дней на выполнение.
+ %kno в ___qgiver_
+ послали меня найти и убить _monster_
+ прозываемого =monster_ в его
+ убежище, ___mondun_.
+ У меня =queston_ дней на выполнение.
 
 Message:  1011
 <ce> Вы убили =monster_, _monster_.

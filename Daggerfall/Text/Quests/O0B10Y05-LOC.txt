@@ -89,13 +89,13 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ посылает меня
-<ce> украсть картину из особняка _townhouse_
-<ce> в городе __townhouse_.
-<ce> У меня есть =traveltime_ дней, чтобы
-<ce> отдать ее нанимателю _qgiver_
-<ce> в доме __qgiver_, что в городе
-<ce> ___qgiver_.
+ _qgiver_ посылает меня
+ украсть картину из особняка _townhouse_
+ в городе __townhouse_.
+ У меня есть =traveltime_ дней, чтобы
+ отдать ее нанимателю _qgiver_
+ в доме __qgiver_, что в городе
+ ___qgiver_.
 
 
 

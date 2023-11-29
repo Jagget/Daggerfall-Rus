@@ -54,11 +54,11 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из
-<ce> __qgiver_ в ___qgiver_
-<ce> рассказал мне, что в ___dungeon_
-<ce> живет _monster_, которого нужно убить.
-<ce> У меня ровно =2dung_ дня на работу.
+ _qgiver_ из
+ __qgiver_ в ___qgiver_
+ рассказал мне, что в ___dungeon_
+ живет _monster_, которого нужно убить.
+ У меня ровно =2dung_ дня на работу.
 
 Message:  1011
 <ce> На запястье _monster_ отчетливо

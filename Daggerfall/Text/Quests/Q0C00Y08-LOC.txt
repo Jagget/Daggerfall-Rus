@@ -74,14 +74,14 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> ==qgiver_ послали меня
-<ce> в ___contact_,
-<ce> повстречаться с =contact_
-<ce> по имени _contact_ в
-<ce> __contact_ по поводу
-<ce> очень редкой книги. Мне нужно вернуть
-<ce> книгу в руки ==qgiver_
-<ce> в течение =queston_ дней или раньше.
+ ==qgiver_ послали меня
+ в ___contact_,
+ повстречаться с =contact_
+ по имени _contact_ в
+ __contact_ по поводу
+ очень редкой книги. Мне нужно вернуть
+ книгу в руки ==qgiver_
+ в течение =queston_ дней или раньше.
 
 Message:  1011
 <ce> Прекрасно, %pcf, вот книга.

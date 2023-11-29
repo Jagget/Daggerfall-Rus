@@ -87,14 +87,14 @@ _contact_, да? Странный =contact_, который работает в 
 Message:  1015
 %qdt:
  Меня уговорили на задание
-<ce> от _questgiver_ из
-<ce> ___questgiver_ отнести похищенную вещицу
-<ce> _item_ к _contact_,
-<ce> в __contact_ в ___contact_.
-<ce> У меня =queston_ дней на доставку.
+ от _questgiver_ из
+ ___questgiver_ отнести похищенную вещицу
+ _item_ к _contact_,
+ в __contact_ в ___contact_.
+ У меня =queston_ дней на доставку.
 
 Message:  1023
-Who is calling 1023?
+ОШИБКА R0C10Y12 1023!
 
 
 

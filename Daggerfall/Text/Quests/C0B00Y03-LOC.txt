@@ -70,13 +70,13 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из __qgiver_
-<ce> послал меня в ___mondung_
-<ce> разыскать священника по имени _cleric_,
-<ce> пропавшего где-то там. У меня =queston_
-<ce> дней, чтобы найти =cleric_ и
-<ce> вернуться в ___qgiver_
-<ce> в __qgiver_.
+ _qgiver_ из __qgiver_
+ послал меня в ___mondung_
+ разыскать священника по имени _cleric_,
+ пропавшего где-то там. У меня =queston_
+ дней, чтобы найти =cleric_ и
+ вернуться в ___qgiver_
+ в __qgiver_.
 
 Message:  1011
 <ce> Боже, ведь я только начал свои исследования,

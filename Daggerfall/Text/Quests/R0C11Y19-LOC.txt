@@ -87,15 +87,15 @@ QuestLogEntry:  [1010]
 
 Message:  1015
 %qdt:
-<ce> _questgiver_ из
-<ce> ___questgiver_ послал меня
-<ce> ___contact_ в __contact_,
-<ce> где находится _contact_ с кольцом,
-<ce> которое _questgiver_ заложил.
-<ce> Мне нужно заплатить за кольцо золотом,
-<ce> которе мне дал _questgiver_,
-<ce> а потом вернуться обратно в __questgiver_.
-<ce> На все про все у меня примерно =1stparton_ дней.
+ _questgiver_ из
+ ___questgiver_ послал меня
+ ___contact_ в __contact_,
+ где находится _contact_ с кольцом,
+ которое _questgiver_ заложил.
+ Мне нужно заплатить за кольцо золотом,
+ которе мне дал _questgiver_,
+ а потом вернуться обратно в __questgiver_.
+ На все про все у меня примерно =1stparton_ дней.
 
 Message:  1020
 <ce> Отдай кольцо. Это можно сделать

@@ -102,16 +102,16 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из
-<ce> __qgiver_ в ___qgiver_
-<ce> посылает меня в ___mondung_
-<ce> найти сумасброда _enemy_ по имени
-<ce> =enemy_ и привести его
-<ce> обратно в __qgiver_. У меня
-<ce> =queston_ дней, чтобы сделать все
-<ce> как полагается и желательно, чтобы
-<ce> =enemy_ попал в руки _qgiver_
-<ce> живым и невредимым.
+ _qgiver_ из
+ __qgiver_ в ___qgiver_
+ посылает меня в ___mondung_
+ найти сумасброда _enemy_ по имени
+ =enemy_ и привести его
+ обратно в __qgiver_. У меня
+ =queston_ дней, чтобы сделать все
+ как полагается и желательно, чтобы
+ =enemy_ попал в руки _qgiver_
+ живым и невредимым.
 
 Message:  1011
 <ce> _qgiver_ желал получить

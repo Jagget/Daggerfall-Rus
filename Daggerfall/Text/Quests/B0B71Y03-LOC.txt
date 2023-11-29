@@ -134,39 +134,39 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> Меня вовлекли в одно дело, найти легендарный
-<ce> артефакт великой силы. Единственная зацепка,
-<ce> которую мне дал _questgiver_ из
-<ce> __questgiver_ - найти ведьму, обитающую в
-<ce> ___dungeon1_, которая может что-то
-<ce> знать об этом.
+ Меня вовлекли в одно дело, найти легендарный
+ артефакт великой силы. Единственная зацепка,
+ которую мне дал _questgiver_ из
+ __questgiver_ - найти ведьму, обитающую в
+ ___dungeon1_, которая может что-то
+ знать об этом.
 
 Message:  1011
 %qdt:
-<ce> Ведьма, _witch_,
-<ce> в ___dungeon1_ потребовала
-<ce> похитить _child_,
-<ce> в _palace_, в __palace_,
-<ce> ее пра-правнучку и привести ее к ведьме,
-<ce> если я хочу найти _aurielsbow_.
+ Ведьма, _witch_,
+ в ___dungeon1_ потребовала
+ похитить _child_,
+ в _palace_, в __palace_,
+ ее пра-правнучку и привести ее к ведьме,
+ если я хочу найти _aurielsbow_.
 
 Message:  1012
 %qdt:
-<ce> Ведьма, _witch_,
-<ce> в ___dungeon1_ потребовала
-<ce> похитить _child_,
-<ce> в _palace_, в __palace_,
-<ce> ее пра-правнучку и привести ее к ведьме,
-<ce> если я хочу найти _aurielshield_.
+ Ведьма, _witch_,
+ в ___dungeon1_ потребовала
+ похитить _child_,
+ в _palace_, в __palace_,
+ ее пра-правнучку и привести ее к ведьме,
+ если я хочу найти _aurielshield_.
 
 Message:  1013
 %qdt:
-<ce> Ведьма, _witch_,
-<ce> в ___dungeon1_ потребовала
-<ce> похитить _child_,
-<ce> в _palace_, в __palace_,
-<ce> ее пра-правнучку и привести ее к ведьме,
-<ce> если я хочу найти _lordsmail_.
+ Ведьма, _witch_,
+ в ___dungeon1_ потребовала
+ похитить _child_,
+ в _palace_, в __palace_,
+ ее пра-правнучку и привести ее к ведьме,
+ если я хочу найти _lordsmail_.
 
 Message:  1021
 <ce> Я _witch_. Итак, ты ищешь _aurielshield_.
@@ -266,21 +266,21 @@ Message:  1033
 
 Message:  1051
 %qdt:
-<ce> _witch_ поведала мне, что
-<ce> путь к _aurielshield_
-<ce> лежит через ___dungeon2_.
+ _witch_ поведала мне, что
+ путь к _aurielshield_
+ лежит через ___dungeon2_.
 
 Message:  1050
 %qdt:
-<ce> _witch_ поведала мне, что
-<ce> путь к _aurielsbow_
-<ce> лежит через ___dungeon2_.
+ _witch_ поведала мне, что
+ путь к _aurielsbow_
+ лежит через ___dungeon2_.
 
 Message:  1052
 %qdt:
-<ce> _witch_ поведала мне, что
-<ce> путь к _lordsmail_
-<ce> лежит через ___dungeon2_.
+ _witch_ поведала мне, что
+ путь к _lordsmail_
+ лежит через ___dungeon2_.
 
 
 

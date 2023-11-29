@@ -81,14 +81,14 @@ Message:  1014
 
 Message:  1020
 %qdt:
-<ce> У меня =1stparton_ дней, чтобы найти и убить
-<ce> _monster_ по имени =monster_, вернуться в
-<ce> ___qgfriend_, чтобы повстречать =qgfriend_
-<ce> по имени _qgfriend_ и забрать артефакт,
-<ce> обещанный Меридией, _artifact_.
-<ce> =monster_ находится сейчас в
-<ce> ___mondung_, а _qgfriend_ в
-<ce> ___qgfriend_.
+ У меня =1stparton_ дней, чтобы найти и убить
+ _monster_ по имени =monster_, вернуться в
+ ___qgfriend_, чтобы повстречать =qgfriend_
+ по имени _qgfriend_ и забрать артефакт,
+ обещанный Меридией, _artifact_.
+ =monster_ находится сейчас в
+ ___mondung_, а _qgfriend_ в
+ ___qgfriend_.
 
 
 Message:  1030

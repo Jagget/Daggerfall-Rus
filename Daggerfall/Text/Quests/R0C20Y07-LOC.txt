@@ -83,13 +83,13 @@ QuestorPostfailure:  [1009]
 QuestLogEntry:  [1010]
 %qdt:
  _questgiver_
-<ce> из ___questgiver_ посылает меня
-<ce> с заданием найти сапфир, украденный у
-<ce> друга, _qgfriend_ из
-<ce> __qgfriend_ в ___qgfriend_.
-<ce> У меня =1stparton_ дней, чтбы найти сапфир
-<ce> в ___itemdung_ и вернуть его в __qgfriend_,
-<ce> чтобы получить вознаграждение.
+ из ___questgiver_ посылает меня
+ с заданием найти сапфир, украденный у
+ друга, _qgfriend_ из
+ __qgfriend_ в ___qgfriend_.
+ У меня =1stparton_ дней, чтбы найти сапфир
+ в ___itemdung_ и вернуть его в __qgfriend_,
+ чтобы получить вознаграждение.
 
 Message:  1011
 Вы нашли сапфир.

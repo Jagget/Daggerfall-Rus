@@ -75,16 +75,16 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из ___qgiver_
-<ce> попросил меня сопроводить его в
-<ce> __betrothedhome_ найти
-<ce> _betrothed_. _qgiver_
-<ce> помолвлен с _betrothed_,
-<ce> но _ruler_ хочет убить
-<ce> _qgiver_, чобы помешать женитьбе
-<ce> Они собираются пожениться
-<ce> в _temple_
-<ce> в __temple_.
+ _qgiver_ из ___qgiver_
+ попросил меня сопроводить его в
+ __betrothedhome_ найти
+ _betrothed_. _qgiver_
+ помолвлен с _betrothed_,
+ но _ruler_ хочет убить
+ _qgiver_, чобы помешать женитьбе
+ Они собираются пожениться
+ в _temple_
+ в __temple_.
 
 Message:  1011
 <ce> Ах, моя любимая _betrothed_!

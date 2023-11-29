@@ -74,12 +74,12 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из ___qgiver_ послал меня в
-<ce> _storehouse_ в __storehouse_
-<ce> "освободить" _mitem_, хранящийся там и
-<ce> оставил записку. Если я управлюсь и
-<ce> вернусь в __qgiver_ в течение =2storehouse_
-<ce> дней, я получу _reward_ золотых.
+ _qgiver_ из ___qgiver_ послал меня в
+ _storehouse_ в __storehouse_
+ "освободить" _mitem_, хранящийся там и
+ оставил записку. Если я управлюсь и
+ вернусь в __qgiver_ в течение =2storehouse_
+ дней, я получу _reward_ золотых.
 
 Message:  1011
 

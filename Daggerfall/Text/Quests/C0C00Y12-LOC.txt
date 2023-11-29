@@ -62,12 +62,12 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_, из __qgiver_
-<ce> в ___qgiver_, дает мне шанс
-<ce> найти _religitem_,
-<ce> который похитил =thief_ по имени _thief_.
-<ce> У меня =traveltime_ дней, чтобы
-<ce> завершить работу.
+ _qgiver_, из __qgiver_
+ в ___qgiver_, дает мне шанс
+ найти _religitem_,
+ который похитил =thief_ по имени _thief_.
+ У меня =traveltime_ дней, чтобы
+ завершить работу.
 
 Message:  1011
 <ce> %oth!  Храм нанял наемника,

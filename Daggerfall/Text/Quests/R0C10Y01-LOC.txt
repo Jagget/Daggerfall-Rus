@@ -63,11 +63,11 @@ QuestorPostfailure:  [1009]
 QuestLogEntry:  [1010]
 %qdt:
  _questgiver_
-<ce> попросил меня доставить _item_ контактному лицу
-<ce> в ___contact_, называемое _contact_.
-<ce> _item_ нужно доставить %g2 в
-<ce> __contact_ за =queston_
-<ce> дней, иначе я лишусь награды.
+ попросил меня доставить _item_ контактному лицу
+ в ___contact_, называемое _contact_.
+ _item_ нужно доставить %g2 в
+ __contact_ за =queston_
+ дней, иначе я лишусь награды.
 
 Message:  1020
 <ce> Давай сюда камешек! Я знаю,

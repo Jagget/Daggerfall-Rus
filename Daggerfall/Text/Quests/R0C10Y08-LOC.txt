@@ -98,17 +98,17 @@ Message:  1012
 
 Message:  1015
 %qdt:
-<ce> _questgiver_
-<ce> послал меня в _itemplace_
-<ce> в __itemplace_, чтобы украсть
-<ce> некий _item_ и затем доставить его
-<ce> _transporter_ в __inn_
-<ce> в месте, названном _inn_.
-<ce> У меня =1stparton_ дней для доставки.
-<ce> В конце концов, я должен вернуться за наградой.
-<ce> У меня =2ndparton_ дней на путешествие от
-<ce> __inn_ к __questgiver_,
-<ce> в дом _questgiver_ в ___questgiver_.
+ _questgiver_
+ послал меня в _itemplace_
+ в __itemplace_, чтобы украсть
+ некий _item_ и затем доставить его
+ _transporter_ в __inn_
+ в месте, названном _inn_.
+ У меня =1stparton_ дней для доставки.
+ В конце концов, я должен вернуться за наградой.
+ У меня =2ndparton_ дней на путешествие от
+ __inn_ к __questgiver_,
+ в дом _questgiver_ в ___questgiver_.
 
 Message:  1020
 <ce> Держи вора! Гадкий осквернитель

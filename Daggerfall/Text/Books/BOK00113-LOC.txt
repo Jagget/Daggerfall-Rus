@@ -1,4 +1,4 @@
-Title: Борн в лесу, часть II
+Title: Рожденные в лесу, часть II
 Author: Лорд Вудборн
 IsNaughty: False
 Price: 300
@@ -8,7 +8,7 @@ Content:
 
 [/font=1]
 
-[/center]Борн в лесу, часть II
+[/center]Рожденные в лесу, часть II
 
 [/center][/font=5]Лорд Вудборн
 

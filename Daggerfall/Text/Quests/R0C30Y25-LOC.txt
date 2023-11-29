@@ -76,13 +76,13 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _questgiver_ из
-<ce> ___questgiver_ посылает меня
-<ce> к _contact_ из __contact_ в ___contact_,
-<ce> со слитком золота. Золото нужно доставить
-<ce> и вренуться в __questgiver_ в течение
-<ce> =1stparton_ дней, чтобы получить _reward_
-<ce> заолотых, которые обещал _questgiver_.
+ _questgiver_ из
+ ___questgiver_ посылает меня
+ к _contact_ из __contact_ в ___contact_,
+ со слитком золота. Золото нужно доставить
+ и вренуться в __questgiver_ в течение
+ =1stparton_ дней, чтобы получить _reward_
+ заолотых, которые обещал _questgiver_.
 
 Message:  1011
 <ce> Изумительно, %pcf. Я просто таки обожаю

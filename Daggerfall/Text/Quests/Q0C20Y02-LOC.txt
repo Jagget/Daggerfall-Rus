@@ -91,15 +91,15 @@ Message:  1020
 
 Message:  1025
 %qdt:
-<ce> _questgiver_ из
-<ce> ==questgiver_ послала меня
-<ce> забрать _magicitem_,
-<ce> спрятанную в ==other_,
-<ce> =other_ по имени _other_
-<ce> в ___other_. У меня
-<ce> =1stparton_ дней, чтобы найти
-<ce> _magicitem_ и вернуться в
-<ce> ___questgiver_.
+ _questgiver_ из
+ ==questgiver_ послала меня
+ забрать _magicitem_,
+ спрятанную в ==other_,
+ =other_ по имени _other_
+ в ___other_. У меня
+ =1stparton_ дней, чтобы найти
+ _magicitem_ и вернуться в
+ ___questgiver_.
 
 
 

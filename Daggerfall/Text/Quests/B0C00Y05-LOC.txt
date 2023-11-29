@@ -70,11 +70,11 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из ___qgiver_
-<ce> послал меня найти и уничтожить _monster_
-<ce> прозываемого =monster_, который
-<ce> прячется где-то в окрестностях ___mondun_. У меня
-<ce> =queston_ дней, чтобы закончить дело.
+ _qgiver_ из ___qgiver_
+ послал меня найти и уничтожить _monster_
+ прозываемого =monster_, который
+ прячется где-то в окрестностях ___mondun_. У меня
+ =queston_ дней, чтобы закончить дело.
 
 Message:  1011
 <ce> =monster_, _monster_ убит.

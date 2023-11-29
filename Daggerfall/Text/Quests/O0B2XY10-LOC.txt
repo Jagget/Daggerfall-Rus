@@ -56,12 +56,12 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_, вор из Гильдии
-<ce> города ___qgiver_, нанимает меня
-<ce> на работу по краже зелья _potion_
-<ce> из магазина _alchemyshop_ в
-<ce> городе __alchemyshop_. На все у
-<ce> меня есть =traveltime_ дней.
+ _qgiver_, вор из Гильдии
+ города ___qgiver_, нанимает меня
+ на работу по краже зелья _potion_
+ из магазина _alchemyshop_ в
+ городе __alchemyshop_. На все у
+ меня есть =traveltime_ дней.
 
 
 

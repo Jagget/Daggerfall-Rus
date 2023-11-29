@@ -64,11 +64,11 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из
-<ce> ==qgiver_ в ___qgiver_
-<ce> обязал меня долгом уничтожить
-<ce> лича из ___dungeon_. У меня
-<ce> =2dung_ дней, чтобы завершить работу.
+ _qgiver_ из
+ ==qgiver_ в ___qgiver_
+ обязал меня долгом уничтожить
+ лича из ___dungeon_. У меня
+ =2dung_ дней, чтобы завершить работу.
 
 Message:  1011
 <ce> Лич мертв. Без его магической

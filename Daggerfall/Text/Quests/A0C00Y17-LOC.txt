@@ -80,13 +80,13 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> Встречались с _questgiver_
-<ce> в ___questgiver_. %g
-<ce> согласился заплатить мне за его охрану
-<ce> во время путешествия в _destination_, что
-<ce> находится в __destination_.
-<ce> В частности необходимо успеть до исхода
-<ce> =traveltime_ дней.
+ Встречались с _questgiver_
+ в ___questgiver_. %g
+ согласился заплатить мне за его охрану
+ во время путешествия в _destination_, что
+ находится в __destination_.
+ В частности необходимо успеть до исхода
+ =traveltime_ дней.
 
 Message:  1019
 <ce> _questgiver_ сказал: "Ха!

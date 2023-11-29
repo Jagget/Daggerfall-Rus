@@ -50,13 +50,13 @@ RumorsPostsuccess:  [1007]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из
-<ce> ==qgiver_ в ___qgiver_
-<ce> дал мне шанс убить
-<ce> =monster_, _monster_
-<ce> из могущественного оркского отряда
-<ce> в ___dungeon_. У меня =2dung_ дня,
-<ce> чтобы спасти %reg от их набегов.
+ _qgiver_ из
+ ==qgiver_ в ___qgiver_
+ дал мне шанс убить
+ =monster_, _monster_
+ из могущественного оркского отряда
+ в ___dungeon_. У меня =2dung_ дня,
+ чтобы спасти %reg от их набегов.
 
 Message:  1011
 <ce> =monster_ мертв.

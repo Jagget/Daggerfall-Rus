@@ -87,13 +87,13 @@ Message:  1012
 Message:  1015
 %qdt:
  _questgiver_ из
-<ce> __questgiver_ попросил меня
-<ce> доставить некий _item_
-<ce> своему коллеге по имени _qgfriend_.
-<ce> Место пребывания _qgfriend_ -
-<ce> __qgfriend_ в ___qgfriend_,
-<ce> путешествие на =queston_ дней.
-<ce> Столько времени у меня есть.
+ __questgiver_ попросил меня
+ доставить некий _item_
+ своему коллеге по имени _qgfriend_.
+ Место пребывания _qgfriend_ -
+ __qgfriend_ в ___qgfriend_,
+ путешествие на =queston_ дней.
+ Столько времени у меня есть.
 
 
 

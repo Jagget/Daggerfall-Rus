@@ -72,15 +72,15 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _questgiver_ из
-<ce> __questgiver_, ___questgiver_
-<ce> послал меня доставить _weapon_
-<ce> союзнику, по имени _contact_.
-<ce> Я должен передать _weapon_
-<ce> в руки _contact_ не позднее =queston_
-<ce> дней. =contact_
-<ce> точно должен находится в месте, названном
-<ce> __contact_ в ___contact_.
+ _questgiver_ из
+ __questgiver_, ___questgiver_
+ послал меня доставить _weapon_
+ союзнику, по имени _contact_.
+ Я должен передать _weapon_
+ в руки _contact_ не позднее =queston_
+ дней. =contact_
+ точно должен находится в месте, названном
+ __contact_ в ___contact_.
 
 
 

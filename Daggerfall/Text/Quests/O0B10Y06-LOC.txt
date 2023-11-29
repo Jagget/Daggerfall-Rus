@@ -59,11 +59,11 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из города ___qgiver_
-<ce> отправляет меня утащить некую драгоценность,-
-<ce> _jewelry_ из дома _mansion_, что
-<ce> в местечке ___mansion_. Мне дают
-<ce> =traveltime_ дней.
+ _qgiver_ из города ___qgiver_
+ отправляет меня утащить некую драгоценность,-
+ _jewelry_ из дома _mansion_, что
+ в местечке ___mansion_. Мне дают
+ =traveltime_ дней.
 
 
 

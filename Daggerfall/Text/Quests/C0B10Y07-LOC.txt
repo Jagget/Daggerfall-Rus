@@ -83,11 +83,11 @@ _priest_ никогда не простит меня, если я хотя бы 
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из __qgiver_ обязал меня
-<ce> доставить _religitem_
-<ce> к _priest_ в __priest_ в
-<ce> ___priest_. Это должно быть на месте
-<ce> в течение =traveltime_ дней.
+ _qgiver_ из __qgiver_ обязал меня
+ доставить _religitem_
+ к _priest_ в __priest_ в
+ ___priest_. Это должно быть на месте
+ в течение =traveltime_ дней.
 
 Message:  1011
 <ce> _religitem_ никогда не

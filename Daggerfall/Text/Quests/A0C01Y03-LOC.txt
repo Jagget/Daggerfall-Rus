@@ -72,12 +72,12 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из ___qgiver_
-<ce> попросил меня найти _hermit_.
-<ce> Возможно _hermit_ знает ответ
-<ce> на загадку. Все что мне известно,
-<ce> когда-то %g общался с _spouse_
-<ce> в ___spouse_.
+ _qgiver_ из ___qgiver_
+ попросил меня найти _hermit_.
+ Возможно _hermit_ знает ответ
+ на загадку. Все что мне известно,
+ когда-то %g общался с _spouse_
+ в ___spouse_.
 
 Message:  1011
 <ce> Не стоило приносить _flowers_.
@@ -112,19 +112,19 @@ Message:  1014
 Message:  1015
 %qdt:
  Нашлась _spouse_.
-<ce> %g сказала мне, что
-<ce> _hermit_ ушел обучаться под
-<ce> руководством _teacher_
-<ce> в __school_.
+ %g сказала мне, что
+ _hermit_ ушел обучаться под
+ руководством _teacher_
+ в __school_.
 
 Message:  1016
 %qdt:
  Встречались с учителем
-<ce> _hermit_'а,
-<ce> _teacher_ из
-<ce> __school_. %g сказал, что
-<ce> _hermit_ уединился в
-<ce> ___dungeon_.
+ _hermit_,
+ _teacher_ из
+ __school_. %g сказал, что
+ _hermit_ уединился в
+ ___dungeon_.
 
 Message:  1017
 <ce> Не будем говорить ни о любви ни ненависти.

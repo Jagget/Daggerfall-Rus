@@ -75,10 +75,10 @@ QuestorPostfailure:  [1009]
 QuestLogEntry:  [1010]
 %qdt:
  _questgiver_ из
-<ce> ___questgiver_ нанял меня
-<ce> довезти посылку к _pickuplocal_,
-<ce> тоже из ___pickuplocal_
-<ce> Времени у меня ровно до завтра.
+ ___questgiver_ нанял меня
+ довезти посылку к _pickuplocal_,
+ тоже из ___pickuplocal_
+ Времени у меня ровно до завтра.
 
 Message:  1011
 <ce> Эта книга не имеет цены.

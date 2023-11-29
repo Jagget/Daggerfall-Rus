@@ -88,13 +88,13 @@ QuestLogEntry:  [1010]
 
 Message:  1015
 %qdt:
-<ce> _questgiver_ из __questgiver_ в
-<ce> ___questgiver_ обещает мне _reward_,
-<ce> если я доставлю вовремя свежий экземпляр
-<ce> одного ингридиента: _item2_, который нужно
-<ce> взять у его знакомого _contact_ в течение
-<ce> =1stparton_ дней. _contact_
-<ce> в __contact_ в ___contact_.
+ _questgiver_ из __questgiver_ в
+ ___questgiver_ обещает мне _reward_,
+ если я доставлю вовремя свежий экземпляр
+ одного ингридиента: _item2_, который нужно
+ взять у его знакомого _contact_ в течение
+ =1stparton_ дней. _contact_
+ в __contact_ в ___contact_.
 
 
 

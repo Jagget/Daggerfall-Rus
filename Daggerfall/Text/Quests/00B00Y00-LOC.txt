@@ -65,12 +65,12 @@ QuestorPostfailure:  [1009]
 
 Message:  1030
 %qdt:
-<ce> Школа Джулианоса в ___questgiver_
-<ce> наняла меня убить одного беглеца
-<ce> _monster_ из их храма,
-<ce> =monster_. У меня =1stparton_ дней на
-<ce> выполнение задания.
-<ce> Искать надо в ___mondung_.
+ Школа Джулианоса в ___questgiver_
+ наняла меня убить одного беглеца
+ _monster_ из их храма,
+ =monster_. У меня =1stparton_ дней на
+ выполнение задания.
+ Искать надо в ___mondung_.
 
 Message:  1031
 <ce> =monster_ убит.

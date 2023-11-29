@@ -115,12 +115,12 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
-<ce> _qgiver_ из
-<ce> __qgiver_ в ___qgiver_
-<ce> посылает меня в ___mondung_ на
-<ce> поиски книги _book_,
-<ce> очень редкой книги. Мне заплатят _gold_
-<ce> золотых по возвращении в течение =queston_ дней.
+ _qgiver_ из
+ __qgiver_ в ___qgiver_
+ посылает меня в ___mondung_ на
+ поиски книги _book_,
+ очень редкой книги. Мне заплатят _gold_
+ золотых по возвращении в течение =queston_ дней.
 
 Message:  1011
 <ce> Вы подобрали
