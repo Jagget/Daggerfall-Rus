@@ -319,7 +319,7 @@ maxf: 70
 
 			#108
 			type: 2
-			name: Тёмное Братство
+			name: Темное Братство
 			rep: 0
 			summon: 15
 			region: -1
