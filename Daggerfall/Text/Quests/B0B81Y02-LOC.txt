@@ -68,7 +68,7 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
- _qgiver_ ,
+ _qgiver_,
  ==qgiver_ из города ___qgiver_
  отправляет меня с заданием
  уничтожить лича в своем логове
