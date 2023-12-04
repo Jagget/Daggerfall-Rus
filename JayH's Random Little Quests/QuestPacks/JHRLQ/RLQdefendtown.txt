@@ -1,66 +1,60 @@
 Quest: RLQdefendtown
-DisplayName: СМК: Defend the Town
+DisplayName: СМК: Защита города
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
 
 Message:  1010
-<ce> You notice a trio of hooded figures walking about,
-<ce> planning some sort of mayhem under the guise of fog.
-<ce> Before they can get far, a ranger approaches them.
+<ce> Вы заметили три фигуры в капюшонах, разгуливающих по окрестностям
+<ce> и замышляющих какой-то беспредел под прикрытием тумана. Прежде чем
+<ce> они успевают уйти далеко, к ним приближается рейнджер.
 <ce>
-<ce> "Stop! There'll be no mischief here! Surrender your
-<ce> weapons, or I'll be forced to take your lives!"
+<ce> "Стойте! Никаких беспорядков! Сдайте оружие,
+<ce> или я буду вынужден лишить вас жизни!"
 <ce>
-<ce> They ready their arms in defiance.
-<ce> Do you intervene to help the ranger, or keep out of this?
+<ce> Они не повиновинуются и готовят оруже к бою. Вмешаетесь
+<ce> ли вы, чтобы помочь рейнджеру, или останетесь в стороне?
 
 Message:  1011
-<ce> You ready for battle and signal to the ranger
-<ce> that you'll help as well. "Thank you, friend!"
-<ce> the ranger shouts, as the battle begins.
+<ce> Вы готовы к бою и подаете сигнал рейнджеру, что
+<ce> поможете ему. "Спасибо, друг!" - кричит рейнджер,
+<ce> и битва начинается.
 
 Message:  1012
-<ce> The three criminals are down. The city watch
-<ce> finally emerge from the fog and thank you for
-<ce> your assistance in keeping the town safe.
+<ce> Трое преступников повержены. Городская стража наконец
+<ce> находит путь сквозь туман. Они благодарят вас за вашу
+<ce> помощь в обеспечении безопасности города.
 
 Message:  1013
-<ce> You take advantage of the fog to stay out of sight.
-<ce> An arduous battle commences, and the ranger falls.
-<ce> Out of fear of being caught, the criminals
-<ce> rush away from the city to plan their next scheme.
+<ce> Воспользовавшись туманом, вы скрываетесь
+<ce> из виду. Начинается тяжелая битва, и рейнджер
+<ce> падает. Боясь быть пойманными, преступники
+<ce> спешат покинуть город.
    <--->
-<ce> You take advantage of the fog to stay out of sight.
-<ce> An arduous battle commences, and the criminals fall.
-<ce> Members of the city watch arrive afterwards to
-<ce> congratulate the ranger for his selflessness
-<ce> in keeping the town safe.
+<ce> Вы пользуетесь туманом, чтобы оставаться вне поля
+<ce> зрения. Начинается тяжелая битва, и преступники
+<ce> падают. После этого прибывают члены городской стражи,
+<ce> чтобы поздравить рейнджера с его самоотверженностью
+<ce> в деле обеспечения безопасности города.
 
 Message:  1014
-<ce> The three criminals are down. The city watch
-<ce> finally emerge from the fog and thank both of you
-<ce> for your assistance in keeping the town safe.
-<ce> The ranger also thanks you profusely.
+<ce> Трое преступников повержены. Городская стража наконец
+<ce> находит путь сквозь туман. Они благодарят вас обоих
+<ce> за вашу помощь в обеспечении безопасности города.
+<ce> Рейнджер также выражает вам огромную благодарность.
 <ce>
-<ce> "It's so good to see others willing to stem troubles
-<ce> at their source! I pray that evil may suffer
-<ce> much butt-kicking through your wrath!"
+<ce> "Как хорошо, что есть люди, готовые пресечь
+<ce> беду в самом ее источнике! Я молюсь, чтобы
+<ce> ваш праведный гнев никогда не утихал!"
 <ce>
-<ce> With the deed finished, the ranger disappears into the fog.
+<ce> Закончив дело, рейнджер исчезает в тумане.
 <--->
-<ce> The three criminals are down. The city watch
-<ce> finally emerge from the fog and thank both of you
-<ce> for your assistance in keeping the town safe.
-<ce> The ranger also thanks you profusely
-<ce> and disappears into the fog.
-<--->
-<ce> The three criminals are down. The city watch
-<ce> finally emerge from the fog and thank both of you
-<ce> for your assistance in keeping the town safe.
-<ce> The ranger also thanks you profusely
-<ce> and disappears into the fog.
+<ce> Трое преступников повержены. Городская
+<ce> стража наконец находит путь сквозь туман.
+<ce> Они благодарят вас обоих за вашу помощь
+<ce> в обеспечении безопасности города. Рейнджер
+<ce> тоже благодарит вас и исчезает в тумане.
 
 
 QBN:

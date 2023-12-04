@@ -1,47 +1,47 @@
 Quest: RLQchokingchild
-DisplayName: СМК: A Choking Child
+DisplayName: СМК: Задыхающийся ребенок
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
-<ce> You may not be Tamriel's foremost expert on blocked
-<ce> airways, but you know enough medicine to work out
-<ce> a solution. You grab the child from his mother and
-<ce> inspect his mouth, trying to dislodge anything
-<ce> that may be readily visible. You then press
-<ce> hard on the abdomen, expulsing the air that was
-<ce> inside his lungs. A small, heavily gnawed object flies
-<ce> out of his mouth and through the air. The boy's normal
-<ce> breathing resumes, much to the relief of everyone present.
-<ce> The mother sheepishly admits she doesn't have much
-<ce> of a compensation to offer, but then pulls a book
-<ce> out of her pack to pay you.
+<ce> Возможно, вы не самый лучший специалист в Тамриэле
+<ce> по закупорке дыхательных путей, но вы достаточно
+<ce> разбираетесь в медицине, чтобы найти решение.
+<ce> Вы забираете ребенка у матери и осматриваете его рот,
+<ce> пытаясь вытащить все, что хорошо видно. Затем вы
+<ce> сильно надавливаете на живот, выталкивая воздух,
+<ce> который был в легких. Маленький, сильно
+<ce> погрызенный предмет вылетает изо рта. Дыхание
+<ce> мальчика нормализуется, к большому облегчению всех
+<ce> присутствующих. Мать застенчиво признает, что ей
+<ce> нечего предложить в качестве компенсации, но затем
+<ce> достает из сумки книгу, и дарит вам.
 
 Message:  1010
-<ce> A woman cries out in a shrill tone, begging for help.
-<ce> Her young child is choking and she doesn't understand
-<ce> how to help. They need a physician. Will you try?
+<ce> Женщина пронзительно кричит, умоляя о помощи.
+<ce> Ее маленький ребенок задыхается, и она не понимает,
+<ce> как ему помочь. Им нужен врач. Вы попытаетесь?
 
 Message:  1011
-<ce> You refuse to intervene. Thankfully, it doesn't take
-<ce> long for someone qualified to step up and resolve
-<ce> the problem, earning the mother's profuse thanks.
+<ce> Вы отказываетесь вмешиваться. К счастью, не проходит много
+<ce> времени, как кто-то квалифицированный приходит и решает
+<ce> проблему, заслужив бурную благодарность матери.
 <--->
-<ce> You refuse to intervene. She calls out again and again,
-<ce> and then passes by in a flurry. You see the boy's face
-<ce> turning blue before they disappear from sight.
+<ce> Вы отказываетесь вмешиваться. Она зовет снова и снова,
+<ce> а потом проходит мимо. Вы видите, как посинело лицо
+<ce> мальчика, прежде чем они скрылись из виду.
 
 Message:  1012
-<ce> You confidently step forward and grab the boy, and
-<ce> then begin beating his back and neck to try to dislodge
-<ce> whatever is stuck within. The mother watches in horror and
-<ce> grabs him back after a few moments. The last you see of them,
-<ce> the blue-faced child is dragged out into the rain,
-<ce> hopefully to find someone qualified.
+<ce> Вы уверенно шагаете вперед и хватаете мальчика, а затем
+<ce> начинаете бить его по спине и шее, пытаясь вырвать то, что
+<ce> застряло внутри. Мать в ужасе наблюдает за происходящим
+<ce> и через несколько мгновений хватает его обратно. Последнее,
+<ce> что вы видите, - как синеющего ребенка несут по улице,
+<ce> надеясь найти кого-нибудь более квалифицированного.
 <ce>
-<ce> An onlooker glares at you and shouts,
-<ce> "If you're not qualified, don't waste the lady's time!
-<ce> %oth!"
+<ce> Один из зрителей смотрит на вас и кричит:
+<ce> "Если у вас нет квалификации, не тратьте
+<ce> время этой дамы! %oth!"
 
 QBN:
 

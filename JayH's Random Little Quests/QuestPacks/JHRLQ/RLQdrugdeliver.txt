@@ -1,58 +1,58 @@
 Quest: RLQdrugdeliver
-DisplayName: СМК: A Drug Delivery
+DisplayName: СМК: Доставка наркотиков
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
-<ce> YES! Give me that! Step away! Get out
-<ce> of here! Yes, here, money, take it!
+<ce> ДА! Дай мне это! Отойди! Убирайся вон!
+<ce> Да, вот, деньги, бери!
 
 Message:  1010
-<ce> A hooded figure interrupts you and speaks
-<ce> in a low voice.
+<ce> Фигура в капюшоне останавливает вас
+<ce> и говорит тихим голосом.
 <ce>
-<ce> "'Scuse me stranger, I've got a little bit
-<ce> of something that needs to get to a
-<ce> house here in town. Pays =reward_
-<ce> gold if you know how to sneak about it".
+<ce> "Простите покорнейше, но мне нужно кое-что
+<ce> доставить в пределах города. Заплачу
+<ce> =reward_ золотых, если вы знаете, как это
+<ce> сделать незаметно".
 
 Message:  1011
-<ce> "That's good. Place is _res_,
-<ce> to the %di. Guards are gonna get word of
-<ce> it soon and they'll be searching the area.
-<ce> Might wanna deliver it fast, unless you
-<ce> know you're a world-class sneak.
-<ce> If it's not there in six hours
-<ce> your money is forfeit. Give it to _person_".
+<ce> "Хорошо. Место называется _res_, это на %di
+<ce> отсюда. Городская стража скоро узнает об этом
+<ce> и будет обыскивать район. Возможно, стоит
+<ce> поспешить, если вы не хотите объясняться со
+<ce> стражниками. У вас есть шесть часов, иначе
+<ce> ваша награда аннулируется. И да - _person_.
+<ce> Так зовут получателя".
 
 Message:  1012
-<ce> Six hours have passed and you did not deliver
-<ce> the _ingred_ to _res_.
+<ce> Прошло шесть часов, а вы так и не доставили
+<ce> _ingred_ в _res_.
 
 Message:  1013
-<ce> The figure departs in silence.
+<ce> Фигура молча уходит.
 
 Message:  1014
-<ce> A member of the city watch approaches you
-<ce> and gives you no quarter.
-<ce> If you weren't such a good sneak, he might have
-<ce> found the _ingred_ you were given. As you were properly
-<ce> prepared, you suffer only a little jostling
-<ce> before the guard leaves.
+<ce> К вам приближается городской стражник
+<ce> и не дает вам прохода. Если бы вы не были
+<ce> так хороши, он мог бы найти _ingred_,
+<ce> что вам дали. Но, поскольку вы были
+<ce> хорошо подготовлены, вы отделались лишь
+<ce> небольшим безрезультатным обыском.
 
 Message:  1015
-<ce> A member of the city watch approaches you and gives
-<ce> you no quarter. You thought you had a good hiding
-<ce> place for the _ingred_, but it wasn't good enough.
-<ce> He confiscates it and runs away, calling for your arrest.
-<ce> Clearly you were not the sneak for this job.
+<ce> К вам приближается городской стражник и не дает вам
+<ce> прохода. Вы думали, что хорошо спрятали _ingred_,
+<ce> но это не так. Он забирает конрабанду и убегает,
+<ce> крича, чтобы вас арестовали. Очевидно, что вы не
+<ce> подходили для этой работы.
 
 Message:  1016
 %qdt:
- I have been given a small something to deliver to
- someone named _person_ in _res_, ___res_.
- It needs to be there in six hours, and I'll
- be paid =reward_ gold.
+ Мне поручили кое-что доставить человеку по имени
+ _person_ в _res_, ___res_.
+ У меня есть шесть часов,
+ и мне заплатят =reward_ золотых.
 
 QBN:
 

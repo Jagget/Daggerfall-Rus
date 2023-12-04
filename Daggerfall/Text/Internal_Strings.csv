@@ -1337,7 +1337,7 @@ regionNames,"Пустыня Алик'р
 Кибиады"
 ocean,Океан
 unknownUpper,Неизвестно
-switchToRegion,Переключить на: {0} Регион
+switchToRegion,Перейти на регион {0}
 locationInRegionProvince,{0} в провинции {1}
 dayNames,"Сандас
 Морндас
