@@ -1,71 +1,71 @@
 Quest: RLQkillrats
-DisplayName: СМК: Kill Rats
+DisplayName: СМК: Убить крыс
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> You find a small bag of gold at your feet, presumably
-<ce> your payment for completing the job.
+<ce> Вы находите у своих ног небольшой мешочек с золотом,
+<ce> предположительно, это ваша плата за выполнение задания.
 
 Message:  1011
-<ce> A tired-looking warrior hails you.
+<ce> Усталый воин приветствует вас.
 <ce>
-<ce> "Hi. I'm giving up on a task from the Fighters Guild
-<ce> here in town to kill some rats infesting a house.
-<ce> Turns out I got the plague halfway through and
-<ce> have to spend my savings at the temple. If you
-<ce> want to go in and clean the rest, I'll split
-<ce> the reward with you. You in?"
+<ce> "Привет. Я отказываюсь от задания местной Гильдии
+<ce> Бойцов на уничтожение нескольких крыс, пробравшихся
+<ce> в дом. Убив половину, я подхватил чуму и должен
+<ce> потратить свои сбережения в храме. Если вы хотите
+<ce> пойти и добить остальных, я заплачу вам половину
+<ce> награды по контракту. Вы в деле?"
    <--->
-<ce> A warrior spattered with blood all around hails you.
+<ce> Вас приветствует воин, забрызганный кровью.
 <ce>
-<ce> "Hail. I have an assignment from the Fighters Guild
-<ce> to kill a few rats in a local house, but they're tougher
-<ce> than I thought. Think I've got an illness. It'll take
-<ce> everything I earned this week to get a cure, and I'm
-<ce> not risking that again. Want take over the contract?
-<ce> Kill the remaining rats and I'll split it with you,
-<ce> half and half".
+<ce> "Аве. У меня есть задание от Гильдии Бойцов -
+<ce> убить крыс в одном из домов, но они оказались
+<ce> крепче, чем я думал. Кажется, они меня заразили.
+<ce> На лекарство уйдет все, что я заработал за эту
+<ce> неделю, и я не хочу больше рисковать. Хотите
+<ce> взять себе контракт? Убейте оставшихся крыс,
+<ce> и я поделюсь с вами наградой".
 
 Message:  1012
-<ce> "Maybe you're smarter than I am. This guild
-<ce> doesn't have your back when things get bad".
+<ce> "Может быть, вы умнее меня. Эта гильдия
+<ce> не впишется за вас, когда дела пойдут наперекосяк".
 <ce>
-<ce> The wounded warrior heads off to find the temple.
+<ce> Раненый воин отправляется на поиски храма.
    <--->
-<ce> "Oh well. It was worth a shot".
+<ce> "Ну что ж. Попробовать стоило".
 <ce>
-<ce> The fighter moves on to find a cure.
+<ce> Боец отправляется на поиски лекарства.
    <--->
-<ce> "Maybe it's for the better. I should
-<ce> head back to the farm".
+<ce> "Может, оно и к лучшему.
+<ce> Мне пора возвращаться на ферму".
 <ce>
-<ce> The warrior leaves you alone.
+<ce> Воин оставляет вас в покое.
 
 Message:  1013
-<ce> "It's called _place_, %di from here.
-<ce> I think there's about 18 hours left before
-<ce> they call the contract. If you can kill them,
-<ce> I'll come back and make sure you get the payment".
+<ce> "Отлично. _place_, на %di отсюда. Осталось
+<ce> примерно 18 часов до того, как истечет срок
+<ce> контракта. Если вы сможете убить их, я вернусь
+<ce> и прослежу, чтобы вы получили оплату".
 <ce>
-<ce> The warrior heads off to find a cure.
+<ce> Воин отправляется на поиски лекарства.
 
 Message:  1014
-<ce> This is indeed the house.
-<ce> The smell of rodent is strong.
+<ce> Это тот самый дом.
+<ce> Сильно пахнет грызунами.
 
 Message:  1015
-<ce> Sounds like that's all of them.
-<ce> You don't hear anything else moving in the house.
+<ce> Похоже, что крыс больше нет.
+<ce> Вы не слышите, чтобы в доме что-то еще двигалось.
 
 Message:  1016
 %qdt:
- A local warrior asked me for help
- cleaning some rats out of
- _place_ in ___place_.
- I have about 18 hours
- if I want to split the
- payment with him.
+ Местный воин попросил
+ меня помочь вычистить крыс из
+ _place_, ___place_.
+ У меня есть 18 часов,
+ если я хочу разделить
+ с ним оплату.
 
 QBN:
 
@@ -73,7 +73,7 @@ Foe _monster_ is Giant_rat
 
 Clock _timer_ 18:00
 
-Place _fighters_ local fighters
+-- Place _fighters_ local fighters
 Place _place_ local house
 
 Item _reward_ gold range 50 to 90
@@ -100,11 +100,11 @@ variable _three_
 
 _spawntwo_ task:
     when _inside_ and _two_
-    create foe _monster_ every 1 minutes 2 times with 80% success
+    create foe _monster_ every 1 minutes 2 times with 100% success
 
 _spawnthree_ task:
     when _inside_ and _three_
-    create foe _monster_ every 1 minutes 3 times with 80% success
+    create foe _monster_ every 1 minutes 3 times with 100% success
 
 _killedtwo_ task:
     killed 2 _monster_

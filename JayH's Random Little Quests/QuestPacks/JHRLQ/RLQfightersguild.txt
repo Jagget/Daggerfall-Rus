@@ -1,67 +1,67 @@
 Quest: RLQfightersguild
-DisplayName: СМК: Fighters Guild
+DisplayName: СМК: Гильдия Бойцов
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
-<ce> "Then let me present you with this weapon.
-<ce> Your kind do incalculable good here in
-<ce> %crn. You would fare better with it than I.
-<ce> Farewell".
+<ce> "Тогда позвольте вручить вам это оружие. Такие, как
+<ce> вы, приносят неисчислимую пользу региону %crn. Оно
+<ce> сослужит вам лучшую службу, чем мне.
+<ce> Прощайте".
 <ce>
-<ce> The hooded figure bows and departs.
+<ce> Фигура в капюшоне кланяется и уходит.
 
 Message:  1010
-<ce> "Hold it!"
+<ce> "Стоять!"
 <ce>
-<ce> A shrill voice calls out to you. You turn around and see
-<ce> an hooded figure staring at you.
+<ce> Пронзительный крик останавливает вас. Вы оборачиваетесь
+<ce> и видите фигуру в капюшоне, смотрящую на вас.
 <ce>
-<ce> "You, %ra! Are you one of those Fighters Guild people?"
+<ce> "Вы, %ra! Вы из тех людей из Гильдии Бойцов?"
 
 Message:  1011
-<ce> "Worthless pieces of garbage! I was evicted from my
-<ce> home because you couldn't even clean out the bats!
-<ce> Take this!"
+<ce> "Бесполезные куски мусора! Меня выселили из дома,
+<ce> потому что вы даже не смогли вычистить летучих мышей!
+<ce> Ты ответишь за это!"
 <ce>
-<ce> Whatever happened, you are now the target of
-<ce> this person's rage.
+<ce> Что бы ни случилось, теперь вы стали
+<ce> объектом ярости этого человека.
 <--->
-<ce> "Ha, great! Another one down on the way home, what luck!"
+<ce> "Ха, здорово! Еще одно убийство по дороге домой, какая удача!"
 <ce>
-<ce> The assassin pulls out a knife and prepares for battle.
+<ce> Фигура в капюшоне достает нож и готовится к бою.
 <--->
-<ce> "Filthy money-lovers! Prepare to die!"
+<ce> "Грязные любители золота! Готовься к смерти!"
 <ce>
-<ce> The hooded figure unsheathes a blade.
+<ce> Фигура в капюшоне обнажает клинок.
 
 Message:  1012
-<ce> "I just wanted to thank you for getting that harpy
-<ce> out of _place_. Terrifying event, that was.
-<ce> You people are admirable. Safe journeys,
-<ce> may %god be with you".
+<ce> "Мне просто хотелось поблагодарить вас за то, что вы
+<ce> выгнали гарпию из _place_. Это было ужасное событие.
+<ce> Вы достойны восхищения. Счастливого пути, да
+<ce> пребудет с вами %god".
 <ce>
-<ce> She leaves you alone. Whoever killed that harpy
-<ce> is earning quite a reputation.
+<ce> Фигура в капюшоне оставляет вас в покое. Тот, кто
+<ce> убил гарпию, заработал неплохую репутацию.
 <--->
-<ce> "Finally! I never got to thank you for killing those
-<ce> rats in _place_. I can't believe the town guard
-<ce> leaves us to fend them off. You people are
-<ce> a wonderful alternative".
+<ce> "Наконец-то! Мне тогда так и не удалось поблагодарить вас
+<ce> за то, что вы убили тех крыс в _place_. Не могу поверить,
+<ce> что городская стража оставляет нас отбиваться от них. Вы,
+<ce> Гильдия, прекрасная альтернатива".
 <ce>
-<ce> You're not sure this has anything to do with you,
-<ce> but you accept the thanks on the Fighters Guild's
-<ce> behalf and continue on.
+<ce> Вы не уверены, что это имеет к вам отношение, но
+<ce> принимаете благодарность от имени Гильдии Бойцов
+<ce> и продолжаете путь.
 
 Message:  1013
-<ce> "Ah, appearances deceive. Very well, off I go".
+<ce> "Что ж, внешность обманчива. Хорошо, я ухожу".
 <ce>
-<ce> The hooded figure then departs.
+<ce> Фигура в капюшоне уходит.
 <--->
-<ce> "Are you sure? Could've sworn I heard about you
-<ce> in the guild hall recently".
+<ce> "Вы уверены? Могу поклясться, что мы недавно
+<ce> говорили о вас в зале гильдии".
 <ce>
-<ce> Though perplexed, the figure heads off.
+<ce> Фигура в недоумении направляется прочь.
 
 QBN:
 

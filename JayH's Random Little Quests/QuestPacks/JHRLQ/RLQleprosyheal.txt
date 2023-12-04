@@ -1,119 +1,119 @@
 Quest: RLQleprosyheal
-DisplayName: СМК: Heal Leprosy
+DisplayName: СМК: Исцеление прокаженного
 -- Message panels
 QRC:
 
 Message:  1010
-<ce> A villager accosts you, covered in serious and repugnant
-<ce> sores. He tells you that he has leprosy, and the
-<ce> temple refuses to treat him for the severity of it.
-<ce> Though he has nothing to pay you with, he begs for a cure,
-<ce> as the illness rapidly consumes his life.
+<ce> К вам обращается сельский житель, покрытый глубокими,
+<ce> отвратительными язвами. Он говорит вам, что у него проказа,
+<ce> и храм отказывается лечить его из-за тяжести болезни. Хотя
+<ce> ему нечем заплатить вам, он умоляет об исцелении, поскольку
+<ce> болезнь быстро уносит его жизнь.
 <ce>
-<ce> Do you attempt to heal him?
+<ce> Пытаетесь ли вы вылечить его?
 <ce>
-<ce> (YES: Skill check, Medical, high; or
-<ce> (YES: Skill check, Restoration, medium)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Медицина, высокая сложность)
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Восстановление, средняя сложность)
 
 Message:  1011
-<ce> You turn away from the leper, hoping his affliction
-<ce> doesn't affect you in some way.
+<ce> Вы отворачиваетесь от прокаженного, надеясь,
+<ce> что не успели заразиться.
 
 Message:  1012
-<ce> (SKILL CHECKS FAILED)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Медицина/Восстановление)
 <ce>
-<ce> You overestimate your abilities as you approach.
-<ce> Just as the temple healers failed to cure him by magic,
-<ce> you are also unable. Your medical skill is also lacking.
-<ce> You make a few disappointing attempts, but achieve nothing.
-<ce> Tears fill the man's eyes as he turns away,
-<ce> waiting for another savior to arrive.
+<ce> Вы переоцениваете свои возможности. Как храмовые лекари
+<ce> не смогли вылечить его с помощью магии, так и вы не
+<ce> можете. Ваших медицинских навыков также не хватает.
+<ce> Вы предпринимаете несколько неудачных попыток, но
+<ce> ничего не добиваетесь. Слезы заливают глаза мужчины,
+<ce> и он отворачивается, ожидая прихода другого спасителя.
 
 Message:  1013
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: MEDICAL)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Медицина)
 <ce>
-<ce> His case is quite advanced, and a lesser physician would
-<ce> be lost. But you've seen enough to know
-<ce> an obvious cure. A nearby townsperson brings a few herbs at
-<ce> your request, and you mix them to make a potion.
-<ce> Upon drinking it, the leper is cured.
-<ce> A few wide-eyed villagers watch in awe as his sores heal.
+<ce> Этот случай довольно запущен, и явно не по плечу
+<ce> менее опытным врачам. Но вы видели достаточно, чтобы
+<ce> знать эффективное лечение. По вашей просьбе приносят
+<ce> несколько трав, и вы смешиваете их и готовите отвар.
+<ce> Выпив его, прокаженный исцеляется. Несколько жителей
+<ce> с удивлением наблюдают за тем, как заживают его язвы.
 <ce>
-<ce> "A miracle! It's a miracle! %oth!"
+<ce> "Чудо! Это чудо! %oth!"
 <ce>
-<ce> He then runs through the streets, shouting for joy.
-<ce> It appears your reputation in %crn
-<ce> is about to improve a little.
+<ce> Затем он бежит по улицам, крича от радости.
+<ce> Похоже, ваша репутация в регионе %crn
+<ce> станет немного лучше.
    <--->
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: MEDICAL)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Медицина)
 <ce>
-<ce> His case is quite advanced, and a lesser physician would
-<ce> be lost. But you've seen enough to know
-<ce> an obvious cure. A nearby townsperson brings a few herbs at
-<ce> your request, and you mix them to make a potion.
-<ce> Upon drinking it, the leper is cured.
-<ce> A few wide-eyed villagers watch in awe as his sores heal.
+<ce> Этот случай довольно запущен, и явно не по плечу
+<ce> менее опытным врачам. Но вы видели достаточно, чтобы
+<ce> знать эффективное лечение. По вашей просьбе приносят
+<ce> несколько трав, и вы смешиваете их и готовите отвар.
+<ce> Выпив его, прокаженный исцеляется. Несколько жителей
+<ce> с удивлением наблюдают за тем, как заживают его язвы.
 <ce>
-<ce> "Healed! I'm healed! Thank %god!!"
+<ce> "Исцелен! Я исцелен! Славься %god!!!"
 <ce>
-<ce> He then runs through the streets, shouting for joy.
-<ce> It appears your reputation in %crn
-<ce> is about to improve a little.
+<ce> Затем он бежит по улицам, крича от радости.
+<ce> Похоже, ваша репутация в регионе %crn
+<ce> станет немного лучше.
    <--->
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: MEDICAL)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Медицина)
 <ce>
-<ce> His case is quite advanced, and a lesser physician would
-<ce> be lost. But you've seen enough to know
-<ce> an obvious cure. A nearby townsperson brings a few herbs at
-<ce> your request, and you mix them to make a potion.
-<ce> Upon drinking it, the leper is cured.
-<ce> A few wide-eyed villagers watch in awe as his sores heal.
+<ce> Этот случай довольно запущен, и явно не по плечу
+<ce> менее опытным врачам. Но вы видели достаточно, чтобы
+<ce> знать эффективное лечение. По вашей просьбе приносят
+<ce> несколько трав, и вы смешиваете их и готовите отвар.
+<ce> Выпив его, прокаженный исцеляется. Несколько жителей
+<ce> с удивлением наблюдают за тем, как заживают его язвы.
 <ce>
-<ce> "This %ra healed me! My life is saved! By %god!"
+<ce> "%ra сильнее всех болезней! Моя жизнь спасена! Славься %god!!!"
 <ce>
-<ce> He then runs through the streets, shouting for joy.
-<ce> It appears your reputation in %crn
-<ce> is about to improve a little.
+<ce> Затем он бежит по улицам, крича от радости.
+<ce> Похоже, ваша репутация в регионе %crn
+<ce> станет немного лучше.
 
 Message:  1014
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: RESTORATION)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Восстановление)
 <ce>
-<ce> His case is quite advanced, enough to daunt the temple healers.
-<ce> But you approach unafraid and attempt magic on him.
-<ce> It takes a few castings, but soon enough, the leper is cured.
-<ce> A few wide-eyed villagers watch in awe as his sores heal.
+<ce> Его случай довольно запущенный, чтобы напугать храмовых целителей.
+<ce> Но вы подходите и без страха применяете магию. Требуется несколько
+<ce> заклинаний, но достаточно скоро прокаженный излечивается. Несколько
+<ce> жителей с удивлением наблюдают за тем, как заживают его язвы.
 <ce>
-<ce> "A miracle! It's a miracle! %oth!"
+<ce> "Чудо! Это чудо! %oth!"
 <ce>
-<ce> He then runs through the streets, shouting for joy.
-<ce> It appears your reputation in %crn
-<ce> is about to improve a little.
+<ce> Затем он бежит по улицам, крича от радости.
+<ce> Похоже, ваша репутация в регионе %crn
+<ce> станет немного лучше.
    <--->
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: RESTORATION)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Восстановление)
 <ce>
-<ce> His case is quite advanced, enough to daunt the temple healers.
-<ce> But you approach unafraid and attempt magic on him.
-<ce> It takes a few castings, but soon enough, the leper is cured.
-<ce> A few wide-eyed villagers watch in awe as his sores heal.
+<ce> Его случай довольно запущенный, чтобы напугать храмовых целителей.
+<ce> Но вы подходите и без страха применяете магию. Требуется несколько
+<ce> заклинаний, но достаточно скоро прокаженный излечивается. Несколько
+<ce> жителей с удивлением наблюдают за тем, как заживают его язвы.
 <ce>
-<ce> "Healed! I'm healed! Thank %god!!"
+<ce> "Исцелен! Я исцелен! Славься %god!!!"
 <ce>
-<ce> He then runs through the streets, shouting for joy.
-<ce> It appears your reputation in %crn
-<ce> is about to improve a little.
+<ce> Затем он бежит по улицам, крича от радости.
+<ce> Похоже, ваша репутация в регионе %crn
+<ce> станет немного лучше.
    <--->
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: RESTORATION)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Восстановление)
 <ce>
-<ce> His case is quite advanced, enough to daunt the temple healers.
-<ce> But you approach unafraid and attempt magic on him.
-<ce> It takes a few castings, but soon enough, the leper is cured.
-<ce> A few wide-eyed villagers watch in awe as his sores heal.
+<ce> Его случай довольно запущенный, чтобы напугать храмовых целителей.
+<ce> Но вы подходите и без страха применяете магию. Требуется несколько
+<ce> заклинаний, но достаточно скоро прокаженный излечивается. Несколько
+<ce> жителей с удивлением наблюдают за тем, как заживают его язвы.
 <ce>
-<ce> "This %ra healed me! My life is saved! By %god!"
+<ce> "%ra сильнее всех болезней! Моя жизнь спасена! Славься %god!!!"
 <ce>
-<ce> He then runs through the streets, shouting for joy.
-<ce> It appears your reputation in %crn
-<ce> is about to improve a little.
+<ce> Затем он бежит по улицам, крича от радости.
+<ce> Похоже, ваша репутация в регионе %crn
+<ce> станет немного лучше.
 
 QBN:
 

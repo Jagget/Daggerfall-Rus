@@ -1,29 +1,28 @@
 Quest: RLQescapedatronach
-DisplayName: СМК: Escaped Atronach
+DisplayName: СМК: Сбежавший атронах
 -- Message panels
 QRC:
 
 Message:  1010
-<ce> Shouts for help sound nearby. It seems an
-<ce> escaped atronach, feeding off the sun's warm rays,
-<ce> has lost control and is attacking townspeople.
-<ce> Will you try to stop it?
-
+<ce> Поблизости раздаются крики о помощи.
+<ce> Похоже, что кто-то потерял контроль над
+<ce> атронахом и теперь тот нападает на
+<ce> прохожих. Попробуете ли вы остановить его?
 
 Message:  1011
-<ce> You call for the atronach's attention.
-<ce> It shambles toward you, ready for battle.
-<ce> Nearby villagers stand back and watch the
-<ce> duel with awe.
+<ce> Вы привлекаете внимание атронаха. Он ковыляет
+<ce> к вам, готовый к битве. Жители и случайные
+<ce> прохожие стоят в стороне и с трепетом
+<ce> наблюдают за поединком.
 
 Message:  1012
-<ce> You hear cheering and applause as you destroy
-<ce> the creature. A few people nearby, including a member
-<ce> of the city watch, thank you for your help.
+<ce> Вы слышите радостные возгласы и аплодисменты, когда
+<ce> уничтожаете существо. Несколько человек, включая
+<ce> городскую стражу, благодарят вас за вашу помощь.
 
 Message:  1013
-<ce> The city guard hurry to strike the creature down,
-<ce> and the townspeople resume their activities.
+<ce> Городская стража спешит расправиться с существом,
+<ce> а горожане расходятся по своим делам.
 
 QBN:
 

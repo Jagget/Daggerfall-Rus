@@ -1,55 +1,55 @@
 Quest: RLQdungeoncaptive
-DisplayName: СМКs A Dungeon Captive
+DisplayName: СМК: Спасти из подземелья
 -- Message panels
 QRC:
 
 QuestFail:   [1003]
-<ce> In spite of your intentions,
-<ce> _captive_ will have no doubt succumbed
-<ce> to the dangers of ___dung_ by now.
+<ce> Несмотря на все ваши усилия,
+<ce> _captive_, без сомнения, уже никогда
+<ce> не покинет ___dung_.
 
 QuestComplete:  [1004]
-<ce> _captive_ is thoroughly relieved to breathe fresh air.
+<ce> _captive_ с облегчением вдыхает свежий воздух.
 <ce>
-<ce> "Thank you, thank you, thank you! These labyrinths
-<ce> are awful! I don't know how anyone gets out of them!
-<ce> I'll make sure everyone knows what you did for me,
-<ce> from the tavern owner to the %rt! %god bless you!"
+<ce> "Спасибо, спасибо, спасибо! Эти лабиринты просто ужасны! Я
+<ce> не знаю, как кто-то из них выбирается! Я позабочусь о том,
+<ce> чтобы все узнали, что вы для меня сделали, все! И простой
+<ce> хозяин таверны, и %rt! Да благословит вас %god!"
 <ce>
-<ce> Capable of making %g4 way from here, %g1 departs.
+<ce> Зная дальнейший путь отсюда, %g1 отправляется в путь.
 
 Message:  1010
-<ce> A piece of cardboard paper near your feet details
-<ce> a request to find _captive_, who went
-<ce> spelunking several days past and has not returned.
-<ce> Will you pick up the posting?
+<ce> У ваших ног валяется лист бумаги на котором написано, что
+<ce> разыскивается _captive_, что %g1 отсутствует уже несколько
+<ce> дней и что последний раз %g4 видели по пути в подземелье.
+<ce> Поднимете ли вы объявление?
 
 Message:  1011
-<ce> You grab the posting and read it carefully.
-<ce>
-<ce> "Name: _captive_
-<ce> Description: =captive_
-<ce> Last known whereabouts: ___dung_
-<ce> Fame and good name to the one who finds %g2 and
-<ce> rescues %g2 from the pit".
-<ce>
-<ce> It looks like the posting is good for the next =timer_ days.
+<ce> Вы берете объявление и внимательно читаете его.
+<ce> ---
+Имя: _captive_
+Описание: =captive_
+Последнее известное местонахождение: ___dung_.
+Слава и доброе имя тому, кто найдет %g4 и
+спасет из подземелья.
+<ce> ---
+<ce> Похоже, что у вас на это есть всего лишь =timer_ дней.
 
 Message:  1012
-<ce> This person matches the description of _captive_.
-<ce> Upon seeing you, %g1 cries for joy.
+<ce> Судя по описанию, это - _captive_.
+<ce> Увидев вас, %g1 плачет от радости.
 <ce>
-<ce> "Finally, someone came to find me!
-<ce> Please get me out of here!"
+<ce> "Наконец-то вы меня нашли!
+<ce> Пожалуйста, вытащите меня отсюда!"
 
 Message:  1013
-<ce> Surely someone else will take up this rescue matter.
+<ce> Наверняка кто-нибудь другой возьмется за это дело.
 
 Message:  1030
 %qdt:
- I picked up a request to find _captive_,
- described as one =captive_ in ___dung_.
- The request is good for the next =timer_ days.
+ Мне попалось на глаза объявление о поиске человека по имени
+ _captive_. Это =captive_. Мне нужно поискать в ___dung_.
+ У меня осталось =timer_ дней.
 
 QBN:
 

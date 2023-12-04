@@ -1,40 +1,40 @@
 Quest: RLQguardweapon
-DisplayName: СМК: Guard Weapon
+DisplayName: СМК: Оружие городской стражи
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> You make sure no one is looking, and nab the axe.
-<ce> Its restraint is flimsy and easily broken.
-<ce> Since it's of generic make,
-<ce> selling it should be quite easy.
+<ce> Убедившись, что никто не смотрит, вы берете
+<ce> топор. Его крепление хлипкое и легко ломается.
+<ce> Так как это ничем не примечательный топор,
+<ce> продать его будет довольно просто.
 
 Message:  1010
-<ce> Fastened to a nearby wall, you see an axe with
-<ce> a warning note written on the top:
+<ce> Вы видите топор, прикрепленный к стене,
+<ce> с предупреждающей надписью над ним:
 <ce>
-<ce> "PROPERTY OF THE CITY GUARD. DO NOT REMOVE"
+<ce> "СОБСТВЕННОСТЬ ГОРОДСКОЙ СТРАЖИ. НЕ ТРОГАТЬ".
 <ce>
-<ce> While it looks like an ordinary war axe, you could
-<ce> still take it if you felt skilled in pickpocketing.
-<ce> You don't think anyone's watching right now,
-<ce> and the foggy air provides a natural cover.
-<ce> Do you make the attempt?
+<ce> Хотя он выглядит довольно обычным, вы можете взять
+<ce> его, если считаете себя искусным карманником.
+<ce> Вы не думаете, что за вами сейчас кто-то наблюдает,
+<ce> а туманный воздух служит естественным прикрытием.
+<ce> Решитесь ли вы на попытку?
 
 Message:  1011
-<ce> You feel no need to incite the wrath of the city watch.
-<ce> You ignore the axe.
+<ce> Вам не нужен гнев городской стражи.
+<ce> Вы игнорируете топор.
 
 Message:  1012
-<ce> You lay your hands on the axe and try to pull.
-<ce> Your pickpocketing skills come up short, as
-<ce> your obvious movements attract attention.
-<ce> Members of the city watch hurtle towards you,
-<ce> demanding that you halt.
+<ce> Вы кладете руки на топор и пытаетесь потянуть.
+<ce> Ваши навыки карманника не оправдывают себя,
+<ce> поскольку ваши движения очевидны и привлекают
+<ce> внимание. Городская стража направляется к вам,
+<ce> требуя остановиться.
 
 QBN:
 
-Item _reward_ gem
+Item _reward_ item class 3 subclass 14
 
 Clock _delay_ 00:10
 

@@ -1,32 +1,32 @@
 Quest: RLQimmortal
-DisplayName: СМК: Immortal Foe
+DisplayName: СМК: Бессмертный
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
-<ce> The barbarian falls. It looks like no one lives forever, after all.
+<ce> Варвар повержен. Никто не живет вечно.
 
 Message:  1010
-<ce> You hear someone roaring under the shining sun.
-<ce> A barbarian shouts to the people,
+<ce> Вы слышите чей-то рев разносящийся по округе.
+<ce> Варвар кричит людям:
 <ce>
-<ce> "Hahaha! I am an avatar of the gods! No one can defeat me!"
+<ce> "Хахаха! Я - аватар богов! Никто не сможет победить меня!"
 <ce>
-<ce> The fighter then begins swinging an axe around recklessly,
-<ce> trying to impress the villagers. People look worried that
-<ce> this may turn dangerous. Do you try to stop the barbarian?
+<ce> Затем воин начинает безрассудно размахивать топором, пытаясь произвести
+<ce> впечатление на жителей. Люди опасаются, что это может обернуться
+<ce> трагедией. Попытаетесь ли вы остановить варвара?
 
 Message:  1011
-<ce> You call for the mad fighter to stop, and only earn
-<ce> wrath in return. Marching at you, the berserker shouts,
-<ce> "Should've left well enough alone, %ra!
-<ce> I can't be beaten!!"
+<ce> Вы призываете безумного бойца остановиться,
+<ce> но в ответ получаете лишь гнев. Набросившись на вас,
+<ce> берсерк кричит: "Надо было оставить меня в покое,
+<ce> %ra! Меня не победить!!!"
 
 Message:  1012
-<ce> You stay back and watch as members of the town guard
-<ce> work together to subdue the assailant. It takes a lot
-<ce> of bodies and some spellcasters as support,
-<ce> but they manage to arrest him. This fellow was clearly powerful.
+<ce> Вы остаетесь в стороне и наблюдаете за тем, как члены городской стражи
+<ce> совместными усилиями пытаются усмирить буйного. Потребовалось много
+<ce> стражников и поддержка нескольких заклинателей, но им удалось
+<ce> арестовать его. Этот парень явно был силен.
 
 QBN:
 

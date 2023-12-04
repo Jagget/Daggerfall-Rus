@@ -1,17 +1,17 @@
 Quest: RLQfreepotion
-DisplayName: СМК: A Free Potion
+DisplayName: СМК: Бесплатное снадобье
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> Your foot bumps into something hard in the ground.
-<ce> You look down and see that a potion is submerged in the earth.
-<ce> You dig it out and look around to see if anyone
-<ce> would claim it for themselves, but no one does.
-<ce> Its label is ancient, and it was obviously lost and forgotten.
-<ce> You gingerly pocket the concoction for yourself,
-<ce> certain that if it mattered to anyone else, they would
-<ce> have spoken for it already.
+<ce> Ваша нога натыкается на что-то твердое. Вы смотрите вниз
+<ce> и видите, что из земли торчит горлышко бутылки с зельем.
+<ce> Вы выкапываете ее и оглядываетесь по сторонам, чтобы
+<ce> узнать, не хочет ли кто-нибудь взять зелье себе, но никто
+<ce> не берет. Этикетка на нем древняя, и очевидно, что его
+<ce> потеряли и забыли. Вы осторожно кладете снадобье себе
+<ce> в сумку. Вы уверенны, что если бы зелье имело значение для
+<ce> кого-то еще, вам бы уже сказали об этом.
 
 QBN:
 

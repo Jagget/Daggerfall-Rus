@@ -1,34 +1,34 @@
 Quest: RLQfogsteal
-DisplayName: СМК: Fog Steal
+DisplayName: СМК: Кража в тумане
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> Hoping no one spies you through the fog,
-<ce> you quickly reach down and grab the bag.
+<ce> Надеясь, что никто не видит вас в тумане,
+<ce> вы быстро наклоняетесь и хватаете мешочек.
 
 Message:  1010
-<ce> In your path, a small sack of gold lies on the ground.
-<ce> You see no name on it, nor does anyone around seem
-<ce> to be guarding it. It's too conspicuous to be
-<ce> abandoned; surely it belongs to someone nearby, but
-<ce> they have been momentarily careless.
+<ce> На вашем пути лежит небольшой мешочек с золотом. На нем
+<ce> нет ни имени, ни фамилии, и никто вокруг, похоже, его
+<ce> не охраняет. Он слишком заметен, чтобы быть брошенным;
+<ce> наверняка мешочек принадлежит кому-то поблизости, но
+<ce> этот кто-то слишком беспечен.
 <ce>
-<ce> Do you attempt to take it for yourself?
+<ce> Попытаетесь ли вы забрать мешочек себе?
 
 Message:  1011
-<ce> This is no business for you. You ignore it.
+<ce> Это не ваше дело. Вы не обращаете на мешочек внимания.
 
 Message:  1012
-<ce> An angry shout from the nearby owner
-<ce> brings you up straight.
-<ce> The guards are already on their way;
-<ce> not even returning the bag would
-<ce> get you out of this.
-<ce> You'll need some way to escape.
+<ce> Гневный окрик хозяина, стоящего
+<ce> неподалеку, заставляет вас
+<ce> выпрямиться. Охранники уже в пути;
+<ce> даже возврат сумки не поможет вам
+<ce> выпутаться из этой ситуации. Вам
+<ce> нужен какой-то способ сбежать.
 
 Message:  1013
-<ce> You've hidden it away before anyone can notice.
+<ce> Вы прячете мешочек, пока никто не заметил.
 
 QBN:
 

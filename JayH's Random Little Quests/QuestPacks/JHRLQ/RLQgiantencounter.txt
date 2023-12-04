@@ -1,29 +1,29 @@
 Quest: RLQgiantencounter
-DisplayName: СМК: Giant Encounter
+DisplayName: СМК: Встреча с великаном
 -- Message panels
 QRC:
 
 Message:  1010
-<ce> Screams nearby alert you to trouble.
-<ce> A giant has lumbered into town, hungry from the
-<ce> scarcity of winter and unwilling to listen
-<ce> to reason. It has come for food -- animal or human.
-<ce> Do you attempt to stop it?
+<ce> Крики неподалеку предупреждают вас о беде.
+<ce> В город ворвался великан, голодный от зимней
+<ce> скудости и не желающий слушать доводы разума.
+<ce> Он пришел за едой - животным или человеком.
+<ce> Попытаетесь ли вы остановить его?
 
 Message:  1011
-<ce> With the loudest shout you can muster,
-<ce> you gain the giant's attention.
-<ce> The townspeople stand back to watch your duel
-<ce> with the creature.
+<ce> Самым громким криком, на который вы способны,
+<ce> вы привлекаете внимание великана. Горожане
+<ce> отступают назад, чтобы понаблюдать за вашей
+<ce> дуэлью с существом.
 
 Message:  1012
-<ce> The townspeople roar with delight as the monster falls.
-<ce> They leave you to take its belongings for your prize.
+<ce> Горожане ревут от восторга, когда монстр падает. Они не
+<ce> мешают вам забрать его вещи в качестве награды.
 
 Message:  1013
-<ce> You turn away and listen as the town guard surround
-<ce> the creature, hacking it to bits. They soon share
-<ce> the giant's belongings among one another as reward.
+<ce> Вы отходите в сторону и наблюдаете, как городская
+<ce> стража нападает на тварь и рубит ее на куски. Вскоре они
+<ce> делят вещи великана между собой в качестве награды.
 
 QBN:
 
