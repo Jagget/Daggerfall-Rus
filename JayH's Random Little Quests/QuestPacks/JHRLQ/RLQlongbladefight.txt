@@ -1,117 +1,116 @@
 Quest: RLQlongbladefight
-DisplayName: СМК: Long Blade Fight
+DisplayName: СМК: Турнир деревянных рапир
 -- Message panels
 QRC:
 
 QuestComplete:  [1004]
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: LONG BLADE)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Длинные клинки)
 <ce>
-<ce> You are inducted into a match against
-<ce> a =person1_ shortly thereafter.
-<ce> You grip the wooden rapier firmly and
-<ce> begin advancing expertly toward your foe.
-<ce> Though %g1 tries to defend %g2self, you're
-<ce> simply too good. A smattering of applause goes up
-<ce> from the crowd as you best your foe.
+<ce> Вскоре после этого =person1_ вызывает
+<ce> вас на поединок. Вы крепко сжимаете деревянную
+<ce> рапиру и начинаете мастерски наступать
+<ce> на своего противника. Хотя %g1 пытается
+<ce> защищаться, вы превосходите %g4 во всем.
+<ce> Толпа аплодирует вам, когда вы побеждаете
+<ce> с уверенностью и блеском.
 <ce>
-<ce> After the match, you are given your prize money.
+<ce> После поединка вы получаете свой приз.
 <--->
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: LONG BLADE)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Длинные клинки)
 <ce>
-<ce> You are inducted into a match against
-<ce> a =person2_ shortly thereafter.
-<ce> You grip the wooden rapier firmly and
-<ce> begin advancing expertly toward your foe.
-<ce> Though %g1 tries to defend %g2self, you're
-<ce> simply too good. A smattering of applause goes up
-<ce> from the crowd as you best your foe.
+<ce> Вскоре после этого =person2_ вызывает
+<ce> вас на поединок. Вы крепко сжимаете деревянную
+<ce> рапиру и начинаете мастерски наступать
+<ce> на своего противника. Хотя %g1 пытается
+<ce> защищаться, вы превосходите %g4 во всем.
+<ce> Толпа аплодирует вам, когда вы побеждаете
+<ce> с уверенностью и блеском.
 <ce>
-<ce> After the match, you are given your prize money.
+<ce> После поединка вы получаете свой приз.
 <--->
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: LONG BLADE)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Длинные клинки)
 <ce>
-<ce> You are inducted into a match against
-<ce> a =person3_ shortly thereafter.
-<ce> You grip the wooden rapier firmly and
-<ce> begin advancing expertly toward your foe.
-<ce> Though %g1 tries to defend %g2self, you're
-<ce> simply too good. A smattering of applause goes up
-<ce> from the crowd as you best your foe.
+<ce> Вскоре после этого =person3_ вызывает
+<ce> вас на поединок. Вы крепко сжимаете деревянную
+<ce> рапиру и начинаете мастерски наступать
+<ce> на своего противника. Хотя %g1 пытается
+<ce> защищаться, вы превосходите %g4 во всем.
+<ce> Толпа аплодирует вам, когда вы побеждаете
+<ce> с уверенностью и блеском.
 <ce>
-<ce> After the match, you are given your prize money.
+<ce> После поединка вы получаете свой приз.
 <--->
-<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: LONG BLADE)
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА: Длинные клинки)
 <ce>
-<ce> You are inducted into a match against
-<ce> a =person4_ shortly thereafter.
-<ce> You grip the wooden rapier firmly and
-<ce> begin advancing expertly toward your foe.
-<ce> Though %g1 tries to defend %g2self, you're
-<ce> simply too good. A smattering of applause goes up
-<ce> from the crowd as you best your foe.
+<ce> Вскоре после этого =person4_ вызывает
+<ce> вас на поединок. Вы крепко сжимаете деревянную
+<ce> рапиру и начинаете мастерски наступать
+<ce> на своего противника. Хотя %g1 пытается
+<ce> защищаться, вы превосходите %g4 во всем.
+<ce> Толпа аплодирует вам, когда вы побеждаете
+<ce> с уверенностью и блеском.
 <ce>
-<ce> After the match, you are given your prize money.
+<ce> После поединка вы получаете свой приз.
 
 Message:  1010
-<ce> To garner some kind of entertainment, the peasantry
-<ce> are organizing random matches among fighters
-<ce> using wooden rapiers. They don't look particularly
-<ce> expert at the craft, though a random few seem to know
-<ce> what they're doing. The entry fee is 50 gold,
-<ce> and you would earn 100 if you won a round. Do you enroll?
+<ce> Чтобы хоть как-то развлечься, крестьяне
+<ce> устраивают поединки на деревянных рапирах.
+<ce> Они выглядят не особенно искусными в этом,
+<ce> хотя некоторые из них, похоже, знают, что делают.
+<ce> Вступительный взнос - 50 золотых, а за победу
+<ce> в раунде вы получите 100. Хотите записаться?
 
 Message:  1011
-<ce> You move on and let the peasants have their games.
+<ce> Вы проходите мимо, а крестьяне пусть дальше играют в свои игры.
 
 Message:  1012
-<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: LONG BLADE)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Длинные клинки)
 <ce>
-<ce> You are inducted into a match against
-<ce> a =person1_ shortly thereafter.
-<ce> You grip the wooden rapier shakily and
-<ce> begin advancing toward your foe.
-<ce> However, as luck would have it, your opponent
-<ce> knows more than rudimentary swordsmanship.
-<ce> Though %g4 wooden sword doesn't cut deeply, it still hurts.
-<ce> You suffer a blow and are ejected from the match.
+<ce> Вскоре после этого =person1_ вызывает вас
+<ce> на поединок. Вы нервно сжимаете деревянную
+<ce> рапиру и начинаете наступать на своего
+<ce> противника. Однако, как назло, ваш противник
+<ce> гораздо более искусен во владении мечом, чем
+<ce> вы. Хотя деревянный меч и не наносит ран, он
+<ce> все равно бъет достаточно больно. Вы получаете
+<ce> несколько ударов и выбываете из поединка.
 <--->
-<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: LONG BLADE)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Длинные клинки)
 <ce>
-<ce> You are inducted into a match against
-<ce> a =person2_ shortly thereafter.
-<ce> You grip the wooden rapier shakily and
-<ce> begin advancing toward your foe.
-<ce> However, as luck would have it, your opponent
-<ce> knows more than rudimentary swordsmanship.
-<ce> Though %g4 wooden sword doesn't cut deeply, it still hurts.
-<ce> You suffer a blow and are ejected from the match.
+<ce> Вскоре после этого =person2_ вызывает вас
+<ce> на поединок. Вы нервно сжимаете деревянную
+<ce> рапиру и начинаете наступать на своего
+<ce> противника. Однако, как назло, ваш противник
+<ce> гораздо более искусен во владении мечом, чем
+<ce> вы. Хотя деревянный меч и не наносит ран, он
+<ce> все равно бъет достаточно больно. Вы получаете
+<ce> несколько ударов и выбываете из поединка.
 <--->
-<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: LONG BLADE)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Длинные клинки)
 <ce>
-<ce> You are inducted into a match against
-<ce> a =person3_ shortly thereafter.
-<ce> You grip the wooden rapier shakily and
-<ce> begin advancing toward your foe.
-<ce> However, as luck would have it, your opponent
-<ce> knows more than rudimentary swordsmanship.
-<ce> Though %g4 wooden sword doesn't cut deeply, it still hurts.
-<ce> You suffer a blow and are ejected from the match.
+<ce> Вскоре после этого =person3_ вызывает вас
+<ce> на поединок. Вы нервно сжимаете деревянную
+<ce> рапиру и начинаете наступать на своего
+<ce> противника. Однако, как назло, ваш противник
+<ce> гораздо более искусен во владении мечом, чем
+<ce> вы. Хотя деревянный меч и не наносит ран, он
+<ce> все равно бъет достаточно больно. Вы получаете
+<ce> несколько ударов и выбываете из поединка.
 <--->
-<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: LONG BLADE)
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА: Длинные клинки)
 <ce>
-<ce> You are inducted into a match against
-<ce> a =person4_ shortly thereafter.
-<ce> You grip the wooden rapier shakily and
-<ce> begin advancing toward your foe.
-<ce> However, as luck would have it, your opponent
-<ce> knows more than rudimentary swordsmanship.
-<ce> Though %g4 wooden sword doesn't cut deeply, it still hurts.
-<ce> You suffer a blow and are ejected from the match.
-<--->
+<ce> Вскоре после этого =person4_ вызывает вас
+<ce> на поединок. Вы нервно сжимаете деревянную
+<ce> рапиру и начинаете наступать на своего
+<ce> противника. Однако, как назло, ваш противник
+<ce> гораздо более искусен во владении мечом, чем
+<ce> вы. Хотя деревянный меч и не наносит ран, он
+<ce> все равно бъет достаточно больно. Вы получаете
+<ce> несколько ударов и выбываете из поединка.
 
 Message:  1013
-<ce> You're surprised to find you don't have 50 gold coins on hand.
-<ce> You'll have to wait until they do this again.
+<ce> Вы с удивлением обнаруживаете, что у вас нет 50 золотых.
+<ce> Придется подождать следующий турнир.
 
 QBN:
 

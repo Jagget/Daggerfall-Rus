@@ -1,61 +1,61 @@
 Quest: RLQloan10
-DisplayName: СМК: Loan 10
+DisplayName: СМК: Кредит 10
 -- Message panels
 QRC:
 
 QuestComplete:   [1004]
-<ce> "Yoo-hoo! %pcf! Wait for me!"
+<ce> "Э-ге-гей! %pcf! Подождите!"
 <ce>
-<ce> A spry messenger comes racing toward you.
+<ce> К вам бодро приближается гонец.
 <ce>
-<ce> "_merchant_ sends %g4 regards and thanks
-<ce> you infinitely for your kindness.
-<ce> Have the money %g1 promised".
+<ce> "_merchant_ шлет вам привет и безмерно
+<ce> благодарит за вашу доброту. Получите
+<ce> обещанные вам деньги".
 
 QuestLogEntry:  [1010]
 %qdt:
- I decided to loan 133 gold to a local merchant named
- _merchant_, who works at _store_.
- I was promised double the amount back within
- twelve hours' time.
+ У меня взяли в долг 133 золотых -
+ _merchant_, что работает в _store_.
+ Мне обещали вернуть двойную сумму
+ в течение 12 часов.
 
 Message:  1011
-<ce> You are accosted by a very nervous merchant.
+<ce> К вам обращается очень нервный человек.
 <ce>
-<ce> "Excuse me, hello, yes, %ra? My name
-<ce> is _merchant_, of _store_.
-<ce> A pleasure. Forgive my intrusion on
-<ce> your time, but I must ask.
-<ce> Could you temporarily spare 133 gold pieces?
-<ce> My store has just barely run its liquidity
-<ce> to the ground and an important payment is due
-<ce> today. I'll have you paid back double your
-<ce> money within twelve hours' time, I swear it!"
+<ce> "Прошу прощения, здравствуйте, %ra?
+<ce> Меня зовут _merchant_, мне принадлежит
+<ce> _store_. Очень приятно. Простите, что
+<ce> отнимаю у вас время, но мне необходимо
+<ce> спросить. Не могли бы вы временно
+<ce> выделить 133 золотых? Мой магазин едва
+<ce> не прогорел, а сегодня нужно внести
+<ce> очень важный платеж. Я верну вам двойную
+<ce> сумму в течение 12 часов, клянусь!"
 <ce>
-<ce> Do you loan 133 gold pieces to the merchant?
+<ce> Вы одолжите 133 золотых?
 
 Message:  1012
-<ce> _merchant_ turns away, crestfallen.
+<ce> _merchant_ удрученно отворачивается.
 <ce>
-<ce> "I do not blame you, %ra, for these
-<ce> are hard times. I will sort this matter
-<ce> out myself, have no fear".
+<ce> "Я не виню вас, %ra, ведь сейчас
+<ce> трудные времена. Не волнуйтесь,
+<ce> я %g2self разберусь с этим".
 
 Message:  1013
-<ce> "Oh yes! Yes yes yes! Thank you, thank
-<ce> you! Yes, I'll take that. Where do you plan
-<ce> to be in twelve hours? I'll have it in
-<ce> your hands, by sweet %god! I'll not forget this!"
+<ce> "О да! Да, да, да! Спасибо, спасибо! Вы меня
+<ce> очень выручили. Где вы планируете быть через
+<ce> 12 часов? Я вам верну все, что обещал, %god
+<ce> покарай меня, если это не так! Я этого не забуду!"
 
 Message:  1014
-<ce> You thumb around your things but do not find
-<ce> 133 gold pieces ready at hand. _merchant_
-<ce> groans in exasperation and thanks you
-<ce> for your time.
+<ce> Вы роетесь в своих вещах, но не находите
+<ce> под рукой 133 золотых. _merchant_
+<ce> стонет в отчаянии и благодарит вас за
+<ce> потраченное время.
 
 Message:  1015
-<ce> Twelve hours are up, and your money is not forthcoming.
-<ce> It seems you've been had.
+<ce> 12 часов истекли, а денег вы так и не дождались.
+<ce> Похоже, вас обманули.
 
 QBN:
 
