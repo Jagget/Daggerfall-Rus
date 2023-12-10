@@ -1,16 +1,5 @@
 Перевод "Daggerfall Quest Pack 1" от Jay_H
 
-* Commoner (22/22)
-* DarkBrotherhood (31/31)
-* FightersGuild (0/52)
-* KnightlyOrders (49/49)
-* MagesGuild (32/32)
-* Misc (33/33)
-* Noble (4/4)
-* Temples (15/15)
-* ThievesGuild (33/33)
-
-
 УСТАНОВКА:
 
 Распакуй архив в папку \DaggerfallUnity_Data\StreamingAssets
@@ -18,7 +7,6 @@
 УДАЛЕНИЕ:
 
 Удали папку QP1 из папки \DaggerfallUnity_Data\StreamingAssets\QuestPacks
-
 
 * В некоторые квесты были внедрены проверки навыков.
 Примерный формат - "ПРОВЕРКА НАВЫКА: ДА: Жаргон, очень высокий уровень".
