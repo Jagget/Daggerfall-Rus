@@ -1,0 +1,21 @@
+{
+    "ModTitle": "UncannyUI.RU",
+    "ModVersion": "1.0",
+    "ModAuthor": "Uncanny (translated by Jagget)",
+    "DFUnity_Version": "0.16.2",
+    "ModDescription": "UncannyUI in Russian",
+    "GUID": "445aa4d3-6912-4c0d-bd92-d642bedca901",
+    "Files": [
+        "Assets/UncannyMods/UncannyUI/modsettings.json",
+        "Assets/UncannyMods/UncannyUI/UncannyTalkWindow.cs",
+        "Assets/UncannyMods/UncannyUI/UncannyInventoryWindow.cs",
+        "Assets/UncannyMods/UncannyUI/UncannyUILoader.cs",
+        "Assets/UncannyUI.dfmod.json",
+        "Assets/UncannyMods/UncannyUI/UncannyRestWindow.cs",
+        "Assets/UncannyMods/UncannyUI/UI/uncanny_rest.png",
+        "Assets/UncannyMods/UncannyUI/UI/uncanny_inventoryh.png",
+        "Assets/UncannyMods/UncannyUI/UI/uncanny_inventory.png",
+        "Assets/UncannyMods/UncannyUI/UI/uncanny_dialouge.png",
+        "Assets/UncannyMods/UncannyUI/textdatabase.txt"
+    ]
+}
