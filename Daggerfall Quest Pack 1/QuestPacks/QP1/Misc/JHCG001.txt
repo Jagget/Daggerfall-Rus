@@ -44,10 +44,11 @@ Message:  1011
   примерное расположение на вашей карте, если вы встретитесь
   со мной. Нам нужно, чтобы это было сделано за =timer_ дней.
 <ce>
+                _place_
+                ___place_, ____place_
                 _qg_
                 Исследователь, полевой офицер
                 Ассоциация Картографов
-                ___place_, ____place_
 
 Message:  1012
 <ce> %pcf! Как приятно вас видеть. Кажется,
@@ -132,7 +133,7 @@ _reminder_ task:
 
 _victory_ task:
     when _qgclicked_ and _found_
-   start quest JHCGENT1
+    start quest JHCGENT1
     give pc _reward_
     end quest
 
