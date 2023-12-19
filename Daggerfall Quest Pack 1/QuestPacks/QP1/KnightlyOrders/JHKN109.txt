@@ -1,0 +1,77 @@
+Quest: JHKN109
+DisplayName: Зов мертвых
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> У нас есть для вас задание. Поступили сообщения о призраке
+<ce> в руинах ___dung_. Найдите духа и изгоните его.
+<ce> Это задание имеет решающее значение для безопасности гробницы.
+
+RefuseQuest:  [1001]
+<ce> Не сомневаюсь, что у вас есть дела поважнее.
+
+AcceptQuest:  [1002]
+<ce> ___dung_ находится на %di отсюда. Давайте сюда вашу карту,
+<ce> я отмечу его местоположение. Вернитесь в течение =timer_ дней,
+<ce> иначе придется искать вам замену. Помните, что это
+<ce> могущественный дух, возьмите с собой подходящее оружие.
+
+QuestFail:  [1003]
+<ce> Вы уже должны были сообщить в __questgiver_ об изгнании духа.
+
+QuestComplete:  [1004]
+<ce> Отлично! Всегда приятно, когда вы возвращаетесь с задания
+<ce> с хорошими новостями. Дух изгнан, и мы, создания из плоти,
+<ce> можем спать спокойно, зная, что он больше не вернется.
+
+Message:  1010
+<ce> "Сгинь! Мое время еще не пришло!"
+
+Message:  1011
+<ce> Этот мрачный призрак больше не вернется.
+
+Message:  1030
+%qdt:
+ __questgiver_ поручили мне
+ уничтожить призрака в ___dung_.
+ У меня есть =timer_ дней, чтобы доложить
+ о своем успехе в ___questgiver_.
+
+QBN:
+Person _questgiver_ group Questor male
+
+Clock _timer_ 00:00 0 flag 17 range 0 2
+
+Place _dung_ remote dungeon6
+
+Foe _enemy_ is Wraith
+
+--	Quest start-up:
+	start timer _timer_
+	log 1030 step 0
+	reveal _dung_
+  place foe _enemy_ at _dung_
+
+_inj_ task:
+    clicked foe _enemy_
+    injured _enemy_
+    say 1010
+    change foe _enemy_ infighting true
+
+_slain_ task:
+    killed _enemy_
+    say 1011
+
+_victory_ task:
+	when _qgclicked_ and _slain_
+	give pc nothing
+	legal repute +4
+	end quest
+
+_qgclicked_ task:
+	clicked npc _questgiver_
+
+_timer_ task:
+    say 1003
+	end quest

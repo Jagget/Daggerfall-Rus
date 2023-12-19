@@ -1,0 +1,28 @@
+Quest: JHTGC01
+DisplayName: Гильдия Воров. Последствия. Квест 1
+-- Message panels
+-- used in TG104, repeatable
+QRC:
+
+QuestComplete:   [1004]
+<ce>  Вы случайно натыкаетесь на листовку с вашим приблизительным
+<ce>  портретом. В ней говорится следующее:
+<ce>
+<ce>  "Разыскивается: %ra, за кражу ценного документа
+<ce>  из дворца в провинции ____any_.
+<ce>  Если увидите %pg3, немедленно сообщите страже!"
+<ce>
+<ce>  Если повезет, люди проигнорируют и листовку и вас.
+
+QBN:
+
+Clock _endtimer_ 1:00 5:00
+
+Place _any_ remote house
+
+--	Quest start-up:
+    start timer _endtimer_
+
+_endtimer_ task:
+    say 1004
+    end quest
