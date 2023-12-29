@@ -657,22 +657,24 @@ trapHumanoid,Ловушка не действует на гуманоидов.
 trapSuccess,Душа в ловушке.
 trapFail,Ловушка не сработала.
 trapNoneEmpty,У вас нет пустых ловушек для души!
-stamina,Выносливость
-orcStrength,Сила орка
-healing,Исцеление
-restorePower,Восстановление энергии
-resistFire,Сопротивление огню
-resistFrost,Сопротивление морозу
-resistShock,Сопротивление шоку
+
+chameleonForm,Форма хамелеона
 cureDisease,Излечение болезни
-slowFalling,Замедленное падение
+curePoison,Излечение отравления
+healing,Исцеление
 healTrue,Истинное исцеление
 levitation,Левитация
-resistPoison,Сопротивление яду
-curePoison,Вылечить отравление
-chameleonForm,Форма хамелеона
-shadowForm,Форма тени
+orcStrength,Сила орка
 purification,Очищение
+resistFire,Сопротивление огню
+resistFrost,Сопротивление морозу
+resistPoison,Сопротивление яду
+resistShock,Сопротивление шоку
+restorePower,Восстановление энергии
+shadowForm,Форма тени
+slowFalling,Замедленное падение
+stamina,Выносливость
+
 LeatherCuirass,Кожаная кираса
 LeatherGauntlets,Кожаные перчатки
 LeatherGreaves,Кожаные поножи
