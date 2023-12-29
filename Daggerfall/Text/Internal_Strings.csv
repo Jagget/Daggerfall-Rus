@@ -661,12 +661,12 @@ stamina,Выносливость
 orcStrength,Сила орка
 healing,Исцеление
 restorePower,Восстановление энергии
-resistFire,Сопротивляйтесь огню
-resistFrost,Сопротивляйтесь морозу
-resistShock,Сопротивляться шоку
-cureDisease,Болезнь излечения
+resistFire,Сопротивление огню
+resistFrost,Сопротивление морозу
+resistShock,Сопротивление шоку
+cureDisease,Излечение болезни
 slowFalling,Замедленное падение
-healTrue,Исцеление истинное
+healTrue,Истинное исцеление
 levitation,Левитация
 resistPoison,Сопротивление яду
 curePoison,Вылечить отравление
