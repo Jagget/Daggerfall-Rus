@@ -31,6 +31,10 @@ namespace DaggerfallWorkshop.Game.UserInterfaceWindows
         public static string LabelUse = UncannyUILoader.Instance.GetMod().Localize("Use");
         public static string LabelInfo = UncannyUILoader.Instance.GetMod().Localize("Info");
         public static string LabelExit = UncannyUILoader.Instance.GetMod().Localize("Exit");
+        public static string LabelWeaponsAndArmorButtonTooltip = UncannyUILoader.Instance.GetMod().Localize("weaponsAndArmorButtonTooltip");
+        public static string LabelMagicItemsButtonTooltip = UncannyUILoader.Instance.GetMod().Localize("magicItemsButtonTooltip");
+        public static string LabelClothingAndMiscButtonTooltip = UncannyUILoader.Instance.GetMod().Localize("clothingAndMiscButtonTooltip");
+        public static string LabelIngredientsButtonTooltip = UncannyUILoader.Instance.GetMod().Localize("ingredientsButtonTooltip");
 
         private DaggerfallUnityItem stackItem;
         private ItemCollection stackFrom;
@@ -45,7 +49,7 @@ namespace DaggerfallWorkshop.Game.UserInterfaceWindows
         private int maxAmount;
 
         Button remoteButton;
-        Rect remoteButtonRect = new Rect(275, 10, 23, 19);
+        Rect remoteButtonRect = new Rect(274, 10, 23, 18);
 
         readonly Rect[] itemLocalButtonRects = new Rect[]
         {
@@ -131,19 +135,19 @@ namespace DaggerfallWorkshop.Game.UserInterfaceWindows
             remoteItemListScrollerRect = new Rect(265, 29, 55, 132);
             remoteItemListRect = new Rect(9, 0, 46, 132);
 
-            wagonButtonRect = new Rect(297, 9, 23, 19);
+            wagonButtonRect = new Rect(297, 10, 23, 18);
 
             itemInfoPanelRect = new Rect(166, 165, 75, 32);
 
-            weaponsAndArmorRect = new Rect(172, 8, 23, 19);
-            magicItemsRect = new Rect(195, 8, 23, 19);
-            clothingAndMiscRect = new Rect(218, 8, 23, 19);
-            ingredientsRect = new Rect(241, 8, 23, 19);
+            weaponsAndArmorRect = new Rect(172, 10, 23, 18);
+            magicItemsRect = new Rect(195, 10, 23, 18);
+            clothingAndMiscRect = new Rect(218, 10, 23, 18);
+            ingredientsRect = new Rect(241, 10, 23, 18);
 
-            equipButtonRect = new Rect(243, 163, 32, 10);
-            useButtonRect = new Rect(243, 175, 32, 10);
-            infoButtonRect = new Rect(243, 187, 32, 10);
-            exitButtonRect = new Rect(285, 187, 32, 11); //make the exit button larger to center the text better
+            equipButtonRect = new Rect(243, 163, 31, 10);
+            useButtonRect = new Rect(243, 175, 31, 10);
+            infoButtonRect = new Rect(243, 187, 31, 10);
+            exitButtonRect = new Rect(284, 186, 33, 12); //make the exit button larger to center the text better
 
             Panel characterNamePanel = DaggerfallUI.AddPanel(characterNameRect, NativePanel);
             characterNameLabel = DaggerfallUI.AddDefaultShadowedTextLabel(Vector2.zero, characterNamePanel);
@@ -161,7 +165,7 @@ namespace DaggerfallWorkshop.Game.UserInterfaceWindows
             wagonCarryWeightLabel = DaggerfallUI.AddDefaultShadowedTextLabel(wagonCarryWeightPos, NativePanel);
             wagonCarryWeightLabel.TextColor = DaggerfallUI.DaggerfallUnityDefaultToolTipTextColor;
 
-            goldButtonRect = new Rect(166, 0, 55, 10);
+            goldButtonRect = new Rect(163, 0, 55, 10);
 
             // Load all the textures used by inventory system
             LoadTextures();
@@ -180,6 +184,7 @@ namespace DaggerfallWorkshop.Game.UserInterfaceWindows
 
             // Setup UI
             SetupTabPageButtons();
+            SetupTabPageButtonTooltips();
             SetupActionButtons();
             OverrideSetupItemListScrollers();
             SetupAccessoryElements();
@@ -632,6 +637,21 @@ namespace DaggerfallWorkshop.Game.UserInterfaceWindows
             localItemListScroller.ResetScroll();
             FilterLocalItems();
             localItemListScroller.Items = localItemsFiltered;
+        }
+
+        void SetupTabPageButtonTooltips()
+        {
+            weaponsAndArmorButton.ToolTip = defaultToolTip;
+            weaponsAndArmorButton.ToolTipText = UncannyInventoryWindow.LabelWeaponsAndArmorButtonTooltip;
+
+            magicItemsButton.ToolTip = defaultToolTip;
+            magicItemsButton.ToolTipText = UncannyInventoryWindow.LabelMagicItemsButtonTooltip;
+
+            clothingAndMiscButton.ToolTip = defaultToolTip;
+            clothingAndMiscButton.ToolTipText = UncannyInventoryWindow.LabelClothingAndMiscButtonTooltip;
+
+            ingredientsButton.ToolTip = defaultToolTip;
+            ingredientsButton.ToolTipText = UncannyInventoryWindow.LabelIngredientsButtonTooltip;
         }
 
         protected override void SelectActionMode(ActionModes mode)

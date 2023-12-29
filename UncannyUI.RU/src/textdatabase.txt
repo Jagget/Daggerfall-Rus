@@ -11,6 +11,10 @@ Equip, "Equip"
 Use, "Use"
 Info, "Info"
 Exit, "Exit"
+weaponsAndArmorButtonTooltip, "Weapons And Armor"
+magicItemsButtonTooltip, "Magic Items"
+clothingAndMiscButtonTooltip, "Clothing And Misc"
+ingredientsButtonTooltip, "Ingredients"
 
 - Dialogue
 Goodbye, "Good bye"
