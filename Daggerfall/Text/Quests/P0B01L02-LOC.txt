@@ -35,6 +35,7 @@ __vampire_, что в городе ___vampire_.
 <ce>
 Ваш друг в Смерти
     _vampire_ рода %vam
+<ce> ----
 
 RefuseQuest:  [1001]
 Error: Dagtext 1001 Called.

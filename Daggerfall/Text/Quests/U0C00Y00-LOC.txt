@@ -120,6 +120,7 @@ Message:  1040
 <ce>
     _mfriend_
     ___mfriend_
+<ce> ----
 
 Message:  1041
 <ce> Откуда ты здесь ... %oth!

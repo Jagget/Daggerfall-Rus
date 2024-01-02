@@ -38,6 +38,7 @@ QuestorOffer:  [1000]
 Хотя мы очень надеемся на ваше согласие.
 <ce>
 Семья %vam, _questgiver_.
+<ce> ----
 
 RefuseQuest:  [1001]
 Error: Questtext 1001 Called!

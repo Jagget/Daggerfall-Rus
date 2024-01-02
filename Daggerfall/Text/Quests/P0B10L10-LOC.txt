@@ -64,6 +64,7 @@ QuestLogEntry:  [1010]
 Всегда ваш друг в смерти,
 <ce>
     _vamp_
+<ce> ----
 
 Message:  1011
 %qdt:

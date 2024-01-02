@@ -128,6 +128,7 @@ Message:  1013
 Воистину Ваш,
 <ce>
 _patsy_
+<ce> ----
 
 Message:  1014
   Твоя цель - %pcn, %ra авантюрист
@@ -137,6 +138,7 @@ Message:  1014
 Это далеко не водянистая медуза.
 <ce>
 -- _patsy_
+<ce> ----
 
 --eliminating unmarked white spaces. this problem was patched out in previous versions but i still prefer to have lines with blank spaces filled just in case.
 
@@ -212,6 +214,7 @@ ___qgiver_ немедленно. Давайте быстро туда и
 больше нескольких дней.
 <ce>
 -- _patsy_
+<ce> ----
 
 Message:  1023
 <ce> Вы мгновенно понимаете, что
@@ -228,6 +231,7 @@ ___mondung2_. Мы поговорим, что делать
 дальше, когда вы прибудете.
 <ce>
 -- _patsy_
+<ce> ----
 
 Message:  1026
 <ce> На куске _rock_ виднеется слепок,
@@ -325,6 +329,7 @@ Message:  1036
 Эта информация не бесплатна.
 <ce>
 _hooker_
+<ce> ----
 
 Message:  1037
 <ce> "Это от _hooker_," раздался голос

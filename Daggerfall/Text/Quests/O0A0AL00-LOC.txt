@@ -148,6 +148,7 @@ Message:  1018
 Message:  1019
 _thiefmember_
 ___endbuilding_
+<ce> ----
 
 Message:  1024
 %pcn,

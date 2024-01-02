@@ -94,6 +94,7 @@ Message:  1011
 ___contact2_.
 <ce>
 _contact2_
+<ce> ----
 
 Message:  1012
 <ce> Конверт лег вам в руки

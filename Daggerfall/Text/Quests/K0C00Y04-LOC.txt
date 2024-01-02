@@ -101,6 +101,7 @@ Message:  1011
 чести в полном объеме.
 <ce>
 _qgiver_ из ___qgiver_
+<ce> ----
 
 Message:  1012
 <ce> Вы, эээ, _qgiver_? Должно быть

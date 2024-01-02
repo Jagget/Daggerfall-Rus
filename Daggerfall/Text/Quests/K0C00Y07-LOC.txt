@@ -157,6 +157,7 @@ __qgiver_ в ___qgiver_,
 для тебя.
 <ce>
 _kidnapper_
+<ce> ----
 
 Message:  1016
 <ce> %pcf, конечно же я знаю,
