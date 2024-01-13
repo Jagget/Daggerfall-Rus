@@ -24,6 +24,7 @@ QuestorOffer:  [1000]
 
 RefuseQuest:  [1001]
 <ce> Печально.
+
 AcceptQuest:  [1002]
 <ce> Хорошо. Итак, этот маг -- %g зовут
 <ce> =mage_ -- смылся с некоторым
