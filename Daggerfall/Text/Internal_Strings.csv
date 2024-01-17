@@ -820,7 +820,7 @@ repairNote,Оставил {0} на ремонт в {1}.
 doesntNeedIdentify,Это не требует идентификации.
 goldAmount,{0} золотых
 goldWeight,Вес: {0} кг
-letterOfCredit,Вы получаете оплату по аккредитиву.
+letterOfCredit,Вы получаете оплату векселем.
 stealSuccess,Все получилось.
 stealFailure,Что-то пошло не так...
 cannotRemoveItem,Вы не можете снять этот предмет.
