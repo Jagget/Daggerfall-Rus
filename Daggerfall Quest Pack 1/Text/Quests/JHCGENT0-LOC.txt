@@ -1,0 +1,22 @@
+Quest: JHCGENT0
+DisplayName: Картографы. Выбор квеста 0
+QRC:
+
+QuestorOffer:  [1000]
+<ce> ERROR 1000 JHCGENT0
+
+RefuseQuest:  [1001]
+<ce> ERROR 1001 JHCGENT0
+
+AcceptQuest:  [1002]
+<ce> ERROR 1002 JHCGENT0
+
+QuestFail:  [1003]
+<ce> ERROR 1003 JHCGENT0
+
+QuestComplete:  [1004]
+<ce> ERROR 1004 JHCGENT0
+
+Message:  1010
+<ce> JHCGENT0: Pick one failure
+
