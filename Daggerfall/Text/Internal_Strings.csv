@@ -28,6 +28,7 @@ youCollectArrows,Вы выдергиваете свои стрелы из тру
 loiterHowManyHours,"Сколько часов бездельничать: "
 restHowManyHours,"Сколько часов отдыхать: "
 potionRecipeFor,Рецепт Зелья %po
+potionRecipeWeight,Вес: %kg кг
 potionOf,Зелье %po
 letterPrefix,"Письмо: "
 multipleAssignments,У вас несколько заданий...
