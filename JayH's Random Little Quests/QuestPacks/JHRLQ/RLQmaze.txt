@@ -4,65 +4,66 @@ DisplayName: СМК: Maze
 QRC:
 
 QuestComplete:   [1004]
-<ce> The man then marches off.
+<ce> Мужчина, судя по всему, доволен и удаляется по своим делам.
 
 Message:  1010
-<ce> A rather smug figure ambles around the area, showing off
-<ce> some piece of paper to passers-by. Eventually
-<ce> he comes into contact with you.
+<ce> Некий хвастун расхаживает по округе,
+<ce> демонстрируя прохожим бумажный листок.
+<ce> В конце концов, он подходит к вам.
 <ce>
-<ce> "Hail %ra! Got a bit of a trick for you.
-<ce> I've designed a truly perplexing maze that only
-<ce> the smartest of people will decipher in time.
-<ce> The faster you solve it, the more money you get.
-<ce> But if it takes you more than a minute,
-<ce> I win 100 gold from you instead. Give it a try, hmm?"
+<ce> "Здравствуйте, %ra! У меня для вас есть
+<ce> любопытное предложение. Я разработал чрезвычайно
+<ce> запутанный лабиринт, который под силу пройти
+<ce> за отведенное время только самым одаренным людям.
+<ce> Чем быстрее вы справитесь, тем больше получите.
+<ce> Но если вам потребуется больше минуты, я заберу
+<ce> у вас 100 золотых. Не желаете ли испытать свои силы?"
 
 Message:  1011
-<ce> You ignore the offer and move on. The fellow
-<ce> begins to accost other people in the area.
+<ce> Вы игнорируете его предложение и продолжаете
+<ce> свой путь. Мужчина пристает к другим людям.
 
 Message:  1012
-<ce> You grab the paper from him and show him, with
-<ce> lightning precision and speed, how to reach the exit
-<ce> from the entrance of the maze. Your total time is less
-<ce> than =number_ seconds. He looks dumbfounded.
-<ce> Almost accusing you of cheating, he maintains his
-<ce> dignity and pulls out some money for your reward
-<ce> in addition to the 100 gold he collected from you.
+<ce> Вы выхватываете у него бумажку и молниеносно демонстрируете,
+<ce> как пройти лабиринт от входа до выхода. Вам потребовалось
+<ce> менее чем =number_ секунд. Он ошеломлен. Будто бы подозревая
+<ce> вас в обмане, он все же извлекает некоторую сумму денег
+<ce> в качестве награды, помимо тех 100 золотых,
+<ce> которые вы ему дали.
 
 Message:  1013
-<ce> You take the paper and carefully trace the route from
-<ce> the end to the beginning. He watches you carefully
-<ce> for any signs of fraud. You take around twenty seconds
-<ce> to trace the right trail and satisfy his demand.
-<ce> He agrees that you did well and offers you some money
-<ce> in addition to the 100 gold he collected from you.
+<ce> Вы берете бумажку и аккуратно прослеживаете путь
+<ce> с конца к началу. Он внимательно следит за вами,
+<ce> чтобы вы не сжульничали. Вам требуется около двадцати секунд,
+<ce> чтобы найти верный путь и выполнить его условие.
+<ce> Он соглашается, что вы справились отлично, и предлагает
+<ce> вам небольшую сумму денег вдобавок к тем
+<ce> 100 золотым, которые вы ему дали.
 
 Message:  1014
-<ce> Perhaps you overestimated your intellect, for the maze
-<ce> looks much more complex up close. You try one path and
-<ce> another but encounter multiple failures. Still, you
-<ce> manage to complete it in just under 40 seconds.
-<ce> He politely applauds you and offers a small reward
-<ce> in addition to the 100 gold he collected from you.
+<ce> Возможно, вы несколько переоценили свои интеллектуальные
+<ce> способности, потому что вблизи лабиринт оказался куда сложнее.
+<ce> Вы пробуете разные пути, но постоянно натыкаетесь на тупики.
+<ce> Тем не менее, вам удается пройти его менее чем за 40 секунд.
+<ce> Он вежливо аплодирует вам и предлагает вам небольшую награду,
+<ce> помимо тех 100 золотых, которые вы ему дали.
 
 Message:  1015
-<ce> You're almost certainly in over your head, for this
-<ce> maze is unlike any other you've seen in your life.
-<ce> You run into one dead end after another.
-<ce> Frustration mounts as you fail to see how it's
-<ce> even possible. Finally, a small bell rings to announce
-<ce> that your time has run out. The man gleefully
-<ce> collects the 100 gold as previously determined.
+<ce> Вы, похоже, оказались в затруднительном положении,
+<ce> потому что этот лабиринт не похож ни на один из тех,
+<ce> что вы видели раньше. Вы натыкаетесь на тупики один за другим.
+<ce> Раздражение растет, потому что вы не понимаете, как его вообще
+<ce> можно пройти. Наконец, раздается звонок, оповещающий о том,
+<ce> что время истекло. Мужчина с радостью забирает 100 золотых,
+<ce> как и было договорено.
 
 Message:  1016
-<ce> You fail to produce the 100 gold needed to try the maze.
-<ce> The man scowls at you.
+<ce> У вас недостаточно 100 золотых, чтобы попробовать
+<ce> пройти лабиринт. Мужчина хмурится на вас.
 <ce>
-<ce> "Thought to cheat me, eh? Not today".
+<ce> "Вы думали обмануть меня? Не в этот раз."
 <ce>
-<ce> In a huff he marches off.
+<ce> Он сердито уходит.
 
 QBN:
 

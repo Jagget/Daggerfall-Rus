@@ -1,0 +1,79 @@
+Quest: JHFG101
+DisplayName: Доставка бинтов
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Короче, тут у нас простенькое поручение, да и платят
+<ce> за него гроши. Тренер наверху скоро останется без бинтов,
+<ce> надо ему свежих притащить. Откуда - без разницы, главное,
+<ce> чтоб целые были. Возьметесь?
+
+RefuseQuest:  [1001]
+<ce> Ну да, не разбогатеешь, понимаю.
+
+AcceptQuest:  [1002]
+<ce> Ладно, удивили вы меня малость. Но вообще дело простое:
+<ce> пять бинтов. Магазины, ломбарды, павшие бандиты - неважно
+<ce> откуда. Через два дня они у нас закончатся, так что
+<ce> постарайтесь вернуться раньше. Плачу, конечно, копейки,
+<ce> но зато у гильдии в плюсе останетесь. Как думаете,
+<ce> стоит оно того? Время покажет. Берегите себя.
+
+QuestFail:  [1003]
+<ce> _questgiver_ все еще ждет те пять бинтов,
+<ce> что вы должны были доставить в ___questgiver_
+
+QuestComplete:  [1004]
+<ce> Ну, давайте считать... раз, два... пять, молодец!
+<ce> Знаете, за такие мелочи мы вас и ценим. Потом вы,
+<ce> конечно, будете и драконов и нежить крошить, но про
+<ce> нашу скромную гильдию и добрые дела не забывайте.
+<ce> Ладно, хватит трепаться. Держите, заработали.
+
+Message:  1010
+<ce> Пять бинтов у вас, надо отнести их в Гильдию Бойцов.
+
+Message:  1011
+<ce> Бинтов-то у вас нет? Золото без них не дам, напарник.
+
+Message:  1030
+%qdt:
+ __questgiver_ из ___questgiver_ нуждается в пяти
+ обычных бинтах и побыстрее, всего =timer_ дней
+ осталось. Вроде как в магазинах и ломбардах найти можно.
+
+QBN:
+
+Person _questgiver_ group Questor male
+
+Item _reward_ gold range 25 to 40
+
+Clock _timer_ 2.00:00
+
+--   Quest start-up:
+   start timer _timer_
+   log 1030 step 0
+
+_got_ task:
+   player possesses 5 items class 9 subclass 249
+   say 1010
+--uses templateindex. see Interkarma/daggerfall-unity/blob/master/Assets/Scripts/Game/Items/ItemEnums.cs
+
+_qgclicked_ task:
+   clicked npc _questgiver_
+
+_clearclick_ task:
+   when _qgclicked_ and not _got_
+   say 1011
+   clear _qgclicked_ _clearclick_
+
+_victory_ task:
+    when _qgclicked_ and _got_
+    player handsover 5 items class 9 subclass 249
+    give pc _reward_
+    end quest
+
+_timer_ task:
+   say 1003
+   end quest

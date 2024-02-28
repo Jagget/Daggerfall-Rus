@@ -1,0 +1,70 @@
+Quest: JHTG125
+DisplayName: Проклятая книга
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Есть ли у вас враги, %pct? Может, за вами
+<ce> охотится наемник? Если так, откажитесь от этого задания.
+<ce> Оно опасно только для разыскиваемых... или тех,
+<ce> кто плавится на солнце. Иначе это легкий способ
+<ce> срубить кучу золота. Хотите простую доставку?
+
+RefuseQuest:  [1001]
+<ce> Хорошо. Кто-то другой на этом разбогатеет.
+
+AcceptQuest:  [1002]
+<ce> Вот. Возьмите эту книгу. И не говорите,
+<ce> что вас не предупреждали. Пока _person_
+<ce> в ___place_ не получит ее, вам будет очень плохо.
+<ce> Это часть риска, но мне кажется, что награда
+<ce> в =reward_ золотых сотрет эту гримасу с вашего лица.
+<ce> По крайней мере, когда все закончится. Доставьте книгу
+<ce> туда до истечения =timer_ д., иначе эта книга сожжет вас.
+
+QuestFail:  [1003]
+<ce> К этому времени книга уже должна была быть у _person_.
+
+QuestComplete:   [1004]
+<ce> %oth, хотелось бы мне никогда не иметь дело
+<ce> с подобным. Меня ждет тяжелая ночь. Деньги? Хорошо.
+<ce> Возьмите. Оставьте меня одного, сейчас моя голова
+<ce> сильно разболится.
+
+Message:  1030
+%qdt:
+ __questgiver_ из ___questgiver_ дали мне проклятую
+ книгу и сказали отнести ее к _person_,
+ что находится в ___place_. Не знаю,
+ что с ней не так, но она причиняет вред.
+ У меня есть =timer_ д.
+
+QBN:
+Item _reward_ gold range 600 to 900
+Item _tome_ item class 10 subclass 12
+
+Person _questgiver_ group Questor male
+Person _person_ faction The_Thieves_Guild
+
+Place _place_ remote tavern
+
+Clock _timer_ 00:00 0 flag 17 range 0 2
+
+--	Quest start-up:
+    start timer _timer_
+    log 1030 step 0
+    get item _tome_
+    place npc _person_ at _place_
+
+_holding_ task:
+    player possesses 1 items class 10 subclass 271
+    reduce player health by 20 every 1 seconds
+
+_pcgetsgold_ task:
+    toting _tome_ and _person_ clicked
+    give pc _reward_
+    end quest
+
+_timer_ task:
+    say 1003
+    end quest
