@@ -5,7 +5,7 @@ QRC:
 
 QuestorOffer:  [1000]
 <ce> А, хорошо, что вы здесь. Нам нужно послать
-<ce> кого-нибудь надежного в___rsd_, чтобы он
+<ce> кого-нибудь надежного в___res_, чтобы он
 <ce> получил пожертвование и принес его сюда.
 <ce> Сделаете ли вы это для нас?
 
@@ -20,16 +20,16 @@ AcceptQuest:  [1002]
 <ce> о вооруженном нападении, как только деньги
 <ce> оказывались у них в руках. Бегите или защищайтесь,
 <ce> как хотите. Найдите нашего спонсора,
-<ce> _dnr_, в _rsd_.
+<ce> _donor_, в _res_.
 <ce> Сообщите %g2 эту кодовую фразу: "_pw_". Деньги
 <ce> понадобятся нам здесь через =timer_ дней.
 
 QuestFail:  [1003]
 <ce> В храме ожидали, что к этому моменту вы уже
-<ce> вернетесь в ___qstgvr_.
+<ce> вернетесь в ___questgiver_.
 
 QuestComplete:  [1004]
-<ce> Ни соблазн украсть у _dnr_, ни возможность продать
+<ce> Ни соблазн украсть у _donor_, ни возможность продать
 <ce> его взнос не смогли вас поколебать.
 <ce> У вас есть будущее среди нас, %pcf.
 <ce> Возьмите это на расходы.
@@ -41,10 +41,10 @@ QuestorPostFailure:  [1009]
 Message:  1020
 <ce> Да, "_pw_", очень хорошо. Я вложил
 <ce> пожертвование в этот пакет. Передайте
-<ce> привет _qstgvr_. Мы дружим
+<ce> привет _questgiver_. Мы дружим
 <ce> уже несколько лет. Надо будет
 <ce> встретиться в следующий раз,
-<ce> когда буду в ___qstgvr_. Будьте
+<ce> когда буду в ___questgiver_. Будьте
 <ce> осторожны там.
 
 Message:  1025
@@ -66,38 +66,38 @@ Message:  1027
 Message:  1028
 <ce> Пакет не запечатан каким-либо значимым образом. Вы
 <ce> можете легко развязать узел и забрать деньги себе.
-<ce> Перенаправите ли вы пожертвование _dnr_
+<ce> Перенаправите ли вы пожертвование _donor_
 <ce> в свой собственный денежный мешочек?
 
 Message:  1029
-<ce> Внутри вы находите =stl_ золотых.
+<ce> Внутри вы находите =steal_ золотых.
 
 Message:  1030
 %qdt:
- _qstgvr_ отправил меня в ___rsd_,
+ _questgiver_ отправил меня в ___res_,
  чтобы забрать пожертвование
- от _dnr_, который должен находиться
- в _rsd_. Я должен надежно охранять
- его и вернуться в ___qstgvr_ через
+ от _donor_, который должен находиться
+ в _res_. Я должен надежно охранять
+ его и вернуться в ___questgiver_ через
  =timer_ дней.
 
 Message:  1031
-<ce> __qstgvr_ должен очень доверять вам, чтобы позволить
+<ce> __questgiver_ должен очень доверять вам, чтобы позволить
 <ce> обращаться с такими деньгами без охраны. Вы
 <ce> закрываете сумку и больше не думаете об этом.
 
 QBN:
-Item _mny_ large_sack
+Item _money_ large_sack
 Item _pw_ small_plant
-Item _rwrd_ gold range 40 to 60
-Item _stl_ gold range 600 to 800
+Item _reward_ gold range 40 to 60
+Item _steal_ gold range 600 to 800
 
-Person _qstgvr_ group Questor
-Person _dnr_ group Noble
+Person _questgiver_ group Questor
+Person _donor_ group Noble
 
-Place _rsd_ remote random
+Place _res_ remote random
 
-Foe _enemy1_ is 2 Thief
+Foe _enemy_ is 2 Thief
 
 Clock _timer_ 00:00 0 flag 17 range 0 2
 Clock _delay_ 00:05 00:09
@@ -105,42 +105,42 @@ Clock _delay_ 00:05 00:09
 --	Quest start-up:
   start timer _timer_
   log 1030 step 0
-  place npc _dnr_ at _rsd_
+  place npc _donor_ at _res_
 
 _receive_ task:
-  clicked npc _dnr_
+  clicked npc _donor_
   say 1020
-  get item _mny_
+  get item _money_
   start timer _delay_
-  _mny_ used do _question_
+  _money_ used do _question_
 
 _question_ task:
   prompt 1028 yes _thief_ no _dud_
 
 _thief_ task:
   say 1029
-  get item _stl_
-  make _stl_ permanent
-  take _mny_ from pc
-  change repute with _qstgvr_ by -3
+  get item _steal_
+  make _steal_ permanent
+  take _money_ from pc
+  change repute with _questgiver_ by -3
   end quest
 
 _dud_ task:
   say 1031
 
 _delay_ task:
-  create foe _enemy1_ every 300 minutes 3 times with 25% success
+  create foe _enemy_ every 300 minutes 3 times with 25% success
 
 _choice_ task:
-  injured _enemy1_
-  clicked foe _enemy1_
+  injured _enemy_
+  clicked foe _enemy_
   prompt 1025 yes _altend_ no _refuse_
 
 _altend_ task:
   say 1027
-  restrain foe _enemy1_
-  remove foe _enemy1_
-  take _mny_ from pc
+  restrain foe _enemy_
+  remove foe _enemy_
+  take _money_ from pc
 -  start quest ????
   end quest
 
@@ -148,9 +148,9 @@ _refuse_ task:
   say 1026
 
 _victory_ task:
-  toting _mny_ and _qstgvr_ clicked
-  take _mny_ from pc
-  give pc _rwrd_
+  toting _money_ and _questgiver_ clicked
+  take _money_ from pc
+  give pc _reward_
   end quest
 
 _timer_ task:

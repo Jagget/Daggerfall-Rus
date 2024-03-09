@@ -24,7 +24,7 @@ AcceptQuest:  [1002]
 <ce> в ___loc1_, и _loc2_, который
 <ce> находится в ___loc2_. Справитесь
 <ce> с обеими, и я подарю вам
-<ce> волшебный _rwrd_ из своего
+<ce> волшебный _reward_ из своего
 <ce> личного хранилища. Займет это
 <ce> не более =timer_ дней. Не подведите
 <ce> меня, как это сделали они.
@@ -35,7 +35,7 @@ QuestFail:  [1003]
 QuestComplete:  [1004]
 <ce> Умно сработано, %pcf. Ваша работа позволяет
 <ce> мне спать по ночам. Пусть у вас будет
-<ce> _rwrd_, как мы и договаривались.
+<ce> _reward_, как мы и договаривались.
 
 Message:  1020
 <ce> Этого убийцы-неудачника больше нет.
@@ -54,7 +54,7 @@ Message:  1030
  в ___questgiver_ через
  =timer_ дней за своей
  наградой - зачарованным
- _rwrd_.
+ _reward_.
 
 Message:  1031
 %qdt:
@@ -71,12 +71,12 @@ Message:  1099
 <ce> их и убейте.
 
 QBN:
-Item _rwrd_ magic_item
+Item _reward_ magic_item
 
 Person _questgiver_ group Questor male
 
 Foe _assa_ is Assassin
-Foe _mrk_ is Acrobat
+Foe _mark_ is Acrobat
 
 Place _loc1_ remote random
 Place _loc2_ remote random
@@ -86,22 +86,22 @@ Clock _timer_ 30.00:00
 --	Quest start-up:
 	start timer _timer_
 	place foe _assa_ at _loc1_
-	place foe _mrk_ at _loc2_
+	place foe _mark_ at _loc2_
 	log 1030 step 0
 	change foe _assa_ infighting true
-	change foe _mrk_ infighting true
+	change foe _mark_ infighting true
 
 _aslain_ task:
 	killed 1 _assa_ saying 1020
 	log 1031 step 1
 
 _mslain_ task:
-	killed 1 _mrk_ saying 1021
+	killed 1 _mark_ saying 1021
 	log 1032 step 2
 
 _pcgetsgold_ task:
 	when _qgclicked_ and _aslain_ and _mslain_
-	give pc _rwrd_
+	give pc _reward_
 	end quest
 
 _qgclicked_ task:

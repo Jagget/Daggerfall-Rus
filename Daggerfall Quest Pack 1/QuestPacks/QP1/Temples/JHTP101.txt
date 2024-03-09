@@ -7,19 +7,19 @@ QuestorOffer:  [1000]
 <ce> %pct, независимо от ваших прошлых достижений и вашей
 <ce> истории все должны нести свою ношу в этом храме.
 <ce> Не отнесете ли вы кое-что из нашего учения
-<ce> потенциальному новообращенному в ___rsd_?
+<ce> потенциальному новообращенному в ___res_?
 
 RefuseQuest:  [1001]
 <ce> У вас совсем нет интереса к своим обязанностям?
 
 AcceptQuest:  [1002]
-<ce> Тогда отправляйтесь в путь. Вы найдете _cnvrt_ в _rsd_.
+<ce> Тогда отправляйтесь в путь. Вы найдете _convert_ в _res_.
 <ce> Мы не ожидаем, что вы будете читать %g2 проповедь.
 <ce> Вместо этого у нас есть этот готовый буклет, который вы
 <ce> можете передать, и мы будем считать это успехом
 <ce> с вашей стороны. Задача проста. Вернитесь сюда в течение
-<ce> =tmr_ дней, чтобы заслужить наше расположение.
-<ce> Счастливого пути в ___rsd_ вам.
+<ce> =timer_ дней, чтобы заслужить наше расположение.
+<ce> Счастливого пути в ___res_ вам.
 
 QuestFail:  [1003]
 <ce> В храме ожидали, что к этому моменту вы уже
@@ -42,30 +42,30 @@ Message:  1020
 Message:  1030
 %qdt:
  Я должен передать религиозный трактат
- _cnvrt_ в ___rsd_. _qgiver_ будет
+ _convert_ в ___res_. _qgiver_ будет
  ожидать моего возвращения
- в ___qgiver_ через =tmr_ дней.
+ в ___qgiver_ через =timer_ дней.
 
 QBN:
-Item _trct_ letter
+Item _tract_ letter
 
 Person _qgiver_ group Questor
-Person _cnvrt_ group Local_4.0
+Person _convert_ group Local_4.0
 
-Place _rsd_ remote house
+Place _res_ remote house
 
-Clock _tmr_ 00:00 0 flag 17 range 0 2
+Clock _timer_ 00:00 0 flag 17 range 0 2
 
 --	Quest start-up:
-	start timer _tmr_
+	start timer _timer_
 	log 1030 step 0
-	place npc _cnvrt_ at _rsd_
-	get item _trct_
+	place npc _convert_ at _res_
+	get item _tract_
 
 _deliver_ task:
-	toting _trct_ and _cnvrt_ clicked
+	toting _tract_ and _convert_ clicked
 	say 1020
-	take _trct_ from pc
+	take _tract_ from pc
 
 _victory_ task:
 	when _qgclicked_ and _deliver_
@@ -79,6 +79,6 @@ _clearclick_ task:
 	when _qgclicked_ and not _deliver_
 	clear _qgclicked_ _clearclick_
 
-_tmr_ task:
+_timer_ task:
 	say 1003
 	end quest

@@ -6,7 +6,7 @@ QRC:
 QuestorOffer:  [1000]
 <ce> %pcf, иногда я не знаю, почему продолжаю
 <ce> поддерживать некоторые из этих городов.
-<ce> Охранники в ___cptv_, очевидно,
+<ce> Охранники в ___captive_, очевидно,
 <ce> недостаточно компетентны, чтобы остановить
 <ce> рост преступности. Теперь я получаю
 <ce> сообщения о ночных нападениях на улицах.
@@ -18,7 +18,7 @@ RefuseQuest:  [1001]
 <ce> Гори оно все огнем.
 
 AcceptQuest:  [1002]
-<ce> Судя по всему, ___cptv_ переживает какой-то
+<ce> Судя по всему, ___captive_ переживает какой-то
 <ce> кризис, вызванный особо хорошо организованными
 <ce> преступниками. Никто не знает, сколько их там,
 <ce> но не надейтесь, что удастся истребить меньше
@@ -26,7 +26,7 @@ AcceptQuest:  [1002]
 <ce> Они появляются только ночью, так что
 <ce> найдите таверну, в которой сможете дождаться
 <ce> ночи. Я желаю услышать о вашем успехе
-<ce> в течение =tmr_ дней.
+<ce> в течение =timer_ дней.
 
 QuestFail:  [1003]
 <ce> Вы, городская стража, все вокруг.
@@ -46,28 +46,28 @@ Message:  1021
 
 Message:  1030
 %qdt:
- Мне дали =tmr_ дней, чтобы
- отправиться в ___cptv_ и покончить
+ Мне дали =timer_ дней, чтобы
+ отправиться в ___captive_ и покончить
  с преступной толпой, которая ночами
  шастает по городу. Я должен убить
  столько, сколько потребуется, чтобы
  остановить их, а затем вернуться
- в ___qgvr_ за своей наградой.
+ в ___qgiver_ за своей наградой.
 
 Message:  1099
 <ce> Мне нужна компетентная помощь,
-<ce> %pcf. Отправляйтесь в ___cptv_
-<ce> и убейте ночных бандитов. Я дал
-<ce> вам =tmr_ дней.
+<ce> %pcf. Отправляйтесь в ___captive_
+<ce> и убейте ночных бандитов.
+<ce> У вас всего =timer_ дней.
 
 QBN:
-Item _rwrd_ gold range 500 to 700
+Item _reward_ gold range 500 to 700
 
-Person _qgvr_ group Questor male
+Person _qgiver_ group Questor male
 
-Place _cptv_ remote city
+Place _captive_ remote city
 
-Clock _tmr_ 00:00 0 flag 17 range 0 2
+Clock _timer_ 00:00 0 flag 17 range 0 2
 
 Foe _enemy1_ is Burglar
 Foe _enemy2_ is Thief
@@ -75,9 +75,9 @@ Foe _enemy3_ is Rogue
 Foe _enemy4_ is Nightblade
 
 --	Quest start-up:
-	start timer _tmr_
+	start timer _timer_
 	log 1030 step 0
-	pc at _cptv_ set _city_
+	pc at _captive_ set _city_
 
 variable _city_
 _day_ task:
@@ -108,17 +108,17 @@ _slain_ task:
 	say 1021
 
 _qgclicked_ task:
-	clicked npc _qgvr_
+	clicked npc _qgiver_
 
 _clearclick_ task:
 	when _qgclicked_ and not _slain_
 	say 1099
 	clear _qgclicked_ _clearclick_
 
-_pcrwrd_ task:
+_pcreward_ task:
 	when _qgclicked_ and _slain_
-	give pc _rwrd_
+	give pc _reward_
 	end quest
 
-_tmr_ task:
+_timer_ task:
 	end quest

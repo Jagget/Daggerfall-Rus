@@ -1,8 +1,6 @@
 Quest: JHKN114
 DisplayName: Долги и взаимные расчеты
 -- Message panels
--- _owner_ = муж.
--- _debtor_ = муж.
 QRC:
 
 QuestorOffer:  [1000]
@@ -165,8 +163,8 @@ __debtor_, в пределах ___debtor_,
 
 QBN:
 Person _questgiver_ group Questor male local
-Person _owner_ faction The_Thieves_Guild male local
-Person _debtor_ faction Dibella male remote
+Person _owner_ faction The_Thieves_Guild local
+Person _debtor_ faction Dibella remote
 
 Item _dummy_ gold range 34 to 78
 Item _deed_ letter used 1027

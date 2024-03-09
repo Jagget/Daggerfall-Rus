@@ -208,7 +208,7 @@ Message:  1099
 QBN:
 Person _qgiver_ group Questor male
 Person _nec_ faction The_Mages_Guild male
-- Person _dummyn_ faction The_Necromancers
+Person _dummyn_ faction The_Necromancers
 
 Place _nhome_ local house
 

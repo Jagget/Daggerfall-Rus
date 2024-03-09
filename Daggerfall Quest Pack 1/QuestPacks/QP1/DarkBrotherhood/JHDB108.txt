@@ -4,9 +4,9 @@ DisplayName: В тонком воздухе
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Такие знатоки ремесла зачистки, как мы, время 
+<ce> Такие знатоки ремесла зачистки, как мы, время
 <ce> от времени должны принимать особые меры для
-<ce> обеспечения анонимности, чтобы в начале новой недели мы 
+<ce> обеспечения анонимности, чтобы в начале новой недели мы
 <ce> не обнаружили, что зал нашей гильдии превратился в пепел.
 <ce> У нас есть одно такое дело, которое
 <ce> нельзя доверить новичку. Вам выпала честь
@@ -26,13 +26,13 @@ RefuseQuest:  [1001]
 <ce> кто не трус. Я подожду еще.
 
 AcceptQuest:  [1002]
-<ce> Отправляйтесь в ___dngn_. Мы договорились о том, что наш
+<ce> Отправляйтесь в ___dungeon_. Мы договорились о том, что наш
 <ce> дорогой аристократ будет перенесен в его глубины
-<ce> через =dungeontimer_ дней. Заклинание "Разрыв волшебника"
+<ce> через =2dungeon_ дней. Заклинание "Разрыв волшебника"
 <ce> будет сопровождать телепортацию, чтобы предотвратить
 <ce> заклинание "Возврат", но оно развеется при обычном отдыхе.
 <ce> На завершение работы отводите не более семи часов. У нас
-<ce> есть =rwrd_ золотых, которые мы отдадим вам, когда дело
+<ce> есть =reward_ золотых, которые мы отдадим вам, когда дело
 <ce> будет завершено. А теперь идите. Во имя нашего блага
 <ce> вы не должны потерпеть неудачу в этом деле.
 
@@ -51,7 +51,7 @@ Message:  1020
 
 Message:  1021
 <ce> Помеченный Темным Братством уже
-<ce> должен был прибыть в ___dngn_.
+<ce> должен был прибыть в ___dungeon_.
 <ce> Нельзя терять время.
 
 Message:  1022
@@ -66,38 +66,38 @@ Message:  1022
 <ce> Зная, что конец близок, ваш клиент впадает
 <ce> в истерику предсмертных переговоров.
 <ce>
-<ce> "Нет! Нет, умоляю вас, остановитесь! Послушайте, я могу 
-<ce> вам помочь! У наемного убийцы наверняка запятнанная 
-<ce> репутация в %crn, и я могу помочь вам ее восстановить! 
-<ce> Просто оставьте меня в живых, и я клянусь жизнью %t, 
+<ce> "Нет! Нет, умоляю вас, остановитесь! Послушайте, я могу
+<ce> вам помочь! У наемного убийцы наверняка запятнанная
+<ce> репутация в %crn, и я могу помочь вам ее восстановить!
+<ce> Просто оставьте меня в живых, и я клянусь жизнью %t,
 <ce> что дам вам влияние, которого вы раньше не знали!"
 
 Message:  1023
 <ce> Похоже, что вы достигли соглашения. Ваш новый друг
 <ce> благодарит вас за доброту и клянется неустанно
 <ce> трудиться, чтобы дать вам новое имя в %crn.
-<ce> Вы предполагаете, что обещание будет выполнено, 
+<ce> Вы предполагаете, что обещание будет выполнено,
 <ce> так как повторить этот сценарий будет несложно.
 
 Message:  1030
 %qdt:
  _questgiver_ из Темного Братства,
- ___questgiver_, отправил меня 
- в ___dngn_, чтобы я ожидал прибытия
+ ___questgiver_, отправил меня
+ в ___dungeon_, чтобы я ожидал прибытия
  некоего аристократа в течение
- =dungeontimer_ дней. Я должен
+ =2dungeon_ дней. Я должен
  закончить работу до того, как будет
- наложено заклинание "Возврат". 
- Мне заплатят =rwrd_ золотых.
+ наложено заклинание "Возврат".
+ Мне заплатят =reward_ золотых.
 
 QBN:
-Item _rwrd_ gold range 1201 to 1399
+Item _reward_ gold range 1201 to 1399
 
 Person _questgiver_ group Questor male
 
-Place _dngn_ remote dungeon9
+Place _dungeon_ remote dungeon9
 
-Clock _dungeontimer_ 00:00 0 flag 1 range 0 2
+Clock _2dungeon_ 00:00 0 flag 1 range 0 2
 Clock _killtimer_ 07:15 09:00
 Clock _return_ 180.00:00
 
@@ -106,10 +106,10 @@ Foe _enemy2_ is Bard
 Foe _enemy3_ is Knight
 
 --	Quest start-up:
-	start timer _dungeontimer_
+	start timer _2dungeon_
 	log 1030 step 0
 	pick one of _E.01_ _E.02_ _E.03_
-	reveal _dngn_
+	reveal _dungeon_
 	pick one of _m1_ _m2_
 
 variable _E.01_
@@ -118,21 +118,21 @@ variable _E.03_
 variable _m1_
 variable _m2_
 
-_dungeontimer_ task:
+_2dungeon_ task:
 	say 1021
 	start timer _killtimer_
 
 _spawn1_ task:
-	when _E.01_ and _dungeontimer_
-	place foe _enemy1_ at _dngn_
+	when _E.01_ and _2dungeon_
+	place foe _enemy1_ at _dungeon_
 
 _spawn2_ task:
-	when _E.02_ and _dungeontimer_
-	place foe _enemy2_ at _dngn_
+	when _E.02_ and _2dungeon_
+	place foe _enemy2_ at _dungeon_
 
 _spawn3_ task:
-	when _E.03_ and _dungeontimer_
-	place foe _enemy3_ at _dngn_
+	when _E.03_ and _2dungeon_
+	place foe _enemy3_ at _dungeon_
 
 _inj_ task:
 	injured _enemy1_
@@ -172,7 +172,7 @@ _clearclick_ task:
 
 _pcgetsgold_ task:
 	when _qgclicked_ and _slain_
-	give pc _rwrd_
+	give pc _reward_
 	end quest
 
 _gainrep_ task:

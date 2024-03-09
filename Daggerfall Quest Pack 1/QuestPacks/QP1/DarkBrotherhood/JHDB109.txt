@@ -5,13 +5,13 @@ QRC:
 
 QuestorOffer:  [1000]
 <ce> У нас есть задача, которая должна была быть
-<ce> простой, если бы ее доверили кому-то 
-<ce> с минимальной компетенцией. Ребенка по имени _kdd_
-<ce> уже несколько недель держат в ___dngn_ в рамках
+<ce> простой, если бы ее доверили кому-то
+<ce> с минимальной компетенцией. Ребенка по имени _kid_
+<ce> уже несколько недель держат в ___dung_ в рамках
 <ce> заговора о выкупе. После того как мы потеряли
 <ce> связь на несколько дней, один из наших магически
-<ce> более одаренных членов обследовал это место 
-<ce> и обнаружил, что куратор мертв, а ребенок испуган 
+<ce> более одаренных членов обследовал это место
+<ce> и обнаружил, что куратор мертв, а ребенок испуган
 <ce> и одинок. Теперь деньги за выкуп поступили и ребенка
 <ce> нужно вернуть. Помогите Братству в этом
 <ce> затруднительном положении, %pcf.
@@ -21,10 +21,10 @@ RefuseQuest:  [1001]
 <ce> Мы можем отдать их кому-нибудь полезному.
 
 AcceptQuest:  [1002]
-<ce> =dngntimer_ дней будет достаточно, чтобы спуститься
-<ce> в ___dngn_ и забрать ребенка. Оттуда доставьте %g4 
-<ce> в ___home_ не более чем за =hometimer_ дней. Ребенка
-<ce> примет некто по имени _prnt_. Поспрашивайте вокруг,
+<ce> =2dung_ дней будет достаточно, чтобы спуститься
+<ce> в ___dung_ и забрать ребенка. Оттуда доставьте %g4
+<ce> в ___home_ не более чем за =2home_ дней. Ребенка
+<ce> примет некто по имени _parent_. Поспрашивайте вокруг,
 <ce> если не сможете найти %g4. Теперь идите.
 
 QuestComplete:  [1004]
@@ -45,96 +45,96 @@ QuestorPostfailure:  [1009]
 QuestLogEntry:  [1010]
 %qdt:
  Я должен вызволить ребенка из глубин
- ___dngn_ в течение =dngntimer_ дней, 
+ ___dung_ в течение =2dung_ дней,
  а затем добраться до ___home_ через
- =hometimer_ дней, чтобы получить выкуп
+ =2home_ дней, чтобы получить выкуп
  для Темного Братства.
 
 Message:  1011
-<ce> _kdd_ просто смотрит в безмолвном
-<ce> ужасе. ___dngn_ был неласков, 
+<ce> _kid_ просто смотрит в безмолвном
+<ce> ужасе. ___dung_ был неласков,
 <ce> но %g1 боится вас больше.
 <ce> Вы хватаете %g4 и уходите.
    <--->
-<ce> _kdd_ с ненавистью смотрит на вас.
+<ce> _kid_ с ненавистью смотрит на вас.
 <ce>
 <ce> "Однажды я стану большим сильным
-<ce> рыцарем и убью сотни людей 
+<ce> рыцарем и убью сотни людей
 <ce> из Темного Братства, таких, как вы!"
 <ce>
 <ce> Вы хватаете %g4 и двигаетесь дальше.
 
 Message:  1012
-<ce> Выкуп провалился. Поскольку вы 
+<ce> Выкуп провалился. Поскольку вы
 <ce> не получите денег, нет смысла больше
-<ce> удерживать _kdd_. Вы отсылаете %g4
+<ce> удерживать _kid_. Вы отсылаете %g4
 <ce> дальше по пути к ___home_ без вас.
 
 Message:  1013
-<ce> Как бы хорошо _kdd_ ни умел прятаться,
-<ce> %g1 не выжил бы в ___dngn_ так долго.
+<ce> Как бы хорошо _kid_ ни умел прятаться,
+<ce> %g1 не выжил бы в ___dung_ так долго.
 
 Message:  1016
-<ce> _kdd_ вырывается из вашей хватки и бежит
-<ce> к _prnt_. Эти двое обнимаются в течение
+<ce> _kid_ вырывается из вашей хватки и бежит
+<ce> к _parent_. Эти двое обнимаются в течение
 <ce> нескольких мгновений. Холодное молчание -
 <ce> достаточная причина, чтобы уйти.
 
 Message:  1017
-<ce> _kdd_ вырывается из вашей хватки и бежит
-<ce> к _prnt_, чтобы крепко обнять. Затем
+<ce> _kid_ вырывается из вашей хватки и бежит
+<ce> к _parent_, чтобы крепко обнять. Затем
 <ce> взрослый говорит:
 <ce>
 <ce> "Жалкий негодяй! Ты не уйдешь отсюда живым!"
 <ce>
-<ce> Затем _prnt_ берет дитя на руки
+<ce> Затем _parent_ берет дитя на руки
 <ce> и бросается вон из здания.
 
 QBN:
 
-Person _kdd_ faction Children
-Person _prnt_ group Local_3.0
+Person _kid_ faction Children
+Person _parent_ group Local_3.0
 
-Place _dngn_ remote dungeon5
+Place _dung_ remote dungeon5
 Place _home_ remote house
 
 Foe _enemy1_ is Rogue
 Foe _enemy2_ is Nightblade
 Foe _enemy3_ is Barbarian
 
-Clock _dngntimer_ 00:00 0 flag 1 range 0 2
-Clock _hometimer_ 15.00:00
+Clock _2dung_ 00:00 0 flag 1 range 0 2
+Clock _2home_ 15.00:00
 
 --	Quest start-up:
-	start timer _dngntimer_
-	reveal _dngn_
+	start timer _2dung_
+	reveal _dung_
 	log 1010 step 0
-	place npc _kdd_ at _dngn_
-	place npc _prnt_ at _home_
+	place npc _kid_ at _dung_
+	place npc _parent_ at _home_
 	pick one of _E.01_ _E.02_
 
 variable _E.01_
 variable _E.02_
-_dngntimer_ task:
-	start timer _hometimer_
+_2dung_ task:
+	start timer _2home_
 
 _cick_ task:
-	when _capture_ and _hometimer_
+	when _capture_ and _2home_
 	say 1012
 
 _cick2_ task:
-	when not _capture_ and _hometimer_
+	when not _capture_ and _2home_
 	say 1013
 
-_hometimer_ task:
-	hide npc _kdd_
+_2home_ task:
+	hide npc _kid_
 	end quest
 
 _capture_ task:
-	clicked npc _kdd_
-	hide npc _kdd_
+	clicked npc _kid_
+	hide npc _kid_
 	say 1011
-	add _kdd_ face
+	add _kid_ face
 
 _reward_ task:
 	when _pclicked_ and _capture_ and _E.01_
@@ -145,7 +145,7 @@ _reward_ task:
 _ambush_ task:
 	when _pclicked_ and _capture_ and _E.02_
 	say 1017
-	hide npc _prnt_
+	hide npc _parent_
 	create foe _enemy1_ every 0 minutes 1 times with 100% success
 	create foe _enemy2_ every 0 minutes 1 times with 50% success
 	create foe _enemy3_ every 0 minutes 1 times with 25% success
@@ -156,7 +156,7 @@ _ambush_ task:
 	end quest
 
 _pclicked_ task:
-	clicked npc _prnt_
+	clicked npc _parent_
 
 _S.04_ task:
 	when _pclicked_ and not _capture_

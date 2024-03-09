@@ -143,7 +143,7 @@ _got_ task:
 
 _delay_ task:
   say 1021
-  create foe _enemy_ every 6 minutes 2 times with 80% success
+  create foe _enemy_ every 600 minutes 2 times with 80% success
   create foe _enemy_ every 1 minutes 1 times with 80% success
 
 _infight_ task:
