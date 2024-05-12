@@ -1,6 +1,8 @@
 Quest: JHMG203
 DisplayName: Чернокнижник
 -- Message panels
+-- _questgiver_ - муж.
+-- _necr_ - муж.
 QRC:
 
 QuestorOffer:  [1000]
@@ -101,7 +103,7 @@ Message:  1030
 QBN:
 
 Person _questgiver_ group Questor male
-Person _necr_ group Spellcaster
+Person _necr_ group Spellcaster male
 
 Item _diam_ diamond
 

@@ -28,15 +28,14 @@ QuestFail:  [1003]
 <ce> чтобы сообщить о смерти зомби, истекли.
 
 QuestComplete:  [1004]
-<ce> Отличная работа! Такие вещи пугают большинство людей
-<ce> до смерти. Думаю, у вас есть будущее с нами. Позвольте
-<ce> мне забрать этот талисман, и вот ваше золото.
+<ce> Тогда держи. Серебро сразит любого придурка-скелета,
+<ce> с которым ты столкнешься. Поверь мне!
 
 RumorsDuringQuest:  [1005]
 Кто-то вывел гарпию в ___house_, но никто не может ее найти.
 
 QuestorPostSuccess:  [1008]
-Теперь, когда вы убили этого зомби, вы официально готовы 
+Теперь, когда вы убили этого зомби, вы официально готовы
 к большому делу. Что я могу вам предложить?
 
 QuestorPostFailure:  [1009]
@@ -54,8 +53,17 @@ Message:  1011
 <ce> Зомби мертв, а вы живы.
 <ce> Пора возвращаться в Гильдию Бойцов.
 
+Message:  1012
+<ce> Отличная работа! Такие вещи пугают большинство людей
+<ce> до смерти. Думаю, у вас есть будущее с нами. Позвольте
+<ce> мне забрать этот талисман. Скажите, вы больше любите
+<ce> сражаться булавой или длинным мечом?
+<ce>
+<ce> (ДА: Булава; НЕТ: Длинный меч)
+
 QBN:
-Item _reward_ gold range 101 to 199
+Item _reward1_ item class 3 subclass 7
+Item _reward2_ item class 3 subclass 11
 Item _tali_ talisman
 
 Person _qgiver_ group Questor male
@@ -73,10 +81,11 @@ Foe _enemy_ is Zombie
     get item _tali_
     _tali_ used do _halt_
     change foe _enemy_ infighting true
+    update-quest-item _reward1_ set-material Silver
+    update-quest-item _reward2_ set-material Silver
 
 _halt_ task:
     restrain foe _enemy_
-    clear _halt_
 
 _qgclicked_ task:
     clicked npc _qgiver_
@@ -88,7 +97,14 @@ _clearclick_ task:
 _pcgetsgold_ task:
     when _qgclicked_ and _slain_
     take _tali_ from pc
-    give pc _reward_
+    prompt 1012 yes _mace_ no _sword_
+
+_mace_ task:
+    give pc _reward2_
+    end quest
+
+_sword_ task:
+    give pc _reward1_
     end quest
 
 _slain_ task:

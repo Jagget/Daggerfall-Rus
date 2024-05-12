@@ -122,8 +122,6 @@ Message:  1099
 <ce> Они уже почти настигли нас!
 
 QBN:
-Item _gem_ gem
-
 Person _questgiver_ group Questor male
 
 Place _palace_ local palace
