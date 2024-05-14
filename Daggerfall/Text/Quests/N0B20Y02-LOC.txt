@@ -61,7 +61,7 @@ QuestComplete:  [1004]
 <ce> "Гильдия посылает свои поздравления за
 <ce> отлично проделанную работу. _sleepingmage_
 <ce> доволен. Вот _magicitem_, как и
-<ce> было обещано."
+<ce> было обещано".
 
 RumorsDuringQuest:  [1005]
 _sleepingmage_ - легенда в ___sleepingmage_.

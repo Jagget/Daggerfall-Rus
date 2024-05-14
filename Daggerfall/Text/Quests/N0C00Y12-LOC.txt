@@ -78,7 +78,7 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 <ce> "Я лучше умру, чем вернусь
-<ce> в лабораторию гильдии."
+<ce> в лабораторию гильдии".
 
 Message:  1020
 %qdt:
