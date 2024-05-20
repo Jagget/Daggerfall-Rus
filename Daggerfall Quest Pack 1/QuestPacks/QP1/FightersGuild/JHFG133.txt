@@ -86,7 +86,7 @@ Message:  1030
  есть 24 часа.
 
 QBN:
-Item _reward_ gold range 20 to 50
+Item _reward_ item class 2 subclass 1
 Item _sack_ small_sack
 
 Person _qgiver_ group Questor male
@@ -102,6 +102,7 @@ Clock _timer_ 1.00:00
     pc at any fighters do _inside_
     get item _sack_
     place npc _pers_ at _res_
+    update-quest-item _reward_ set-material Dwarven
 
 variable _inside_
 

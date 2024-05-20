@@ -103,7 +103,7 @@ Message:  1030
 QBN:
 
 Person _questgiver_ group Questor male
-Person _necr_ group Spellcaster male
+Person _necr_ group Spellcaster
 
 Item _diam_ diamond
 

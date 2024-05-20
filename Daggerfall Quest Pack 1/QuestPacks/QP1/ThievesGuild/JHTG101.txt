@@ -64,7 +64,7 @@ Message:  1013
 <ce> Вы уже слышите слабое стрекотание летучих мышей.
 
 QBN:
-Item _reward_ magic_item
+Item _reward_ gold range 2300 to 3000
 Item _chest_ item class 1 subclass 10
 
 Person _questgiver_ group Questor male

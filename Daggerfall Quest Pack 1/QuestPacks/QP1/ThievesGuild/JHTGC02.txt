@@ -18,10 +18,13 @@ QBN:
 
 Clock _endtimer_ 1:00 5:00
 
+Place _any_ remote house
+
 --	Quest start-up:
     start timer _endtimer_
 
 _endtimer_ task:
+    legal repute -200
     say 1004
-    legal repute +15
+    legal repute +100
     end quest

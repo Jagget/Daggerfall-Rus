@@ -144,7 +144,7 @@ Message:  1030
  и вернуться через =timer_ дней.
 
 QBN:
-Item _reward_ gold range 300 to 500
+Item _reward_ item class 3 subclass 5
 Item _smallreward_ gold range 50 to 99
 
 Place _dung_ remote dungeon0
@@ -224,6 +224,7 @@ _badreward_ task:
 
 _pcgetsgold_ task:
     when _qgclicked_ and _kidclick_ and not _badweapon_
+    update-quest-item _reward_ set-material Mithril
     start quest JHFGC05
     say 1018
     give pc _reward_

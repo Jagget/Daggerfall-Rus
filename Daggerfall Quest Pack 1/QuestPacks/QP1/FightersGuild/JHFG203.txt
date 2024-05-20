@@ -42,7 +42,7 @@ QuestFail:  [1003]
 <ce> уже зачистить ___manor_.
 
 QuestComplete:  [1004]
-<ce> Слуга грациозно кланяется вам и уходит.
+<ce> Слуга кланяется вам и уходит.
 <ce>
 <ce> "Да будет так".
 
@@ -93,7 +93,7 @@ Message:  1030
  я закончу в течение =timer_ дней.
 
 QBN:
-Item _reward_ gold range 600 to 800
+Item _reward_ gold range 1400 to 1500
 
 Place _manor_ remote poorhome
 

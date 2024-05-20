@@ -67,7 +67,7 @@ Message:  1030
  туда сегодня, пока они не сбежали из здания.
 
 QBN:
-Item _reward_ gold
+Item _reward_ gold range 400 to 600
 Item _letter_ letter used 1013
 
 Person _qgiver_ group Questor male

@@ -26,19 +26,14 @@ JHTG114, GeneralPopulace, M, 3, 0, a quest to participate in a gang war
 JHTG115, GeneralPopulace, M, 0, 0, a small daily heist
 JHTG116, GeneralPopulace, M, 0, 0, a moderate daily heist
 JHTG117, GeneralPopulace, M, 0, 0, a large daily heist
-JHTG118, GeneralPopulace, M, 0, 1, a quest to kidnap a child from a tavern
+JHTG118, GeneralPopulace, M, 1, 1, a quest to kidnap a child from a tavern
 JHTG119, GeneralPopulace, M, 7, 1, a quest to open a trapped black box
 JHTG120, GeneralPopulace, M, 3, 1, a quest to open a noble's box in a tavern
 JHTG121, GeneralPopulace, M, 1, 1, a quest to pickpocket a paper from a chin-scarred man
 JHTG122, GeneralPopulace, M, 3, 1, a quest to pickpocket a magical item from the Mages Guild
 JHTG123, GeneralPopulace, M, 1, 0, a quest to retrieve drugs from a dungeon
 JHTG124, GeneralPopulace, M, 5, 1, a quest to protect Viljas' magical skull
-JHTGX00, GeneralPopulace, M, 6, 1, a quest invitation from The Crow
-JHTGX01, GeneralPopulace, P, 0, X, offered via JHTG10X
-JHTGX02, GeneralPopulace, P, 0, X, offered via JHTG11X
-JHTGX03, GeneralPopulace, P, 0, X, offered via JHTG12X
-JHTGX04, GeneralPopulace, P, 0, X, offered via JHTG13X
-JHTGX05, GeneralPopulace, P, 0, X, offered via JHTG14X
-JHTGX06, GeneralPopulace, P, 0, X, offered via JHTG15X
-JHTGX07, GeneralPopulace, P, 0, X, offered via JHTG16X
+JHTG125, GeneralPopulace, M, 3, 1, a quest to deliver a cursed tome that drains life
 JHTG206, GeneralPopulace, M, 0, 0, a quest to steal research notes
+JHTGX00, GeneralPopulace, M, 6, 1, a quest invitation from The Crow
+JHTGY00, GeneralPopulace, M, 0, 0, recurring ability to restore legal reputation

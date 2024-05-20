@@ -155,7 +155,7 @@ Message:  1065
 <ce> Конечно, вампиры тоже могут быть вне закона.
 
 QBN:
-Item _reward_ gold range 1301 to 1600
+Item _reward_ gold range 600 to 800
 Item _survivegold_ gold range 2301 to 2600
 Item _body_ dead_body
 Item _magic_ magic_item

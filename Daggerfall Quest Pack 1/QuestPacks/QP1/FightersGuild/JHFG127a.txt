@@ -389,6 +389,8 @@ Item _reward_ gold range 1001 to 1499
 Item _body_ dead_body
 Item _warning_ letter used 1018
 Item _dummytimer_ gold range 6 to 15
+Item _waka_ item class 3 subclass 4
+Item _cuirass_ item class 2 subclass 0
 
 Foe _helpdb1_ is Rogue
 Foe _ambush_ is 3 Thief
@@ -474,7 +476,7 @@ _strike_ task:
 _thieftalk_ task:
     clicked npc _thief_
     say 1015
-    log 1032 step 2
+    log 1032 step 1
     place item _body_ at _temp_
 
 _attemple_ task:
@@ -490,13 +492,15 @@ _bodytalk_ task:
 _nextturn_ task:
     when _bodytalk_ and not _attemple_
     say 1019
-    log 1033 step 3
+    log 1033 step 1
     place npc _tele_ at _leave_
 
 _victory_ task:
     clicked npc _tele_
+    update-quest-item _cuirass_ set-material Dwarven
     take _tri_ from pc
-    give pc _reward_
+    say 1027
+    give pc _cuirass_
     change repute with _gendb_ by -15
     hide npc _tele_
     end quest
@@ -515,10 +519,12 @@ _dbconv_ task:
     prompt 1023 yes _allin_ no _poorly_
 
 _allin_ task:
+    update-quest-item _waka_ set-material Ebony
     say 1024
     change repute with _gendb_ by +10
     hide npc _db_
     make _tri_ permanent
+    give pc _waka_
     end quest
 
 _poorly_ task:

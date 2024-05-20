@@ -16,12 +16,12 @@ RefuseQuest:  [1001]
 <ce> если вы неправильно экипированы.
 
 AcceptQuest:  [1002]
-<ce> Это называется ___cemetery_,
+<ce> Это место называется ___cemetery_,
 <ce> довольно далеко отсюда. Люди не могут должным образом
 <ce> навестить своих умерших из-за бродящих вокруг скелетов,
 <ce> поэтому убедитесь, что их не осталось. По контракту вы
-<ce> должны обернуться в срок =timer_ дней, и вам выплатят
-<ce> =reward_ золотых. Счастливого пути.
+<ce> должны обернуться в срок =timer_ дней, и вам выдадут
+<ce> гномские поножи в качестве награды. Счастливого пути.
 
 QuestFail:  [1003]
 <ce> Ваше время сообщить Гильдии Бойцов об успехе
@@ -93,7 +93,7 @@ Message:  1015
 <ce> Ваша задача по уничтожению скелетов усложнилась.
 
 QBN:
-Item _reward_ gold range 300 to 500
+Item _reward_ item class 2 subclass 2
 
 Place _cemetery_ remote graveyard
 
@@ -109,6 +109,7 @@ Foe _lich_ is Lich
     pc at _cemetery_ set _inside_
     log 1010 step 0
     reveal _cemetery_
+    update-quest-item _reward_ set-material Dwarven
 
 variable _inside_
 _spawn_ task:

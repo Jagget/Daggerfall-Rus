@@ -23,7 +23,7 @@ AcceptQuest:  [1002]
 <ce> в ___fg_. Если повезет, вы найдете нашего бывшего
 <ce> друга в зале гильдии. Просто быстро покончите с этим
 <ce> и возвращайтесь сюда. Это официальное задание
-<ce> гильдии, поэтому вам заплатят =reward_ золотых,
+<ce> гильдии, и вам выдадут за это гномский боевой молот,
 <ce> но мы немного усложним текст контракта, чтобы убедиться,
 <ce> что на вас не повесят вину. Возвращайтесь
 <ce> через =timer_ дней, когда закончите.
@@ -34,7 +34,7 @@ QuestFail:  [1003]
 
 QuestComplete:  [1004]
 <ce> Кто-нибудь там поднял шум? Нет?
-<ce> Концы, как говорится, в воду. Вот ваше золото.
+<ce> Концы, как говорится, в воду. Вот ваш боевой молот.
 <ce> Ваш секрет в безопасности.
 
 RumorsDuringQuest:  [1005]
@@ -52,7 +52,7 @@ Message:  1030
  в течение =timer_ дней.
 
 QBN:
-Item _reward_ gold
+Item _reward_ item class 3 subclass 13
 Item _drug_ drug
 
 Person _qgiver_ group Questor male
@@ -70,6 +70,7 @@ Foe _enemy_ is Warrior
 	give item _drug_ to _enemy_
 	make _drug_ permanent
 	change foe _enemy_ infighting true
+	update-quest-item _reward_ set-material Dwarven
 
 _pcgetsgold_ task:
 	when _qgclicked_ and _slain_

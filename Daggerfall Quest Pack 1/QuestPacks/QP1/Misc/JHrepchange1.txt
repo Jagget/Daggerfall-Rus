@@ -1,0 +1,90 @@
+Quest: JHrepchange1
+DisplayName: Восстановление репутации 1
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> ERROR 1000 JHrepchange1
+
+RefuseQuest:  [1001]
+<ce> ERROR 1001 JHrepchange1
+
+AcceptQuest:  [1002]
+<ce> ERROR 1002 JHrepchange1
+
+QuestFail:  [1003]
+<ce> ERROR 1003 JHrepchange1
+
+QuestComplete:  [1004]
+<ce> Да? Да, %pcn. С вас 1000 золотых.
+<ce> Да, спасибо… Изменения станут очевидны раньше,
+<ce> чем вы ожидаете.
+<ce> Держитесь подальше от неприятностей.
+
+Message:  1010
+<ce> После некоторого обсуждения из другой комнаты
+<ce> появляется таинственная фигура и изучает ваше дело.
+<ce>
+<ce> «Посмотрим, %pcn. Здесь нечего особо обсуждать,
+<ce> по крайней мере, сейчас. _tg_ запросит 1000 золотых,
+<ce> чтобы вас оправдать. Направляйтесь в _res_
+<ce> и не задерживайтесь. Вас будут ждать
+<ce> не более двух дней. Это здесь, в городе,
+<ce> на %di отсюда».
+<ce>
+<ce> «Предупреждаю, что это не отменит изгнание,
+<ce> которое решается каждым городом индивидуально.
+<ce> Это лишь очистит ваше имя перед законом
+<ce> региона %crn».
+
+Message:  1011
+<ce> Да? Вы %pcn? Мне сказали, что вы должны
+<ce> заплатить 1000 золотых. Я не вижу этих денег
+<ce> при вас, и я не буду ничего предпринимать,
+<ce> пока вы не заплатите.
+
+Message:  1030
+%qdt:
+ Странствующий писец может «погасить» мои долги
+ перед законом региона ____res_.
+ Всего за 1000 золотых. Я могу найти
+ _tg_ в _res_, ___res_
+ в течение следующих двух дней.
+
+QBN:
+
+Person _tg_ faction Dancers
+
+Place _res_ local anywhere
+
+Clock _initial_ 2.00:00
+
+--	Quest start-up:
+	start timer _initial_
+  say 1010
+  place npc _tg_ at _res_
+  log 1030 step 0
+
+_initial_ task:
+  end quest
+
+_begin_ task:
+  clicked npc _tg_
+  start task _pay_
+
+_pay_ task:
+    pay 1000 money do _remit_ otherwise do _nomoney_
+
+_remit_ task:
+    clear _pay_
+    legal repute -200
+    start task _remit2_
+
+_remit2_ task:
+    legal repute +100
+    give pc nothing
+    end quest
+
+_nomoney_ task:
+    say 1011
+    clear _begin_ _pay_

@@ -112,6 +112,7 @@ Message:  1021
 <ce> передаете _friend_ в руки правосудия.
 <ce> Один из наемников вручает вам кошель,
 <ce> набитый деньгами, и группа уходит.
+<ce> В кошле вы находите =reward_ золотых.
 
 Message:  1022
 <ce> Наемники кивают друг другу
@@ -139,8 +140,8 @@ Message:  1032
 
 QBN:
 
-Item _reward_ gold
-Item _loot_ gold
+Item _reward_ gold range 300 to 500
+Item _loot_ gold range 2000 to 3000
 
 Foe _merc_ is 2 Knight
 Foe _frenemy_ is Bard
@@ -189,6 +190,7 @@ _found_ task:
 _obey_ task:
     say 1021
     get item _reward_
+    make _reward_ permanent
     drop _friend_ face
     end quest
 

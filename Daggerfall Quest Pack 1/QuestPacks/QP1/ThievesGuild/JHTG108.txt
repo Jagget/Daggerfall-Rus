@@ -46,7 +46,7 @@ QBN:
 Person _questgiver_ group Questor male
 
 Item _gem_ gem
-Item _reward_ magic_item
+Item _reward_ gold range 3500 to 4000
 
 Place _place_ remote tavern
 

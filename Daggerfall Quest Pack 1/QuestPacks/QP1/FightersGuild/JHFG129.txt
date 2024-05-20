@@ -152,7 +152,7 @@ Message:  1050
 <ce> не пригвоздили вашу тушу к городской стене!"
 
 QBN:
-Item _reward_ gold range 1000 to 1000
+Item _reward_ gold range 3000 to 4000
 
 Place _res_ local house
 
@@ -192,10 +192,6 @@ _begin_ task:
 
 _f0_ task:
        hide npc _pers_
--       start task _f_
--
--_f_ task:
--       create foe _rat_ every 0 minutes 1 times with 100% success
        place foe _rat_ at _res_
        change foe _rat_ infighting true
 

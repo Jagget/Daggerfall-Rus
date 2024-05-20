@@ -83,7 +83,7 @@ Message:  1030
  За это мне дадут =gold_ золотых.
 
 QBN:
-Item _gold_ gold range 150 to 200
+Item _gold_ gold range 850 to 1000
 Item _letter_ letter used 1011
 
 Place _tav_ local tavern
@@ -125,7 +125,7 @@ _bigfail_ task:
     say 1012
     remove log step 0
     stop timer _timer_
-    reduce player health by 5
+    reduce player health by 10
 
 _outside_ task:
     when _bigfail_ and not _inside_
