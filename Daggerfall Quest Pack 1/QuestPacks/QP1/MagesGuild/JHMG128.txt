@@ -1,0 +1,193 @@
+Quest: JHMG128
+DisplayName: Танец со смертью
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Орден Черного Червя пробудился в своем подземном
+<ce> логове и снова начал проводить свои некромантские
+<ce> ритуалы. Они поднимают древних мертвецов
+<ce> и терроризируют окрестности. Гильдия Магов сочла
+<ce> их возрождение угрозой и решила, что устранение
+<ce> их лидера замедлит их достаточно, чтобы
+<ce> позволить нам победить Орден. Лидер его базируется
+<ce> в древнем склепе. Мы поручаем вам выследить
+<ce> и уничтожить лидера Ордена. Вы согласны?
+
+RefuseQuest:  [1001]
+<ce> (вздох) Полагаю, придется подождать, пока появятся храбрецы.
+
+AcceptQuest:  [1002]
+<ce> Превосходно, %pct! Я говорю «его», но на самом деле
+<ce> я не знаю. У нас нет информации о личности этого
+<ce> лидера червей. На самом деле, даже называть их орденом -
+<ce> это преувеличение. Но тем не менее, вам нужно
+<ce> спуститься в ___dungeon_ и найти клинка ночи.
+<ce> Полезно также избавиться и от других магов, но они
+<ce> учатся у своего лидера. Без лидера все это предприятие
+<ce> развалится! У вас есть =timer_ дней, чтобы
+<ce> вернуться сюда и получить =reward_ золотых.
+
+QuestFail:  [1003]
+<ce> _qgiver_ ожидал, что вы уже уничтожили
+<ce> лидера Ордена Черного Червя к этому времени.
+
+QuestComplete:  [1004]
+<ce> Держу пари, у вас было там довольно захватывающее
+<ce> приключение! Волнующие воспоминания, которые стоит
+<ce> хранить, когда однажды вы состаритесь и будете
+<ce> писать мемуары. Но мы еще молоды, %pct!
+<ce> Наслаждайтесь своей наградой.
+
+Message:  1010
+<ce> Магическое присутствие здесь очевидно.
+<ce> Вы входите и наталкиваетесь на магию, как на стену,
+<ce> кажется, что все вокруг заполнено ею.
+<ce> Опытный маг мог бы обратить это заклинание себе
+<ce> на пользу, но это займет некоторое время,
+<ce> и в случае неудачи все станет только хуже.
+<ce>    
+<ce> Вы пытаетесь заставить миньонов Ордена служить вам?
+<ce>
+<ce> (ПРОВЕРКА НАВЫКА: ДА: Мистицизм, высокая сложность)
+
+Message:  1011
+<ce> (ПРОВЕРКА НАВЫКА ПРОЙДЕНА)
+<ce>        
+<ce> Это занимает некоторое время и истощает вас.
+<ce> Однако вы более искусны, чем лидер Ордена.
+<ce> Вы поворачиваете поток магии вспять,
+<ce> обращая его в свою пользу.
+<ce>        
+<ce> Многие из прислужников Ордена теперь будут подчиняться вам.
+
+Message:  1012
+<ce> (ПРОВЕРКА НАВЫКА ПРОВАЛЕНА)
+<ce>        
+<ce> Это занимает некоторое время и истощает вас.
+<ce> Однако ваши усилия только усиливают поток магии,
+<ce> и сила, пробуждающая неживых слуг, становится сильнее.
+<ce> Сквозь поток магии вы слышите смех лидера Ордена.
+<ce>        
+<ce> «Отлично сделано, имбецил! Я не против иметь больше контроля!»
+
+Message:  1013
+<ce> «Теперь ты меня не остановишь! Ни ты, никто другой!» -
+<ce> рычит на вас лидер Ордена.
+
+Message:  1014
+<ce> С гибелью лидера миньоны перестают пробуждаться.
+<ce> Этот «орден» скоро потеряет всю силу.
+
+Message:  1015
+<ce> Вы решаете пройти ___dungeon_, ничего не меняя.
+<ce> Кто знает, какие проблемы могли бы возникнуть
+<ce> от вмешательства в это заклинание.
+
+Message:  1016
+<ce> Один из мертвецов приближается к вам. Он делает
+<ce> неуклюжий поклон и воет: «Орден... заплатит!»
+
+Message:  1030
+%qdt:
+ __qgiver_ из ___qgiver_ велит
+ мне отправиться в ___dungeon_,
+ чтобы уничтожить Орден Черного Червя.
+ Мне нужно найти их лидера - клинка ночи
+ и покончить с угрозой, затем вернуться
+ в течение =timer_ дней за =reward_ золотых.
+
+QBN:
+Item _reward_ gold range 800 to 1000
+
+Person _qgiver_ group Questor male
+
+Place _dungeon_ remote dungeon
+
+Clock _timer_ 00:00 0 flag 17 range 0 2
+
+Foe _enemy_ is Nightblade
+Foe _enemy1_ is Zombie
+Foe _enemy2_ is Skeletal_warrior
+Foe _enemy3_ is Zombie
+Foe _enemy4_ is Skeletal_warrior
+
+--	Quest start-up:
+    start timer _timer_
+    log 1030 step 0
+    reveal _dungeon_
+    pc at _dungeon_ set _inside_
+    place foe _enemy_ at _dungeon_
+
+_inside_ task:
+    prompt 1010 yes _attempt_ no _avoid_
+    change foe _enemy_ team 13
+
+_avoid_ task:
+    say 1015
+
+variable _attempt_
+
+_skilled_ task:
+	when skill Mysticism is at least 65
+
+_bigwin_ task:
+	when _attempt_ and _skilled_
+    reduce player fatigue by 20
+    reduce player magicka by 20
+	say 1011
+
+_bigfail_ task:
+	when _attempt_ and not _skilled_
+    reduce player fatigue by 20
+    reduce player magicka by 20
+	say 1012
+
+_badspawn_ task:
+    when _bigfail_ and _inside_ and not _slain_
+    create foe _enemy1_ every 120 minutes indefinitely with 25% success
+    create foe _enemy2_ every 81 minutes indefinitely with 20% success
+
+_goodspawn_ task:
+    when _bigwin_ and _inside_ and not _slain_
+    create foe _enemy3_ every 120 minutes indefinitely with 25% success msg 1016
+    create foe _enemy4_ every 81 minutes indefinitely with 20% success msg 1016
+
+_infight_ task:
+    daily from 0:00 to 23:59
+    change foe _enemy1_ infighting true
+    change foe _enemy2_ infighting true
+    change foe _enemy3_ infighting true
+    change foe _enemy3_ team 1
+    change foe _enemy4_ infighting true
+    change foe _enemy4_ team 1
+    restrain foe _enemy3_
+    restrain foe _enemy4_
+    clear _infight_
+
+_inj_ task:
+    clicked foe _enemy_
+    injured _enemy_
+    say 1013
+    change foe _enemy_ infighting true
+
+_slain_ task:
+    killed _enemy_
+    say 1014
+
+_pcgetsgold_ task:
+	when _qgclicked_ and _slain_
+	give pc _reward_
+	end quest
+
+_qgclicked_ task:
+	clicked npc _qgiver_
+
+_clearclick_ task:
+	when _qgclicked_ and not _slain_
+    say 1015
+	clear _qgclicked_ _clearclick_
+
+_timer_ task:
+    say 1003
+    end quest

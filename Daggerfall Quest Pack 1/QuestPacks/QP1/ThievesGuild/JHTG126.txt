@@ -1,0 +1,127 @@
+Quest: JHTG126
+DisplayName: Ядовитая доставка
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Идиотам из ___house_ нужно преподать урок. Они вмешивались
+<ce> в наши дела там. Кто-то должен доставить им этот
+<ce> особый сундук, и если это будете вы,
+<ce> то ваши =reward_ золотых будут ждать вас.
+
+RefuseQuest:  [1001]
+<ce> Ладно. Дело настолько простое,
+<ce> что его могло бы выполнить животное.
+
+AcceptQuest:  [1002]
+<ce> Итак, этот сундук здесь никого не убьет.
+<ce> Может серьезно покалечить, но мы не Темное Братство.
+<ce> Его нужно доставить в _house_. Просто оставьте его внутри,
+<ce> и все остальное он сделает сам. У вас есть
+<ce> =timer_ дней, чтобы вернуться за своим золотом.
+
+QuestFail:  [1003]
+<ce> Вы уже должны были доложить о доставке сундука
+<ce> в ___house_ к этому моменту.
+
+QuestComplete:  [1004]
+<ce> Сундук задел и вас тоже? %oth.
+<ce> Это все еще новые технологии. Это было не намеренно, честно.
+<ce> Если бы мы хотели вас убить, вы уже были бы мертвы.
+<ce> Возьмите ваше золото и забудьте о том, что там произошло.
+
+QuestorPostsuccess:  [1008]
+Если у меня будут еще "специальные доставки", я обязательно сообщу вам.
+
+QuestLogEntry:  [1010]
+%qdt:
+ По заданию _qgiver_ из ___qgiver_
+ мне нужно поместить особый сундук
+ внутрь _house_ в ___house_.
+ Я получу =reward_ золотых,
+ если сделаю это и вернусь через =timer_ дней.
+
+Message:  1011
+<ce> Похоже, это и есть _house_.
+
+Message:  1012
+<ce> Вы ставите сундук на пол. Как только он касается земли,
+<ce> из него с тихим шипением начинает выделяться какой-то газ.
+<ce> Вам, наверное, стоит уйти отсюда.
+
+Message:  1013
+<ce> Теперь, находясь снаружи жилища, вы ощущаете
+<ce> эффекты токсичного газа. Вы вдохнули его
+<ce> всего чуть-чуть, но этого хватило,
+<ce> чтобы вы почувствовали воздействие.
+<ce> 
+<ce> К вам приближаются два недовольных типа.
+<ce> 
+<ce> "Опять Гильдия Воров. %oth!"
+<ce> 
+<ce> Они готовят оружие, явно намереваясь
+<ce> наказать вас за разгром их убежища.
+
+Message:  1014
+<ce> Вы уже доставили тот ящик, %pcf?
+
+QBN:
+Item _box_ item class 1 subclass 8
+Item _reward_ gold range 1001 to 1200
+
+Person _qgiver_ group Questor male
+
+Place _house_ remote house
+
+Clock _timer_ 00:00 0 flag 17 range 0 2
+
+Foe _enemy1_ is Rogue
+Foe _enemy2_ is Burglar
+
+--	Quest start-up:
+	start timer _timer_ 
+	log 1010 step 0
+	pc at _house_ set _inside_
+    get item _box_
+
+_inside_ task:
+    say 1011
+
+_dropped_ task:
+    dropped _box_ at _house_ saying 1012
+
+_healthtick_ task:
+    when inside_ and _dropped_
+    reduce player health by 3 every 2 seconds
+
+_ambush_ task:
+    when _dropped_ and not _inside_
+    start task _outer_
+
+_outer_ task:
+    say 1013
+    reduce player fatigue by 33
+    reduce player health by 20
+    create foe _enemy1_ every 0 minutes 1 times with 100% success
+    create foe _enemy2_ every 0 minutes 1 times with 100% success
+    change foe _enemy1_ infighting true
+    change foe _enemy2_ infighting true
+    change foe _enemy1_ team 0
+    change foe _enemy2_ team 0
+
+_qgclicked_ task:
+	clicked npc _qgiver_
+
+_questdone_ task:
+	when _dropped_ and _qgclicked_
+	give pc _reward_ 
+	end quest 
+
+_clearclick_ task:
+	when _qgclicked_ and not _dropped_
+    say 1014
+	clear _clearclick_ _qgclicked_
+
+_timer_ task:
+    say 1003
+	end quest 

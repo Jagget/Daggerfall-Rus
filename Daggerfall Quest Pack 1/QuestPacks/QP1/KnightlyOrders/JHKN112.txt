@@ -1,0 +1,163 @@
+Quest: JHKN112
+DisplayName: Проклятие лича
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> %t редко предлагают награду за задания, тем более
+<ce> денежную. Тем не менее, одному рыцарю предстоит получить
+<ce> десять тысяч золотых за смертельно опасное
+<ce> погружение в некие глубины. Древний лич должен быть
+<ce> уничтожен, но он наложил на свое логово проклятие,
+<ce> способное убить любого незваного гостя, пробывшего там
+<ce> двенадцать часов. Если вы возьметесь за это, %pct, ваше
+<ce> мастерство должно уступать только вашей скорости.
+
+RefuseQuest:  [1001]
+<ce> Я предпочитаю, чтобы мои рыцари оставались в живых. Хороший выбор.
+
+AcceptQuest:  [1002]
+<ce> Я отмечу ___dung_ на вашей карте. Там вы найдете врага.
+<ce> Если вам нужно отдохнуть, делайте это за пределами
+<ce> пещеры. Если вы проведете внутри двенадцать часов,
+<ce> то погибнете. %t отменят награду через =timer_ дней,
+<ce> так что планируйте свое путешествие таким образом,
+<ce> чтобы успеть вернуться. И пожалуйста, берегите себя.
+
+QuestFail:  [1003]
+<ce> Вы должны были уничтожить лича и вернуться
+<ce> в __questgiver_ к этому времени.
+
+QuestComplete:  [1004]
+<ce> Услышав о вашем успехе, _questgiver_ хлопает
+<ce> в ладоши, и вам вручают десять тысяч золотых. 
+<ce> Воцарилась торжественная тишина.
+<ce> 
+<ce> «Мне нечего больше добавить. Вы действительно рыцарь,
+<ce> достойный почестей. Мы будем восхвалять ваше имя!»
+
+Message:  1010
+<ce> Лич продолжает поддерживать магию своего проклятия,
+<ce> но тем не менее собирается сразиться с вами.
+
+Message:  1011
+<ce> Наконец, маг-нежить падает, и вся энергия вокруг вас
+<ce> рассеивается. Вы свободны от его проклятия, как и эта 
+<ce> пещера.
+
+Message:  1012
+<ce> Гулкий шепот наполняет ваши уши. Лич, должно быть,
+<ce> усердно трудится. Вы чувствуете, как разъедающая
+<ce> энергия медленно, но верно связывает вас.
+
+Message:  1013
+<ce> В воздухе вокруг вас продолжают скапливаться какие-то
+<ce> миазмы. Дышать становится трудно, и временами ваше
+<ce> зрение затуманивается. Вы провели уже четыре часа
+<ce> внутри ___dung_.
+
+Message:  1014
+<ce> Ваши суставы болят, а мышцы горят. Теперь все дается
+<ce> с трудом. Вы провели уже восемь часов внутри ___dung_.
+<ce> Некоторые искатели приключений задумались бы,
+<ce> стоит ли продолжать это дело.
+
+Message:  1015
+<ce> Внезапно происходит едва заметный сдвиг воздуха.
+<ce> Все окружающие вас миазмы сливаются.
+<ce> Они вторгаются в ваше тело, и заставляют все
+<ce> остановиться, включая сердце, мозг и легкие.
+<ce> Ваша смерть мгновенна и безболезненна.
+
+Message:  1016
+<ce> Находясь за пределами глубин, вы все еще чувствуете
+<ce> энергию на себе, но она не усиливается.
+<ce> Здесь вы можете безопасно отдохнуть.
+
+Message:  1030
+%qdt:
+ Мне должны заплатить 10000 золотых,
+ если я смогу победить древнего лича,
+ который обитает в ___dung_. Мне нужно
+ вернуться в ___questgiver_ и сообщить
+ о своем успехе в течение =timer_ дней.
+
+QBN:
+Person _questgiver_ group Questor male
+
+Clock _timer_ 00:00 0 flag 1 range 0 2
+Clock _timer1_ 4:00
+Clock _timer2_ 8:00
+Clock _timer3_ 12:00
+
+Place _dung_ remote dungeon
+
+Foe _enemy_ is Ancient_lich
+
+Item _reward_ gold range 10000 to 10000
+
+--	Quest start-up:
+	start timer _timer_
+	log 1030 step 0
+	reveal _dung_
+    place foe _enemy_ at _dung_
+    pc at _dung_ set _inside_
+
+_inside_ task:
+    say 1012
+    start task _message_
+
+variable _message_
+
+_killtimer_ task:
+    when _inside_ and not _slain_
+    start timer _timer1_
+    start timer _timer2_
+    start timer _timer3_
+
+_notinside_ task:
+    when _message_ and not _inside_ and not _slain_
+    say 1016
+    stop timer _timer1_
+    stop timer _timer2_
+    stop timer _timer3_
+    
+_timer1_ task:
+    say 1013
+    
+_timer2_ task:
+    say 1014
+    
+_timer3_ task:
+    say 1015
+    reduce player health by 100 every 1 seconds can kill
+
+_inj_ task:
+    clicked foe _enemy_
+    injured _enemy_
+    say 1010
+    change foe _enemy_ infighting true
+
+_slain_ task:
+    killed _enemy_
+    say 1011
+    stop timer _timer1_
+    stop timer _timer2_
+    stop timer _timer3_
+
+_victory_ task:
+	when _qgclicked_ and _slain_
+	give pc _reward_
+	legal repute +5
+	end quest
+
+_qgclicked_ task:
+	clicked npc _questgiver_
+
+_clearclick_ task:
+    when _qgclicked_ and not _slain_
+    clear _qgclicked_ _clearclick_
+
+_timer_ task:
+    say 1003
+	end quest

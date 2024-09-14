@@ -1,0 +1,123 @@
+Quest: JHTG129
+DisplayName: Вернуть книгу
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Хотите чем-то заняться? О! О, да, это довольно простое дело,
+<ce> но я все же запишу его в регистр гильдии, если вы мне поможете.
+<ce> Эту вещь, эту смешную маленькую книжку нужно вернуть
+<ce> в _house_, это на %di отсюда, и сделать это как можно скорее.
+<ce> То есть, эм, в течение следующих двух часов.
+<ce> Вы быстро бегаете, %pct?
+
+RefuseQuest:  [1001]
+<ce> О, нет. Мне совсем не хочется идти туда самому.
+
+AcceptQuest:  [1002]
+<ce> Ах, замечательно! Вот это хороший ответ.
+<ce> Да, вы быстро подниметесь в ранге, точно вам говорю!
+<ce> Ну что ж, возьмите эту книгу. Называется "_book_".
+<ce> Мне, эм, было некогда ее вернуть и теперь мне
+<ce> нужно сделать это до возвращения моего хорошего друга,
+<ce> а это всего через несколько часов. Мне все равно,
+<ce> где вы ее оставите, лишь бы книга оказалась
+<ce> внутри _house_. Благополучного вам возвращения!
+
+QuestFail:  [1003]
+<ce> Вы уже должны были доложить о возвращении книги
+<ce> в _house_ к этому моменту.
+
+QuestComplete:  [1004]
+<ce> Монстры?! %oth, это проблема! Вы... Прошу прощения,
+<ce> я собирался спросить, выжили ли вы, но... Простите,
+<ce> мой разум уже не так быстр, как раньше. Я искренне надеюсь,
+<ce> что городская стража или кто-то другой справится с тем,
+<ce> с чем не смогли вы. Пожалуйста, держите это в секрете,
+<ce> как говорится. Да? Пожалуйста?
+
+QuestorPostsuccess:  [1008]
+Отличного вам дня, %pct!
+
+QuestLogEntry:  [1010]
+%qdt:
+ По просьбе _qgiver_ из ___qgiver_
+ мне нужно отнести книгу под названием
+ _book_
+ и оставить ее внутри _house_ в ___house_.
+ У меня есть всего два часа,
+ чтобы доложить об этом __qgiver_.
+
+Message:  1011
+<ce> Что-то происходит внутри _house_. Вы слышите шум
+<ce> чего-то дикого и опасного, и, похоже,
+<ce> что это что-то на свободе.
+
+Message:  1012
+<ce> Вы оставили книгу внутри.
+<ce> Теперь пора возвращаться к __qgiver_.
+
+Message:  1013
+<ce> Вы спаслись из _house_, но слышите
+<ce> что-то еще поблизости. Похоже, ваше вторжение
+<ce> в дом разбудило второе существо, и оно
+<ce> намерено защищать свою территорию.
+
+Message:  1014
+<ce> Да? _house_? Отсюда идите на %di. Пожалуйста,
+<ce> доставьте книгу в течение двух часов.
+
+QBN:
+Item _book_ book
+
+Person _qgiver_ group Questor male
+
+Place _house_ local house
+
+Clock _timer_ 2:00
+
+Foe _enemy1_ is Ice_atronach
+Foe _enemy2_ is Fire_atronach
+
+--	Quest start-up:
+	start timer _timer_ 
+	log 1010 step 0
+	pc at _house_ set _inside_
+    get item _book_
+
+_inside_ task:
+    say 1011
+    start task _spawn1_
+
+_spawn1_ task:
+    create foe _enemy1_ every 0 minutes 1 times with 100% success
+    change foe _enemy1_ infighting true
+
+_dropped_ task:
+    dropped _book_ at _house_ saying 1012
+
+_outside_ task:
+    when _dropped_ and not _inside_
+    start task _spawn2_
+
+_spawn2_ task:
+    say 1013
+    create foe _enemy2_ every 0 minutes 1 times with 100% success
+    change foe _enemy2_ infighting true
+
+_qgclicked_ task:
+	clicked npc _qgiver_
+
+_questdone_ task:
+	when _dropped_ and _qgclicked_
+	give pc nothing 
+	end quest 
+
+_clearclick_ task:
+	when _qgclicked_ and not _dropped_
+    say 1014
+	clear _clearclick_ _qgclicked_
+
+_timer_ task:
+    say 1003
+	end quest 
